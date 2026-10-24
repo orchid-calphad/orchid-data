@@ -1,10 +1,10 @@
 # Pu–U system
 
-> Pu–U system: 14 accepted literature values (heat capacity / entropy / enthalpy 12, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–U system: 8 accepted literature values (heat capacity / entropy / enthalpy 6, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-U.html · Markdown: https://data.orchid-project.org/systems/PU-U.md
 
-14 accepted literature values from 2 paper(s) (experimental 6, model 8); 4 calculated phase diagram(s).
+8 accepted literature values from 2 paper(s) (experimental 3, model 5); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-U.json) · [CSV](https://data.orchid-project.org/systems/PU-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-U/PuU-10Kur.json) · [phases (12)](https://data.orchid-project.org/phases/pages/PU-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-U.html) · [Markdown](https://data.orchid-project.org/systems/PU-U.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 8 |
+| experimental | 3 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| heat capacity / entropy / enthalpy | 12 |
+| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -88,22 +88,16 @@ Table: Phase transition, Pu–U system
 | Phase transition | 881.15 K | 881.15 |  | model | [1] Perron 2015; _cites Perron 2014_ [doi](https://doi.org/10.1016/j.jnucmat.2014.07.051) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
 | Phase transition | 892.15 K | 892.15 |  | model | [1] Perron 2015; _cites Kurata 2009_ [doi](https://doi.org/10.1088/1757-899x/9/1/012022) | p. 10 | “In addition, a small liquid region is still present at the Pu-rich corner, and corresponds to the low minimum-melting temperature calculated for the Pu-U binary by Kurata (619 °C, \[8\]) and Perron et al. (608 °C, \[19\]).” |
 
-### Heat capacity / entropy / enthalpy (12)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Pu–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: heat capacity_ | 38.5 J/mol-atom/K | 673 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2 |  |
-| Heat capacity; _printed: heat capacity_ | 37.5 J/mol-atom/K | 673 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1 |  |
 | Heat capacity; _printed: Cp_ | 38.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 2 |  |
 | Heat capacity; _printed: Cp_ | 37.5 J/mol-atom/K | 673 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 1 |  |
-| Heat capacity; _printed: heat capacity_ | 42.1 J/mol-atom/K | 773 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4 |  |
-| Heat capacity; _printed: heat capacity_ | 40.8 J/mol-atom/K | 773 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3 |  |
 | Heat capacity; _printed: Cp_ | 42.1 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 4 |  |
 | Heat capacity; _printed: Cp_ | 40.8 J/mol-atom/K | 773 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 3 |  |
-| Heat capacity; _printed: heat capacity_ | 44.5 J/mol-atom/K | 840 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6 |  |
-| Heat capacity; _printed: heat capacity_ | 43.3 J/mol-atom/K | 840 | UNKNOWN; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5 |  |
 | Heat capacity; _printed: Cp_ | 44.5 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | experimental | [2] Kurata 1999; _cites ref. 11Chi_ | Table 3, p. 17, row 6 |  |
 | Heat capacity; _printed: Cp_ | 43.3 J/mol-atom/K | 840 | α; _alloy: Pu 0.1, U 0.9_ | model | [2] Kurata 1999 | Table 3, p. 17, row 5 |  |
 

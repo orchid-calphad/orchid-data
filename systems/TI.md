@@ -1,6 +1,6 @@
 # Ti system
 
-> Ti system: 57 accepted literature values (heat capacity / entropy / enthalpy 33, formation 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti system: 57 accepted literature values (heat capacity / entropy / enthalpy 57) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI.html · Markdown: https://data.orchid-project.org/systems/TI.md
 
@@ -20,52 +20,11 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 24 |
-| heat capacity / entropy / enthalpy | 33 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Ti system (19)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| bcc |  | 6.029 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
-| bcc |  | 7.062 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
-| bcc |  | 9.649 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
-| bcc |  | 10.295 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
-| bcc |  | 10.517 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
-| bcc |  | 10.556 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
-| bcc |  | 10.619 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
-| fcc |  | 5.403 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
-| fcc |  | 5.438 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
-| fcc |  | 5.509 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
-| fcc |  | 5.91 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
-| fcc |  | 6 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 7 |  |
-| fcc |  | 6.77 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
-| ω |  | -1.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
-| ω |  | -0.788 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Argaman 2015_ [doi](https://doi.org/10.1088/2053-1591/2/1/016505) | Table 4, p. 5, row 5 |  |
-| ω |  | -0.579 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
-| ω |  | -0.571 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
-| ω |  | -0.214 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
-| ω |  | -0.203 kJ/mol (basis unstated) | 0 | model |  |  | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
+| heat capacity / entropy / enthalpy | 57 |
 
 ## Other properties
 
-### Formation (5)
-
-Table: Formation, Ti system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfusS°_ | 7.355 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.481 J/mol (basis unstated)/K ± 0.25 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.295 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16 |  |
-
-### Heat capacity / entropy / enthalpy (33)
+### Heat capacity / entropy / enthalpy (57)
 
 Table: Heat capacity / entropy / enthalpy, Ti system
 
@@ -104,6 +63,30 @@ Table: Heat capacity / entropy / enthalpy, Ti system
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4813 J/mol | 298.15 | Ti | experimental | [1] Hu 2020; _cites Kothen 1952_ | Table 3, p. 4, row 7 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4830 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4824 J/mol | 298.15 | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 10.295 kJ/mol (basis unstated) | 0 | bcc | DFT | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 10.517 kJ/mol (basis unstated) | 0 | bcc | model | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 9.649 kJ/mol (basis unstated) | 0 | bcc | DFT | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 10.556 kJ/mol (basis unstated) | 0 | bcc | model | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 10.619 kJ/mol (basis unstated) | 0 | bcc | DFT | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 6.029 kJ/mol (basis unstated) | 0 | bcc | model | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
+| hm lattice stability; _printed: ΔEbcc-hcp_ | 7.062 kJ/mol (basis unstated) | 0 | bcc | model | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 5.509 kJ/mol (basis unstated) | 0 | fcc | DFT | [1] Hu 2020; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 4, p. 5, row 2 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 6 kJ/mol (basis unstated) | 0 | fcc | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 7 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 5.403 kJ/mol (basis unstated) | 0 | fcc | DFT | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 5.438 kJ/mol (basis unstated) | 0 | fcc | DFT | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 5.91 kJ/mol (basis unstated) | 0 | fcc | model | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
+| hm lattice stability; _printed: ΔEfcc-hcp_ | 6.77 kJ/mol (basis unstated) | 0 | fcc | model | [1] Hu 2020; _cites Vrest 2012_ | Table 4, p. 5, row 4 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -0.579 kJ/mol (basis unstated) | 0 | ω | model | [1] Hu 2020; _cites Hu 2010_ [doi](https://doi.org/10.1063/1.3407560) | Table 4, p. 5, row 3 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -1.351 kJ/mol (basis unstated) | 0 | ω | DFT | [1] Hu 2020; _cites The_ | Table 4, p. 5, row 6 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -0.203 kJ/mol (basis unstated) | 0 | ω | model | [1] Hu 2020; _cites Mei 2009_ [doi](https://doi.org/10.1103/physrevb.80.104116) | Table 4, p. 5, row 1 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -0.571 kJ/mol (basis unstated) | 0 | ω | DFT | [1] Hu 2020 | Table 4, p. 5, row 8 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -0.214 kJ/mol (basis unstated) | 0 | ω | model | [1] Hu 2020 | Table 4, p. 5, row 9 |  |
+| hm lattice stability; _printed: ΔEω-hcp_ | -0.788 kJ/mol (basis unstated) | 0 | ω | model | [1] Hu 2020; _cites Argaman 2015_ [doi](https://doi.org/10.1088/2053-1591/2/1/016505) | Table 4, p. 5, row 5 |  |
+| sm fusion; _printed: ΔfusS°_ | 7.355 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020 | Table 3, p. 4, row 22 |  |
+| sm fusion; _printed: ΔfusS°_ | 7.481 J/mol (basis unstated)/K ± 0.25 |  | Ti | model | [1] Hu 2020; _cites Desai 1987_ [doi](https://doi.org/10.1007/bf00500794) | Table 3, p. 4, row 19 |  |
+| sm fusion; _printed: ΔfusS°_ | 7.295 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 3, p. 4, row 20 |  |
+| sm fusion; _printed: ΔfusS°_ | 7.288 J/mol (basis unstated)/K |  | Ti | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 4, row 21 |  |
+| sm fusion; _printed: ΔfusS°_ | 6.823 J/mol (basis unstated)/K ± 0.25 | 298.15 | Ti | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 3, p. 4, row 16 |  |
 
 ## Sources
 

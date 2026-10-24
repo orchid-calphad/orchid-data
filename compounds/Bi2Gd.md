@@ -1,33 +1,29 @@
 # Bi2Gd: enthalpy of formation
 
-> Enthalpy of formation of Bi2Gd: 14 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi2Gd: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi2Gd.html · Markdown: https://data.orchid-project.org/compounds/Bi2Gd.md
 
-14 accepted literature formation-enthalpy value(s) (model 7, DFT 7); OQMD -55.782 kJ/mol-atom (oqmd-1800951).
+10 accepted literature formation-enthalpy value(s) (model 5, DFT 5); OQMD -55.782 kJ/mol-atom (oqmd-1800951).
 
-Systems: [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
+Systems: [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) · [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi2Gd reported in the literature (14)
+Table: Enthalpy of formation of Bi2Gd reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -67 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
-| -67 kJ/mol-atom | GdBi2(GdSb2–2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
 | -67 kJ/mol-atom | GdBi2(EuSb2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13 |  |
-| -67 kJ/mol-atom | GdBi2(EuBi2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
+| -67 kJ/mol-atom | GdBi2(EuBi2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
 | -67 kJ/mol-atom | GdBi2(YbSb2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19 |  |
 | -67 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
-| -67 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
 | -56.8759 kJ/mol-atom | GdBi2(EuSb2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
 | -56.8396 kJ/mol-atom | GdBi2(YbSb2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
-| -54.0316 kJ/mol-atom | GdBi2(EuBi2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
+| -54.0316 kJ/mol-atom | GdBi2(EuBi2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
 | -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
-| -53.812 kJ/mol-atom | GdBi2(GdSb2–2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
 | -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
-| -21.5319 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
 
 ## DFT formation energies
 

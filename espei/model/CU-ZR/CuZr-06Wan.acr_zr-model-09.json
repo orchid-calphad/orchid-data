@@ -32,7 +32,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X6Y4FTGPAN.f54536 ORC-XEDXRMDT4P.f31b53",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-X6Y4FTGPAN.1fb007 ORC-XEDXRMDT4P.549211",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -74,7 +74,7 @@
   "evidence_class": "model",
   "observations": [
    {
-    "id": "ORC-X6Y4FTGPAN.f54536",
+    "id": "ORC-X6Y4FTGPAN.1fb007",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
     "measured_in": "doi:10.1016/j.calphad.2006.06.002",
@@ -83,7 +83,7 @@
     ]
    },
    {
-    "id": "ORC-XEDXRMDT4P.f31b53",
+    "id": "ORC-XEDXRMDT4P.549211",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
     "measured_in": "doi:10.1016/j.calphad.2006.06.002",
@@ -147,12 +147,12 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-X6Y4FTGPAN.f54536",
+    "id": "ORC-X6Y4FTGPAN.1fb007",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-XEDXRMDT4P.f31b53",
+    "id": "ORC-XEDXRMDT4P.549211",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

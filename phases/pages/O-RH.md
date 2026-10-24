@@ -243,7 +243,7 @@ _assessment that models this phase_
 - Id: `phase:o-rh:rh2o3-d51`; status `assigned`
 - Structure: alpha-Al2O3 · D5_1 · hR10 · R-3c (167); type `st:d5-1-alpha-al2o3-hr10`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1423.78 K, x(O) 0.6–0.6
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 13 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-rh:rh2o3-d51)
 
 Names (4): _corpus: _corpus:phase:o-rh:rh2o3-d51  

@@ -56,7 +56,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ag 0.7846, Y 0.2154
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1212.06 K, x(Y) 0.21538–0.21538
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 8 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-y:ag51y14)
 
 Names (3): _corpus: _corpus:phase:ag-y:ag51y14  
@@ -201,7 +201,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-y:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1068.96–2500 K, x(Y) 0–1
-- Literature: 22 values (22 accepted) from 1 papers
+- Literature: 22 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-y:liquid)
 
 Names (3): _corpus: _corpus:phase:ag-y:liquid  

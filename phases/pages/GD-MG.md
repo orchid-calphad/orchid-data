@@ -20,7 +20,7 @@ Table: Phases of the Gd–Mg system (12)
 | [GDMG_B2](#phase-gd-mg-gdmg-b2); _phase:gd-mg:gdmg-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1141.67 K, x(Mg) 0.5–0.5 | 14 | 1 |
 | [GDMG2_C15](#phase-gd-mg-gdmg2-c15); _phase:gd-mg:gdmg2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1033.16 K, x(Mg) 0.66667–0.66667 | 15 | 2 |
 | [GDMG3_D03](#phase-gd-mg-gdmg3-d03); _phase:gd-mg:gdmg3-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–993.02 K, x(Mg) 0.73721–0.76378 | 15 | 5 |
-| [GDMG5](#phase-gd-mg-gdmg5); _phase:gd-mg:gdmg5_ | Cd45Sm11 · cF448 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–929.39 K, x(Mg) 0.83333–0.83921 | 18 | 5 |
+| [GDMG5](#phase-gd-mg-gdmg5); _phase:gd-mg:gdmg5_ | Cd45Sm11 · cF448 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–929.39 K, x(Mg) 0.83333–0.83921 | 17 | 5 |
 | [GDMG7](#phase-gd-mg-gdmg7); _phase:gd-mg:gdmg7_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300.54–1768 K, x(Mg) 0–1 | 0 | 2 |
 | [HCP_A3](#phase-gd-mg-hcp-a3); _phase:gd-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 7 calculated diagram(s): 300–2499.89 K, x(Mg) 0–1 | 15 | 7 |
 | [LIQUID](#phase-gd-mg-liquid); _phase:gd-mg:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 820.94–2500 K, x(Mg) 0–1 | 38 | 5 |
@@ -482,11 +482,11 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–929.39 K, x(Mg) 0.83333–0.83921
-- Literature: 18 values (18 accepted) from 3 papers
+- Literature: 17 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-mg:gdmg5)
 
-Names (9): _corpus: _corpus:phase:gd-mg:gdmg5  
-_paper: _paper:10.1016/j.calphad.2006.10.004:Mg5Gd, paper:10.1016/j.jallcom.2013.07.042:GdMg5, paper:10.1016/j.scriptamat.2010.01.035:GdMg5  
+Names (8): _corpus: _corpus:phase:gd-mg:gdmg5  
+_paper: _paper:10.1016/j.calphad.2006.10.004:Mg5Gd, paper:10.1016/j.jallcom.2013.07.042:GdMg5  
 _tdb: _tdb:GdMg-03Cac-LB.tdb:GDMG5, tdb:GdMg-07Guo.tdb:GDMG5, tdb:GdMg-13Ham.tdb:GDMG5, tdb:GdMg-20Wu.tdb:GDMG5, tdb:GdMg-23Lon.tdb:GDMG5  
 
 
@@ -527,7 +527,7 @@ _tdb: _tdb:GdMg-03Cac-LB.tdb:GDMG5, tdb:GdMg-07Guo.tdb:GDMG5, tdb:GdMg-13Ham.tdb
 81: CONST GDMG5 : GD% MG : MG : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2013.07.042](https://doi.org/10.1016/j.jallcom.2013.07.042) M. Hampl, C. Blawert, M.R. Silva Campos, N. Hort, Q. Peng, K.U. Kainer et al., Thermodynamic assessment and experimental study of Mg–Gd alloys, Journal of Alloys and Compounds 581, 166-177 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -541,8 +541,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/0022-5088(86)90135-9](https://doi.org/10.1016/0022-5088%2886%2990135-9) P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).  
 _cited as the source of values for this phase_
-- [doi:10.1016/j.scriptamat.2010.01.035](https://doi.org/10.1016/j.scriptamat.2010.01.035) Joachim Gröbner, Rainer Schmid-Fetzer, Thermodynamic modeling of the Mg–Ce–Gd–Y system, Scripta Materialia 63, 674-679 (2010).  
-_reports values for this phase_
 
 ## GDMG7 (Gd–Mg)
 

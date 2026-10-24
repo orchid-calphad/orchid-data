@@ -1,10 +1,10 @@
 # Hf–Si system
 
-> Hf–Si system: 70 accepted literature values (invariant reaction 42, crystal structure 14, formation 11, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Si system: 65 accepted literature values (invariant reaction 41, crystal structure 14, formation 7, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-SI.html · Markdown: https://data.orchid-project.org/systems/HF-SI.md
 
-70 accepted literature values from 3 paper(s) (experimental 31, model 22, unspecified 17); 3 calculated phase diagram(s).
+65 accepted literature values from 2 paper(s) (experimental 26, model 22, unspecified 17); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-SI.json) · [CSV](https://data.orchid-project.org/systems/HF-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-SI/HfSi-00Zha-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HF-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-SI.html) · [Markdown](https://data.orchid-project.org/systems/HF-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
+| experimental | 26 |
 | model | 22 |
 | unspecified | 17 |
 
@@ -20,10 +20,10 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
+| invariant reaction | 41 |
 | phase transition | 2 |
 | phase equilibrium | 1 |
-| formation | 11 |
+| formation | 7 |
 | crystal structure | 14 |
 
 ## Calculated phase diagrams
@@ -112,7 +112,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Si system (42)
+Table: Invariant reactions reported in the literature for the Hf–Si system (41)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -145,7 +145,6 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (42
 | 2104.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.115; Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 1 |  |
 | 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2 |  |
 | 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1 |  |
-| 2023 | peritectic: Liquid +HfO2 (Monoclinic) → HfSiO4 |  | experimental | [3] Shin 2006 | p. 9 | “The enthalpy of formation of HfSiO4 is obtained from first-principles calculations and the entropy of formation is evaluated from its peritectic reaction, Liquid +HfO2 (Monoclinic) → HfSiO4 , at 2023 K as reported by” |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4 |  |
 | 2016.15 | bcc(Hf)->hcp(Hf) | bcc(Hf): Si 0 | model | [1] Yang 2003 | Table 3, p. 3, row 18 |  |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3 |  |
@@ -163,7 +162,7 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (42
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Si system (11)
+Table: Enthalpies of formation, Hf–Si system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -174,10 +173,6 @@ Table: Enthalpies of formation, Hf–Si system (11)
 | HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom | 298 | unspecified | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 13 |  |
 | HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom ± 4.6 | 298 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12 |  |
 | HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -70.9 kJ/mol-atom ± 2 | 1473 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 3, p. 3, row 15 |  |
-| UNKNOWN |  | -80 kJ/mol-atom ± 4.7 | 1473 | experimental |  |  | [2] Zhao 2000; _cites Topor 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990292-r) | Table 3, p. 3, row 9 |  |
-| UNKNOWN |  | -71.1 kJ/mol-atom ± 4.6 | 298 | experimental |  |  | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12 |  |
-| UNKNOWN |  | -70.9 kJ/mol-atom ± 2 | 1473 | experimental |  |  | [2] Zhao 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 3, p. 3, row 15 |  |
-| UNKNOWN |  | -70.2 kJ/mol-atom ± 3.3 | 298 | experimental |  |  | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 4 |  |
 
 ## Other properties
 
@@ -225,7 +220,6 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Y Yang, Y.A Chang, J.-C Zhao, B.P Bewlay, Thermodynamic modeling of the Nb–Hf–Si ternary system, Intermetallics 11, 407-415 (2003). [doi:10.1016/s0966-9795(03)00021-9](https://doi.org/10.1016/s0966-9795%2803%2900021-9)
 2. J. -C. Zhao, B. P. Bewlay, M. R. Jackson, Q. Chen, Hf-Si binary phase diagram determination and thermodynamic modeling, JPE 21, 40-45 (2000). [doi:10.1361/105497100770340408](https://doi.org/10.1361/105497100770340408)
-3. Dongwon Shin, Raymundo Arróyave, Zi-Kui Liu, Thermodynamic modeling of the Hf–Si–O system, Calphad 30, 375-386 (2006). [doi:10.1016/j.calphad.2006.08.006](https://doi.org/10.1016/j.calphad.2006.08.006)
 
 ## Please cite
 

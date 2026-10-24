@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 78 accepted literature values (formation 40, crystal structure 26, phase transition 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 62 accepted literature values (crystal structure 26, formation 24, phase transition 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-78 accepted literature values from 2 paper(s) (experimental 40, model 10, DFT 2, unspecified 26); 0 calculated phase diagram(s).
+62 accepted literature values from 2 paper(s) (experimental 28, model 7, DFT 1, unspecified 26); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
-| model | 10 |
-| DFT | 2 |
+| experimental | 28 |
+| model | 7 |
+| DFT | 1 |
 | unspecified | 26 |
 
 Table: Accepted values by property group
@@ -22,14 +22,14 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 12 |
-| formation | 40 |
+| formation | 24 |
 | crystal structure | 26 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, H–La–Ni system (32)
+Table: Enthalpies of formation, H–La–Ni system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -49,22 +49,6 @@ Table: Enthalpies of formation, H–La–Ni system (32)
 | LaNi5Hx |  | -19 kJ/mol-atom | 324 | experimental |  |  | [1] Palumbo 2009; _cites J 1970_ | Table 1, p. 2, row 9 |  |
 | LaNi5Hx |  | -18.8 kJ/mol-atom | 363 | experimental |  |  | [1] Palumbo 2009; _cites H 1976_ | Table 1, p. 2, row 8 |  |
 | LaNi5Hx |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12 |  |
-| UNKNOWN |  | -63.7 kJ/mol-atom | 917 | experimental |  |  | [1] Palumbo 2009; _cites Dantzer 1980_ [doi](https://doi.org/10.1016/0022-4596%2880%2990460-0) | Table 1, p. 2, row 2 |  |
-| UNKNOWN |  | -63.6 kJ/mol-atom | 917 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 1 |  |
-| UNKNOWN |  | -21 kJ/mol-atom | 298 | DFT |  |  | [1] Palumbo 2009; _cites Hector 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901324-5) | Table 1, p. 2, row 20 |  |
-| UNKNOWN |  | -20.1 kJ/mol-atom | 223.5 | model |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 10 |  |
-| UNKNOWN |  | -20 kJ/mol-atom | 285 | experimental |  |  | [1] Palumbo 2009; _cites Murray 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990093-x) | Table 1, p. 2, row 18 |  |
-| UNKNOWN |  | -19.9 kJ/mol-atom | 320.5 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 11 |  |
-| UNKNOWN |  | -19.7 kJ/mol-atom | 298 | experimental |  |  | [1] Palumbo 2009; _cites Hubbard 1980_ | Table 1, p. 2, row 19 |  |
-| UNKNOWN |  | -19.6 kJ/mol-atom | 296.5 | experimental |  |  | [1] Palumbo 2009; _cites Biris 2009_ | Table 1, p. 2, row 13 |  |
-| UNKNOWN |  | -19.6 kJ/mol-atom | 273.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 15 |  |
-| UNKNOWN |  | -19.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 14 |  |
-| UNKNOWN |  | -19.3 kJ/mol-atom | 296 | experimental |  |  | [1] Palumbo 2009; _cites Pedziwiatr 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990158-5) | Table 1, p. 2, row 17 |  |
-| UNKNOWN |  | -19.2 kJ/mol-atom | 298 | experimental |  |  | [1] Palumbo 2009; _cites Bowerman 1979_ [doi](https://doi.org/10.1524/zpch.1979.116.116.197) | Table 1, p. 2, row 7 |  |
-| UNKNOWN |  | -19.1 kJ/mol-atom | 195 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 16 |  |
-| UNKNOWN |  | -19 kJ/mol-atom | 324 | experimental |  |  | [1] Palumbo 2009; _cites J 1970_ | Table 1, p. 2, row 9 |  |
-| UNKNOWN |  | -18.8 kJ/mol-atom | 363 | experimental |  |  | [1] Palumbo 2009; _cites H 1976_ | Table 1, p. 2, row 8 |  |
-| UNKNOWN |  | -18.8 kJ/mol-atom | 320.5 | experimental |  |  | [1] Palumbo 2009; _cites Anderson 1973_ | Table 1, p. 2, row 12 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Cr–La–O system
 
-> Cr–La–O system: 61 accepted literature values (phase transition 26, formation 13, heat capacity / entropy / enthalpy 12, activity / EMF / Gibbs energy 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–La–O system: 56 accepted literature values (phase transition 26, heat capacity / entropy / enthalpy 12, formation 11, activity / EMF / Gibbs energy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-LA-O.html · Markdown: https://data.orchid-project.org/systems/CR-LA-O.md
 
-61 accepted literature values from 1 paper(s) (experimental 37, model 24); 0 calculated phase diagram(s).
+56 accepted literature values from 1 paper(s) (experimental 33, model 23); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-LA-O.json) · [CSV](https://data.orchid-project.org/systems/CR-LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-LA-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-LA-O.html) · [Markdown](https://data.orchid-project.org/systems/CR-LA-O.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
-| model | 24 |
+| experimental | 33 |
+| model | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 26 |
-| formation | 13 |
+| formation | 11 |
 | heat capacity / entropy / enthalpy | 12 |
-| activity / EMF / Gibbs energy | 10 |
+| activity / EMF / Gibbs energy | 7 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–La–O system (13)
+Table: Enthalpies of formation, Cr–La–O system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -43,8 +43,6 @@ Table: Enthalpies of formation, Cr–La–O system (13)
 | Rhombohedral LaCrO3 |  | -273.64 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 1 |  |
 | Rhombohedral LaCrO3 |  | -14.74 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
 | Rhombohedral LaCrO3 |  | -12.47 kJ/mol-atom | 975 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 3 |  |
-| UNKNOWN |  | -3961 kJ/mol (basis unstated) ± 11.7 | 298 | model |  |  | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20 |  |
-| UNKNOWN |  | -14.612 kJ/mol-atom ± 2.79 | 1078 | experimental |  |  | [1] Povoden 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 3, row 4 |  |
 
 ## Other properties
 
@@ -100,7 +98,7 @@ Table: Heat capacity / entropy / enthalpy, Cr–La–O system
 | Heat content; _printed: H - H298 K_ | 133.05 kJ mol^-1 | 298.15 | Rhombohedral LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 13 |  |
 | Heat content; _printed: H - H298 K_ | 98.19 kJ mol^-1 | 298.15 | Rhombohedral LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 11 |  |
 
-### Activity / EMF / Gibbs energy (10)
+### Activity / EMF / Gibbs energy (7)
 
 Table: Activity / EMF / Gibbs energy, Cr–La–O system
 
@@ -109,12 +107,9 @@ Table: Activity / EMF / Gibbs energy, Cr–La–O system
 | Gibbs energy; _printed: Δ°G_ | -42.29 unknown ± 0.38 | 1273 | LaCrO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Dudek 2007_ | Table 1, p. 3, row 8 |  |
 | Gibbs energy; _printed: Δ°G_ | -30.1 unknown ± 1.5 | 1273 | LaCrO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Chen 1987_ | Table 1, p. 3, row 7 |  |
 | Gibbs energy; _printed: Δ°G_ | -76.75 kJ mol−1 | 1273 | LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 6 |  |
-| Gibbs energy; _printed: Δ°G_ | -42.29 unknown ± 0.38 | 1273 | UNKNOWN; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Dudek 2007_ | Table 1, p. 3, row 8 |  |
-| Gibbs energy; _printed: Δ°G_ | -30.1 unknown ± 1.5 | 1273 | UNKNOWN; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Chen 1987_ | Table 1, p. 3, row 7 |  |
 | Gibbs energy; _printed: Δ°G_ | -76.75 kJ mol^-1 | 1273 | UNKNOWN; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 6 |  |
 | Gibbs energy; _printed: Δ°G_ | -78.9 unknown ± 1.1 | 2100 | LaCrO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Peck 1996_ [doi](https://doi.org/10.1111/j.1151-2916.1996.tb08104.x) | Table 1, p. 3, row 10 |  |
 | Gibbs energy; _printed: Δ°G_ | -79.52 kJ mol−1 | 2100 | LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 9 |  |
-| Gibbs energy; _printed: Δ°G_ | -78.9 unknown ± 1.1 | 2100 | UNKNOWN; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Peck 1996_ [doi](https://doi.org/10.1111/j.1151-2916.1996.tb08104.x) | Table 1, p. 3, row 10 |  |
 | Gibbs energy; _printed: Δ°G_ | -79.52 kJ mol^-1 | 2100 | UNKNOWN; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 9 |  |
 
 ## Sources

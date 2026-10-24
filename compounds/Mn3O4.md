@@ -1,16 +1,16 @@
 # Mn3O4: enthalpy of formation
 
-> Enthalpy of formation of Mn3O4: 37 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Mn3O4: 24 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mn3O4.html · Markdown: https://data.orchid-project.org/compounds/Mn3O4.md
 
-37 accepted literature formation-enthalpy value(s) (experimental 19, model 14, unspecified 4); experimental median -196.78 kJ/mol-atom (n = 19); Materials Project -197.834 kJ/mol-atom (mp-aaaabbtn); OQMD -200.053 kJ/mol-atom (oqmd-5975).
+24 accepted literature formation-enthalpy value(s) (experimental 12, model 12); experimental median -199.785 kJ/mol-atom (n = 12); Materials Project -197.834 kJ/mol-atom (mp-aaaabbtn); OQMD -200.053 kJ/mol-atom (oqmd-5975).
 
 Systems: [Mn–O](https://data.orchid-project.org/systems/MN-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mn3O4 reported in the literature (37)
+Table: Enthalpy of formation of Mn3O4 reported in the literature (24)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -26,13 +26,6 @@ Table: Enthalpy of formation of Mn3O4 reported in the literature (37)
 | -196.78 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 14 |  |
 | -196.181 kJ/mol-atom | Mn3O4 | 298.15 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 58 |  |
 | -196.181 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | experimental | combustion | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 13 |  |
-| 196.181 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Le 1896_ | Table 1, p. 5, row 1 |  |
-| 196.78 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 1, p. 5, row 2 |  |
-| 198.156 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Mah 1960_ | Table 1, p. 5, row 7 |  |
-| 198.216 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Robie 1968_ | Table 1, p. 5, row 8 |  |
-| 198.364 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 1, p. 5, row 6 |  |
-| 201.266 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Siemonsen 1939_ | Table 1, p. 5, row 4 |  |
-| 206.35 kJ/mol-atom | Mn3O4 | 298.15 | experimental |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 1, p. 5, row 3 |  |
 | -198.397 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 21 |  |
 | -198.397 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 66 |  |
 | -198.216 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 20 |  |
@@ -45,12 +38,6 @@ Table: Enthalpy of formation of Mn3O4 reported in the literature (37)
 | -198.014 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 67 |  |
 | -197.534 kJ/mol-atom | Mn3O4 | 298.15 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 69 |  |
 | -197.534 kJ/mol-atom | Hausmannite (Mn3O4) | 298 | model | assessed | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [1] Grundy 2003 | Table 11, p. 16, row 24 |  |
-| 197.534 kJ/mol-atom | Mn3O4 | 298.15 | model |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Grundy 2003_ | Table 1, p. 5, row 12 |  |
-| 197.914 kJ/mol-atom | Mn3O4 | 298.15 | model |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010 | Table 1, p. 5, row 13 |  |
-| 198.014 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Knacke 2010_ | Table 1, p. 5, row 10 |  |
-| 198.2 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | Table 1, p. 5, row 11 |  |
-| 198.397 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 9 |  |
-| 201.206 kJ/mol-atom | Mn3O4 | 298.15 | unspecified |  | [Mn–O](https://data.orchid-project.org/systems/MN-O.html) | [2] Kjellqvist 2010; _cites Ulich 1940_ | Table 1, p. 5, row 5 |  |
 
 ## DFT formation energies
 
@@ -68,7 +55,6 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 ## Sources
 
 1. A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003). [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6)
-2. Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010). [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6)
 
 ## Please cite
 

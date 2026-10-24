@@ -94,10 +94,12 @@
   "observations": [
    {
     "id": "ORC-NDXLFHOPGY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.04.066"
    },
    {
     "id": "ORC-5HCOJEUICN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.04.066"
    }
   ],

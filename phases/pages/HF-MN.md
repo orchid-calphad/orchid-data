@@ -307,7 +307,7 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1481.02–4000 K, x(Mn) 0–1
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 11 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-mn:liquid)
 
 Names (5): _corpus: _corpus:phase:hf-mn:liquid  

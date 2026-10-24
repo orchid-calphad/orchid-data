@@ -1,10 +1,10 @@
 # Bi–Se–Te system
 
-> Bi–Se–Te system: 114 accepted literature values (formation 51, invariant reaction 32, crystal structure 31) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Se–Te system: 113 accepted literature values (formation 50, invariant reaction 32, crystal structure 31) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SE-TE.html · Markdown: https://data.orchid-project.org/systems/BI-SE-TE.md
 
-114 accepted literature values from 1 paper(s) (experimental 76, model 6, DFT 19, unspecified 13); 0 calculated phase diagram(s).
+113 accepted literature values from 1 paper(s) (experimental 75, model 6, DFT 19, unspecified 13); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SE-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SE-TE.html) · [Markdown](https://data.orchid-project.org/systems/BI-SE-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 75 |
 | model | 6 |
 | DFT | 19 |
 | unspecified | 13 |
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| formation | 51 |
+| formation | 50 |
 | crystal structure | 31 |
 
 ## Invariant reactions (literature)
@@ -68,7 +68,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se–Te syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–Se–Te system (51)
+Table: Enthalpies of formation, Bi–Se–Te system (50)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -105,7 +105,6 @@ Table: Enthalpies of formation, Bi–Se–Te system (51)
 | Bi4Se3 | [Bi4Se3](https://data.orchid-project.org/compounds/Bi4Se3.html) | -27.685 kJ/mol-atom | 298.15 | experimental | -45.563 (mp-aaaabovv) | -26.325 (oqmd-3871) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 83 |  |
 | Bi4Se3 |  | -26.341 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 85 |  |
 | Bi4Te3 | [Bi4Te3](https://data.orchid-project.org/compounds/Bi4Te3.html) | -11.717 kJ/mol-atom | 298.15 | experimental | -34.084 (mp-aaaabptt) | -16.486 (oqmd-5865) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 103 |  |
-| Bi4Te3, | [Bi4Te3](https://data.orchid-project.org/compounds/Bi4Te3.html) | 11.717 kJ/mol-atom | 298.15 | experimental | -34.084 (mp-aaaabptt) | -16.486 (oqmd-5865) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 103 |  |
 | Bi4Te5 |  | -16.578 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 100 |  |
 | Bi7Te3 |  | -13.54 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 105 |  |
 | Bi8Se7 |  | -51.813 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 79 |  |

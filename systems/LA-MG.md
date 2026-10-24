@@ -1,10 +1,10 @@
 # La–Mg system
 
-> La–Mg system: 141 accepted literature values (invariant reaction 96, phase transition 27, phase equilibrium 18) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg system: 140 accepted literature values (invariant reaction 96, phase transition 26, phase equilibrium 18) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG.html · Markdown: https://data.orchid-project.org/systems/LA-MG.md
 
-141 accepted literature values from 5 paper(s) (experimental 74, model 45, unspecified 22); 6 calculated phase diagram(s).
+140 accepted literature values from 5 paper(s) (experimental 74, model 44, unspecified 22); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG.json) · [CSV](https://data.orchid-project.org/systems/LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MG/LaMg-04Guo-LB.json) · [phases (18)](https://data.orchid-project.org/phases/pages/LA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 74 |
-| model | 45 |
+| model | 44 |
 | unspecified | 22 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 96 |
-| phase transition | 27 |
+| phase transition | 26 |
 | phase equilibrium | 18 |
 
 ## Calculated phase diagrams
@@ -266,7 +266,7 @@ Table: Invariant reactions reported in the literature for the La–Mg system (96
 
 ## Other properties
 
-### Phase transition (27)
+### Phase transition (26)
 
 Table: Phase transition, La–Mg system
 
@@ -286,7 +286,6 @@ Table: Phase transition, La–Mg system
 | Phase transition | 998.15 K | 998.15 | other | experimental | [3] Zhang 2016; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 1 | “However, the decomposing temperature is questionable due to the inconsistence of the results from Vogel and Henmann (626 C) \[7\] and Manfrinetti and Gschneidner (725 C) \[8\].” |
 | Phase transition | 1008.15 K | 1008.15 | peritectic: L + LaMg2 → LaMg | experimental | [3] Zhang 2016 | Table 4, p. 5, row 1 |  |
 | Phase transition | 1014.15 K | 1014.15 | other: L / L + LaMg3 | experimental | [3] Zhang 2016 | Table 4, p. 5, row 15 |  |
-| Phase transition | 1018 K | 1018 | liq + LaMg2 → LaMg | model | [2] Guo 2004; _cites Nayeb-Hashemi 1988_ [doi](https://doi.org/10.1007/bf02890558) | p. 4 | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
 | Phase transition | 1018 K | 1018 | liq → LaMg + LaMg2 | model | [2] Guo 2004 | p. 4 | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |
 | Phase transition | 1027.15 K | 1027.15 | LþLaMg2/LaMg | model | [4] Zhu 2018 | p. 6 | “In order to match the stability of LaMg2 above 388 C and the reaction type of LþLaMg2/LaMg at 754 C, the Gibbs free energy of LaMg2 was modified.” |
 | Phase transition | 1028 K | 1028 | liq → LaMg | model | [2] Guo 2004 | p. 4 | “In the present work, it is described as liq → LaMg at 1028 K and liq → LaMg + LaMg2 at 1018 K instead of liq + LaMg2 → LaMg at 1018 K reported by Nayeb-Hashemi and Clark \[6\].” |

@@ -26,17 +26,17 @@ Papers without a DOI: 1756 (ids derived from first author, year and title, flagg
 Crossref records: 7784 found, 28 DOIs unknown to Crossref (404),
 0 not fetched; retrieved 2026-10-23 to 2026-10-23.
 DOIs matched from a printed reference, checked against Crossref (first author, year +-1, title, journal):
-5385 verified, 104 weak (kept, flagged),
+5384 verified, 103 weak (kept, flagged),
 23 unverifiable (no Crossref record); 19 mismatched
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
 printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
 DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
-Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
+Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4125.
 
 | edge type | edges |
 |---|---:|
-| `cites` | 3793 |
-| `used_in_assessment` | 3793 |
+| `cites` | 3789 |
+| `used_in_assessment` | 3789 |
 | `models_system_in_tdb` | 3757 |
 | `reassesses` | 1536 |
 | `handbook_reproduces` | 2466 |

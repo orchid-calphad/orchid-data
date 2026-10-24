@@ -268,7 +268,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in NiTi-96Bel-LB.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiTi-99Tan.tdb also describes the disordered state
 - Stability: stable in 9 of 9 calculated diagram(s): 300–2499.93 K, x(Ti) 0.42452–1
-- Literature: 37 values (37 accepted) from 2 papers
+- Literature: 37 values (36 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:bcc-b2)
 
 Names (13): _corpus: _corpus:phase:ni-ti:bcc-b2, corpus:phase:ni-ti:b2-bcc  
@@ -668,7 +668,7 @@ _assessment that models this phase_
 - Id: `phase:ni-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 13 of 13 calculated diagram(s): 1212.05–2500 K, x(Ti) 0–1
-- Literature: 34 values (34 accepted) from 4 papers
+- Literature: 34 values (33 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:liquid)
 
 Names (18): _corpus: _corpus:phase:ni-ti:liquid  

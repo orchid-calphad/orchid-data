@@ -26,6 +26,7 @@
    1573.0,
    1673.0,
    1393.0,
+   1233.0,
    963.0,
    868.0
   ]
@@ -230,6 +231,26 @@
   ],
   [
    [
+    "B2_BCC",
+    [
+     "TI"
+    ],
+    [
+     0.667
+    ]
+   ],
+   [
+    "PDTI_C11B",
+    [
+     "TI"
+    ],
+    [
+     0.666667
+    ]
+   ]
+  ],
+  [
+   [
     "BCC_A2",
     [
      "TI"
@@ -294,7 +315,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CZ2AHL5GME ORC-6I3HKKPBIB ORC-TO4AE3MPGD ORC-V5WGWC7DU6 ORC-RIEM7QSELG ORC-HKMNQMF66W ORC-YNBOK5LT6M ORC-VKX4IKEQWS ORC-RFGZ3XFQMB ORC-VB4M53OTUQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CZ2AHL5GME ORC-6I3HKKPBIB ORC-TO4AE3MPGD ORC-V5WGWC7DU6 ORC-RIEM7QSELG ORC-HKMNQMF66W ORC-YNBOK5LT6M ORC-VKX4IKEQWS ORC-ACAMZCSYR4 ORC-RFGZ3XFQMB ORC-VB4M53OTUQ",
  "bibtex": "guo2011_52e876",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -302,42 +323,57 @@
   "observations": [
    {
     "id": "ORC-CZ2AHL5GME",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-6I3HKKPBIB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-TO4AE3MPGD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-V5WGWC7DU6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-RIEM7QSELG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-HKMNQMF66W",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-YNBOK5LT6M",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-VKX4IKEQWS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.07.004"
+   },
+   {
+    "id": "ORC-ACAMZCSYR4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-RFGZ3XFQMB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    },
    {
     "id": "ORC-VB4M53OTUQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.004"
    }
   ],
@@ -351,12 +387,15 @@
    "10.1016/j.calphad.2011.07.004",
    "10.1016/j.msea.2006.01.120"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PdTi-11Guo/zpf-00.json",
-  "values_dropped": 1
+  "source_dataset": "db-v2.1/invariants/espei/PdTi-11Guo/zpf-00.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -447,6 +486,11 @@
    },
    {
     "id": "ORC-VKX4IKEQWS",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-ACAMZCSYR4",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

@@ -147,8 +147,8 @@ _assessment that models this phase_
 - Literature: 50 values (50 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-yb:liquid)
 
-Names (7): _corpus: _corpus:phase:ni-yb:liquid  
-_paper: _paper:10.1007/s10973-016-5380-3:L, paper:10.1007/s10973-016-5380-3:Liq, paper:10.1007/s10973-016-5380-3:Liq2, paper:10.1016/j.calphad.2017.09.004:L  
+Names (5): _corpus: _corpus:phase:ni-yb:liquid  
+_paper: _paper:10.1007/s10973-016-5380-3:L, paper:10.1016/j.calphad.2017.09.004:L  
 _tdb: _tdb:NiYb-16Kar.tdb:LIQUID, tdb:NiYb-17Hu.tdb:LIQUID  
 
 

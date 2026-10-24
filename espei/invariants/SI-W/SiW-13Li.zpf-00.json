@@ -74,11 +74,13 @@
   "observations": [
    {
     "id": "ORC-BD5OOXPGP3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.04.004",
     "measured_in": "ref:80b658b784cab38f"
    },
    {
     "id": "ORC-U3SV5XRCFC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.04.004",
     "measured_in": "ref:80b658b784cab38f",
     "also_reported_as": [

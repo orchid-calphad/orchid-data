@@ -262,7 +262,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ho 0.6000, Ni 0.4000
 - Stability: stable in 2 of 2 calculated diagram(s): 1030.24–1254.92 K, x(Ni) 0.4–0.4
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 15 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-ni:ho3ni2-ht)
 
 Names (5): _corpus: _corpus:phase:ho-ni:ho3ni2-ht  

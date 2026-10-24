@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-CE.html · Markdown: https://data.orchid-project.org/systems/AL-CE.md
 
-45 accepted literature values from 3 paper(s) (experimental 17, model 28); 4 calculated phase diagram(s).
+45 accepted literature values from 3 paper(s) (experimental 18, model 27); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CE.json) · [CSV](https://data.orchid-project.org/systems/AL-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CE/AlCe-01Cac.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CE.html) · [Markdown](https://data.orchid-project.org/systems/AL-CE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 28 |
+| experimental | 18 |
+| model | 27 |
 
 Table: Accepted values by property group
 
@@ -182,7 +182,7 @@ Table: Phase transition, Al–Ce system
 | Phase transition | 1246.15 K | 1246.15 | polymorphic | model | [3] Gao 2005 | p. 1 | “Based on current differential thermal analysis (DTA) measurements and theoretical calculations, it is also proposed that there is an /Al3Ce polymorphous transition occurring at 973 °C in the Al-Ce system and an /Al3Nd polymorphous transition occurring at 888 °C in the Al-Nd system.” |
 | Phase transition | 1246.15 K | 1246.15 | polymorphic | experimental | [3] Gao 2005 | p. 7 | “From the DTA measurements, it is shown that there is a high probability that an /Al3Ce polymorphous transition will occur at 973 °C in the Al-Ce system and, likewise, that an /Al3Nd transition will occur at 888 °C in the Al-Nd system.” |
 | Phase transition | 1290 K | 1290 | βCe3Al11 -> αCe3Al11; _βCe3Al11: Ce 0.2143; αCe3Al11: Ce 0.2143_ | model | [1] Cacciamani 2001 | Table 3, p. 7, row 2 |  |
-| Phase transition | 1293.15 K | 1293.15 |  | model | [3] Gao 2005 | p. 8 | “The Al11Ce3 is formed eutectoidally from Al4Ce and Al3Ce; the transformation temperature is not identified in this study, but is proposed to be at 1020 °C, the /Al11Ce3 transition temperature originally reported by Buschow.\[8\]” |
+| Phase transition | 1293.15 K | 1293.15 |  | experimental | [3] Gao 2005 | p. 8 | “The Al11Ce3 is formed eutectoidally from Al4Ce and Al3Ce; the transformation temperature is not identified in this study, but is proposed to be at 1020 °C, the /Al11Ce3 transition temperature originally reported by Buschow.\[8\]” |
 | Phase transition | 1728.15 K | 1728.15 | congruent transformation | experimental | [3] Gao 2005 | p. 8 | “The Al2Ce is found to melt congruently at 1455 °C, while it was reported as 1480 °C.\[8\]” |
 | Phase transition | 1748 K | 1748 | Liquid -> CeAl2; _Liquid: Ce 0.3357; CeAl2: Ce 0.3357_ | model | [1] Cacciamani 2001 | Table 3, p. 7, row 5 |  |
 | Phase transition | 1752 K | 1752 | congruent melting: Laves-C15\* -> Liquid; _Laves-C15\*: Ce 0.333; Liquid: Ce 0.333_ | model | [2] Hämäläinen 1998 | Table I, p. 38, row 8 |  |

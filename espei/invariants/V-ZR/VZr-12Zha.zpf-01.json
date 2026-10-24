@@ -123,14 +123,17 @@
   "observations": [
    {
     "id": "ORC-FAPGRPATPS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.003"
    },
    {
     "id": "ORC-3KQZCHQIIT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.003"
    },
    {
     "id": "ORC-HJM7PK3IFD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.07.003"
    }
   ],

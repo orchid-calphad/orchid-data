@@ -28,7 +28,7 @@ Table: Phases of the In–Ir system (9)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: In 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–429.75 K, x(Ir) 0–0
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:a6-tetragonal)
 
 Names (4): _corpus: _corpus:phase:in-ir:a6-tetragonal, corpus:phase:in-ir:tetragonal-a6  
@@ -143,7 +143,7 @@ _assessment that models this phase_
 - Structure: CuMg2 · C_b · oF48 · Fddd (70); type `st:c-b-cumg2-of48`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in InIr-11Ser.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1461.07 K, x(Ir) 0.30808–0.38395
-- Literature: 19 values (19 accepted) from 1 papers
+- Literature: 19 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:in2ir-cb)
 
 Names (4): _corpus: _corpus:phase:in-ir:in2ir-cb  
@@ -176,7 +176,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 620.57–1254.08 K, x(Ir) 0.23657–0.24999
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 15 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:in3ir)
 
 Names (6): _corpus: _corpus:phase:in-ir:in3ir  
@@ -207,11 +207,11 @@ _cited as the source of values for this phase_
 - Id: `phase:in-ir:in3ir-d011`; status `assigned`
 - Structure: Fe3C · D0_11 · oP16 · Pnma (62); type `st:d0-11-fe3c-op16`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–634 K, x(Ir) 0.23822–0.25
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 15 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:in3ir-d011)
 
-Names (5): _corpus: _corpus:phase:in-ir:in3ir-d011  
-_paper: _paper:10.1016/j.tca.2010.12.019:In3 Ir-LT, paper:10.1016/j.tca.2010.12.019:In3Ir-LT, paper:10.1016/j.tca.2010.12.019:In3Ir_LT  
+Names (6): _corpus: _corpus:phase:in-ir:in3ir-d011  
+_paper: _paper:10.1016/j.tca.2010.12.019:In3 Ir-LT, paper:10.1016/j.tca.2010.12.019:In3 Ir_LT, paper:10.1016/j.tca.2010.12.019:In3Ir-LT, paper:10.1016/j.tca.2010.12.019:In3Ir_LT  
 _tdb: _tdb:InIr-11Ser.tdb:IN3IR_D011  
 
 
@@ -249,7 +249,7 @@ Names (1): _corpus: _corpus:phase:in-ir:in3ir-ht
 - Id: `phase:in-ir:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 429.75–4000 K, x(Ir) 0–1
-- Literature: 25 values (25 accepted) from 1 papers
+- Literature: 25 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:liquid)
 
 Names (4): _corpus: _corpus:phase:in-ir:liquid  

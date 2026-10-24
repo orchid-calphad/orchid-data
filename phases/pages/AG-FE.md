@@ -130,8 +130,8 @@ _assessment that models this phase_
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-fe:liquid)
 
-Names (4): _corpus: _corpus:phase:ag-fe:liquid  
-_paper: _paper:10.1007/s11669-020-00813-5:Liquid#2  
+Names (5): _corpus: _corpus:phase:ag-fe:liquid  
+_paper: _paper:10.1007/s11669-020-00813-5:Liquid#1, paper:10.1007/s11669-020-00813-5:Liquid#2  
 _tdb: _tdb:AgFe-04Kor-LB.tdb:LIQUID, tdb:AgFe-20Zho.tdb:LIQUID  
 
 

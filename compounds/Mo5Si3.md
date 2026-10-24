@@ -1,20 +1,19 @@
 # Mo5Si3: enthalpy of formation
 
-> Enthalpy of formation of Mo5Si3: 28 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Mo5Si3: 25 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Mo5Si3.html · Markdown: https://data.orchid-project.org/compounds/Mo5Si3.md
 
-28 accepted literature formation-enthalpy value(s) (experimental 10, model 18); experimental median -38.7 kJ/mol-atom (n = 10); Materials Project -38.65 kJ/mol-atom (mp-aaaaabzg); OQMD -38.421 kJ/mol-atom (oqmd-6653).
+25 accepted literature formation-enthalpy value(s) (experimental 8, model 17); experimental median -38.7 kJ/mol-atom (n = 8); Materials Project -38.65 kJ/mol-atom (mp-aaaaabzg); OQMD -38.421 kJ/mol-atom (oqmd-6653).
 
 Systems: [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Mo5Si3 reported in the literature (28)
+Table: Enthalpy of formation of Mo5Si3 reported in the literature (25)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.3 kJ/mol-atom ± 1.1 | Mo5Si3 | 298 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Tomaszkiewicz 1997_ | Table 8, p. 10, row 23 |  |
 | -39.3 kJ/mol-atom ± 1.1 | Mo5Si3 | 298 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Tomaszkiewicz 1997_ | Table 8, p. 10, row 23 |  |
 | -39.2 kJ/mol-atom ± 1.5 | Mo5Si3 | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 16 |  |
 | -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
@@ -22,7 +21,6 @@ Table: Enthalpy of formation of Mo5Si3 reported in the literature (28)
 | -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 12 |  |
 | -38.62 kJ/mol-atom ± 2.09 | Mo5Si3 | 2000 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 10 |  |
 | -37.813 kJ/mol-atom | Mo5Si3 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 13 |  |
-| -37.4 kJ/mol-atom ± 0.1 | Mo5Si3 | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
 | -37.4 kJ/mol-atom ± 0.1 | Mo5Si3 | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
 | -39.1725 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 16 |  |
 | -39.1725 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
@@ -36,7 +34,6 @@ Table: Enthalpy of formation of Mo5Si3 reported in the literature (28)
 | -38.68 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
 | -38.62 kJ/mol-atom ± 2.09 | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
 | -38.2 kJ/mol-atom ± 1.6 | Mo5Si3 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 2 |  |
-| -38.2 kJ/mol-atom | Mo5Si3 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 2 |  |
 | -37.813 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
 | -37.0884 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
 | -37.0884 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |

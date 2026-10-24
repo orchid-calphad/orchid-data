@@ -1,10 +1,10 @@
 # Bi–Ni system
 
-> Bi–Ni system: 166 accepted literature values (invariant reaction 122, phase equilibrium 23, crystal structure 11, phase transition 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ni system: 163 accepted literature values (invariant reaction 119, phase equilibrium 23, crystal structure 11, phase transition 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-NI.html · Markdown: https://data.orchid-project.org/systems/BI-NI.md
 
-166 accepted literature values from 6 paper(s) (experimental 100, model 40, unspecified 26); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+163 accepted literature values from 6 paper(s) (experimental 102, model 35, unspecified 26); 7 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-NI.json) · [CSV](https://data.orchid-project.org/systems/BI-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-NI/BiNi-05Vas.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-NI.html) · [Markdown](https://data.orchid-project.org/systems/BI-NI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 100 |
-| model | 40 |
+| experimental | 102 |
+| model | 35 |
 | unspecified | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 122 |
+| invariant reaction | 119 |
 | phase transition | 10 |
 | phase equilibrium | 23 |
 | crystal structure | 11 |
@@ -91,7 +91,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ni system (122)
+Table: Invariant reactions reported in the literature for the Bi–Ni system (119)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -106,7 +106,7 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (12
 | 927 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 4 |  |
 | 927 | peritectic: L + fcc(Ni) -> BiNi | BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 1 |  |
 | 926.15 | peritectic: NiBi peritectic melting |  | experimental | [3] Vassilev 2005 | p. 4 | “Differential scanning calorimeter (DSC) analysis of specimen No. 3 (containing 47.2 at.% Bi) was performed using a NETZSCH DSC 404C instrument (Netzsch, Germany). As a result, the NiBi peritectic melting temperature (Fig. 2) was found to be ≈653 °C (926 K), in good agreement with literature data (Table 2).” |
-| 926 | peritectic: liquid + fcc(Ni) M BiNi |  | model | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | p. 4 | “Recently, Vassilev et al.11 reinvestigated the peritectic temperature of the invariant reaction liquid + fcc(Ni) M BiNi, which was reported to be 926 K by differential scanning calorimetry (DSC), and the liquidus by measuring the composition of the remaining liquid in the equilibrated alloys using electron probe microanalysis (EPMA) measurements.” |
+| 926 | peritectic: liquid + fcc(Ni) M BiNi |  | experimental | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | p. 4 | “Recently, Vassilev et al.11 reinvestigated the peritectic temperature of the invariant reaction liquid + fcc(Ni) M BiNi, which was reported to be 926 K by differential scanning calorimetry (DSC), and the liquidus by measuring the composition of the remaining liquid in the equilibrated alloys using electron probe microanalysis (EPMA) measurements.” |
 | 926 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5, Ni 0.5 | experimental | [3] Vassilev 2005 | Table 2, p. 2, row 6 |  |
 | 926 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | unspecified | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table IV, p. 4, row 6 |  |
 | 925.15 | peritectic: L + fcc -> NiBi | L: Bi 0.799; fcc: Bi 0; NiBi: Bi 0.507 | model | [1] Seo 2007 | Table III, p. 5, row 4 |  |
@@ -126,7 +126,6 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (12
 | 919 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.0076; fcc(Ni): Bi 7.000e-6; BiNi: Bi 0.0051 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 5 |  |
 | 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 7.000e-4; X^LS (Ni-rich side point): Bi 7.000e-4; X^M (middle point): Bi 0.51 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 5 |  |
 | 918.9 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.512; (Ni): Bi 0.0049; L: Bi 0.814 | unspecified | [3] Vassilev 2005 | Table 2, p. 2, row 7 |  |
-| 918.9 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.512; (Ni): Bi 0.0049; L: Bi 0.814; X^LS (Ni-rich side point): Bi 0.0049; X^M (middle point): Bi 0.512; X^RS (Bi-rich side point): Bi 0.814 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 8 |  |
 | 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.45; (Ni): Bi 0.005; L: Bi 0.68; X^LS (Ni-rich side point): Bi 0.005; X^M (middle point): Bi 0.45; X^RS (Bi-rich side point): Bi 0.68 | experimental | [5] Vassilev 2009; _cites ref. 8_ | Table 3, p. 4, row 3 |  |
 | 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; (Ni): Bi 0.005; L: Bi 0.693; X^LS (Ni-rich side point): Bi 0.005; X^M (middle point): Bi 0.5; X^RS (Bi-rich side point): Bi 0.693 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 2 |  |
 | 913 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.0068; fcc(Ni): Bi 5.000e-5; BiNi: Bi 0.0045 | experimental | [4] Liu 2016; _cites Hagg 1930_ | Table IV, p. 4, row 3 |  |
@@ -206,9 +205,7 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (12
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 14_ | Table 3, p. 4, row 23 |  |
 | 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 16 |  |
 | 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 15 |  |
-| 542.8 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993; X^LS (Ni-rich side point): Bi 0.75; X^M (middle point): Bi 0.993; X^RS (Bi-rich side point): Bi 1 | model | [5] Vassilev 2009 | Table 3, p. 4, row 29 |  |
 | 542.8 | Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.00992; Bi3Ni: Bi 0.0075; (Bi): Bi 0.01 | model | [4] Liu 2016 | Table IV, p. 4, row 19 |  |
-| 542.3 | Liquid -> (Bi) + Bi3Ni + fcc(Cu) | L: Bi 0.989, Ni 0.006; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 10 |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 21 |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 15 |  |
 | 542 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 17 |  |
@@ -229,7 +226,7 @@ Table: Phase transition, Bi–Ni system
 | Phase transition | 542 K | 542 |  | experimental | [3] Vassilev 2005 | p. 1 | “The Bi melting point has been acknowledged as 542 K, about 2° below the presently accepted value.” |
 | Phase transition | 544 K | 544 |  | experimental | [1] Seo 2007 | p. 5 | “The melting temperature of Ni is 1,726 K but those of Sn and Bi are 505 K and 544 K, respectively.” |
 | Phase transition | 620 K | 620 | magnetic | model | [4] Liu 2016 | p. 13 | “For the BiNi phase, the temperature of the magnetic transition was fixed to be 620 K to fit the peak of heat capacities.” |
-| Phase transition | 630 K | 630 | magnetic | model | [4] Liu 2016; _cites Vassilev 2007_ [doi](https://doi.org/10.3139/146.101499) | p. 10 | “Although Vassilev et al.9 ascribed the detected magnetic transition temperature (630 K) to the presence of some unreacted Ni in the sample, Yoshida et al.16 and Samui et al.14 studied the magnetic transition of BiNi and confirmed the formation of pure compound BiNi in Ref. is the magnetic 14 through XRD analysis.” |
+| Phase transition | 630 K | 630 | magnetic | experimental | [4] Liu 2016; _cites Vassilev 2007_ [doi](https://doi.org/10.3139/146.101499) | p. 10 | “Although Vassilev et al.9 ascribed the detected magnetic transition temperature (630 K) to the presence of some unreacted Ni in the sample, Yoshida et al.16 and Samui et al.14 studied the magnetic transition of BiNi and confirmed the formation of pure compound BiNi in Ref. is the magnetic 14 through XRD analysis.” |
 | Phase transition | 742 K | 742 | other | model | [6] Gossé 2014 | p. 6 | “The change of slope as a function of temperature is calculated at 742 K; this temperature is slightly higher than the value given by the intersection (712 K) of both correlations given by Martinelli et al. \[8\].” |
 | Phase transition | 1428.79 K | 1428.79 | other | model | [4] Liu 2016 | p. 14 | “The monovariant line of the miscibility gap in the liquid phase is shown in the liquidus projection, and the critical point is 33.45 at.% Ni and 53.75 at.% Bi (1428.79 K), marked as point C in Fig. 10.” |
 | Phase transition | 1724 K | 1724 |  | experimental | [3] Vassilev 2005 | p. 1 | “Both authors have accepted the Ni melting point as 1724 K (i.e., a 4 K difference from the contemporary value of 1728 K \[1996Mas\]).” |

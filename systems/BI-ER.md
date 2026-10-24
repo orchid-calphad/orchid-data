@@ -1,10 +1,10 @@
 # Bi–Er system
 
-> Bi–Er system: 132 accepted literature values (formation 56, invariant reaction 47, activity / EMF / Gibbs energy 24, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Er system: 120 accepted literature values (formation 56, invariant reaction 47, activity / EMF / Gibbs energy 12, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-ER.html · Markdown: https://data.orchid-project.org/systems/BI-ER.md
 
-132 accepted literature values from 3 paper(s) (experimental 35, model 88, DFT 2, unspecified 7); 3 calculated phase diagram(s).
+120 accepted literature values from 3 paper(s) (experimental 35, model 76, DFT 2, unspecified 7); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ER.json) · [CSV](https://data.orchid-project.org/systems/BI-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ER/BiEr-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-ER.html) · [Markdown](https://data.orchid-project.org/systems/BI-ER.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 35 |
-| model | 88 |
+| model | 76 |
 | DFT | 2 |
 | unspecified | 7 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 47 |
 | phase transition | 5 |
 | formation | 56 |
-| activity / EMF / Gibbs energy | 24 |
+| activity / EMF / Gibbs energy | 12 |
 
 ## Calculated phase diagrams
 
@@ -200,32 +200,20 @@ Table: Phase transition, Bi–Er system
 | Phase transition | 2080 K | 2080 | congruent transformation | experimental | [2] Wang 2013; _cites Abulkhaev 1992_ | p. 1 | “Based on the investigated results, the Bi3 Er5 phase is formed from a peritectic reaction, L + BiEr ↔ Bi3 Er5 at 1700 K, whereas the BiEr phase melts congruently at about 2080 K.” |
 | Phase transition | 2080 K | 2080 | congruent transformation | model | [2] Wang 2013 | p. 4 | “The calculated peritectic temperature for the formation of the intermetallic compound Bi3 Er5 is 1700 K, the congruent melting temperature of BiEr is 2080 K, and the eutectic temperatures of the reactions, L ↔ Hcp A3 (Er) + Bi3 Er5 and L ↔ Rhomb (Bi) + BiEr, are 1434 and 541 K, respectively.” |
 
-### Activity / EMF / Gibbs energy (24)
+### Activity / EMF / Gibbs energy (12)
 
 Table: Activity / EMF / Gibbs energy, Bi–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity coefficient; _printed: Log(activity coefficient)_ | -9.01 unknown | 873 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 3 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.47 unknown | 873 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 3 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -9.21 unknown | 873 | UNKNOWN | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 1 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -9.14 unknown | 873 | UNKNOWN | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 2 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.47 unknown | 873 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 3 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -9.01 unknown | 873 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 3 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -9.21 unknown | 873 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 1 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -9.14 unknown | 873 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 2 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.52 unknown | 923 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 6 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.02 unknown | 923 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 6 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.62 unknown | 923 | UNKNOWN | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 4 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.73 unknown | 923 | UNKNOWN | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 5 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.02 unknown | 923 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 6 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.52 unknown | 923 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 6 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.62 unknown | 923 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 4 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.73 unknown | 923 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 5 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.09 unknown | 973 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 9 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -7.6 unknown | 973 | UNKNOWN | model | [3] Wang 2017 | Table 12, p. 9, row 9 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.37 unknown | 973 | UNKNOWN | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 8 |  |
-| Activity coefficient; _printed: Log(activity coefficient)_ | -8.08 unknown | 973 | UNKNOWN | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 7 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.09 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 9 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -7.6 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 9 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.37 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 8 |  |

@@ -1,6 +1,6 @@
 # Sm–Zn system
 
-> Sm–Zn system: 100 accepted literature values (mixing / partial 45, invariant reaction 39, phase transition 16) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sm–Zn system: 100 accepted literature values (formation 45, invariant reaction 39, phase transition 16) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SM-ZN.html · Markdown: https://data.orchid-project.org/systems/SM-ZN.md
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 39 |
 | phase transition | 16 |
-| mixing / partial | 45 |
+| formation | 45 |
 
 ## Calculated phase diagrams
 
@@ -155,57 +155,57 @@ Table: Phase transition, Sm–Zn system
 | Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | model | [1] Liu 2009 | Table 5, p. 4, row 20 |  |
 | Phase transition | 1233.15 K | 1233.15 | congruent melting: L -> SmZn; _L: Zn 0.5; SmZn: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 5, p. 4, row 19 |  |
 
-### Mixing / partial (45)
+### Formation (45)
 
-Table: Mixing / partial, Sm–Zn system
+Table: Formation, Sm–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.86 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 25 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.93 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 26 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.52 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 38 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.46 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 37 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.41 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 19 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.66 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 20 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.68 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 31 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 32 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -33.28 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -33.17 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 1 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.06 kJ/mol-atom | 773.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 43 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35.45 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 8 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -35.58 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 7 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31.99 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 13 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.14 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -25.81 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 28 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -25.89 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 27 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.17 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 40 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.34 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 39 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.47 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 21 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.52 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 22 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -20.68 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -20.58 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 33 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31.35 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31.2 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 4 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15.66 kJ/mol-atom | 973.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 44 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.52 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -32.82 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.91 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 29 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.23 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 30 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16.21 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 41 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15.47 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 42 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.53 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 23 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.12 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 24 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -17.48 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 35 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -17.05 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 36 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.53 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 5 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -12.26 kJ/mol-atom | 1173.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 45 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.31 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.05 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -25.65 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 18 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.19 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.86 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 25 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.93 kJ/mol-atom | 773.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 26 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.52 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 38 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.46 kJ/mol-atom | 773.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 37 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.41 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 19 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.66 kJ/mol-atom | 773.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 20 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.68 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 31 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.96 kJ/mol-atom | 773.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 32 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.28 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 2 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.17 kJ/mol-atom | 773.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 1 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.06 kJ/mol-atom | 773.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 43 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.45 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 8 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -35.58 kJ/mol-atom | 773.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 7 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.99 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 13 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.14 kJ/mol-atom | 773.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 14 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.81 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 28 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.89 kJ/mol-atom | 973.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 27 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.17 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 40 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.34 kJ/mol-atom | 973.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 39 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.47 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 21 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.52 kJ/mol-atom | 973.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 22 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.68 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 34 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.58 kJ/mol-atom | 973.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 33 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.35 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 3 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.2 kJ/mol-atom | 973.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 4 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.66 kJ/mol-atom | 973.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 44 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.52 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 10 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.82 kJ/mol-atom | 973.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 9 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 16 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.09 kJ/mol-atom | 973.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 15 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.91 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | model | [1] Liu 2009 | Table 6, p. 6, row 29 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.23 kJ/mol-atom | 1173.15 | Sm13Zn58; _alloy: Zn 0.816901_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 30 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.21 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | model | [1] Liu 2009 | Table 6, p. 6, row 41 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.47 kJ/mol-atom | 1173.15 | Sm2Zn17; _alloy: Zn 0.894737_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 42 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.53 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | model | [1] Liu 2009 | Table 6, p. 6, row 23 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.12 kJ/mol-atom | 1173.15 | Sm3Zn11; _alloy: Zn 0.785714_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 24 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.48 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | model | [1] Liu 2009 | Table 6, p. 6, row 35 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.05 kJ/mol-atom | 1173.15 | Sm3Zn22; _alloy: Zn 0.88_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 36 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.1 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 6 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.53 kJ/mol-atom | 1173.15 | SmZn; _alloy: Zn 0.5_ | model | [1] Liu 2009 | Table 6, p. 6, row 5 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.26 kJ/mol-atom | 1173.15 | SmZn11; _alloy: Zn 0.916667_ | model | [1] Liu 2009 | Table 6, p. 6, row 45 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.31 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 12 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.05 kJ/mol-atom | 1173.15 | SmZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2009 | Table 6, p. 6, row 11 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -25.65 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | experimental | [1] Liu 2009; _cites Chiotti 1967_ | Table 6, p. 6, row 18 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.19 kJ/mol-atom | 1173.15 | SmZn3; _alloy: Zn 0.75_ | model | [1] Liu 2009 | Table 6, p. 6, row 17 |  |
 
 ## Sources
 

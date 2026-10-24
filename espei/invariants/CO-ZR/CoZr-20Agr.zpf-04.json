@@ -237,30 +237,37 @@
   "observations": [
    {
     "id": "ORC-LZJTHEFNTF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-MUSCZJILOQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-KL22CKZF7N",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-SMGFHZD2RA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-XDD2GYAYKP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-RPWWVD63HR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    },
    {
     "id": "ORC-RQAHHIIXQ3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5"
    }
   ],

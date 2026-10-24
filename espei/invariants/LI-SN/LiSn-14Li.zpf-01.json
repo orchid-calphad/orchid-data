@@ -194,26 +194,31 @@
   "observations": [
    {
     "id": "ORC-MQ6BOSUJBN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    },
    {
     "id": "ORC-XLMGHJNWKJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    },
    {
     "id": "ORC-UOD5B25VHE.d37a1b",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    },
    {
     "id": "ORC-33HWD7L4Q2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    },
    {
     "id": "ORC-W5OP32PL6L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    }

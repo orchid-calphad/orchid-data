@@ -74,6 +74,7 @@
   "observations": [
    {
     "id": "ORC-VJWAM5UNFC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2019.05.341",
     "measured_in": "doi:10.1016/j.jallcom.2019.05.341",
     "also_reported_as": [
@@ -86,6 +87,7 @@
    },
    {
     "id": "ORC-G2DCMH6K6C",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2019.05.341",
     "measured_in": "doi:10.1016/j.jallcom.2019.05.341"
    }

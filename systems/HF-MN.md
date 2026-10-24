@@ -1,10 +1,10 @@
 # Hf–Mn system
 
-> Hf–Mn system: 53 accepted literature values (crystal structure 21, phase transition 15, invariant reaction 14, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Mn system: 51 accepted literature values (crystal structure 21, phase transition 15, invariant reaction 14, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-MN.html · Markdown: https://data.orchid-project.org/systems/HF-MN.md
 
-53 accepted literature values from 2 paper(s) (experimental 13, model 19, unspecified 21); 2 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+51 accepted literature values from 2 paper(s) (experimental 11, model 19, unspecified 21); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MN.json) · [CSV](https://data.orchid-project.org/systems/HF-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-MN/HfMn-12Zho.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MN.html) · [Markdown](https://data.orchid-project.org/systems/HF-MN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 11 |
 | model | 19 |
 | unspecified | 21 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 15 |
-| phase equilibrium | 3 |
+| phase equilibrium | 1 |
 | crystal structure | 21 |
 
 ## Calculated phase diagrams
@@ -102,15 +102,13 @@ Table: Phase transition, Hf–Mn system
 | Phase transition | 2000.16 K | 2000.16 | L -> HfMn2; _L: Mn 0.6667; HfMn2: Mn 0.6667_ | model | [1] Zhou 2012 | Table 5, p. 8, row 5 |  |
 | Phase transition | 2003 K | 2003 | L -> HfMn2; _L: Mn 0.667; HfMn2: Mn 0.667_ | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 6 |  |
 
-### Phase equilibrium (3)
+### Phase equilibrium (1)
 
 Table: Phase equilibrium, Hf–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 973.15 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
-| Phase composition |  | 973.15 | other: 4–96; _liquid: Hf 0.055, Mn 0.945_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 2 |  |
-| Phase composition |  | 973.15 | other: 6–94; _liquid: Hf 0.044, Mn 0.956_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 3 |  |
+| Phase composition |  | 1486.55 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
 
 ### Crystal structure (21)
 

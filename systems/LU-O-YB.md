@@ -1,10 +1,10 @@
 # Lu–O–Yb system
 
-> Lu–O–Yb system: 47 accepted literature values (heat capacity / entropy / enthalpy 23, other property 20, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Lu–O–Yb system: 28 accepted literature values (heat capacity / entropy / enthalpy 14, other property 10, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LU-O-YB.html · Markdown: https://data.orchid-project.org/systems/LU-O-YB.md
 
-47 accepted literature values from 1 paper(s) (model 27, unspecified 20); 0 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (model 14, unspecified 14); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LU-O-YB.json) · [CSV](https://data.orchid-project.org/systems/LU-O-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LU-O-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LU-O-YB.html) · [Markdown](https://data.orchid-project.org/systems/LU-O-YB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 27 |
-| unspecified | 20 |
+| model | 14 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 4 |
-| heat capacity / entropy / enthalpy | 23 |
-| other property | 20 |
+| heat capacity / entropy / enthalpy | 14 |
+| other property | 10 |
 
 ## Formation enthalpies
 
@@ -38,7 +38,7 @@ Table: Enthalpies of formation, Lu–O–Yb system (4)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (23)
+### Heat capacity / entropy / enthalpy (14)
 
 Table: Heat capacity / entropy / enthalpy, Lu–O–Yb system
 
@@ -51,24 +51,15 @@ Table: Heat capacity / entropy / enthalpy, Lu–O–Yb system
 | Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
 | Entropy; _printed: Δtrs°S_ | 5.293 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
 | Entropy; _printed: Δtrs°S_ | 3.725 J mol^-1 K^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
-| Entropy; _printed: Δtrs°S_ | 5.293 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11 |  |
-| Entropy; _printed: Δtrs°S_ | 3.725 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Entropy; _printed: Δtrs°S_ | 3.659 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9 |  |
-| Entropy; _printed: Δtrs°S_ | 5.27 J mol^-1 K^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10 |  |
 | Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu2O3; _alloy: O 0.6, Yb 0_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
 | Entropy; _printed: °S_ | 109.96 J/mol (basis unstated)/K | 298.15 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
 | Entropy; _printed: °S_ | 133.05 J/mol (basis unstated)/K | 298.15 | C-Yb2O3; _alloy: O 0.6, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1 |  |
 | Entropy; _printed: °S_ | 133.05 J/mol (basis unstated)/K | 298.15 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 1 |  |
 | Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 J mol^-1 K^-1 | 2653 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
 | Entropy; _printed: Δtrs°S_ | 30.221 J mol^-1 K^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
-| Entropy; _printed: Δtrs°S_ | 30.221 J mol^-1 K^-1 | 2708 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
 | Entropy; _printed: Δtrs°S_ | 29.159 J mol^-1 K^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
-| Entropy; _printed: Δtrs°S_ | 29.159 J mol^-1 K^-1 | 2763 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
 
-### Other property (20)
+### Other property (10)
 
 Table: Other property, Lu–O–Yb system
 
@@ -81,19 +72,9 @@ Table: Other property, Lu–O–Yb system
 | Transition enthalpy; _printed: Δtrs°H_ | 38415 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 25165 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 15345 J mol^-1 |  | C-Yb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 38415 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 6 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25165 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 5 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 27000 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 11 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 15345 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 4 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 16598 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 9 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 39899 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 12 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 27106 J mol^-1 |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 10 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 25612 J mol^-1 | 2653 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 25612 J mol^-1 | 2653 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 2 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 81839 J mol^-1 | 2708 | C-Yb₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 81839 J mol^-1 | 2708 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 3 |  |
 | Transition enthalpy; _printed: Δtrs°H_ | 80566 J mol^-1 | 2763 | C-Lu₂O₃ | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
-| Transition enthalpy; _printed: Δtrs°H_ | 80566 J mol^-1 | 2763 | UNKNOWN | unspecified | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 8 |  |
 
 ## Sources
 

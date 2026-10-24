@@ -109,7 +109,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-na:liquid)
 
 Names (5): _corpus: _corpus:phase:li-na:liquid  
-_paper: _paper:10.1016/j.calphad.2003.09.001:Liquid, paper:10.1016/j.calphad.2003.09.001:Liquid2, paper:10.1016/j.calphad.2003.09.001:liquid2  
+_paper: _paper:10.1016/j.calphad.2003.09.001:Liquid, paper:10.1016/j.calphad.2003.09.001:Liquid1, paper:10.1016/j.calphad.2003.09.001:Liquid2  
 _tdb: _tdb:LiNa-03Zha-LB.tdb:LIQUID  
 
 

@@ -1,10 +1,10 @@
 # Cu–Zr system
 
-> Cu–Zr system: 778 accepted literature values (invariant reaction 420, activity / EMF / Gibbs energy 168, formation 92, phase transition 47) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Zr system: 694 accepted literature values (invariant reaction 420, formation 92, activity / EMF / Gibbs energy 84, phase transition 47) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-ZR.html · Markdown: https://data.orchid-project.org/systems/CU-ZR.md
 
-778 accepted literature values from 8 paper(s) (experimental 392, model 316, DFT 24, unspecified 46); 11 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+694 accepted literature values from 8 paper(s) (experimental 350, model 274, DFT 24, unspecified 46); 11 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ZR.json) · [CSV](https://data.orchid-project.org/systems/CU-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ZR/CuZr-06Abe.json) · [phases (22)](https://data.orchid-project.org/phases/pages/CU-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CU-ZR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 392 |
-| model | 316 |
+| experimental | 350 |
+| model | 274 |
 | DFT | 24 |
 | unspecified | 46 |
 
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | phase equilibrium | 29 |
 | formation | 92 |
 | heat capacity / entropy / enthalpy | 6 |
-| activity / EMF / Gibbs energy | 168 |
+| activity / EMF / Gibbs energy | 84 |
 | crystal structure | 16 |
 
 ## Calculated phase diagrams
@@ -708,12 +708,12 @@ Table: Enthalpies of formation, Cu–Zr system (80)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -22.9 kJ/mol-atom | 1123 | unspecified | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 14 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -22.004 kJ/mol-atom ± 0.259 | 1123 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 13 |  |
+| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -21.226 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 10 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -20.466 kJ/mol-atom | 1123 | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008 | Table 3, p. 10, row 15 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -14.2206 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994 | Table 1, p. 1, row 12 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -12.31 kJ/mol-atom ± 0.24 | 1123 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 12 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -12.31 kJ/mol-atom | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 13 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -6.73512 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 11 |  |
-| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | 21.226 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 10 |  |
 | Cu10Zr7-φ |  | -18.75 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 12 |  |
 | Cu10Zr7-φ |  | -16.13 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 11 |  |
 | Cu10Zr7-ϕ |  | -18.75 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 12 |  |
@@ -911,179 +911,95 @@ Table: Heat capacity / entropy / enthalpy, Cu–Zr system
 | Entropy; _printed: ΔmS_ | 8.6 J/(mole · K) | 1123 | CuZr2; _alloy: Zr 0.666667_ | unspecified | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 30 |  |
 | Entropy; _printed: ΔmS_ | 15.65 J/(mole · K) | 1123 | CuZr2; _alloy: Zr 0.666667_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 31 |  |
 
-### Activity / EMF / Gibbs energy (168)
+### Activity / EMF / Gibbs energy (84)
 
 Table: Activity / EMF / Gibbs energy, Cu–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Activity Cu; _printed: a(Cu)_ | 0.17 1 | 1191 | liquid; _alloy: Cu 0.553, Zr 0.447_ | model | [3] Wang 2006 | Table 3, p. 7, row 24 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.215 1 | 1191 | liquid; _alloy: Cu 0.553, Zr 0.447_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 23 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.17 1 | 1191 | melt; _alloy: Cu 0.553, Zr 0.447_ | model | [3] Wang 2006 | Table 3, p. 7, row 24 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.215 1 | 1191 | melt; _alloy: Cu 0.553, Zr 0.447_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 23 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.249 1 | 1223 | liquid; _alloy: Cu 0.595, Zr 0.405_ | model | [3] Wang 2006 | Table 3, p. 7, row 22 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.293 1 | 1223 | liquid; _alloy: Cu 0.595, Zr 0.405_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 21 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.249 1 | 1223 | melt; _alloy: Cu 0.595, Zr 0.405_ | model | [3] Wang 2006 | Table 3, p. 7, row 22 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.293 1 | 1223 | melt; _alloy: Cu 0.595, Zr 0.405_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 21 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0807 1 | 1273 | liquid; _alloy: Cu 0.462, Zr 0.538_ | model | [3] Wang 2006 | Table 3, p. 7, row 28 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.149 1 | 1273 | liquid; _alloy: Cu 0.462, Zr 0.538_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 27 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0807 1 | 1273 | melt; _alloy: Cu 0.462, Zr 0.538_ | model | [3] Wang 2006 | Table 3, p. 7, row 28 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.149 1 | 1273 | melt; _alloy: Cu 0.462, Zr 0.538_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 27 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0236 1 | 1304 | liquid; _alloy: Cu 0.34, Zr 0.66_ | model | [3] Wang 2006 | Table 3, p. 7, row 34 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0672 1 | 1304 | liquid; _alloy: Cu 0.34, Zr 0.66_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 33 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0236 1 | 1304 | melt; _alloy: Cu 0.34, Zr 0.66_ | model | [3] Wang 2006 | Table 3, p. 7, row 34 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0672 1 | 1304 | melt; _alloy: Cu 0.34, Zr 0.66_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 33 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.472 1 | 1338 | liquid; _alloy: Cu 0.669, Zr 0.331_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 17 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.44 1 | 1338 | liquid; _alloy: Cu 0.669, Zr 0.331_ | model | [3] Wang 2006 | Table 3, p. 7, row 18 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.472 1 | 1338 | melt; _alloy: Cu 0.669, Zr 0.331_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 17 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.44 1 | 1338 | melt; _alloy: Cu 0.669, Zr 0.331_ | model | [3] Wang 2006 | Table 3, p. 7, row 18 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.838 1 | 1373 | liquid; _alloy: Cu 0.85, Zr 0.15_ | model | [3] Wang 2006 | Table 3, p. 7, row 6 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.811 1 | 1373 | liquid; _alloy: Cu 0.85, Zr 0.15_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 5 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.838 1 | 1373 | melt; _alloy: Cu 0.85, Zr 0.15_ | model | [3] Wang 2006 | Table 3, p. 7, row 6 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.811 1 | 1373 | melt; _alloy: Cu 0.85, Zr 0.15_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 5 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.154 1 | 1423 | liquid; _alloy: Cu 0.511, Zr 0.489_ | model | [3] Wang 2006 | Table 3, p. 7, row 26 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.902 1 | 1423 | liquid; _alloy: Cu 0.897, Zr 0.103_ | model | [3] Wang 2006 | Table 3, p. 7, row 4 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.874 1 | 1423 | liquid; _alloy: Cu 0.897, Zr 0.103_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 3 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.244 1 | 1423 | liquid; _alloy: Cu 0.511, Zr 0.489_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 25 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.641 1 | 1423 | liquid; _alloy: Cu 0.755, Zr 0.245_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 11 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.661 1 | 1423 | liquid; _alloy: Cu 0.755, Zr 0.245_ | model | [3] Wang 2006 | Table 3, p. 7, row 12 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.154 1 | 1423 | melt; _alloy: Cu 0.511, Zr 0.489_ | model | [3] Wang 2006 | Table 3, p. 7, row 26 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.902 1 | 1423 | melt; _alloy: Cu 0.897, Zr 0.103_ | model | [3] Wang 2006 | Table 3, p. 7, row 4 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.874 1 | 1423 | melt; _alloy: Cu 0.897, Zr 0.103_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 3 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.244 1 | 1423 | melt; _alloy: Cu 0.511, Zr 0.489_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 25 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.641 1 | 1423 | melt; _alloy: Cu 0.755, Zr 0.245_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 11 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.661 1 | 1423 | melt; _alloy: Cu 0.755, Zr 0.245_ | model | [3] Wang 2006 | Table 3, p. 7, row 12 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0432 1 | 1453 | liquid; _alloy: Cu 0.371, Zr 0.629_ | model | [3] Wang 2006 | Table 3, p. 7, row 32 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.111 1 | 1453 | liquid; _alloy: Cu 0.371, Zr 0.629_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 31 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0432 1 | 1453 | melt; _alloy: Cu 0.371, Zr 0.629_ | model | [3] Wang 2006 | Table 3, p. 7, row 32 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.111 1 | 1453 | melt; _alloy: Cu 0.371, Zr 0.629_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 31 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.746 1 | 1523 | liquid; _alloy: Cu 0.801, Zr 0.199_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 7 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.785 1 | 1523 | liquid; _alloy: Cu 0.801, Zr 0.199_ | model | [3] Wang 2006 | Table 3, p. 7, row 8 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.746 1 | 1523 | melt; _alloy: Cu 0.801, Zr 0.199_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 7 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.785 1 | 1523 | melt; _alloy: Cu 0.801, Zr 0.199_ | model | [3] Wang 2006 | Table 3, p. 7, row 8 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.535 1 | 1550 | liquid; _alloy: Cu 0.692, Zr 0.308_ | model | [3] Wang 2006 | Table 3, p. 7, row 16 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.57 1 | 1550 | liquid; _alloy: Cu 0.692, Zr 0.308_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 15 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.535 1 | 1550 | melt; _alloy: Cu 0.692, Zr 0.308_ | model | [3] Wang 2006 | Table 3, p. 7, row 16 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.57 1 | 1550 | melt; _alloy: Cu 0.692, Zr 0.308_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 15 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.733 1 | 1573 | liquid; _alloy: Cu 0.79, Zr 0.21_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 9 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.173 1 | 1573 | liquid; _alloy: Cu 0.41, Zr 0.59_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 29 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.751 1 | 1573 | liquid; _alloy: Cu 0.79, Zr 0.21_ | model | [3] Wang 2006 | Table 3, p. 7, row 10 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0746 1 | 1573 | liquid; _alloy: Cu 0.41, Zr 0.59_ | model | [3] Wang 2006 | Table 3, p. 7, row 30 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.733 1 | 1573 | melt; _alloy: Cu 0.79, Zr 0.21_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 9 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.173 1 | 1573 | melt; _alloy: Cu 0.41, Zr 0.59_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 29 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.751 1 | 1573 | melt; _alloy: Cu 0.79, Zr 0.21_ | model | [3] Wang 2006 | Table 3, p. 7, row 10 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0746 1 | 1573 | melt; _alloy: Cu 0.41, Zr 0.59_ | model | [3] Wang 2006 | Table 3, p. 7, row 30 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.633 1 | 1623 | liquid; _alloy: Cu 0.73, Zr 0.27_ | model | [3] Wang 2006 | Table 3, p. 7, row 14 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0178 1 | 1623 | liquid; _alloy: Cu 0.251, Zr 0.749_ | model | [3] Wang 2006 | Table 3, p. 7, row 38 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0573 1 | 1623 | liquid; _alloy: Cu 0.251, Zr 0.749_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 37 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.634 1 | 1623 | liquid; _alloy: Cu 0.73, Zr 0.27_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 13 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.633 1 | 1623 | melt; _alloy: Cu 0.73, Zr 0.27_ | model | [3] Wang 2006 | Table 3, p. 7, row 14 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0178 1 | 1623 | melt; _alloy: Cu 0.251, Zr 0.749_ | model | [3] Wang 2006 | Table 3, p. 7, row 38 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0573 1 | 1623 | melt; _alloy: Cu 0.251, Zr 0.749_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 37 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.634 1 | 1623 | melt; _alloy: Cu 0.73, Zr 0.27_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 13 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.954 1 | 1673 | liquid; _alloy: Cu 0.949, Zr 0.051_ | model | [3] Wang 2006 | Table 3, p. 7, row 2 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.949 1 | 1673 | liquid; _alloy: Cu 0.949, Zr 0.051_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 1 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0885 1 | 1673 | liquid; _alloy: Cu 0.295, Zr 0.705_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 35 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0292 1 | 1673 | liquid; _alloy: Cu 0.295, Zr 0.705_ | model | [3] Wang 2006 | Table 3, p. 7, row 36 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.954 1 | 1673 | melt; _alloy: Cu 0.949, Zr 0.051_ | model | [3] Wang 2006 | Table 3, p. 7, row 2 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.949 1 | 1673 | melt; _alloy: Cu 0.949, Zr 0.051_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 1 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0885 1 | 1673 | melt; _alloy: Cu 0.295, Zr 0.705_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 35 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0292 1 | 1673 | melt; _alloy: Cu 0.295, Zr 0.705_ | model | [3] Wang 2006 | Table 3, p. 7, row 36 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.501 1 | 1723 | liquid; _alloy: Cu 0.63, Zr 0.37_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 19 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.423 1 | 1723 | liquid; _alloy: Cu 0.63, Zr 0.37_ | model | [3] Wang 2006 | Table 3, p. 7, row 20 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.501 1 | 1723 | melt; _alloy: Cu 0.63, Zr 0.37_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 19 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.423 1 | 1723 | melt; _alloy: Cu 0.63, Zr 0.37_ | model | [3] Wang 2006 | Table 3, p. 7, row 20 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0449 1 | 1773 | liquid; _alloy: Cu 0.203, Zr 0.797_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 39 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0147 1 | 1773 | liquid; _alloy: Cu 0.203, Zr 0.797_ | model | [3] Wang 2006 | Table 3, p. 7, row 40 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0449 1 | 1773 | melt; _alloy: Cu 0.203, Zr 0.797_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 39 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0147 1 | 1773 | melt; _alloy: Cu 0.203, Zr 0.797_ | model | [3] Wang 2006 | Table 3, p. 7, row 40 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.0278 1 | 1823 | liquid; _alloy: Cu 0.15, Zr 0.85_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 41 |  |
 | Activity Cu; _printed: a(Cu)_ | 0.00996 1 | 1823 | liquid; _alloy: Cu 0.15, Zr 0.85_ | model | [3] Wang 2006 | Table 3, p. 7, row 42 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.0278 1 | 1823 | melt; _alloy: Cu 0.15, Zr 0.85_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 41 |  |
-| Activity Cu; _printed: a(Cu)_ | 0.00996 1 | 1823 | melt; _alloy: Cu 0.15, Zr 0.85_ | model | [3] Wang 2006 | Table 3, p. 7, row 42 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0675 1 | 1191 | liquid; _alloy: Cu 0.553, Zr 0.447_ | model | [3] Wang 2006 | Table 3, p. 7, row 24 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.112 1 | 1191 | liquid; _alloy: Cu 0.553, Zr 0.447_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 23 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0675 1 | 1191 | melt; _alloy: Cu 0.553, Zr 0.447_ | model | [3] Wang 2006 | Table 3, p. 7, row 24 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.112 1 | 1191 | melt; _alloy: Cu 0.553, Zr 0.447_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 23 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0445 1 | 1223 | liquid; _alloy: Cu 0.595, Zr 0.405_ | model | [3] Wang 2006 | Table 3, p. 7, row 22 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0869 1 | 1223 | liquid; _alloy: Cu 0.595, Zr 0.405_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 21 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0445 1 | 1223 | melt; _alloy: Cu 0.595, Zr 0.405_ | model | [3] Wang 2006 | Table 3, p. 7, row 22 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0869 1 | 1223 | melt; _alloy: Cu 0.595, Zr 0.405_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 21 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.18 1 | 1273 | liquid; _alloy: Cu 0.462, Zr 0.538_ | model | [3] Wang 2006 | Table 3, p. 7, row 28 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.222 1 | 1273 | liquid; _alloy: Cu 0.462, Zr 0.538_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 27 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.18 1 | 1273 | melt; _alloy: Cu 0.462, Zr 0.538_ | model | [3] Wang 2006 | Table 3, p. 7, row 28 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.222 1 | 1273 | melt; _alloy: Cu 0.462, Zr 0.538_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 27 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.437 1 | 1304 | liquid; _alloy: Cu 0.34, Zr 0.66_ | model | [3] Wang 2006 | Table 3, p. 7, row 34 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.408 1 | 1304 | liquid; _alloy: Cu 0.34, Zr 0.66_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 33 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.437 1 | 1304 | melt; _alloy: Cu 0.34, Zr 0.66_ | model | [3] Wang 2006 | Table 3, p. 7, row 34 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.408 1 | 1304 | melt; _alloy: Cu 0.34, Zr 0.66_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 33 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0624 1 | 1338 | liquid; _alloy: Cu 0.669, Zr 0.331_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 17 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.024 1 | 1338 | liquid; _alloy: Cu 0.669, Zr 0.331_ | model | [3] Wang 2006 | Table 3, p. 7, row 18 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0624 1 | 1338 | melt; _alloy: Cu 0.669, Zr 0.331_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 17 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.024 1 | 1338 | melt; _alloy: Cu 0.669, Zr 0.331_ | model | [3] Wang 2006 | Table 3, p. 7, row 18 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0037 1 | 1373 | liquid; _alloy: Cu 0.85, Zr 0.15_ | model | [3] Wang 2006 | Table 3, p. 7, row 6 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0127 1 | 1373 | liquid; _alloy: Cu 0.85, Zr 0.15_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 5 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0037 1 | 1373 | melt; _alloy: Cu 0.85, Zr 0.15_ | model | [3] Wang 2006 | Table 3, p. 7, row 6 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0127 1 | 1373 | melt; _alloy: Cu 0.85, Zr 0.15_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 5 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.133 1 | 1423 | liquid; _alloy: Cu 0.511, Zr 0.489_ | model | [3] Wang 2006 | Table 3, p. 7, row 26 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.00265 1 | 1423 | liquid; _alloy: Cu 0.897, Zr 0.103_ | model | [3] Wang 2006 | Table 3, p. 7, row 4 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.00858 1 | 1423 | liquid; _alloy: Cu 0.897, Zr 0.103_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 3 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.197 1 | 1423 | liquid; _alloy: Cu 0.511, Zr 0.489_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 25 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0372 1 | 1423 | liquid; _alloy: Cu 0.755, Zr 0.245_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 11 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0113 1 | 1423 | liquid; _alloy: Cu 0.755, Zr 0.245_ | model | [3] Wang 2006 | Table 3, p. 7, row 12 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.133 1 | 1423 | melt; _alloy: Cu 0.511, Zr 0.489_ | model | [3] Wang 2006 | Table 3, p. 7, row 26 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.00265 1 | 1423 | melt; _alloy: Cu 0.897, Zr 0.103_ | model | [3] Wang 2006 | Table 3, p. 7, row 4 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.00858 1 | 1423 | melt; _alloy: Cu 0.897, Zr 0.103_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 3 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.197 1 | 1423 | melt; _alloy: Cu 0.511, Zr 0.489_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 25 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0372 1 | 1423 | melt; _alloy: Cu 0.755, Zr 0.245_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 11 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0113 1 | 1423 | melt; _alloy: Cu 0.755, Zr 0.245_ | model | [3] Wang 2006 | Table 3, p. 7, row 12 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.382 1 | 1453 | liquid; _alloy: Cu 0.371, Zr 0.629_ | model | [3] Wang 2006 | Table 3, p. 7, row 32 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.38 1 | 1453 | liquid; _alloy: Cu 0.371, Zr 0.629_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 31 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.382 1 | 1453 | melt; _alloy: Cu 0.371, Zr 0.629_ | model | [3] Wang 2006 | Table 3, p. 7, row 32 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.38 1 | 1453 | melt; _alloy: Cu 0.371, Zr 0.629_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 31 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0287 1 | 1523 | liquid; _alloy: Cu 0.801, Zr 0.199_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 7 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.00813 1 | 1523 | liquid; _alloy: Cu 0.801, Zr 0.199_ | model | [3] Wang 2006 | Table 3, p. 7, row 8 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0287 1 | 1523 | melt; _alloy: Cu 0.801, Zr 0.199_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 7 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.00813 1 | 1523 | melt; _alloy: Cu 0.801, Zr 0.199_ | model | [3] Wang 2006 | Table 3, p. 7, row 8 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0273 1 | 1550 | liquid; _alloy: Cu 0.692, Zr 0.308_ | model | [3] Wang 2006 | Table 3, p. 7, row 16 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0755 1 | 1550 | liquid; _alloy: Cu 0.692, Zr 0.308_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 15 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0273 1 | 1550 | melt; _alloy: Cu 0.692, Zr 0.308_ | model | [3] Wang 2006 | Table 3, p. 7, row 16 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0755 1 | 1550 | melt; _alloy: Cu 0.692, Zr 0.308_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 15 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0375 1 | 1573 | liquid; _alloy: Cu 0.79, Zr 0.21_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 9 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.349 1 | 1573 | liquid; _alloy: Cu 0.41, Zr 0.59_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 29 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0111 1 | 1573 | liquid; _alloy: Cu 0.79, Zr 0.21_ | model | [3] Wang 2006 | Table 3, p. 7, row 10 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.313 1 | 1573 | liquid; _alloy: Cu 0.41, Zr 0.59_ | model | [3] Wang 2006 | Table 3, p. 7, row 30 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0375 1 | 1573 | melt; _alloy: Cu 0.79, Zr 0.21_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 9 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.349 1 | 1573 | melt; _alloy: Cu 0.41, Zr 0.59_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 29 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0111 1 | 1573 | melt; _alloy: Cu 0.79, Zr 0.21_ | model | [3] Wang 2006 | Table 3, p. 7, row 10 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.313 1 | 1573 | melt; _alloy: Cu 0.41, Zr 0.59_ | model | [3] Wang 2006 | Table 3, p. 7, row 30 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0213 1 | 1623 | liquid; _alloy: Cu 0.73, Zr 0.27_ | model | [3] Wang 2006 | Table 3, p. 7, row 14 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.672 1 | 1623 | liquid; _alloy: Cu 0.251, Zr 0.749_ | model | [3] Wang 2006 | Table 3, p. 7, row 38 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.601 1 | 1623 | liquid; _alloy: Cu 0.251, Zr 0.749_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 37 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0643 1 | 1623 | liquid; _alloy: Cu 0.73, Zr 0.27_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 13 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0213 1 | 1623 | melt; _alloy: Cu 0.73, Zr 0.27_ | model | [3] Wang 2006 | Table 3, p. 7, row 14 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.672 1 | 1623 | melt; _alloy: Cu 0.251, Zr 0.749_ | model | [3] Wang 2006 | Table 3, p. 7, row 38 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.601 1 | 1623 | melt; _alloy: Cu 0.251, Zr 0.749_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 37 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0643 1 | 1623 | melt; _alloy: Cu 0.73, Zr 0.27_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 13 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.00277 1 | 1673 | liquid; _alloy: Cu 0.949, Zr 0.051_ | model | [3] Wang 2006 | Table 3, p. 7, row 2 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.00716 1 | 1673 | liquid; _alloy: Cu 0.949, Zr 0.051_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 1 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.541 1 | 1673 | liquid; _alloy: Cu 0.295, Zr 0.705_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 35 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.578 1 | 1673 | liquid; _alloy: Cu 0.295, Zr 0.705_ | model | [3] Wang 2006 | Table 3, p. 7, row 36 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.00277 1 | 1673 | melt; _alloy: Cu 0.949, Zr 0.051_ | model | [3] Wang 2006 | Table 3, p. 7, row 2 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.00716 1 | 1673 | melt; _alloy: Cu 0.949, Zr 0.051_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 1 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.541 1 | 1673 | melt; _alloy: Cu 0.295, Zr 0.705_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 35 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.578 1 | 1673 | melt; _alloy: Cu 0.295, Zr 0.705_ | model | [3] Wang 2006 | Table 3, p. 7, row 36 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.134 1 | 1723 | liquid; _alloy: Cu 0.63, Zr 0.37_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 19 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.0608 1 | 1723 | liquid; _alloy: Cu 0.63, Zr 0.37_ | model | [3] Wang 2006 | Table 3, p. 7, row 20 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.134 1 | 1723 | melt; _alloy: Cu 0.63, Zr 0.37_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 19 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.0608 1 | 1723 | melt; _alloy: Cu 0.63, Zr 0.37_ | model | [3] Wang 2006 | Table 3, p. 7, row 20 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.705 1 | 1773 | liquid; _alloy: Cu 0.203, Zr 0.797_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 39 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.769 1 | 1773 | liquid; _alloy: Cu 0.203, Zr 0.797_ | model | [3] Wang 2006 | Table 3, p. 7, row 40 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.705 1 | 1773 | melt; _alloy: Cu 0.203, Zr 0.797_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 39 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.769 1 | 1773 | melt; _alloy: Cu 0.203, Zr 0.797_ | model | [3] Wang 2006 | Table 3, p. 7, row 40 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.786 1 | 1823 | liquid; _alloy: Cu 0.15, Zr 0.85_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 41 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.85 1 | 1823 | liquid; _alloy: Cu 0.15, Zr 0.85_ | model | [3] Wang 2006 | Table 3, p. 7, row 42 |  |
-| Activity Zr; _printed: a(Zr)_ | 0.786 1 | 1823 | melt; _alloy: Cu 0.15, Zr 0.85_ | experimental | [3] Wang 2006; _cites Zaitsev 2003_ [doi](https://doi.org/10.1039/b305089k) | Table 3, p. 7, row 41 |  |
 | Activity Zr; _printed: a(Zr)_ | 0.85 1 | 1823 | melt; _alloy: Cu 0.15, Zr 0.85_ | model | [3] Wang 2006 | Table 3, p. 7, row 42 |  |
 
 ### Crystal structure (16)

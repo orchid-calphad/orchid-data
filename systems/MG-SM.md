@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MG-SM.html · Markdown: https://data.orchid-project.org/systems/MG-SM.md
 
-82 accepted literature values from 2 paper(s) (experimental 50, model 32); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+82 accepted literature values from 2 paper(s) (experimental 55, model 27); 3 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SM.json) · [CSV](https://data.orchid-project.org/systems/MG-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SM/MgSm-08Jia.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MG-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SM.html) · [Markdown](https://data.orchid-project.org/systems/MG-SM.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
-| model | 32 |
+| experimental | 55 |
+| model | 27 |
 
 Table: Accepted values by property group
 
@@ -173,11 +173,11 @@ Table: Enthalpies of formation, Mg–Sm system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -18.5 unspecified ± 2 | 300 | model |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -16 unspecified ± 2 | 300 | model |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -12 unspecified ± 2 | 300 | model |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -8.5 unspecified ± 2 | 300 | model |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
-| — |  | -5.5 unspecified ± 2 | 300 | model |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -18.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -16 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -12 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -8.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
+| — |  | -5.5 unspecified ± 2 | 300 | experimental |  |  | [2] Jiang 2024; _cites Delsante 2014_ [doi](https://doi.org/10.1016/j.calphad.2013.07.012) | p. 3 | “Delsante and Borzone\[29\] determined the formation enthalpy of Mg41Sm5 (- 5.5 ± 2 kJ/mol), Mg5Sm (- 8.5 ± 2 kJ/mol), Mg3Sm (- 12.0 ± 2 kJ/mol), Mg2Sm (- 16.0 ± 2 kJ/mol) and MgSm (- 18.5 ± 2 kJ/mol) at 300 K through high-temperature direct synthesis calorimetry.” |
 
 ## Other properties
 

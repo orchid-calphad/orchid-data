@@ -17,7 +17,7 @@ Table: Phases of the Si–Sr system (10)
 | [FCC_A1](#phase-si-sr-fcc-a1); _phase:si-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1135 K, x(Sr) 1–1 | 0 | 5 |
 | [HCP_A3](#phase-si-sr-hcp-a3); _phase:si-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [LIQUID](#phase-si-sr-liquid); _phase:si-sr:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1008.07–2500 K, x(Sr) 0–1 | 71 | 5 |
-| [SI2SR_ALPHA](#phase-si-sr-si2sr-alpha); _phase:si-sr:si2sr-alpha_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–849.73 K, x(Sr) 0.33333–0.33333 | 15 | 5 |
+| [SI2SR_ALPHA](#phase-si-sr-si2sr-alpha); _phase:si-sr:si2sr-alpha_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–849.73 K, x(Sr) 0.33333–0.33333 | 14 | 5 |
 | [SI2SR_CC](#phase-si-sr-si2sr-cc); _phase:si-sr:si2sr-cc_ | Si2Th · C_c · tI12 · I4_1/amd (141) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 650.94–1398.69 K, x(Sr) 0.33386–0.37298 | 38 | 5 |
 | [SI3SR5_D8L](#phase-si-sr-si3sr5-d8l); _phase:si-sr:si3sr5-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1427.7 K, x(Sr) 0.625–0.625 | 28 | 5 |
 | [SISR_B33](#phase-si-sr-sisr-b33); _phase:si-sr:sisr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1464.4 K, x(Sr) 0.5–0.5 | 35 | 5 |
@@ -348,7 +348,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Si2Sr · cP12 · P4_132 — SiSr-09Gar-sub.tdb: 'Prototype Si2Sr (cP12, P4_132)'
 - Stoichiometry: Si 0.6667, Sr 0.3333
 - Stability: stable in 5 of 5 calculated diagram(s): 300–849.73 K, x(Sr) 0.33333–0.33333
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-sr:si2sr-alpha)
 
 Names (7): _corpus: _corpus:phase:si-sr:si2sr-alpha  
@@ -401,11 +401,11 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2019.101732](https://doi.org/10.1016/j.calphad.2019.101732) W. Yi, J. Gao, Y. Tang, L. Zhang, Calphad, 68, 101732(2020).  
 _assessment that models this phase_
+- [doi:10.1016/0022-4596(78)90010-5](https://doi.org/10.1016/0022-4596%2878%2990010-5) Jürgen Evers, Transformation of three-dimensional three-connected silicon nets in SrSi2, Journal of Solid State Chemistry 24, 199-207 (1978).  
+_cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2005.10.008](https://doi.org/10.1016/j.intermet.2005.10.008) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, G. Trionfetti, A. Palenzona et al., Vapor pressures and thermodynamic properties of strontium silicides, Intermetallics 14, 578-583 (2006).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2003.11.003](https://doi.org/10.1016/j.jallcom.2003.11.003) A Palenzona, M Pani, The phase diagram of the Sr–Si system, Journal of Alloys and Compounds 373, 214-219 (2004).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-4596(78)90010-5](https://doi.org/10.1016/0022-4596%2878%2990010-5) Jürgen Evers, Transformation of three-dimensional three-connected silicon nets in SrSi2, Journal of Solid State Chemistry 24, 199-207 (1978).  
 _cited as the source of values for this phase_
 
 ## SI2SR_CC (Si–Sr)

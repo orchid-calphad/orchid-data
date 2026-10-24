@@ -125,7 +125,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5NZ545FAPJ.092896 ORC-UCAWQ7TJ6P.783d75 ORC-5RTTGBYBLH.e4a9cb ORC-QMOW2L7IX7.f119fc ORC-GGF3AVZN5J.e1e1b9 ORC-VEF6TLJI5M.1fdda4 ORC-W5YFYFLRKV.dc0dbb ORC-ECIHSYUDRC.51f5ba ORC-ND427AX3LA.c37529 ORC-DCQYNUYZK5.e4e81f ORC-BBVSGB56XG.bcdf7f ORC-CK4YSGL7IJ.562121 ORC-EZXO34WQZ3.89ac0e ORC-L33SX3YAL7.9e5473 ORC-XQBHD62QNB.df2c63 ORC-QOCRQBJDUB.2cfa02 ORC-S2UL3AKO7G.3b7ada ORC-V3ZLX7NUVW.c59ec5 ORC-4ZUNGQUW25.f087f7 ORC-JK5N7SNTIR.ab96da ORC-366KWTOBRX.203572 ORC-QVRKZ3JDES.83eaf9 ORC-QXNLTOYRPC.8a8c21 ORC-QC5K7ODIQI.a4b770 ORC-DGXTGV74FJ.6ab7ef ORC-27ENRZHFIH.bb8a88 ORC-7CQZM6YFNQ.9b6728 ORC-2QGHJJNDFX.677f28 ORC-7IZSXRGLA5.1e62f8 ORC-PT3AK5E5VQ.f07da2 ORC-U6YCP2D4CE.814b84 ORC-ARISD7LQXQ.8f30cc ORC-RJVTZB7JFG.662ace ORC-EOL5JCK3PY.e00397 ORC-3YALOHDNR3.0de3fc ORC-C64TM3NLHR.d751c9 ORC-VCFZCCR356.9b7115 ORC-U76E3N3IBK.26f8f0 ORC-TSSLBQG7IF.0941a5 ORC-PJ7QENEB33.439622 ORC-EGWMVFTMZP.464734 ORC-5EULFO2SNI.7ff09c ORC-REX4O7CVVS.a62422 ORC-3BWGXP6SDT.52e3e9 ORC-CJLV4LOPNF.f82c71 ORC-YGRYUHWU3K.44ba39 ORC-DSM7RNGM22.155939 ORC-JNPKE2TTDJ.4011b2 ORC-AGU7ATIYGJ.57d46e",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5NZ545FAPJ.027e9e ORC-UCAWQ7TJ6P.414e38 ORC-5RTTGBYBLH.96385b ORC-QMOW2L7IX7.b85803 ORC-GGF3AVZN5J.b2016c ORC-VEF6TLJI5M.1c3b5c ORC-W5YFYFLRKV.f13a3c ORC-ECIHSYUDRC.11d1bb ORC-ND427AX3LA.56d405 ORC-DCQYNUYZK5.5adfea ORC-BBVSGB56XG.6425a1 ORC-CK4YSGL7IJ.ffa195 ORC-EZXO34WQZ3.09362c ORC-L33SX3YAL7.fa70d0 ORC-XQBHD62QNB.417385 ORC-QOCRQBJDUB.6f0e5d ORC-S2UL3AKO7G.92cdb8 ORC-V3ZLX7NUVW.254cf3 ORC-4ZUNGQUW25.0a396d ORC-JK5N7SNTIR.d22270 ORC-366KWTOBRX.2a89bd ORC-QVRKZ3JDES.eaf36f ORC-QXNLTOYRPC.e8c437 ORC-QC5K7ODIQI.ac5d9f ORC-DGXTGV74FJ.6ab7ef ORC-27ENRZHFIH.bb8a88 ORC-7CQZM6YFNQ.9b6728 ORC-2QGHJJNDFX.677f28 ORC-7IZSXRGLA5.1e62f8 ORC-PT3AK5E5VQ.f07da2 ORC-U6YCP2D4CE.814b84 ORC-ARISD7LQXQ.8f30cc ORC-RJVTZB7JFG.662ace ORC-EOL5JCK3PY.e00397 ORC-3YALOHDNR3.0de3fc ORC-C64TM3NLHR.d751c9 ORC-VCFZCCR356.9b7115 ORC-U76E3N3IBK.26f8f0 ORC-TSSLBQG7IF.0941a5 ORC-PJ7QENEB33.439622 ORC-EGWMVFTMZP.464734 ORC-5EULFO2SNI.7ff09c ORC-REX4O7CVVS.a62422 ORC-3BWGXP6SDT.52e3e9 ORC-CJLV4LOPNF.f82c71 ORC-YGRYUHWU3K.44ba39 ORC-DSM7RNGM22.155939 ORC-JNPKE2TTDJ.4011b2 ORC-AGU7ATIYGJ.57d46e",
  "reference_states": {
   "LI": {
    "phase": "LIQUID"
@@ -141,7 +141,7 @@
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-5NZ545FAPJ.092896",
+    "id": "ORC-5NZ545FAPJ.027e9e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -153,7 +153,7 @@
     ]
    },
    {
-    "id": "ORC-UCAWQ7TJ6P.783d75",
+    "id": "ORC-UCAWQ7TJ6P.414e38",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -165,7 +165,7 @@
     ]
    },
    {
-    "id": "ORC-5RTTGBYBLH.e4a9cb",
+    "id": "ORC-5RTTGBYBLH.96385b",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -177,7 +177,7 @@
     ]
    },
    {
-    "id": "ORC-QMOW2L7IX7.f119fc",
+    "id": "ORC-QMOW2L7IX7.b85803",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -189,7 +189,7 @@
     ]
    },
    {
-    "id": "ORC-GGF3AVZN5J.e1e1b9",
+    "id": "ORC-GGF3AVZN5J.b2016c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -201,7 +201,7 @@
     ]
    },
    {
-    "id": "ORC-VEF6TLJI5M.1fdda4",
+    "id": "ORC-VEF6TLJI5M.1c3b5c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -213,7 +213,7 @@
     ]
    },
    {
-    "id": "ORC-W5YFYFLRKV.dc0dbb",
+    "id": "ORC-W5YFYFLRKV.f13a3c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -225,7 +225,7 @@
     ]
    },
    {
-    "id": "ORC-ECIHSYUDRC.51f5ba",
+    "id": "ORC-ECIHSYUDRC.11d1bb",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -237,7 +237,7 @@
     ]
    },
    {
-    "id": "ORC-ND427AX3LA.c37529",
+    "id": "ORC-ND427AX3LA.56d405",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -249,7 +249,7 @@
     ]
    },
    {
-    "id": "ORC-DCQYNUYZK5.e4e81f",
+    "id": "ORC-DCQYNUYZK5.5adfea",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -261,7 +261,7 @@
     ]
    },
    {
-    "id": "ORC-BBVSGB56XG.bcdf7f",
+    "id": "ORC-BBVSGB56XG.6425a1",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -273,7 +273,7 @@
     ]
    },
    {
-    "id": "ORC-CK4YSGL7IJ.562121",
+    "id": "ORC-CK4YSGL7IJ.ffa195",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -285,7 +285,7 @@
     ]
    },
    {
-    "id": "ORC-EZXO34WQZ3.89ac0e",
+    "id": "ORC-EZXO34WQZ3.09362c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -297,7 +297,7 @@
     ]
    },
    {
-    "id": "ORC-L33SX3YAL7.9e5473",
+    "id": "ORC-L33SX3YAL7.fa70d0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -309,7 +309,7 @@
     ]
    },
    {
-    "id": "ORC-XQBHD62QNB.df2c63",
+    "id": "ORC-XQBHD62QNB.417385",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -321,7 +321,7 @@
     ]
    },
    {
-    "id": "ORC-QOCRQBJDUB.2cfa02",
+    "id": "ORC-QOCRQBJDUB.6f0e5d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -333,7 +333,7 @@
     ]
    },
    {
-    "id": "ORC-S2UL3AKO7G.3b7ada",
+    "id": "ORC-S2UL3AKO7G.92cdb8",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -345,7 +345,7 @@
     ]
    },
    {
-    "id": "ORC-V3ZLX7NUVW.c59ec5",
+    "id": "ORC-V3ZLX7NUVW.254cf3",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -357,7 +357,7 @@
     ]
    },
    {
-    "id": "ORC-4ZUNGQUW25.f087f7",
+    "id": "ORC-4ZUNGQUW25.0a396d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -369,7 +369,7 @@
     ]
    },
    {
-    "id": "ORC-JK5N7SNTIR.ab96da",
+    "id": "ORC-JK5N7SNTIR.d22270",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -381,7 +381,7 @@
     ]
    },
    {
-    "id": "ORC-366KWTOBRX.203572",
+    "id": "ORC-366KWTOBRX.2a89bd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -393,7 +393,7 @@
     ]
    },
    {
-    "id": "ORC-QVRKZ3JDES.83eaf9",
+    "id": "ORC-QVRKZ3JDES.eaf36f",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -405,7 +405,7 @@
     ]
    },
    {
-    "id": "ORC-QXNLTOYRPC.8a8c21",
+    "id": "ORC-QXNLTOYRPC.e8c437",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -417,7 +417,7 @@
     ]
    },
    {
-    "id": "ORC-QC5K7ODIQI.a4b770",
+    "id": "ORC-QC5K7ODIQI.ac5d9f",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -1274,7 +1274,8 @@
    "LIQUID"
   ],
   "basis": {
-   "caption_names_liquid": 49
+   "caption_names_liquid": 25,
+   "printed_labels": 24
   },
   "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
  },
@@ -1284,122 +1285,122 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-5NZ545FAPJ.092896",
+    "id": "ORC-5NZ545FAPJ.027e9e",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-UCAWQ7TJ6P.783d75",
+    "id": "ORC-UCAWQ7TJ6P.414e38",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-5RTTGBYBLH.e4a9cb",
+    "id": "ORC-5RTTGBYBLH.96385b",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-QMOW2L7IX7.f119fc",
+    "id": "ORC-QMOW2L7IX7.b85803",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-GGF3AVZN5J.e1e1b9",
+    "id": "ORC-GGF3AVZN5J.b2016c",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-VEF6TLJI5M.1fdda4",
+    "id": "ORC-VEF6TLJI5M.1c3b5c",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-W5YFYFLRKV.dc0dbb",
+    "id": "ORC-W5YFYFLRKV.f13a3c",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-ECIHSYUDRC.51f5ba",
+    "id": "ORC-ECIHSYUDRC.11d1bb",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-ND427AX3LA.c37529",
+    "id": "ORC-ND427AX3LA.56d405",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-DCQYNUYZK5.e4e81f",
+    "id": "ORC-DCQYNUYZK5.5adfea",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-BBVSGB56XG.bcdf7f",
+    "id": "ORC-BBVSGB56XG.6425a1",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-CK4YSGL7IJ.562121",
+    "id": "ORC-CK4YSGL7IJ.ffa195",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-EZXO34WQZ3.89ac0e",
+    "id": "ORC-EZXO34WQZ3.09362c",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-L33SX3YAL7.9e5473",
+    "id": "ORC-L33SX3YAL7.fa70d0",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-XQBHD62QNB.df2c63",
+    "id": "ORC-XQBHD62QNB.417385",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-QOCRQBJDUB.2cfa02",
+    "id": "ORC-QOCRQBJDUB.6f0e5d",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-S2UL3AKO7G.3b7ada",
+    "id": "ORC-S2UL3AKO7G.92cdb8",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-V3ZLX7NUVW.c59ec5",
+    "id": "ORC-V3ZLX7NUVW.254cf3",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-4ZUNGQUW25.f087f7",
+    "id": "ORC-4ZUNGQUW25.0a396d",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-JK5N7SNTIR.ab96da",
+    "id": "ORC-JK5N7SNTIR.d22270",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-366KWTOBRX.203572",
+    "id": "ORC-366KWTOBRX.2a89bd",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-QVRKZ3JDES.83eaf9",
+    "id": "ORC-QVRKZ3JDES.eaf36f",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-QXNLTOYRPC.8a8c21",
+    "id": "ORC-QXNLTOYRPC.e8c437",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-QC5K7ODIQI.a4b770",
+    "id": "ORC-QC5K7ODIQI.ac5d9f",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

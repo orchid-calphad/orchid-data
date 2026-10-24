@@ -309,7 +309,7 @@ _cited as the source of values for this phase_
 - Id: `phase:nd-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 692.67–2500 K, x(Zn) 0–1
-- Literature: 79 values (79 accepted) from 4 papers
+- Literature: 79 values (78 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:liquid)
 
 Names (9): _corpus: _corpus:phase:nd-zn:liquid  
@@ -502,7 +502,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_71_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.2143, Zn 0.7857
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1151.72 K, x(Zn) 0.78571–0.78571
-- Literature: 30 values (30 accepted) from 4 papers
+- Literature: 30 values (29 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:nd3zn11)
 
 Names (9): _corpus: _corpus:phase:nd-zn:nd3zn11  
@@ -808,7 +808,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.3333, Zn 0.6667
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1200.62 K, x(Zn) 0.66667–0.66667
-- Literature: 36 values (36 accepted) from 4 papers
+- Literature: 36 values (35 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:ndzn2)
 
 Names (9): _corpus: _corpus:phase:nd-zn:ndzn2  
@@ -871,7 +871,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_4_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nd 0.2500, Zn 0.7500
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1135.57 K, x(Zn) 0.75–0.75
-- Literature: 14 values (14 accepted) from 4 papers
+- Literature: 14 values (13 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:ndzn3)
 
 Names (9): _corpus: _corpus:phase:nd-zn:ndzn3  

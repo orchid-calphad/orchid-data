@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Sm2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1826800 unknown | C-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| -1823000 unknown | B-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
+| -1826.8 unknown | C-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
+| -1823 unknown | B-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
 
 ## Sources
 

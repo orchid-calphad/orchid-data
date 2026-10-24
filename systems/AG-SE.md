@@ -1,10 +1,10 @@
 # Ag–Se system
 
-> Ag–Se system: 157 accepted literature values (formation 93, heat capacity / entropy / enthalpy 31, phase transition 21, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Se system: 111 accepted literature values (formation 62, phase transition 21, heat capacity / entropy / enthalpy 16, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SE.html · Markdown: https://data.orchid-project.org/systems/AG-SE.md
 
-157 accepted literature values from 2 paper(s) (experimental 115, model 10, DFT 30, unspecified 2); 3 calculated phase diagram(s).
+111 accepted literature values from 2 paper(s) (experimental 69, model 10, DFT 30, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SE.html) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 115 |
+| experimental | 69 |
 | model | 10 |
 | DFT | 30 |
 | unspecified | 2 |
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 11 |
 | phase transition | 21 |
-| formation | 93 |
-| heat capacity / entropy / enthalpy | 31 |
+| formation | 62 |
+| heat capacity / entropy / enthalpy | 16 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -91,25 +91,10 @@ Table: Invariant reactions reported in the literature for the Ag–Se system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ag–Se system (61)
+Table: Enthalpies of formation, Ag–Se system (46)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -14.3633 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
-| UNKNOWN |  | -14.2433 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
-| UNKNOWN |  | -14.2433 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018 | Table 1, p. 3, row 9 |  |
-| UNKNOWN |  | -14.2333 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15 |  |
-| UNKNOWN |  | -14.1367 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
-| UNKNOWN |  | -14.12 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |
-| UNKNOWN |  | -13.7067 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
-| UNKNOWN |  | -13.54 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5 |  |
-| UNKNOWN |  | -13.3667 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6 |  |
-| UNKNOWN |  | -11.6867 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
-| UNKNOWN |  | -11.6833 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12 |  |
-| UNKNOWN |  | -11.68 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11 |  |
-| UNKNOWN |  | -11.6733 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10 |  |
-| UNKNOWN |  | -11.67 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018 | Table 1, p. 3, row 16 |  |
-| UNKNOWN |  | -11.6667 kJ/mol-atom | 298.15 | experimental |  |  | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
 | α-Ag |  | 0.518 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 3 |  |
 | α-Ag |  | 0.561 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 4 |  |
 | α-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -14.3633 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
@@ -187,28 +172,12 @@ Table: Phase transition, Ag–Se system
 | Phase transition | 1233.15 K | 1233.15 | Ag2Se3 | model | [2] Shi 2019; _cites Yaws 2015_ [doi](https://doi.org/10.1016/b978-0-12-800834-8.00002-5) | p. 4 | “Yaws\[29\] assessed the melting temperature of Ag2Se3 to be 960 C based on experimental values.” |
 | Phase transition | 2096.26 K | 2096.26 | other | model | [1] Li 2018 | p. 8 | “The calculated miscibility gap in liquid phase converges at 2096.26 K, which agrees with the value of Wiggett et al.\[25\] in that the boundary of the miscibility gap does not converge even at relatively high temperature (\* 1450 K).” |
 
-### Formation (32)
+### Formation (16)
 
 Table: Formation, Ag–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.4133 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.49 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.81 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.49 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 9 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.86 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.9567 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.81 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 16 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.53 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.8267 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.3967 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.88 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.34 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.3 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.84 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -15.6333 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6 |  |
-| Gibbs energy of formation; _printed: -ΔfG°_ | -16.47 kJ/mol-atom | 298.15 | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |
 | Gibbs energy of formation; _printed: −ΔfG°_ | -16.4133 kJ/mol-atom | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
 | Gibbs energy of formation; _printed: −ΔfG°_ | -16.49 kJ/mol-atom | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
 | Gibbs energy of formation; _printed: −ΔfG°_ | -16.49 kJ/mol-atom | 298.15 | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 9 |  |
@@ -226,27 +195,12 @@ Table: Formation, Ag–Se system
 | Gibbs energy of formation; _printed: −ΔfG°_ | -15.88 kJ/mol-atom | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
 | Gibbs energy of formation; _printed: −ΔfG°_ | -15.84 kJ/mol-atom | 298.15 | β-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
 
-### Heat capacity / entropy / enthalpy (31)
+### Heat capacity / entropy / enthalpy (16)
 
 Table: Heat capacity / entropy / enthalpy, Ag–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°_ | 51.5333 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
-| Entropy; _printed: S°_ | 49.9967 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
-| Entropy; _printed: S°_ | 56.3367 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 10 |  |
-| Entropy; _printed: S°_ | 49.9933 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 9 |  |
-| Entropy; _printed: S°_ | 56.48 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 11 |  |
-| Entropy; _printed: S°_ | 49.4 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Nasar 1997_ [doi](https://doi.org/10.1007/s11663-997-0120-5) | Table 1, p. 3, row 15 |  |
-| Entropy; _printed: S°_ | 56.3333 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 16 |  |
-| Entropy; _printed: S°_ | 49.7333 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
-| Entropy; _printed: S°_ | 56.3633 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 12 |  |
-| Entropy; _printed: S°_ | 50.0267 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 3 |  |
-| Entropy; _printed: S°_ | 56.5233 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 13 |  |
-| Entropy; _printed: S°_ | 51.8467 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 5 |  |
-| Entropy; _printed: S°_ | 56.46 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Oehsen 1981_ [doi](https://doi.org/10.1002/bbpc.19810850104) | Table 1, p. 3, row 14 |  |
-| Entropy; _printed: S°_ | 49.9667 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Olin 2005_ | Table 1, p. 3, row 6 |  |
-| Entropy; _printed: S°_ | 50.3433 J/mol-atom/K |  | UNKNOWN; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Grnvold 2003_ [doi](https://doi.org/10.1016/s0040-6031%2802%2900470-7) | Table 1, p. 3, row 7 |  |
 | Entropy; _printed: S°_ | 51.5333 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Feng 2013_ [doi](https://doi.org/10.1016/j.ssi.2012.10.013) | Table 1, p. 3, row 8 |  |
 | Entropy; _printed: S°_ | 49.9967 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
 | Entropy; _printed: S°_ | 49.9933 J/mol-atom/K |  | α-Ag2Se; _alloy: Se 0.333333_ | experimental | [1] Li 2018 | Table 1, p. 3, row 9 |  |

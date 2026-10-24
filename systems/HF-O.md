@@ -1,10 +1,10 @@
 # Hf–O system
 
-> Hf–O system: 49 accepted literature values (mixing / partial 36, formation 8, phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–O system: 16 accepted literature values (mixing / partial 11, phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-O.html · Markdown: https://data.orchid-project.org/systems/HF-O.md
 
-49 accepted literature values from 1 paper(s) (experimental 5, DFT 44); 2 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 5, DFT 11); 2 calculated phase diagram(s). 15 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O.json) · [CSV](https://data.orchid-project.org/systems/HF-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-O/HfO-06Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| DFT | 44 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
@@ -21,8 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase transition | 3 |
-| formation | 8 |
-| mixing / partial | 36 |
+| mixing / partial | 11 |
 
 ## Calculated phase diagrams
 
@@ -60,23 +59,6 @@ Table: Invariant reactions reported in the literature for the Hf–O system (2)
 | 2523 | peritectic: peritectic reaction |  | experimental | [1] Shin 2006; _cites Domagala 1965_ | p. 2 | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
 | 2273 | eutectic: eutectic reaction |  | experimental | [1] Shin 2006; _cites Rudy 1963_ [doi](https://doi.org/10.1016/0022-5088%2863%2990045-6) | p. 2 | “For the hafnium rich-side, Rudy and Stecher \[8\] proposed a eutectic reaction at 2273 K, while Domagala and Ruh \[9\] suggested a peritectic reaction around 2523 K.” |
 
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Hf–O system (8)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -965.702 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
-| UNKNOWN |  | -961.341 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
-| UNKNOWN |  | -957.906 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| UNKNOWN |  | -913.977 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| UNKNOWN |  | -869.96 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| UNKNOWN |  | -830.555 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| UNKNOWN |  | -827.053 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| UNKNOWN |  | -788.787 kJ/mol-atom | 0 | DFT |  |  | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-
 ## Other properties
 
 ### Phase transition (3)
@@ -89,30 +71,12 @@ Table: Phase transition, Hf–O system
 | Phase transition | 2793 K | 2793 | tetragonal → cubic | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
 | Phase transition | 3073 K | 3073 | cubic → liquid | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
 
-### Mixing / partial (36)
+### Mixing / partial (11)
 
 Table: Mixing / partial, Hf–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔHmix_ | -61.928 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -61.2715 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -176.866 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -181.908 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -107.768 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -307.1 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -108.075 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -144.356 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -107.818 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -311.16 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -146.428 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109.187 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -139.345 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109.481 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -180.37 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -227.299 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -109.23 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -315.52 kJ/mol-atom | 0 | UNKNOWN | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
 | Enthalpy of mixing; _printed: ΔH^mix_ | -61.928 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH^mix_ | -61.2715 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
 | Enthalpy of mixing; _printed: ΔH^mix_ | -107.768 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
@@ -123,14 +87,7 @@ Table: Mixing / partial, Hf–O system
 | Enthalpy of mixing; _printed: ΔH^mix_ | -109.187 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
 | Enthalpy of mixing; _printed: ΔH^mix_ | -109.481 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
 | Enthalpy of mixing; _printed: ΔH^mix_ | -109.23 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -176.866 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -181.908 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -307.1 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -311.16 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
 | Enthalpy of mixing; _printed: ΔHmix_ | -139.345 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -180.37 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -227.299 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -315.52 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
 
 ## Sources
 

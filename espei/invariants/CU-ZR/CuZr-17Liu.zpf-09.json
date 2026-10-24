@@ -114,10 +114,12 @@
   "observations": [
    {
     "id": "ORC-G442MKBK5P",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0522-2"
    },
    {
     "id": "ORC-AL4POCZYNT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0522-2",
     "also_reported_as": [
      {
@@ -129,6 +131,7 @@
    },
    {
     "id": "ORC-VHWZOFYGRG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0522-2"
    }
   ],

@@ -1,25 +1,22 @@
 # Li2Sb: enthalpy of formation
 
-> Enthalpy of formation of Li2Sb: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Li2Sb: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Li2Sb.html · Markdown: https://data.orchid-project.org/compounds/Li2Sb.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 5, model 2); experimental median -65.767 kJ/mol-atom (n = 5); Materials Project -61.478 kJ/mol-atom (mp-aaadjyvo); OQMD -56.263 kJ/mol-atom (oqmd-16940).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -65.767 kJ/mol-atom (n = 3); Materials Project -61.478 kJ/mol-atom (mp-aaadjyvo); OQMD -56.263 kJ/mol-atom (oqmd-16940).
 
 Systems: [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Li2Sb reported in the literature (7)
+Table: Enthalpy of formation of Li2Sb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -66.7 kJ/mol-atom ± 0.5 | Li2Sb | 820 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 3 |  |
 | -65.7667 kJ/mol-atom | Li2Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 1 |  |
-| -65.7667 kJ/mol-atom | Li2Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 1 |  |
 | -65 kJ/mol-atom | Li2Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 2 |  |
-| -65 kJ/mol-atom | Li2Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 2 |  |
-| -67.8667 kJ/mol-atom | Li2Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 3 |  |
 | -67.8667 kJ/mol-atom | Li2Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 3 |  |
 
 ## DFT formation energies

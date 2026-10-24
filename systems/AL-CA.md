@@ -1,10 +1,10 @@
 # Al–Ca system
 
-> Al–Ca system: 349 accepted literature values (formation 159, crystal structure 95, invariant reaction 62, phase transition 33) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ca system: 290 accepted literature values (formation 100, crystal structure 95, invariant reaction 62, phase transition 33) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CA.html · Markdown: https://data.orchid-project.org/systems/AL-CA.md
 
-349 accepted literature values from 5 paper(s) (experimental 93, model 99, DFT 127, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+290 accepted literature values from 5 paper(s) (experimental 76, model 84, DFT 100, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA.json) · [CSV](https://data.orchid-project.org/systems/AL-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CA/AlCa-01Kev-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CA.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 93 |
-| model | 99 |
-| DFT | 127 |
+| experimental | 76 |
+| model | 84 |
+| DFT | 100 |
 | unspecified | 30 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 62 |
 | phase transition | 33 |
-| formation | 159 |
+| formation | 100 |
 | crystal structure | 95 |
 
 ## Calculated phase diagrams
@@ -193,7 +193,7 @@ Table: Invariant reactions reported in the literature for the Al–Ca system (62
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ca system (121)
+Table: Enthalpies of formation, Al–Ca system (69)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -266,58 +266,6 @@ Table: Enthalpies of formation, Al–Ca system (121)
 | C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 31 |  |
 | C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 34 |  |
 | C15-Ca2Ca |  | 8.708 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 32 |  |
-| UNKNOWN |  | -219.5 kJ/mol (basis unstated) ± 20 | 298.15 | experimental |  |  | [5] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 2 |  |
-| UNKNOWN |  | -209 kJ/mol (basis unstated) ± 30 | 298.15 | experimental |  |  | [5] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 1 |  |
-| UNKNOWN |  | -100.9 kJ/mol (basis unstated) ± 1.9 | 298.15 | experimental |  |  | [5] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9 |  |
-| UNKNOWN |  | -100.509 kJ/mol (basis unstated) | 800 | model |  |  | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
-| UNKNOWN |  | -97 kJ/mol (basis unstated) ± 16.5 | 800 | experimental |  |  | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
-| UNKNOWN |  | -93.5 kJ/mol (basis unstated) |  | model |  |  | [5] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10 |  |
-| UNKNOWN |  | -93.5 kJ/mol (basis unstated) ± 1.25 | 953 | experimental |  |  | [5] Anglezio 1994; _cites ref. 82Not1_ | Table II, p. 8, row 5 |  |
-| UNKNOWN |  | -41.732 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 15 |  |
-| UNKNOWN |  | -36.604 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 11 |  |
-| UNKNOWN |  | -36.272 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 13 |  |
-| UNKNOWN |  | -34.3 kJ/mol-atom ± 3.5 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | Table IV, p. 5, row 21 |  |
-| UNKNOWN |  | -34.018 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 14 |  |
-| UNKNOWN |  | -33.4 kJ/mol-atom ± 0.6 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 20 |  |
-| UNKNOWN |  | -32.185 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 16 |  |
-| UNKNOWN |  | -32.136 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 12 |  |
-| UNKNOWN |  | -32.048 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 18 |  |
-| UNKNOWN |  | -31.3 kJ/mol-atom ± 0.5 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 22 |  |
-| UNKNOWN |  | -29.7 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 17 |  |
-| UNKNOWN |  | -29.4 kJ/mol-atom ± 0.9 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 19 |  |
-| UNKNOWN |  | -28.968 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 4 |  |
-| UNKNOWN |  | -28.904 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 36 |  |
-| UNKNOWN |  | -28.386 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 35 |  |
-| UNKNOWN |  | -27.689 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 39 |  |
-| UNKNOWN |  | -24.843 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 37 |  |
-| UNKNOWN |  | -22.8 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 38 |  |
-| UNKNOWN |  | -21.615 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 3 |  |
-| UNKNOWN |  | -21 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 6 |  |
-| UNKNOWN |  | -20.2 kJ/mol-atom ± 0.4 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 9 |  |
-| UNKNOWN |  | -20.034 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 7 |  |
-| UNKNOWN |  | -19.56 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 1 |  |
-| UNKNOWN |  | -19.4 kJ/mol-atom ± 3.3 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | Table IV, p. 5, row 10 |  |
-| UNKNOWN |  | -19.248 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 5 |  |
-| UNKNOWN |  | -19.208 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 2 |  |
-| UNKNOWN |  | -18.705 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 41 |  |
-| UNKNOWN |  | -18.7 kJ/mol-atom ± 0.3 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 8 |  |
-| UNKNOWN |  | -18.301 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 40 |  |
-| UNKNOWN |  | -17.679 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 44 |  |
-| UNKNOWN |  | -14 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 43 |  |
-| UNKNOWN |  | -13.7 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 45 |  |
-| UNKNOWN |  | -12.83 kJ/mol-atom |  | model |  |  | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 42 |  |
-| UNKNOWN |  | 8.182 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 33 |  |
-| UNKNOWN |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 31 |  |
-| UNKNOWN |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 34 |  |
-| UNKNOWN |  | 8.708 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 32 |  |
-| UNKNOWN |  | 14.653 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 25 |  |
-| UNKNOWN |  | 15.391 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 23 |  |
-| UNKNOWN |  | 15.391 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 26 |  |
-| UNKNOWN |  | 15.57 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 24 |  |
-| UNKNOWN |  | 43.208 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 28 |  |
-| UNKNOWN |  | 43.38 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 29 |  |
-| UNKNOWN |  | 46.508 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 30 |  |
-| UNKNOWN |  | 46.508 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 27 |  |
 
 ## Other properties
 
@@ -361,20 +309,18 @@ Table: Phase transition, Al–Ca system
 | Phase transition | 1359.6 K | 1359.6 | congruent melting: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 34 |  |
 | Phase transition | 1359.6 K | 1359.6 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Kevorkov 2001_ [doi](https://doi.org/10.1515/ijmr-2001-0173) | Table V, p. 7, row 27 |  |
 
-### Formation (38)
+### Formation (31)
 
 Table: Formation, Al–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔSf_ | -22.95 J/mol (basis unstated)/K |  | Al₄Ca | model | [5] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10 |  |
-| Entropy of formation; _printed: ΔSf_ | -22.95 J/mol (basis unstated)/K |  | UNKNOWN | model | [5] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10 |  |
 | Entropy of formation; _printed: ΔfS_ | -5.63 J/mol-atom/K | 298 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
 | Entropy of formation; _printed: ΔfS_ | -5.38 J/mol-atom/K | 298 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.3 J/mol-atom/K | 298 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.24 J/mol-atom/K | 298 | Al4Ca; _alloy: Ca 0.2_ | model | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
 | Entropy of formation; _printed: ΔSf_ | -21.45 J/mol (basis unstated)/K ± 3.9 | 298.15 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9 |  |
-| Entropy of formation; _printed: ΔSf_ | -21.45 J/mol (basis unstated)/K ± 3.9 | 298.15 | UNKNOWN | experimental | [5] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9 |  |
 | Entropy of formation; _printed: ΔfS_ | -5.67 J/mol-atom/K ± 0.93 | 788 | Al2Ca; _alloy: Ca 0.333333_ | experimental | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -4.29 J/mol-atom/K ± 0.78 | 788 | Al4Ca; _alloy: Ca 0.2_ | experimental | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 7 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.15 J/mol-atom/K | 800 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
@@ -386,8 +332,6 @@ Table: Formation, Al–Ca system
 | Entropy of formation; _printed: ΔfS_ | -2.15 J/mol-atom/K | 800 | AlCa; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Entropy of formation; _printed: ΔSf_ | -5.5 J/mol (basis unstated)/K ± 2.5 | 800 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
 | Entropy of formation; _printed: ΔSf_ | -23.85 J/mol (basis unstated)/K | 800 | Al₄Ca | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
-| Entropy of formation; _printed: ΔSf_ | -5.5 J/mol (basis unstated)/K ± 2.5 | 800 | UNKNOWN | experimental | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
-| Entropy of formation; _printed: ΔSf_ | -23.85 J/mol (basis unstated)/K | 800 | UNKNOWN | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -24.38 kJ/mol-atom | 298 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -27.7 kJ/mol-atom | 298 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -14.94 kJ/mol-atom | 298 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
@@ -401,10 +345,7 @@ Table: Formation, Al–Ca system
 | Gibbs energy of formation; _printed: ΔfG_ | -21.1 kJ/mol-atom | 800 | AlCa; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -0.089 kJ/mol (basis unstated) ± 7.000e-4 | 800 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -81.43 kJ/mol (basis unstated) | 800 | Al₄Ca | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -0.089 kJ/mol (basis unstated) ± 7.000e-4 | 800 | UNKNOWN | experimental | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -81.43 kJ/mol (basis unstated) | 800 | UNKNOWN | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -89 kJ/mol (basis unstated) | 823 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 77Pre_ | Table II, p. 8, row 3 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -89 kJ/mol (basis unstated) | 823 | UNKNOWN | experimental | [5] Anglezio 1994; _cites ref. 77Pre_ | Table II, p. 8, row 3 |  |
 
 ### Crystal structure (95)
 

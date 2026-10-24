@@ -93,6 +93,7 @@
   "observations": [
    {
     "id": "ORC-LXF23SQO3F",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.02.004",
     "also_reported_as": [
      {
@@ -104,6 +105,7 @@
    },
    {
     "id": "ORC-OHSV3GVDWI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.02.004"
    }
   ],

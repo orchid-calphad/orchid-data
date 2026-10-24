@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-O5NJUTUAGR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.surfcoat.2016.01.016",
     "measured_in": "ref:30f92f1f4e3b692d"
    }

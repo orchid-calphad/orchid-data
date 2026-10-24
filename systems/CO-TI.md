@@ -1,10 +1,10 @@
 # Co–Ti system
 
-> Co–Ti system: 289 accepted literature values (invariant reaction 130, phase transition 82, formation 30, phase equilibrium 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ti system: 282 accepted literature values (invariant reaction 129, phase transition 82, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TI.html · Markdown: https://data.orchid-project.org/systems/CO-TI.md
 
-289 accepted literature values from 6 paper(s) (experimental 146, model 123, unspecified 20); 6 calculated phase diagram(s).
+282 accepted literature values from 6 paper(s) (experimental 146, model 116, unspecified 20); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TI/CoTi-00Cac.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TI.html) · [Markdown](https://data.orchid-project.org/systems/CO-TI.md)
 
@@ -13,17 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 146 |
-| model | 123 |
+| model | 116 |
 | unspecified | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 130 |
+| invariant reaction | 129 |
 | phase transition | 82 |
 | phase equilibrium | 29 |
-| formation | 30 |
+| formation | 24 |
 | mixing / partial | 2 |
 | crystal structure | 16 |
 
@@ -139,7 +139,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Ti system (130)
+Table: Invariant reactions reported in the literature for the Co–Ti system (129)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -176,7 +176,6 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (13
 | 1492 | L + CoTi ⇄ C15 | L: Ti 0.298; CoTi: Ti 0.414; C15: Ti 0.325 | model | [3] Turchanin 2024; _cites Cacciamani 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900098-9) | Table 3, p. 9, row 39 |  |
 | 1484 | L + C15 ⇄ C36 | L: Ti 0.281; C15: Ti 0.321; C36: Ti 0.314 | model | [3] Turchanin 2024; _cites Cacciamani 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900098-9) | Table 3, p. 9, row 32 |  |
 | 1484 | Liquid + C15->C36 | Liquid: Ti 0.281; C15: Ti 0.321; C36: Ti 0.314 | model | [5] Cacciamani 2000 | Table 4, p. 7, row 10 |  |
-| 1483.15 | Liquid + A1 -> L12 | L: Co 0.817; A1: Co 0.793; L12: Co 0.855; Al: Co 0.793 | experimental | [1] Wu 2020; _cites Petkov 2020_ | Table 8, p. 9, row 3 |  |
 | 1483.15 | Liquid + C15 -> C36 | L: Co 0.725; C15: Co 0.668; C36: Co 0.695 | experimental | [1] Wu 2020; _cites Petkov 2020_ | Table 8, p. 9, row 8 |  |
 | 1483 | Liquid + C15->C36 | Liquid: Ti 0.29; C15: Ti 0.33; C36: Ti 0.312 | experimental | [5] Cacciamani 2000; _cites Murray 1987_ | Table 4, p. 7, row 9 |  |
 | 1483 | liquid + α-Co ↔ Co3Ti | liquid: Ti 0.195; α-Co: Ti 0.144; Co3Ti: Ti 0.191 | experimental | [2] Yang 2022; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02873414) | Table 5, p. 8, row 1 |  |
@@ -218,7 +217,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (13
 | 1431 | liquid ↔ Co3Ti + γ-Co2Ti | Co3Ti: Co 0.75, Ti 0.25 | unspecified | [2] Yang 2022; _cites Stein 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101681) | Table 5, p. 8, row 7 |  |
 | 1429.15 | peritectic: L + A1(αCo) -> L12 |  | experimental | [1] Wu 2020 | Table 4, p. 5, row 1 |  |
 | 1429.15 | Liquid + A1 -> L12 |  | experimental | [1] Wu 2020 | Table 8, p. 9, row 2 |  |
-| 1429 | peritectic: liq. + fcc(Co) → Co3Ti |  | model | [6] Wei 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | p. 2 | “The temperatures of above eutectic reaction and peritectic reaction liq. + fcc(Co) → Co3Ti were determined to be 1427 and 1429 K by differential scanning calorimetry (DSC) method, respectively.” |
+| 1429 | peritectic: liq. + fcc(Co) → Co3Ti |  | experimental | [6] Wei 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | p. 2 | “The temperatures of above eutectic reaction and peritectic reaction liq. + fcc(Co) → Co3Ti were determined to be 1427 and 1429 K by differential scanning calorimetry (DSC) method, respectively.” |
 | 1429 | liquid + α-Co ↔ Co3Ti | Co3Ti: Co 0.75, Ti 0.25 | unspecified | [2] Yang 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 5, p. 8, row 2 |  |
 | 1429 | L + (αCo) ⇄ Co3Ti | Co3Ti: Ti 0.25 | experimental | [3] Turchanin 2024; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 3, p. 9, row 16 |  |
 | 1428 | L + (αCo) ⇄ Co3Ti | L: Ti 0.23; (αCo): Ti 0.151; Co3Ti: Ti 0.215 | experimental | [3] Turchanin 2024; _cites Stein 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101681) | Table 3, p. 9, row 15 |  |
@@ -227,7 +226,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (13
 | 1427.15 | Liquid -> C36 + L12 |  | experimental | [1] Wu 2020 | Table 8, p. 9, row 5 |  |
 | 1427.15 | eutectic |  | experimental | [1] Wu 2020 | p. 11 | “The invariant equilibrium among liquid, C36 and L12 is determined to be eutectic experimentally. The eutectic temperature has been determined to be 1154 °C by means of DSC technique.” |
 | 1427.15 | eutectic: L -> L12 + C36 |  | experimental | [1] Wu 2020 | Table 4, p. 5, row 2 |  |
-| 1427 | eutectic: liq. → Co3Ti + λ3 |  | model | [6] Wei 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | p. 2 | “Wu et al. \[35\] confirmed the existence of eutectic reaction liq. → Co3Ti + λ3 by electron probe microanalysis (EPMA) and XRD analyses. The temperatures of above eutectic reaction and peritectic reaction liq. + fcc(Co) → Co3Ti were determined to be 1427 and 1429 K by differential scanning calorimetry (DSC) method, respectively.” |
+| 1427 | eutectic: liq. → Co3Ti + λ3 |  | experimental | [6] Wei 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | p. 2 | “Wu et al. \[35\] confirmed the existence of eutectic reaction liq. → Co3Ti + λ3 by electron probe microanalysis (EPMA) and XRD analyses. The temperatures of above eutectic reaction and peritectic reaction liq. + fcc(Co) → Co3Ti were determined to be 1427 and 1429 K by differential scanning calorimetry (DSC) method, respectively.” |
 | 1427 | liquid ↔ Co3Ti + γ-Co2Ti | Co3Ti: Co 0.75, Ti 0.25 | unspecified | [2] Yang 2022; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 5, p. 8, row 6 |  |
 | 1427 | L ⇄ Co3Ti + C36 | Co3Ti: Ti 0.25 | experimental | [3] Turchanin 2024; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 3, p. 9, row 24 |  |
 | 1427 | eutectic |  | experimental | [2] Yang 2022 | p. 2 | “The invariant reaction among liquid, Co3Ti and c-Co2Ti was deduced to be a eutectic type with the temperature of 1427 ± 3 K.” |
@@ -278,7 +277,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (13
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Ti system (25)
+Table: Enthalpies of formation, Co–Ti system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -301,12 +300,6 @@ Table: Enthalpies of formation, Co–Ti system (25)
 | L12 |  | -26.1875 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Wu 2020; _cites Balarin 1996_ [doi](https://doi.org/10.1002/zaac.19966220529) | Table 7, p. 9, row 2 |  |
 | L12 |  | -24.8211 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 1 |  |
 | L12 |  | -20.823 kJ/mol-atom | 298 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 1 |  |
-| UNKNOWN |  | -42.2 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table I, p. 2, row 7 |  |
-| UNKNOWN |  | -42.2 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Kaufman 1975_ [doi](https://doi.org/10.1007/bf03161838) | Table I, p. 2, row 2 |  |
-| UNKNOWN |  | -41.3 kJ/mol (basis unstated) ± 0.9 | 298.15 | experimental |  |  | [1] Wu 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 7, p. 9, row 7 |  |
-| UNKNOWN |  | -40.9 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Cacciamani 2001_ | Table I, p. 2, row 6 |  |
-| UNKNOWN |  | -40.5 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Nash 1998_ [doi](https://doi.org/10.1023/a:1004478101233) | Table I, p. 2, row 5 |  |
-| UNKNOWN |  | -26.1875 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Wu 2020; _cites Balarin 1996_ [doi](https://doi.org/10.1002/zaac.19966220529) | Table 7, p. 9, row 2 |  |
 
 ## Other properties
 
@@ -391,7 +384,7 @@ Table: Phase transition, Co–Ti system
 | Phase transition | 1774 K | 1774 | other: I DTA Heating Tpeak; _alloy: Co 0.519, Ti 0.481_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 2 |  |
 | Phase transition | 1775 K | 1775 | other: II DTA Heating Tpeak; _alloy: Co 0.506, Ti 0.494_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 11 |  |
 | Phase transition | 1776 K | 1776 | L ⇄ CoTi; _L: Ti 0.504; CoTi: Ti 0.504_ | experimental | [3] Turchanin 2024; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | Table 3, p. 9, row 45 |  |
-| Phase transition | 1776 K | 1776 | congruent melting | model | [2] Yang 2022; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | p. 2 | “After that, Davydov et al. \[23\] measured the congruent melting temperature of CoTi as 1776 K with an accuracy of ± 5 K by combination of visual observation of melting (VOM) and differential thermal analysis (DTA).” |
+| Phase transition | 1776 K | 1776 | congruent melting | experimental | [2] Yang 2022; _cites Davydov 2001_ [doi](https://doi.org/10.1007/s11661-001-0193-8) | p. 2 | “After that, Davydov et al. \[23\] measured the congruent melting temperature of CoTi as 1776 K with an accuracy of ± 5 K by combination of visual observation of melting (VOM) and differential thermal analysis (DTA).” |
 | Phase transition | 1776 K | 1776 | congruent transformation | model | [3] Turchanin 2024 | p. 2 | “The congruent melting point was determined to be 1776 ± 5 K at the congruent melting composition between 49.4 and 50.4 at.% Ti.” |
 | Phase transition | 1776 K | 1776 | other: III DTA Heating Tpeak; _alloy: Co 0.496, Ti 0.504_ | experimental | [4] Davydov 2001 | Table II, p. 3, row 20 |  |
 | Phase transition | 1778 K | 1778 | L ⇄ CoTi; _L: Ti 0.5; CoTi: Ti 0.5_ | experimental | [3] Turchanin 2024; _cites Stein 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101681) | Table 3, p. 9, row 46 |  |

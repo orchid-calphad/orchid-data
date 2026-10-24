@@ -19,7 +19,7 @@ Table: Phases of the Er–Fe system (8)
 | [ERFE3](#phase-er-fe-erfe3); _phase:er-fe:erfe3_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1616.08 K, x(Fe) 0.75–0.75 | 12 | 4 |
 | [FCC_A1](#phase-er-fe-fcc-a1); _phase:er-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 301.07–1810.85 K, x(Fe) 0.98085–1 | 12 | 4 |
 | [HCP_A3](#phase-er-fe-hcp-a3); _phase:er-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1830.54 K, x(Fe) 0–0.00269 | 6 | 4 |
-| [LIQUID](#phase-er-fe-liquid); _phase:er-fe:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1184.44–2500 K, x(Fe) 0–1 | 44 | 4 |
+| [LIQUID](#phase-er-fe-liquid); _phase:er-fe:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1184.44–2500 K, x(Fe) 0–1 | 62 | 4 |
 
 ## BCC_A2 (Er–Fe)
 
@@ -415,11 +415,11 @@ _cited as the source of values for this phase_
 - Id: `phase:er-fe:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1184.44–2500 K, x(Fe) 0–1
-- Literature: 44 values (44 accepted) from 4 papers
+- Literature: 62 values (62 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-fe:liquid)
 
-Names (9): _corpus: _corpus:phase:er-fe:liquid  
-_paper: _paper:10.1016/j.calphad.2011.04.001:L, paper:10.1016/j.jallcom.2011.08.014:L, paper:10.1016/j.physb.2010.05.046:L, paper:10.20517/jmi.2023.08:L  
+Names (10): _corpus: _corpus:phase:er-fe:liquid  
+_paper: _paper:10.1016/j.calphad.2011.04.001:L, paper:10.1016/j.jallcom.2011.08.014:L, paper:10.1016/j.physb.2010.05.046:L, paper:10.1016/j.physb.2010.05.046:liquid, paper:10.20517/jmi.2023.08:L  
 _tdb: _tdb:ErFe-10Zho.tdb:LIQUID, tdb:ErFe-11Wan.tdb:LIQUID, tdb:ErFe-12Wan.tdb:LIQUID, tdb:ErFe-23Ye.tdb:LIQUID  
 
 
@@ -455,11 +455,11 @@ _tdb: _tdb:ErFe-10Zho.tdb:LIQUID, tdb:ErFe-11Wan.tdb:LIQUID, tdb:ErFe-12Wan.tdb:
 
 Example references (5 of 5; assessments first): 
 
+- [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046) G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Thermodynamic assessment of the Fe–Er system, Physica B: Condensed Matter 405, 3590-3593 (2010).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2011.08.014](https://doi.org/10.1016/j.jallcom.2011.08.014) S.L. Wang, J.J. Han, C.P. Wang, S.Z. Kou, X.J. Liu, Thermodynamic assessment and the composition prediction of amorphous alloy in the Fe–B–Er alloy system, Journal of Alloys and Compounds 513, 27-34 (2012).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.04.001](https://doi.org/10.1016/j.calphad.2011.04.001) Wei Wang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic description of the Er–Fe–Sb system, Calphad 35, 292-301 (2011).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.physb.2010.05.046](https://doi.org/10.1016/j.physb.2010.05.046) G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Thermodynamic assessment of the Fe–Er system, Physica B: Condensed Matter 405, 3590-3593 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/pssb.19690350154](https://doi.org/10.1002/pssb.19690350154) K. H. J. Buschow, A. S. van der Goot, Phase Relations, Crystal Structures, and Magnetic Properties of Erbium—Iron Compounds, Physica Status Solidi (b) 35, 515-522 (1969).  
 _cited as the source of values for this phase_

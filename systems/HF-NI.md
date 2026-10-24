@@ -1,10 +1,10 @@
 # Hf–Ni system
 
-> Hf–Ni system: 101 accepted literature values (mixing / partial 30, formation 28, invariant reaction 16, phase transition 12) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni system: 92 accepted literature values (mixing / partial 30, formation 28, phase transition 12, heat capacity / entropy / enthalpy 11) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI.html · Markdown: https://data.orchid-project.org/systems/HF-NI.md
 
-101 accepted literature values from 3 paper(s) (experimental 11, model 90); 5 calculated phase diagram(s).
+92 accepted literature values from 3 paper(s) (experimental 11, model 81); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI.json) · [CSV](https://data.orchid-project.org/systems/HF-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NI/HfNi-01Wan-LB.json) · [phases (19)](https://data.orchid-project.org/phases/pages/HF-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 90 |
+| model | 81 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 7 |
 | phase transition | 12 |
 | phase equilibrium | 4 |
 | formation | 28 |
@@ -191,7 +191,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Ni system (16)
+Table: Invariant reactions reported in the literature for the Hf–Ni system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -201,15 +201,6 @@ Table: Invariant reactions reported in the literature for the Hf–Ni system (16
 | 1443.15 | eutectic: L -> Hf2Ni + β-HfNi | L: Ni 0.386; Hf2Ni: Ni 0.332; β-HfNi: Ni 0.5 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 6 |  |
 | 1430.15 | metatectic/catatectic: bcc-Hf -> hcp-Hf + L | bcc-Hf: Ni 0.029; hcp-Hf: Ni 0.004; L: Ni 0.101 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 4 |  |
 | 1412.15 | eutectic: L -> hcp-Hf + Hf2Ni | L: Ni 0.257; hcp-Hf: Ni 0.013; Hf2Ni: Ni 0.333 | model | [2] Cacciamani 2011 | Table 5, p. 7, row 5 |  |
-| 1390 | eutectic: L/Ni2AlHf + Ni64Al20Hf16 | L: Hf 0.18, Ni 0.61 | model | [1] Kaufman 1975 | Table IX, p. 10, row 1 |  |
-| 1330 | eutectic: L/Ni3Al + Ni64Al20Hf16 | L: Hf 0.1, Ni 0.68 | model | [1] Kaufman 1975 | Table IX, p. 10, row 2 |  |
-| 1320 | eutectic: L/Ni7Hf2 + Ni64Al20Hf16 | L: Hf 0.18, Ni 0.68; Ni7Hf2: Hf 0.222222, Ni 0.777778 | model | [1] Kaufman 1975 | Table IX, p. 10, row 3 |  |
-| 1300 | eutectic: L/Ni2AlHf + Ni7Hf | L: Hf 0.24, Ni 0.64 | model | [1] Kaufman 1975 | Table IX, p. 10, row 4 |  |
-| 1290 | eutectic: L/Ni7Hf2 + Ni3Al | L: Hf 0.1, Ni 0.76; Ni7Hf2: Hf 0.222222, Ni 0.777778 | model | [1] Kaufman 1975 | Table IX, p. 10, row 5 |  |
-| 1280 | eutectic: L/Ni7Hf2 + fcc + Ni3Al | L: Hf 0.09, Ni 0.79; Ni7Hf2: Hf 0.222222, Ni 0.777778 | model | [1] Kaufman 1975 | Table IX, p. 10, row 7 |  |
-| 1280 | eutectic: L/Ni7Hf2 + Ni3Al + Ni64Al20Hf16 | L: Hf 0.11, Ni 0.74; Ni7Hf2: Hf 0.222222, Ni 0.777778 | model | [1] Kaufman 1975 | Table IX, p. 10, row 8 |  |
-| 1280 | eutectic: L/Ni2AlHf + bcc | L: Hf 0.08, Ni 0.57 | model | [1] Kaufman 1975 | Table IX, p. 10, row 6 |  |
-| 1260 | eutectic: L/Ni2AlHf + bcc + Ni64Al20Hf16 | L: Hf 0.08, Ni 0.6 | model | [1] Kaufman 1975 | Table IX, p. 10, row 9 |  |
 | 1138.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 9 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of HfB2 and the steepness of its liquidus surface, (b) the deep valley close to the Hf-Ni binary subsystem which includes the lowest ternary eutectic of the system: Liquid HfB2 + α -HfNi3 + Hf7 Ni10 at 865 °C.” |
 
 ## Formation enthalpies

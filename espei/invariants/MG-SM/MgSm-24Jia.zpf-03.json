@@ -329,46 +329,55 @@
   "observations": [
    {
     "id": "ORC-SB6SYUCTXR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-UVQLB36F6Q",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-N4R4QEVIBB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-MWPTPVV3CN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-22GSGDQOLY.617701",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-6IGWRET62L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-3VXE2R2LGN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-2SQST3P2J2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15"
    },
    {
     "id": "ORC-GLJFWQF3DM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15",
     "caveats": [
@@ -377,6 +386,7 @@
    },
    {
     "id": "ORC-22GSGDQOLY.9f9509",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01111-0",
     "measured_in": "unresolved:source:doi:10-1007-s11669-024-01111-0#15",
     "caveats": [

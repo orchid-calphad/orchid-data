@@ -1,10 +1,10 @@
 # Al–Ce–Nd system
 
-> Al–Ce–Nd system: 34 accepted literature values (formation 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ce–Nd system: 17 accepted literature values (formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CE-ND.html · Markdown: https://data.orchid-project.org/systems/AL-CE-ND.md
 
-34 accepted literature values from 1 paper(s) (DFT 34); 0 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (DFT 17); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CE-ND.json) · [CSV](https://data.orchid-project.org/systems/AL-CE-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CE-ND) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CE-ND.html) · [Markdown](https://data.orchid-project.org/systems/AL-CE-ND.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 34 |
+| DFT | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 34 |
+| formation | 17 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ce–Nd system (34)
+Table: Enthalpies of formation, Al–Ce–Nd system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -38,23 +38,6 @@ Table: Enthalpies of formation, Al–Ce–Nd system (34)
 | AlRE |  | -32.5057 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6 |  |
 | AlRE2 |  | -26.6587 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
 | AlRE2 |  | -21.217 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
-| UNKNOWN |  | -49.5835 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5 |  |
-| UNKNOWN |  | -44.5952 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 5 |  |
-| UNKNOWN |  | -40.9192 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
-| UNKNOWN |  | -39.5973 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6 |  |
-| UNKNOWN |  | -38.7097 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
-| UNKNOWN |  | -38.4492 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
-| UNKNOWN |  | -38.0536 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
-| UNKNOWN |  | -36.0853 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2 |  |
-| UNKNOWN |  | -34.6477 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 2 |  |
-| UNKNOWN |  | -32.5057 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 6 |  |
-| UNKNOWN |  | -31.4637 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1 |  |
-| UNKNOWN |  | -29.148 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 1 |  |
-| UNKNOWN |  | -26.9289 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |
-| UNKNOWN |  | -26.6587 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
-| UNKNOWN |  | -21.217 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 7 |  |
-| UNKNOWN |  | -15.7849 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |
-| UNKNOWN |  | -15.013 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 8 |  |
 | αAl3RE |  | -40.9192 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
 | αAl3RE |  | -38.7097 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 4 |  |
 | αAlRE3 |  | -26.9289 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |

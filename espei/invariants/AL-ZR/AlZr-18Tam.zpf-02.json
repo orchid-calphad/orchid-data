@@ -83,6 +83,7 @@
   "observations": [
    {
     "id": "ORC-ZRY4MKU2VM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "ref:b7f1321d350e5fe7",
     "also_reported_as": [
@@ -96,6 +97,7 @@
    },
    {
     "id": "ORC-U5HOD6WFWQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "ref:b7f1321d350e5fe7"
    }

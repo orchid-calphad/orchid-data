@@ -1,10 +1,10 @@
 # Cu–Ga system
 
-> Cu–Ga system: 95 accepted literature values (invariant reaction 87, activity / EMF / Gibbs energy 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Ga system: 93 accepted literature values (invariant reaction 85, activity / EMF / Gibbs energy 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GA.html · Markdown: https://data.orchid-project.org/systems/CU-GA.md
 
-95 accepted literature values from 2 paper(s) (experimental 60, model 35); 2 calculated phase diagram(s).
+93 accepted literature values from 2 paper(s) (experimental 58, model 35); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-GA.json) · [CSV](https://data.orchid-project.org/systems/CU-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-GA/CuGa-08Li.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-GA.html) · [Markdown](https://data.orchid-project.org/systems/CU-GA.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 60 |
+| experimental | 58 |
 | model | 35 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 87 |
+| invariant reaction | 85 |
 | activity / EMF / Gibbs energy | 8 |
 
 ## Calculated phase diagrams
@@ -65,7 +65,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Ga system (87)
+Table: Invariant reactions reported in the literature for the Cu–Ga system (85)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -87,13 +87,11 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (87
 | 1105.5 | peritectic: bcc + L \<-> gamma0 | bcc: Ga 0.266; L: Ga 0.314; gamma0: Ga 0.301 | model | [2] Li 2008 | Table 1, p. 2, row 4 |  |
 | 918 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 22 |  |
 | 915 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 21 |  |
-| 912 | peritectic: gamma + L \<-> delta | gamma: Ga 0.357; L: Ga 0.508; delta: Ga 0.382; γ: Ga 0.357; δ: Ga 0.382 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 23 |  |
 | 912 | LIQUID + GAMMA_DIS + GAMMA_ORD | GAMMA_ORD: Cu 0.5, Ga 0.5 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 9 |  |
 | 911.2 | order-disorder: gamma0 \<-> gamma1 | gamma0: Cu 0.5, Ga 0.5 | model | [2] Li 2008 | Table 1, p. 2, row 20 |  |
 | 895.5 | peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.237; fcc: Ga 0.203; hcp: Ga 0.224 | model | [2] Li 2008 | Table 1, p. 2, row 9 |  |
 | 895 | HCP_A3 + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 11 |  |
 | 895 | eutectoid: bcc \<-> hcp + gamma0 | gamma0: Cu 0.5, Ga 0.5 | experimental | [2] Li 2008 | Table 1, p. 2, row 13 |  |
-| 893 | eutectoid: bcc \<-> fcc + gamma | bcc: Ga 0.232; fcc: Ga 0.19; gamma: Ga 0.295; γ: Ga 0.295 | experimental | [2] Li 2008; _cites Weibke 1934_ [doi](https://doi.org/10.1002/zaac.19342200309) | Table 1, p. 2, row 11 |  |
 | 893 | HCP_A3 + FCC_A1 + BCC_A2 |  | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 10 |  |
 | 893 | HCP_A3 + FCC_A1 + BCC_A2 |  | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 13 |  |
 | 892.5 | peritectoid: bcc + fcc \<-> hcp | bcc: Ga 0.23; hcp: Ga 0.22 | experimental | [2] Li 2008; _cites Hume-Rothery 1937_ | Table 1, p. 2, row 10 |  |

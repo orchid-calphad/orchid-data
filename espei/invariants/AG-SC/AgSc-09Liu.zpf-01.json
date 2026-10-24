@@ -206,31 +206,37 @@
   "observations": [
    {
     "id": "ORC-DGARZ4JSFW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    },
    {
     "id": "ORC-FWD7BH4BM6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    },
    {
     "id": "ORC-IYFVOVL4KI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    },
    {
     "id": "ORC-IPH46X2OIV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    },
    {
     "id": "ORC-VDWCG2HQMY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    },
    {
     "id": "ORC-R7AMQAPULL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.02.018",
     "measured_in": "doi:10.1016/0022-5088(75)90196-4"
    }

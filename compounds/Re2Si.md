@@ -1,22 +1,21 @@
 # Re2Si: enthalpy of formation
 
-> Enthalpy of formation of Re2Si: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Re2Si: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Re2Si.html · Markdown: https://data.orchid-project.org/compounds/Re2Si.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 4, model 7); experimental median -16.35 kJ/mol-atom (n = 4); Materials Project 12.813 kJ/mol-atom (mp-aaabmclv); OQMD -21.934 kJ/mol-atom (oqmd-1800633).
+10 accepted literature formation-enthalpy value(s) (experimental 3, model 7); experimental median -20 kJ/mol-atom (n = 3); Materials Project 12.813 kJ/mol-atom (mp-aaabmclv); OQMD -21.934 kJ/mol-atom (oqmd-1800633).
 
 Systems: [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) · [Re–Si](https://data.orchid-project.org/systems/RE-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Re2Si reported in the literature (11)
+Table: Enthalpy of formation of Re2Si reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Searcy 1953_ [doi](https://doi.org/10.1021/ja01103a017) | Table 1, p. 3, row 1 |  |
 | -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
-| -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
 | -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
 | -27 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites de Boer FR 1989_ | Table 1, p. 3, row 3 |  |
 | -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5 |  |

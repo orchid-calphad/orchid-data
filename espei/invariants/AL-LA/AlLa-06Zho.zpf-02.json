@@ -102,10 +102,12 @@
   "observations": [
    {
     "id": "ORC-AADKAADJCT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2005.10.013"
    },
    {
     "id": "ORC-AXRX3HDKRV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2005.10.013"
    }
   ],

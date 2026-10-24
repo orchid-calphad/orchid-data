@@ -1,10 +1,10 @@
 # Ce–Fe system
 
-> Ce–Fe system: 21 accepted literature values (invariant reaction 19, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Fe system: 20 accepted literature values (invariant reaction 18, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-FE.html · Markdown: https://data.orchid-project.org/systems/CE-FE.md
 
-21 accepted literature values from 1 paper(s) (experimental 15, model 6); 3 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 14, model 6); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-FE.json) · [CSV](https://data.orchid-project.org/systems/CE-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-FE/CeFe-06Su.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CE-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-FE.html) · [Markdown](https://data.orchid-project.org/systems/CE-FE.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 14 |
 | model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 19 |
+| invariant reaction | 18 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -79,7 +79,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Fe system (19)
+Table: Invariant reactions reported in the literature for the Ce–Fe system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -100,7 +100,6 @@ Table: Invariant reactions reported in the literature for the Ce–Fe system (19
 | 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.17; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 15 |  |
 | 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.1635; Ce2Fe17: Fe 0.8947; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 13 |  |
 | 865 | eutectic |  | experimental | [1] Su 2006; _cites Gschneidner 1974_ | p. 3 | “A eutectic reaction occurs at 865 K with the composition 83 at.% cerium \[25\] or 83.3 at.% cerium \[18,19\].” |
-| 865 | eutectic |  | experimental | [1] Su 2006; _cites Chuang 1987_ | p. 3 | “A eutectic reaction occurs at 865 K with the composition 83 at.% cerium \[25\] or 83.3 at.% cerium \[18,19\].” |
 | 865 | Liq. -> Ce2Fe17 + (γCe) | Liq.: Fe 0.167; Ce2Fe17: Fe 0.8947; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 14 |  |
 
 ## Other properties

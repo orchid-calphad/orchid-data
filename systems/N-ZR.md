@@ -57,8 +57,8 @@ Table: Enthalpies of formation, N–Zr system (28)
 | ZrN |  | -166.448 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 3, p. 3, row 1 |  |
 | ZrN0.5 |  | -219.829 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 3 |  |
 | ZrN0.5 |  | -130.064 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 4 |  |
+| ZrN3 |  | 67.3936 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
 | ZrN3 |  | 108.517 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 1 |  |
-| ZrN3 |  | 269.574 kJ/mol-atom | 0 | DFT |  |  | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
 | ZrNy |  | 340.166 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 27 |  |
 | ZrNy |  | 347.224 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 26 |  |
 | ZrNy |  | 364.828 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Ma 2004; _cites Smagina 1961_ | Table 2, p. 2, row 22 |  |

@@ -2,6 +2,40 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Literature-level consistency gates (2026-10-23).** Every literature value was checked against its table, its
+paper, the physics of its quantity and the calculated SGTE diagrams of its system (12 gates, `tools/literature_gates.py`,
+literature/QUALITY_FIXES.md section 7). Corrections were made only where the evidence is printed (header, caption,
+heading) or follows from a whole table, and every table-level unit / sign / scale correction and every system
+reassignment was confirmed on the rendered PDF page (515 page checks, `tools/literature_visual_checks.json`: page,
+image hash, verdict, what was seen; no images published). Stored values are kept (`value_stored`,
+`temperature_K_stored`, `system_stored`, ...) and each changed record carries `corrections`; demoted or flagged
+records carry `gate_failures`. No printed value or quote changed. 77,540 -> 74,474 records (3,066 cosmetic duplicates
+merged: an UNKNOWN beside a named phase, L vs liquid, glyph variants); accepted 76,600 -> 73,165; espei_ready
+12,221 -> 11,956; espei_certified 1,928 -> 1,912. Corrections: 132 table temperatures (°C tables stored as K: Ag-Pt
+Table 6, Ag-Cu-Sn Table I, Bi-Sb-Sn Table V, Ce-Cu-Sn Table 4, Si-Pb, SiO decomposition) plus 11 rows read on the
+page (Ru-U Table 6 °C column, B-C-Si "This work" rows); 316 J-vs-kJ / x10^3 table scales (Co-Ge, Co-Zr, Cr-Si, Ni-Ti,
+Fe-Ti a_Ti x10^3, Li-Sb partial enthalpies, Nb borides, rare-earth sesquioxides ...); 171 per-gram heat capacities
+relabelled J/g/K; 31 values under a printed (-ΔfH) heading negated (Al-Pt); 12 signs read on the page; 177 values
+moved to the system their phases and caption name (cement notation C-S -> Ca-O-Si, Al-C-Fe, Au-Sn, Gd-Si, Ce-Mg-Y,
+Fe-Y, Er-Fe, Co-Mo ...); 286 "Gibbs free energy of formation" values recoded GM_MIX -> GM_FORM; fusion / lattice
+stability / entropy-increment / magnetic and excess entropy codes; 619 invariant phase lists cleaned of repeated
+liquids and non-phase labels. Demoted (not accepted): values outside physical ranges, Redlich-Kister parameters
+and Cp polynomial coefficients stored as properties (185), compositions or dashes read as temperatures, liquids at
+impossible temperatures, values the page check found misread (79) or belonging to a higher-order system (8).
+Flagged (not ESPEI-ready): inconsistent reaction phase counts, binary rows with four phases, compositions not summing
+to one, activities rounded to 0, evidence-class changes suggested by wording but not checked on the page.
+Evidence class: 47 model -> experimental (cited) and 8 model -> dft, each confirmed on the page (31 suggestions
+rejected there); values from ASM / JPE phase-diagram evaluations flagged `from_evaluation_paper`. `reader_agreement`
+derived from `readers` where the record builder had not set it (`reader_agreement_basis`); `reader_tier` documented
+as a pipeline status. CALPHAD cross-check now carries `dx` and `fail_reason`; the 1 atm default pressure is
+`assumed_default_1_atm_not_printed`. ESPEI bundle rebuilt (experimental 1,012 datasets / 3,012 values, model 542 /
+845, invariants 1,673 / 5,576, DFT literature 441, MP 1,218, OQMD 1,218, assessed 654); ESPEI 0.9.1 likelihood
+evaluation of all 8,336 datasets against their TDB finite. DFT benchmark 7,745 points (MAE vs MP 11.0, OQMD 9.6
+kJ/mol-atom); Kim et al. 2017 cross-check 162 formulas, MAE 3.87. Parquet columns `gate_failures`,
+`corrections_json`, `temperature_K_stored`, `system_stored`, `evidence_class_before_gates`,
+`property_code_before_gates`, `reader_agreement_basis`, `plausibility_dx_json`. Dataset card counts corrected
+(papers 1,321, systems 1,392).
+
 **ESPEI phase assignment fixed; ESPEI readiness split into ready / certified (2026-10-23).** Root cause: the corpus
 ESPEI writer gave every thermochemical dataset the phase LIQUID when no printed label mapped to a model phase, and
 added LIQUID beside every mapped phase, so compound formation enthalpies (e.g. Fe17Y2, Saenko 2017 table 5, 973 K)

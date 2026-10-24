@@ -92,10 +92,12 @@
   "observations": [
    {
     "id": "ORC-5ZRSP3P4Z7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.05.005"
    },
    {
     "id": "ORC-F72MRXTNLB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.05.005"
    }
   ],

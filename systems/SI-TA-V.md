@@ -1,10 +1,10 @@
 # Si–Ta–V system
 
-> Si–Ta–V system: 224 accepted literature values (formation 136, crystal structure 88) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta–V system: 156 accepted literature values (crystal structure 88, formation 68) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA-V.html · Markdown: https://data.orchid-project.org/systems/SI-TA-V.md
 
-224 accepted literature values from 1 paper(s) (experimental 80, model 72, DFT 24, unspecified 48); 0 calculated phase diagram(s).
+156 accepted literature values from 1 paper(s) (experimental 58, model 42, DFT 24, unspecified 32); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA-V.json) · [CSV](https://data.orchid-project.org/systems/SI-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA-V.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 80 |
-| model | 72 |
+| experimental | 58 |
+| model | 42 |
 | DFT | 24 |
-| unspecified | 48 |
+| unspecified | 32 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 136 |
+| formation | 68 |
 | crystal structure | 88 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si–Ta–V system (136)
+Table: Enthalpies of formation, Si–Ta–V system (68)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -67,74 +67,6 @@ Table: Enthalpies of formation, Si–Ta–V system (136)
 | TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -11.4 kJ/mol-atom | 0 | model | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
 | TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -10.2 kJ/mol-atom | 0 | model | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
 | TaV2 | [TaV2](https://data.orchid-project.org/compounds/TaV2.html) | -10.2 kJ/mol-atom | 0 | unspecified | -10.061 (mp-aaabghei) | -12.128 (oqmd-1365869) | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
-| UNKNOWN |  | -59.8 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 49 |  |
-| UNKNOWN |  | -59 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 31 |  |
-| UNKNOWN |  | -58.1 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 28 |  |
-| UNKNOWN |  | -57.6 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 27 |  |
-| UNKNOWN |  | -56.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
-| UNKNOWN |  | -56 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 67 |  |
-| UNKNOWN |  | -55.4 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 34 |  |
-| UNKNOWN |  | -55.4 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 56 |  |
-| UNKNOWN |  | -54.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 64 |  |
-| UNKNOWN |  | -54.2 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 29 |  |
-| UNKNOWN |  | -54.1 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 42 |  |
-| UNKNOWN |  | -53.7 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 33 |  |
-| UNKNOWN |  | -52.8 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 68 |  |
-| UNKNOWN |  | -52.8 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
-| UNKNOWN |  | -52.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 23 |  |
-| UNKNOWN |  | -52.4 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
-| UNKNOWN |  | -52.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
-| UNKNOWN |  | -52.1 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 65 |  |
-| UNKNOWN |  | -51.6 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
-| UNKNOWN |  | -51.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
-| UNKNOWN |  | -51 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 66 |  |
-| UNKNOWN |  | -50.7 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
-| UNKNOWN |  | -50.5 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 30 |  |
-| UNKNOWN |  | -48.1 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 59 |  |
-| UNKNOWN |  | -48.1 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
-| UNKNOWN |  | -47 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 35 |  |
-| UNKNOWN |  | -46.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 43 |  |
-| UNKNOWN |  | -46.4 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
-| UNKNOWN |  | -46 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 32 |  |
-| UNKNOWN |  | -46 kJ/mol-atom ± 2.5 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 45 |  |
-| UNKNOWN |  | -45.9 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 41 |  |
-| UNKNOWN |  | -45.2 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
-| UNKNOWN |  | -45.1 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
-| UNKNOWN |  | -44.5 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 8 |  |
-| UNKNOWN |  | -44.4 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites P 1999_ | Table 2, p. 6, row 39 |  |
-| UNKNOWN |  | -44.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
-| UNKNOWN |  | -44.1 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 21 |  |
-| UNKNOWN |  | -43.3 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
-| UNKNOWN |  | -43 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
-| UNKNOWN |  | -43 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 60 |  |
-| UNKNOWN |  | -41.8 kJ/mol-atom ± 7.8 | 298 | experimental |  |  | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
-| UNKNOWN |  | -41.8 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
-| UNKNOWN |  | -41.7 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 36 |  |
-| UNKNOWN |  | -41.5 kJ/mol-atom ± 2 | 298 | experimental |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 37 |  |
-| UNKNOWN |  | -41.1 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 48 |  |
-| UNKNOWN |  | -39.7 kJ/mol-atom | 298 | experimental |  |  | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
-| UNKNOWN |  | -39.7 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 38 |  |
-| UNKNOWN |  | -39 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
-| UNKNOWN |  | -38.8 kJ/mol-atom | 298 | experimental |  |  | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 47 |  |
-| UNKNOWN |  | -38.8 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom ± 1.7 | 298 | experimental |  |  | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
-| UNKNOWN |  | -37.7 kJ/mol-atom ± 4.7 | 298 | experimental |  |  | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
-| UNKNOWN |  | -35.3 kJ/mol-atom ± 3 | 298 | experimental |  |  | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
-| UNKNOWN |  | -33.9 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
-| UNKNOWN |  | -32.4 kJ/mol-atom ± 14 | 298 | experimental |  |  | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 44 |  |
-| UNKNOWN |  | -29 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 40 |  |
-| UNKNOWN |  | -22.6 kJ/mol-atom ± 7.8 | 298 | experimental |  |  | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 46 |  |
-| UNKNOWN |  | -11.7 kJ/mol-atom |  | model |  |  | [1] Broz 2013; _cites Charifi 2009_ | Table 2, p. 6, row 2 |  |
-| UNKNOWN |  | -11.4 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 1 |  |
-| UNKNOWN |  | -11.4 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
-| UNKNOWN |  | -10.2 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
-| UNKNOWN |  | -10.2 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
-| UNKNOWN |  | 5 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 7 |  |
-| UNKNOWN |  | 5.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 6 |  |
-| UNKNOWN |  | 6.3 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 19 |  |
-| UNKNOWN |  | 52 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 18 |  |
-| UNKNOWN |  | 54.3 kJ/mol-atom | 0 | model |  |  | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
-| UNKNOWN |  | 56.7 kJ/mol-atom | 0 | unspecified |  |  | [1] Broz 2013 | Table 2, p. 6, row 17 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -46.4 kJ/mol-atom ± 1 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.2 kJ/mol-atom |  | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.1 kJ/mol-atom ± 2 | 298 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |

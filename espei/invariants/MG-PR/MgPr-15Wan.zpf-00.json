@@ -334,46 +334,55 @@
   "observations": [
    {
     "id": "ORC-H23CRMUAGR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-2ITE5JPES3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-633HMZSPJZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-XQ7V7UXGOU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-LCVN4YE7Z7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-DBEUGDS56C",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-ERNH72RJGY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-WTLQ63DOVD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-ZBYV5GVHVC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    }

@@ -1,20 +1,19 @@
 # Sm2Ti3: enthalpy of formation
 
-> Enthalpy of formation of Sm2Ti3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Sm2Ti3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sm2Ti3.html · Markdown: https://data.orchid-project.org/compounds/Sm2Ti3.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 1, unspecified 1); OQMD 65.771 kJ/mol-atom (oqmd-428705).
+1 accepted literature formation-enthalpy value(s) (unspecified 1); OQMD 65.771 kJ/mol-atom (oqmd-428705).
 
 Systems: [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sm2Ti3 reported in the literature (2)
+Table: Enthalpy of formation of Sm2Ti3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 87.242 kJ/mol-atom | hP5 Sm₂Ti₃ | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 41 |  |
 | 12.6685 kJ/mol-atom | Sm₂Ti₃ | 0 | unspecified |  | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 2, p. 13, row 4 |  |
 
 ## DFT formation energies

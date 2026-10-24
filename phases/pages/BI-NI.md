@@ -26,7 +26,7 @@ Table: Phases of the Bi–Ni system (7)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 7 of 7 calculated diagram(s): 300–544.55 K, x(Ni) 0–0
-- Literature: 34 values (34 accepted) from 5 papers
+- Literature: 34 values (33 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:a7-rhombohedral)
 
 Names (14): _corpus: _corpus:phase:bi-ni:a7-rhombohedral, corpus:phase:bi-ni:rhombohedral-a7  
@@ -196,7 +196,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.7500, Ni 0.2500
 - Stability: stable in 7 of 7 calculated diagram(s): 300–745.59 K, x(Ni) 0.25–0.25
-- Literature: 80 values (80 accepted) from 5 papers
+- Literature: 80 values (78 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:bi3ni)
 
 Names (13): _corpus: _corpus:phase:bi-ni:bi3ni  
@@ -283,7 +283,7 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-ni:bini-b81`; status `assigned`
 - Structure: NiAs · B8_1 · hP4 · P6_3/mmc (194); type `st:b8-1-nias-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–924.57 K, x(Ni) 0.47901–0.50003
-- Literature: 75 values (75 accepted) from 5 papers
+- Literature: 75 values (74 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:bini-b81)
 
 Names (13): _corpus: _corpus:phase:bi-ni:bini-b81  
@@ -370,7 +370,7 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2499.49 K, x(Ni) 0.97782–1
-- Literature: 47 values (47 accepted) from 5 papers
+- Literature: 47 values (45 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:fcc-a1)
 
 Names (16): _corpus: _corpus:phase:bi-ni:fcc-a1  
@@ -537,7 +537,7 @@ _assessment that models this phase_
 - Id: `phase:bi-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 542.82–2500 K, x(Ni) 0–1
-- Literature: 127 values (124 accepted) from 5 papers
+- Literature: 127 values (121 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:liquid)
 
 Names (15): _corpus: _corpus:phase:bi-ni:liquid  

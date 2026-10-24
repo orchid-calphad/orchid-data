@@ -1,10 +1,10 @@
 # Am–O system
 
-> Am–O system: 88 accepted literature values (crystal structure 56, formation 10, heat capacity / entropy / enthalpy 10, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Am–O system: 80 accepted literature values (crystal structure 56, formation 6, heat capacity / entropy / enthalpy 6, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AM-O.html · Markdown: https://data.orchid-project.org/systems/AM-O.md
 
-88 accepted literature values from 2 paper(s) (experimental 66, model 22); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+80 accepted literature values from 2 paper(s) (experimental 66, model 14); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AM-O.json) · [CSV](https://data.orchid-project.org/systems/AM-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AM-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AM-O/AmO-11Got.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AM-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AM-O.html) · [Markdown](https://data.orchid-project.org/systems/AM-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 66 |
-| model | 22 |
+| model | 14 |
 
 Table: Accepted values by property group
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 4 |
 | phase equilibrium | 3 |
-| formation | 10 |
-| heat capacity / entropy / enthalpy | 10 |
+| formation | 6 |
+| heat capacity / entropy / enthalpy | 6 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 56 |
 | other property | 3 |
@@ -51,7 +51,7 @@ Convex hulls: [CALPHAD hull AmO-11Got](https://data.orchid-project.org/hulls/cal
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Am–O system (10)
+Table: Enthalpies of formation, Am–O system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -61,10 +61,6 @@ Table: Enthalpies of formation, Am–O system (10)
 | AmO2 |  | -310.767 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
 | AmO2 |  | -310.733 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 | AmO2 |  | -310.567 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
-| UNKNOWN |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| UNKNOWN |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
-| UNKNOWN |  | -310.767 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| UNKNOWN |  | -310.733 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 
 ## Other properties
 
@@ -89,7 +85,7 @@ Table: Phase equilibrium, Am–O system
 | Phase assemblage |  | 1273 | A-Am2O3; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 6_ | Table 3, p. 3, row 4 |  |
 | Phase assemblage |  | 2481 | A-Am2O3 + liquid; _alloy: O 0.6_ | experimental | [2] Epifano 2017; _cites ref. 25_ | Table 3, p. 3, row 13 |  |
 
-### Heat capacity / entropy / enthalpy (10)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Am–O system
 
@@ -101,10 +97,6 @@ Table: Heat capacity / entropy / enthalpy, Am–O system
 | Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 10 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
 | Entropy; _printed: S°(298.15 K)_ | 23.3533 J/mol-atom/K | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
 | Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 5 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
-| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 10 | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 5 | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
-| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 5 | 298.15 | UNKNOWN; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 15 | 298.15 | UNKNOWN; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

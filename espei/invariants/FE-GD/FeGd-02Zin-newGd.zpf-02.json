@@ -94,6 +94,7 @@
   "observations": [
    {
     "id": "ORC-OYHGWF55XA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1034/j.1600-0692.2002.311310106.x",
     "measured_in": "ref:5c66eeff0f2ff0cf",
     "caveats": [
@@ -102,6 +103,7 @@
    },
    {
     "id": "ORC-XXIDQLZOEU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1034/j.1600-0692.2002.311310106.x",
     "measured_in": "ref:5c66eeff0f2ff0cf",
     "caveats": [

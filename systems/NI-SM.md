@@ -1,10 +1,10 @@
 # Ni–Sm system
 
-> Ni–Sm system: 122 accepted literature values (formation 54, invariant reaction 51, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sm system: 95 accepted literature values (invariant reaction 51, formation 27, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SM.html · Markdown: https://data.orchid-project.org/systems/NI-SM.md
 
-122 accepted literature values from 2 paper(s) (experimental 46, model 76); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+95 accepted literature values from 2 paper(s) (experimental 40, model 55); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SM.json) · [CSV](https://data.orchid-project.org/systems/NI-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SM/NiSm-16Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/NI-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SM.html) · [Markdown](https://data.orchid-project.org/systems/NI-SM.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 76 |
+| experimental | 40 |
+| model | 55 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 51 |
 | phase transition | 17 |
-| formation | 54 |
+| formation | 27 |
 
 ## Calculated phase diagrams
 
@@ -158,7 +158,7 @@ Table: Invariant reactions reported in the literature for the Ni–Sm system (51
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sm system (54)
+Table: Enthalpies of formation, Ni–Sm system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -189,33 +189,6 @@ Table: Enthalpies of formation, Ni–Sm system (54)
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -31.6 kJ/mol-atom | 300 | model | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016 | Table 5, p. 6, row 22 |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -30.3 kJ/mol-atom | 300 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24 |  |
 | SmNi5 | [Ni5Sm](https://data.orchid-project.org/compounds/Ni5Sm.html) | -27.4 kJ/mol-atom | 1473 | experimental | -28.805 (mp-aaaaabpj) | -29.302 (oqmd-17806) | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23 |  |
-| UNKNOWN |  | -37.7 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Shilov 1987_ | Table 5, p. 6, row 13 |  |
-| UNKNOWN |  | -36.5 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 21 |  |
-| UNKNOWN |  | -36.4 kJ/mol-atom ± 0.7 | 1473 | experimental |  |  | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 8 |  |
-| UNKNOWN |  | -36.3 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 18 |  |
-| UNKNOWN |  | -36 kJ/mol-atom ± 1 | 300 | experimental |  |  | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 11 |  |
-| UNKNOWN |  | -35.9 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 10 |  |
-| UNKNOWN |  | -35.9 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 15 |  |
-| UNKNOWN |  | -35.7 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Shilov 1987_ | Table 5, p. 6, row 16 |  |
-| UNKNOWN |  | -35.5 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 25 |  |
-| UNKNOWN |  | -35.4 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 14 |  |
-| UNKNOWN |  | -34.8 kJ/mol-atom |  | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 17 |  |
-| UNKNOWN |  | -34.5 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 20 |  |
-| UNKNOWN |  | -34.3 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Shilov 1987_ | Table 5, p. 6, row 19 |  |
-| UNKNOWN |  | -34.2 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 6 |  |
-| UNKNOWN |  | -33 kJ/mol-atom ± 1 | 300 | experimental |  |  | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 7 |  |
-| UNKNOWN |  | -32.9 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 12 |  |
-| UNKNOWN |  | -31.6 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 22 |  |
-| UNKNOWN |  | -30.3 kJ/mol-atom | 300 | experimental |  |  | [1] Rahou 2016; _cites Pasturel 1984_ [doi](https://doi.org/10.1002/pssb.2221250110) | Table 5, p. 6, row 24 |  |
-| UNKNOWN |  | -27.5 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 9 |  |
-| UNKNOWN |  | -27.4 kJ/mol-atom | 1473 | experimental |  |  | [1] Rahou 2016; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 5, p. 6, row 23 |  |
-| UNKNOWN |  | -26.6 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 5 |  |
-| UNKNOWN |  | -25.8 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 26 |  |
-| UNKNOWN |  | -25.1 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 27 |  |
-| UNKNOWN |  | -22.6 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 1 |  |
-| UNKNOWN |  | -21.5 kJ/mol-atom ± 2 | 300 | experimental |  |  | [1] Rahou 2016; _cites Borzone 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901382-7) | Table 5, p. 6, row 2 |  |
-| UNKNOWN |  | -19.4 kJ/mol-atom | 300 | model |  |  | [1] Rahou 2016 | Table 5, p. 6, row 4 |  |
-| UNKNOWN |  | -18.7 kJ/mol-atom |  | model |  |  | [1] Rahou 2016; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900560-x) | Table 5, p. 6, row 3 |  |
 
 ## Other properties
 

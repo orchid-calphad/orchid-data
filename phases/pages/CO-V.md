@@ -15,7 +15,7 @@ Table: Phases of the Co–V system (12)
 | [BCC_A2](#phase-co-v-bcc-a2); _phase:co-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(V) 0.76515–1 | 23 | 6 |
 | [CO3V](#phase-co-v-co3v); _phase:co-v:co3v_ | Al3Pu · hP24 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1344.31 K, x(V) 0.20409–0.31349 | 27 | 5 |
 | [COV3_A15](#phase-co-v-cov3-a15); _phase:co-v:cov3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1360 K, x(V) 0.75–0.75454 | 11 | 6 |
-| [SIGMA_D8B](#phase-co-v-d8b-sigma); _phase:co-v:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1696.17 K, x(V) 0.41698–0.7184 | 32 | 4 |
+| [SIGMA_D8B](#phase-co-v-d8b-sigma); _phase:co-v:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1696.17 K, x(V) 0.41698–0.7184 | 31 | 4 |
 | [DIS_SIGMA](#phase-co-v-dis-sigma); _phase:co-v:dis-sigma_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-co-v-fcc-4sl); _phase:co-v:fcc-4sl_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 666.36–1767.99 K, x(V) 0–0.36312 | 0 | 3 |
 | [FCC_A1](#phase-co-v-fcc-a1); _phase:co-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 9 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305 | 33 | 9 |
@@ -241,7 +241,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CoV-20Wan.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CoV-24Sun.tdb also describes the disordered state
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1696.17 K, x(V) 0.41698–0.7184
-- Literature: 32 values (32 accepted) from 2 papers
+- Literature: 31 values (31 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:d8b-sigma)
 
 Names (8): _corpus: _corpus:phase:co-v:d8b-sigma, corpus:phase:co-v:sigma-d8b  

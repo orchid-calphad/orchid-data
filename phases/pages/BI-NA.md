@@ -13,7 +13,7 @@ Table: Phases of the Bi–Na system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-na-a7-rhombohedral); _phase:bi-na:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Na) 0–0 | 4 | 1 |
-| [BCC_A2](#phase-bi-na-bcc-a2); _phase:bi-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.87 K, x(Na) 1–1 | 3 | 1 |
+| [BCC_A2](#phase-bi-na-bcc-a2); _phase:bi-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.87 K, x(Na) 1–1 | 0 | 1 |
 | [BINA_L10](#phase-bi-na-bina-l10); _phase:bi-na:bina-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–717.64 K, x(Na) 0.5–0.5 | 9 | 1 |
 | [BINA3_D018](#phase-bi-na-bina3-d018); _phase:bi-na:bina3-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1125.92 K, x(Na) 0.75–0.75 | 15 | 1 |
 | [FCC_A1](#phase-bi-na-fcc-a1); _phase:bi-na:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -57,11 +57,10 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-na:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–370.87 K, x(Na) 1–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-na:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:bi-na:bcc-a2  
-_paper: _paper:10.1016/j.tca.2013.01.029:Na  
+Names (2): _corpus: _corpus:phase:bi-na:bcc-a2  
 _tdb: _tdb:BiNa-13Liu.tdb:BCC_A2  
 
 
@@ -74,14 +73,10 @@ _tdb: _tdb:BiNa-13Liu.tdb:BCC_A2
 36: CONST BCC_A2 : BI NA% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.tca.2013.01.029](https://doi.org/10.1016/j.tca.2013.01.029) Yajun Liu, Zhitao Kang, Jiang Wang, Thermodynamic basis and related phase equilibria for Bi–Li and Bi–Na binary systems, Thermochimica Acta 558, 53-60 (2013).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1002/zaac.19060500118](https://doi.org/10.1002/zaac.19060500118) C. H. Mathewson, Metallographische Mitteilung aus dem Institut für anorganische Chemie der Universität Göttingen. XXXIV. Natrium‐Blei‐, Natrium‐Kadmium‐, Natrium‐Wismut‐ und Natrium‐Antimonlegierungen, Z. Anorg. Chem. 50, 171-198 (1906).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(70)90008-1](https://doi.org/10.1016/0022-5088%2870%2990008-1) C.E. Johnson, A.K. Fischer, New measurements for the sodium-bismuth phase diagram, Journal of the Less Common Metals 20, 339-344 (1970).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BINA_L10 (Bi–Na)
 

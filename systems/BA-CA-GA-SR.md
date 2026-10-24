@@ -1,10 +1,10 @@
 # Ba–Ca–Ga–Sr system
 
-> Ba–Ca–Ga–Sr system: 18 accepted literature values (formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ca–Ga–Sr system: 17 accepted literature values (formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-CA-GA-SR.html · Markdown: https://data.orchid-project.org/systems/BA-CA-GA-SR.md
 
-18 accepted literature values from 1 paper(s) (experimental 2, DFT 14, unspecified 2); 0 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 2, DFT 14, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-CA-GA-SR.json) · [CSV](https://data.orchid-project.org/systems/BA-CA-GA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-CA-GA-SR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-CA-GA-SR.html) · [Markdown](https://data.orchid-project.org/systems/BA-CA-GA-SR.md)
 
@@ -14,19 +14,19 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 2 |
 | DFT | 14 |
-| unspecified | 2 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 18 |
+| formation | 17 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ba–Ca–Ga–Sr system (18)
+Table: Enthalpies of formation, Ba–Ca–Ga–Sr system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -41,7 +41,6 @@ Table: Enthalpies of formation, Ba–Ca–Ga–Sr system (18)
 | Ca5Ga3 |  | -35.868 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 2 |  |
 | CaGa |  | -44.545 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 4 |  |
 | CaGa2 |  | -49.254 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 6 |  |
-| CaGa2 | [CaGa2](https://data.orchid-project.org/compounds/CaGa2.html) | -38.8 kJ/mol-atom ± 4.8 |  | unspecified | -50.078 (mp-aaaaaqsa) | -50.802 (oqmd-28952) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
 | CaGa2 | [CaGa2](https://data.orchid-project.org/compounds/CaGa2.html) | -38.8 kJ/mol-atom ± 4.8 |  | unspecified | -50.078 (mp-aaaaaqsa) | -50.802 (oqmd-28952) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
 | CaGa4 |  | -34.155 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 11 |  |
 | CaGa4 | [CaGa4](https://data.orchid-project.org/compounds/CaGa4.html) | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental | -35.27 (mp-aaaaacya) | -35.178 (oqmd-647536) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12 |  |

@@ -1,10 +1,10 @@
 # Re–Ta system
 
-> Re–Ta system: 43 accepted literature values (invariant reaction 18, phase equilibrium 12, formation 10, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Re–Ta system: 38 accepted literature values (invariant reaction 18, phase equilibrium 12, formation 5, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RE-TA.html · Markdown: https://data.orchid-project.org/systems/RE-TA.md
 
-43 accepted literature values from 2 paper(s) (experimental 30, model 5, unspecified 8); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+38 accepted literature values from 2 paper(s) (experimental 25, model 5, unspecified 8); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RE-TA.json) · [CSV](https://data.orchid-project.org/systems/RE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-TA/ReTa-00Liu-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-TA.html) · [Markdown](https://data.orchid-project.org/systems/RE-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
+| experimental | 25 |
 | model | 5 |
 | unspecified | 8 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 18 |
 | phase transition | 3 |
 | phase equilibrium | 12 |
-| formation | 10 |
+| formation | 5 |
 
 ## Calculated phase diagrams
 
@@ -116,7 +116,7 @@ Table: Phase equilibrium, Re–Ta system
 | Phase composition |  | 2773 | χ + hcp; _χ: Re 0.87, Ta 0.13_ | experimental | [2] Liu 2000; _cites Tregubov 1967_ | Table 2, p. 2, row 6 |  |
 | Phase composition |  | 2773 | χ + σ or bcc; _χ: Re 0.63, Ta 0.37_ | experimental | [2] Liu 2000; _cites Tregubov 1967_ | Table 2, p. 2, row 7 |  |
 
-### Formation (10)
+### Formation (5)
 
 Table: Formation, Re–Ta system
 
@@ -127,11 +127,6 @@ Table: Formation, Re–Ta system
 | Gibbs energy of formation | -14 kJ/mol-atom | 298.15 | TaRe1.85 (χ); _alloy: Ta 0.350877_ | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
 | Gibbs energy of formation | -29 kJ/mol-atom | 298.15 | TaRe1.85 (χ); _alloy: Ta 0.350877_ | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
 | Gibbs energy of formation | -18.7 kJ/mol-atom ± 1.2 | 298.15 | TaRe3.6 (χ); _alloy: Ta 0.217391_ | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
-| Gibbs energy of formation | -18.7 kJ/mol-atom ± 1.2 | 298.15 | UNKNOWN | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
-| Gibbs energy of formation | -14 kJ/mol-atom | 298.15 | UNKNOWN | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
-| Gibbs energy of formation | -12 kJ/mol-atom | 298.15 | UNKNOWN | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
-| Gibbs energy of formation | -29 kJ/mol-atom | 298.15 | UNKNOWN | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
-| Gibbs energy of formation | -33 kJ/mol-atom | 298.15 | UNKNOWN | experimental | [2] Liu 2000; _cites Brewer 1973_ [doi](https://doi.org/10.1007/bf02649608) | Table 4, p. 3, row 1 |  |
 
 ## Sources
 

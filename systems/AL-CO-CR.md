@@ -1,10 +1,10 @@
 # Al–Co–Cr system
 
-> Al–Co–Cr system: 65 accepted literature values (formation 42, mixing / partial 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–Cr system: 62 accepted literature values (formation 39, mixing / partial 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-CR.html · Markdown: https://data.orchid-project.org/systems/AL-CO-CR.md
 
-65 accepted literature values from 1 paper(s) (model 42, DFT 23); 0 calculated phase diagram(s).
+62 accepted literature values from 1 paper(s) (model 39, DFT 23); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-CR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-CR.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 42 |
+| model | 39 |
 | DFT | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 42 |
+| formation | 39 |
 | mixing / partial | 23 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co–Cr system (23)
+Table: Enthalpies of formation, Al–Co–Cr system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -42,7 +42,6 @@ Table: Enthalpies of formation, Al–Co–Cr system (23)
 | σ |  | -18.93 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
 | σ |  | -13.39 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
 | σ |  | 1.84 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
-| σ |  | 1.84 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
 | σ |  | 3.6 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
 | σ |  | 5.72 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
 | σ |  | 5.73 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
@@ -56,7 +55,7 @@ Table: Enthalpies of formation, Al–Co–Cr system (23)
 
 ## Other properties
 
-### Formation (19)
+### Formation (17)
 
 Table: Formation, Al–Co–Cr system
 
@@ -76,11 +75,9 @@ Table: Formation, Al–Co–Cr system
 | Entropy of formation; _printed: ΔfS_ | 0.28 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
 | Entropy of formation; _printed: ΔfS (SER)_ | 3.6 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
 | Entropy of formation; _printed: ΔfS (SER)_ | 0.16 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.16 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
 | Entropy of formation; _printed: ΔfS (SER)_ | -2.74 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
 | Entropy of formation; _printed: ΔfS_ | -6.02 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
 | Entropy of formation; _printed: ΔfS_ | -3.32 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -3.32 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
 
 ### Mixing / partial (23)
 

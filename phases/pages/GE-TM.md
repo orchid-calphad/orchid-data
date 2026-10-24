@@ -119,7 +119,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.4762, Tm 0.5238
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1987.05 K, x(Tm) 0.52381–0.52381
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:ge10tm11)
 
 Names (3): _corpus: _corpus:phase:ge-tm:ge10tm11  
@@ -185,7 +185,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): Ge1.9Tm · oP20 · Pmma (51) — Hallstedt 2025 mmc2 row for GE2TM_HT: Ge2Tm (high T)
 - Candidate (tdb_comment): Ge1.9Tm · oP20 · Pmma, 51 — GeTm-18Ach.tdb: 'Prototype Ge1.9Tm (oP20, Pmma, 51)'
 - Stability: stable in 1 of 1 calculated diagram(s): 1230.28–1312.81 K, x(Tm) 0.35606–0.35657
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:ge2tm-ht)
 
 Names (3): _corpus: _corpus:phase:ge-tm:ge2tm-ht  
@@ -217,7 +217,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): DyGe2 · oC24 · Cmc2_1 (36) — Hallstedt 2025 mmc2 row for GE2TM_LT: Ge2Tm (low T)
 - Candidate (tdb_comment): DyGe2 · oC24 · Cmc2_1 — GeTm-18Ach.tdb: 'Prototype DyGe2 (oC24, Cmc2_1)'
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1289.02 K, x(Tm) 0.34534–0.35714
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:ge2tm-lt)
 
 Names (4): _corpus: _corpus:phase:ge-tm:ge2tm-lt  
@@ -251,7 +251,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): AlB2 · hP3 · P6/mmm — GeTm-18Ach.tdb: 'Prototype AlB2 (hP3, P6/mmm)'
 - Stoichiometry: Ge 0.6000, Tm 0.4000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1549.48 K, x(Tm) 0.4–0.4
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:ge3tm2-c32)
 
 Names (3): _corpus: _corpus:phase:ge-tm:ge3tm2-c32  
@@ -348,7 +348,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.5556, Tm 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1633.05 K, x(Tm) 0.44444–0.44444
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 6 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:ge5tm4)
 
 Names (3): _corpus: _corpus:phase:ge-tm:ge5tm4  
@@ -379,7 +379,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaacevrr and oqmd-30502, space group 63
 - Stoichiometry: Ge 0.5000, Tm 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1653.75 K, x(Tm) 0.5–0.5
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 2 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:getm-b33)
 
 Names (5): _corpus: _corpus:phase:ge-tm:getm-b33  
@@ -439,7 +439,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-tm:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1
-- Literature: 28 values (28 accepted) from 1 papers
+- Literature: 28 values (25 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:liquid)
 
 Names (4): _corpus: _corpus:phase:ge-tm:liquid  

@@ -1,10 +1,10 @@
 # Al–P–Si system
 
-> Al–P–Si system: 4 accepted literature values (invariant reaction 3, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–P–Si system: 6 accepted literature values (invariant reaction 5, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-P-SI.html · Markdown: https://data.orchid-project.org/systems/AL-P-SI.md
 
-4 accepted literature values from 1 paper(s) (model 4); 0 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (model 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-P-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-P-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-P-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-P-SI.md)
 
@@ -12,22 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 4 |
+| model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
+| invariant reaction | 5 |
 | phase transition | 1 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–P–Si system (3)
+Table: Invariant reactions reported in the literature for the Al–P–Si system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1403.65 | eutectic: L ! (Si) + SiP + AlP |  | model | [1] Liang 2014 | p. 5 | “Very close to the Si-P binary eutectic L ! (Si) + SiP the ternary eutectic L ! (Si) + SiP + AlP at 1130.5 °C is calculated, where \[P\](Si) = 1.21 wt.% P is still relatively large.” |
+| 850.15 | eutectic: L -> (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 8 | “However, an extra ZPF line of the AlP phase appears, shown as the red dashed line between the liquidus and solidus line of (Al) and continuing exactly along the horizontal line at 577 °C above 7 wt.% Si. This entire horizontal line in Fig. 10a represents the cut through the ternary eutectic L ! (Al) + (Si) + AlP four-phase equilibrium.” |
+| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 15 | “Based on this, the first consistent and experimentally supported Al-Si-P phase diagram was calculated, including details of the most important ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C.” |
 | 850.15 | eutectic: L -> (Al) + (Si) |  | model | [1] Liang 2014 | p. 14 | “In the normal simulation all phases are allowed to form, and thus the formation of eutectic (Si) occurs at 577 °C in the L ! (Al) + (Si) reaction with f(Si) = 0.018.” |
 | 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 5 | “The calculated composition of all solid phases at the ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C is as follows: \[Si\](Al) = 1.55 wt.% Si, \[P\](Al) = 0.009 ppm P, \[Al\](Si) = 0.0014 wt.% Al, \[P\](Si) = 0.005 ppm P and stoichiometric AlP.” |
 

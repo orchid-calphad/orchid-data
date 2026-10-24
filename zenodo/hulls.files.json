@@ -16,12 +16,12 @@
  ],
  "exclude": [],
  "n_files": 18199,
- "total_bytes": 114414530,
+ "total_bytes": 114420473,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 12765,
-   "sha256": "dd266eac4d0acf6ccd2e4718c4efa0a50217c4bac5e5251545c9d3ed2eb1c402"
+   "bytes": 18428,
+   "sha256": "cbbd9844421190b81915b1becb2747430838209daee4a7ca2949766a54ad42ca"
   },
   {
    "path": "LICENSE",
@@ -91000,8 +91000,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 23207,
-   "sha256": "14a8e3c4c62e096f306ec4333f4a0499111b2fedd032bef6f35e78f72c748b04"
+   "bytes": 23487,
+   "sha256": "cac99ce5f32537217ff84d9f7756553b2bf25f9c3a5181a04d875f73842a6546"
   },
   {
    "path": "parquet/hull_vertices.parquet",

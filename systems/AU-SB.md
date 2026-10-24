@@ -1,10 +1,10 @@
 # Au–Sb system
 
-> Au–Sb system: 57 accepted literature values (invariant reaction 38, formation 18, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Sb system: 56 accepted literature values (invariant reaction 37, formation 18, phase transition 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SB.html · Markdown: https://data.orchid-project.org/systems/AU-SB.md
 
-57 accepted literature values from 5 paper(s) (experimental 37, model 20); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+56 accepted literature values from 5 paper(s) (experimental 36, model 20); 5 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SB.json) · [CSV](https://data.orchid-project.org/systems/AU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SB/AuSb-02Kim.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SB.html) · [Markdown](https://data.orchid-project.org/systems/AU-SB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 36 |
 | model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 38 |
+| invariant reaction | 37 |
 | phase transition | 1 |
 | formation | 18 |
 
@@ -71,7 +71,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Sb system (38)
+Table: Invariant reactions reported in the literature for the Au–Sb system (37)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -95,7 +95,6 @@ Table: Invariant reactions reported in the literature for the Au–Sb system (38
 | 634.15 | eutectic |  | experimental | [1] Chevalier 1989; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | p. 3 | “The eutectic temperature has been determined by: Vogel \[9\], eight values between 630.15 and 634.15 K, mean value 632.8 K (thermal analysis); by Grigorjew \[lo\], seven values between 624.15 and 628.15 K, mean value 627.15 K (thermal analysis); by Gasgnier et al. \[13\], 633.15 K (specific heat); by Gaither and Blachnik \[14\], 633.15 K (X-rays and metallography); and by Wallbrecht et al. \[15\], 634.15 K…” |
 | 634 | eutectic: L -> (Au) + AuSb2 | AuSb2: Au 0.333333, Sb 0.666667 | experimental | [2] Kim 2002; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | Table II, p. 3, row 13 |  |
 | 633.15 | eutectic |  | experimental | [1] Chevalier 1989; _cites Gaither 1976_ | p. 3 | “The eutectic temperature has been determined by: Vogel \[9\], eight values between 630.15 and 634.15 K, mean value 632.8 K (thermal analysis); by Grigorjew \[lo\], seven values between 624.15 and 628.15 K, mean value 627.15 K (thermal analysis); by Gasgnier et al. \[13\], 633.15 K (specific heat); by Gaither and Blachnik \[14\], 633.15 K (X-rays and metallography); and by Wallbrecht et al. \[15\], 634.15 K…” |
-| 633.15 | eutectic |  | experimental | [1] Chevalier 1989; _cites Gasgnier 1974_ [doi](https://doi.org/10.1002/pssa.2210240241) | p. 3 | “The eutectic temperature has been determined by: Vogel \[9\], eight values between 630.15 and 634.15 K, mean value 632.8 K (thermal analysis); by Grigorjew \[lo\], seven values between 624.15 and 628.15 K, mean value 627.15 K (thermal analysis); by Gasgnier et al. \[13\], 633.15 K (specific heat); by Gaither and Blachnik \[14\], 633.15 K (X-rays and metallography); and by Wallbrecht et al. \[15\], 634.15 K…” |
 | 633.15 | eutectic |  | model | [1] Chevalier 1989; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868954) | p. 3 | “The eutectic point assessed by Okamoto and Massalski \[8\] was T = 633.15 K, xst,(L) = 0.355 + 0.025.” |
 | 633 | eutectic: L -> (Au) + AuSb2 | L: Sb 0.355; AuSb2: Au 0.333333, Sb 0.666667 | experimental | [2] Kim 2002; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02868954) | Table II, p. 3, row 14 |  |
 | 633 | eutectic: L -> (Au) + AuSb2 | AuSb2: Au 0.333333, Sb 0.666667 | experimental | [2] Kim 2002; _cites Gasgnier 1974_ [doi](https://doi.org/10.1002/pssa.2210240241) | Table II, p. 3, row 11 |  |

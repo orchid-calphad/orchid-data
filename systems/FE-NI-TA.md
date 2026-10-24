@@ -1,10 +1,10 @@
 # Fe–Ni–Ta system
 
-> Fe–Ni–Ta system: 90 accepted literature values (phase equilibrium 53, mixing / partial 18, formation 14, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni–Ta system: 74 accepted literature values (phase equilibrium 53, mixing / partial 9, formation 7, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI-TA.html · Markdown: https://data.orchid-project.org/systems/FE-NI-TA.md
 
-90 accepted literature values from 2 paper(s) (experimental 85, model 5); 0 calculated phase diagram(s).
+74 accepted literature values from 2 paper(s) (experimental 69, model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-NI-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 85 |
+| experimental | 69 |
 | model | 5 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase equilibrium | 53 |
-| formation | 14 |
-| mixing / partial | 18 |
+| formation | 7 |
+| mixing / partial | 9 |
 
 ## Invariant reactions (literature)
 
@@ -40,7 +40,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ni–Ta syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ni–Ta system (14)
+Table: Enthalpies of formation, Fe–Ni–Ta system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -51,13 +51,6 @@ Table: Enthalpies of formation, Fe–Ni–Ta system (14)
 | Fe0.678Ta0.322 |  | -5.7 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 4 |  |
 | Fe0.844Ta0.156 |  | -2.6 kJ/mol (basis unstated) ± 1.9 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 3 |  |
 | Ta |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 8 |  |
-| UNKNOWN |  | -7.1 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 6 |  |
-| UNKNOWN |  | -5.8 kJ/mol (basis unstated) ± 2.1 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
-| UNKNOWN |  | -5.7 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 4 |  |
-| UNKNOWN |  | -5.4 kJ/mol (basis unstated) ± 1.5 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 5 |  |
-| UNKNOWN |  | -2.6 kJ/mol (basis unstated) ± 1.9 | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 3 |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 8 |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Witusiewicz 2011 | Table 4, p. 10, row 2 |  |
 
 ## Other properties
 
@@ -121,7 +114,7 @@ Table: Phase equilibrium, Fe–Ni–Ta system
 | Phase composition |  | 1473.15 | fcc(Fe,Ni) + Fe2Ta + Fe₂Ta; _fcc(Fe,Ni): Fe 0.562, Ni 0.15, Ta 0.288; Fe2Ta: Fe 0.706, Ni 0.265, Ta 0.029; Fe₂Ta: Fe 0.706, Ni 0.265, Ta 0.029_ | experimental | [1] Yang 2020 | Table 3, p. 11, row 1 |  |
 | Phase composition |  | 1473.15 | fcc(Fe,Ni) + Ni3Ta + Ni₃Ta; _fcc(Fe,Ni): Fe 0.088, Ni 0.81, Ta 0.102; Ni3Ta: Fe 0.024, Ni 0.74, Ta 0.236; Ni₃Ta: Fe 0.024, Ni 0.74, Ta 0.236_ | experimental | [1] Yang 2020 | Table 3, p. 11, row 5 |  |
 
-### Mixing / partial (18)
+### Mixing / partial (9)
 
 Table: Mixing / partial, Fe–Ni–Ta system
 
@@ -136,15 +129,6 @@ Table: Mixing / partial, Fe–Ni–Ta system
 | Partial enthalpy; _printed: ΔdissH0 (partial molar enthalpy of dissolution)_ | 66.4 unknown ± 0.7 | 1773 | Ni; _alloy: Ni 1, Ta 0_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 1 |  |
 | Partial enthalpy; _printed: ΔdissH0_ | 66.87 unknown | 1773 | Ni; _alloy: Ni 1, Ta 0_ | experimental | [2] Witusiewicz 2011; _cites SGTE 2011_ | Table 4, p. 10, row 9 |  |
 | Partial enthalpy; _printed: ΔdissH0 (partial molar enthalpy of dissolution)_ | -90.8 unknown ± 1.2 | 1773 | Ta; _alloy: Ta 1_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 8 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | -90.8 unknown ± 1.2 | 1773 | UNKNOWN; _alloy: Ta 1_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 8 |  |
-| Partial enthalpy; _printed: ΔdissH0_ | 66.4 unknown ± 0.7 | 1773 | UNKNOWN; _alloy: Ni 1, Ta 0_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 1 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | 24.1 unknown ± 1.4 | 1773 | UNKNOWN; _alloy: Fe 0.844, Ni 0, Ta 0.156_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 3 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | 5.1 unknown ± 1.5 | 1773 | UNKNOWN; _alloy: Fe 0.678, Ni 0, Ta 0.322_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 4 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | 42.3 unknown ± 1.4 | 1773 | UNKNOWN; _alloy: Fe 1_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 2 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | -20.2 unknown ± 1.1 | 1773 | UNKNOWN; _alloy: Fe 0.477, Ni 0, Ta 0.523_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 6 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | -37.2 unknown ± 1.9 | 1773 | UNKNOWN; _alloy: Fe 0.359, Ni 0, Ta 0.641_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
-| Partial enthalpy; _printed: ΔdissH0_ | 66.87 unknown | 1773 | UNKNOWN; _alloy: Ni 1, Ta 0_ | experimental | [2] Witusiewicz 2011; _cites SGTE 2011_ | Table 4, p. 10, row 9 |  |
-| Partial enthalpy; _printed: ΔdissH̄0_ | -0.5 unknown ± 1.2 | 1773 | UNKNOWN; _alloy: Fe 0.638, Ni 0, Ta 0.362_ | experimental | [2] Witusiewicz 2011 | Table 4, p. 10, row 5 |  |
 
 ## Sources
 

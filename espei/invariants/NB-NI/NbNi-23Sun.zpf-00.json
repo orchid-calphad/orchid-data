@@ -194,26 +194,31 @@
   "observations": [
    {
     "id": "ORC-TXLSZ6GN3L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1007/s10853-005-4553-4"
    },
    {
     "id": "ORC-VWGEKXTLZM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1007/s10853-005-4553-4"
    },
    {
     "id": "ORC-JLHOS2A4AS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1007/s10853-005-4553-4"
    },
    {
     "id": "ORC-AVRLYHFUO5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1007/s10853-005-4553-4"
    },
    {
     "id": "ORC-6EVNHL4YVY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2023.102563",
     "measured_in": "doi:10.1007/s10853-005-4553-4"
    }
@@ -262,7 +267,7 @@
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": false,
-  "n_certified": 4,
+  "n_certified": 3,
   "values": [
    {
     "id": "ORC-TXLSZ6GN3L",
@@ -286,7 +291,7 @@
    },
    {
     "id": "ORC-6EVNHL4YVY",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    }
   ]

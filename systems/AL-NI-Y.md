@@ -1,10 +1,10 @@
 # Al–Ni–Y system
 
-> Al–Ni–Y system: 106 accepted literature values (formation 60, invariant reaction 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–Y system: 76 accepted literature values (invariant reaction 46, formation 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-Y.html · Markdown: https://data.orchid-project.org/systems/AL-NI-Y.md
 
-106 accepted literature values from 1 paper(s) (experimental 18, model 88); 0 calculated phase diagram(s).
+76 accepted literature values from 1 paper(s) (experimental 9, model 67); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-Y.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 88 |
+| experimental | 9 |
+| model | 67 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 46 |
-| formation | 60 |
+| formation | 30 |
 
 ## Invariant reactions (literature)
 
@@ -79,40 +79,10 @@ Table: Invariant reactions reported in the literature for the Al–Ni–Y system
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ni–Y system (60)
+Table: Enthalpies of formation, Al–Ni–Y system (30)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -70.1 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 10 |  |
-| UNKNOWN |  | -65.6 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 17 |  |
-| UNKNOWN |  | -64.3 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -62.8 kJ/mol-atom ± 2.3 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 16 |  |
-| UNKNOWN |  | -62.8 kJ/mol-atom ± 1.5 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 13 |  |
-| UNKNOWN |  | -62.6 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 14 |  |
-| UNKNOWN |  | -61.683 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -60.967 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 18 |  |
-| UNKNOWN |  | -60.5 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 20 |  |
-| UNKNOWN |  | -59.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 8 |  |
-| UNKNOWN |  | -59.4 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 9 |  |
-| UNKNOWN |  | -55.4 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 26 |  |
-| UNKNOWN |  | -55.3 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | -54.8 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -54.8 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 23 |  |
-| UNKNOWN |  | -54.1 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 21 |  |
-| UNKNOWN |  | -54.1 kJ/mol-atom ± 0.9 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 22 |  |
-| UNKNOWN |  | -54.1 kJ/mol-atom ± 0.9 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 19 |  |
-| UNKNOWN |  | -54 kJ/mol-atom ± 0.8 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 5 |  |
-| UNKNOWN |  | -52 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 27 |  |
-| UNKNOWN |  | -51.773 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 24 |  |
-| UNKNOWN |  | -50.8 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 3 |  |
-| UNKNOWN |  | -50.752 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 1 |  |
-| UNKNOWN |  | -50.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 2 |  |
-| UNKNOWN |  | -50.517 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 11 |  |
-| UNKNOWN |  | -48.899 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 4 |  |
-| UNKNOWN |  | -48.5 kJ/mol-atom ± 1.5 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 25 |  |
-| UNKNOWN |  | -44.3 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 30 |  |
-| UNKNOWN |  | -40.483 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 28 |  |
-| UNKNOWN |  | -37.9 kJ/mol-atom ± 2.5 | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 29 |  |
 | τ1 Ni6Al23Y4 |  | -50.8 kJ/mol-atom |  | model |  |  | [1] Huang 2015; _cites ref. 25_ | Table 3, p. 4, row 3 |  |
 | τ1 Ni6Al23Y4 |  | -50.752 kJ/mol-atom |  | model |  |  | [1] Huang 2015 | Table 3, p. 4, row 1 |  |
 | τ1 Ni6Al23Y4 |  | -50.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Huang 2015; _cites ref. 27_ | Table 3, p. 4, row 2 |  |

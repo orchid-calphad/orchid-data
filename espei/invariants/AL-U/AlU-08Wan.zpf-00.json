@@ -71,6 +71,7 @@
   "observations": [
    {
     "id": "ORC-KHE6DQ3MZS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2007.06.023"
    }
   ],

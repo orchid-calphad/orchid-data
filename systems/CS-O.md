@@ -1,10 +1,10 @@
 # Cs–O system
 
-> Cs–O system: 256 accepted literature values (heat capacity / entropy / enthalpy 100, formation 74, crystal structure 68, phase transition 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–O system: 175 accepted literature values (crystal structure 68, heat capacity / entropy / enthalpy 54, formation 39, phase transition 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-O.html · Markdown: https://data.orchid-project.org/systems/CS-O.md
 
-256 accepted literature values from 1 paper(s) (experimental 63, model 67, DFT 102, unspecified 24); 1 calculated phase diagram(s).
+175 accepted literature values from 1 paper(s) (experimental 53, model 37, DFT 73, unspecified 12); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-O.json) · [CSV](https://data.orchid-project.org/systems/CS-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-O/CsO-15Gue.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-O.html) · [Markdown](https://data.orchid-project.org/systems/CS-O.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 67 |
-| DFT | 102 |
-| unspecified | 24 |
+| experimental | 53 |
+| model | 37 |
+| DFT | 73 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | phase transition | 11 |
-| formation | 74 |
-| heat capacity / entropy / enthalpy | 100 |
+| formation | 39 |
+| heat capacity / entropy / enthalpy | 54 |
 | crystal structure | 68 |
 
 ## Calculated phase diagrams
@@ -59,7 +59,7 @@ Table: Invariant reactions reported in the literature for the Cs–O system (3)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cs–O system (74)
+Table: Enthalpies of formation, Cs–O system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -102,41 +102,6 @@ Table: Enthalpies of formation, Cs–O system (74)
 | CsO3 |  | -50.175 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 37 |  |
 | UNKNOWN |  | -682.3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 6 |  |
 | UNKNOWN |  | -576 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 5 |  |
-| UNKNOWN |  | -131.025 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 21 |  |
-| UNKNOWN |  | -129.533 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 29 |  |
-| UNKNOWN |  | -129.05 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 22 |  |
-| UNKNOWN |  | -124.4 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 25 |  |
-| UNKNOWN |  | -122.367 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 10 |  |
-| UNKNOWN |  | -117.4 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 12 |  |
-| UNKNOWN |  | -117.067 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Brillant 2009_ | Table 5, p. 7, row 30 |  |
-| UNKNOWN |  | -116.933 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 11 |  |
-| UNKNOWN |  | -116.133 kJ/mol-atom | 298.15 | experimental |  |  | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 18 |  |
-| UNKNOWN |  | -115.333 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 16 |  |
-| UNKNOWN |  | -115.333 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 19 |  |
-| UNKNOWN |  | -115.333 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 14 |  |
-| UNKNOWN |  | -115.333 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 15 |  |
-| UNKNOWN |  | -115.333 kJ/mol-atom | 298.15 | experimental |  |  | [1] Guéneau 2015; _cites Settle 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990179-7) | Table 5, p. 7, row 17 |  |
-| UNKNOWN |  | -110 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 24 |  |
-| UNKNOWN |  | -110 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 23 |  |
-| UNKNOWN |  | -97.95 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 20 |  |
-| UNKNOWN |  | -97.5 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 27 |  |
-| UNKNOWN |  | -96.625 kJ/mol-atom | 298.15 | experimental |  |  | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 26 |  |
-| UNKNOWN |  | -95.4 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32 |  |
-| UNKNOWN |  | -95.4 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 33 |  |
-| UNKNOWN |  | -92.575 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 8 |  |
-| UNKNOWN |  | -85.475 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 9 |  |
-| UNKNOWN |  | -84.2667 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 28 |  |
-| UNKNOWN |  | -80.4667 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 35 |  |
-| UNKNOWN |  | -78.3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 34 |  |
-| UNKNOWN |  | -77.7 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31 |  |
-| UNKNOWN |  | -74.125 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 7 |  |
-| UNKNOWN |  | -71 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 36 |  |
-| UNKNOWN |  | -68.15 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 38 |  |
-| UNKNOWN |  | -67.84 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 4 |  |
-| UNKNOWN |  | -59.64 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 3 |  |
-| UNKNOWN |  | -50.175 kJ/mol-atom | 0 | DFT |  |  | [1] Guéneau 2015; _cites Jain 2010_ [doi](https://doi.org/10.1016/j.ces.2010.01.024) | Table 5, p. 7, row 37 |  |
-| UNKNOWN |  | -42.5625 kJ/mol-atom | 298.15 | model |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 2 |  |
-| UNKNOWN |  | -37.475 kJ/mol-atom | 298.15 | DFT |  |  | [1] Guéneau 2015 | Table 5, p. 7, row 1 |  |
 
 ## Other properties
 
@@ -158,7 +123,7 @@ Table: Phase transition, Cs–O system
 | Phase transition | 863 K | 863 |  | experimental | [1] Guéneau 2015 | p. 8 | “In the assessment, it was not possible to reproduce the melting point of Cs2O2 (863 K).” |
 | Phase transition | 863 K | 863 | Cs2O2 | experimental | [1] Guéneau 2015; _cites Cordfunke 1990_ | p. 2 | “The largest uncertainties were on both the melting point of Cs2O2 (863 K) and the decomposition of CsO3 (343 K), which were reported on the phase diagrams successively by Knights and Phillips \[11\], Cordfunke and Konings \[8\].” |
 
-### Heat capacity / entropy / enthalpy (100)
+### Heat capacity / entropy / enthalpy (54)
 
 Table: Heat capacity / entropy / enthalpy, Cs–O system
 
@@ -194,36 +159,8 @@ Table: Heat capacity / entropy / enthalpy, Cs–O system
 | Entropy; _printed: S0 298.15 K_ | 45.5 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | unspecified | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31 |  |
 | Entropy; _printed: S0 298.15 K_ | 36.175 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36 |  |
 | Entropy; _printed: S0 298.15 K_ | 42.15 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38 |  |
-| Entropy; _printed: S0_ | 48.9667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 16 |  |
-| Entropy; _printed: S0_ | 38.2 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 18 |  |
-| Entropy; _printed: S0_ | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 24 |  |
-| Entropy; _printed: S0_ | 36.075 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | unspecified | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 25 |  |
-| Entropy; _printed: S0_ | 48.9667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 19 |  |
 | Entropy; _printed: S0_ | 621.4 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Guéneau 2015 | Table 5, p. 7, row 6 |  |
-| Entropy; _printed: S0_ | 57.0667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 34 |  |
-| Entropy; _printed: S0_ | 78.075 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.125_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 2 |  |
-| Entropy; _printed: S0_ | 54.4 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 35 |  |
-| Entropy; _printed: S0_ | 52.4333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 10 |  |
-| Entropy; _printed: S0_ | 47.3333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32 |  |
-| Entropy; _printed: S0_ | 60.86 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 3 |  |
-| Entropy; _printed: S0_ | 48.9667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 14 |  |
-| Entropy; _printed: S0_ | 48.9667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Flotow 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990256-0) | Table 5, p. 7, row 13 |  |
-| Entropy; _printed: S0_ | 53.85 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 27 |  |
-| Entropy; _printed: S0_ | 77.1625 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 1 |  |
-| Entropy; _printed: S0_ | 65.45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.25_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 9 |  |
-| Entropy; _printed: S0_ | 43.4 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | unspecified | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 23 |  |
-| Entropy; _printed: S0_ | 36.175 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36 |  |
-| Entropy; _printed: S0_ | 48.9667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 15 |  |
-| Entropy; _printed: S0_ | 53.325 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | experimental | [1] Guéneau 2015; _cites Knights 1979_ [doi](https://doi.org/10.1016/0022-3115%2879%2990163-6) | Table 5, p. 7, row 26 |  |
-| Entropy; _printed: S0_ | 49.1667 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 28 |  |
 | Entropy; _printed: S0_ | 545 J/mol (basis unstated)/K | 298.15 | UNKNOWN | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5 |  |
-| Entropy; _printed: S0_ | 46.6 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Guéneau 2015; _cites Lamoreaux 1984_ [doi](https://doi.org/10.1063/1.555706) | Table 5, p. 7, row 33 |  |
-| Entropy; _printed: S0_ | 59.25 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.25_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 7 |  |
-| Entropy; _printed: S0_ | 40.925 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 20 |  |
-| Entropy; _printed: S0_ | 48.9 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Settle 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990179-7) | Table 5, p. 7, row 17 |  |
-| Entropy; _printed: S0_ | 42.15 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38 |  |
-| Entropy; _printed: S0_ | 72.84 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.2_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 4 |  |
-| Entropy; _printed: S0_ | 45.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Guéneau 2015; _cites Cordfunke 1990_ | Table 5, p. 7, row 31 |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.2333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 19 |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 24.9333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 10 |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 25.3333 J/mol-atom/K | 298.15 | Cs2O; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Flotow 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990256-0) | Table 5, p. 7, row 13 |  |
@@ -244,26 +181,8 @@ Table: Heat capacity / entropy / enthalpy, Cs–O system
 | Heat capacity; _printed: Cp0 298.15 K_ | 22.7333 J/mol-atom/K | 298.15 | CsO2; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 28 |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 21.075 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36 |  |
 | Heat capacity; _printed: Cp0 298.15 K_ | 21.05 J/mol-atom/K | 298.15 | CsO3; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38 |  |
-| Heat capacity; _printed: Cp0_ | 23.75 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 24 |  |
-| Heat capacity; _printed: Cp0_ | 25.2333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 19 |  |
 | Heat capacity; _printed: Cp0_ | 231.1 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Guéneau 2015 | Table 5, p. 7, row 6 |  |
-| Heat capacity; _printed: Cp0_ | 26.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.125_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 2 |  |
-| Heat capacity; _printed: Cp0_ | 22.8167 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 35 |  |
-| Heat capacity; _printed: Cp0_ | 24.9333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 10 |  |
-| Heat capacity; _printed: Cp0_ | 26.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 32 |  |
-| Heat capacity; _printed: Cp0_ | 27.28 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.2_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 3 |  |
-| Heat capacity; _printed: Cp0_ | 25.3333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | experimental | [1] Guéneau 2015; _cites Flotow 1974_ [doi](https://doi.org/10.1016/0021-9614%2874%2990256-0) | Table 5, p. 7, row 13 |  |
-| Heat capacity; _printed: Cp0_ | 23.375 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 27 |  |
-| Heat capacity; _printed: Cp0_ | 26.3125 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.125_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 1 |  |
-| Heat capacity; _printed: Cp0_ | 25.675 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.25_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 9 |  |
-| Heat capacity; _printed: Cp0_ | 21.075 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.75_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 36 |  |
-| Heat capacity; _printed: Cp0_ | 25.3333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.333333_ | model | [1] Guéneau 2015; _cites SGTE_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 5, p. 7, row 15 |  |
-| Heat capacity; _printed: Cp0_ | 22.7333 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.666667_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 28 |  |
 | Heat capacity; _printed: Cp0_ | 231.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 5 |  |
-| Heat capacity; _printed: Cp0_ | 26.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.25_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 7 |  |
-| Heat capacity; _printed: Cp0_ | 27.75 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.5_ | DFT | [1] Guéneau 2015 | Table 5, p. 7, row 20 |  |
-| Heat capacity; _printed: Cp0_ | 21.05 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.75_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 38 |  |
-| Heat capacity; _printed: Cp0_ | 25.74 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: O 0.2_ | model | [1] Guéneau 2015 | Table 5, p. 7, row 4 |  |
 
 ### Crystal structure (68)
 

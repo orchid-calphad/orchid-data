@@ -33,7 +33,7 @@ Table: Phases of the Cu–Zr system (22)
 | [CUZR2_LT](#phase-cu-zr-cuzr2-lt); _phase:cu-zr:cuzr2-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1200.02 K, x(Zr) 0.66667–0.66667 | 9 | 1 |
 | [FCC_A1](#phase-cu-zr-fcc-a1); _phase:cu-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1365.71 K, x(Zr) 0–0.00271 | 58 | 11 |
 | [HCP_A3](#phase-cu-zr-hcp-a3); _phase:cu-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–2701.44 K, x(Zr) 0.97638–1 | 22 | 11 |
-| [LIQUID](#phase-cu-zr-liquid); _phase:cu-zr:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 1153.37–4000 K, x(Zr) 0–1 | 453 | 11 |
+| [LIQUID](#phase-cu-zr-liquid); _phase:cu-zr:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 1153.37–4000 K, x(Zr) 0–1 | 426 | 11 |
 
 ## BCC_A2 (Cu–Zr)
 
@@ -1508,7 +1508,7 @@ _assessment that models this phase_
 - Id: `phase:cu-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 1153.37–4000 K, x(Zr) 0–1
-- Literature: 453 values (452 accepted) from 7 papers
+- Literature: 426 values (425 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zr:liquid)
 
 Names (21): _corpus: _corpus:phase:cu-zr:liquid  

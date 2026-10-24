@@ -1,10 +1,10 @@
 # B–Ni system
 
-> B–Ni system: 52 accepted literature values (invariant reaction 35, formation 14, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ni system: 47 accepted literature values (invariant reaction 35, formation 9, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-NI.html · Markdown: https://data.orchid-project.org/systems/B-NI.md
 
-52 accepted literature values from 2 paper(s) (experimental 16, model 36); 0 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 14, model 33); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-NI.json) · [CSV](https://data.orchid-project.org/systems/B-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NI) · [phases (11)](https://data.orchid-project.org/phases/pages/B-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-NI.html) · [Markdown](https://data.orchid-project.org/systems/B-NI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 36 |
+| experimental | 14 |
+| model | 33 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 35 |
 | phase transition | 3 |
-| formation | 14 |
+| formation | 9 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-NI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-NI.json) · [CALPHAD hull NiB-01Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NI--NiB-01Tok.json) · [CALPHAD hull NiB-03Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NI--NiB-03Tok.json) · [CALPHAD hull NiB-09Sun](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NI--NiB-09Sun.json) · [CALPHAD hull NiB-91Pan-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NI--NiB-91Pan-LB.json) · [CALPHAD hull NiB-99Cam](https://data.orchid-project.org/hulls/calphad-sgte/B/B-NI--NiB-99Cam.json)
 
@@ -71,7 +71,7 @@ Table: Invariant reactions reported in the literature for the B–Ni system (35)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Ni system (14)
+Table: Enthalpies of formation, B–Ni system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -80,14 +80,9 @@ Table: Enthalpies of formation, B–Ni system (14)
 | Ni2B |  | -22.6 kJ/mol (basis unstated) ± 1.4 | 298 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
 | Ni2B |  | -21.13 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
 | NiB |  | -50.2 kJ/mol (basis unstated) ± 6.3 | 298 | experimental |  |  | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
-| UNKNOWN |  | -50.2 kJ/mol (basis unstated) ± 6.3 | 298 | experimental |  |  | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
 | UNKNOWN |  | -33 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
-| UNKNOWN |  | -27 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
-| UNKNOWN |  | -26.7 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
 | UNKNOWN |  | -25.8 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
 | UNKNOWN |  | -23.43 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
-| UNKNOWN |  | -22.6 kJ/mol (basis unstated) ± 1.4 | 298 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
-| UNKNOWN |  | -21.13 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
 | UNKNOWN |  | -20.1 kJ/mol (basis unstated) ± 2.8 | 298 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
 
 ## Other properties

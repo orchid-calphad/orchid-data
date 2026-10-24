@@ -19,9 +19,9 @@ Table: Phases of the Mo–Si system (10)
 | [FCC_A1](#phase-mo-si-fcc-a1); _phase:mo-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-mo-si-hcp-a3); _phase:mo-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [LIQUID](#phase-mo-si-liquid); _phase:mo-si:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1640.84–4000 K, x(Si) 0–1 | 61 | 7 |
-| [MO3SI_A15](#phase-mo-si-mo3si-a15); _phase:mo-si:mo3si-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2301.33 K, x(Si) 0.22057–0.23893 | 24 | 1 |
-| [MO5SI3_D8M](#phase-mo-si-mo5si3-d8m); _phase:mo-si:mo5si3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2443.98 K, x(Si) 0.36552–0.39183 | 17 | 1 |
-| [MOSI2_C11B](#phase-mo-si-mosi2-c11b); _phase:mo-si:mosi2-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2306.33 K, x(Si) 0.66667–0.66667 | 58 | 7 |
+| [MO3SI_A15](#phase-mo-si-mo3si-a15); _phase:mo-si:mo3si-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2301.33 K, x(Si) 0.22057–0.23893 | 20 | 1 |
+| [MO5SI3_D8M](#phase-mo-si-mo5si3-d8m); _phase:mo-si:mo5si3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2443.98 K, x(Si) 0.36552–0.39183 | 14 | 1 |
+| [MOSI2_C11B](#phase-mo-si-mosi2-c11b); _phase:mo-si:mosi2-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2306.33 K, x(Si) 0.66667–0.66667 | 54 | 7 |
 
 ## M3SI_A15 (Mo–Si)
 
@@ -591,7 +591,7 @@ _cited as the source of values for this phase_
 - Id: `phase:mo-si:mo3si-a15`; status `assigned`
 - Structure: Cr3Si · A15 · cP8 · Pm-3n (223); type `st:a15-cr3si-cp8`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2301.33 K, x(Si) 0.22057–0.23893
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-si:mo3si-a15)
 
 Names (3): _corpus: _corpus:phase:mo-si:mo3si-a15  
@@ -619,7 +619,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: W5Si3 · D8_m · tI32 · I4/mcm (140); type `st:d8-m-w5si3-ti32`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in MoSi-24Cze.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2443.98 K, x(Si) 0.36552–0.39183
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-si:mo5si3-d8m)
 
 Names (3): _corpus: _corpus:phase:mo-si:mo5si3-d8m  
@@ -648,7 +648,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaadvs and oqmd-17715, space group 139
 - Stoichiometry: Mo 0.3333, Si 0.6667
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2306.33 K, x(Si) 0.66667–0.66667
-- Literature: 58 values (58 accepted) from 3 papers
+- Literature: 54 values (54 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-si:mosi2-c11b)
 
 Names (13): _corpus: _corpus:phase:mo-si:mosi2-c11b  

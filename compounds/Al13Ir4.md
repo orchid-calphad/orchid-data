@@ -1,23 +1,22 @@
 # Al13Ir4: enthalpy of formation
 
-> Enthalpy of formation of Al13Ir4: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al13Ir4: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al13Ir4.html · Markdown: https://data.orchid-project.org/compounds/Al13Ir4.md
 
-6 accepted literature formation-enthalpy value(s) (model 5, DFT 1); OQMD -57.448 kJ/mol-atom (oqmd-1782493).
+5 accepted literature formation-enthalpy value(s) (model 4, DFT 1); OQMD -57.448 kJ/mol-atom (oqmd-1782493).
 
 Systems: [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al13Ir4 reported in the literature (6)
+Table: Enthalpy of formation of Al13Ir4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -64.4 kJ/mol-atom | Al13Ir4 |  | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008 | Table 2, p. 3, row 8 |  |
 | -64.1 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
 | -63.5 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
-| -63.5 kJ/mol-atom ± 0.7 | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
 | -62.8 kJ/mol-atom | Al13Ir4 | 0 | model |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 4, p. 4, row 2 |  |
 | -63.5 kJ/mol-atom | Al13Ir4 |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9 |  |
 

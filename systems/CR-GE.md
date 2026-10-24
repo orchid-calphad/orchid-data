@@ -1,10 +1,10 @@
 # Cr–Ge system
 
-> Cr–Ge system: 131 accepted literature values (invariant reaction 60, formation 48, heat capacity / entropy / enthalpy 18, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ge system: 100 accepted literature values (invariant reaction 60, formation 26, heat capacity / entropy / enthalpy 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-GE.html · Markdown: https://data.orchid-project.org/systems/CR-GE.md
 
-131 accepted literature values from 2 paper(s) (experimental 81, model 50); 3 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+100 accepted literature values from 2 paper(s) (experimental 63, model 37); 3 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-GE.json) · [CSV](https://data.orchid-project.org/systems/CR-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-GE/CrGe-09Li.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CR-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-GE.html) · [Markdown](https://data.orchid-project.org/systems/CR-GE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 81 |
-| model | 50 |
+| experimental | 63 |
+| model | 37 |
 
 Table: Accepted values by property group
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 60 |
 | phase transition | 5 |
-| formation | 48 |
-| heat capacity / entropy / enthalpy | 18 |
+| formation | 26 |
+| heat capacity / entropy / enthalpy | 9 |
 
 ## Calculated phase diagrams
 
@@ -143,7 +143,7 @@ Table: Invariant reactions reported in the literature for the Cr–Ge system (60
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ge system (28)
+Table: Enthalpies of formation, Cr–Ge system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -160,18 +160,6 @@ Table: Enthalpies of formation, Cr–Ge system (28)
 | Cr5Ge3 |  | -12.3 unspecified ± 2.5 | 298 | model |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
 | CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -13.85 kJ/mol-atom | 298 | model | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010 | Table 4, p. 7, row 10 |  |
 | CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -10.25 kJ/mol-atom | 298 | experimental | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 9 |  |
-| UNKNOWN |  | -19.3 kJ/mol-atom ± 2.5 | 298 | experimental |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 1 |  |
-| UNKNOWN |  | -19.12 kJ/mol-atom | 298 | experimental |  |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 2 |  |
-| UNKNOWN |  | -16.3 kJ/mol-atom | 298 | model |  |  | [1] Liu 2010 | Table 4, p. 7, row 6 |  |
-| UNKNOWN |  | -16.19 kJ/mol-atom | 298 | model |  |  | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
-| UNKNOWN |  | -15.7 kJ/mol-atom ± 1 | 298 | experimental |  |  | [1] Liu 2010; _cites Kleppa 1990_ | Table 4, p. 7, row 5 |  |
-| UNKNOWN |  | -15.33 kJ/mol-atom | 298 | model |  |  | [1] Liu 2010 | Table 4, p. 7, row 3 |  |
-| UNKNOWN |  | -13.85 kJ/mol-atom | 298 | model |  |  | [1] Liu 2010 | Table 4, p. 7, row 10 |  |
-| UNKNOWN |  | -12.3 kJ/mol-atom ± 2.5 | 298 | experimental |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 4 |  |
-| UNKNOWN |  | -10.92 kJ/mol-atom | 298 | experimental |  |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
-| UNKNOWN |  | -10.25 kJ/mol-atom | 298 | experimental |  |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 9 |  |
-| UNKNOWN |  | -10.16 kJ/mol-atom | 298 | model |  |  | [1] Liu 2010 | Table 4, p. 7, row 12 |  |
-| UNKNOWN |  | -7.28 kJ/mol-atom | 298 | experimental |  |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 11 |  |
 | αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -16.3 kJ/mol-atom | 298 | model | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010 | Table 4, p. 7, row 6 |  |
 | αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -15.7 kJ/mol-atom ± 1 | 298 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Kleppa 1990_ | Table 4, p. 7, row 5 |  |
 | αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -12.3 kJ/mol-atom ± 2.5 | 298 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 4 |  |
@@ -190,7 +178,7 @@ Table: Phase transition, Cr–Ge system
 | Phase transition | 1275.15 K | 1275.15 | polymorphic | model | [1] Liu 2010 | p. 4 | “The nonstoichiometric Cr5 Ge3 phase undergoes an allotropic transformation at 1002 ◦ C \[10\].” |
 | Phase transition | 1838.15 K | 1838.15 | other: L1 ↔ L2 + BCC | experimental | [1] Liu 2010; _cites Svechnikov 1967_ | p. 2 | “In the Cr-rich region, Svechnikov et al. \[12\] reported a monotectic reaction L1 ↔ L2 + BCC at 1565 ◦ C and peritectic reaction L + BCC ↔ Cr3 Ge at 1410 ◦ C.” |
 
-### Formation (20)
+### Formation (10)
 
 Table: Formation, Cr–Ge system
 
@@ -206,18 +194,8 @@ Table: Formation, Cr–Ge system
 | Gibbs energy of formation; _printed: ΔfG0 1530_ | -13.69 kJ/mol-atom | 1530 | Cr0.8Ge0.2; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 27 |  |
 | Gibbs energy of formation; _printed: ΔfG0 1530_ | -14.37 kJ/mol-atom | 1530 | Cr0.8Ge0.2; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 26 |  |
 | Gibbs energy of formation; _printed: ΔfG0 1530_ | -14.51 kJ/mol-atom | 1530 | Cr0.8Ge0.2; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 28 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -16.47 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.37_ | model | [1] Liu 2010 | Table 4, p. 7, row 31 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -16.34 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.37_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 30 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -13.4 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.2_ | model | [1] Liu 2010 | Table 4, p. 7, row 29 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -17.38 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 24 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -13.69 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 27 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -14.37 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 26 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -19.22 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 23 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -14.51 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.2_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 28 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -15.73 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.25_ | model | [1] Liu 2010 | Table 4, p. 7, row 25 |  |
-| Gibbs energy of formation; _printed: ΔfG0 1530_ | -18.07 kJ/mol-atom | 1530 | UNKNOWN; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 22 |  |
 
-### Heat capacity / entropy / enthalpy (18)
+### Heat capacity / entropy / enthalpy (9)
 
 Table: Heat capacity / entropy / enthalpy, Cr–Ge system
 
@@ -230,15 +208,6 @@ Table: Heat capacity / entropy / enthalpy, Cr–Ge system
 | Entropy; _printed: S0 298_ | 26 J/mol-atom/K | 298 | Cr3Ge; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 13 |  |
 | Entropy; _printed: S0 298_ | 30.6 J/mol-atom/K | 298 | CrGe; _alloy: Ge 0.5_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 18 |  |
 | Entropy; _printed: S0 298_ | 29.03 J/mol-atom/K | 298 | CrGe; _alloy: Ge 0.5_ | model | [1] Liu 2010 | Table 4, p. 7, row 19 |  |
-| Entropy; _printed: S0 298_ | 29.6 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.375_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 15 |  |
-| Entropy; _printed: S0 298_ | 30.6 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.5_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 18 |  |
-| Entropy; _printed: S0 298_ | 27.07 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.25_ | model | [1] Liu 2010 | Table 4, p. 7, row 14 |  |
-| Entropy; _printed: S0 298_ | 26 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 13 |  |
-| Entropy; _printed: S0 298_ | 31.7 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.633333_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 20 |  |
-| Entropy; _printed: S0 298_ | 29.83 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.633333_ | model | [1] Liu 2010 | Table 4, p. 7, row 21 |  |
-| Entropy; _printed: S0 298_ | 26.87 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.375_ | model | [1] Liu 2010 | Table 4, p. 7, row 16 |  |
-| Entropy; _printed: S0 298_ | 29.03 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.5_ | model | [1] Liu 2010 | Table 4, p. 7, row 19 |  |
-| Entropy; _printed: S0 298_ | 26.07 J/mol-atom/K | 298 | UNKNOWN; _alloy: Ge 0.421053_ | model | [1] Liu 2010 | Table 4, p. 7, row 17 |  |
 | Entropy; _printed: S0 298_ | 29.6 J/mol-atom/K | 298 | αCr5Ge3; _alloy: Ge 0.375_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 15 |  |
 | Entropy; _printed: S0 298_ | 26.87 J/mol-atom/K | 298 | αCr5Ge3; _alloy: Ge 0.375_ | model | [1] Liu 2010 | Table 4, p. 7, row 16 |  |
 

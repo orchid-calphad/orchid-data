@@ -238,36 +238,43 @@
   "observations": [
    {
     "id": "ORC-5AR57ZMUQG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-VU5YE76XDG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-MFUCO5TKZA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-5JNVS5UI64",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-GUEUGAGUT5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-PT5B5LKPON",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    },
    {
     "id": "ORC-LZHRVMSV4A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.05.002",
     "measured_in": "doi:10.1103/physrevb.54.11169"
    }

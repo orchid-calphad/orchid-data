@@ -1,10 +1,10 @@
 # Ru–Sn system
 
-> Ru–Sn system: 249 accepted literature values (mixing / partial 151, activity / EMF / Gibbs energy 67, formation 11, phase equilibrium 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Sn system: 247 accepted literature values (mixing / partial 151, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://data.orchid-project.org/systems/RU-SN.md
 
-249 accepted literature values from 2 paper(s) (experimental 46, model 199, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+247 accepted literature values from 2 paper(s) (experimental 46, model 197, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 46 |
-| model | 199 |
+| model | 197 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 9 |
 | phase transition | 1 |
 | phase equilibrium | 10 |
-| formation | 11 |
+| formation | 9 |
 | mixing / partial | 151 |
 | activity / EMF / Gibbs energy | 67 |
 
@@ -77,7 +77,7 @@ Table: Invariant reactions reported in the literature for the Ru–Sn system (9)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ru–Sn system (11)
+Table: Enthalpies of formation, Ru–Sn system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -90,8 +90,6 @@ Table: Enthalpies of formation, Ru–Sn system (11)
 | Ru0.4Sn0.6 |  | -24.3 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Charles 1999; _cites Perring 1997_ | Table 4, p. 4, row 3 |  |
 | Ru0.4Sn0.6 |  | -21.6 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [2] Charles 1999; _cites Perring 1997_ | Table 1, p. 1, row 5 |  |
 | Ru0.4Sn0.6 |  | -21.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [2] Charles 1999; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 1, p. 1, row 7 |  |
-| UNKNOWN |  | -25.4 kJ/mol (basis unstated) ± 0.8 |  | model |  |  | [2] Charles 1999 | Table 1, p. 1, row 4 |  |
-| UNKNOWN |  | -24.3 kJ/mol (basis unstated) ± 1.6 |  | model |  |  | [2] Charles 1999 | Table 1, p. 1, row 3 |  |
 
 ## Other properties
 

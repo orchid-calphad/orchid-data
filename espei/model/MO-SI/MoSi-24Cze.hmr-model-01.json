@@ -28,9 +28,10 @@
   "evidence_class:model",
   "thermochemical_table",
   "model",
+  "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CHMBZICGGN.bde414",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CHMBZICGGN.8df31e",
  "reference_states": {
   "MO": {
    "phase": "BCC_A2",
@@ -76,10 +77,13 @@
   "evidence_class": "model",
   "observations": [
    {
-    "id": "ORC-CHMBZICGGN.bde414",
+    "id": "ORC-CHMBZICGGN.8df31e",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1002/adem.202302085",
-    "measured_in": "doi:10.1002/adem.202302085"
+    "measured_in": "doi:10.1002/adem.202302085",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
    }
   ],
   "papers": [
@@ -101,6 +105,12 @@
    {
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "printed_uncertainty_not_used": {
+     "value": 1.6,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
     "weight_used": 1.0
    }
   ]
@@ -120,7 +130,7 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-CHMBZICGGN.bde414",
+    "id": "ORC-CHMBZICGGN.8df31e",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

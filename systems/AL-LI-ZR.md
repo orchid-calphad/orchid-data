@@ -1,10 +1,10 @@
 # Al–Li–Zr system
 
-> Al–Li–Zr system: 382 accepted literature values (formation 343, crystal structure 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li–Zr system: 212 accepted literature values (formation 173, crystal structure 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-LI-ZR.md
 
-382 accepted literature values from 1 paper(s) (experimental 40, model 176, DFT 129, unspecified 37); 0 calculated phase diagram(s).
+212 accepted literature values from 1 paper(s) (experimental 20, model 90, DFT 65, unspecified 37); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-LI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI-ZR.md)
 
@@ -12,23 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
-| model | 176 |
-| DFT | 129 |
+| experimental | 20 |
+| model | 90 |
+| DFT | 65 |
 | unspecified | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 343 |
+| formation | 173 |
 | crystal structure | 39 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Li–Zr system (343)
+Table: Enthalpies of formation, Al–Li–Zr system (173)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -205,176 +205,6 @@ Table: Enthalpies of formation, Al–Li–Zr system (343)
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -28.7 kJ/mol-atom |  | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 119 |  |
 | AlZr3 | [AlZr3](https://data.orchid-project.org/compounds/AlZr3.html) | -27 kJ/mol-atom |  | model | -29.168 (mp-aaaaacep) | -28.879 (oqmd-18197) | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 120 |  |
 | AlZr3 |  | -23.117 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 117 |  |
-| UNKNOWN |  | -71.3 kJ/mol-atom ± 4.4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 49 |  |
-| UNKNOWN |  | -64.95 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 53 |  |
-| UNKNOWN |  | -59.6 kJ/mol-atom ± 2.4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 36 |  |
-| UNKNOWN |  | -58.48 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 73 |  |
-| UNKNOWN |  | -58.257 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 15 |  |
-| UNKNOWN |  | -57.664 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 30 |  |
-| UNKNOWN |  | -56.613 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 40 |  |
-| UNKNOWN |  | -56.3 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 23 |  |
-| UNKNOWN |  | -56.1 kJ/mol-atom ± 3.1 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 106 |  |
-| UNKNOWN |  | -55.424 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 65 |  |
-| UNKNOWN |  | -55.4 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 43 |  |
-| UNKNOWN |  | -55.18 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 86 |  |
-| UNKNOWN |  | -54 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 22 |  |
-| UNKNOWN |  | -53.327 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 18 |  |
-| UNKNOWN |  | -53 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 48 |  |
-| UNKNOWN |  | -52.87 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 1 |  |
-| UNKNOWN |  | -52.582 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 27 |  |
-| UNKNOWN |  | -52.23 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 17 |  |
-| UNKNOWN |  | -52.138 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 68 |  |
-| UNKNOWN |  | -52.1 kJ/mol-atom ± 1.6 | 298.15 | experimental |  |  | [1] Long 2020; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 4, p. 7, row 21 |  |
-| UNKNOWN |  | -52 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 61 |  |
-| UNKNOWN |  | -51.649 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 33 |  |
-| UNKNOWN |  | -51.603 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 16 |  |
-| UNKNOWN |  | -51.602 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 28 |  |
-| UNKNOWN |  | -51.6 kJ/mol-atom ± 1.2 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 8 |  |
-| UNKNOWN |  | -51.484 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 98 |  |
-| UNKNOWN |  | -51.446 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 29 |  |
-| UNKNOWN |  | -51.3 kJ/mol-atom ± 4.3 | 298.15 | experimental |  |  | [1] Long 2020; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 4, p. 7, row 20 |  |
-| UNKNOWN |  | -50.284 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 76 |  |
-| UNKNOWN |  | -49.899 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 41 |  |
-| UNKNOWN |  | -49.867 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 31 |  |
-| UNKNOWN |  | -49.84 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 32 |  |
-| UNKNOWN |  | -49.419 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 56 |  |
-| UNKNOWN |  | -49.106 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 4 |  |
-| UNKNOWN |  | -49.005 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 42 |  |
-| UNKNOWN |  | -49 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 6 |  |
-| UNKNOWN |  | -49 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 81 |  |
-| UNKNOWN |  | -49 kJ/mol-atom ± 3.1 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 82 |  |
-| UNKNOWN |  | -48.541 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 12 |  |
-| UNKNOWN |  | -48.4 kJ/mol-atom ± 1 | 298.15 | experimental |  |  | [1] Long 2020; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 4, p. 7, row 7 |  |
-| UNKNOWN |  | -48.358 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 110 |  |
-| UNKNOWN |  | -48 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 94 |  |
-| UNKNOWN |  | -47.837 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 19 |  |
-| UNKNOWN |  | -47.803 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 89 |  |
-| UNKNOWN |  | -47.555 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 71 |  |
-| UNKNOWN |  | -47.3 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 37 |  |
-| UNKNOWN |  | -46.94 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 38 |  |
-| UNKNOWN |  | -46.897 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 50 |  |
-| UNKNOWN |  | -46.834 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 101 |  |
-| UNKNOWN |  | -46.78 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 2 |  |
-| UNKNOWN |  | -46.779 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 13 |  |
-| UNKNOWN |  | -46.77 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 3 |  |
-| UNKNOWN |  | -46.21 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 70 |  |
-| UNKNOWN |  | -46.163 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 46 |  |
-| UNKNOWN |  | -45.81 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 25 |  |
-| UNKNOWN |  | -45.8 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 24 |  |
-| UNKNOWN |  | -45.597 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 62 |  |
-| UNKNOWN |  | -45.536 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 26 |  |
-| UNKNOWN |  | -45.474 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 34 |  |
-| UNKNOWN |  | -45.434 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 55 |  |
-| UNKNOWN |  | -45.326 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 54 |  |
-| UNKNOWN |  | -45.2 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 39 |  |
-| UNKNOWN |  | -44.875 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 69 |  |
-| UNKNOWN |  | -44.875 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 44 |  |
-| UNKNOWN |  | -44.79 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 45 |  |
-| UNKNOWN |  | -44.685 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 52 |  |
-| UNKNOWN |  | -44.5 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 51 |  |
-| UNKNOWN |  | -44.321 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 14 |  |
-| UNKNOWN |  | -44.298 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 11 |  |
-| UNKNOWN |  | -43.6 kJ/mol-atom ± 2.3 | 298.15 | experimental |  |  | [1] Long 2020; _cites Macia 2018_ | Table 4, p. 7, row 118 |  |
-| UNKNOWN |  | -43.127 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 64 |  |
-| UNKNOWN |  | -42.925 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 75 |  |
-| UNKNOWN |  | -42.67 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 83 |  |
-| UNKNOWN |  | -42.002 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 59 |  |
-| UNKNOWN |  | -41.371 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 67 |  |
-| UNKNOWN |  | -41 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 63 |  |
-| UNKNOWN |  | -40.894 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 74 |  |
-| UNKNOWN |  | -40.892 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 47 |  |
-| UNKNOWN |  | -40.6 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 9 |  |
-| UNKNOWN |  | -40.564 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 85 |  |
-| UNKNOWN |  | -40.5 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 10 |  |
-| UNKNOWN |  | -40.175 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 57 |  |
-| UNKNOWN |  | -40.06 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 58 |  |
-| UNKNOWN |  | -39.973 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 100 |  |
-| UNKNOWN |  | -39.806 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 95 |  |
-| UNKNOWN |  | -39.798 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 112 |  |
-| UNKNOWN |  | -39.593 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 5 |  |
-| UNKNOWN |  | -39.298 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 79 |  |
-| UNKNOWN |  | -39.145 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 109 |  |
-| UNKNOWN |  | -39 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 97 |  |
-| UNKNOWN |  | -39 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 72 |  |
-| UNKNOWN |  | -38.854 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 87 |  |
-| UNKNOWN |  | -38.725 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 66 |  |
-| UNKNOWN |  | -38.427 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 84 |  |
-| UNKNOWN |  | -38.262 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 77 |  |
-| UNKNOWN |  | -38.13 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 78 |  |
-| UNKNOWN |  | -37.599 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 92 |  |
-| UNKNOWN |  | -37.448 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 113 |  |
-| UNKNOWN |  | -37.283 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 124 |  |
-| UNKNOWN |  | -36.753 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 104 |  |
-| UNKNOWN |  | -36.611 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 99 |  |
-| UNKNOWN |  | -36.463 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 80 |  |
-| UNKNOWN |  | -36.25 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 107 |  |
-| UNKNOWN |  | -36.248 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 96 |  |
-| UNKNOWN |  | -36.163 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Wang 2001_ [doi](https://doi.org/10.1007/s11669-001-0072-4) | Table 4, p. 7, row 122 |  |
-| UNKNOWN |  | -36.02 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 91 |  |
-| UNKNOWN |  | -35.979 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 111 |  |
-| UNKNOWN |  | -35.308 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 90 |  |
-| UNKNOWN |  | -35.208 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 60 |  |
-| UNKNOWN |  | -34.64 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 103 |  |
-| UNKNOWN |  | -34.222 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 102 |  |
-| UNKNOWN |  | -33.375 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 108 |  |
-| UNKNOWN |  | -33.283 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 93 |  |
-| UNKNOWN |  | -31.767 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Murray 1992_ [doi](https://doi.org/10.1007/bf02667556) | Table 4, p. 7, row 121 |  |
-| UNKNOWN |  | -31.088 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 4, p. 7, row 116 |  |
-| UNKNOWN |  | -30.434 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 105 |  |
-| UNKNOWN |  | -29.15 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Wang 2011_ [doi](https://doi.org/10.1016/j.calphad.2011.09.009) | Table 4, p. 7, row 115 |  |
-| UNKNOWN |  | -28.994 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Duan 2013_ | Table 4, p. 7, row 114 |  |
-| UNKNOWN |  | -28.993 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Fischer 2015_ [doi](https://doi.org/10.1007/s11669-015-0398-y) | Table 4, p. 7, row 123 |  |
-| UNKNOWN |  | -28.7 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1986_ [doi](https://doi.org/10.1179/mst.1986.2.6.520) | Table 4, p. 7, row 119 |  |
-| UNKNOWN |  | -27 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Saunders 1989_ | Table 4, p. 7, row 120 |  |
-| UNKNOWN |  | -23.8 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 129 |  |
-| UNKNOWN |  | -23.117 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Zhang 2010_ [doi](https://doi.org/10.1557/jmr.2010.0227) | Table 4, p. 7, row 117 |  |
-| UNKNOWN |  | -21.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 128 |  |
-| UNKNOWN |  | -21.8 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Yao 1971_ [doi](https://doi.org/10.1149/1.2408242) | Table 4, p. 7, row 126 |  |
-| UNKNOWN |  | -21.1 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 145 |  |
-| UNKNOWN |  | -20.7 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 130 |  |
-| UNKNOWN |  | -20.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 131 |  |
-| UNKNOWN |  | -20.3 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Christensen 1985_ [doi](https://doi.org/10.1103/physrevb.32.207) | Table 4, p. 7, row 127 |  |
-| UNKNOWN |  | -20 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 132 |  |
-| UNKNOWN |  | -20 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 125 |  |
-| UNKNOWN |  | -19.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 146 |  |
-| UNKNOWN |  | -19 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 144 |  |
-| UNKNOWN |  | -18.8 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 143 |  |
-| UNKNOWN |  | -18.8 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 147 |  |
-| UNKNOWN |  | -17.2 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 148 |  |
-| UNKNOWN |  | -16.8 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 151 |  |
-| UNKNOWN |  | -15.1 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 149 |  |
-| UNKNOWN |  | -15.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 152 |  |
-| UNKNOWN |  | -14.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 150 |  |
-| UNKNOWN |  | -14.9 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 153 |  |
-| UNKNOWN |  | -14 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 137 |  |
-| UNKNOWN |  | -14 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 133 |  |
-| UNKNOWN |  | -13.8 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 136 |  |
-| UNKNOWN |  | -13.7 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 135 |  |
-| UNKNOWN |  | -13.1 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 138 |  |
-| UNKNOWN |  | -13.1 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 142 |  |
-| UNKNOWN |  | -11.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 140 |  |
-| UNKNOWN |  | -11.1 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 155 |  |
-| UNKNOWN |  | -10.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169 |  |
-| UNKNOWN |  | -10.5 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 168 |  |
-| UNKNOWN |  | -10.5 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171 |  |
-| UNKNOWN |  | -10.2 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170 |  |
-| UNKNOWN |  | -10.1 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 156 |  |
-| UNKNOWN |  | -9.5 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 141 |  |
-| UNKNOWN |  | -8.1 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 158 |  |
-| UNKNOWN |  | -8.1 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 154 |  |
-| UNKNOWN |  | -7.5 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 157 |  |
-| UNKNOWN |  | -6.5 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164 |  |
-| UNKNOWN |  | -5 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167 |  |
-| UNKNOWN |  | -5 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 162 |  |
-| UNKNOWN |  | -5 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 163 |  |
-| UNKNOWN |  | -5 kJ/mol-atom |  | model |  |  | [1] Long 2020 | Table 4, p. 7, row 159 |  |
-| UNKNOWN |  | -5 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165 |  |
-| UNKNOWN |  | -3.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 161 |  |
-| UNKNOWN |  | -2.3 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166 |  |
-| UNKNOWN |  | 1.9 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 160 |  |
-| UNKNOWN |  | 6.1 kJ/mol-atom |  | DFT |  |  | [1] Long 2020; _cites Christensen 1985_ [doi](https://doi.org/10.1103/physrevb.32.207) | Table 4, p. 7, row 134 |  |
-| UNKNOWN |  | 41.929 kJ/mol-atom |  | model |  |  | [1] Long 2020; _cites Tamim 2018_ [doi](https://doi.org/10.1007/s10973-017-6635-3) | Table 4, p. 7, row 88 |  |
-| UNKNOWN |  | 55 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Long 2020; _cites Kematick 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990150-6) | Table 4, p. 7, row 35 |  |
 
 ## Other properties
 

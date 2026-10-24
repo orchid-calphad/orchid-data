@@ -1,10 +1,10 @@
 # P–Si–Zn system
 
-> P–Si–Zn system: 43 accepted literature values (formation 22, crystal structure 16, phase equilibrium 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Si–Zn system: 36 accepted literature values (crystal structure 16, formation 15, phase equilibrium 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-SI-ZN.html · Markdown: https://data.orchid-project.org/systems/P-SI-ZN.md
 
-43 accepted literature values from 1 paper(s) (experimental 24, model 10, DFT 2, unspecified 7); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 22, model 8, DFT 2, unspecified 4); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-SI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-SI-ZN.md)
 
@@ -12,32 +12,27 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 10 |
+| experimental | 22 |
+| model | 8 |
 | DFT | 2 |
-| unspecified | 7 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 5 |
-| formation | 22 |
+| formation | 15 |
 | crystal structure | 16 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, P–Si–Zn system (13)
+Table: Enthalpies of formation, P–Si–Zn system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zn3P2 |  | -230300 per formula unit ± 6300 | 298 | experimental |  |  | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 4 |  |
-| Zn3P2 |  | -223300 per formula unit ± 1500 | 298 | unspecified |  |  | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 5 |  |
-| Zn3P2 |  | -181780 per formula unit | 298 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
-| Zn3P2 |  | -173200 per formula unit ± 10400 | 298 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
-| Zn3P2 |  | -165300 per formula unit ± 20900 | 298 | experimental |  |  | [1] Liu 2016; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 4, p. 6, row 3 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -30.3678 kJ/mol-atom | 298 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
 | ZnP2 |  | -127.4 kJ/mol (basis unstated) ± 7.5 | 298 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 | ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
@@ -61,15 +56,13 @@ Table: Phase equilibrium, P–Si–Zn system
 | Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.002, Si 0.001, Zn 0.997; Zn3P2: P 0.435, Si 0.002, Zn 0.563; ZnSiP2: P 0.511, Si 0.241, Zn 0.248_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 3 |  |
 | Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.013, Si 0.002, Zn 0.985; Zn3P2: P 0.432, Si 0.002, Zn 0.566; ZnSiP2: P 0.521, Si 0.244, Zn 0.235_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 2 |  |
 
-### Formation (9)
+### Formation (7)
 
 Table: Formation, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy of formation; _printed: ΔfG298_ | -31.7414 kJ/mol-atom | 298 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -180100 per formula unit ± 13000 | 298 | Zn3P2; _alloy: Si 0, Zn 0.6_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -168810 per formula unit | 298 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -122.9 kJ/mol (basis unstated) ± 5.5 | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -126.2 kJ/mol (basis unstated) | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -118.032 kJ/mol (basis unstated) | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016 | Table 4, p. 6, row 7 |  |

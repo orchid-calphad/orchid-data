@@ -77,7 +77,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UZ6GVQRNMG.b784c9 ORC-N4R4VXHYYS.42153e ORC-5P37AKXDJA.61080a ORC-TR7IHMB45Q.ece17f ORC-5QHCOCHWGW.1f542b ORC-CC4ZATIHZY.b52155 ORC-AXC7ARC6Y6.ff1b36 ORC-IT7YSQMHF6.ebfe01 ORC-2C53JADKMD.0ce008 ORC-SFD2KHCML5.05258f ORC-A7W3KER6E5.167ee9 ORC-OWJSHDZEA6.28d436 ORC-P5GGFOWMDH.5f990b ORC-LTGY7ET35B.525ec0 ORC-63WJIQMRVL.227ca2 ORC-622PGZM3T2.edf4b2 ORC-XNM6TYMKTE.474873 ORC-GV7ELY7DVL.ece5c0 ORC-VDMHT7PQXF.d9d7a4 ORC-2BQHK4P4FL.1ea771 ORC-WQG5YU7G5A.39f490 ORC-LS2LFPX7UP.eaa323 ORC-W5KI5UYQ5T.53b183 ORC-PRVEMNGLQK.d3ff1a ORC-5ZU4LEKRXD.18d3c9",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UZ6GVQRNMG.af5aa0 ORC-N4R4VXHYYS.63bbe6 ORC-5P37AKXDJA.d0b2b7 ORC-TR7IHMB45Q.ada3c0 ORC-5QHCOCHWGW.b7b3bd ORC-CC4ZATIHZY.672cd2 ORC-AXC7ARC6Y6.d4e3d1 ORC-IT7YSQMHF6.db716d ORC-2C53JADKMD.a61c39 ORC-SFD2KHCML5.9d0105 ORC-A7W3KER6E5.1f57dd ORC-OWJSHDZEA6.2ee18d ORC-P5GGFOWMDH.1f2213 ORC-LTGY7ET35B.70862c ORC-63WJIQMRVL.c4bbd1 ORC-622PGZM3T2.fef96a ORC-XNM6TYMKTE.e1aa4b ORC-GV7ELY7DVL.858eec ORC-VDMHT7PQXF.696606 ORC-2BQHK4P4FL.8f72b0 ORC-WQG5YU7G5A.5b9e83 ORC-LS2LFPX7UP.701c62 ORC-W5KI5UYQ5T.2d0e28 ORC-PRVEMNGLQK.9f59f5 ORC-5ZU4LEKRXD.1dc1ab",
  "reference_states": {
   "LI": {
    "phase": "LIQUID"
@@ -93,7 +93,7 @@
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-UZ6GVQRNMG.b784c9",
+    "id": "ORC-UZ6GVQRNMG.af5aa0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -105,7 +105,7 @@
     ]
    },
    {
-    "id": "ORC-N4R4VXHYYS.42153e",
+    "id": "ORC-N4R4VXHYYS.63bbe6",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -117,7 +117,7 @@
     ]
    },
    {
-    "id": "ORC-5P37AKXDJA.61080a",
+    "id": "ORC-5P37AKXDJA.d0b2b7",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -129,7 +129,7 @@
     ]
    },
    {
-    "id": "ORC-TR7IHMB45Q.ece17f",
+    "id": "ORC-TR7IHMB45Q.ada3c0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -141,7 +141,7 @@
     ]
    },
    {
-    "id": "ORC-5QHCOCHWGW.1f542b",
+    "id": "ORC-5QHCOCHWGW.b7b3bd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -153,7 +153,7 @@
     ]
    },
    {
-    "id": "ORC-CC4ZATIHZY.b52155",
+    "id": "ORC-CC4ZATIHZY.672cd2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -165,7 +165,7 @@
     ]
    },
    {
-    "id": "ORC-AXC7ARC6Y6.ff1b36",
+    "id": "ORC-AXC7ARC6Y6.d4e3d1",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -177,7 +177,7 @@
     ]
    },
    {
-    "id": "ORC-IT7YSQMHF6.ebfe01",
+    "id": "ORC-IT7YSQMHF6.db716d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -189,7 +189,7 @@
     ]
    },
    {
-    "id": "ORC-2C53JADKMD.0ce008",
+    "id": "ORC-2C53JADKMD.a61c39",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -201,7 +201,7 @@
     ]
    },
    {
-    "id": "ORC-SFD2KHCML5.05258f",
+    "id": "ORC-SFD2KHCML5.9d0105",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -213,7 +213,7 @@
     ]
    },
    {
-    "id": "ORC-A7W3KER6E5.167ee9",
+    "id": "ORC-A7W3KER6E5.1f57dd",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -225,7 +225,7 @@
     ]
    },
    {
-    "id": "ORC-OWJSHDZEA6.28d436",
+    "id": "ORC-OWJSHDZEA6.2ee18d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -237,7 +237,7 @@
     ]
    },
    {
-    "id": "ORC-P5GGFOWMDH.5f990b",
+    "id": "ORC-P5GGFOWMDH.1f2213",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -249,7 +249,7 @@
     ]
    },
    {
-    "id": "ORC-LTGY7ET35B.525ec0",
+    "id": "ORC-LTGY7ET35B.70862c",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -261,7 +261,7 @@
     ]
    },
    {
-    "id": "ORC-63WJIQMRVL.227ca2",
+    "id": "ORC-63WJIQMRVL.c4bbd1",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -273,7 +273,7 @@
     ]
    },
    {
-    "id": "ORC-622PGZM3T2.edf4b2",
+    "id": "ORC-622PGZM3T2.fef96a",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -285,7 +285,7 @@
     ]
    },
    {
-    "id": "ORC-XNM6TYMKTE.474873",
+    "id": "ORC-XNM6TYMKTE.e1aa4b",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -297,7 +297,7 @@
     ]
    },
    {
-    "id": "ORC-GV7ELY7DVL.ece5c0",
+    "id": "ORC-GV7ELY7DVL.858eec",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -309,7 +309,7 @@
     ]
    },
    {
-    "id": "ORC-VDMHT7PQXF.d9d7a4",
+    "id": "ORC-VDMHT7PQXF.696606",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -321,7 +321,7 @@
     ]
    },
    {
-    "id": "ORC-2BQHK4P4FL.1ea771",
+    "id": "ORC-2BQHK4P4FL.8f72b0",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -333,7 +333,7 @@
     ]
    },
    {
-    "id": "ORC-WQG5YU7G5A.39f490",
+    "id": "ORC-WQG5YU7G5A.5b9e83",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -345,7 +345,7 @@
     ]
    },
    {
-    "id": "ORC-LS2LFPX7UP.eaa323",
+    "id": "ORC-LS2LFPX7UP.701c62",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -357,7 +357,7 @@
     ]
    },
    {
-    "id": "ORC-W5KI5UYQ5T.53b183",
+    "id": "ORC-W5KI5UYQ5T.2d0e28",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -369,7 +369,7 @@
     ]
    },
    {
-    "id": "ORC-PRVEMNGLQK.d3ff1a",
+    "id": "ORC-PRVEMNGLQK.9f59f5",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -381,7 +381,7 @@
     ]
    },
    {
-    "id": "ORC-5ZU4LEKRXD.18d3c9",
+    "id": "ORC-5ZU4LEKRXD.1dc1ab",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.399",
     "measured_in": "doi:10.1016/j.jallcom.2016.12.399",
@@ -725,7 +725,7 @@
    "LIQUID"
   ],
   "basis": {
-   "caption_names_liquid": 25
+   "printed_labels": 25
   },
   "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
  },
@@ -735,127 +735,127 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-UZ6GVQRNMG.b784c9",
+    "id": "ORC-UZ6GVQRNMG.af5aa0",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-N4R4VXHYYS.42153e",
+    "id": "ORC-N4R4VXHYYS.63bbe6",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-5P37AKXDJA.61080a",
+    "id": "ORC-5P37AKXDJA.d0b2b7",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-TR7IHMB45Q.ece17f",
+    "id": "ORC-TR7IHMB45Q.ada3c0",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-5QHCOCHWGW.1f542b",
+    "id": "ORC-5QHCOCHWGW.b7b3bd",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-CC4ZATIHZY.b52155",
+    "id": "ORC-CC4ZATIHZY.672cd2",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-AXC7ARC6Y6.ff1b36",
+    "id": "ORC-AXC7ARC6Y6.d4e3d1",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-IT7YSQMHF6.ebfe01",
+    "id": "ORC-IT7YSQMHF6.db716d",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-2C53JADKMD.0ce008",
+    "id": "ORC-2C53JADKMD.a61c39",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-SFD2KHCML5.05258f",
+    "id": "ORC-SFD2KHCML5.9d0105",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-A7W3KER6E5.167ee9",
+    "id": "ORC-A7W3KER6E5.1f57dd",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-OWJSHDZEA6.28d436",
+    "id": "ORC-OWJSHDZEA6.2ee18d",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-P5GGFOWMDH.5f990b",
+    "id": "ORC-P5GGFOWMDH.1f2213",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-LTGY7ET35B.525ec0",
+    "id": "ORC-LTGY7ET35B.70862c",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-63WJIQMRVL.227ca2",
+    "id": "ORC-63WJIQMRVL.c4bbd1",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-622PGZM3T2.edf4b2",
+    "id": "ORC-622PGZM3T2.fef96a",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-XNM6TYMKTE.474873",
+    "id": "ORC-XNM6TYMKTE.e1aa4b",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-GV7ELY7DVL.ece5c0",
+    "id": "ORC-GV7ELY7DVL.858eec",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-VDMHT7PQXF.d9d7a4",
+    "id": "ORC-VDMHT7PQXF.696606",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-2BQHK4P4FL.1ea771",
+    "id": "ORC-2BQHK4P4FL.8f72b0",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-WQG5YU7G5A.39f490",
+    "id": "ORC-WQG5YU7G5A.5b9e83",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-LS2LFPX7UP.eaa323",
+    "id": "ORC-LS2LFPX7UP.701c62",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-W5KI5UYQ5T.53b183",
+    "id": "ORC-W5KI5UYQ5T.2d0e28",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-PRVEMNGLQK.d3ff1a",
+    "id": "ORC-PRVEMNGLQK.9f59f5",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-5ZU4LEKRXD.18d3c9",
+    "id": "ORC-5ZU4LEKRXD.1dc1ab",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

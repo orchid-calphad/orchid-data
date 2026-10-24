@@ -112,6 +112,7 @@
   "observations": [
    {
     "id": "ORC-TGGTRDOPIR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.010",
     "also_reported_as": [
      {
@@ -128,6 +129,7 @@
    },
    {
     "id": "ORC-V2RCUWBLNT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.010",
     "also_reported_as": [
      {

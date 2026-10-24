@@ -52,6 +52,7 @@
   "observations": [
    {
     "id": "ORC-JNDQIDI6F5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2012.09.029",
     "measured_in": "doi:10.1016/0022-5088(83)90067-x"
    }

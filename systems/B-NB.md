@@ -75,15 +75,15 @@ Table: Heat capacity / entropy / enthalpy, B–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy at 298.15 K_ | 20400 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 4 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19880 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 3 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17385.7 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 8 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17300 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 9 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 17863.6 J/mol-atom/K | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 7 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19050 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 5 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 19000 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 6 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 12700 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | experimental | [2] Peçanha 2007; _cites Westrum 1963_ [doi](https://doi.org/10.1021/j100805a030) | Table 4, p. 6, row 2 |  |
-| Entropy; _printed: Entropy at 298.15 K_ | 12900 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 1 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 20.4 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 4 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19.88 J/mol-atom/K | 298.15 | Nb3B2; _alloy: Nb 0.6_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 3 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.3857 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 8 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.3 J/mol-atom/K | 298.15 | Nb3B4; _alloy: Nb 0.428571_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 9 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 17.8636 J/mol-atom/K | 298.15 | Nb5B6; _alloy: Nb 0.454545_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 7 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19.05 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 5 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 19 J/mol-atom/K | 298.15 | NbB; _alloy: Nb 0.5_ | experimental | [2] Peçanha 2007; _cites Blinder 1991_ [doi](https://doi.org/10.1007/bf00794439) | Table 4, p. 6, row 6 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 12.7 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | experimental | [2] Peçanha 2007; _cites Westrum 1963_ [doi](https://doi.org/10.1021/j100805a030) | Table 4, p. 6, row 2 |  |
+| Entropy; _printed: Entropy at 298.15 K_ | 12.9 J/mol-atom/K | 298.15 | NbB2; _alloy: Nb 0.333333_ | model | [2] Peçanha 2007 | Table 4, p. 6, row 1 |  |
 
 ### Crystal structure (19)
 

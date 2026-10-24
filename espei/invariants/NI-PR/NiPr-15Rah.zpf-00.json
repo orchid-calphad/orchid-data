@@ -363,11 +363,13 @@
   "observations": [
    {
     "id": "ORC-IZ5GQIGVZC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-VFPEGS5JRJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852",
     "also_reported_as": [
@@ -381,26 +383,31 @@
    },
    {
     "id": "ORC-QYBXS4KPNH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-IMHOO7L325",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-35YGNUNLLF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-VMCZWOBPPS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-3WFUFK32Z2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852",
     "also_reported_as": [
@@ -414,11 +421,13 @@
    },
    {
     "id": "ORC-M7Y36AQYJY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-CKWR54AN5V",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852",
     "also_reported_as": [
@@ -432,11 +441,13 @@
    },
    {
     "id": "ORC-CAUP6STKSA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    },
    {
     "id": "ORC-2CAB6PZPUV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852",
     "also_reported_as": [
@@ -450,6 +461,7 @@
    },
    {
     "id": "ORC-72SK5UXBHJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1007/bf02643852"
    }

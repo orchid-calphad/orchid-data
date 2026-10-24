@@ -404,66 +404,79 @@
   "observations": [
    {
     "id": "ORC-JND6JBDLUA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-VIO3SQJMD7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-WOIZO2SDBO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-X3DBETZOGC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-YUTJOKMAQP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-UYTAVZDGJ5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-RU7U5RGE7X",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-3UNHEXJUIF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-CZEPNBLXI7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-CW673WZ3OF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-JK5DKTXZOB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-QDFPOX3S26",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    },
    {
     "id": "ORC-TGY44S24IC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4",
     "measured_in": "doi:10.1016/s0966-9795(99)00099-0"
    }

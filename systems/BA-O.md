@@ -1,10 +1,10 @@
 # Ba–O system
 
-> Ba–O system: 79 accepted literature values (heat capacity / entropy / enthalpy 46, formation 18, phase transition 10, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–O system: 41 accepted literature values (formation 18, phase transition 10, heat capacity / entropy / enthalpy 8, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-O.html · Markdown: https://data.orchid-project.org/systems/BA-O.md
 
-79 accepted literature values from 2 paper(s) (experimental 20, model 59); 1 calculated phase diagram(s).
+41 accepted literature values from 2 paper(s) (experimental 20, model 21); 1 calculated phase diagram(s). 38 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-O.json) · [CSV](https://data.orchid-project.org/systems/BA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-O/BaO-95Zim.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-O.html) · [Markdown](https://data.orchid-project.org/systems/BA-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 59 |
+| model | 21 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 5 |
 | phase transition | 10 |
 | formation | 18 |
-| heat capacity / entropy / enthalpy | 46 |
+| heat capacity / entropy / enthalpy | 8 |
 
 ## Calculated phase diagrams
 
@@ -110,7 +110,7 @@ Table: Formation, Ba–O system
 | Entropy of formation | 35.01 J/mol (basis unstated)/K | 298 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
 | Entropy of formation | 29.18 J/mol (basis unstated)/K | 298 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8 |  |
 
-### Heat capacity / entropy / enthalpy (46)
+### Heat capacity / entropy / enthalpy (8)
 
 Table: Heat capacity / entropy / enthalpy, Ba–O system
 
@@ -124,44 +124,6 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 | Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
 | Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0.002566 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Heat capacity; _printed: cp coefficient d_ | -97904 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Heat capacity; _printed: cp coefficient c_ | -1.200e-6 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Heat capacity; _printed: cp coefficient a_ | 14.6028 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
-| Heat capacity; _printed: cp coefficient c_ | 8.000e-7 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 10 |  |
-| Heat capacity; _printed: cp coefficient b_ | -0.002427 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 10 |  |
-| Heat capacity; _printed: cp coefficient a_ | 18.5972 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 10 |  |
-| Heat capacity; _printed: cp coefficient d_ | -894320 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 10 |  |
-| Heat capacity; _printed: cp coefficient c_ | 2.800e-6 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 11 |  |
-| Heat capacity; _printed: cp coefficient a_ | 32.578 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 11 |  |
-| Heat capacity; _printed: cp coefficient d_ | -7751800 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 11 |  |
-| Heat capacity; _printed: cp coefficient b_ | -0.012608 J/mol-atom/K |  | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 11 |  |
-| Heat capacity; _printed: cp coefficient b_ | -0.0145925 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 8 |  |
-| Heat capacity; _printed: cp coefficient d_ | -8971750 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 8 |  |
-| Heat capacity; _printed: cp coefficient a_ | 37.7062 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 8 |  |
-| Heat capacity; _printed: cp coefficient c_ | 3.000e-6 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 8 |  |
-| Heat capacity; _printed: cp coefficient d_ | -1035100 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 7 |  |
-| Heat capacity; _printed: cp coefficient b_ | -0.002809 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 7 |  |
-| Heat capacity; _printed: cp coefficient a_ | 21.5246 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 7 |  |
-| Heat capacity; _printed: cp coefficient c_ | 1.000e-6 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 7 |  |
-| Heat capacity; _printed: cp coefficient d_ | -113315 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Heat capacity; _printed: cp coefficient c_ | -1.500e-6 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0.0032015 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Heat capacity; _printed: cp coefficient a_ | 16.9015 J/mol-atom/K |  | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
-| Heat capacity; _printed: cp coefficient a_ | 33.47 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 4 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 4 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0.0032805 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| Heat capacity; _printed: cp coefficient d_ | -113913 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| Heat capacity; _printed: cp coefficient a_ | 23.9458 J/mol-atom/K |  | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
-| Heat capacity; _printed: cp coefficient c_ | 0 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Heat capacity; _printed: cp coefficient a_ | 23.9458 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0.0032805 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Heat capacity; _printed: cp coefficient d_ | -113913 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
-| Heat capacity; _printed: cp coefficient a_ | 33.335 J/mol-atom/K |  | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 2 |  |
-| Heat capacity; _printed: cp coefficient c_ | 0 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
-| Heat capacity; _printed: cp coefficient b_ | 0.00610867 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
-| Heat capacity; _printed: cp coefficient d_ | 72886 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
-| Heat capacity; _printed: cp coefficient a_ | 21.2534 J/mol-atom/K |  | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 
 ## Sources
 

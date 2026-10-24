@@ -1,10 +1,10 @@
 # Dy–Gd–La–Nd–Ru system
 
-> Dy–Gd–La–Nd–Ru system: 72 accepted literature values (formation 72) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Gd–La–Nd–Ru system: 71 accepted literature values (formation 71) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html · Markdown: https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.md
 
-72 accepted literature values from 1 paper(s) (experimental 3, model 62, DFT 7); 0 calculated phase diagram(s).
+71 accepted literature values from 1 paper(s) (experimental 2, model 62, DFT 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-GD-LA-ND-RU.json) · [CSV](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-GD-LA-ND-RU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-GD-LA-ND-RU.html) · [Markdown](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 2 |
 | model | 62 |
 | DFT | 7 |
 
@@ -20,13 +20,13 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 72 |
+| formation | 71 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Dy–Gd–La–Nd–Ru system (36)
+Table: Enthalpies of formation, Dy–Gd–La–Nd–Ru system (35)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -47,7 +47,6 @@ Table: Enthalpies of formation, Dy–Gd–La–Nd–Ru system (36)
 | La7Ru3 | [La7Ru3](https://data.orchid-project.org/compounds/La7Ru3.html) | -16.519 kJ/mol-atom |  | model | -27.093 (mp-aaacqkvm) | -25.251 (oqmd-1821162) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 23 |  |
 | LaRu2 | [LaRu2](https://data.orchid-project.org/compounds/LaRu2.html) | -13.801 kJ/mol-atom |  | model | -12.73 (mp-aaaaaczr) | -13.105 (oqmd-1367517) | [1] Kardellass 2023; _cites Selhaoui 1999_ [doi](https://doi.org/10.1016/s0151-9107%2899%2980054-3) | Table 2, p. 7, row 30 |  |
 | LaRu2 | [LaRu2](https://data.orchid-project.org/compounds/LaRu2.html) | -11 kJ/mol-atom | 298.15 | experimental | -12.73 (mp-aaaaaczr) | -13.105 (oqmd-1367517) | [1] Kardellass 2023; _cites Shilov 1983_ | Table 2, p. 7, row 32 |  |
-| LaRu2 | [LaRu2](https://data.orchid-project.org/compounds/LaRu2.html) | -10.3 kJ/mol-atom ± 2.8 | 298.15 | experimental | -12.73 (mp-aaaaaczr) | -13.105 (oqmd-1367517) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
 | LaRu2 | [LaRu2](https://data.orchid-project.org/compounds/LaRu2.html) | -10.3 kJ/mol-atom ± 2.8 | 298.15 | experimental | -12.73 (mp-aaaaaczr) | -13.105 (oqmd-1367517) | [1] Kardellass 2023; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990289-y) | Table 2, p. 7, row 31 |  |
 | Nd3Ru | [Nd3Ru](https://data.orchid-project.org/compounds/Nd3Ru.html) | -25.095 kJ/mol-atom |  | model | -18.787 (mp-aaackyoa) | -18.159 (oqmd-1437319) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 5 |  |
 | Nd3Ru | [Nd3Ru](https://data.orchid-project.org/compounds/Nd3Ru.html) | -21.846 kJ/mol-atom |  | model | -18.787 (mp-aaackyoa) | -18.159 (oqmd-1437319) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 9 |  |

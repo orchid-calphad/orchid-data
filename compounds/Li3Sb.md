@@ -1,26 +1,23 @@
 # Li3Sb: enthalpy of formation
 
-> Enthalpy of formation of Li3Sb: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Li3Sb: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Li3Sb.html · Markdown: https://data.orchid-project.org/compounds/Li3Sb.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 6, model 2); experimental median -74.287 kJ/mol-atom (n = 6); Materials Project -65.598 kJ/mol-atom (mp-aaaaadbu); OQMD -61.983 kJ/mol-atom (oqmd-646185).
+5 accepted literature formation-enthalpy value(s) (experimental 4, model 1); experimental median -74.287 kJ/mol-atom (n = 4); Materials Project -65.598 kJ/mol-atom (mp-aaaaadbu); OQMD -61.983 kJ/mol-atom (oqmd-646185).
 
 Systems: [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Li3Sb reported in the literature (8)
+Table: Enthalpy of formation of Li3Sb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -81.5 kJ/mol-atom | Li3Sb | 298 | experimental | acid solution calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
 | -75.25 kJ/mol-atom | Li3Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5 |  |
-| -75.25 kJ/mol-atom | Li3Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5 |  |
-| -73.325 kJ/mol-atom | Li3Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
 | -73.325 kJ/mol-atom | Li3Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
 | -70.03 kJ/mol-atom ± 0.3 | Li3Sb | 942 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 2 |  |
-| -76.825 kJ/mol-atom | Li3Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 6 |  |
 | -76.825 kJ/mol-atom | Li3Sb | 700.65 | model |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017 | Table 5, p. 36, row 6 |  |
 
 ## DFT formation energies

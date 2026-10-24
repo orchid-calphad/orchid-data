@@ -1,21 +1,20 @@
 # SmTi2: enthalpy of formation
 
-> Enthalpy of formation of SmTi2: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of SmTi2: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SmTi2.html · Markdown: https://data.orchid-project.org/compounds/SmTi2.md
 
-2 accepted literature formation-enthalpy value(s) (DFT 2).
+1 accepted literature formation-enthalpy value(s) (DFT 1).
 
 Systems: [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SmTi2 reported in the literature (2)
+Table: Enthalpy of formation of SmTi2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 27.3632 kJ/mol-atom | hR SmTi₂ | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 37 |  |
-| 121.224 kJ/mol-atom | cF12 SmTi₂ | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 29 |  |
 
 ## Sources
 

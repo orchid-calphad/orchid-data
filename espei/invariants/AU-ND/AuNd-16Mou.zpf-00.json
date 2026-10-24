@@ -75,10 +75,12 @@
   "observations": [
    {
     "id": "ORC-XO6HTBTJFH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.02.170"
    },
    {
     "id": "ORC-DQ6CPLTZRD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.02.170"
    }
   ],

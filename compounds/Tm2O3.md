@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Tm2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1889300 unknown | C-Tm₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
-| -1889300 unknown | C-Tm2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+| -1889.3 unknown | C-Tm₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+| -1889.3 unknown | C-Tm2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
 
 ## Sources
 

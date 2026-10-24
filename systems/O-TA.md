@@ -1,10 +1,10 @@
 # O–Ta system
 
-> O–Ta system: 51 accepted literature values (crystal structure 30, invariant reaction 14, phase transition 6, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Ta system: 50 accepted literature values (crystal structure 30, invariant reaction 14, phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TA.html · Markdown: https://data.orchid-project.org/systems/O-TA.md
 
-51 accepted literature values from 2 paper(s) (experimental 29, model 10, DFT 12); 0 calculated phase diagram(s).
+50 accepted literature values from 2 paper(s) (experimental 28, model 10, DFT 12); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TA.json) · [CSV](https://data.orchid-project.org/systems/O-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TA) · [phases (8)](https://data.orchid-project.org/phases/pages/O-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TA.html) · [Markdown](https://data.orchid-project.org/systems/O-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 28 |
 | model | 10 |
 | DFT | 12 |
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 6 |
-| formation | 1 |
 | crystal structure | 30 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TA.json) · [CALPHAD hull TaO-22Mei-ass](https://data.orchid-project.org/hulls/calphad-sgte/O/O-TA--TaO-22Mei-ass.json) · [CALPHAD hull TaO-22Mei-ion](https://data.orchid-project.org/hulls/calphad-sgte/O/O-TA--TaO-22Mei-ion.json)
@@ -47,16 +46,6 @@ Table: Invariant reactions reported in the literature for the O–Ta system (14)
 | 1787.15 | eutectic: liquid2 \<-> bcc + αTa2O5 | liquid2: Ta 0.387; bcc: Ta 0.952; αTa2O5: Ta 0.286 | model | [1] Gebauer 2022; _cites Meisner 2022_ [doi](https://doi.org/10.1016/j.calphad.2022.102391) | Table 2, p. 6, row 7 |  |
 | 1708.15 | eutectic |  | experimental | [1] Gebauer 2022 | p. 4 | “A peritectic reaction at 1560 °C and two eutectic reactions at 1425 and 1435 °C are shown.” |
 | 1698.15 | eutectic |  | experimental | [1] Gebauer 2022 | p. 4 | “A peritectic reaction at 1560 °C and two eutectic reactions at 1425 and 1435 °C are shown.” |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, O–Ta system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | 2038 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Meisner 2022 | p. 15 | “Moreover, the 0-K formation enthalpy of the T form is 11.2 % lower than the experimental value of 2038 kJ/mol from electrochemical measurements at 298 K by Jacob et al., which is a reasonable agreement.” |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Ge–Ni system
 
-> Ge–Ni system: 113 accepted literature values (invariant reaction 95, formation 11, phase transition 6, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Ni system: 112 accepted literature values (invariant reaction 95, formation 10, phase transition 6, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NI.html · Markdown: https://data.orchid-project.org/systems/GE-NI.md
 
-113 accepted literature values from 2 paper(s) (experimental 62, model 44, DFT 7); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+112 accepted literature values from 2 paper(s) (experimental 62, model 44, DFT 6); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NI.json) · [CSV](https://data.orchid-project.org/systems/GE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NI/GeNi-10Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NI.html) · [Markdown](https://data.orchid-project.org/systems/GE-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 62 |
 | model | 44 |
-| DFT | 7 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 95 |
 | phase transition | 6 |
 | phase equilibrium | 1 |
-| formation | 11 |
+| formation | 10 |
 
 ## Calculated phase diagrams
 
@@ -187,7 +187,7 @@ Table: Invariant reactions reported in the literature for the Ge–Ni system (95
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–Ni system (11)
+Table: Enthalpies of formation, Ge–Ni system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -201,7 +201,6 @@ Table: Enthalpies of formation, Ge–Ni system (11)
 | δNi5Ge2 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 3 |  |
 | ε'Ni5Ge3 |  | -33.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 6 |  |
 | εNi5Ge3 (Ni5Ge3) | [Ge3Ni5](https://data.orchid-project.org/compounds/Ge3Ni5.html) | -37 kJ/mol-atom | 1063 | experimental | -30.009 (mp-aaaaaccy) | -31.355 (oqmd-647287) | [1] Jin 2012 | Table 1, p. 2, row 12 |  |
-| ε′Ni5Ge3 |  | -33.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 6 |  |
 
 ## Other properties
 

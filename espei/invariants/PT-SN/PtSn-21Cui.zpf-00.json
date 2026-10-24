@@ -212,10 +212,12 @@
   "observations": [
    {
     "id": "ORC-ABSIP4IF7S",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064"
    },
    {
     "id": "ORC-RJPHDPKS47",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064",
     "also_reported_as": [
      {
@@ -228,14 +230,17 @@
    },
    {
     "id": "ORC-OLMPRW6YHU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064"
    },
    {
     "id": "ORC-3OYPJXMDQX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064"
    },
    {
     "id": "ORC-6EKQGHPHNU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064"
    }
   ],

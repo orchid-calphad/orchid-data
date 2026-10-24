@@ -13,7 +13,7 @@ Table: Phases of the C–Cr system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-cr-a4-diamond); _phase:c-cr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [GRAPHITE_A9](#phase-c-cr-a9-graphite); _phase:c-cr:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 8 | 5 |
+| [GRAPHITE_A9](#phase-c-cr-a9-graphite); _phase:c-cr:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 6 | 5 |
 | [BCC_A2](#phase-c-cr-bcc-a2); _phase:c-cr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3999.96 K, x(C) 0–0.00424 | 8 | 5 |
 | [CR3C2_D510](#phase-c-cr-cr3c2-d510); _phase:c-cr:cr3c2-d510_ | Cr3C2 · D5_10 · oP20 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2140 K, x(C) 0.4–0.4 | 30 | 5 |
 | [M7C3_D101](#phase-c-cr-d101-m7c3); _phase:c-cr:d101-m7c3_ | Cr7C3 · D10_1 · oP40 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–2054.69 K, x(C) 0.3–0.3 | 37 | 5 |
@@ -89,11 +89,11 @@ _assessment that models this phase_
 - Id: `phase:c-cr:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1
-- Literature: 8 values (8 accepted) from 3 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:a9-graphite)
 
-Names (9): _corpus: _corpus:phase:c-cr:a9-graphite  
-_paper: _paper:10.1007/bf02646072:graphite, paper:10.1016/0364-5916(87)90045-9:Graphite, paper:10.1016/j.calphad.2012.09.002:C  
+Names (8): _corpus: _corpus:phase:c-cr:a9-graphite  
+_paper: _paper:10.1007/bf02646072:graphite, paper:10.1016/0364-5916(87)90045-9:Graphite  
 _tdb: _tdb:CrC-04Ten.tdb:GRAPHITE_A9, tdb:CrC-12Khv.tdb:GRAPHITE_A9, tdb:CrC-87And-LB.tdb:GRAPHITE_A9, tdb:CrC-90Kaj.tdb:GRAPHITE_A9, tdb:CrC-92Lee.tdb:GRAPHITE_A9  
 
 
@@ -140,11 +140,11 @@ Example references (5 of 5; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(87)90045-9](https://doi.org/10.1016/0364-5916%2887%2990045-9) Jan-Olof Andersson, Thermodynamic properties of Cr-C, Calphad 11, 271-276 (1987).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2012.09.002](https://doi.org/10.1016/j.calphad.2012.09.002) A.V. Khvan, B. Hallstedt, K. Chang, Thermodynamic assessment of Cr–Nb–C and Mn–Nb–C systems, Calphad 39, 54-61 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-004-0273-7](https://doi.org/10.1007/s11661-004-0273-7) L. D. Teng, K. G. Lu, R. E. Aune, S. Seetharaman, Thermodynamic investigations of Cr3C2 and reassessment of the Cr-C system, Metall Mater Trans A 35, 3673-3680 (2004).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(92)90002-F](https://doi.org/10.1016/0364-5916%2892%2990002-F) B.-J. Lee, Calphad, 16, 121-49(1992).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2012.09.002](https://doi.org/10.1016/j.calphad.2012.09.002) A.V. Khvan, B. Hallstedt, K. Chang, Thermodynamic assessment of Cr–Nb–C and Mn–Nb–C systems, Calphad 39, 54-61 (2012).  
 _assessment that models this phase_
 
 ## BCC_A2 (C–Cr)
@@ -217,7 +217,7 @@ _assessment that models this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabezh and oqmd-2975, space group 62
 - Stoichiometry: C 0.4000, Cr 0.6000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–2140 K, x(C) 0.4–0.4
-- Literature: 30 values (30 accepted) from 4 papers
+- Literature: 30 values (28 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:cr3c2-d510)
 
 Names (12): _corpus: _corpus:phase:c-cr:cr3c2-d510  
@@ -285,7 +285,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M7C3); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: C 0.3000, Cr 0.7000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–2054.69 K, x(C) 0.3–0.3
-- Literature: 37 values (37 accepted) from 4 papers
+- Literature: 37 values (36 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:d101-m7c3)
 
 Names (11): _corpus: _corpus:phase:c-cr:d101-m7c3, corpus:phase:c-cr:m7c3-d101  
@@ -352,7 +352,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M23C6); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: C 0.2069, Cr 0.7931
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1889.69 K, x(C) 0.2069–0.2069
-- Literature: 30 values (30 accepted) from 4 papers
+- Literature: 30 values (28 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:d84-m23c6)
 
 Names (13): _corpus: _corpus:phase:c-cr:d84-m23c6, corpus:phase:c-cr:m23c6-d84  

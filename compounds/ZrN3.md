@@ -14,8 +14,8 @@ Table: Enthalpy of formation of ZrN3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| 67.3936 kJ/mol-atom | ZrN3 | 0 | DFT | DFT-LDA | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
 | 108.517 kJ/mol-atom | ZrN3 | 0 | DFT | DFT-GGA | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 4, p. 3, row 1 |  |
-| 269.574 kJ/mol-atom | ZrN3 | 0 | DFT | DFT-LDA | [N–Zr](https://data.orchid-project.org/systems/N-ZR.html) | [1] Ma 2004 | Table 4, p. 3, row 2 |  |
 
 ## Sources
 

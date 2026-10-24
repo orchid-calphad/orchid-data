@@ -1,20 +1,19 @@
 # AgDy: enthalpy of formation
 
-> Enthalpy of formation of AgDy: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AgDy: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AgDy.html · Markdown: https://data.orchid-project.org/compounds/AgDy.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1); experimental median -37.3 kJ/mol-atom (n = 2); Materials Project -32.233 kJ/mol-atom (mp-aaaaadfj); OQMD -32.376 kJ/mol-atom (oqmd-10365).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -37.3 kJ/mol-atom (n = 1); Materials Project -32.233 kJ/mol-atom (mp-aaaaadfj); OQMD -32.376 kJ/mol-atom (oqmd-10365).
 
 Systems: [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AgDy reported in the literature (4)
+Table: Enthalpy of formation of AgDy reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
 | -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
 | -44 kJ/mol-atom | AgDy |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15 |  |
 | -32.812 kJ/mol-atom | AgDy | 298 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 13 |  |

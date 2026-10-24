@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-BA.html · Markdown: https://data.orchid-project.org/systems/AL-BA.md
 
-124 accepted literature values from 3 paper(s) (experimental 63, model 39, DFT 16, unspecified 6); 3 calculated phase diagram(s).
+124 accepted literature values from 3 paper(s) (experimental 64, model 38, DFT 16, unspecified 6); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA.json) · [CSV](https://data.orchid-project.org/systems/AL-BA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-BA/AlBa-16Bao.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-BA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BA.html) · [Markdown](https://data.orchid-project.org/systems/AL-BA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 39 |
+| experimental | 64 |
+| model | 38 |
 | DFT | 16 |
 | unspecified | 6 |
 
@@ -114,7 +114,7 @@ Table: Invariant reactions reported in the literature for the Al–Ba system (66
 | 1003 | peritectic |  | model | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | p. 2 | “The most recent information on this binary phase diagram was taken from the phase diagram evaluated by Itkin and Alcock\[14\] which included four intermetallic compounds: Al4Ba melting congruently at 1377 K and Al13Ba7, Al5Ba3 and Al5Ba4 formed by peritectic reactions at 1187, 1023 and 1003 K, respectively.” |
 | 1003 | Liquid + Al13Ba7 \<-> Al5Ba4 | Liquid: Ba 0.523; Al13Ba7: Ba 0.345; Al5Ba4: Ba 0.444 | experimental | [2] Bao 2016; _cites Bruzzone 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990212-x) | Table 2, p. 3, row 11 |  |
 | 1003 | peritectic: Liq + Al5 Ba3 ⇔ Al5 Ba4 |  | experimental | [3] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | p. 5 | “They are in satisfactory agreement with the experimental values, except for the calculated peritectic reaction temperature of 1000 K (Liq + Al5 Ba3 ⇔ Al5 Ba4 ), which has a temperature close to the calculated one of 998 K by Flanigen et al. \[16\] but is somewhat lower than the experimental temperature of 1003 K found by Srikanth et al. \[6\].” |
-| 1003 | peritectic |  | model | [3] Azza 2017; _cites Predel 2006_ | p. 2 | “For the Al4 Ba compound a congruent melting was determined at 1377 K, while for Al13 B7 , Al5 B3 and Al5 B4 compounds undergo a peritectic formation respectively at 1187, 1023 and 1003 K.” |
+| 1003 | peritectic |  | experimental | [3] Azza 2017; _cites Predel 2006_ | p. 2 | “For the Al4 Ba compound a congruent melting was determined at 1377 K, while for Al13 B7 , Al5 B3 and Al5 B4 compounds undergo a peritectic formation respectively at 1187, 1023 and 1003 K.” |
 | 1003 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.523; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.445 | experimental | [1] Benhafid 2019; _cites Itkin 1993_ [doi](https://doi.org/10.1007/bf02671974) | Table 5, p. 6, row 19 |  |
 | 1003 | Liquid + Al13Ba7 \<-> Al5Ba4 | Liquid: Ba 0.523; Al13Ba7: Ba 0.35; Al5Ba4: Ba 0.444 | experimental | [2] Bao 2016; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 2, p. 3, row 12 |  |
 | 1000 | peritectic: Liq + Al5Ba3 -> Al5Ba4 | L: Ba 0.528; Al5Ba3: Ba 0.375; Al5Ba4: Ba 0.444444 | model | [3] Azza 2017 | Table 3, p. 5, row 12 |  |

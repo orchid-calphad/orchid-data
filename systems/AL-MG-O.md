@@ -1,10 +1,10 @@
 # Al–Mg–O system
 
-> Al–Mg–O system: 16 accepted literature values (formation 8, heat capacity / entropy / enthalpy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–O system: 15 accepted literature values (formation 8, heat capacity / entropy / enthalpy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-O.html · Markdown: https://data.orchid-project.org/systems/AL-MG-O.md
 
-16 accepted literature values from 1 paper(s) (model 10, DFT 6); 0 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (model 9, DFT 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-O.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-O.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 10 |
+| model | 9 |
 | DFT | 6 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | formation | 8 |
-| heat capacity / entropy / enthalpy | 8 |
+| heat capacity / entropy / enthalpy | 7 |
 
 ## Formation enthalpies
 
@@ -41,7 +41,7 @@ Table: Enthalpies of formation, Al–Mg–O system (8)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (8)
+### Heat capacity / entropy / enthalpy (7)
 
 Table: Heat capacity / entropy / enthalpy, Al–Mg–O system
 
@@ -49,12 +49,11 @@ Table: Heat capacity / entropy / enthalpy, Al–Mg–O system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: Standard entropy_ | 50.7 J/mol (basis unstated)/K |  | Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
 | Entropy; _printed: Standard entropy_ | 28.1 J/mol (basis unstated)/K |  | MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
-| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38490 J/mol-atom/K |  | liquid Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
-| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33470 J/mol-atom/K |  | liquid MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
-| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38490 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
-| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33470 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
-| Heat capacity; _printed: Heat capacity at 298.15 K_ | 15380 J/mol-atom/K | 298.15 | Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
-| Heat capacity; _printed: Heat capacity at 298.15 K_ | 18650 J/mol-atom/K | 298.15 | MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
+| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38.49 J/mol-atom/K |  | liquid Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
+| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38.49 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
+| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33.47 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
+| Heat capacity; _printed: Heat capacity at 298.15 K_ | 15.38 J/mol-atom/K | 298.15 | Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
+| Heat capacity; _printed: Heat capacity at 298.15 K_ | 18.65 J/mol-atom/K | 298.15 | MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
 
 ## Sources
 

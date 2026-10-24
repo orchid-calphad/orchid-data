@@ -532,66 +532,82 @@
   "observations": [
    {
     "id": "ORC-P7E2OMVP3I",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-D46XZYBZS2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-G4UTY4LJLX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-NQUVOEQPM5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-AABLQGUSIA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-4GDHELJ6OH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-4JUG2APUI3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-KP3DGRPGZY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-Z7QYSEIDMQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-6WA7BDBTCA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-DR5A34FQKQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-7JIU3AS47V",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-RTXVYACUYK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-WXKVLKAGTC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-QXUHUKFBXL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
     "id": "ORC-RHL6PSSJZF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    }
   ],

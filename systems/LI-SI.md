@@ -1,10 +1,10 @@
 # Li–Si system
 
-> Li–Si system: 137 accepted literature values (invariant reaction 78, mixing / partial 24, crystal structure 23, phase transition 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Si system: 136 accepted literature values (invariant reaction 78, mixing / partial 24, crystal structure 23, phase transition 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SI.html · Markdown: https://data.orchid-project.org/systems/LI-SI.md
 
-137 accepted literature values from 3 paper(s) (experimental 87, model 50); 3 calculated phase diagram(s).
+136 accepted literature values from 3 paper(s) (experimental 87, model 49); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SI.json) · [CSV](https://data.orchid-project.org/systems/LI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SI/LiSi-13Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/LI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SI.html) · [Markdown](https://data.orchid-project.org/systems/LI-SI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 87 |
-| model | 50 |
+| model | 49 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 78 |
-| phase transition | 12 |
+| phase transition | 11 |
 | mixing / partial | 24 |
 | crystal structure | 23 |
 
@@ -177,7 +177,7 @@ Table: Invariant reactions reported in the literature for the Li–Si system (78
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (11)
 
 Table: Phase transition, Li–Si system
 
@@ -192,7 +192,6 @@ Table: Phase transition, Li–Si system
 | Phase transition | 1005 K | 1005 | congruent transformation | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
 | Phase transition | 1006 K | 1006 | congruent transformation | model | [1] Liang 2017 | p. 13 | “For the congruent melting point of Li13Si4 we assess 1006 K, as opposed to 985 K \[5\].” |
 | Phase transition | 1023 K | 1023 | congruent transformation | model | [1] Liang 2017 | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
-| Phase transition | 1023 K | 1023 | congruent transformation | model | [1] Liang 2017; _cites Braga 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.212) | p. 13 | “The calculated congruent melting point of Li7Si3 and the temperature of Liquid þ Li7Si3 4 Li12Si7 peritectic reaction are calculated to be 1023 K and 911 K respectively, close to the values of 1023 K and 909 K calculated by Braga et al. \[5\].” |
 | Phase transition | 1027 K | 1027 | congruent melting: L = L7Si3; _L: Si 0.3; L7Si3: Si 0.3_ | model | [2] Wang 2013 | Table 2, p. 6, row 5 |  |
 | Phase transition | 1027 K | 1027 | congruent transformation | model | [2] Wang 2013 | p. 6 | “The other more accurate value considered in our assessment is the congruent melting temperature for Li7Si3, calculated at 1027 K, and possibly that of Li13Si4 at 1005 K.” |
 

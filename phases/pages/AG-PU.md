@@ -210,8 +210,8 @@ _assessment that models this phase_
 - Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-pu:liquid)
 
-Names (5): _corpus: _corpus:phase:ag-pu:liquid  
-_paper: _paper:10.1007/s11669-020-00813-5:Liquid# 2, paper:10.1007/s11669-020-00813-5:Liquid#1, paper:10.1007/s11669-020-00813-5:Liquid#2  
+Names (4): _corpus: _corpus:phase:ag-pu:liquid  
+_paper: _paper:10.1007/s11669-020-00813-5:Liquid#1, paper:10.1007/s11669-020-00813-5:Liquid#2  
 _tdb: _tdb:AgPu-20Zho.tdb:LIQUID  
 
 

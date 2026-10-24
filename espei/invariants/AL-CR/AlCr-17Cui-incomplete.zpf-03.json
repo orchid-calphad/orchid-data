@@ -133,14 +133,17 @@
   "observations": [
    {
     "id": "ORC-RQONGGMLFQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.298"
    },
    {
     "id": "ORC-43DASOHCRU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.298"
    },
    {
     "id": "ORC-OPKHGD36RV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.298"
    }
   ],

@@ -84,11 +84,13 @@
   "observations": [
    {
     "id": "ORC-2D2DXJ75TR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11664-009-0875-3",
     "measured_in": "ref:aba3e82abb63d236"
    },
    {
     "id": "ORC-SON4PCDPUV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11664-009-0875-3",
     "measured_in": "ref:aba3e82abb63d236",
     "caveats": [

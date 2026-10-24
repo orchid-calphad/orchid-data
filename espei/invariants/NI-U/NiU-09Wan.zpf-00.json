@@ -270,41 +270,49 @@
   "observations": [
    {
     "id": "ORC-VS646G2MAI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-DJFYLEVKNG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-5NZRJ2QA57",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-YVBXQZFXXV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-6PNXCQ42ZL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-6L5MFYI6W7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-2AIOUXHDIY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    },
    {
     "id": "ORC-ODTITVAIJ4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.07.168",
     "measured_in": "ref:129181a282f16c56"
    }
@@ -364,7 +372,7 @@
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": false,
-  "n_certified": 6,
+  "n_certified": 2,
   "values": [
    {
     "id": "ORC-VS646G2MAI",
@@ -373,7 +381,7 @@
    },
    {
     "id": "ORC-DJFYLEVKNG",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    },
    {
@@ -383,17 +391,17 @@
    },
    {
     "id": "ORC-YVBXQZFXXV",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    },
    {
     "id": "ORC-6PNXCQ42ZL",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    },
    {
     "id": "ORC-6L5MFYI6W7",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    },
    {

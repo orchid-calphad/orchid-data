@@ -1,24 +1,21 @@
 # Bi4Cs5: enthalpy of formation
 
-> Enthalpy of formation of Bi4Cs5: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi4Cs5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi4Cs5.html · Markdown: https://data.orchid-project.org/compounds/Bi4Cs5.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 2); experimental median -38.3 kJ/mol-atom (n = 2); OQMD -37.814 kJ/mol-atom (oqmd-1372721).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -38.3 kJ/mol-atom (n = 1); OQMD -37.814 kJ/mol-atom (oqmd-1372721).
 
 Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi4Cs5 reported in the literature (6)
+Table: Enthalpy of formation of Bi4Cs5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -38.3 kJ/mol-atom | Bi4Cs5 | 298.15 | experimental | EMF | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 5 |  |
-| -38.3 kJ/mol-atom | Bi4Cs5 | 298.15 | experimental | EMF | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 5 |  |
 | -34.933 kJ/mol-atom | Bi4Cs5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 7 |  |
-| -34.933 kJ/mol-atom | Bi4Cs5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 7 |  |
-| -36.683 kJ/mol-atom | Bi4Cs5 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 6 |  |
 | -36.683 kJ/mol-atom | Bi4Cs5 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 6 |  |
 
 ## DFT formation energies

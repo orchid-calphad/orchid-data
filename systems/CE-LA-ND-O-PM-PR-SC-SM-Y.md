@@ -29,15 +29,15 @@ Table: Enthalpies of formation, Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y system 
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A-Ce2O3 |  | -1792380 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
-| A-La2O3 |  | -1791600 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
-| A-Nd2O3 |  | -1806900 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
-| A-Pr2O3 |  | -1809900 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
-| B-Sm2O3 |  | -1823000 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
-| C-Pm2O3 |  | -1811000 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
-| C-Sc2O3 |  | -1908570 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
-| C-Sm2O3 |  | -1826800 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| C-Y2O3 |  | -1932800 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 7 |  |
+| A-Ce2O3 |  | -1792.38 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
+| A-La2O3 |  | -1791.6 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
+| A-Nd2O3 |  | -1806.9 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
+| A-Pr2O3 |  | -1809.9 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
+| B-Sm2O3 |  | -1823 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
+| C-Pm2O3 |  | -1811 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+| C-Sc2O3 |  | -1908.57 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
+| C-Sm2O3 |  | -1826.8 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
+| C-Y2O3 |  | -1932.8 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 7 |  |
 
 ## Other properties
 

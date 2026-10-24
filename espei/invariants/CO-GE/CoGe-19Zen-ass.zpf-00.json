@@ -182,18 +182,22 @@
   "observations": [
    {
     "id": "ORC-2BAK36DQHF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.12.205"
    },
    {
     "id": "ORC-IDI4YT6Y57",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.12.205"
    },
    {
     "id": "ORC-MBCMUUL6JI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.12.205"
    },
    {
     "id": "ORC-N4FGHOOX7Q",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.12.205"
    }
   ],

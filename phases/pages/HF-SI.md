@@ -22,7 +22,7 @@ Table: Phases of the Hf–Si system (11)
 | [HF5SI4](#phase-hf-si-hf5si4); _phase:hf-si:hf5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–2595.12 K, x(Si) 0.44444–0.44444 | 8 | 3 |
 | [HFSI_B27](#phase-hf-si-hfsi-b27); _phase:hf-si:hfsi-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2416.93 K, x(Si) 0.5–0.5 | 8 | 3 |
 | [HFSI2_C49](#phase-hf-si-hfsi2-c49); _phase:hf-si:hfsi2-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1818.85 K, x(Si) 0.66667–0.66667 | 8 | 3 |
-| [LIQUID](#phase-hf-si-liquid); _phase:hf-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1597.92–4000 K, x(Si) 0–1 | 34 | 3 |
+| [LIQUID](#phase-hf-si-liquid); _phase:hf-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1597.92–4000 K, x(Si) 0–1 | 33 | 3 |
 
 ## DIAMOND_A4 (Hf–Si)
 
@@ -496,11 +496,11 @@ _assessment that models this phase_
 - Id: `phase:hf-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1597.92–4000 K, x(Si) 0–1
-- Literature: 34 values (34 accepted) from 3 papers
+- Literature: 33 values (33 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-si:liquid)
 
-Names (7): _corpus: _corpus:phase:hf-si:liquid  
-_paper: _paper:10.1016/j.calphad.2006.08.006:Liquid, paper:10.1016/s0966-9795(03)00021-9:L, paper:10.1361/105497100770340408:L  
+Names (6): _corpus: _corpus:phase:hf-si:liquid  
+_paper: _paper:10.1016/s0966-9795(03)00021-9:L, paper:10.1361/105497100770340408:L  
 _tdb: _tdb:HfSi-00Zha-LB.tdb:LIQUID, tdb:HfSi-03Yan.tdb:LIQUID, tdb:HfSi-19Hon.tdb:LIQUID  
 
 
@@ -527,7 +527,7 @@ _tdb: _tdb:HfSi-00Zha-LB.tdb:LIQUID, tdb:HfSi-03Yan.tdb:LIQUID, tdb:HfSi-19Hon.t
 29: CONST LIQUID:L : HF SI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
 _assessment that models this phase; reports values for this phase_
@@ -535,8 +535,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2018.11.007](https://doi.org/10.1016/j.actamat.2018.11.007) P. Honarmandi, T.C. Duong, S.F. Ghoreishi, D. Allaire, R. Arroyave, Acta Mater., 164, 636-47(2019).  
 _assessment that models this phase_
-- [doi:10.1016/j.calphad.2006.08.006](https://doi.org/10.1016/j.calphad.2006.08.006) Dongwon Shin, Raymundo Arróyave, Zi-Kui Liu, Thermodynamic modeling of the Hf–Si–O system, Calphad 30, 375-386 (2006).  
-_reports values for this phase_
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Sc–Si system
 
-> Sc–Si system: 61 accepted literature values (crystal structure 33, invariant reaction 16, formation 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Si system: 60 accepted literature values (crystal structure 32, invariant reaction 16, formation 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-SI.html · Markdown: https://data.orchid-project.org/systems/SC-SI.md
 
-61 accepted literature values from 1 paper(s) (experimental 48, model 13); 2 calculated phase diagram(s).
+60 accepted literature values from 1 paper(s) (experimental 47, model 13); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-SI.json) · [CSV](https://data.orchid-project.org/systems/SC-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-SI/ScSi-08GTT.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SC-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-SI.html) · [Markdown](https://data.orchid-project.org/systems/SC-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 48 |
+| experimental | 47 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | formation | 12 |
-| crystal structure | 33 |
+| crystal structure | 32 |
 
 ## Calculated phase diagrams
 
@@ -114,7 +114,7 @@ Table: Enthalpies of formation, Sc–Si system (12)
 
 ## Other properties
 
-### Crystal structure (33)
+### Crystal structure (32)
 
 Table: Crystal structure, Sc–Si system
 
@@ -127,7 +127,6 @@ Table: Crystal structure, Sc–Si system
 | Lattice a | 0.399 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Dvorina 1965_ | Table 1, p. 2, row 10 |  |
 | Lattice a | 0.399 nm | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Lazorenko 1974_ | Table 1, p. 2, row 12 |  |
 | Lattice a | 0.3988 not_printed | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11 |  |
-| Lattice a | 0.3988 not_printed ± 2.000e-4 | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Schob 1965_ [doi](https://doi.org/10.1107/s0365110x65003134) | Table 1, p. 2, row 11 |  |
 | Lattice a | 0.7845 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites Sychev 1980_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 0.3664 nm | 298.15 | UNKNOWN; _alloy: Si 0.6_ | experimental | [1] Qin 2015; _cites Schob 1964_ [doi](https://doi.org/10.1007/bf00901700) | Table 1, p. 2, row 13 |  |
 | Lattice a | 0.7861 nm | 298.15 | UNKNOWN; _alloy: Si 0.375_ | experimental | [1] Qin 2015; _cites McColm 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990517-0) | Table 1, p. 2, row 8 |  |

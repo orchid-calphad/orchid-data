@@ -1,10 +1,10 @@
 # Cu–Sn system
 
-> Cu–Sn system: 116 accepted literature values (invariant reaction 69, phase transition 27, formation 16, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sn system: 114 accepted literature values (invariant reaction 69, phase transition 27, formation 14, phase equilibrium 4) and 9 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SN.html · Markdown: https://data.orchid-project.org/systems/CU-SN.md
 
-116 accepted literature values from 5 paper(s) (experimental 55, model 61); 9 calculated phase diagram(s).
+114 accepted literature values from 5 paper(s) (experimental 54, model 60); 9 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SN/CuSn-02Mie.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/CU-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
-| model | 61 |
+| experimental | 54 |
+| model | 60 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 69 |
 | phase transition | 27 |
 | phase equilibrium | 4 |
-| formation | 16 |
+| formation | 14 |
 
 ## Calculated phase diagrams
 
@@ -316,7 +316,7 @@ Table: Invariant reactions reported in the literature for the Cu–Sn system (69
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Sn system (16)
+Table: Enthalpies of formation, Cu–Sn system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -333,8 +333,6 @@ Table: Enthalpies of formation, Cu–Sn system (16)
 | η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.6 kJ/mol-atom | 298 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 14 |  |
 | η (Cu6Sn5_H) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -6.1 kJ/mol-atom | 298 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13 |  |
 | η' (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.13 kJ/mol-atom | 273 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 12 |  |
-| η' (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.033 kJ/mol-atom | 273 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
-| η′ (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.13 kJ/mol-atom | 273 | model | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013 | Table 3, p. 8, row 12 |  |
 | η′ (Cu6Sn5_L) | [Cu6Sn5](https://data.orchid-project.org/compounds/Cu6Sn5.html) | -7.033 kJ/mol-atom | 273 | experimental | -1.267 (mp-aaaaabvl) | -5.877 (oqmd-18303) | [2] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
 
 ## Other properties

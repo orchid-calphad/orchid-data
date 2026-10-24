@@ -1,10 +1,10 @@
 # Na–Sn system
 
-> Na–Sn system: 44 accepted literature values (invariant reaction 41, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sn system: 43 accepted literature values (invariant reaction 40, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SN.html · Markdown: https://data.orchid-project.org/systems/NA-SN.md
 
-44 accepted literature values from 1 paper(s) (experimental 27, model 17); 1 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (experimental 26, model 17); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SN.json) · [CSV](https://data.orchid-project.org/systems/NA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SN/NaSn-17Dre.json) · [phases (16)](https://data.orchid-project.org/phases/pages/NA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SN.html) · [Markdown](https://data.orchid-project.org/systems/NA-SN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
+| experimental | 26 |
 | model | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 41 |
+| invariant reaction | 40 |
 | phase transition | 3 |
 
 ## Calculated phase diagrams
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Na–Sn system (41)
+Table: Invariant reactions reported in the literature for the Na–Sn system (40)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -72,7 +72,6 @@ Table: Invariant reactions reported in the literature for the Na–Sn system (41
 | 752 | L + (βNaSn) -> Na4Sn3 | L: Sn 0.4; (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | model | [1] Dreval 2017 | Table 8, p. 12, row 33 |  |
 | 752 | L + (βNaSn) -> Na4Sn3 | (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 31 |  |
 | 751 | L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 17 |  |
-| 751 | L + (βNaSn) -> Na4Sn3 | L: Sn 0.42; (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 29 |  |
 | 751 | L + (βNaSn) -> Na4Sn3 | (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 30 |  |
 | 750 | L -> Na9Sn4 | L: Sn 0.333; Na9Sn4: Sn 0.333 | experimental | [1] Dreval 2017; _cites Vournasos 1911_ [doi](https://doi.org/10.1002/cber.191104403192) | Table 8, p. 12, row 16 |  |
 | 750 | L + (βNaSn) -> Na4Sn3 | L: Sn 0.41; (βNaSn): Sn 0.5; Na4Sn3: Sn 0.4286; βNaSn: Sn 0.5 | model | [1] Dreval 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.jct.2013.06.005) | Table 8, p. 12, row 32 |  |

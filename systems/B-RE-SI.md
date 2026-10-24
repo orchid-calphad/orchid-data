@@ -1,10 +1,10 @@
 # B–Re–Si system
 
-> B–Re–Si system: 36 accepted literature values (formation 27, invariant reaction 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Re–Si system: 35 accepted literature values (formation 26, invariant reaction 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-RE-SI.html · Markdown: https://data.orchid-project.org/systems/B-RE-SI.md
 
-36 accepted literature values from 1 paper(s) (experimental 7, model 29); 0 calculated phase diagram(s).
+35 accepted literature values from 1 paper(s) (experimental 6, model 29); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-RE-SI.json) · [CSV](https://data.orchid-project.org/systems/B-RE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-RE-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-RE-SI.html) · [Markdown](https://data.orchid-project.org/systems/B-RE-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 | model | 29 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| formation | 27 |
+| formation | 26 |
 
 ## Invariant reactions (literature)
 
@@ -42,7 +42,7 @@ Table: Invariant reactions reported in the literature for the B–Re–Si system
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Re–Si system (27)
+Table: Enthalpies of formation, B–Re–Si system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -51,7 +51,6 @@ Table: Enthalpies of formation, B–Re–Si system (27)
 | Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -20 kJ/mol-atom | 298.15 | experimental | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
 | Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -19.7 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2 |  |
 | Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -19.367 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010 | Table 2, p. 3, row 6 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -12.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
 | Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -12.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
 | Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -32.22 kJ/mol-atom ± 2.5 | 298.15 | experimental | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
 | Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -21 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |

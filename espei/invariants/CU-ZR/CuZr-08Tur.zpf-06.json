@@ -84,6 +84,7 @@
   "observations": [
    {
     "id": "ORC-RI3T672G4N",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x",
     "also_reported_as": [
      {
@@ -95,6 +96,7 @@
    },
    {
     "id": "ORC-3BIUMPXWT5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x"
    }
   ],

@@ -1,10 +1,10 @@
 # H–Mn system
 
-> H–Mn system: 36 accepted literature values (formation 28, invariant reaction 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Mn system: 22 accepted literature values (formation 14, invariant reaction 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-MN.html · Markdown: https://data.orchid-project.org/systems/H-MN.md
 
-36 accepted literature values from 1 paper(s) (experimental 4, model 4, DFT 28); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 4, model 4, DFT 14); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-MN.json) · [CSV](https://data.orchid-project.org/systems/H-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-MN) · [phases (8)](https://data.orchid-project.org/phases/pages/H-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-MN.html) · [Markdown](https://data.orchid-project.org/systems/H-MN.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 4 |
 | model | 4 |
-| DFT | 28 |
+| DFT | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
-| formation | 28 |
+| formation | 14 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-MN.json) · [CALPHAD hull MnH-11Lob](https://data.orchid-project.org/hulls/calphad-sgte/H/H-MN--MnH-11Lob.json)
 
@@ -44,7 +44,7 @@ Table: Invariant reactions reported in the literature for the H–Mn system (8)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, H–Mn system (28)
+Table: Enthalpies of formation, H–Mn system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -62,20 +62,6 @@ Table: Enthalpies of formation, H–Mn system (28)
 | MnH3 |  | 3.62 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
 | MnH3 |  | 34.8312 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
 | MnH3 |  | 36.2785 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | 1.6 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | 2.33 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | 3.48 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | 3.62 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | 4.88 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | 5.5 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | 5.58 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
-| UNKNOWN |  | 16.1131 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites https://www 2018_ | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | 23.3495 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | 34.8312 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | 36.2785 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | 48.9181 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | 55.0931 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | 55.865 kJ/mol-atom |  | DFT |  |  | [1] Liang 2018; _cites http://oqmd 2018_ | Table 2, p. 3, row 2 |  |
 
 ## Sources
 

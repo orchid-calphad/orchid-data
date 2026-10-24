@@ -1,10 +1,10 @@
 # Al–Ba–Ge system
 
-> Al–Ba–Ge system: 92 accepted literature values (formation 92) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ba–Ge system: 46 accepted literature values (formation 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BA-GE.html · Markdown: https://data.orchid-project.org/systems/AL-BA-GE.md
 
-92 accepted literature values from 1 paper(s) (experimental 14, model 60, DFT 18); 0 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (experimental 7, model 30, DFT 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA-GE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-BA-GE.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 60 |
-| DFT | 18 |
+| experimental | 7 |
+| model | 30 |
+| DFT | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 92 |
+| formation | 46 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ba–Ge system (62)
+Table: Enthalpies of formation, Al–Ba–Ge system (31)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -58,44 +58,13 @@ Table: Enthalpies of formation, Al–Ba–Ge system (62)
 | BaGe | [BaGe](https://data.orchid-project.org/compounds/BaGe.html) | -60.062 kJ/mol-atom |  | model | -57.527 (mp-aaaaacoo) | -57.177 (oqmd-646985) | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
 | BaGe2 |  | -54.015 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 28 |  |
 | BaGe2 | [BaGe2](https://data.orchid-project.org/compounds/BaGe2.html) | -54.015 kJ/mol-atom |  | model | -51.162 (mp-aaaaadeh) | -50.892 (oqmd-20095) | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
-| UNKNOWN |  | -60.314 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 23 |  |
-| UNKNOWN |  | -60.062 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
-| UNKNOWN |  | -59.09 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
-| UNKNOWN |  | -58.599 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
-| UNKNOWN |  | -58.317 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 26 |  |
-| UNKNOWN |  | -56.88 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 21 |  |
-| UNKNOWN |  | -56.88 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 22 |  |
-| UNKNOWN |  | -54.015 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 28 |  |
-| UNKNOWN |  | -54.015 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
-| UNKNOWN |  | -53.874 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -51.13 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 20 |  |
-| UNKNOWN |  | -50.63 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Nepochatov 1979_ | Table 3, p. 4, row 4 |  |
-| UNKNOWN |  | -50.129 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 19 |  |
-| UNKNOWN |  | -48.16 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
-| UNKNOWN |  | -46.649 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
-| UNKNOWN |  | -45.93 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 11 |  |
-| UNKNOWN |  | -44.47 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 17 |  |
-| UNKNOWN |  | -37.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -37.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Notin 2019_ | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | -31.819 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 30 |  |
-| UNKNOWN |  | -24.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Vigdorovich 1972_ | Table 3, p. 4, row 3 |  |
-| UNKNOWN |  | -23.954 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 14 |  |
-| UNKNOWN |  | -23.896 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 10 |  |
-| UNKNOWN |  | -23.576 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 1 |  |
-| UNKNOWN |  | -23.474 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 2 |  |
-| UNKNOWN |  | -23.356 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 13 |  |
-| UNKNOWN |  | -22.928 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
-| UNKNOWN |  | -22.927 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -22.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Benhafid 2019; _cites Kulichkina 1967_ | Table 3, p. 4, row 5 |  |
-| UNKNOWN |  | -21.795 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 9 |  |
-| UNKNOWN |  | -21.198 kJ/mol-atom |  | model |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
 | α- Ba3Ge4 | [Ba3Ge4](https://data.orchid-project.org/compounds/Ba3Ge4.html) | -59.09 kJ/mol-atom |  | model | -54.983 (mp-aaaaaope) | -54.784 (oqmd-24528) | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
 | β- Ba3Ge4 | [Ba3Ge4](https://data.orchid-project.org/compounds/Ba3Ge4.html) | -58.599 kJ/mol-atom |  | model | -54.983 (mp-aaaaaope) | -54.784 (oqmd-24528) | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
 | β- Ba3Ge4 |  | -58.317 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 26 |  |
 
 ## Other properties
 
-### Formation (30)
+### Formation (15)
 
 Table: Formation, Al–Ba–Ge system
 
@@ -114,21 +83,6 @@ Table: Formation, Al–Ba–Ge system
 | Entropy of formation; _printed: ΔfS_ | 3.553 J/mol-atom/K |  | Ba8Ge43; _alloy: Ba 0.156863, Ge 0.843137_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.606 J/mol-atom/K |  | BaGe; _alloy: Ba 0.5, Ge 0.5_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
 | Entropy of formation; _printed: ΔfS_ | -1.626 J/mol-atom/K |  | BaGe2; _alloy: Ba 0.333333, Ge 0.666667_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
-| Entropy of formation; _printed: ΔfS_ | -22.49 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.35, Ge 0_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 12 |  |
-| Entropy of formation; _printed: ΔfS_ | -4.319 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.625, Ge 0.375_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 22 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.041 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.291 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.35, Ge 0_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.362 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.666667, Ge 0.333333_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 20 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.251 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.2, Ge 0_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | -17.46 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.2, Ge 0_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.8419 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.606 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.5, Ge 0.5_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.939 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.193548, Ge 0.806452_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 30 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.626 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.333333, Ge 0.666667_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
-| Entropy of formation; _printed: ΔfS_ | 3.553 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.156863, Ge 0.843137_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.032 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.444444, Ge 0_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.746 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.375, Ge 0_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS_ | -19.88 J/mol-atom/K |  | UNKNOWN; _alloy: Ba 0.444444, Ge 0_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
 | Entropy of formation; _printed: ΔfS_ | -3.8419 J/mol-atom/K |  | α- Ba3Ge4; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
 | Entropy of formation; _printed: ΔfS_ | -3.041 J/mol-atom/K |  | β- Ba3Ge4; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
 

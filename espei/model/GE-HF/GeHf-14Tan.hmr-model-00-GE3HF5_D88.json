@@ -1,0 +1,137 @@
+{
+ "components": [
+  "GE",
+  "HF",
+  "VA"
+ ],
+ "phases": [
+  "GE3HF5_D88"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -64447.99999999999
+   ]
+  ]
+ ],
+ "reference": "Tang 2014, doi:10.1007/s10853-013-7814-7",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5F6DUYARCB.428cef",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GeHf-14Tan.tdb",
+   "path": "databases/sgte-binary/GeHf-14Tan.tdb",
+   "sha256": "574342ac8bd9d16bdf547613289ee641bba41ebbdc478a520ca5e900102b2a75",
+   "catalog_entry": {
+    "name": "GeHf-14Tan.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10853-013-7814-7",
+   "doi": "10.1007/s10853-013-7814-7",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Mater. Sci., 49, 1306-16(2014).",
+    "year": "2014"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "tang2014_8a8897",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-5F6DUYARCB.428cef",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-013-7814-7",
+    "measured_in": "doi:10.1007/s10853-013-7814-7",
+    "also_read_as": [
+     "ORC-5F6DUYARCB.428cef"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10853-013-7814-7"
+  ],
+  "dois": [
+   "10.1007/s10853-013-7814-7"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GeHf-14Tan/hmr-model-00.json",
+  "values_dropped": 5
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GE3HF5_D88"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GeHf-14Tan.tdb",
+   "path": "databases/sgte-binary/GeHf-14Tan.tdb",
+   "sha256": "574342ac8bd9d16bdf547613289ee641bba41ebbdc478a520ca5e900102b2a75",
+   "phase": "GE3HF5_D88",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   5.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "HF"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-5F6DUYARCB.428cef",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

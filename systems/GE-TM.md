@@ -1,10 +1,10 @@
 # Ge–Tm system
 
-> Ge–Tm system: 62 accepted literature values (invariant reaction 32, formation 28, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Tm system: 59 accepted literature values (invariant reaction 29, formation 28, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-TM.html · Markdown: https://data.orchid-project.org/systems/GE-TM.md
 
-62 accepted literature values from 1 paper(s) (experimental 20, model 42); 1 calculated phase diagram(s).
+59 accepted literature values from 1 paper(s) (experimental 19, model 40); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TM.json) · [CSV](https://data.orchid-project.org/systems/GE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TM/GeTm-18Ach.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GE-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-TM.html) · [Markdown](https://data.orchid-project.org/systems/GE-TM.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 42 |
+| experimental | 19 |
+| model | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 29 |
 | phase transition | 2 |
 | formation | 28 |
 
@@ -64,7 +64,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Tm system (32)
+Table: Invariant reactions reported in the literature for the Ge–Tm system (29)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -81,7 +81,6 @@ Table: Invariant reactions reported in the literature for the Ge–Tm system (32
 | 1618.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.00127; Tm5Ge3: Ge 0.375, Tm 0.625 | model | [1] Achgar 2018 | Table 4, p. 7, row 4 |  |
 | 1615.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.00135; Tm5Ge3: Ge 0.375, Tm 0.625 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 3 |  |
 | 1615.15 | eutectic |  | experimental | [1] Achgar 2018 | p. 2 | “Tm5Ge4 crystallizes together with the thulium-base solid solution at 1342 ± 2 C, and the composition of the eutectic is 13.5 at.% Ge.” |
-| 1606.15 | peritectoid: TmGe ↔ Tm11Ge10 + Tm4Ge5 | TmGe: Ge 0.5, Tm 0.5; Tm11Ge10: Ge 0.47619, Tm 0.52381; Tm4Ge5: Ge 0.555556, Tm 0.444444; liq: Ge 0.005 | model | [1] Achgar 2018 | Table 4, p. 7, row 14 |  |
 | 1606.15 | peritectoid: TmGe ↔ Tm11Ge10 + Tm4Ge5 | TmGe: Ge 0.5, Tm 0.5; Tm11Ge10: Ge 0.47619, Tm 0.52381; Tm4Ge5: Ge 0.555556, Tm 0.444444; liq: Ge 0.005 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 13 |  |
 | 1547.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.00668; TmGe1.5: Ge 0.6, Tm 0.4 | model | [1] Achgar 2018 | Table 4, p. 7, row 16 |  |
 | 1545.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.0067; TmGe1.5: Ge 0.6, Tm 0.4 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 15 |  |
@@ -89,8 +88,6 @@ Table: Invariant reactions reported in the literature for the Ge–Tm system (32
 | 1313.15 | peritectic: TmGe1.5 + L ↔ TmGe1.8_HT | TmGe1.5: Ge 0.6, Tm 0.4; L: Ge 0.0075; TmGe1.8_HT: Ge 0.666667, Tm 0.333333 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 21 |  |
 | 1295.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.00643 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 19 |  |
 | 1290.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.00643 | model | [1] Achgar 2018 | Table 4, p. 7, row 20 |  |
-| 1225.15 | peritectoid: TmGe1.8_HT ↔ TmGe1.8_LT + TmGe1.5 | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; TmGe1.5: Ge 0.6, Tm 0.4; liq: Ge 0.00642 | model | [1] Achgar 2018 | Table 4, p. 7, row 18 |  |
-| 1223.15 | peritectoid: TmGe1.8_HT ↔ TmGe1.8_LT + TmGe1.5 | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; TmGe1.5: Ge 0.6, Tm 0.4; liq: Ge 0.00642 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 17 |  |
 | 1209.15 | congruent melting: L ↔ Ge | L: Ge 0.01 | model | [1] Achgar 2018 | Table 4, p. 7, row 28 |  |
 | 1209.15 | congruent melting: L ↔ Ge | L: Ge 0.01 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 27 |  |
 | 1158.15 | peritectic |  | experimental | [1] Achgar 2018 | p. 2 | “All of the remaining thulium germanides Tm5Ge4, Tm11Ge10, Tm4Ge5, TmGe1.5, TmGe1.8, and Tm0.9Ge2 melt incongruently by peritectic reactions at 1776 ± 5, 1720 ± 5, 1374 ± 8, 1272 ± 3, 1022 ± 3, and 885 ± 10 C, respectively.” |

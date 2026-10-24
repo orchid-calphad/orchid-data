@@ -1,10 +1,10 @@
 # B–Si system
 
-> B–Si system: 60 accepted literature values (invariant reaction 31, formation 15, activity / EMF / Gibbs energy 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Si system: 56 accepted literature values (invariant reaction 31, activity / EMF / Gibbs energy 14, formation 11) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-SI.html · Markdown: https://data.orchid-project.org/systems/B-SI.md
 
-60 accepted literature values from 3 paper(s) (experimental 37, model 16, unspecified 7); 0 calculated phase diagram(s).
+56 accepted literature values from 3 paper(s) (experimental 33, model 16, unspecified 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-SI.json) · [CSV](https://data.orchid-project.org/systems/B-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-SI) · [phases (7)](https://data.orchid-project.org/phases/pages/B-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-SI.html) · [Markdown](https://data.orchid-project.org/systems/B-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
+| experimental | 33 |
 | model | 16 |
 | unspecified | 7 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 31 |
-| formation | 15 |
+| formation | 11 |
 | activity / EMF / Gibbs energy | 14 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-SI.json) · [CALPHAD hull SiB-01Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-01Tok.json) · [CALPHAD hull SiB-03Tok](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-03Tok.json) · [CALPHAD hull SiB-95Lim-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-SI--SiB-95Lim-LB.json)
@@ -68,7 +68,7 @@ Table: Invariant reactions reported in the literature for the B–Si system (31)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Si system (9)
+Table: Enthalpies of formation, B–Si system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -79,12 +79,10 @@ Table: Enthalpies of formation, B–Si system (9)
 | SiB6 |  | -121 kJ/mol (basis unstated) ± 48 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | SiBn |  | -217 kJ/mol (basis unstated) ± 92 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
 | SiBn |  | -205 kJ/mol (basis unstated) ± 23 | 1769 | experimental |  |  | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
-| UNKNOWN |  | -217 kJ/mol (basis unstated) ± 92 | 1800 | experimental |  |  | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
-| UNKNOWN |  | -205 kJ/mol (basis unstated) ± 23 | 1769 | experimental |  |  | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
 
 ## Other properties
 
-### Formation (6)
+### Formation (4)
 
 Table: Formation, B–Si system
 
@@ -92,10 +90,8 @@ Table: Formation, B–Si system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy of formation; _printed: -Δ\_fG_ | -68.6 kJ/mol (basis unstated) ± 1.2 | 1757 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 4 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -105.5 kJ/mol (basis unstated) ± 3 | 1769 | SiBn | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
-| Gibbs energy of formation; _printed: -Δ\_fG_ | -105.5 kJ/mol (basis unstated) ± 3 | 1769 | UNKNOWN | experimental | [1] Chen 2009; _cites Zaitsev 2002_ [doi](https://doi.org/10.1023/a:1015457114818) | Table 1, p. 2, row 6 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -54 kJ/mol (basis unstated) ± 15 | 1800 | SiB6; _alloy: B 0.8571, Si 0.1429_ | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 5 |  |
 | Gibbs energy of formation; _printed: −ΔfG_ | -108 kJ/mol (basis unstated) ± 35 | 1800 | SiBn | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
-| Gibbs energy of formation; _printed: -Δ\_fG_ | -108 kJ/mol (basis unstated) ± 35 | 1800 | UNKNOWN | experimental | [1] Chen 2009; _cites Armas 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990225-3) | Table 1, p. 2, row 7 |  |
 
 ### Activity / EMF / Gibbs energy (14)
 

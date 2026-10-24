@@ -1,10 +1,10 @@
 # Gd–Mg system
 
-> Gd–Mg system: 59 accepted literature values (invariant reaction 53, phase transition 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg system: 58 accepted literature values (invariant reaction 53, phase transition 5) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG.html · Markdown: https://data.orchid-project.org/systems/GD-MG.md
 
-59 accepted literature values from 4 paper(s) (experimental 25, model 34); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+58 accepted literature values from 3 paper(s) (experimental 25, model 33); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MG/GdMg-03Cac-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GD-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 25 |
-| model | 34 |
+| model | 33 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 53 |
-| phase transition | 6 |
+| phase transition | 5 |
 
 ## Calculated phase diagrams
 
@@ -172,7 +172,7 @@ Table: Invariant reactions reported in the literature for the Gd–Mg system (53
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Gd–Mg system
 
@@ -180,7 +180,6 @@ Table: Phase transition, Gd–Mg system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 800.15 K | 800.15 | (Mg) + GdMg3 -> 14H + W | model | [3] Gröbner 2015 | p. 12 | “Under equilibrium conditions the 14H phase should form essentially below 527 °C in the solid state reaction U8: (Mg) + GdMg3 ! 14H + W, leaving only the phases 14H + (Mg) + W in equilibrium at 500 °C.” |
 | Phase transition | 865.15 K | 865.15 | other | experimental | [1] Hampl 2013 | p. 3 | “From repeated heating and cooling cycles, the liquidus temperature and the temperature of eutectic reaction L = GdMg5 + (Mg) were evaluated to be 592 °C and 547 °C, respectively.” |
-| Phase transition | 878.21 K | 878.21 | other | model | [4] Gröbner 2010 | p. 4 | “Invariant three-phase reactions close to U4, such as the minimum in L + Mg24Y5 + Mg2Y at 602.66 °C and the maximum in L + Mg24Y5 + GdMg5 at 605.06 °C are not included in Table 3.” |
 | Phase transition | 915.15 K | 915.15 | L + GdMg3 = GdMg5 | experimental | [1] Hampl 2013; _cites Rokhlin 1998_ | p. 9 | “The thermal signals indicating an invariant reaction near 655 °C are re-interpreted in the present model II as belonging to the the peritectic reaction L + GdMg2 = GdMg3, instead of the reaction L + GdMg3 = GdMg5 given at 658 °C \[8\] or 642 °C \[9\].” |
 | Phase transition | 1029.15 K | 1029.15 | L + GdMg = GdMg2 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
 | Phase transition | 1033.15 K | 1033.15 | L + GdMg = GdMg2 | model | [1] Hampl 2013 | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
@@ -192,7 +191,6 @@ Reporting papers the values were read from (a value cited from another work name
 1. M. Hampl, C. Blawert, M.R. Silva Campos, N. Hort, Q. Peng, K.U. Kainer et al., Thermodynamic assessment and experimental study of Mg–Gd alloys, Journal of Alloys and Compounds 581, 166-177 (2013). [doi:10.1016/j.jallcom.2013.07.042](https://doi.org/10.1016/j.jallcom.2013.07.042)
 2. Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007). [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004)
 3. Joachim Gröbner, Artem Kozlov, Xi-Ya Fang, Suming Zhu, Jian-Feng Nie, Mark A. Gibson et al., Phase equilibria and transformations in ternary Mg–Gd–Zn alloys, Acta Materialia 90, 400-416 (2015). [doi:10.1016/j.actamat.2015.02.044](https://doi.org/10.1016/j.actamat.2015.02.044)
-4. Joachim Gröbner, Rainer Schmid-Fetzer, Thermodynamic modeling of the Mg–Ce–Gd–Y system, Scripta Materialia 63, 674-679 (2010). [doi:10.1016/j.scriptamat.2010.01.035](https://doi.org/10.1016/j.scriptamat.2010.01.035)
 
 ## Please cite
 

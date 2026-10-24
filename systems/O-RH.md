@@ -1,10 +1,10 @@
 # O–Rh system
 
-> O–Rh system: 18 accepted literature values (formation 7, mixing / partial 6, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Rh system: 12 accepted literature values (formation 7, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-RH.html · Markdown: https://data.orchid-project.org/systems/O-RH.md
 
-18 accepted literature values from 1 paper(s) (experimental 15, model 3); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 9, model 3); 0 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-RH.json) · [CSV](https://data.orchid-project.org/systems/O-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-RH) · [phases (8)](https://data.orchid-project.org/phases/pages/O-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-RH.html) · [Markdown](https://data.orchid-project.org/systems/O-RH.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 9 |
 | model | 3 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | formation | 7 |
-| mixing / partial | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-RH.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-RH.json)
 
@@ -52,21 +51,6 @@ Table: Enthalpies of formation, O–Rh system (7)
 | Rh2O3 |  | -360 kJ/mol (basis unstated) ± 3 | 1016 | experimental |  |  | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3 |  |
 | Rh2O3 |  | -340.72 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Schmahl 1964_ [doi](https://doi.org/10.1524/zpch.1964.41.1_2.078) | Table 1, p. 3, row 5 |  |
 | Rh2O3 |  | -338.21 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gossé 2018; _cites Tagirov 1975_ | Table 1, p. 3, row 4 |  |
-
-## Other properties
-
-### Mixing / partial (6)
-
-Table: Mixing / partial, O–Rh system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.24454 kJ/mol (basis unstated) | 1016 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 1, p. 3, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T^2)_ | -5.800e-5 kJ/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.4436 kJ/mol (basis unstated) | 1045 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Kleykamp 1969_ [doi](https://doi.org/10.1524/zpch.1969.67.4_6.277) | Table 1, p. 3, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of Tln(T))_ | -0.01169 kJ/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.2838 kJ/mol (basis unstated) | 1107.5 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Nell 1997_ [doi](https://doi.org/10.1016/s0016-7037%2897%2900209-3) | Table 1, p. 3, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (coefficient of T)_ | 0.282 kJ/mol (basis unstated) | 1273 | Rh2O3; _alloy: Rh 0.4_ | experimental | [1] Gossé 2018; _cites Jacob 1994_ [doi](https://doi.org/10.1007/bf02665468) | Table 1, p. 3, row 7 |  |
 
 ## Sources
 

@@ -14,12 +14,12 @@ Table: Phases of the Fe–Y system (10)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-fe-y-bcc-a2); _phase:fe-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2500 K, x(Y) 0–1 | 63 | 5 |
 | [FCC_A1](#phase-fe-y-fcc-a1); _phase:fe-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1169.86–1672.05 K, x(Y) 0–0.00104 | 58 | 5 |
-| [FE17Y2](#phase-fe-y-fe17y2); _phase:fe-y:fe17y2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(Y) 0.10526–0.10526 | 137 | 4 |
+| [FE17Y2](#phase-fe-y-fe17y2); _phase:fe-y:fe17y2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(Y) 0.10526–0.10526 | 134 | 4 |
 | [FE17Y2_HT](#phase-fe-y-fe17y2-ht); _phase:fe-y:fe17y2-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1138.93–1674.71 K, x(Y) 0.10526–0.10526 | 17 | 1 |
 | [FE17Y2_LT](#phase-fe-y-fe17y2-lt); _phase:fe-y:fe17y2-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1138.93 K, x(Y) 0.10526–0.10526 | 2 | 1 |
 | [FE23Y6_D8A](#phase-fe-y-fe23y6-d8a); _phase:fe-y:fe23y6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1622.45 K, x(Y) 0.19064–0.21318 | 91 | 5 |
 | [FE2Y_C15](#phase-fe-y-fe2y-c15); _phase:fe-y:fe2y-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1420.94 K, x(Y) 0.31034–0.33732 | 62 | 5 |
-| [FE3Y](#phase-fe-y-fe3y); _phase:fe-y:fe3y_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1624.4 K, x(Y) 0.25–0.25 | 115 | 5 |
+| [FE3Y](#phase-fe-y-fe3y); _phase:fe-y:fe3y_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1624.4 K, x(Y) 0.25–0.25 | 116 | 5 |
 | [HCP_A3](#phase-fe-y-hcp-a3); _phase:fe-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1786.15 K, x(Y) 0.98584–1 | 30 | 5 |
 | [LIQUID](#phase-fe-y-liquid); _phase:fe-y:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1119.28–2500 K, x(Y) 0–1 | 210 | 5 |
 
@@ -167,7 +167,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — FeY-23Ye.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc), high T'
 - Stoichiometry: Fe 0.8947, Y 0.1053
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2500 K, x(Y) 0.10526–0.10526
-- Literature: 137 values (137 accepted) from 4 papers
+- Literature: 134 values (134 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-y:fe17y2)
 
 Names (9): _corpus: _corpus:phase:fe-y:fe17y2  
@@ -443,7 +443,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.7500, Y 0.2500
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1624.4 K, x(Y) 0.25–0.25
-- Literature: 115 values (115 accepted) from 4 papers
+- Literature: 116 values (116 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-y:fe3y)
 
 Names (10): _corpus: _corpus:phase:fe-y:fe3y  

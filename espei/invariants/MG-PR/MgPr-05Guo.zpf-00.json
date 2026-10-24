@@ -320,6 +320,7 @@
   "observations": [
    {
     "id": "ORC-PBDJI4WXEF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s",
     "also_reported_as": [
@@ -333,16 +334,19 @@
    },
    {
     "id": "ORC-SXO5GVSI3H",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-DUVJZFPTS5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-DCIP72K3Q6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s",
     "also_reported_as": [
@@ -356,6 +360,7 @@
    },
    {
     "id": "ORC-EIC4M5SE6A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s",
     "also_reported_as": [
@@ -369,26 +374,31 @@
    },
    {
     "id": "ORC-23JJIPMELC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-B7WJZ7FJZZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-6MTH2WHFS5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-G5FRFYVYHV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    },
    {
     "id": "ORC-LEXJE2Y2H3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.03.033",
     "measured_in": "doi:10.1016/0966-9795(93)90010-s"
    }

@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-4LFFWTCMPI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.04.037",
     "measured_in": "ref:5bab588306d7dee0",
     "caveats": [

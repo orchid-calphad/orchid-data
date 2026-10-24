@@ -1,10 +1,10 @@
 # F–Nb system
 
-> F–Nb system: 53 accepted literature values (heat capacity / entropy / enthalpy 30, formation 11, phase transition 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Nb system: 34 accepted literature values (heat capacity / entropy / enthalpy 11, formation 11, phase transition 11, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://data.orchid-project.org/systems/F-NB.md
 
-53 accepted literature values from 1 paper(s) (experimental 7, model 26, unspecified 20); 0 calculated phase diagram(s).
+34 accepted literature values from 1 paper(s) (experimental 7, model 19, unspecified 8); 0 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [phases (9)](https://data.orchid-project.org/phases/pages/F-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NB.html) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 26 |
-| unspecified | 20 |
+| model | 19 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 11 |
 | formation | 11 |
-| heat capacity / entropy / enthalpy | 30 |
+| heat capacity / entropy / enthalpy | 11 |
 | other property | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/F/F-NB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/F/F-NB.json)
@@ -67,7 +67,7 @@ Table: Phase transition, F–Nb system
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | experimental | [1] Capelli 2018; _cites Ehrlich 1955_ [doi](https://doi.org/10.1002/zaac.19552820105) | Table 8, p. 6, row 1 |  |
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 8, p. 6, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (30)
+### Heat capacity / entropy / enthalpy (11)
 
 Table: Heat capacity / entropy / enthalpy, F–Nb system
 
@@ -84,25 +84,6 @@ Table: Heat capacity / entropy / enthalpy, F–Nb system
 | Entropy; _printed: S0(298)_ | 26.7083 J/mol-atom/K | 298.15 | NbF5 (cr); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
 | Entropy; _printed: S0(298)_ | 33.4383 J/mol-atom/K | 298.15 | NbF5 (liq); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 6 |  |
 | Entropy; _printed: S0(298)_ | 57.81 J/mol-atom/K | 298.15 | NbF5(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 21.7752 J/mol-atom/K | 298.15 | Nb2F10(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 6 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 22.2528 J/mol-atom/K | 298.15 | Nb3F15(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 7 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 18.923 J/mol-atom/K | 298.15 | NbF(g); _alloy: Nb 0.5_ | model | [1] Capelli 2018 | Table 7, p. 6, row 1 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 21.4877 J/mol-atom/K | 298.15 | NbF2(g); _alloy: Nb 0.333333_ | model | [1] Capelli 2018 | Table 7, p. 6, row 2 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 31.2198 J/mol-atom/K | 298.15 | NbF3(g); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 7, p. 6, row 3 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 28.7334 J/mol-atom/K | 298.15 | NbF4(g); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 7, p. 6, row 4 |  |
-| Heat capacity; _printed: Cp coefficient a_ | 20.209 J/mol-atom/K | 298.15 | NbF5(g); _alloy: Nb 0.166667_ | model | [1] Capelli 2018 | Table 7, p. 6, row 5 |  |
-| Heat capacity; _printed: b_ | 0.04295 J/mol-atom/K | 325.075 | NbF3 (cr); _alloy: Nb 0.25_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 1 |  |
-| Heat capacity; _printed: a_ | 9.89475 J/mol-atom/K | 325.075 | NbF3 (cr); _alloy: Nb 0.25_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 1 |  |
-| Heat capacity; _printed: b_ | 0.04542 J/mol-atom/K | 325.075 | NbF4 (cr); _alloy: Nb 0.2_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 3 |  |
-| Heat capacity; _printed: a_ | 9.0234 J/mol-atom/K | 325.075 | NbF4 (cr); _alloy: Nb 0.2_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 3 |  |
-| Heat capacity; _printed: c_ | -22463.3 J/mol-atom/K | 325.075 | NbF5 (cr); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
-| Heat capacity; _printed: b_ | 0.0457333 J/mol-atom/K | 325.075 | NbF5 (cr); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
-| Heat capacity; _printed: a_ | 9.08783 J/mol-atom/K | 325.075 | NbF5 (cr); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 5 |  |
-| Heat capacity; _printed: b_ | 4.250e-4 J/mol-atom/K | 1926 | NbF3 (cr); _alloy: Nb 0.25_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 2 |  |
-| Heat capacity; _printed: a_ | 24.9503 J/mol-atom/K | 1926 | NbF3 (cr); _alloy: Nb 0.25_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 2 |  |
-| Heat capacity; _printed: a_ | 25.026 J/mol-atom/K | 1926 | NbF4 (cr); _alloy: Nb 0.2_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 4 |  |
-| Heat capacity; _printed: b_ | 1.800e-4 J/mol-atom/K | 1926 | NbF4 (cr); _alloy: Nb 0.2_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 4 |  |
-| Heat capacity; _printed: a_ | 25.1 J/mol-atom/K | 1926 | NbF5 (liq); _alloy: Nb 0.166667_ | unspecified | [1] Capelli 2018 | Table 1, p. 3, row 6 |  |
 
 ### Other property (1)
 

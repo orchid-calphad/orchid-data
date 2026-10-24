@@ -1,10 +1,10 @@
 # Al–Pt system
 
-> Al–Pt system: 77 accepted literature values (formation 31, crystal structure 23, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pt system: 75 accepted literature values (formation 31, crystal structure 23, invariant reaction 15, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PT.html · Markdown: https://data.orchid-project.org/systems/AL-PT.md
 
-77 accepted literature values from 1 paper(s) (experimental 27, model 50); 2 calculated phase diagram(s).
+75 accepted literature values from 1 paper(s) (experimental 26, model 49); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PT.json) · [CSV](https://data.orchid-project.org/systems/AL-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PT/AlPt-00Wu.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PT.html) · [Markdown](https://data.orchid-project.org/systems/AL-PT.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
-| model | 50 |
+| experimental | 26 |
+| model | 49 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | invariant reaction | 15 |
 | phase transition | 6 |
 | formation | 31 |
-| mixing / partial | 2 |
 | crystal structure | 23 |
 
 ## Calculated phase diagrams
@@ -114,37 +113,37 @@ Table: Enthalpies of formation, Al–Pt system (31)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | 18.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 31 |  |
-| UNKNOWN |  | 19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 32 |  |
-| UNKNOWN |  | 50.195 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 2 |  |
-| UNKNOWN |  | 50.2 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 1 |  |
-| UNKNOWN |  | 55.854 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 4 |  |
-| UNKNOWN |  | 57.3 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 3 |  |
-| UNKNOWN |  | 69.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 29 |  |
-| UNKNOWN |  | 71.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 27 |  |
-| UNKNOWN |  | 71.128 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 5 |  |
-| UNKNOWN |  | 71.368 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 6 |  |
-| UNKNOWN |  | 76.618 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 30 |  |
-| UNKNOWN |  | 77.197 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 28 |  |
-| UNKNOWN |  | 81.791 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 8 |  |
-| UNKNOWN |  | 83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26 |  |
-| UNKNOWN |  | 84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10 |  |
-| UNKNOWN |  | 85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14 |  |
-| UNKNOWN |  | 87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24 |  |
-| UNKNOWN |  | 87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23 |  |
-| UNKNOWN |  | 88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13 |  |
-| UNKNOWN |  | 88.3 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 25 |  |
-| UNKNOWN |  | 90.072 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 22 |  |
-| UNKNOWN |  | 91.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 16 |  |
-| UNKNOWN |  | 92 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 15 |  |
-| UNKNOWN |  | 92.827 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 20 |  |
-| UNKNOWN |  | 92.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 21 |  |
-| UNKNOWN |  | 92.931 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 18 |  |
-| UNKNOWN |  | 94.886 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 9 |  |
-| UNKNOWN |  | 95 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 11 |  |
-| UNKNOWN |  | 100.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 19 |  |
-| UNKNOWN |  | 100.416 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 7 |  |
-| UNKNOWN |  | 101.7 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 17 |  |
+| UNKNOWN |  | -101.7 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 17 |  |
+| UNKNOWN |  | -100.416 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 7 |  |
+| UNKNOWN |  | -100.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 19 |  |
+| UNKNOWN |  | -95 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 11 |  |
+| UNKNOWN |  | -94.886 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 9 |  |
+| UNKNOWN |  | -92.931 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 18 |  |
+| UNKNOWN |  | -92.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 21 |  |
+| UNKNOWN |  | -92.827 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 20 |  |
+| UNKNOWN |  | -92 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 15 |  |
+| UNKNOWN |  | -91.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 16 |  |
+| UNKNOWN |  | -90.072 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 22 |  |
+| UNKNOWN |  | -88.3 kJ/mol (basis unstated) ± 3 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 25 |  |
+| UNKNOWN |  | -88 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 13 |  |
+| UNKNOWN |  | -87.8 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 23 |  |
+| UNKNOWN |  | -87.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 24 |  |
+| UNKNOWN |  | -85.835 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 14 |  |
+| UNKNOWN |  | -84.94 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 10 |  |
+| UNKNOWN |  | -83.395 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 26 |  |
+| UNKNOWN |  | -81.791 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 8 |  |
+| UNKNOWN |  | -77.197 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 28 |  |
+| UNKNOWN |  | -76.618 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 30 |  |
+| UNKNOWN |  | -71.368 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 6 |  |
+| UNKNOWN |  | -71.128 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 5 |  |
+| UNKNOWN |  | -71.1 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 27 |  |
+| UNKNOWN |  | -69.9 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 29 |  |
+| UNKNOWN |  | -57.3 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 3 |  |
+| UNKNOWN |  | -55.854 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 4 |  |
+| UNKNOWN |  | -50.2 kJ/mol (basis unstated) ± 1.25 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 1 |  |
+| UNKNOWN |  | -50.195 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 2 |  |
+| UNKNOWN |  | -19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Wu 2000 | Table 4, p. 4, row 32 |  |
+| UNKNOWN |  | -18.4 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [1] Wu 2000; _cites Ferro 1968_ | Table 4, p. 4, row 31 |  |
 
 ## Other properties
 
@@ -160,15 +159,6 @@ Table: Phase transition, Al–Pt system
 | Phase transition | 1827 K | 1827 | L -> AlPt; _AlPt: Pt 0.5_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 18 |  |
 | Phase transition | 1829 K | 1829 | L -> AlPt3; _L: Pt 0.732; AlPt3: Pt 0.75_ | experimental | [1] Wu 2000; _cites Huch 1964_ [doi](https://doi.org/10.1002/zaac.19643290116) | Table 3, p. 3, row 16 |  |
 | Phase transition | 1835 K | 1835 | L—AlPt3; _L: Pt 0.742; AlPt3: Pt 0.75_ | model | [1] Wu 2000 | Table 3, p. 3, row 17 |  |
-
-### Mixing / partial (2)
-
-Table: Mixing / partial, Al–Pt system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 0.0049 kJ/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | model | [1] Wu 2000 | Table 4, p. 4, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs energy of mixing T coefficient_ | 0.00748 kJ/mol-atom |  | UNKNOWN; _alloy: Al 0.25, Pt 0.75_ | experimental | [1] Wu 2000; _cites ref. 1981_ | Table 4, p. 4, row 33 |  |
 
 ### Crystal structure (23)
 

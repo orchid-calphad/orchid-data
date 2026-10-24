@@ -1,10 +1,10 @@
 # Hf–Ni–Sn–Ti system
 
-> Hf–Ni–Sn–Ti system: 62 accepted literature values (formation 62) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni–Sn–Ti system: 40 accepted literature values (formation 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI-SN-TI.html · Markdown: https://data.orchid-project.org/systems/HF-NI-SN-TI.md
 
-62 accepted literature values from 1 paper(s) (experimental 2, model 6, DFT 54); 0 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (experimental 2, model 6, DFT 32); 0 calculated phase diagram(s). 22 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-SN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI-SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI-SN-TI.md)
 
@@ -14,19 +14,19 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 2 |
 | model | 6 |
-| DFT | 54 |
+| DFT | 32 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 62 |
+| formation | 40 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Ni–Sn–Ti system (62)
+Table: Enthalpies of formation, Hf–Ni–Sn–Ti system (40)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -54,19 +54,8 @@ Table: Enthalpies of formation, Hf–Ni–Sn–Ti system (62)
 | HfNi2Sn |  | 201.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
 | HfNi2Sn |  | 211.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
 | HfNi2Sn |  | 226.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
-| HfNi2Sn |  | 270 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 | HfNiSn |  | 110.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 11 |  |
 | HfNiSn |  | 159.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7 |  |
-| HfNiSn |  | 219.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
-| HfNiSn |  | 260.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 2 |  |
-| HfNiSn |  | 292.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| HfNiSn |  | 352 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| HfNiSn |  | 361.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6 |  |
-| HfNiSn |  | 362.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
-| HfNiSn |  | 416.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
-| HfNiSn |  | 435.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 12 |  |
-| HfNiSn |  | 438.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
-| HfNiSn |  | 606.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
 | TiNi2Sn |  | -16.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 2 |  |
 | TiNi2Sn |  | 2.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7 |  |
 | TiNi2Sn |  | 77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
@@ -75,19 +64,8 @@ Table: Enthalpies of formation, Hf–Ni–Sn–Ti system (62)
 | TiNi2Sn |  | 117.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6 |  |
 | TiNi2Sn |  | 125.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
 | TiNi2Sn |  | 201.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
-| TiNi2Sn |  | 240.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 | TiNiSn |  | 79.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 11 |  |
 | TiNiSn |  | 157.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 7 |  |
-| TiNiSn |  | 181.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
-| TiNiSn |  | 183.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
-| TiNiSn |  | 213.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 2 |  |
-| TiNiSn |  | 286.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| TiNiSn |  | 289.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 6 |  |
-| TiNiSn |  | 307.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| TiNiSn |  | 375.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
-| TiNiSn |  | 394.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 12 |  |
-| TiNiSn |  | 403.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
-| TiNiSn |  | 418.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
 | X6Ni1.5+xSn1.5-x |  | -37.15 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 20 |  |
 | X6Ni1.5+xSn1.5-x |  | -37 kJ/mol-atom |  | model |  |  | [1] Berche 2016 | Table 4, p. 5, row 18 |  |
 | X6Ni1.5+xSn1.5-x |  | -22.97 kJ/mol-atom | 0 | DFT |  |  | [1] Berche 2016 | Table 4, p. 5, row 17 |  |

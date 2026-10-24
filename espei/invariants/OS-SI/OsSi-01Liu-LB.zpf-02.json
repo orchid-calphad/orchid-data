@@ -185,22 +185,27 @@
   "observations": [
    {
     "id": "ORC-MVG7E3UUNR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(01)00931-8"
    },
    {
     "id": "ORC-R4KMKVOKBP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(01)00931-8"
    },
    {
     "id": "ORC-MZYWJVD4DQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(01)00931-8"
    },
    {
     "id": "ORC-XU4UXXJR66",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(01)00931-8"
    },
    {
     "id": "ORC-7TTIL6NALG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(01)00931-8"
    }
   ],

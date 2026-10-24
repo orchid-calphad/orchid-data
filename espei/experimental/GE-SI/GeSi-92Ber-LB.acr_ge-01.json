@@ -47,7 +47,7 @@
   "no_printed_uncertainty",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MX4X76FL6C.620c5b ORC-IS45WK5UKP.8679f7 ORC-UZLQY2LXGE.792773 ORC-TEUX77SVIF.f3fe20 ORC-VEMIQI2QKH.e07ad1 ORC-K43YLA7BZC.068413 ORC-PQIJGZZYCW.8c28cf ORC-4VJOVJYQSA.db7ebb ORC-4K4ENMK6L6.ef6f87 ORC-6YLE4P7WNL.e32968",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MX4X76FL6C.510ad6 ORC-IS45WK5UKP.262376 ORC-UZLQY2LXGE.b7f095 ORC-TEUX77SVIF.94ebfe ORC-VEMIQI2QKH.72ac2a ORC-K43YLA7BZC.068413 ORC-PQIJGZZYCW.1366ba ORC-4VJOVJYQSA.7735fb ORC-4K4ENMK6L6.064bce ORC-6YLE4P7WNL.dd51ab",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -64,7 +64,7 @@
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-MX4X76FL6C.620c5b",
+    "id": "ORC-MX4X76FL6C.510ad6",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -73,7 +73,7 @@
     ]
    },
    {
-    "id": "ORC-IS45WK5UKP.8679f7",
+    "id": "ORC-IS45WK5UKP.262376",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -82,7 +82,7 @@
     ]
    },
    {
-    "id": "ORC-UZLQY2LXGE.792773",
+    "id": "ORC-UZLQY2LXGE.b7f095",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -91,7 +91,7 @@
     ]
    },
    {
-    "id": "ORC-TEUX77SVIF.f3fe20",
+    "id": "ORC-TEUX77SVIF.94ebfe",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -100,7 +100,7 @@
     ]
    },
    {
-    "id": "ORC-VEMIQI2QKH.e07ad1",
+    "id": "ORC-VEMIQI2QKH.72ac2a",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -115,7 +115,7 @@
     "measured_in": "doi:10.1007/bf02667471"
    },
    {
-    "id": "ORC-PQIJGZZYCW.8c28cf",
+    "id": "ORC-PQIJGZZYCW.1366ba",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -124,7 +124,7 @@
     ]
    },
    {
-    "id": "ORC-4VJOVJYQSA.db7ebb",
+    "id": "ORC-4VJOVJYQSA.7735fb",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -133,7 +133,7 @@
     ]
    },
    {
-    "id": "ORC-4K4ENMK6L6.ef6f87",
+    "id": "ORC-4K4ENMK6L6.064bce",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -142,7 +142,7 @@
     ]
    },
    {
-    "id": "ORC-6YLE4P7WNL.e32968",
+    "id": "ORC-6YLE4P7WNL.dd51ab",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02667471",
     "measured_in": "doi:10.1007/bf02667471",
@@ -264,7 +264,8 @@
    "LIQUID"
   ],
   "basis": {
-   "caption_names_liquid": 10
+   "caption_names_liquid": 1,
+   "printed_labels": 9
   },
   "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
  },
@@ -274,27 +275,27 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-MX4X76FL6C.620c5b",
+    "id": "ORC-MX4X76FL6C.510ad6",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-IS45WK5UKP.8679f7",
+    "id": "ORC-IS45WK5UKP.262376",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-UZLQY2LXGE.792773",
+    "id": "ORC-UZLQY2LXGE.b7f095",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-TEUX77SVIF.f3fe20",
+    "id": "ORC-TEUX77SVIF.94ebfe",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-VEMIQI2QKH.e07ad1",
+    "id": "ORC-VEMIQI2QKH.72ac2a",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
@@ -304,22 +305,22 @@
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-PQIJGZZYCW.8c28cf",
+    "id": "ORC-PQIJGZZYCW.1366ba",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-4VJOVJYQSA.db7ebb",
+    "id": "ORC-4VJOVJYQSA.7735fb",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-4K4ENMK6L6.ef6f87",
+    "id": "ORC-4K4ENMK6L6.064bce",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-6YLE4P7WNL.e32968",
+    "id": "ORC-6YLE4P7WNL.dd51ab",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

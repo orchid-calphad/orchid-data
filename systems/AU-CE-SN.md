@@ -1,10 +1,10 @@
 # Au–Ce–Sn system
 
-> Au–Ce–Sn system: 236 accepted literature values (formation 112, crystal structure 90, invariant reaction 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ce–Sn system: 180 accepted literature values (crystal structure 90, formation 56, invariant reaction 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CE-SN.html · Markdown: https://data.orchid-project.org/systems/AU-CE-SN.md
 
-236 accepted literature values from 1 paper(s) (experimental 46, model 128, unspecified 62); 0 calculated phase diagram(s).
+180 accepted literature values from 1 paper(s) (experimental 35, model 83, unspecified 62); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-CE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CE-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-CE-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 128 |
+| experimental | 35 |
+| model | 83 |
 | unspecified | 62 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
-| formation | 112 |
+| formation | 56 |
 | crystal structure | 90 |
 
 ## Invariant reactions (literature)
@@ -69,7 +69,7 @@ Table: Invariant reactions reported in the literature for the Au–Ce–Sn syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Ce–Sn system (112)
+Table: Enthalpies of formation, Au–Ce–Sn system (56)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -108,62 +108,6 @@ Table: Enthalpies of formation, Au–Ce–Sn system (112)
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -57.62 kJ/mol-atom | 289 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 45 |  |
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -51.64 kJ/mol-atom | 0 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 41 |  |
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -49.1 kJ/mol-atom | 298 | experimental | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 4, p. 4, row 43 |  |
-| UNKNOWN |  | -86.46 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 50 |  |
-| UNKNOWN |  | -85.61 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 48 |  |
-| UNKNOWN |  | -83.68 kJ/mol-atom ± 4.2 | 300 | experimental |  |  | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 28 |  |
-| UNKNOWN |  | -83 kJ/mol-atom | 300 | model |  |  | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 29 |  |
-| UNKNOWN |  | -80.99 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 49 |  |
-| UNKNOWN |  | -80 kJ/mol-atom | 300 | model |  |  | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 35 |  |
-| UNKNOWN |  | -79 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 47 |  |
-| UNKNOWN |  | -76.02 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 7 |  |
-| UNKNOWN |  | -75.36 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 5 |  |
-| UNKNOWN |  | -75.31 kJ/mol-atom ± 4.2 | 300 | experimental |  |  | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 34 |  |
-| UNKNOWN |  | -75.3 kJ/mol-atom ± 4.2 | 300 | experimental |  |  | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
-| UNKNOWN |  | -75 kJ/mol-atom | 300 | model |  |  | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
-| UNKNOWN |  | -74.77 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 52 |  |
-| UNKNOWN |  | -74.71 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 4 |  |
-| UNKNOWN |  | -74.32 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
-| UNKNOWN |  | -73.85 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 31 |  |
-| UNKNOWN |  | -73.82 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
-| UNKNOWN |  | -73.46 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 30 |  |
-| UNKNOWN |  | -73.25 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 27 |  |
-| UNKNOWN |  | -73.22 kJ/mol-atom ± 4.2 | 300 | experimental |  |  | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |
-| UNKNOWN |  | -72.21 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 32 |  |
-| UNKNOWN |  | -71.89 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 54 |  |
-| UNKNOWN |  | -71.46 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 10 |  |
-| UNKNOWN |  | -71.26 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 51 |  |
-| UNKNOWN |  | -70.38 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 48 |  |
-| UNKNOWN |  | -70.03 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 22 |  |
-| UNKNOWN |  | -70 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 12 |  |
-| UNKNOWN |  | -70 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 53 |  |
-| UNKNOWN |  | -66.98 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 33 |  |
-| UNKNOWN |  | -65.89 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 23 |  |
-| UNKNOWN |  | -65.38 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 36 |  |
-| UNKNOWN |  | -65.34 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 21 |  |
-| UNKNOWN |  | -62.8 kJ/mol-atom ± 4.2 | 298 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 6 |  |
-| UNKNOWN |  | -62.19 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 38 |  |
-| UNKNOWN |  | -61.29 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 40 |  |
-| UNKNOWN |  | -60.02 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 37 |  |
-| UNKNOWN |  | -59.39 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
-| UNKNOWN |  | -58.58 kJ/mol-atom ± 2.1 | 300 | experimental |  |  | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 42 |  |
-| UNKNOWN |  | -58.15 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 39 |  |
-| UNKNOWN |  | -58 kJ/mol-atom | 300 | model |  |  | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 44 |  |
-| UNKNOWN |  | -57.71 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 14 |  |
-| UNKNOWN |  | -57.62 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 45 |  |
-| UNKNOWN |  | -57.5 kJ/mol-atom ± 4.7 | 298 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 11 |  |
-| UNKNOWN |  | -55 kJ/mol-atom ± 1 | 300 | experimental |  |  | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
-| UNKNOWN |  | -53.72 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 20 |  |
-| UNKNOWN |  | -53 kJ/mol-atom | 300 | model |  |  | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 19 |  |
-| UNKNOWN |  | -51.64 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 41 |  |
-| UNKNOWN |  | -50.99 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
-| UNKNOWN |  | -50.89 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 46 |  |
-| UNKNOWN |  | -49.5 kJ/mol-atom ± 2.2 | 298 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 13 |  |
-| UNKNOWN |  | -49.37 kJ/mol-atom ± 2.1 | 300 | experimental |  |  | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 18 |  |
-| UNKNOWN |  | -49.1 kJ/mol-atom ± 2.946 | 298 | experimental |  |  | [1] Dong 2013; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 4, p. 4, row 43 |  |
-| UNKNOWN |  | -43.82 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 17 |  |
-| UNKNOWN |  | -41.85 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 46 |  |
-| UNKNOWN |  | -41.59 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 16 |  |
-| UNKNOWN |  | -39.76 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 15 |  |
 | αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 289 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 7 |  |
 | αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.36 kJ/mol-atom | 0 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 5 |  |
 | αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 6 |  |

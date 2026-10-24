@@ -93,11 +93,13 @@
   "observations": [
    {
     "id": "ORC-DQMHPITELC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
     "measured_in": "ref:bc9c59afd2e57056"
    },
    {
     "id": "ORC-2TDBFYMT7V",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
     "measured_in": "ref:bc9c59afd2e57056"
    }

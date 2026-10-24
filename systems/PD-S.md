@@ -1,10 +1,10 @@
 # Pd–S system
 
-> Pd–S system: 40 accepted literature values (formation 25, invariant reaction 12, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–S system: 35 accepted literature values (formation 20, invariant reaction 12, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-S.html · Markdown: https://data.orchid-project.org/systems/PD-S.md
 
-40 accepted literature values from 1 paper(s) (experimental 17, model 13, DFT 10); 1 calculated phase diagram(s).
+35 accepted literature values from 1 paper(s) (experimental 17, model 13, DFT 5); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-S.json) · [CSV](https://data.orchid-project.org/systems/PD-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-S/PdS-10Hu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/PD-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-S.html) · [Markdown](https://data.orchid-project.org/systems/PD-S.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 17 |
 | model | 13 |
-| DFT | 10 |
+| DFT | 5 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 3 |
-| formation | 25 |
+| formation | 20 |
 
 ## Calculated phase diagrams
 
@@ -78,32 +78,27 @@ Table: Invariant reactions reported in the literature for the Pd–S system (12)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–S system (25)
+Table: Enthalpies of formation, Pd–S system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Pd16S7 |  | -36.601 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 10 |  |
 | Pd16S7 |  | -29.5 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 11 |  |
-| Pd16S7 |  | -29.5 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 11 |  |
 | Pd16S7 |  | -25.221 per mol-atom ± 1.574 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 9 |  |
 | Pd3S |  | -27.317 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
-| Pd3S |  | -25.4 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
 | Pd3S |  | -25.4 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
 | Pd3S |  | -24.125 per mol-atom ± 2.625 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
 | Pd4S |  | -25.74 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3 |  |
 | Pd4S |  | -24.328 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2 |  |
-| Pd4S |  | -22.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 5 |  |
 | Pd4S |  | -22.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 5 |  |
 | Pd4S |  | -19.84 per mol-atom ± 2.24 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1 |  |
 | Pd4S |  | -12.7 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4 |  |
 | PdS |  | -68.55 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 14 |  |
 | PdS |  | -43.175 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 13 |  |
 | PdS |  | -40.3 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 16 |  |
-| PdS |  | -40.3 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 16 |  |
 | PdS |  | -39.05 per mol-atom ± 5.5 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 12 |  |
 | PdS |  | -37.55 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15 |  |
 | PdS2 |  | -69.24 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 18 |  |
-| PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20 |  |
 | PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20 |  |
 | PdS2 |  | -29.24 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
 | PdS2 |  | -26.067 per mol-atom ± 4.2 | 298 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |

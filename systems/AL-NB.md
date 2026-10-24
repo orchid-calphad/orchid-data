@@ -1,10 +1,10 @@
 # Al–Nb system
 
-> Al–Nb system: 97 accepted literature values (invariant reaction 74, phase transition 18, phase equilibrium 3, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Nb system: 94 accepted literature values (invariant reaction 71, phase transition 18, phase equilibrium 3, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NB.html · Markdown: https://data.orchid-project.org/systems/AL-NB.md
 
-97 accepted literature values from 6 paper(s) (experimental 38, model 49, unspecified 10); 6 calculated phase diagram(s).
+94 accepted literature values from 6 paper(s) (experimental 42, model 41, DFT 1, unspecified 10); 6 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NB.json) · [CSV](https://data.orchid-project.org/systems/AL-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NB/AlNb-08Zhu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NB.html) · [Markdown](https://data.orchid-project.org/systems/AL-NB.md)
 
@@ -12,15 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 49 |
+| experimental | 42 |
+| model | 41 |
+| DFT | 1 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 74 |
+| invariant reaction | 71 |
 | phase transition | 18 |
 | phase equilibrium | 3 |
 | heat capacity / entropy / enthalpy | 2 |
@@ -96,7 +97,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Nb system (74)
+Table: Invariant reactions reported in the literature for the Al–Nb system (71)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -134,7 +135,6 @@ Table: Invariant reactions reported in the literature for the Al–Nb system (74
 | 1987 | other: L -> ε | L: Al 0.7486; ε: Al 0.7486 | unspecified | [2] Witusiewicz 2009 | Table 5, p. 10, row 18 |  |
 | 1986 | L -> ε |  | experimental | [2] Witusiewicz 2009 | Table 5, p. 10, row 14 |  |
 | 1968 | L -> ε | L: Al 0.7486; ε: Al 0.7486 | model | [2] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 5, p. 10, row 15 |  |
-| 1961.15 | congruent melting: L = NbAl3 | L: Al 0.75; NbAl3: Al 0.75; ϕ1: Al 0.75; ϕ2: Al 0.75 | model | [1] He 2015; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 4, p. 7, row 16 |  |
 | 1961 | L -> ε | L: Al 0.75; ε: Al 0.75 | model | [2] Witusiewicz 2009; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 5, p. 10, row 17 |  |
 | 1956 | L -> ε | L: Al 0.75; ε: Al 0.75 | model | [2] Witusiewicz 2009; _cites Saunders 1998_ | Table 5, p. 10, row 16 |  |
 | 1955.5 | congruent melting: Al3Nb\* -> Liquid | Al3Nb\*: Nb 0.25; Liquid: Nb 0.25 | unspecified | [3] Hämäläinen 1998 | Table I, p. 89, row 5 |  |
@@ -143,7 +143,6 @@ Table: Invariant reactions reported in the literature for the Al–Nb system (74
 | 1869 | L -> ε + σ | L: Al 0.581; ε: Al 0.745; σ: Al 0.404 | model | [2] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 5, p. 10, row 21 |  |
 | 1863.15 | eutectic: L = Nb2Al + NbAl3 | L: Al 0.55; Nb2Al: Al 0.42; NbAl3: Al 0.75, Nb 0.25; ϕ1: Al 0.55; ϕ2: Al 0.42 | experimental | [1] He 2015; _cites Jorda 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990120-4) | Table 4, p. 7, row 19 |  |
 | 1863 | eutectic: L -> ε + σ | L: Al 0.55; σ: Al 0.42 | experimental | [2] Witusiewicz 2009; _cites Massalski 1990_ | Table 5, p. 10, row 19 |  |
-| 1861.15 | eutectic: L = Nb2Al + NbAl3 | L: Al 0.58; Nb2Al: Al 0.333333, Nb 0.666667; NbAl3: Al 0.75, Nb 0.25; ϕ1: Al 0.58 | model | [1] He 2015; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 4, p. 7, row 21 |  |
 | 1861 | L -> ε + σ | L: Al 0.58; ε: Al 0.75; σ: Al 0.406 | model | [2] Witusiewicz 2009; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 5, p. 10, row 23 |  |
 | 1854.15 | eutectic: L = Nb2Al + NbAl3 | L: Al 0.564; Nb2Al: Al 0.406; NbAl3: Al 0.746; ϕ1: Al 0.564; ϕ2: Al 0.406; ϕ3: Al 0.746 | model | [1] He 2015 | Table 4, p. 7, row 18 |  |
 | 1845.15 | eutectic: L = Nb2Al + NbAl3 | Nb2Al: Al 0.406; NbAl3: Al 0.75, Nb 0.25; ϕ2: Al 0.406 | experimental | [1] He 2015; _cites Witusiewicz 2015_ | Table 4, p. 7, row 20 |  |
@@ -158,20 +157,19 @@ Table: Invariant reactions reported in the literature for the Al–Nb system (74
 | 934.6 | peritectic: L + ε -> (αAl) | L: Al 0.9996; (αAl): Al 0.9994 | experimental | [2] Witusiewicz 2009; _cites Massalski 1990_ | Table 5, p. 10, row 26 |  |
 | 934.6 | L + ε -> (αAl) |  | experimental | [2] Witusiewicz 2009; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 5, p. 10, row 28 |  |
 | 934.6 | L + ε -> (αAl) |  | experimental | [2] Witusiewicz 2009; _cites Lundin 1966_ | Table 5, p. 10, row 27 |  |
-| 934.59 | peritectic |  | model | [4] Fiorani 2023; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | p. 3 | “Zhu et al. \[19\] performed Differential Scanning Calorimetry (DSC) measurements with different scanning rates from heat treated samples in order to determine the nature of the Al-rich equilibrium involving liquid, D022 and (Al). The suggested temperature was 661.44 °C, leading to a peritectic type reaction because it is slightly higher than the melting point of pure Al (660.3 °C).” |
+| 934.59 | peritectic |  | experimental | [4] Fiorani 2023; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | p. 3 | “Zhu et al. \[19\] performed Differential Scanning Calorimetry (DSC) measurements with different scanning rates from heat treated samples in order to determine the nature of the Al-rich equilibrium involving liquid, D022 and (Al). The suggested temperature was 661.44 °C, leading to a peritectic type reaction because it is slightly higher than the melting point of pure Al (660.3 °C).” |
 | 934.59 | peritectic |  | experimental | [5] Zhu 2008 | p. 3 | “The degenerated equilibrium temperature is determined to be 661.44 ◦ C after the temperature calibration to pure Al is made. That temperature is higher by 1.1 K than the melting point of Al, showing a peritectic nature for the observed degenerated equilibrium.” |
 | 934.55 | peritectic: L + NbAl3 = (Al) | NbAl3: Al 0.75, Nb 0.25; (Al): Al 0.9994; ϕ3: Al 0.9994 | experimental | [1] He 2015; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 4, p. 7, row 25 |  |
 | 934.55 | peritectic: L + NbAl3 = (Al) | L: Al 0.9996; NbAl3: Al 0.75, Nb 0.25; ϕ1: Al 0.9996 | experimental | [1] He 2015; _cites Shilo 1982_ [doi](https://doi.org/10.1149/1.2124218) | Table 4, p. 7, row 24 |  |
 | 934.5 | other: L + ε -> (αAl) | L: Al 0.99998; ε: Al 0.75; (αAl): Al 0.9985 | unspecified | [2] Witusiewicz 2009 | Table 5, p. 10, row 33 |  |
 | 934.5 | L + ε -> (αAl) | L: Al 0.99999; ε: Al 0.75; (αAl): Al 0.9985 | model | [2] Witusiewicz 2009; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 5, p. 10, row 32 |  |
 | 934.45 | peritectic: L + NbAl3 = (Al) | L: Al 0.99999; NbAl3: Al 0.75; (Al): Al 0.9985; ϕ1: Al 0.99999; ϕ2: Al 0.75; ϕ3: Al 0.9985 | model | [1] He 2015; _cites Zhu 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.033) | Table 4, p. 7, row 27 |  |
-| 934.45 | peritectic: L + NbAl3 = (Al) | L: Al 0.9999; NbAl3: Al 0.751; (Al): Al 0.9985; ϕ1: Al 0.9999; ϕ2: Al 0.751; ϕ3: Al 0.9985 | model | [1] He 2015 | Table 4, p. 7, row 23 |  |
 | 934.45 | peritectic: L + NbAl3 = (Al) | L: Al 0.99998; NbAl3: Al 0.75, Nb 0.25; (Al): Al 0.9985; ϕ1: Al 0.99998; ϕ3: Al 0.9985 | model | [1] He 2015; _cites Witusiewicz 2015_ | Table 4, p. 7, row 28 |  |
 | 934.2 | peritectic: Liquid + Al3Nb\* -> fcc-Al | Liquid: Nb 0; Al3Nb\*: Nb 0.25; fcc-Al: Nb 0.001 | unspecified | [3] Hämäläinen 1998 | Table I, p. 89, row 1 |  |
 | 934.2 | L + ε -> (αAl) | L: Al 0.99999; ε: Al 0.75; (αAl): Al 0.999 | model | [2] Witusiewicz 2009; _cites Servant 1998_ [doi](https://doi.org/10.1002/bbpc.19981020923) | Table 5, p. 10, row 30 |  |
 | 934.2 | L + ε -> (αAl) | L: Al 1; ε: Al 0.75; (αAl): Al 0.999 | model | [2] Witusiewicz 2009; _cites Saunders 1998_ | Table 5, p. 10, row 31 |  |
 | 933 | eutectic: L -> (αAl) + ε |  | experimental | [2] Witusiewicz 2009; _cites Baron 1961_ | Table 5, p. 10, row 25 |  |
-| 930.15 | peritectic |  | model | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “Witusiewicz et al. \[8\] supported that the reaction is of the peritectic type, but the reaction temperature they measured was 657 °C.” |
+| 930.15 | peritectic |  | experimental | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “Witusiewicz et al. \[8\] supported that the reaction is of the peritectic type, but the reaction temperature they measured was 657 °C.” |
 | 930.15 | peritectic: L + NbAl3 = (Al) | NbAl3: Al 0.75; ϕ2: Al 0.75 | experimental | [1] He 2015; _cites Witusiewicz 2015_ | Table 4, p. 7, row 26 |  |
 | 930 | L + ε -> (αAl) |  | experimental | [2] Witusiewicz 2009 | Table 5, p. 10, row 29 |  |
 
@@ -193,8 +191,8 @@ Table: Phase transition, Al–Nb system
 | Phase transition | 1953.15 K | 1953.15 | NbAl3 | experimental | [1] He 2015; _cites Jorda 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990120-4) | p. 2 | “These values are much higher than the previously accepted one (1680 °C \[16\]).” |
 | Phase transition | 1954.15 K | 1954.15 | congruent transformation | model | [1] He 2015 | p. 11 | “According to the present description of the Co-Al-Nb ternary system, the C14 Laves phase forms congruently at a composition Co-47.1Al-34.2Nb at 1681 °C (point m2 marked with a red triangle in Fig. 13a and c).” |
 | Phase transition | 1987 K | 1987 | congruent transformation | model | [2] Witusiewicz 2009 | p. 10 | “Thus, in agreement with our own measurements and with the present thermodynamic description, the congruent melting temperature of NbAl3 amount to 1987 K.” |
-| Phase transition | 1987.15 K | 1987.15 | congruent transformation | model | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “A noticeable information obtained experimentally by Witusiewicz et al. \[8\] is the congruent melting temperature of NbAl3 (1721 °C from DTA and 1714 °C from pyrometric measurement).” |
-| Phase transition | 1994.15 K | 1994.15 | congruent transformation | model | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “A noticeable information obtained experimentally by Witusiewicz et al. \[8\] is the congruent melting temperature of NbAl3 (1721 °C from DTA and 1714 °C from pyrometric measurement).” |
+| Phase transition | 1987.15 K | 1987.15 | congruent transformation | experimental | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “A noticeable information obtained experimentally by Witusiewicz et al. \[8\] is the congruent melting temperature of NbAl3 (1721 °C from DTA and 1714 °C from pyrometric measurement).” |
+| Phase transition | 1994.15 K | 1994.15 | congruent transformation | experimental | [1] He 2015; _cites Witusiewicz 2015_ | p. 2 | “A noticeable information obtained experimentally by Witusiewicz et al. \[8\] is the congruent melting temperature of NbAl3 (1721 °C from DTA and 1714 °C from pyrometric measurement).” |
 | Phase transition | 2000.15 K | 2000.15 | congruent transformation | experimental | [1] He 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | p. 2 | “In a more recent paper \[9\] the congruent melting temperature of NbAl3 was re-investigated applying lower heating and cooling rates than in \[8\] (5 and 10 K/min instead of 20 K/min), giving a value of 1727 °C.” |
 | Phase transition | 2000.15 K | 2000.15 | congruent transformation | experimental | [1] He 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | p. 8 | “It should be noted that the calculated congruent melting temperature of NbAl3 is 1728 °C, which perfectly fits the experimental value of 1727 °C \[9\], which in turn is much higher than reported in previous descriptions.” |
 | Phase transition | 2000.15 K | 2000.15 | congruent transformation | experimental | [1] He 2015; _cites Stein 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.02.045) | p. 1 | “In addition, according to the latest experimental data the congruent melting temperature of the intermetallic phase NbAl3 is 1727 °C \[9\], which is higher than the previously reported value.” |
@@ -218,7 +216,7 @@ Table: Heat capacity / entropy / enthalpy, Al–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: entropy at constant volume_ | 93 J K 1 mol 1 | 298.15 |  | model | [6] Gebauer 2022; _cites Online_ | p. 7 | “The entropy at constant volume of AlNbO4 is available in an online database for ab initio phonon calculations\[36\] and is 93.0 J K1 mol1 at 25 °C.” |
+| Entropy; _printed: entropy at constant volume_ | 93 J K 1 mol 1 | 298.15 |  | DFT | [6] Gebauer 2022; _cites Online_ | p. 7 | “The entropy at constant volume of AlNbO4 is available in an online database for ab initio phonon calculations\[36\] and is 93.0 J K1 mol1 at 25 °C.” |
 | Entropy; _printed: entropy at constant pressure_ | 90 J K 1 mol 1 | 298.15 |  | model | [6] Gebauer 2022 | p. 7 | “The entropy at constant pressure (calculated, this work) is 90.0 J K1 mol1 at 25 °C.” |
 
 ## Sources

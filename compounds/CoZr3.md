@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CoZr3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22440 per mol-atom | CoZr3 | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 25 |  |
+| -22.44 per mol-atom | CoZr3 | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 25 |  |
 | -23.01 kJ/mol-atom | CoZr3 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 26 |  |
 | -18.899 kJ/mol-atom | CoZr3 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 64 |  |
 

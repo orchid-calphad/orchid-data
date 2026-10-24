@@ -1,10 +1,10 @@
 # Cu–Li system
 
-> Cu–Li system: 77 accepted literature values (activity / EMF / Gibbs energy 32, phase transition 18, phase equilibrium 17, heat capacity / entropy / enthalpy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Li system: 73 accepted literature values (activity / EMF / Gibbs energy 32, phase transition 18, phase equilibrium 17, mixing / partial 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-LI.html · Markdown: https://data.orchid-project.org/systems/CU-LI.md
 
-77 accepted literature values from 2 paper(s) (experimental 72, model 5); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+73 accepted literature values from 2 paper(s) (experimental 69, model 4); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LI.json) · [CSV](https://data.orchid-project.org/systems/CU-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-LI/CuLi-09Gas.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CU-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-LI.html) · [Markdown](https://data.orchid-project.org/systems/CU-LI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 72 |
-| model | 5 |
+| experimental | 69 |
+| model | 4 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,6 @@ Table: Accepted values by property group
 | phase transition | 18 |
 | phase equilibrium | 17 |
 | mixing / partial | 4 |
-| heat capacity / entropy / enthalpy | 4 |
 | activity / EMF / Gibbs energy | 32 |
 
 ## Calculated phase diagrams
@@ -57,7 +56,7 @@ Table: Invariant reactions reported in the literature for the Cu–Li system (2)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 453.6 | eutectic |  | model | [1] Gąsior 2009; _cites Pelton 1986_ [doi](https://doi.org/10.1007/bf02881552) | p. 1 | “Pelton \[3\] using a DTA technique established the liquidus temperatures for 8 alloys of different concentrations and found out that the eutectic temperature was almost identical with the melting temperature of Li i.e. 453.6 K (180.5 ◦ C).” |
+| 453.6 | eutectic |  | experimental | [1] Gąsior 2009; _cites Pelton 1986_ [doi](https://doi.org/10.1007/bf02881552) | p. 1 | “Pelton \[3\] using a DTA technique established the liquidus temperatures for 8 alloys of different concentrations and found out that the eutectic temperature was almost identical with the melting temperature of Li i.e. 453.6 K (180.5 ◦ C).” |
 | 453.6 | other: Liquid -> fcc-A1 + bcc-A2 | Liquid: Li 1; fcc-A1: Li 0.228; bcc-A2: Li 1 | model | [2] Hämäläinen 1998 | Table I, p. 185, row 1 |  |
 
 ## Other properties
@@ -121,17 +120,6 @@ Table: Mixing / partial, Cu–Li system
 | Partial enthalpy; _printed: H_Li_ | -48.6058 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
 | Partial enthalpy; _printed: H_Li_ | -100.833 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
 | Partial enthalpy; _printed: H_Li_ | -16.2861 kJ/mol (basis unstated) |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
-
-### Heat capacity / entropy / enthalpy (4)
-
-Table: Heat capacity / entropy / enthalpy, Cu–Li system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S^ex_Li_ | -48.6 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
-| Entropy; _printed: S^ex_Li_ | -61.9 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
-| Entropy; _printed: S^ex_Li_ | -117 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Entropy; _printed: S^ex_Li_ | -26.8 J/mol (basis unstated)/K |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
 
 ### Activity / EMF / Gibbs energy (32)
 

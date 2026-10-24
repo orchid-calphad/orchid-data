@@ -110,6 +110,7 @@
   "observations": [
    {
     "id": "ORC-6IK6OR4X2T",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02648368",
     "measured_in": "doi:10.1007/bf02648368",
     "also_reported_as": [
@@ -123,6 +124,7 @@
    },
    {
     "id": "ORC-YNW3UCH6VA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02648368",
     "measured_in": "doi:10.1007/bf02648368",
     "also_reported_as": [

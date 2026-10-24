@@ -1,10 +1,10 @@
 # N–Ta system
 
-> N–Ta system: 10 accepted literature values (crystal structure 4, formation 4, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–Ta system: 8 accepted literature values (crystal structure 4, formation 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-TA.html · Markdown: https://data.orchid-project.org/systems/N-TA.md
 
-10 accepted literature values from 1 paper(s) (experimental 5, model 1, unspecified 4); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 5, model 1, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-TA.json) · [CSV](https://data.orchid-project.org/systems/N-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-TA) · [phases (6)](https://data.orchid-project.org/phases/pages/N-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-TA.html) · [Markdown](https://data.orchid-project.org/systems/N-TA.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 5 |
 | model | 1 |
-| unspecified | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| formation | 4 |
+| formation | 2 |
 | crystal structure | 4 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/N/N-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/N/N-TA.json)
@@ -30,14 +30,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, N–Ta system (4)
+Table: Enthalpies of formation, N–Ta system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998 | Table 2, p. 7, row 1 |  |
 | TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2 |  |
-| UNKNOWN |  | 22 kJ/mol-atom | 298 | unspecified |  |  | [1] Frisk 1998 | Table 2, p. 7, row 1 |  |
-| UNKNOWN |  | 22 kJ/mol-atom | 298 | unspecified |  |  | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2 |  |
 
 ## Other properties
 

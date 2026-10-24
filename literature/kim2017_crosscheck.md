@@ -2,13 +2,13 @@
 
 Reference: G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162. doi:10.1038/sdata.2017.162 (Figshare dataset doi:10.6084/m9.figshare.7289723, MIT (Figshare dataset)).
 
-ORCHID candidates: 1503 experimental, accepted, signed HM_FORM records (kJ/mol-atom) over 603 formulas.
+ORCHID candidates: 1461 experimental, accepted, signed HM_FORM records (kJ/mol-atom) over 601 formulas.
 
 Reference file: `~/data/kim2017-expt-formation-enthalpy/formation_enthalpy_expt.csv` (1276 rows; complete file, SHA-256 matches).
 
 | n formulas in common | MAE | median abs diff | sign agreement | differ > 10 |
 |---:|---:|---:|---:|---:|
-| 162 | 3.85 | 1.191 | 1.0 | 19 |
+| 162 | 3.874 | 1.191 | 1.0 | 19 |
 
 | formula | ORCHID median | Kim median | difference | ORCHID ids |
 |---|---:|---:|---:|---|

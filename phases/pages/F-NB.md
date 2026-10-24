@@ -188,7 +188,7 @@ _assessment that models this phase_
 - Structure: ReO3 alpha · D0_9 · cP4 · Pm-3m (221); type `st:d0-9-reo3-alpha-cp4`; tier A: standard phase name; confidence high
 - Stoichiometry: F 0.7500, Nb 0.2500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1608.13 K, x(F) 0.75–0.75
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 9 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-nb:nbf3-d09)
 
 Names (4): _corpus: _corpus:phase:f-nb:nbf3-d09  
@@ -218,7 +218,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: F 0.8000, Nb 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–858.21 K, x(F) 0.8–0.8
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 9 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-nb:nbf4)
 
 Names (4): _corpus: _corpus:phase:f-nb:nbf4  
@@ -246,7 +246,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: MoF5 · mC48 · C2/m (12); type `st:mof5-mc48`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: F 0.8333, Nb 0.1667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–351.91 K, x(F) 0.83333–0.83333
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 11 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-nb:nbf5)
 
 Names (7): _corpus: _corpus:phase:f-nb:nbf5  

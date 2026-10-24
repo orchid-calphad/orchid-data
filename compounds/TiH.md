@@ -1,20 +1,19 @@
 # TiH: enthalpy of formation
 
-> Enthalpy of formation of TiH: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of TiH: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/TiH.html · Markdown: https://data.orchid-project.org/compounds/TiH.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of TiH reported in the literature (2)
+Table: Enthalpy of formation of TiH reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.66 kJ/mol (basis unstated) | γ-TiH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
 | -35.66 kJ/mol (basis unstated) | γ-TiH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
 
 ## Sources

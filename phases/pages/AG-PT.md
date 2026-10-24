@@ -26,7 +26,7 @@ Table: Phases of the Ag–Pt system (4)
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-pt:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:ag-pt:bcc-a2  
-_paper: _paper:10.1007/bf02869269:β, paper:10.1007/bf02869269:β′  
+_paper: _paper:10.1007/bf02869269:β, paper:10.1007/bf02869269:β'  
 _tdb: _tdb:AgPt-87Kar.tdb:BCC_A2, tdb:AgPt-98Spe-LB.tdb:BCC_A2  
 
 

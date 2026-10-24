@@ -14,15 +14,15 @@ Table: Phases of the C–Fe system (12)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-fe-a4-diamond); _phase:c-fe:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 9 calculated diagram(s) | 0 | 9 |
 | [GRAPHITE_A9](#phase-c-fe-a9-graphite); _phase:c-fe:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2500 K, x(C) 1–1 | 0 | 9 |
-| [BCC_A2](#phase-c-fe-bcc-a2); _phase:c-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.69 K, x(C) 0–0.00626 | 17 | 9 |
+| [BCC_A2](#phase-c-fe-bcc-a2); _phase:c-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.69 K, x(C) 0–0.00626 | 7 | 9 |
 | [BCC_ALT](#phase-c-fe-bcc-alt); _phase:c-fe:bcc-alt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300.82–2345.95 K, x(C) 0–0.00308 | 0 | 1 |
 | [BCT_Z1](#phase-c-fe-bct-z1); _phase:c-fe:bct-z1_ |  | unresolved_no_candidates | stable in 1 of 1 calculated diagram(s): 300–1800 K, x(C) 0.5–0.5 | 0 | 1 |
 | [BCT_Z2](#phase-c-fe-bct-z2); _phase:c-fe:bct-z2_ |  | unresolved_no_candidates | stable in 1 of 1 calculated diagram(s): 300.4–2499.12 K, x(C) 0–0.00626 | 0 | 1 |
 | [CEMENTITE_D011](#phase-c-fe-cementite-d011); _phase:c-fe:cementite-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 2 of 9 calculated diagram(s): 1010–1416.1 K, x(C) 0.25–0.25 | 0 | 9 |
 | [M2C_ETA](#phase-c-fe-eta-m2c); _phase:c-fe:eta-m2c_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-c-fe-fcc-a1); _phase:c-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1009.04–1768.83 K, x(C) 0–0.08879 | 9 | 9 |
+| [FCC_A1](#phase-c-fe-fcc-a1); _phase:c-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1009.04–1768.83 K, x(C) 0–0.08879 | 6 | 9 |
 | [HCP_A3](#phase-c-fe-hcp-a3); _phase:c-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 8 calculated diagram(s) | 0 | 8 |
-| [LIQUID](#phase-c-fe-liquid); _phase:c-fe:liquid_ | liquid | liquid | stable in 9 of 9 calculated diagram(s): 1415.24–2500 K, x(C) 0–0.27456 | 19 | 9 |
+| [LIQUID](#phase-c-fe-liquid); _phase:c-fe:liquid_ | liquid | liquid | stable in 9 of 9 calculated diagram(s): 1415.24–2500 K, x(C) 0–0.27456 | 8 | 9 |
 | [M5C2](#phase-c-fe-m5c2); _phase:c-fe:m5c2_ | Mn5C2 · mC28 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 
 ## DIAMOND_A4 (C–Fe)
@@ -218,11 +218,11 @@ _assessment that models this phase_
 - Id: `phase:c-fe:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 300–2499.69 K, x(C) 0–0.00626
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-fe:bcc-a2)
 
-Names (12): _corpus: _corpus:phase:c-fe:bcc-a2  
-_paper: _paper:10.1007/bf02649916:α, paper:10.1007/bf02649916:ε  
+Names (11): _corpus: _corpus:phase:c-fe:bcc-a2  
+_paper: _paper:10.1007/bf02649916:α  
 _tdb: _tdb:FeC-10Hal.tdb:BCC_A2, tdb:FeC-14Nar-3g.tdb:BCC_A2, tdb:FeC-16Goh.tdb:BCC_A2, tdb:FeC-19Che.tdb:BCC_A2, tdb:FeC-19Mie.tdb:BCC_A2, tdb:FeC-20Sae.tdb:BCC_A2, tdb:FeC-23Jac.tdb:BCC_A2, tdb:FeC-24Eno.tdb:BCC_A2, tdb:FeC-85Gus-LB.tdb:BCC_A2  
 
 
@@ -516,11 +516,11 @@ _assessment that models this phase_
 - Id: `phase:c-fe:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 1009.04–1768.83 K, x(C) 0–0.08879
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-fe:fcc-a1)
 
-Names (12): _corpus: _corpus:phase:c-fe:fcc-a1  
-_paper: _paper:10.1007/bf02649916:(Al), paper:10.1007/bf02649916:γ  
+Names (11): _corpus: _corpus:phase:c-fe:fcc-a1  
+_paper: _paper:10.1007/bf02649916:γ  
 _tdb: _tdb:FeC-10Hal.tdb:FCC_A1, tdb:FeC-14Nar-3g.tdb:FCC_A1, tdb:FeC-16Goh.tdb:FCC_A1, tdb:FeC-19Che.tdb:FCC_A1, tdb:FeC-19Mie.tdb:FCC_A1, tdb:FeC-20Sae.tdb:FCC_A1, tdb:FeC-23Jac.tdb:FCC_A1, tdb:FeC-24Eno.tdb:FCC_A1, tdb:FeC-85Gus-LB.tdb:FCC_A1  
 
 
@@ -698,7 +698,7 @@ _assessment that models this phase_
 - Id: `phase:c-fe:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 1415.24–2500 K, x(C) 0–0.27456
-- Literature: 19 values (19 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-fe:liquid)
 
 Names (11): _corpus: _corpus:phase:c-fe:liquid  

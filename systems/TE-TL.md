@@ -1,10 +1,10 @@
 # Te–Tl system
 
-> Te–Tl system: 76 accepted literature values (formation 37, invariant reaction 29, other property 6, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Te–Tl system: 58 accepted literature values (invariant reaction 29, formation 22, phase transition 4, other property 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TE-TL.html · Markdown: https://data.orchid-project.org/systems/TE-TL.md
 
-76 accepted literature values from 2 paper(s) (experimental 33, model 35, unspecified 8); 0 calculated phase diagram(s).
+58 accepted literature values from 2 paper(s) (experimental 24, model 30, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TE-TL.json) · [CSV](https://data.orchid-project.org/systems/TE-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-TL) · [phases (10)](https://data.orchid-project.org/phases/pages/TE-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TE-TL.html) · [Markdown](https://data.orchid-project.org/systems/TE-TL.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
-| model | 35 |
-| unspecified | 8 |
+| experimental | 24 |
+| model | 30 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 29 |
 | phase transition | 4 |
-| formation | 37 |
-| other property | 6 |
+| formation | 22 |
+| other property | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/TE/TE-TL.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/TE/TE-TL.json) · [CALPHAD hull TlTe-93Oh](https://data.orchid-project.org/hulls/calphad-sgte/TE/TE-TL--TlTe-93Oh.json)
 
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the Te–Tl system (29
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Te–Tl system (31)
+Table: Enthalpies of formation, Te–Tl system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -84,18 +84,6 @@ Table: Enthalpies of formation, Te–Tl system (31)
 | TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298 | experimental | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 5 |  |
 | TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 4 |  |
 | TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.44 kJ/mol-atom | 298 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010 | Table IV, p. 5, row 3 |  |
-| UNKNOWN |  | -27.06 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 10 |  |
-| UNKNOWN |  | -26.78 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 9 |  |
-| UNKNOWN |  | -26.17 kJ/mol-atom | 298 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
-| UNKNOWN |  | -24.13 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 20_ | Table 3, p. 6, row 11 |  |
-| UNKNOWN |  | -22.53 kJ/mol-atom | 298 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 6 |  |
-| UNKNOWN |  | -21.92 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 4 |  |
-| UNKNOWN |  | -21.76 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 5 |  |
-| UNKNOWN |  | -21.62 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 17_ | Table 3, p. 6, row 8 |  |
-| UNKNOWN |  | -19.53 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 25_ | Table 3, p. 6, row 7 |  |
-| UNKNOWN |  | -17.99 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 1 |  |
-| UNKNOWN |  | -17.91 kJ/mol-atom | 298 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 3 |  |
-| UNKNOWN |  | -17.57 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 2 |  |
 | γ |  | -27.06 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 10 |  |
 | γ |  | -26.78 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 9 |  |
 | γ |  | -26.17 kJ/mol-atom | 298 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
@@ -116,30 +104,24 @@ Table: Phase transition, Te–Tl system
 | Phase transition | 727.8 K | 727.8 | L = Te3Tl5; _L: Te 0.375; Te3Tl5: Te 0.375_ | model | [2] Gierlotka 2010 | Table III, p. 5, row 7 |  |
 | Phase transition | 728 K | 728 | L = Te3Tl5; _L: Te 0.375; Te3Tl5: Te 0.375_ | experimental | [2] Gierlotka 2010; _cites Okamoto 2000_ [doi](https://doi.org/10.1361/105497100770339833) | Table III, p. 5, row 8 |  |
 
-### Formation (6)
+### Formation (3)
 
 Table: Formation, Te–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfusS_ | 12.3 J/mol-atom/K |  | UNKNOWN | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
-| Entropy of formation; _printed: ΔfusS_ | 10.8 J/mol-atom/K |  | UNKNOWN | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
 | Entropy of formation; _printed: ΔfusS_ | 12.3 J/mol-atom/K |  | γ | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
 | Entropy of formation; _printed: ΔfusS_ | 10.8 J/mol-atom/K |  | γ | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
-| Entropy of formation; _printed: ΔfusS_ | 12.8 J/mol-atom/K | 298 | UNKNOWN | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 | Entropy of formation; _printed: ΔfusS_ | 12.8 J/mol-atom/K | 298 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 
-### Other property (6)
+### Other property (3)
 
 Table: Other property, Te–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: ΔfusH_ | 8670 J/g-atom |  | UNKNOWN | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
-| Transition enthalpy; _printed: ΔfusH_ | 7810 J/g-atom |  | UNKNOWN | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
 | Transition enthalpy; _printed: ΔfusH_ | 8670 J/g-atom |  | γ | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
 | Transition enthalpy; _printed: ΔfusH_ | 7810 J/g-atom |  | γ | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
-| Transition enthalpy; _printed: ΔfusH_ | 9241 J/g-atom | 298 | UNKNOWN | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 | Transition enthalpy; _printed: ΔfusH_ | 9241 J/g-atom | 298 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 
 ## Sources

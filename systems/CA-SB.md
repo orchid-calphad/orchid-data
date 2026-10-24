@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/CA-SB.html · Markdown: https://data.orchid-project.org/systems/CA-SB.md
 
-4 accepted literature values from 1 paper(s) (experimental 3, model 1); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
 
@@ -12,8 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 1 |
+| experimental | 4 |
 
 Table: Accepted values by property group
 
@@ -73,7 +72,7 @@ Table: Phase transition, Ca–Sb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1258.15 K | 1258.15 | congruent transformation | experimental | [1] Qin 2015; _cites Niyazova 1976_ | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
-| Phase transition | 1393.15 K | 1393.15 | congruent transformation | model | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
+| Phase transition | 1393.15 K | 1393.15 | congruent transformation | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
 
 ## Sources
 

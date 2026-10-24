@@ -112,11 +112,13 @@
   "observations": [
    {
     "id": "ORC-L66SXX7VAW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.12.014",
     "measured_in": "doi:10.1016/0022-5088(86)90134-7"
    },
    {
     "id": "ORC-Y2AC5FSJL3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.12.014",
     "measured_in": "doi:10.1016/0022-5088(86)90134-7"
    }

@@ -383,61 +383,73 @@
   "observations": [
    {
     "id": "ORC-VIRZC6QQMD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-FIEODYEWIQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-GJSPG6I6YT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-H63S2MKQ5X",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-2F4UEK362J",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-YUMZUMHJNY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-OGYIZLFBLR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-Z3XTJJOCOT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-A7VR33JSL4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-7H3BEHWGQL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-XLDXTNV5HS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
    {
     "id": "ORC-GNYFBJJT5U",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0",
     "also_reported_as": [

@@ -71,6 +71,7 @@
   "observations": [
    {
     "id": "ORC-M4PSHYTV4J",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10853-013-7814-7",
     "measured_in": "doi:10.1007/s10853-013-7814-7"
    }

@@ -207,6 +207,7 @@
   "observations": [
    {
     "id": "ORC-LRXRZPZ7TZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154",
     "also_reported_as": [
@@ -220,6 +221,7 @@
    },
    {
     "id": "ORC-3OE53IXMIX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154",
     "also_reported_as": [
@@ -233,21 +235,25 @@
    },
    {
     "id": "ORC-I325NXRMSY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154"
    },
    {
     "id": "ORC-OPPR7LCHIQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154"
    },
    {
     "id": "ORC-RDBCHASHSV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154"
    },
    {
     "id": "ORC-OGOB27OS6O",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.physb.2010.05.046",
     "measured_in": "doi:10.1002/pssb.19690350154"
    }

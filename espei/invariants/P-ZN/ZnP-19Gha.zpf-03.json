@@ -125,16 +125,19 @@
   "observations": [
    {
     "id": "ORC-ZXLXV34Z3K",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.mtla.2019.100301",
     "measured_in": "ref:7348d518043ab4b5"
    },
    {
     "id": "ORC-YXHAVLOBHQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.mtla.2019.100301",
     "measured_in": "ref:7348d518043ab4b5"
    },
    {
     "id": "ORC-B2WW45SSL5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.mtla.2019.100301",
     "measured_in": "ref:7348d518043ab4b5",
     "caveats": [

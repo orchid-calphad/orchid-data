@@ -271,7 +271,7 @@ _assessment that models this phase_
 - Id: `phase:mg-si:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–930.75 K, x(Si) 0–6e-05
-- Literature: 31 values (31 accepted) from 3 papers
+- Literature: 31 values (30 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-si:hcp-a3)
 
 Names (11): _corpus: _corpus:phase:mg-si:hcp-a3  
@@ -358,7 +358,7 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 910.24–2500 K, x(Si) 0–1
-- Literature: 104 values (104 accepted) from 5 papers
+- Literature: 104 values (102 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-si:liquid)
 
 Names (14): _corpus: _corpus:phase:mg-si:liquid  
@@ -447,7 +447,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaacap and oqmd-17649, space group 225
 - Stoichiometry: Mg 0.6667, Si 0.3333
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1360.67 K, x(Si) 0.33333–0.33333
-- Literature: 124 values (124 accepted) from 3 papers
+- Literature: 124 values (122 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-si:mg2si-c1)
 
 Names (13): _corpus: _corpus:phase:mg-si:mg2si-c1  

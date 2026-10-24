@@ -62,6 +62,7 @@
   "observations": [
    {
     "id": "ORC-KNDE3X332H",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.msea.2005.11.037"
    }
   ],

@@ -173,18 +173,22 @@
   "observations": [
    {
     "id": "ORC-ONN7SO2PHH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.02.001"
    },
    {
     "id": "ORC-T4ZGXC4CRN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.02.001"
    },
    {
     "id": "ORC-VZBQWNANXE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.02.001"
    },
    {
     "id": "ORC-TRBQ545ENB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.02.001"
    }
   ],

@@ -137,7 +137,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.7846, Hf 0.2154
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1388 K, x(Hf) 0.21538–0.21538
-- Literature: 37 values (36 accepted) from 3 papers
+- Literature: 37 values (34 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-hf:cu51hf14)
 
 Names (7): _corpus: _corpus:phase:cu-hf:cu51hf14  

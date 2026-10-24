@@ -62,6 +62,7 @@
   "observations": [
    {
     "id": "ORC-TRA2QN2H35",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11664-015-4272-9",
     "measured_in": "doi:10.1051/metal/190805030110"
    }

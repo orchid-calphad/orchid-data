@@ -108,8 +108,8 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:se-zn:liquid)
 
-Names (5): _corpus: _corpus:phase:se-zn:liquid  
-_paper: _paper:10.1016/j.jallcom.2014.08.001:Liq, paper:10.1016/j.jallcom.2014.08.001:liq, paper:10.1016/j.jallcom.2014.08.001:liquid  
+Names (4): _corpus: _corpus:phase:se-zn:liquid  
+_paper: _paper:10.1016/j.jallcom.2014.08.001:Liq, paper:10.1016/j.jallcom.2014.08.001:liquid  
 _tdb: _tdb:ZnSe-14Che.tdb:LIQUID  
 
 

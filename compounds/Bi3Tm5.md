@@ -1,26 +1,22 @@
 # Bi3Tm5: enthalpy of formation
 
-> Enthalpy of formation of Bi3Tm5: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi3Tm5: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi3Tm5.html · Markdown: https://data.orchid-project.org/compounds/Bi3Tm5.md
 
-8 accepted literature formation-enthalpy value(s) (model 6, DFT 2); Materials Project -59.592 kJ/mol-atom (mp-aaacqtbi); OQMD -60.919 kJ/mol-atom (oqmd-28780).
+4 accepted literature formation-enthalpy value(s) (model 3, DFT 1); Materials Project -59.592 kJ/mol-atom (mp-aaacqtbi); OQMD -60.919 kJ/mol-atom (oqmd-28780).
 
 Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi3Tm5 reported in the literature (8)
+Table: Enthalpy of formation of Bi3Tm5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -73.565 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 21 |  |
-| -73.565 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 21 |  |
-| -68 kJ/mol-atom | Bi3Tm5 |  | model | Miedema model | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 20 |  |
 | -68 kJ/mol-atom | Bi3Tm5 |  | model | Miedema model | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 20 |  |
 | -60.85 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 23 |  |
-| -60.85 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 23 |  |
-| -60.751 kJ/mol-atom | Bi3Tm5 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 22 |  |
 | -60.751 kJ/mol-atom | Bi3Tm5 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 22 |  |
 
 ## DFT formation energies

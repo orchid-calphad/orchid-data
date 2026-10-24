@@ -193,8 +193,8 @@ _assessment that models this phase_
 - Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-in:liquid)
 
-Names (3): _corpus: _corpus:phase:co-in:liquid  
-_paper: _paper:10.1016/s0364-5916(02)00014-7:liq2  
+Names (4): _corpus: _corpus:phase:co-in:liquid  
+_paper: _paper:10.1016/s0364-5916(02)00014-7:liq1, paper:10.1016/s0364-5916(02)00014-7:liq2  
 _tdb: _tdb:CoIn-01Boa-LB.tdb:LIQUID  
 
 

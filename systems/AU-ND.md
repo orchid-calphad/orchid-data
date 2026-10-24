@@ -1,10 +1,10 @@
 # Au–Nd system
 
-> Au–Nd system: 145 accepted literature values (invariant reaction 75, formation 68, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Nd system: 112 accepted literature values (invariant reaction 75, formation 35, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-ND.html · Markdown: https://data.orchid-project.org/systems/AU-ND.md
 
-145 accepted literature values from 2 paper(s) (experimental 43, model 102); 2 calculated phase diagram(s).
+112 accepted literature values from 2 paper(s) (experimental 40, model 72); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ND.json) · [CSV](https://data.orchid-project.org/systems/AU-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ND/AuNd-15Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-ND.html) · [Markdown](https://data.orchid-project.org/systems/AU-ND.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 102 |
+| experimental | 40 |
+| model | 72 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 75 |
 | phase transition | 2 |
-| formation | 68 |
+| formation | 35 |
 
 ## Calculated phase diagrams
 
@@ -146,7 +146,7 @@ Table: Invariant reactions reported in the literature for the Au–Nd system (75
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Nd system (37)
+Table: Enthalpies of formation, Au–Nd system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -162,24 +162,6 @@ Table: Enthalpies of formation, Au–Nd system (37)
 | Nd3Au4 | [Au4Nd3](https://data.orchid-project.org/compounds/Au4Nd3.html) | -69 kJ/mol-atom |  | model | -78.03 (mp-aaaaasxw) | -78.132 (oqmd-94716) | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
 | NdAu6 | [Au6Nd](https://data.orchid-project.org/compounds/Au6Nd.html) | -47.15 kJ/mol-atom |  | model | -40.08 (mp-aaackvxt) | -40.607 (oqmd-1821061) | [2] Moustaine 2016 | Table 2, p. 3, row 19 |  |
 | NdAu6 | [Au6Nd](https://data.orchid-project.org/compounds/Au6Nd.html) | -44.3 kJ/mol-atom |  | model | -40.08 (mp-aaackvxt) | -40.607 (oqmd-1821061) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
-| UNKNOWN |  | -79.1 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | -79 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | -76.9 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
-| UNKNOWN |  | -74.7 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 10 |  |
-| UNKNOWN |  | -74 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | -73.8 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -70.2 kJ/mol-atom ± 3.7 | 298 | experimental |  |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | -69 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
-| UNKNOWN |  | -67.5 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
-| UNKNOWN |  | -60.7 kJ/mol-atom ± 3.7 | 298 | experimental |  |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 12 |  |
-| UNKNOWN |  | -60.63 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
-| UNKNOWN |  | -57.2 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 2 |  |
-| UNKNOWN |  | -55.78 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
-| UNKNOWN |  | -53.8 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | -51.93 kJ/mol-atom | 298 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
-| UNKNOWN |  | -49.3 kJ/mol-atom ± 4.9 | 298 | experimental |  |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 15 |  |
-| UNKNOWN |  | -47.15 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 19 |  |
-| UNKNOWN |  | -44.3 kJ/mol-atom |  | model |  |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
 | αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -79.1 kJ/mol-atom | 298 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
 | αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -74 kJ/mol-atom | 298 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
 | αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -70.2 kJ/mol-atom ± 3.7 | 298 | experimental | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 3 |  |
@@ -199,7 +181,7 @@ Table: Phase transition, Au–Nd system
 | Phase transition | 703 K | 703 | polymorphic: aNdAu 4 bNdAu | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | p. 2 | “These authors confirmed that NdAu has two allotropic transitions aNdAu 4 bNdAu and bNdAu 4 gNdAu which occurs at 703 K and at 1633 K, respectively.” |
 | Phase transition | 1633 K | 1633 | polymorphic: bNdAu 4 gNdAu | experimental | [2] Moustaine 2016; _cites Mcmasters 1971_ | p. 2 | “These authors confirmed that NdAu has two allotropic transitions aNdAu 4 bNdAu and bNdAu 4 gNdAu which occurs at 703 K and at 1633 K, respectively.” |
 
-### Formation (31)
+### Formation (16)
 
 Table: Formation, Au–Nd system
 
@@ -211,15 +193,6 @@ Table: Formation, Au–Nd system
 | Entropy of formation; _printed: ΔSf°_ | 2.9496 J/mol-atom/K |  | Nd3Au4; _alloy: Au 0.571, Nd 0.429_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 10 |  |
 | Entropy of formation; _printed: ΔSf°_ | -11.5 J/mol-atom/K |  | NdAu6; _alloy: Au 0.857, Nd 0.143_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 19 |  |
 | Entropy of formation; _printed: ΔSf°_ | -3.01 J/mol-atom/K |  | NdAu6; _alloy: Au 0.857, Nd 0.143_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
-| Entropy of formation; _printed: ΔSf°_ | 0.709 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.333, Nd 0.667_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 1 |  |
-| Entropy of formation; _printed: ΔSf°_ | -2.5 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.571, Nd 0.429_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
-| Entropy of formation; _printed: ΔSf°_ | -11.5 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.857, Nd 0.143_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 19 |  |
-| Entropy of formation; _printed: ΔSf°_ | -6.81 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.333, Nd 0.667_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 2 |  |
-| Entropy of formation; _printed: ΔSf°_ | 2.9496 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.571, Nd 0.429_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 10 |  |
-| Entropy of formation; _printed: ΔSf°_ | -4.36 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
-| Entropy of formation; _printed: ΔSf°_ | 0.2224 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
-| Entropy of formation; _printed: ΔSf°_ | -3.01 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.857, Nd 0.143_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
-| Entropy of formation; _printed: ΔSf°_ | 1.5076 J/mol-atom/K |  | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
 | Entropy of formation; _printed: ΔSf°_ | -4.36 J/mol-atom/K |  | βNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
 | Entropy of formation; _printed: ΔSf°_ | 0.2224 J/mol-atom/K |  | βNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
 | Entropy of formation; _printed: ΔSf°_ | 1.5076 J/mol-atom/K |  | γNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
@@ -228,12 +201,6 @@ Table: Formation, Au–Nd system
 | Entropy of formation; _printed: ΔSf°_ | -2.76 J/mol-atom/K | 298 | Nd14Au51; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
 | Entropy of formation; _printed: ΔSf°_ | -0.74 J/mol-atom/K | 298 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
 | Entropy of formation; _printed: ΔSf°_ | 5.332 J/mol-atom/K | 298 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
-| Entropy of formation; _printed: ΔSf°_ | -0.74 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
-| Entropy of formation; _printed: ΔSf°_ | -4.7 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔSf°_ | 3.15 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
-| Entropy of formation; _printed: ΔSf°_ | 0.08 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
-| Entropy of formation; _printed: ΔSf°_ | -2.76 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
-| Entropy of formation; _printed: ΔSf°_ | 5.332 J/mol-atom/K | 298 | UNKNOWN; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
 | Entropy of formation; _printed: ΔSf°_ | -4.7 J/mol-atom/K | 298 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
 | Entropy of formation; _printed: ΔSf°_ | 0.08 J/mol-atom/K | 298 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
 

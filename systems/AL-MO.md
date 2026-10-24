@@ -1,10 +1,10 @@
 # Al–Mo system
 
-> Al–Mo system: 252 accepted literature values (invariant reaction 117, formation 42, crystal structure 38, phase equilibrium 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mo system: 239 accepted literature values (invariant reaction 117, crystal structure 38, phase equilibrium 29, formation 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MO.html · Markdown: https://data.orchid-project.org/systems/AL-MO.md
 
-252 accepted literature values from 6 paper(s) (experimental 99, model 86, unspecified 67); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+239 accepted literature values from 6 paper(s) (experimental 100, model 72, unspecified 67); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO.json) · [CSV](https://data.orchid-project.org/systems/AL-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MO/AlMo-09Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MO.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 99 |
-| model | 86 |
+| experimental | 100 |
+| model | 72 |
 | unspecified | 67 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 117 |
 | phase transition | 18 |
 | phase equilibrium | 29 |
-| formation | 42 |
+| formation | 29 |
 | mixing / partial | 8 |
 | crystal structure | 38 |
 
@@ -320,7 +320,7 @@ Table: Invariant reactions reported in the literature for the Al–Mo system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Mo system (42)
+Table: Enthalpies of formation, Al–Mo system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -353,19 +353,6 @@ Table: Enthalpies of formation, Al–Mo system (42)
 | MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -22.2 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012 | Table 3, p. 8, row 4 |  |
 | MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6 |  |
 | MoAl2–C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5 |  |
-| UNKNOWN |  | -23 kJ/mol-atom |  | model |  |  | [6] Guo 2012 | Table 3, p. 8, row 7 |  |
-| UNKNOWN |  | -22.2 kJ/mol-atom |  | model |  |  | [6] Guo 2012 | Table 3, p. 8, row 4 |  |
-| UNKNOWN |  | -22 kJ/mol-atom |  | model |  |  | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 5 |  |
-| UNKNOWN |  | -22 kJ/mol-atom |  | model |  |  | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 8 |  |
-| UNKNOWN |  | -21 kJ/mol-atom |  | model |  |  | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 6 |  |
-| UNKNOWN |  | -21 kJ/mol-atom |  | model |  |  | [5] Liu 2000 | Table 5, p. 8, row 4 |  |
-| UNKNOWN |  | -20 kJ/mol-atom |  | model |  |  | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 5 |  |
-| UNKNOWN |  | -20 kJ/mol-atom |  | model |  |  | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3 |  |
-| UNKNOWN |  | -20 kJ/mol-atom |  | model |  |  | [6] Guo 2012 | Table 3, p. 8, row 1 |  |
-| UNKNOWN |  | -19 kJ/mol-atom |  | model |  |  | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3 |  |
-| UNKNOWN |  | -19 kJ/mol-atom |  | model |  |  | [5] Liu 2000 | Table 5, p. 8, row 2 |  |
-| UNKNOWN |  | -7.3 kJ/mol-atom |  | model |  |  | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 9 |  |
-| UNKNOWN |  | -7.3 kJ/mol-atom |  | model |  |  | [5] Liu 2000 | Table 5, p. 8, row 6 |  |
 
 ## Other properties
 
@@ -389,7 +376,7 @@ Table: Phase transition, Al–Mo system
 | Phase transition | 1540 K | 1540 | other: b + Al8Mo3 / d + h | model | [2] Cupid 2010 | p. 7 | “The LAl;Mo:Ti 1⁄4 L\*:Mo;Ti parameter strongly influenced the b þ Al8Mo3 / d þ h invariant equilibrium, and was used to fit the transition temperature to 1540 K.” |
 | Phase transition | 1540 K | 1540 | other: b þ Al8Mo3 / d þ h | model | [2] Cupid 2010 | p. 9 | “The calculated isothermal sections at 1541 and 1539 K shown in Fig. 6(a) and 6), respectively indicate that the solid state transition reaction b þ Al8Mo3 / d þ h is calculated to take place at 1540 K.” |
 | Phase transition | 1613 K | 1613 | Liquid þ B2 4 bcc þ L12 | experimental | [4] Peng 2016; _cites Maslenkov 1986_ | p. 3 | “The temperature of the invariant reaction U1: Liquid þ B2 4 bcc þ L12 was determined by Maslenkov et al. \[10,11\] as 1613 ± 10 K by DTA.” |
-| Phase transition | 1819 K | 1819 | congruent transformation | model | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5 | “The value of b was assigned to fit the congruent melting of Al8Mo3 at 1819 K measured by Eumann et al. \[43\].” |
+| Phase transition | 1819 K | 1819 | congruent transformation | experimental | [2] Cupid 2010; _cites Eumann 2006_ [doi](https://doi.org/10.3139/146.101412) | p. 5 | “The value of b was assigned to fit the congruent melting of Al8Mo3 at 1819 K measured by Eumann et al. \[43\].” |
 | Phase transition | 1821 K | 1821 | congruent transformation | model | [2] Cupid 2010 | p. 8 | “The congruent melting of Al8Mo3 is calculated at 1821 K, which is in good agreement with the thermal analysis measurements of Schuster and Ipser \[41\] (1828 10 K) and Eumann et al. \[43\] (1819 5 K).” |
 | Phase transition | 2023 K | 2023 | congruent transformation | model | [2] Cupid 2010 | p. 8 | “The b phase melts congruently at 2023 K, which is in excellent agreement with the critical evaluation of Schuster \[42\].” |
 | Phase transition | 2323 K | 2323 | congruent transformation | experimental | [2] Cupid 2010 | p. 2 | “Al3Mo was shown to form peritectically at 1403 K and Al2Mo was shown to melt congruently at z2323 K.” |

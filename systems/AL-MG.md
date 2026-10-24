@@ -1,10 +1,10 @@
 # Al–Mg system
 
-> Al–Mg system: 176 accepted literature values (crystal structure 80, mixing / partial 42, invariant reaction 31, formation 14) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg system: 162 accepted literature values (crystal structure 80, invariant reaction 31, mixing / partial 28, formation 14) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG.html · Markdown: https://data.orchid-project.org/systems/AL-MG.md
 
-176 accepted literature values from 4 paper(s) (experimental 10, model 26, DFT 124, unspecified 16); 10 calculated phase diagram(s).
+162 accepted literature values from 4 paper(s) (experimental 10, model 26, DFT 110, unspecified 16); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MG/AlMg-05Zho.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 10 |
 | model | 26 |
-| DFT | 124 |
+| DFT | 110 |
 | unspecified | 16 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 31 |
 | phase transition | 9 |
 | formation | 14 |
-| mixing / partial | 42 |
+| mixing / partial | 28 |
 | crystal structure | 80 |
 
 ## Calculated phase diagrams
@@ -243,26 +243,12 @@ Table: Phase transition, Al–Mg system
 | Phase transition | 735.15 K | 735.15 | L= γ; _L: Mg 0.54; γ: Mg 0.54_ | experimental | [2] Zuo 1993; _cites ref. 8_ | Table 2, p. 10, row 14 |  |
 | Phase transition | 736.05 K | 736.05 | L= γ; _L: Mg 0.543; γ: Mg 0.543_ | model | [2] Zuo 1993 | Table 2, p. 10, row 13 |  |
 
-### Mixing / partial (42)
+### Mixing / partial (28)
 
 Table: Mixing / partial, Al–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.399 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.14 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | UNKNOWN; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.174 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.525 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0 kJ/mol-atom | 0 | UNKNOWN; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.489 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.146 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.372 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.852 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
-| Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.959 kJ/mol-atom | 0 | UNKNOWN; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
 | Enthalpy of mixing; _printed: Enthalpies of mixing_ | 2.093 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 4 |  |
 | Enthalpy of mixing; _printed: Enthalpies of mixing_ | 1.186 kJ/mol-atom | 0 | fcc; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 6 |  |
 | Enthalpy of mixing; _printed: Enthalpies of mixing_ | 0.394 kJ/mol-atom | 0 | fcc; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 5 |  |

@@ -62,6 +62,7 @@
   "observations": [
    {
     "id": "ORC-OPACHICKJ4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s1359-6462(02)00634-6",
     "measured_in": "ref:8edddf33a8a95737"
    }

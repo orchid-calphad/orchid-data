@@ -1,10 +1,10 @@
 # Nb–Sn system
 
-> Nb–Sn system: 147 accepted literature values (formation 67, invariant reaction 59, heat capacity / entropy / enthalpy 19, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Sn system: 116 accepted literature values (invariant reaction 59, formation 42, heat capacity / entropy / enthalpy 13, mixing / partial 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SN.html · Markdown: https://data.orchid-project.org/systems/NB-SN.md
 
-147 accepted literature values from 2 paper(s) (experimental 65, model 81, unspecified 1); 3 calculated phase diagram(s).
+116 accepted literature values from 2 paper(s) (experimental 56, model 59, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SN.json) · [CSV](https://data.orchid-project.org/systems/NB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SN/NbSn-02Tof.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NB-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SN.html) · [Markdown](https://data.orchid-project.org/systems/NB-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
-| model | 81 |
+| experimental | 56 |
+| model | 59 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 59 |
-| formation | 67 |
+| formation | 42 |
 | mixing / partial | 2 |
-| heat capacity / entropy / enthalpy | 19 |
+| heat capacity / entropy / enthalpy | 13 |
 
 ## Calculated phase diagrams
 
@@ -140,7 +140,7 @@ Table: Invariant reactions reported in the literature for the Nb–Sn system (59
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Sn system (59)
+Table: Enthalpies of formation, Nb–Sn system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -150,7 +150,6 @@ Table: Enthalpies of formation, Nb–Sn system (59)
 | Nb0.545Sn0.455 |  | -2.653 kJ/mol (basis unstated) | 1173 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 1 |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
-| Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
 | Nb3Sn |  | -18.307 kJ/mol (basis unstated) | 860 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
 | Nb3Sn |  | -18.241 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
 | Nb3Sn |  | -17.876 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
@@ -159,19 +158,14 @@ Table: Enthalpies of formation, Nb–Sn system (59)
 | Nb3Sn |  | -16.7 kJ/mol (basis unstated) ± 1.8 | 1623 | experimental |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 6 |  |
 | Nb3Sn |  | -16.57 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 3 |  |
 | Nb3Sn |  | -16.57 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 2 |  |
-| Nb3Sn |  | -16.57 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 2 |  |
 | Nb3Sn |  | -16.564 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
 | Nb3Sn |  | -16.4 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
 | Nb3Sn |  | -16.4 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 80Mie_ | Table 1, p. 1, row 4 |  |
-| Nb3Sn |  | -16.4 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 80Mie_ | Table 1, p. 1, row 4 |  |
 | Nb3Sn |  | -16.19 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 4 |  |
 | Nb3Sn |  | -16.19 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 3 |  |
-| Nb3Sn |  | -16.19 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 3 |  |
-| Nb3Sn |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 1, p. 1, row 5 |  |
 | Nb3Sn |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 1, p. 1, row 5 |  |
 | Nb3Sn |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
 | Nb3Sn |  | -15.2 kJ/mol (basis unstated) ± 2.3 | 1473 | experimental |  |  | [1] Toffolon 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 1, p. 1, row 5 |  |
-| Nb3Sn |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 | Nb3Sn |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 | Nb3Sn |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 | Nb6Sn5 |  | -22 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
@@ -187,38 +181,19 @@ Table: Enthalpies of formation, Nb–Sn system (59)
 | NbSn2 |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
 | NbSn2 |  | -15.495 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002 | Table 4, p. 3, row 5 |  |
 | UNKNOWN |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2 |  |
-| UNKNOWN |  | -18.307 kJ/mol (basis unstated) | 860 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
-| UNKNOWN |  | -18.241 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
-| UNKNOWN |  | -18.21 kJ/mol (basis unstated) ± 0.81 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
-| UNKNOWN |  | -17.876 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
-| UNKNOWN |  | -17.585 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
-| UNKNOWN |  | -17.585 kJ/mol (basis unstated) | 860 | model |  |  | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| UNKNOWN |  | -17.095 kJ/mol (basis unstated) | 1623 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
-| UNKNOWN |  | -16.7 kJ/mol (basis unstated) ± 1.8 | 1623 | experimental |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 6 |  |
-| UNKNOWN |  | -16.57 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 3 |  |
-| UNKNOWN |  | -16.564 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
-| UNKNOWN |  | -16.4 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
-| UNKNOWN |  | -16.19 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 4 |  |
-| UNKNOWN |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
-| UNKNOWN |  | -16 kJ/mol (basis unstated) | 298 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
-| UNKNOWN |  | -15.2 kJ/mol (basis unstated) ± 2.3 | 1473 | experimental |  |  | [1] Toffolon 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 1, p. 1, row 5 |  |
-| UNKNOWN |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 
 ## Other properties
 
-### Formation (8)
+### Formation (5)
 
 Table: Formation, Nb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 298 | NbSn2; _alloy: Sn 0.666667_ | model | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 298 | UNKNOWN | model | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
 | Entropy of formation; _printed: ΔfS_ | -13.58 J/mol (basis unstated)/K ± 2.45 | 860 | Nb3Sn; _alloy: Sn 0.25_ | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -6.87 J/mol (basis unstated)/K ± 0.93 | 860 | NbSn2; _alloy: Sn 0.666667_ | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.87 J/mol (basis unstated)/K ± 0.93 | 860 | UNKNOWN | experimental | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -10.23 J/mol (basis unstated)/K | 860 | UNKNOWN | model | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
 | Entropy of formation; _printed: ΔfS_ | 5.18 J/mol (basis unstated)/K | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
 
 ### Mixing / partial (2)
@@ -230,7 +205,7 @@ Table: Mixing / partial, Nb–Sn system
 | Entropy of mixing; _printed: ΔS experimental_ | -13.58 J/mol (basis unstated)/K ± 2.45 | 860 | Nb3Sn; _alloy: Sn 0.25_ | experimental | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 1 |  |
 | Entropy of mixing; _printed: ΔS experimental_ | -6.87 J/mol (basis unstated)/K ± 0.93 | 860 | NbSn2; _alloy: Sn 0.666667_ | experimental | [1] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1 |  |
 
-### Heat capacity / entropy / enthalpy (19)
+### Heat capacity / entropy / enthalpy (13)
 
 Table: Heat capacity / entropy / enthalpy, Nb–Sn system
 
@@ -240,21 +215,15 @@ Table: Heat capacity / entropy / enthalpy, Nb–Sn system
 | Entropy; _printed: ΔS optimization_ | -2.49 J/mol/at | 298 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
 | Entropy; _printed: ΔS optimization_ | -3.76 unknown | 298 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002 | Table 4, p. 3, row 5 |  |
 | Entropy; _printed: ΔS optimization_ | -10.23 unknown | 298 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
-| Entropy; _printed: ΔS_optimization_ | -2.49 J/mol/at | 298 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
 | Entropy; _printed: ΔS optimization_ | -5.95 J/mol/at | 860 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
 | Entropy; _printed: ΔS optimization_ | -13 unknown | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002 | Table 4, p. 3, row 6 |  |
 | Entropy; _printed: ΔS optimization_ | -10.23 unknown | 860 | NbSn2; _alloy: Sn 0.666667_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
-| Entropy; _printed: ΔS_optimization_ | -5.95 J/mol/at | 860 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
 | Entropy; _printed: ΔS_experimental_ | -13.58 unknown ± 2.45 | 860 | UNKNOWN; _alloy: Sn 0.25_ | experimental | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2 |  |
 | Entropy; _printed: ΔSoptimization_ | -8.12 J/mol/at | 1173 | Nb0.545Sn0.455; _alloy: Sn 0.455_ | model | [1] Toffolon 2002 | Table 3, p. 3, row 4 |  |
 | Entropy; _printed: ΔS optimization_ | -5.89 J/mol/at | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
 | Entropy; _printed: ΔS optimization_ | 5.18 J/mol/at | 1273 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
-| Entropy; _printed: ΔS_optimization_ | -5.89 J/mol/at | 1273 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
-| Entropy; _printed: ΔS_optimization_ | 5.18 J/mol/at | 1273 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 | Entropy; _printed: ΔS optimization_ | -5.63 J/mol/at | 1473 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
-| Entropy; _printed: ΔS_optimization_ | -5.63 J/mol/at | 1473 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
 | Entropy; _printed: ΔS optimization_ | -5.13 J/mol/at | 1623 | Nb3Sn; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
-| Entropy; _printed: ΔS_optimization_ | -5.13 J/mol/at | 1623 | UNKNOWN; _alloy: Sn 0.25_ | model | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
 
 ## Sources
 

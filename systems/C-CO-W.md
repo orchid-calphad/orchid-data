@@ -1,10 +1,10 @@
 # C–Co–W system
 
-> C–Co–W system: 69 accepted literature values (invariant reaction 69) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Co–W system: 70 accepted literature values (invariant reaction 69, activity / EMF / Gibbs energy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CO-W.html · Markdown: https://data.orchid-project.org/systems/C-CO-W.md
 
-69 accepted literature values from 2 paper(s) (experimental 29, model 32, unspecified 8); 0 calculated phase diagram(s).
+70 accepted literature values from 2 paper(s) (experimental 30, model 32, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CO-W.json) · [CSV](https://data.orchid-project.org/systems/C-CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CO-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-CO-W.html) · [Markdown](https://data.orchid-project.org/systems/C-CO-W.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 30 |
 | model | 32 |
 | unspecified | 8 |
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 69 |
+| activity / EMF / Gibbs energy | 1 |
 
 ## Invariant reactions (literature)
 
@@ -97,6 +98,16 @@ Table: Invariant reactions reported in the literature for the C–Co–W system 
 | 1518 | fcc + M6C + graph. + liq. |  | experimental | [2] Guillermet 1989; _cites Uhrenius 1976_ | Table IV, p. 19, row 30 |  |
 | 1497 | fcc + M6C + graph. + L (metastable) |  | model | [1] Markström 2005; _cites Fernandez 1989_ | Table 2, p. 9, row 37 |  |
 | 1497 | fcc + M6C + graph. + liq. |  | model | [2] Guillermet 1989 | Table IV, p. 19, row 31 |  |
+
+## Other properties
+
+### Activity / EMF / Gibbs energy (1)
+
+Table: Activity / EMF / Gibbs energy, C–Co–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Activity; _printed: a(C)_ | 0.2 unspecified | 1423 | fcc + M12C + M6C + WC | experimental | [1] Markström 2005; _cites Johansson 1977_ | p. 5 | “At a carbon activity near 0.2, Johansson (Ref 11) found a four-phase equilibrium between fcc, M12C, M6C, and WC at 1423 K.” |
 
 ## Sources
 

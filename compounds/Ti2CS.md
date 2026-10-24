@@ -1,24 +1,21 @@
 # Ti2CS: enthalpy of formation
 
-> Enthalpy of formation of Ti2CS: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ti2CS: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ti2CS.html · Markdown: https://data.orchid-project.org/compounds/Ti2CS.md
 
-6 accepted literature formation-enthalpy value(s) (model 6).
+3 accepted literature formation-enthalpy value(s) (model 3).
 
 Systems: [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ti2CS reported in the literature (6)
+Table: Enthalpy of formation of Ti2CS reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -130.5 per mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020; _cites ref. 44_ | Table 1, p. 4, row 8 |  |
-| -130.5 per mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020; _cites ref. 44_ | Table 1, p. 4, row 8 |  |
 | -122.1 kJ/mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
-| -122.1 kJ/mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
-| -117.4 per mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020; _cites ref. 43_ | Table 1, p. 4, row 7 |  |
 | -117.4 per mol-atom | Ti4C2S2 | 277.15 | model |  | [C–S–Ti](https://data.orchid-project.org/systems/C-S-TI.html) | [1] Saeki 2020; _cites ref. 43_ | Table 1, p. 4, row 7 |  |
 
 ## Sources

@@ -1,10 +1,10 @@
 # In–Ir system
 
-> In–Ir system: 44 accepted literature values (invariant reaction 35, phase transition 8, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Ir system: 41 accepted literature values (invariant reaction 32, phase transition 8, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-IR.html · Markdown: https://data.orchid-project.org/systems/IN-IR.md
 
-44 accepted literature values from 1 paper(s) (experimental 19, model 17, unspecified 8); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 1 paper(s) (experimental 19, model 15, unspecified 7); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-IR.json) · [CSV](https://data.orchid-project.org/systems/IN-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-IR/InIr-11Ser.json) · [phases (9)](https://data.orchid-project.org/phases/pages/IN-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-IR.html) · [Markdown](https://data.orchid-project.org/systems/IN-IR.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 17 |
-| unspecified | 8 |
+| model | 15 |
+| unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 35 |
+| invariant reaction | 32 |
 | phase transition | 8 |
 | mixing / partial | 1 |
 
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the In–Ir system (35)
+Table: Invariant reactions reported in the literature for the In–Ir system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -80,12 +80,9 @@ Table: Invariant reactions reported in the literature for the In–Ir system (35
 | 634.85 | In2 Ir + In3 Ir-HT -> In3 Ir-LT | In2 Ir: Ir 0.3278; In3 Ir-HT: In 0.75, Ir 0.25; In3 Ir-LT: In 0.75, Ir 0.25; In3 Ir_HT: Ir 0.25; In3 Ir_LT: Ir 0.25; In2Ir: Ir 0.3278; In3Ir_HT: Ir 0.25; In3Ir_LT: Ir 0.25 | model | [1] Servant 2011 | Table 3, p. 5, row 8 |  |
 | 634.15 | In2Ir + In3Ir_HT ⇔ In3Ir_LT | In2Ir: Ir 0.3208; In3Ir_HT: Ir 0.25; In3Ir_LT: Ir 0.25 | model | [1] Servant 2011 | Table 5, p. 6, row 7 |  |
 | 625.15 | In3 Ir-HT -> Liq + In3 Ir-LT | In3 Ir-HT: In 0.75, Ir 0.25; In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 5 |  |
-| 620.75 | In3Ir-HT ⇔ Liq + In3Ir-LT | Liq: Ir 1.800e-5; In3Ir-LT: Ir 0.24; In3Ir_HT: Ir 0.2366; In3Ir_LT: Ir 0.24 | model | [1] Servant 2011 | Table 5, p. 6, row 5 |  |
 | 620.15 | In3 Ir-HT -> Liq + In3 Ir-LT | In3 Ir-HT: Ir 0.2386; Liq: Ir 3.700e-5; In3 Ir-LT: Ir 0.2425; In3Ir_LT: Ir 0.2425; In3Ir_HT: Ir 0.2386 | model | [1] Servant 2011 | Table 3, p. 5, row 6 |  |
 | 620.15 | In3 Ir-HT -> Liq + In3 Ir-LT | In3 Ir-HT: In 0.75, Ir 0.25; In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 3, p. 5, row 4 |  |
-| 620.15 | In3Ir-HT ⇔ Liq + In3Ir-LT | In3Ir-HT: In 0.75, Ir 0.25; In3Ir-LT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 4 |  |
 | 429.95 | Liq ⇔ In + In3Ir-LT | Liq: Ir 0; In: Ir 0; In3Ir-LT: Ir 0.2382; In3Ir_LT: Ir 0.2382 | model | [1] Servant 2011 | Table 5, p. 6, row 3 |  |
-| 429.95 | Liq -> In + In3 Ir-LT | Liq: Ir 0; In: Ir 0; In3 Ir-LT: Ir 0.2424; In3Ir_LT: Ir 0.2424 | model | [1] Servant 2011 | Table 3, p. 5, row 3 |  |
 | 429.79 | Liq ⇔ In + In3Ir-LT | In3Ir-LT: In 0.75, Ir 0.25 | unspecified | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 5, p. 6, row 2 |  |
 | 429.79 | Liq -> In + In3 Ir-LT | In3 Ir-LT: In 0.75, Ir 0.25 | experimental | [1] Servant 2011; _cites Anres 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900507-1) | Table 3, p. 5, row 2 |  |
 | 429.15 | Liq ⇔ In + In3Ir-LT |  | unspecified | [1] Servant 2011; _cites Flandorfer 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900287-6) | Table 5, p. 6, row 1 |  |

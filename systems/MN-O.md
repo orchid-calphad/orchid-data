@@ -1,10 +1,10 @@
 # Mn–O system
 
-> Mn–O system: 356 accepted literature values (activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O system: 343 accepted literature values (activity / EMF / Gibbs energy 113, formation 90, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O.html · Markdown: https://data.orchid-project.org/systems/MN-O.md
 
-356 accepted literature values from 2 paper(s) (experimental 176, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+343 accepted literature values from 2 paper(s) (experimental 169, model 160, unspecified 14); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O.json) · [CSV](https://data.orchid-project.org/systems/MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-O/MnO-03Gru-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/MN-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-O.html) · [Markdown](https://data.orchid-project.org/systems/MN-O.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 176 |
-| model | 162 |
-| unspecified | 18 |
+| experimental | 169 |
+| model | 160 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 53 |
 | phase transition | 17 |
-| formation | 103 |
+| formation | 90 |
 | mixing / partial | 1 |
 | heat capacity / entropy / enthalpy | 69 |
 | activity / EMF / Gibbs energy | 113 |
@@ -129,7 +129,7 @@ Table: Invariant reactions reported in the literature for the Mn–O system (53)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mn–O system (103)
+Table: Enthalpies of formation, Mn–O system (90)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -199,19 +199,6 @@ Table: Enthalpies of formation, Mn–O system (103)
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -197.534 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003 | Table 11, p. 16, row 69 |  |
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.78 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 59 |  |
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.181 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 58 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 196.181 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Le 1896_ | Table 1, p. 5, row 1 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 196.78 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 1, p. 5, row 2 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 197.534 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Grundy 2003_ | Table 1, p. 5, row 12 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 197.914 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010 | Table 1, p. 5, row 13 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.014 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Knacke 2010_ | Table 1, p. 5, row 10 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.156 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Mah 1960_ | Table 1, p. 5, row 7 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.2 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | Table 1, p. 5, row 11 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.216 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Robie 1968_ | Table 1, p. 5, row 8 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.364 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 1, p. 5, row 6 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.397 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 9 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 201.206 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Ulich 1940_ | Table 1, p. 5, row 5 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 201.266 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Siemonsen 1939_ | Table 1, p. 5, row 4 |  |
-| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 206.35 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 1, p. 5, row 3 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 82 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 81 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174.73 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 79 |  |

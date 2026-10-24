@@ -1,10 +1,10 @@
 # Al–C system
 
-> Al–C system: 76 accepted literature values (formation 37, phase transition 26, invariant reaction 6, activity / EMF / Gibbs energy 4) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–C system: 75 accepted literature values (formation 39, phase transition 26, invariant reaction 6, activity / EMF / Gibbs energy 4) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-C.html · Markdown: https://data.orchid-project.org/systems/AL-C.md
 
-76 accepted literature values from 5 paper(s) (experimental 39, model 34, DFT 3); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+75 accepted literature values from 5 paper(s) (experimental 39, model 33, DFT 3); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C.json) · [CSV](https://data.orchid-project.org/systems/AL-C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-C/AlC-04Oht.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-C.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-C.html) · [Markdown](https://data.orchid-project.org/systems/AL-C.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 39 |
-| model | 34 |
+| model | 33 |
 | DFT | 3 |
 
 Table: Accepted values by property group
@@ -22,8 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 26 |
-| formation | 37 |
-| heat capacity / entropy / enthalpy | 3 |
+| formation | 39 |
 | activity / EMF / Gibbs energy | 4 |
 
 ## Calculated phase diagrams
@@ -159,12 +158,14 @@ Table: Phase transition, Al–C system
 | Phase transition | 4765 K | 4765 |  | model | [2] He 2021 | p. 3 | “Bigdeli et al. \[15\] chose to trust a lower melting temperature (4130 K) compared to the one previously recommended by Gustafson \[16\] (4765 K).” |
 | Phase transition | 4765 K | 4765 | graphite + liquid | model | [2] He 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2 | “A lower melting point (4130 K) of graphite was selected in their work compared to the one used in the SGTE compilation of the elements (4765 K) \[11\] based on the assessment by Gustafson \[16\].” |
 
-### Formation (12)
+### Formation (14)
 
 Table: Formation, Al–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: entropy of formation_ | 88.97 J.K-1.mol-1 | 298 |  | model | [3] Deffrennes 2019; _cites Pisch 2019_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
+| Entropy of formation; _printed: entropy of formation_ | 89.12 J.K-1.mol-1 | 298 |  | experimental | [3] Deffrennes 2019; _cites Saba 1962_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
 | Entropy of formation; _printed: ΔfS°298.15 K_ | 89.1 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [3] Deffrennes 2019 | Table 7, p. 14, row 6 |  |
 | Entropy of formation; _printed: Standard entropy of formation at 298.15 K_ | 89.1 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [2] He 2021; _cites Deffrennes 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101648) | Table 5, p. 12, row 5 |  |
 | Entropy of formation; _printed: ΔfS°298.15 K_ | 87.4 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [3] Deffrennes 2019; _cites ref. 14_ | Table 7, p. 14, row 3 |  |
@@ -177,16 +178,6 @@ Table: Formation, Al–C system
 | Entropy of formation; _printed: Standard entropy of formation at 298.15 K_ | 88.97 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | experimental | [2] He 2021; _cites Saba 1962_ | Table 5, p. 12, row 2 |  |
 | Entropy of formation; _printed: ΔfS°298.15 K_ | 89.1 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | experimental | [3] Deffrennes 2019; _cites Saba 1962_ | Table 7, p. 14, row 1 |  |
 | Entropy of formation; _printed: Standard entropy of formation at 298.15 K_ | 89 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [2] He 2021; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 5, p. 12, row 4 |  |
-
-### Heat capacity / entropy / enthalpy (3)
-
-Table: Heat capacity / entropy / enthalpy, Al–C system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: entropy of formation_ | 88.97 J.K-1.mol-1 | 298 |  | model | [3] Deffrennes 2019; _cites Pisch 2019_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
-| Entropy; _printed: entropy of formation_ | 88.97 J.K-1.mol-1 | 298 |  | model | [3] Deffrennes 2019; _cites Furukawa 1965_ [doi](https://doi.org/10.6028/jres.069a.045) | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
-| Entropy; _printed: entropy of formation_ | 89.12 J.K-1.mol-1 | 298 |  | experimental | [3] Deffrennes 2019; _cites Saba 1962_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
 
 ### Activity / EMF / Gibbs energy (4)
 

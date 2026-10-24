@@ -1,10 +1,10 @@
 # Bi–Gd system
 
-> Bi–Gd system: 24 accepted literature values (invariant reaction 22, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Gd system: 26 accepted literature values (invariant reaction 22, formation 2, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-GD.html · Markdown: https://data.orchid-project.org/systems/BI-GD.md
 
-24 accepted literature values from 1 paper(s) (experimental 6, model 12, unspecified 6); 1 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 6, model 13, DFT 1, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD.json) · [CSV](https://data.orchid-project.org/systems/BI-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GD/BiGd-13Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-GD.html) · [Markdown](https://data.orchid-project.org/systems/BI-GD.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 12 |
+| model | 13 |
+| DFT | 1 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -22,6 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 22 |
 | phase transition | 2 |
+| formation | 2 |
 
 ## Calculated phase diagrams
 
@@ -84,6 +86,17 @@ Table: Invariant reactions reported in the literature for the Bi–Gd system (22
 | 542 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.985; GdBi2: Bi 0.666667, Gd 0.333333 | unspecified | [1] Wang 2013; _cites Abulkhaev 1993_ | Table 1, p. 2, row 11 |  |
 | 541 | eutectic |  | model | [1] Wang 2013 | p. 4 | “The eutectic reaction temperatures for L2Fcc_A1 (Gd)þGd5Bi3 and L2Rhomb (Bi)þGdBi2 are 1353 and 541 K, respectively.” |
 | 541 | eutectic: L -> GdBi2 + Rhomb_A7 (Bi) | L: Bi 0.989; GdBi2: Bi 0.666667, Gd 0.333333 | model | [1] Wang 2013 | Table 1, p. 2, row 12 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Gd system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| GdBi2(EuBi2) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
+| GdBi2(EuBi2) |  | -54.0316 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
 
 ## Other properties
 

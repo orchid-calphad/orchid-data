@@ -115,16 +115,19 @@
   "observations": [
    {
     "id": "ORC-FNENSPS4V2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497101770332965",
     "measured_in": "ref:7adee1083e052a80"
    },
    {
     "id": "ORC-IT2T7TGD67",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497101770332965",
     "measured_in": "ref:7adee1083e052a80"
    },
    {
     "id": "ORC-JSHKDZ7HPC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497101770332965",
     "measured_in": "ref:7adee1083e052a80"
    }

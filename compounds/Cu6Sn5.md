@@ -1,24 +1,22 @@
 # Cu6Sn5: enthalpy of formation
 
-> Enthalpy of formation of Cu6Sn5: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Cu6Sn5: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cu6Sn5.html · Markdown: https://data.orchid-project.org/compounds/Cu6Sn5.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 3, model 3); experimental median -7.033 kJ/mol-atom (n = 3); Materials Project -1.267 kJ/mol-atom (mp-aaaaabvl); OQMD -5.877 kJ/mol-atom (oqmd-18303).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -6.566 kJ/mol-atom (n = 2); Materials Project -1.267 kJ/mol-atom (mp-aaaaabvl); OQMD -5.877 kJ/mol-atom (oqmd-18303).
 
 Systems: [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cu6Sn5 reported in the literature (6)
+Table: Enthalpy of formation of Cu6Sn5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -7.033 kJ/mol-atom | η′ (Cu6Sn5_L) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
-| -7.033 kJ/mol-atom | η' (Cu6Sn5_L) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Gangulee 1973_ [doi](https://doi.org/10.1007/bf02643268) | Table 3, p. 8, row 11 |  |
 | -6.1 kJ/mol-atom | η (Cu6Sn5_H) | 298 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 13 |  |
 | -7.13 kJ/mol-atom | η' (Cu6Sn5_L) | 273 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 12 |  |
-| -7.13 kJ/mol-atom | η′ (Cu6Sn5_L) | 273 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 12 |  |
 | -6.6 kJ/mol-atom | η (Cu6Sn5_H) | 298 | model |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013 | Table 3, p. 8, row 14 |  |
 
 ## DFT formation energies

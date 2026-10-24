@@ -1,20 +1,19 @@
 # AgEr: enthalpy of formation
 
-> Enthalpy of formation of AgEr: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of AgEr: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AgEr.html · Markdown: https://data.orchid-project.org/compounds/AgEr.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1); experimental median -44.9 kJ/mol-atom (n = 2); Materials Project -33.42 kJ/mol-atom (mp-aaaaadwv); OQMD -33.553 kJ/mol-atom (oqmd-10623).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -44.9 kJ/mol-atom (n = 1); Materials Project -33.42 kJ/mol-atom (mp-aaaaadwv); OQMD -33.553 kJ/mol-atom (oqmd-10623).
 
 Systems: [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AgEr reported in the literature (4)
+Table: Enthalpy of formation of AgEr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.9 kJ/mol-atom ± 3.2 | AgEr | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Pierre 1973_ | Table 1, p. 3, row 20 |  |
 | -44.9 kJ/mol-atom ± 3.2 | AgEr | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Pierre 1973_ | Table 1, p. 3, row 20 |  |
 | -44 kJ/mol-atom | AgEr |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 21 |  |
 | -34.488 kJ/mol-atom | AgEr | 298 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 19 |  |

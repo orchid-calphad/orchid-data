@@ -1,20 +1,19 @@
 # Bi2K3: enthalpy of formation
 
-> Enthalpy of formation of Bi2K3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi2K3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi2K3.html · Markdown: https://data.orchid-project.org/compounds/Bi2K3.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -39.5 kJ/mol-atom (n = 1); Materials Project -31.875 kJ/mol-atom (mp-aaacqqwr); OQMD -33.986 kJ/mol-atom (oqmd-1435539).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -31.875 kJ/mol-atom (mp-aaacqqwr); OQMD -33.986 kJ/mol-atom (oqmd-1435539).
 
 Systems: [Bi–K](https://data.orchid-project.org/systems/BI-K.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi2K3 reported in the literature (2)
+Table: Enthalpy of formation of Bi2K3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.5 kJ/mol-atom ± 2.2 | Bi2K3 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
 | -43.2 kJ/mol-atom | Bi2K3 | 523 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 14 |  |
 
 ## DFT formation energies

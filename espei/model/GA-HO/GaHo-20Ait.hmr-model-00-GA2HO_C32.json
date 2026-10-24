@@ -1,0 +1,195 @@
+{
+ "components": [
+  "GA",
+  "HO",
+  "VA"
+ ],
+ "phases": [
+  "GA2HO_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -72000.0,
+    -71000.0,
+    -69040.0
+   ]
+  ]
+ ],
+ "reference": "Boukideur 2020, doi:10.1007/s10973-019-08689-5",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P3CDM2JKRO.68d6de ORC-MWINCMIK2B.093f41 ORC-Z3LF4MV5BH.66ad1b",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GaHo-20Ait.tdb",
+   "path": "databases/sgte-binary/GaHo-20Ait.tdb",
+   "sha256": "97e610d6cbfd4c808bdb0f02491ee357f8c16a9ca0ce2eeb65a702f2af234d9d",
+   "catalog_entry": {
+    "name": "GaHo-20Ait.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10973-019-08689-5",
+   "doi": "10.1007/s10973-019-08689-5",
+   "citation": {
+    "authors": "see doi",
+    "title": "S. Kardellass, J. Therm. Anal. Calorim., 139, 3623-33(2020).",
+    "year": "2020"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "boukideur2020_4d5d66",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-P3CDM2JKRO.68d6de",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-P3CDM2JKRO.68d6de"
+    ]
+   },
+   {
+    "id": "ORC-MWINCMIK2B.093f41",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-MWINCMIK2B.093f41"
+    ]
+   },
+   {
+    "id": "ORC-Z3LF4MV5BH.66ad1b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-Z3LF4MV5BH.66ad1b"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-019-08689-5"
+  ],
+  "dois": [
+   "10.1007/s10973-019-08689-5"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GaHo-20Ait/hmr-model-00.json",
+  "values_dropped": 17
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GA2HO_C32"
+  ],
+  "basis": {
+   "printed_labels": 3
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GaHo-20Ait.tdb",
+   "path": "databases/sgte-binary/GaHo-20Ait.tdb",
+   "sha256": "97e610d6cbfd4c808bdb0f02491ee357f8c16a9ca0ce2eeb65a702f2af234d9d",
+   "phase": "GA2HO_C32",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GA",
+    "HO"
+   ],
+   [
+    "GA",
+    "HO"
+   ],
+   [
+    "GA",
+    "HO"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-P3CDM2JKRO.68d6de",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-MWINCMIK2B.093f41",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-Z3LF4MV5BH.66ad1b",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

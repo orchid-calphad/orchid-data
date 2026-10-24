@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/N-TI.html · Markdown: https://data.orchid-project.org/systems/N-TI.md
 
-25 accepted literature values from 4 paper(s) (experimental 5, model 20); 0 calculated phase diagram(s).
+25 accepted literature values from 4 paper(s) (experimental 6, model 19); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-TI.json) · [CSV](https://data.orchid-project.org/systems/N-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-TI) · [phases (10)](https://data.orchid-project.org/phases/pages/N-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-TI.html) · [Markdown](https://data.orchid-project.org/systems/N-TI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 20 |
+| experimental | 6 |
+| model | 19 |
 
 Table: Accepted values by property group
 
@@ -81,7 +81,7 @@ Table: Other property, N–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: heat of combustion_ | -40.235 kcal/mole | 298 |  | model | [3] Ohtani 1990 | p. 6 | “The heat of combustion of stoichiometric TiN was determined by Neumann et a1.(26) and Humphrey(27) who gave the values of -4O.l5kcal/mole and -40.235kcal/mole at 298K, respectively.” |
+| Other; _printed: heat of combustion_ | -40.235 kcal/mole | 298 |  | experimental | [3] Ohtani 1990 | p. 6 | “The heat of combustion of stoichiometric TiN was determined by Neumann et a1.(26) and Humphrey(27) who gave the values of -4O.l5kcal/mole and -40.235kcal/mole at 298K, respectively.” |
 
 ## Sources
 

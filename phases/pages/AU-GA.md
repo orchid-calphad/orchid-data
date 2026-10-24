@@ -124,8 +124,8 @@ _cited as the source of values for this phase_
 - Literature: 44 values (39 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ga:au7ga2-ht)
 
-Names (10): _corpus: _corpus:phase:au-ga:au7ga2-ht  
-_paper: _paper:10.1007/s11669-017-0543-x:β-Au7Ga2, paper:10.1016/j.calphad.2010.10.009:β-Au7Ga2, paper:10.1016/j.calphad.2010.10.009:β′-Au7Ga2, paper:10.1016/j.jallcom.2010.08.044:β'Au7Ga2, paper:10.1016/j.jallcom.2010.08.044:βAu7Ga2, paper:10.1016/j.jallcom.2010.08.044:β′Au7Ga2  
+Names (9): _corpus: _corpus:phase:au-ga:au7ga2-ht  
+_paper: _paper:10.1007/s11669-017-0543-x:β-Au7Ga2, paper:10.1016/j.calphad.2010.10.009:β-Au7Ga2, paper:10.1016/j.calphad.2010.10.009:β′-Au7Ga2, paper:10.1016/j.jallcom.2010.08.044:β'Au7Ga2, paper:10.1016/j.jallcom.2010.08.044:βAu7Ga2  
 _tdb: _tdb:AuGa-10Liu.tdb:AU7GA2_HT, tdb:AuGa-11Wan.tdb:AU7GA2_HT, tdb:AuGa-17Jen.tdb:AU7GA2_HT  
 
 

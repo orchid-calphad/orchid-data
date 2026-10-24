@@ -59,13 +59,13 @@ Table: Phase equilibrium, Pb–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 1050 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9978, Si 0.0022; L (Pb-rich liquidus): Pb 0.9978, Si 0.0022_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 7 |  |
-| Phase composition |  | 1076 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9975, Si 0.0025; L (Pb-rich liquidus): Pb 0.9975, Si 0.0025_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 6 |  |
-| Phase composition |  | 1100 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9964, Si 0.0036; L (Pb-rich liquidus): Pb 0.9964, Si 0.0036_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 5 |  |
-| Phase composition |  | 1150 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9954, Si 0.0046; L (Pb-rich liquidus): Pb 0.9954, Si 0.0046_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 4 |  |
-| Phase composition |  | 1202 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9926, Si 0.0074; L (Pb-rich liquidus): Pb 0.9926, Si 0.0074_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 3 |  |
-| Phase composition |  | 1250 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9888, Si 0.0112; L (Pb-rich liquidus): Pb 0.9888, Si 0.0112_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 2 |  |
-| Phase composition |  | 1420 | Si-rich liquidus + Pb-rich liquidus + L (Si-rich liquidus) + L (Pb-rich liquidus); _Si-rich liquidus: Pb 0.021, Si 0.979; Pb-rich liquidus: Pb 0.968, Si 0.032; L (Si-rich liquidus): Pb 0.021, Si 0.979; L (Pb-rich liquidus): Pb 0.968, Si 0.032_ | experimental | [1] Olesinski 1984; _cites Kirkwood 1961_ [doi](https://doi.org/10.1021/j100824a528) | Table 1, p. 2, row 1 |  |
+| Phase composition |  | 1323.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9978, Si 0.0022; L (Pb-rich liquidus): Pb 0.9978, Si 0.0022_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 7 |  |
+| Phase composition |  | 1349.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9975, Si 0.0025; L (Pb-rich liquidus): Pb 0.9975, Si 0.0025_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 6 |  |
+| Phase composition |  | 1373.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9964, Si 0.0036; L (Pb-rich liquidus): Pb 0.9964, Si 0.0036_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 5 |  |
+| Phase composition |  | 1423.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9954, Si 0.0046; L (Pb-rich liquidus): Pb 0.9954, Si 0.0046_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 4 |  |
+| Phase composition |  | 1475.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9926, Si 0.0074; L (Pb-rich liquidus): Pb 0.9926, Si 0.0074_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 3 |  |
+| Phase composition |  | 1523.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9888, Si 0.0112; L (Pb-rich liquidus): Pb 0.9888, Si 0.0112_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 2 |  |
+| Phase composition |  | 1693.15 | Si-rich liquidus + Pb-rich liquidus + L (Si-rich liquidus) + L (Pb-rich liquidus); _Si-rich liquidus: Pb 0.021, Si 0.979; Pb-rich liquidus: Pb 0.968, Si 0.032; L (Si-rich liquidus): Pb 0.021, Si 0.979; L (Pb-rich liquidus): Pb 0.968, Si 0.032_ | experimental | [1] Olesinski 1984; _cites Kirkwood 1961_ [doi](https://doi.org/10.1021/j100824a528) | Table 1, p. 2, row 1 |  |
 
 ### Crystal structure (2)
 

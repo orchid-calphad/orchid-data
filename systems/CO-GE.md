@@ -199,38 +199,38 @@ Table: Enthalpies of formation, Co–Ge system (57)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CoGe |  | -22758 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
-| CoGe |  | -21847 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
-| CoGe |  | -15943 per mol-atom ± 946 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
+| CoGe |  | -22.758 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
+| CoGe |  | -21.847 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.752 kJ/mol-atom | 1060 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 6, p. 5, row 16 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.394 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -20.991 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -15.943 kJ/mol-atom | 1060 | experimental | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
-| CoGe2 |  | -16579 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 27 |  |
-| CoGe2 |  | -16241 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 26 |  |
-| CoGe2 |  | -11800 per mol-atom ± 1274 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 25 |  |
+| CoGe |  | -15.943 per mol-atom ± 946 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
+| CoGe2 |  | -16.579 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 27 |  |
+| CoGe2 |  | -16.241 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 26 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.836 kJ/mol-atom | 1060 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 6, p. 5, row 18 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.343 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -14.874 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| CoGe2 |  | -11.8 per mol-atom ± 1274 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 25 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -11.8 kJ/mol-atom | 1060 | experimental | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 17 |  |
-| α(Co) |  | -4022 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 8 |  |
-| α(Co) |  | -3914 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 9 |  |
-| α(Co) |  | -3252 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 5 |  |
-| α(Co) |  | -3176 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 6 |  |
-| α(Co) |  | -2355 per mol-atom ± 701 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 7 |  |
-| α(Co) |  | -1969 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 2 |  |
-| α(Co) |  | -1927 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 3 |  |
-| α(Co) |  | -1710 per mol-atom ± 223 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 4 |  |
-| α(Co) |  | -1089 per mol-atom ± 149 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 1 |  |
+| α(Co) |  | -4.022 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 8 |  |
+| α(Co) |  | -3.914 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 9 |  |
+| α(Co) |  | -3.252 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 5 |  |
+| α(Co) |  | -3.176 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 6 |  |
 | α(Co) |  | -2.797 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 6 |  |
 | α(Co) |  | -2.448 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 4 |  |
+| α(Co) |  | -2.355 per mol-atom ± 701 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 7 |  |
 | α(Co) |  | -2.355 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 5 |  |
+| α(Co) |  | -1.969 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 2 |  |
+| α(Co) |  | -1.927 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 3 |  |
 | α(Co) |  | -1.71 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 3 |  |
+| α(Co) |  | -1.71 per mol-atom ± 223 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 4 |  |
 | α(Co) |  | -1.327 kJ/mol-atom | 1060 | model |  |  | [3] Dong 2013 | Table 6, p. 5, row 2 |  |
+| α(Co) |  | -1.089 per mol-atom ± 149 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 1 |  |
 | α(Co) |  | -1.089 kJ/mol-atom | 1060 | experimental |  |  | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 1 |  |
-| α(Co) + βCo5Ge3 |  | -15844 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 12 |  |
-| α(Co) + βCo5Ge3 |  | -13797 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 11 |  |
-| α(Co) + βCo5Ge3 |  | -13697 per mol-atom ± 870 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
+| α(Co) + βCo5Ge3 |  | -15.844 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 12 |  |
+| α(Co) + βCo5Ge3 |  | -13.797 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 11 |  |
+| α(Co) + βCo5Ge3 |  | -13.697 per mol-atom ± 870 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
 | α(Co) + βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.697 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 7 |  |
 | α(Co) + βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.161 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 8 |  |
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -15.844 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [2] Zeng 2019 | Table 4, p. 9, row 12 |  |
@@ -238,24 +238,24 @@ Table: Enthalpies of formation, Co–Ge system (57)
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.697 kJ/mol-atom ± 0.87 | 1060 | experimental |  | -16.532 (oqmd-1437178) | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.697 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 7 |  |
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.161 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 8 |  |
-| βCo5Ge3 |  | -20136 per mol-atom ± 1179 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 19 |  |
-| βCo5Ge3 |  | -18381 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 18 |  |
-| βCo5Ge3 |  | -18160 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 20 |  |
-| βCo5Ge3 |  | -17237 per mol-atom ± 845 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 16 |  |
-| βCo5Ge3 |  | -17185 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 15 |  |
-| βCo5Ge3 |  | -16665 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 17 |  |
-| βCo5Ge3 |  | -15868 per mol-atom ± 1104 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 13 |  |
-| βCo5Ge3 |  | -15124 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 14 |  |
-| βCo5Ge3 |  | -10994 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 21 |  |
+| βCo5Ge3 |  | -20.136 per mol-atom ± 1179 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 19 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -20.136 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19.6 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Kleppa 1990_ | Table 5, p. 4, row 6 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 4, row 7 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.665 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 14 |  |
+| βCo5Ge3 |  | -18.381 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 18 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.279 kJ/mol-atom | 298 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 5, p. 4, row 8 |  |
+| βCo5Ge3 |  | -18.16 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 20 |  |
+| βCo5Ge3 |  | -17.237 per mol-atom ± 845 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 16 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -17.237 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
+| βCo5Ge3 |  | -17.185 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 15 |  |
+| βCo5Ge3 |  | -16.665 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 17 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -16.171 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 12 |  |
+| βCo5Ge3 |  | -15.868 per mol-atom ± 1104 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 13 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -15.868 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 9 |  |
+| βCo5Ge3 |  | -15.124 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 14 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -14.314 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 10 |  |
+| βCo5Ge3 |  | -10.994 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 21 |  |
 
 ## Other properties
 

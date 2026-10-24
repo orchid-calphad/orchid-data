@@ -1,10 +1,10 @@
 # Ag–Te system
 
-> Ag–Te system: 26 accepted literature values (invariant reaction 15, formation 10, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Te system: 25 accepted literature values (invariant reaction 14, formation 10, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-TE.html · Markdown: https://data.orchid-project.org/systems/AG-TE.md
 
-26 accepted literature values from 1 paper(s) (experimental 12, model 14); 4 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 11, model 14); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TE.json) · [CSV](https://data.orchid-project.org/systems/AG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TE/AgTe-04Kor-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/AG-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-TE.html) · [Markdown](https://data.orchid-project.org/systems/AG-TE.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 14 |
 | phase transition | 1 |
 | formation | 10 |
 
@@ -77,7 +77,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Te system (15)
+Table: Invariant reactions reported in the literature for the Ag–Te system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -85,7 +85,6 @@ Table: Invariant reactions reported in the literature for the Ag–Te system (15
 | 1233 | L -> γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.333 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 6 |  |
 | 1155 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.32 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 1 |  |
 | 1154 | L2 -> L1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.303 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 2 |  |
-| 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.125 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 4 |  |
 | 1142 | L -> FCC_A1 + γAg2Te | γAg2Te: Ag 0.666667, Te 0.333333; reactive phase: Te 0.092 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 3 |  |
 | 733 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333; reactive phase: Te 0.345 | experimental | [1] Gierlotka 2009; _cites Kracek 1966_ | Table 3, p. 4, row 8 |  |
 | 724 | βAg2Te + L -> γ | βAg2Te: Ag 0.666667, Te 0.333333; γ: Ag 0.666667, Te 0.333333; reactive phase: Te 0.345 | model | [1] Gierlotka 2009 | Table 3, p. 4, row 7 |  |

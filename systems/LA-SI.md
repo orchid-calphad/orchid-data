@@ -1,10 +1,10 @@
 # La–Si system
 
-> La–Si system: 33 accepted literature values (invariant reaction 27, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Si system: 32 accepted literature values (invariant reaction 26, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SI.html · Markdown: https://data.orchid-project.org/systems/LA-SI.md
 
-33 accepted literature values from 2 paper(s) (experimental 20, model 13); 2 calculated phase diagram(s).
+32 accepted literature values from 2 paper(s) (experimental 20, model 12); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SI/LaSi-10Zho.json) · [phases (13)](https://data.orchid-project.org/phases/pages/LA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-SI.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 13 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 26 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -84,7 +84,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Si system (27)
+Table: Invariant reactions reported in the literature for the La–Si system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -111,7 +111,6 @@ Table: Invariant reactions reported in the literature for the La–Si system (27
 | 1088 | metatectic/catatectic: BCC -> FCC + L |  | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 1 |  |
 | 1088 | metatectic/catatectic: BCC -> FCC + L | L: Si 0.07461 | model | [1] Zhou 2010 | Table 3, p. 5, row 2 |  |
 | 1083.15 | eutectic: L⇌ (C) + SiC + La3Si2C2 |  | model | [2] Xu 2020 | p. 9 | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
-| 1083.15 | eutectic |  | model | [2] Xu 2020 | p. 1 | “In the SiC-RE3Si2C2 core-shell structures, the RE3Si2C2 phases can react with SiC via ternary eutectic reactions at 810°C, 747°C, and 1148°C respectively.” |
 | 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.11; La5Si3: La 0.625, Si 0.375 | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 3, p. 5, row 3 |  |
 | 995 | eutectic: L -> FCC + La5Si3 | L: Si 0.121; La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 4 |  |
 | 540 | eutectoid: FCC -> La5Si3 + DHCP | La5Si3: La 0.625, Si 0.375 | model | [1] Zhou 2010 | Table 3, p. 5, row 5 |  |

@@ -388,61 +388,73 @@
   "observations": [
    {
     "id": "ORC-RCUI47LTAX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-DC655CDVSG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-7OPMC4CQIO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-RC23HBHO6E",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-G2A2IB6XOL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-5VIJ7J7CVD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-36ON32FBOO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-U5DFG7BXTZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-ZV7P52AFLA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-ZC2Q5QDWJR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-PQRL42YYBC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    },
    {
     "id": "ORC-QPVGLARUSI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11661-002-0173-7",
     "measured_in": "ref:29a5586709bcad9e"
    }

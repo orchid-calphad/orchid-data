@@ -1,10 +1,10 @@
 # Ge–Hf system
 
-> Ge–Hf system: 135 accepted literature values (crystal structure 51, formation 41, invariant reaction 27, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Hf system: 115 accepted literature values (crystal structure 51, invariant reaction 27, formation 21, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-HF.html · Markdown: https://data.orchid-project.org/systems/GE-HF.md
 
-135 accepted literature values from 1 paper(s) (experimental 73, model 28, DFT 14, unspecified 20); 1 calculated phase diagram(s).
+115 accepted literature values from 1 paper(s) (experimental 68, model 21, DFT 7, unspecified 19); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-HF.html) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 73 |
-| model | 28 |
-| DFT | 14 |
-| unspecified | 20 |
+| experimental | 68 |
+| model | 21 |
+| DFT | 7 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 27 |
 | phase transition | 1 |
 | phase equilibrium | 15 |
-| formation | 41 |
+| formation | 21 |
 | crystal structure | 51 |
 
 ## Calculated phase diagrams
@@ -103,7 +103,7 @@ Table: Invariant reactions reported in the literature for the Ge–Hf system (27
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–Hf system (41)
+Table: Enthalpies of formation, Ge–Hf system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -128,26 +128,6 @@ Table: Enthalpies of formation, Ge–Hf system (41)
 | HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -64.907 kJ/mol-atom | 298 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014 | Table 2, p. 3, row 19 |  |
 | HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -55.666 kJ/mol-atom | 298 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
 | HfGe2 |  | -46.03 kJ/mol-atom | 298 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 18 |  |
-| UNKNOWN |  | -98.47 kJ/mol-atom ± 10.8 | 298 | experimental |  |  | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | -74.6 kJ/mol-atom ± 7.9 | 1473 | unspecified |  |  | [1] Tang 2014; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 2, p. 3, row 11 |  |
-| UNKNOWN |  | -69.666 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
-| UNKNOWN |  | -67.927 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014 | Table 2, p. 3, row 15 |  |
-| UNKNOWN |  | -67.91 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014; _cites Ponweiser 2009_ [doi](https://doi.org/10.1016/j.solidstatesciences.2008.09.001) | Table 2, p. 3, row 13 |  |
-| UNKNOWN |  | -67.87 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 14 |  |
-| UNKNOWN |  | -67.105 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 12 |  |
-| UNKNOWN |  | -67.069 kJ/mol-atom ± 3.37 | 298 | experimental |  |  | [1] Tang 2014 | Table 2, p. 3, row 17 |  |
-| UNKNOWN |  | -65.588 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 8 |  |
-| UNKNOWN |  | -64.907 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014 | Table 2, p. 3, row 19 |  |
-| UNKNOWN |  | -64.448 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014 | Table 2, p. 3, row 9 |  |
-| UNKNOWN |  | -63.009 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | -62.62 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014 | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | -56.392 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014 | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | -55.666 kJ/mol-atom | 298 | model |  |  | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
-| UNKNOWN |  | -46.03 kJ/mol-atom | 298 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 18 |  |
-| UNKNOWN |  | -45.435 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 2 |  |
-| UNKNOWN |  | -42.31 kJ/mol-atom ± 4.1 | 298 | experimental |  |  | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -30.16 kJ/mol-atom ± 6.4 | 298 | experimental |  |  | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 10 |  |
-| UNKNOWN |  | -28.4 kJ/mol-atom ± 8.2 | 298 | experimental |  |  | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 1 |  |
 
 ## Other properties
 

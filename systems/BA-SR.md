@@ -1,10 +1,10 @@
 # Ba–Sr system
 
-> Ba–Sr system: 25 accepted literature values (mixing / partial 24, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Sr system: 13 accepted literature values (mixing / partial 12, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-SR.html · Markdown: https://data.orchid-project.org/systems/BA-SR.md
 
-25 accepted literature values from 1 paper(s) (experimental 24, model 1); 2 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 12, model 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-SR.json) · [CSV](https://data.orchid-project.org/systems/BA-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-SR/BaSr-01Fab-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-SR.html) · [Markdown](https://data.orchid-project.org/systems/BA-SR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
+| experimental | 12 |
 | model | 1 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| mixing / partial | 24 |
+| mixing / partial | 12 |
 
 ## Calculated phase diagrams
 
@@ -45,24 +45,12 @@ Table: Phase transition, Ba–Sr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 820.15 K | 820.15 |  | model | [1] Alcock 1987; _cites Chase 1987_ | p. 2 | “Consequently, the boundaries are shown in Fig. 1 as dashed lines between the transformation point of Sr at 547 ~ \[83Cha\] and 22 and 30 at.% Sr at 100 ~” |
 
-### Mixing / partial (24)
+### Mixing / partial (12)
 
 Table: Mixing / partial, Ba–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.259 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9925, Sr 0.0075_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 11 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.406 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99655, Sr 0.00345_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.444 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9945, Sr 0.0055_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.213 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9981, Sr 0.0019_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.155 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9989, Sr 0.0011_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 1 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.347 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9933, Sr 0.0067_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 10 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.99605, Sr 0.00395_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 5 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9949, Sr 0.0051_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: -ΔmixH_ | -0.418 kJ/mol (basis unstated) |  | Liquid; _alloy: Ba 0.9939, Sr 0.0061_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 9 |  |
 | Enthalpy of mixing; _printed: -ΔmixH_ | -0.238 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.992, Sr 0.008_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 12 |  |
 | Enthalpy of mixing; _printed: -ΔmixH_ | -0.36 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.99745, Sr 0.00255_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
 | Enthalpy of mixing; _printed: -ΔmixH_ | -0.439 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.9956, Sr 0.0044_ | experimental | [1] Alcock 1987; _cites ref. 74Pre_ | Table 2, p. 3, row 6 |  |

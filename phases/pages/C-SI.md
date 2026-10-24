@@ -18,7 +18,7 @@ Table: Phases of the C–Si system (8)
 | [FCC_A1](#phase-c-si-fcc-a1); _phase:c-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [GAS](#phase-c-si-gas); _phase:c-si:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 3216.4–4000 K, x(C) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-c-si-hcp-a3); _phase:c-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-c-si-liquid); _phase:c-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1682.01–4000 K, x(C) 0–0.55981 | 0 | 4 |
+| [LIQUID](#phase-c-si-liquid); _phase:c-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1682.01–4000 K, x(C) 0–0.55981 | 2 | 4 |
 | [SIC_B3](#phase-c-si-sic-b3); _phase:c-si:sic-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3096.52 K, x(C) 0.5–0.5 | 7 | 4 |
 
 ## DIAMOND_A4 (C–Si)
@@ -318,10 +318,11 @@ _assessment that models this phase_
 - Id: `phase:c-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1682.01–4000 K, x(C) 0–0.55981
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-si:liquid)
 
-Names (5): _corpus: _corpus:phase:c-si:liquid  
+Names (6): _corpus: _corpus:phase:c-si:liquid  
+_paper: _paper:10.1016/s0364-5916(98)00037-6:Liquid  
 _tdb: _tdb:SiC-17Lia.tdb:LIQUID, tdb:SiC-20Jia.tdb:LIQUID, tdb:SiC-91Lac.tdb:LIQUID, tdb:SiC-96Gro-LB.tdb:LIQUID  
 
 
@@ -355,7 +356,7 @@ _tdb: _tdb:SiC-17Lia.tdb:LIQUID, tdb:SiC-20Jia.tdb:LIQUID, tdb:SiC-91Lac.tdb:LIQ
 30: CONST LIQUID:L : C SI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02664987](https://doi.org/10.1007/BF02664987) J. Lacaze, B. Sundman, Metall. Mater. Trans. A, 22A, 2211-23(1991).  
 _assessment that models this phase_
@@ -365,6 +366,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00027-2](https://doi.org/10.1016/S0364-5916%2896%2900027-2) J. Groebner, H.L. Lukas, F. Aldinger, Calphad, 20, 247-54(1996).  
 _assessment that models this phase_
+- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
+_reports values for this phase_
 
 ## SIC_B3 (C–Si)
 

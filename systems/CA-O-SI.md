@@ -1,10 +1,10 @@
 # Ca–O–Si system
 
-> Ca–O–Si system: 49 accepted literature values (heat capacity / entropy / enthalpy 35, formation 8, activity / EMF / Gibbs energy 4, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–O–Si system: 111 accepted literature values (heat capacity / entropy / enthalpy 53, formation 26, invariant reaction 26, activity / EMF / Gibbs energy 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-O-SI.html · Markdown: https://data.orchid-project.org/systems/CA-O-SI.md
 
-49 accepted literature values from 1 paper(s) (experimental 38, DFT 7, unspecified 4); 0 calculated phase diagram(s).
+111 accepted literature values from 1 paper(s) (experimental 51, model 49, DFT 7, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-O-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-O-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-O-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-O-SI.md)
 
@@ -12,7 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 51 |
+| model | 49 |
 | DFT | 7 |
 | unspecified | 4 |
 
@@ -20,26 +21,78 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 26 |
 | phase transition | 2 |
-| formation | 8 |
-| heat capacity / entropy / enthalpy | 35 |
+| formation | 26 |
+| heat capacity / entropy / enthalpy | 53 |
 | activity / EMF / Gibbs energy | 4 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Ca–O–Si system (26)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2430 | peritectic: Liquid + CaO -> Ca3SiO5 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 13 |  |
+| 2423 | peritectic: Liquid + CaO -> Ca3SiO5 |  | experimental | [1] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 14 |  |
+| 2403 | congruent melting: α-Ca2SiO4 |  | experimental | [1] Abdul 2023; _cites Rankin 1915_ [doi](https://doi.org/10.2475/ajs.s4-39.229.1) | Table 9, p. 9, row 24 |  |
+| 2371 | congruent melting: α-Ca2SiO4 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 23 |  |
+| 2323 | eutectic: Liquid -> Ca3SiO5 + α-Ca2SiO4 |  | experimental | [1] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 16 |  |
+| 2300 | eutectic: Liquid -> Ca3SiO5 + α-Ca2SiO4 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 15 |  |
+| 1840 | congruent melting: cyclo-CaSiO3 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 25 |  |
+| 1817 | congruent melting: cyclo-CaSiO3 |  | experimental | [1] Abdul 2023 | Table 9, p. 9, row 26 |  |
+| 1741 | peritectic: Liquid + α-Ca2SiO4 -> Ca3Si2O7 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 17 |  |
+| 1737 | peritectic: Liquid + α-Ca2SiO4 -> Ca3Si2O7 |  | experimental | [1] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 18 |  |
+| 1734 | eutectic: Liquid -> Ca3Si2O7 + CaSiO3 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 19 |  |
+| 1733 | eutectic: Liquid -> Ca3Si2O7 + CaSiO3 |  | experimental | [1] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 20 |  |
+| 1710 | other: α′-Ca2SiO4 -> α-Ca2SiO4 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 5 |  |
+| 1710 | other: α′-Ca2SiO4 -> α-Ca2SiO4 |  | experimental | [1] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 6 |  |
+| 1709 | eutectic: Liquid -> SiO2 + CaSiO3 |  | experimental | [1] Abdul 2023; _cites Levin 1964_ | Table 9, p. 9, row 22 |  |
+| 1700 | eutectic: Liquid -> SiO2 + CaSiO3 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 21 |  |
+| 1398 | other: Wollastonite -> cyclo-CaSiO3 |  | experimental | [1] Abdul 2023; _cites Voronko 2002_ | Table 9, p. 9, row 8 |  |
+| 1397 | other: Wollastonite -> cyclo-CaSiO3 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 7 |  |
+| 1323 | other: Monoclinic -> rhombohedral-Ca3SiO5 |  | experimental | [1] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 12 |  |
+| 1317 | other: Monoclinic -> rhombohedral-Ca3SiO5 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 11 |  |
+| 1254 | other: Triclinic -> monoclinic-Ca3SiO5 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 9 |  |
+| 1253 | other: Triclinic -> monoclinic-Ca3SiO5 |  | experimental | [1] Abdul 2023; _cites Bigare_ | Table 9, p. 9, row 10 |  |
+| 1120 | other: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 1 |  |
+| 1120 | other: γ-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [1] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 2 |  |
+| 970 | other: β-Ca2SiO4 -> α′-Ca2SiO4 |  | model | [1] Abdul 2023 | Table 9, p. 9, row 3 |  |
+| 970 | other: β-Ca2SiO4 -> α′-Ca2SiO4 |  | experimental | [1] Abdul 2023; _cites Bredig 1950_ | Table 9, p. 9, row 4 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–O–Si system (8)
+Table: Enthalpies of formation, Ca–O–Si system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ca3Si2O7 |  | -17.6667 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 5 |  |
 | CaSiO3-cyclowollastonite |  | -15.5 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 | CaSiO3-wollastonite |  | -17.14 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
+| Cyclowollastonite-CaSiO3 |  | -1627 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10 |  |
+| Cyclowollastonite-CaSiO3 |  | -1627 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 9 |  |
+| Monoclinic-Ca3SiO5 |  | -2932 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 1 |  |
 | Monoclinic-Ca3SiO5 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
+| Rankinite-Ca3Si2O7 |  | -3973 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 6 |  |
+| Rankinite-Ca3Si2O7 |  | -3951 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 5 |  |
+| Rhombohedral-Ca3SiO5 |  | -2932 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
+| Triclinic-Ca3SiO5 |  | -2933 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 3 |  |
+| Triclinic-Ca3SiO5 |  | -2933 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 2 |  |
+| Wollastonite-CaSiO3 |  | -1634 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 8 |  |
+| Wollastonite-CaSiO3 |  | -1634 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 7 |  |
 | wollastonite-CaSiO3 |  | -1634.32 kJ/mol (basis unstated) ± 2.71 | 298.15 | unspecified |  |  | [1] Abdul 2023; _cites Grevel 2021_ | Table A.2, p. 13, row 21 |  |
+| α-Ca2SiO4 |  | -2548 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12 |  |
+| α-Ca2SiO4 |  | -2293 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
+| α′-Ca2SiO4 |  | -2304 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
+| α′-Ca2SiO4 |  | -2198 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
 | α′-Ca2SiO4 |  | -17.4857 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
+| β-Ca2SiO4 |  | -2307 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 15 |  |
+| β-Ca2SiO4 |  | -2306 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16 |  |
 | β-Ca2SiO4 |  | -17.8286 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
+| γ-Ca2SiO4 |  | -2316 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 17 |  |
+| γ-Ca2SiO4 |  | -2316 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18 |  |
 | γ-Ca2SiO4 |  | -18.7429 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 
 ## Other properties
@@ -53,12 +106,30 @@ Table: Phase transition, Ca–O–Si system
 | Phase transition | 1295.15 K | 1295.15 | polymorphic: Kilch → rank; _alloy: O 0.583333, Si 0.166667_ | unspecified | [1] Abdul 2023; _cites Hanic 1987_ | Table 2, p. 2, row 20 |  |
 | Phase transition | 1398.15 K | 1398.15 | polymorphic: Woll → p-woll; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Voronko 2002_ | Table 2, p. 2, row 21 |  |
 
-### Heat capacity / entropy / enthalpy (35)
+### Heat capacity / entropy / enthalpy (53)
 
 Table: Heat capacity / entropy / enthalpy, Ca–O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S298_ | 87.2 J/mol (basis unstated)/K | 298.15 | Cyclowollastonite-CaSiO3 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10 |  |
+| Entropy; _printed: S298_ | 87.6 J/mol (basis unstated)/K | 298.15 | Cyclowollastonite-CaSiO3 | model | [1] Abdul 2023 | Table 7, p. 8, row 9 |  |
+| Entropy; _printed: S298_ | 166.4 J/mol (basis unstated)/K | 298.15 | Monoclinic-Ca3SiO5 | model | [1] Abdul 2023 | Table 7, p. 8, row 1 |  |
+| Entropy; _printed: S298_ | 210.6 J/mol (basis unstated)/K | 298.15 | Rankinite-Ca3Si2O7 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 6 |  |
+| Entropy; _printed: S298_ | 207.6 J/mol (basis unstated)/K | 298.15 | Rankinite-Ca3Si2O7 | model | [1] Abdul 2023 | Table 7, p. 8, row 5 |  |
+| Entropy; _printed: S298_ | 166.4 J/mol (basis unstated)/K | 298.15 | Rhombohedral-Ca3SiO5 | model | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
+| Entropy; _printed: S298_ | 168.6 J/mol (basis unstated)/K | 298.15 | Triclinic-Ca3SiO5 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 3 |  |
+| Entropy; _printed: S298_ | 166.5 J/mol (basis unstated)/K | 298.15 | Triclinic-Ca3SiO5 | model | [1] Abdul 2023 | Table 7, p. 8, row 2 |  |
+| Entropy; _printed: S298_ | 81 J/mol (basis unstated)/K | 298.15 | Wollastonite-CaSiO3 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 8 |  |
+| Entropy; _printed: S298_ | 79.6 J/mol (basis unstated)/K | 298.15 | Wollastonite-CaSiO3 | model | [1] Abdul 2023 | Table 7, p. 8, row 7 |  |
+| Entropy; _printed: S298_ | 132.7 J/mol (basis unstated)/K | 298.15 | α-Ca2SiO4 | model | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
+| Entropy; _printed: S298_ | 84.91 J/mol (basis unstated)/K | 298.15 | α-Ca2SiO4 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12 |  |
+| Entropy; _printed: S298_ | 130.4 J/mol (basis unstated)/K | 298.15 | α′-Ca2SiO4 | model | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
+| Entropy; _printed: S298_ | 116 J/mol (basis unstated)/K | 298.15 | α′-Ca2SiO4 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
+| Entropy; _printed: S298_ | 126.7 J/mol (basis unstated)/K | 298.15 | β-Ca2SiO4 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16 |  |
+| Entropy; _printed: S298_ | 126.1 J/mol (basis unstated)/K | 298.15 | β-Ca2SiO4 | model | [1] Abdul 2023 | Table 7, p. 8, row 15 |  |
+| Entropy; _printed: S298_ | 119 J/mol (basis unstated)/K | 298.15 | γ-Ca2SiO4 | model | [1] Abdul 2023 | Table 7, p. 8, row 17 |  |
+| Entropy; _printed: S298_ | 120.5 J/mol (basis unstated)/K | 298.15 | γ-Ca2SiO4 | model | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18 |  |
 | Heat capacity; _printed: Cp_ | 0.192 J/mol (basis unstated)/K ± 0.02 | 156.805 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Wagner 1932_ [doi](https://doi.org/10.1002/zaac.19322080102) | Table A.2, p. 13, row 15 |  |
 | Heat capacity; _printed: Cp_ | 29.6 J/mol (basis unstated)/K ± 0.28 | 175.8 | rankinite-Ca3Si2O7; _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023; _cites King 1957_ [doi](https://doi.org/10.1021/ja01577a028) | Table A.2, p. 13, row 9 |  |
 | Heat capacity; _printed: Cp_ | 97.4 J/mol (basis unstated)/K ± 1 | 773.2 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Wagner 1932_ [doi](https://doi.org/10.1002/zaac.19322080102) | Table A.2, p. 13, row 16 |  |

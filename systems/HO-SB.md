@@ -1,10 +1,10 @@
 # Ho–Sb system
 
-> Ho–Sb system: 60 accepted literature values (invariant reaction 47, phase transition 11, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Sb system: 59 accepted literature values (invariant reaction 47, phase transition 10, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-SB.html · Markdown: https://data.orchid-project.org/systems/HO-SB.md
 
-60 accepted literature values from 2 paper(s) (experimental 19, model 30, unspecified 11); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+59 accepted literature values from 2 paper(s) (experimental 18, model 30, unspecified 11); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-SB/HoSb-12Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-SB.html) · [Markdown](https://data.orchid-project.org/systems/HO-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 18 |
 | model | 30 |
 | unspecified | 11 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 47 |
-| phase transition | 11 |
+| phase transition | 10 |
 | formation | 2 |
 
 ## Calculated phase diagrams
@@ -139,7 +139,7 @@ Table: Enthalpies of formation, Ho–Sb system (2)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (10)
 
 Table: Phase transition, Ho–Sb system
 
@@ -147,7 +147,6 @@ Table: Phase transition, Ho–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1723 K | 1723 | other: ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 | model | [1] Wang 2013 | p. 2 | “The Ho4 Sb3 has a reversible polymorphic transition ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 at 1893 K, and the latter decomposes by the eutectoid reaction, ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 at 1723 ± 100 K.” |
 | Phase transition | 1723.15 K | 1723.15 | other: Ho4Sb3 -> Ho5Sb3 + HoSb | experimental | [2] Liu 2012 | p. 1 | “Ho4 Sb3 has a reversible polymorphic transition at about 1620 °C, and decomposes by a eutectoidal reaction at 1450 ± 100 °C to Ho5 Sb3 and HoSb, and Abdusaljamova \[16\] reported that Ho4 Sb3 decomposes eutectoidally into Ho5 Sb3 and HoSb at 1450 ± 50 °C.” |
-| Phase transition | 1723.15 K | 1723.15 | other: Ho4Sb3 -> Ho5Sb3 + HoSb | experimental | [2] Liu 2012; _cites Abdusaljamova 1993_ | p. 1 | “Ho4 Sb3 has a reversible polymorphic transition at about 1620 °C, and decomposes by a eutectoidal reaction at 1450 ± 100 °C to Ho5 Sb3 and HoSb, and Abdusaljamova \[16\] reported that Ho4 Sb3 decomposes eutectoidally into Ho5 Sb3 and HoSb at 1450 ± 50 °C.” |
 | Phase transition | 1893 K | 1893 | polymorphic: ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 | model | [1] Wang 2013 | p. 2 | “The Ho4 Sb3 has a reversible polymorphic transition ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 at 1893 K, and the latter decomposes by the eutectoid reaction, ␣-Ho4 Sb3 ↔ ␣-HoSb + Ho5 Sb3 at 1723 ± 100 K.” |
 | Phase transition | 1893.15 K | 1893.15 | polymorphic | experimental | [2] Liu 2012 | p. 1 | “Ho4 Sb3 has a reversible polymorphic transition at about 1620 °C, and decomposes by a eutectoidal reaction at 1450 ± 100 °C to Ho5 Sb3 and HoSb, and Abdusaljamova \[16\] reported that Ho4 Sb3 decomposes eutectoidally into Ho5 Sb3 and HoSb at 1450 ± 50 °C.” |
 | Phase transition | 1893.35 K | 1893.35 | polymorphic: α Ho4 Sb3 ↔ β Ho4 Sb3 | model | [2] Liu 2012 | p. 3 | “Two reversible polymorphic transitions α HoSb ↔ β HoSb and α Ho4 Sb3 ↔ β Ho4 Sb3 were respectively obtained at 1880 and 1620.2 °C in the calculated results, which are in a good agreement with the experimental data \[8,9\].” |

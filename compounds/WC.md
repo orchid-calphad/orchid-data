@@ -1,20 +1,19 @@
 # WC: enthalpy of formation
 
-> Enthalpy of formation of WC: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of WC: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/WC.html · Markdown: https://data.orchid-project.org/compounds/WC.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); Materials Project -11.742 kJ/mol-atom (mp-aaaaacuw); OQMD -12.124 kJ/mol-atom (oqmd-3084).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -11.742 kJ/mol-atom (mp-aaaaacuw); OQMD -12.124 kJ/mol-atom (oqmd-3084).
 
 Systems: [C–W](https://data.orchid-project.org/systems/C-W.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of WC reported in the literature (3)
+Table: Enthalpy of formation of WC reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40170 per formula unit ± 1700 | WC | 298.15 | experimental |  | [C–W](https://data.orchid-project.org/systems/C-W.html) | [1] He 2022; _cites McGraw 1947_ [doi](https://doi.org/10.1021/ja01194a050) | Table 2, p. 3, row 4 |  |
 | -20.0887 kJ/mol-atom | WC | 298.15 | model | CALPHAD | [C–W](https://data.orchid-project.org/systems/C-W.html) | [1] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 2, p. 3, row 5 |  |
 | -20.0852 kJ/mol-atom | WC | 298.15 | model | CALPHAD | [C–W](https://data.orchid-project.org/systems/C-W.html) | [1] He 2022 | Table 2, p. 3, row 6 |  |
 

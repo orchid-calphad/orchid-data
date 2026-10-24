@@ -74,10 +74,12 @@
   "observations": [
    {
     "id": "ORC-67S5MLXYXU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497199770335811"
    },
    {
     "id": "ORC-H4DHGVLZNH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497199770335811"
    }
   ],

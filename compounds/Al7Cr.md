@@ -1,20 +1,19 @@
 # Al7Cr: enthalpy of formation
 
-> Enthalpy of formation of Al7Cr: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al7Cr: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al7Cr.html · Markdown: https://data.orchid-project.org/compounds/Al7Cr.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 2); experimental median -13.389 kJ/mol-atom (n = 2); OQMD 2.914 kJ/mol-atom (oqmd-2166350).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -13.389 kJ/mol-atom (n = 1); OQMD 2.914 kJ/mol-atom (oqmd-2166350).
 
 Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al7Cr reported in the literature (2)
+Table: Enthalpy of formation of Al7Cr reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.389 kJ/mol-atom | Al7Cr | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 1 |  |
 | -13.389 kJ/mol-atom | Al7Cr | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 1 |  |
 
 ## DFT formation energies

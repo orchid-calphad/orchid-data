@@ -18,7 +18,7 @@ Table: Phases of the Nb–Sn system (9)
 | [FCC_A1](#phase-nb-sn-fcc-a1); _phase:nb-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-nb-sn-hcp-a3); _phase:nb-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-nb-sn-liquid); _phase:nb-sn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1 | 52 | 3 |
-| [NB3SN_A15](#phase-nb-sn-nb3sn-a15); _phase:nb-sn:nb3sn-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2425.38 K, x(Sn) 0.14315–0.33288 | 44 | 3 |
+| [NB3SN_A15](#phase-nb-sn-nb3sn-a15); _phase:nb-sn:nb3sn-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2425.38 K, x(Sn) 0.14315–0.33288 | 38 | 3 |
 | [NB6SN5](#phase-nb-sn-nb6sn5); _phase:nb-sn:nb6sn5_ | Sn5Ti6-alpha · oI44 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 992.31–1296.88 K, x(Sn) 0.44957–0.45455 | 37 | 3 |
 | [NBSN2_CB](#phase-nb-sn-nbsn2-cb); _phase:nb-sn:nbsn2-cb_ | CuMg2 · C_b · oF48 · Fddd (70) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1141.38 K, x(Sn) 0.66667–0.66667 | 32 | 3 |
 
@@ -309,7 +309,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in NbSn-17Laf.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NbSn-98Tof.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2425.38 K, x(Sn) 0.14315–0.33288
-- Literature: 44 values (44 accepted) from 2 papers
+- Literature: 38 values (38 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-sn:nb3sn-a15)
 
 Names (6): _corpus: _corpus:phase:nb-sn:nb3sn-a15  
@@ -342,9 +342,9 @@ _tdb: _tdb:NbSn-02Tof.tdb:NB3SN_A15, tdb:NbSn-17Laf.tdb:NB3SN_A15, tdb:NbSn-98To
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1361/105497198770341978](https://doi.org/10.1361/105497198770341978) C. Toffolon, C. Servant, B. Sundman, Thermodynamic assessment of the Nb-Sn system, JPE 19, 479-485 (1998).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/1054971023604071](https://doi.org/10.1361/1054971023604071) C. Toffolon, C. Servant, J. C. Gachon, B. Sundman, Reassessment of the Nb-Sn system, JPE 23, 134-139 (2002).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1361/105497198770341978](https://doi.org/10.1361/105497198770341978) C. Toffolon, C. Servant, B. Sundman, Thermodynamic assessment of the Nb-Sn system, JPE 19, 479-485 (1998).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2017.02.003](https://doi.org/10.1016/j.calphad.2017.02.003) P. Lafaye, C. Toffolon-Masclet, J.-C. Crivello, J.-M. Joubert, Calphad, 57, 37-45(2017).  
 _assessment that models this phase_

@@ -132,7 +132,7 @@ _assessment that models this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaaect and oqmd-18718, space group 139
 - Stoichiometry: Al 0.8000, Sr 0.2000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1333.21 K, x(Sr) 0.2–0.2
-- Literature: 43 values (43 accepted) from 2 papers
+- Literature: 43 values (42 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sr:al4sr-d13)
 
 Names (9): _corpus: _corpus:phase:al-sr:al4sr-d13  
@@ -414,7 +414,7 @@ _assessment that models this phase_
 - Id: `phase:al-sr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 851.91–2500 K, x(Sr) 0–1
-- Literature: 61 values (61 accepted) from 2 papers
+- Literature: 61 values (60 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sr:liquid)
 
 Names (7): _corpus: _corpus:phase:al-sr:liquid  

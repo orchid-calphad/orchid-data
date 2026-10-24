@@ -92,10 +92,12 @@
   "observations": [
    {
     "id": "ORC-UXCW6HAC3A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.07.034"
    },
    {
     "id": "ORC-WKRIUH5GWH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.07.034"
    }
   ],

@@ -14,13 +14,13 @@ Table: Enthalpy of formation of CoGe reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15943 per mol-atom ± 946 | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
-| -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
-| -22758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 24 |  |
-| -21847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Zeng 2019 | Table 4, p. 9, row 23 |  |
-| -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 6, p. 5, row 16 |  |
-| -21.394 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 5, p. 4, row 5 |  |
-| -20.991 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Dong 2013 | Table 5, p. 4, row 5 |  |
+| -15.943 kJ/mol-atom | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
+| -15.943 per mol-atom ± 946 | CoGe | 1060 | experimental |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
+| -22.758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
+| -21.847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
+| -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 6, p. 5, row 16 |  |
+| -21.394 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
+| -20.991 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
 
 ## DFT formation energies
 
@@ -37,8 +37,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019). [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205)
-2. S.S. Dong, S.G. Liu, X.M. Tao, F.H. Xiao, L.H. Huang, F. Yang et al., Thermodynamic optimization of Co–Ge binary system, Thermochimica Acta 572, 94-100 (2013). [doi:10.1016/j.tca.2013.08.026](https://doi.org/10.1016/j.tca.2013.08.026)
+1. S.S. Dong, S.G. Liu, X.M. Tao, F.H. Xiao, L.H. Huang, F. Yang et al., Thermodynamic optimization of Co–Ge binary system, Thermochimica Acta 572, 94-100 (2013). [doi:10.1016/j.tca.2013.08.026](https://doi.org/10.1016/j.tca.2013.08.026)
+2. Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019). [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205)
 
 ## Please cite
 

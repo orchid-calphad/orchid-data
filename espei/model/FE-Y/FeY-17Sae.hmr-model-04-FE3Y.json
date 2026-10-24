@@ -1,0 +1,137 @@
+{
+ "components": [
+  "FE",
+  "VA",
+  "Y"
+ ],
+ "phases": [
+  "FE3Y"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 973.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -8940.0
+   ]
+  ]
+ ],
+ "reference": "Saenko 2017, doi:10.1007/s11669-017-0574-3",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6QGDDSNWBF.5f09e3",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeY-17Sae.tdb",
+   "path": "databases/sgte-binary/FeY-17Sae.tdb",
+   "sha256": "d5fb4919023990bf125fd52bbdf9b0b9a20764cfa0aec1b2b8388eda0c460968",
+   "catalog_entry": {
+    "name": "FeY-17Sae.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11669-017-0574-3",
+   "doi": "10.1007/s11669-017-0574-3",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Equilib. Diffus., 38, 684-99(2017).",
+    "year": "2017"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "saenko2017_3a66b4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-6QGDDSNWBF.5f09e3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-017-0574-3",
+    "measured_in": "doi:10.1007/s11669-017-0574-3",
+    "also_read_as": [
+     "ORC-6QGDDSNWBF.5f09e3"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-017-0574-3"
+  ],
+  "dois": [
+   "10.1007/s11669-017-0574-3"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeY-17Sae/hmr-model-04.json",
+  "values_dropped": 6
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "FE3Y"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "FeY-17Sae.tdb",
+   "path": "databases/sgte-binary/FeY-17Sae.tdb",
+   "sha256": "d5fb4919023990bf125fd52bbdf9b0b9a20764cfa0aec1b2b8388eda0c460968",
+   "phase": "FE3Y",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "FE",
+    "Y"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-6QGDDSNWBF.5f09e3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

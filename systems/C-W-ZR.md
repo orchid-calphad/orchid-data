@@ -1,10 +1,10 @@
 # C–W–Zr system
 
-> C–W–Zr system: 10 accepted literature values (invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–W–Zr system: 11 accepted literature values (invariant reaction 10, phase equilibrium 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-W-ZR.html · Markdown: https://data.orchid-project.org/systems/C-W-ZR.md
 
-10 accepted literature values from 1 paper(s) (experimental 5, model 5); 0 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 6, model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-W-ZR.json) · [CSV](https://data.orchid-project.org/systems/C-W-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-W-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-W-ZR.html) · [Markdown](https://data.orchid-project.org/systems/C-W-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 6 |
 | model | 5 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
+| phase equilibrium | 1 |
 
 ## Invariant reactions (literature)
 
@@ -37,6 +38,16 @@ Table: Invariant reactions reported in the literature for the C–W–Zr system 
 | 2613.15 | peritectic: P1: L + (W,Zr)C + W = W2Zr | L: C 0.044, W 0.334 | model | [1] Zhou 2015 | Table 3, p. 7, row 7 |  |
 | 2013.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.035, W 0.071 | experimental | [1] Zhou 2015; _cites Eremenko 1984_ | Table 3, p. 7, row 10 |  |
 | 2012.15 | quasi-peritectic: U1: L + (W,Zr)C = W2Zr + βZr | L: C 0.002, W 0.109 | model | [1] Zhou 2015 | Table 3, p. 7, row 9 |  |
+
+## Other properties
+
+### Phase equilibrium (1)
+
+Table: Phase equilibrium, C–W–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase assemblage |  | 2493.15 | W2Zr; _alloy: C 5.000e-4_ | experimental | [1] Zhou 2015; _cites Savitsky 1977_ | p. 2 | “Savitsky et al. \[39\] also investigated the vertical section with constant C content of ~0.05 at.% and reported the melting temperature of W2Zr to be ~2220 °C.” |
 
 ## Sources
 

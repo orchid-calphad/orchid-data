@@ -15,7 +15,7 @@ Table: Phases of the Ba–Sr system (4)
 | [BCC_A2](#phase-ba-sr-bcc-a2); _phase:ba-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1050 K, x(Sr) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-ba-sr-fcc-a1); _phase:ba-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1045 K, x(Sr) 0.79903–1 | 0 | 2 |
 | [HCP_A3](#phase-ba-sr-hcp-a3); _phase:ba-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ba-sr-liquid); _phase:ba-sr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1000–2500 K, x(Sr) 0–1 | 24 | 2 |
+| [LIQUID](#phase-ba-sr-liquid); _phase:ba-sr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1000–2500 K, x(Sr) 0–1 | 12 | 2 |
 
 ## BCC_A2 (Ba–Sr)
 
@@ -121,11 +121,11 @@ _assessment that models this phase_
 - Id: `phase:ba-sr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1000–2500 K, x(Sr) 0–1
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-sr:liquid)
 
-Names (5): _corpus: _corpus:phase:ba-sr:liquid  
-_paper: _paper:10.1007/bf02879429:Liquid, paper:10.1007/bf02879429:liquid  
+Names (4): _corpus: _corpus:phase:ba-sr:liquid  
+_paper: _paper:10.1007/bf02879429:liquid  
 _tdb: _tdb:BaSr-01Fab-LB.tdb:LIQUID, tdb:BaSr-87Alc.tdb:LIQUID  
 
 

@@ -1,10 +1,10 @@
 # Gd–Mg–Y system
 
-> Gd–Mg–Y system: 11 accepted literature values (invariant reaction 11) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg–Y system: 12 accepted literature values (invariant reaction 11, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG-Y.html · Markdown: https://data.orchid-project.org/systems/GD-MG-Y.md
 
-11 accepted literature values from 2 paper(s) (experimental 1, model 10); 0 calculated phase diagram(s).
+12 accepted literature values from 2 paper(s) (experimental 1, model 11); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG-Y.json) · [CSV](https://data.orchid-project.org/systems/GD-MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG-Y.md)
 
@@ -13,13 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 10 |
+| model | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
+| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
@@ -38,6 +39,16 @@ Table: Invariant reactions reported in the literature for the Gd–Mg–Y system
 | 833.15 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | experimental | [1] Gröbner 2010; _cites Drits 1983_ | Table 3, p. 4, row 6 |  |
 | 823.94 | eutectic: L = (Mg) + Mg24Y5 + GdMg5 |  | model | [1] Gröbner 2010 | Table 3, p. 4, row 5 |  |
 | 810 | eutectic: liq. -> hcp(Mg) + Mg24Y5 + Mg5Gd | L: Gd 0.0583, Mg 0.9038, Y 0.0379; liquid: Gd 0.0583, Mg 0.9038, Y 0.0379 | model | [2] Guo 2007 | Table 4, p. 9, row 5 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Gd–Mg–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 878.21 K | 878.21 | other | model | [1] Gröbner 2010 | p. 4 | “Invariant three-phase reactions close to U4, such as the minimum in L + Mg24Y5 + Mg2Y at 602.66 °C and the maximum in L + Mg24Y5 + GdMg5 at 605.06 °C are not included in Table 3.” |
 
 ## Sources
 

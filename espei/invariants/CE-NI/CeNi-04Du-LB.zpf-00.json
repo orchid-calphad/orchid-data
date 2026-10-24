@@ -341,14 +341,17 @@
   "observations": [
    {
     "id": "ORC-NEFLUTBF32",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-CV2P5XN46V",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-4MYFZSH7VM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157",
     "also_reported_as": [
      {
@@ -361,6 +364,7 @@
    },
    {
     "id": "ORC-IZSLYPQRSN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157",
     "also_reported_as": [
      {
@@ -385,6 +389,7 @@
    },
    {
     "id": "ORC-3HQ2SAENYF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157",
     "also_reported_as": [
      {
@@ -397,18 +402,22 @@
    },
    {
     "id": "ORC-4HFEZV5TYR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-NE6J5F33T6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-K5CBFMYBDV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-QPOUIMF5OT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157",
     "also_reported_as": [
      {
@@ -421,10 +430,12 @@
    },
    {
     "id": "ORC-7P7Q47J4B3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    },
    {
     "id": "ORC-FUBSATWM6P",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.11.157"
    }
   ],

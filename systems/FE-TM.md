@@ -1,10 +1,10 @@
 # Fe–Tm system
 
-> Fe–Tm system: 132 accepted literature values (formation 78, invariant reaction 21, heat capacity / entropy / enthalpy 20, phase transition 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Tm system: 85 accepted literature values (formation 41, invariant reaction 21, phase transition 13, heat capacity / entropy / enthalpy 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TM.html · Markdown: https://data.orchid-project.org/systems/FE-TM.md
 
-132 accepted literature values from 2 paper(s) (experimental 30, model 100, DFT 2); 2 calculated phase diagram(s).
+85 accepted literature values from 2 paper(s) (experimental 24, model 60, DFT 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TM.json) · [CSV](https://data.orchid-project.org/systems/FE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TM/FeTm-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TM.html) · [Markdown](https://data.orchid-project.org/systems/FE-TM.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
-| model | 100 |
-| DFT | 2 |
+| experimental | 24 |
+| model | 60 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 21 |
 | phase transition | 13 |
-| formation | 78 |
-| heat capacity / entropy / enthalpy | 20 |
+| formation | 41 |
+| heat capacity / entropy / enthalpy | 10 |
 
 ## Calculated phase diagrams
 
@@ -107,7 +107,7 @@ Table: Invariant reactions reported in the literature for the Fe–Tm system (21
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Tm system (48)
+Table: Enthalpies of formation, Fe–Tm system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -136,29 +136,6 @@ Table: Enthalpies of formation, Fe–Tm system (48)
 | Fe3Tm | [Fe3Tm](https://data.orchid-project.org/compounds/Fe3Tm.html) | -5 kJ/mol-atom | 298.15 | model | -11.021 (mp-aaacktrr) | -11.055 (oqmd-30262) | [1] Kardellass 2014; _cites De 1988_ | Table 3, p. 4, row 12 |  |
 | Fe3Tm | [Fe3Tm](https://data.orchid-project.org/compounds/Fe3Tm.html) | -3.366 kJ/mol-atom | 298.15 | model | -11.021 (mp-aaacktrr) | -11.055 (oqmd-30262) | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
 | Fe3Tm | [Fe3Tm](https://data.orchid-project.org/compounds/Fe3Tm.html) | -2.148 kJ/mol-atom | 298.15 | model | -11.021 (mp-aaacktrr) | -11.055 (oqmd-30262) | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -13.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 4, row 19 |  |
-| UNKNOWN |  | -11.53 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
-| UNKNOWN |  | -8.41 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 13 |  |
-| UNKNOWN |  | -6.7 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Dariel 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990175-1) | Table 3, p. 4, row 18 |  |
-| UNKNOWN |  | -6.5 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 17 |  |
-| UNKNOWN |  | -6.38 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 8 |  |
-| UNKNOWN |  | -6.19 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 16 |  |
-| UNKNOWN |  | -5.98 kJ/mol-atom | 300 | experimental |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
-| UNKNOWN |  | -5.7 kJ/mol-atom | 290 | experimental |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
-| UNKNOWN |  | -5.1 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 11 |  |
-| UNKNOWN |  | -5.042 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
-| UNKNOWN |  | -5 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites De 1988_ | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -4.33 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -3.366 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
-| UNKNOWN |  | -2.85 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
-| UNKNOWN |  | -2.46 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
-| UNKNOWN |  | -2.35 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
-| UNKNOWN |  | -2.22 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 4, row 1 |  |
-| UNKNOWN |  | -2.148 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -2 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014; _cites De 1988_ | Table 3, p. 4, row 3 |  |
-| UNKNOWN |  | -1.515 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
-| UNKNOWN |  | -0.113 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | 0.2 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
 
 ## Other properties
 
@@ -182,14 +159,13 @@ Table: Phase transition, Fe–Tm system
 | Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34 |  |
 | Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33 |  |
 
-### Formation (30)
+### Formation (16)
 
 Table: Formation, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS_ | 41.776 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
-| Entropy of formation; _printed: ΔfST_ | 41.776 J/mol-atom/K | 290 | UNKNOWN; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
 | Entropy of formation; _printed: ΔfS_ | 37.44 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
 | Entropy of formation; _printed: ΔfS_ | 37.87 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | 38.1 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
@@ -203,30 +179,16 @@ Table: Formation, Fe–Tm system
 | Entropy of formation; _printed: ΔfS_ | 42.75 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 13 |  |
 | Entropy of formation; _printed: ΔfS_ | 42.57 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
 | Entropy of formation; _printed: ΔfS_ | 45.03 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 42.67 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 42.75 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 13 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 39.69 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 37.44 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 42.57 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 42.34 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 37.87 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 42.92 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 44.61 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 45.03 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 38.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS298.15_ | 49.37 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
 | Entropy of formation; _printed: ΔfS_ | 42.72 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
-| Entropy of formation; _printed: ΔfST_ | 42.72 J/mol-atom/K | 300 | UNKNOWN; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
 | Entropy of formation; _printed: ΔfST_ | 1.37 unknown ± 0.01 | 959 | Fe17Tm2; _alloy: Tm 0.105263_ | experimental | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 4, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (20)
+### Heat capacity / entropy / enthalpy (10)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Heat capacity; _printed: Cp_ | 27.77 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
-| Heat capacity; _printed: CPT_ | 27.77 J/mol-atom/K | 290 | UNKNOWN; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
 | Heat capacity; _printed: Cp_ | 29.36 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
 | Heat capacity; _printed: Cp_ | 24.7 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
 | Heat capacity; _printed: Cp_ | 27.08 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
@@ -235,16 +197,7 @@ Table: Heat capacity / entropy / enthalpy, Fe–Tm system
 | Heat capacity; _printed: Cp_ | 25.29 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
 | Heat capacity; _printed: Cp_ | 26.09 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
 | Heat capacity; _printed: Cp_ | 25.07 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| Heat capacity; _printed: CP298.15_ | 27.08 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
-| Heat capacity; _printed: CP298.15_ | 29.36 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
-| Heat capacity; _printed: CP298.15_ | 26.09 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
-| Heat capacity; _printed: CP298.15_ | 24.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
-| Heat capacity; _printed: CP298.15_ | 24.96 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
-| Heat capacity; _printed: CP298.15_ | 26.64 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
-| Heat capacity; _printed: CP298.15_ | 25.07 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| Heat capacity; _printed: CP298.15_ | 25.29 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
 | Heat capacity; _printed: Cp_ | 28.07 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
-| Heat capacity; _printed: CPT_ | 28.07 J/mol-atom/K | 300 | UNKNOWN; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
 
 ## Sources
 

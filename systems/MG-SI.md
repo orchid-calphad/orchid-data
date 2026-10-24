@@ -1,10 +1,10 @@
 # Mg–Si system
 
-> Mg–Si system: 228 accepted literature values (invariant reaction 82, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Si system: 226 accepted literature values (invariant reaction 80, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SI.html · Markdown: https://data.orchid-project.org/systems/MG-SI.md
 
-228 accepted literature values from 7 paper(s) (experimental 176, model 42, DFT 7, unspecified 3); 7 calculated phase diagram(s).
+226 accepted literature values from 7 paper(s) (experimental 174, model 42, DFT 7, unspecified 3); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SI.json) · [CSV](https://data.orchid-project.org/systems/MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SI/MgSi-00Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/MG-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 176 |
+| experimental | 174 |
 | model | 42 |
 | DFT | 7 |
 | unspecified | 3 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 82 |
+| invariant reaction | 80 |
 | phase transition | 10 |
 | formation | 49 |
 | mixing / partial | 24 |
@@ -88,7 +88,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Si system (82)
+Table: Invariant reactions reported in the literature for the Mg–Si system (80)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -172,8 +172,6 @@ Table: Invariant reactions reported in the literature for the Mg–Si system (82
 | 898.15 | eutectic: L \<-> (Mg) + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [1] Yan 2000; _cites Woler 1926_ | Table 5, p. 5, row 6 |  |
 | 898.15 | L -> (Mg)-hcp + Mg2Si | Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Wohler 1926_ [doi](https://doi.org/10.1002/zaac.19261510102) | Table 5, p. 4, row 5 |  |
 | 848.15 | L -> (Mg)-hcp + Mg2Si | L: Si 0.0278; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [3] Yuan 2009; _cites Elchardus 1940_ | Table 5, p. 4, row 8 |  |
-| 0.333 | L -> Mg2Si | L: Si 0.333; Mg2Si: Si 0.333 | experimental | [2] Schick 2012; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 5, p. 8, row 19 |  |
-| 0 | L -> Mg (hcp) + Mg2Si | Mg (hcp): Si 2.800e-5; Mg2Si: Mg 0.666667, Si 0.333333 | experimental | [2] Schick 2012; _cites Yue 1959_ | Table 5, p. 8, row 4 |  |
 
 ## Formation enthalpies
 

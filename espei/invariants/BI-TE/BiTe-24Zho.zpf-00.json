@@ -207,8 +207,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
-  "orchid",
-  "calphad_certified"
+  "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LFBHE3QDDA ORC-IC2ORRGPPX ORC-7ZIC4T27SM ORC-CSB7XCCD7T ORC-33VBYNYU6Q ORC-J6MXXD66TY",
  "bibtex": "hasanova2021_c258c0",
@@ -218,31 +217,37 @@
   "observations": [
    {
     "id": "ORC-LFBHE3QDDA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    },
    {
     "id": "ORC-IC2ORRGPPX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    },
    {
     "id": "ORC-7ZIC4T27SM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    },
    {
     "id": "ORC-CSB7XCCD7T",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    },
    {
     "id": "ORC-33VBYNYU6Q",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    },
    {
     "id": "ORC-J6MXXD66TY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01093-z",
     "measured_in": "doi:10.1007/s11837-021-04621-1"
    }
@@ -294,8 +299,8 @@
  },
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
-  "all_values_certified": true,
-  "n_certified": 6,
+  "all_values_certified": false,
+  "n_certified": 5,
   "values": [
    {
     "id": "ORC-LFBHE3QDDA",
@@ -324,7 +329,7 @@
    },
    {
     "id": "ORC-J6MXXD66TY",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    }
   ]

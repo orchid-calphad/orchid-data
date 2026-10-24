@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AG-BI.html · Markdown: https://data.orchid-project.org/systems/AG-BI.md
 
-54 accepted literature values from 2 paper(s) (experimental 22, model 3, unspecified 29); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 2 paper(s) (experimental 21, model 3, unspecified 30); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI.json) · [CSV](https://data.orchid-project.org/systems/AG-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-BI/AgBi-94Kat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-BI.html) · [Markdown](https://data.orchid-project.org/systems/AG-BI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 21 |
 | model | 3 |
-| unspecified | 29 |
+| unspecified | 30 |
 
 Table: Accepted values by property group
 
@@ -82,7 +82,7 @@ Table: Phase transition, Ag–Bi system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 541.02 K | 541.02 | other | experimental | [2] Karakaya 1993; _cites ref. 1894Hey_ | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
-| Phase transition | 544.592 K | 544.592 | other | experimental | [2] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
+| Phase transition | 544.592 K | 544.592 | other | unspecified | [2] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 | Phase transition | 1002.1 K | 1002.1 | α -> δ | model | [1] Assal 1999 | Table I, p. 1, row 21 |  |
 | Phase transition | 1003 K | 1003 | α -> δ; _α: Bi 0.95_ | experimental | [1] Assal 1999 | Table I, p. 1, row 4 |  |
 | Phase transition | 1004 K | 1004 | α -> δ; _α: Bi 0.974_ | experimental | [1] Assal 1999 | Table I, p. 1, row 2 |  |

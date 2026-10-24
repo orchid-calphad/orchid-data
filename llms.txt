@@ -1,6 +1,6 @@
 # ORCHID data
 
-> ORCHID data: 77,540 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+> ORCHID data: 74,474 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
 
 Evidence classes are never mixed: experimental | model (CALPHAD, linked to the TDB by SHA-256) | dft | unspecified.
 Formation enthalpies are in kJ/mol-atom when the per-atom basis is known; temperatures in K; compositions in mole fraction.

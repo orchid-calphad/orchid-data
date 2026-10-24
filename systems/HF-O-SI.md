@@ -1,10 +1,10 @@
 # Hf–O–Si system
 
-> Hf–O–Si system: 22 accepted literature values (crystal structure 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–O–Si system: 23 accepted literature values (crystal structure 22, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-O-SI.html · Markdown: https://data.orchid-project.org/systems/HF-O-SI.md
 
-22 accepted literature values from 1 paper(s) (DFT 22); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 1, DFT 22); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O-SI.json) · [CSV](https://data.orchid-project.org/systems/HF-O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-O-SI.html) · [Markdown](https://data.orchid-project.org/systems/HF-O-SI.md)
 
@@ -12,13 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
+| experimental | 1 |
 | DFT | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 1 |
 | crystal structure | 22 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Hf–O–Si system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 2023 | peritectic: Liquid +HfO2 (Monoclinic) → HfSiO4 |  | experimental | [1] Shin 2006 | p. 9 | “The enthalpy of formation of HfSiO4 is obtained from first-principles calculations and the entropy of formation is evaluated from its peritectic reaction, Liquid +HfO2 (Monoclinic) → HfSiO4 , at 2023 K as reported by” |
 
 ## Other properties
 

@@ -148,7 +148,7 @@ _assessment that models this phase_
 - Id: `phase:na-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 370.16–2500 K, x(Sn) 0–1
-- Literature: 31 values (31 accepted) from 1 papers
+- Literature: 31 values (30 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:liquid)
 
 Names (3): _corpus: _corpus:phase:na-sn:liquid  
@@ -267,7 +267,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Na4Sn3) — Hallstedt 2025 mmc2 row for NA4SN3: Na4Sn3
 - Stoichiometry: Na 0.5714, Sn 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 621.35–840 K, x(Sn) 0.42857–0.42857
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 15 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:na4sn3)
 
 Names (3): _corpus: _corpus:phase:na-sn:na4sn3  
@@ -405,7 +405,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (NaSn-ht) — Hallstedt 2025 mmc2 row for NASN_HT: NaSn (high T)
 - Stoichiometry: Na 0.5000, Sn 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 756.27–851.27 K, x(Sn) 0.5–0.5
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 17 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:nasn-ht)
 
 Names (4): _corpus: _corpus:phase:na-sn:nasn-ht  
@@ -443,7 +443,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.5000, Sn 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–756.27 K, x(Sn) 0.5–0.5
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 17 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:nasn-lt)
 
 Names (4): _corpus: _corpus:phase:na-sn:nasn-lt  

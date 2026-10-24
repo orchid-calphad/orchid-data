@@ -13,7 +13,7 @@ Table: Phases of the C–Ti system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-ti-a4-diamond); _phase:c-ti:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [GRAPHITE_A9](#phase-c-ti-a9-graphite); _phase:c-ti:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 2 | 5 |
+| [GRAPHITE_A9](#phase-c-ti-a9-graphite); _phase:c-ti:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 5 |
 | [BCC_A2](#phase-c-ti-bcc-a2); _phase:c-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018 | 8 | 5 |
 | [FCC_A1](#phase-c-ti-fcc-a1); _phase:c-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5 | 25 | 5 |
 | [HCP_A3](#phase-c-ti-hcp-a3); _phase:c-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1220 K, x(C) 0–0.02091 | 4 | 5 |
@@ -86,11 +86,10 @@ _assessment that models this phase_
 - Id: `phase:c-ti:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:a9-graphite)
 
-Names (8): _corpus: _corpus:phase:c-ti:a9-graphite, corpus:phase:c-ti:graphite-a9  
-_paper: _paper:10.1007/bf02648366:C  
+Names (7): _corpus: _corpus:phase:c-ti:a9-graphite, corpus:phase:c-ti:graphite-a9  
 _tdb: _tdb:TiC-03Fri.tdb:GRAPHITE_A9, tdb:TiC-95Dus.tdb:GRAPHITE_A9, tdb:TiC-96Jon.tdb:GRAPHITE_A9, tdb:TiC-96Sei.tdb:GRAPHITE_A9, tdb:TiC-99Dum-LB.tdb:GRAPHITE_A9  
 
 
@@ -131,11 +130,11 @@ _tdb: _tdb:TiC-03Fri.tdb:GRAPHITE_A9, tdb:TiC-95Dus.tdb:GRAPHITE_A9, tdb:TiC-96J
 46: CONST GRAPHITE_A9 : C : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02646248](https://doi.org/10.1007/BF02646248) H. Duschanek, P. Rogl, H.L. Lukas, J. Phase Equilib., 16, 46-60(1995).  
+_assessment that models this phase_
+- [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2004.01.004](https://doi.org/10.1016/j.calphad.2004.01.004) Karin Frisk, A revised thermodynamic description of the Ti–C system, Calphad 27, 367-373 (2003).  
 _assessment that models this phase_
@@ -143,8 +142,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900712](https://doi.org/10.1515/ijmr-1999-900712) L.F.S. Dumitrescu, M. Hillert, B. Sundman, Z. Metallkd., 90, 534-41(1999).  
 _assessment that models this phase_
-- [doi:10.21236/ada470307](https://doi.org/10.21236/ada470307) Erwin Rudy, Austin Y. Chang, Stefan Windisch, Ternary Phase Equilibria in Transition Metal-Boron-Carbon-Silicon Systems. Part 1. Related Binary Systems. Volume 1. Mo-C System, (1965).  
-_cited as the source of values for this phase_
 
 ## BCC_A2 (C–Ti)
 

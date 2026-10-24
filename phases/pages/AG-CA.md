@@ -127,7 +127,7 @@ _cited as the source of values for this phase_
 - Structure: Ag7Yb2 · oC36 · Cmcm (63); type `st:ag7yb2-oc36`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ag 0.7778, Ca 0.2222
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1003.95 K, x(Ca) 0.22222–0.22222
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 13 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ca:ag7ca2)
 
 Names (8): _corpus: _corpus:phase:ag-ca:ag7ca2  
@@ -462,7 +462,7 @@ _assessment that models this phase_
 - Id: `phase:ag-ca:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 736.72–2500 K, x(Ca) 0–1
-- Literature: 49 values (49 accepted) from 2 papers
+- Literature: 49 values (47 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ca:liquid)
 
 Names (6): _corpus: _corpus:phase:ag-ca:liquid  

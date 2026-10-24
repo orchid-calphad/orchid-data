@@ -102,6 +102,7 @@
   "observations": [
    {
     "id": "ORC-ZFZUUY7HL4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2010.10.005",
     "measured_in": "doi:10.1016/j.tca.2010.10.005",
     "also_reported_as": [
@@ -115,6 +116,7 @@
    },
    {
     "id": "ORC-HK5AOEQC6M",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2010.10.005",
     "measured_in": "doi:10.1016/j.tca.2010.10.005",
     "also_reported_as": [

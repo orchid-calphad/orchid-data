@@ -1,10 +1,10 @@
 # Co–V system
 
-> Co–V system: 130 accepted literature values (formation 76, invariant reaction 35, phase transition 11, phase equilibrium 6) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–V system: 129 accepted literature values (formation 75, invariant reaction 35, phase transition 11, phase equilibrium 6) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-V.html · Markdown: https://data.orchid-project.org/systems/CO-V.md
 
-130 accepted literature values from 4 paper(s) (experimental 70, model 29, DFT 25, unspecified 6); 6 calculated phase diagram(s).
+129 accepted literature values from 4 paper(s) (experimental 69, model 29, DFT 25, unspecified 6); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-V.json) · [CSV](https://data.orchid-project.org/systems/CO-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-V/CoV-03Bra-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CO-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-V.html) · [Markdown](https://data.orchid-project.org/systems/CO-V.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 70 |
+| experimental | 69 |
 | model | 29 |
 | DFT | 25 |
 | unspecified | 6 |
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 35 |
 | phase transition | 11 |
 | phase equilibrium | 6 |
-| formation | 76 |
+| formation | 75 |
 | mixing / partial | 2 |
 
 ## Calculated phase diagrams
@@ -154,7 +154,7 @@ Table: Invariant reactions reported in the literature for the Co–V system (35)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–V system (56)
+Table: Enthalpies of formation, Co–V system (55)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -198,7 +198,6 @@ Table: Enthalpies of formation, Co–V system (56)
 | fcc |  | -3.821 kJ/mol-atom | 1473 | model |  |  | [1] Bratberg 2003 | Table 3, p. 6, row 2 |  |
 | σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 11 |  |
 | σ |  | -11.225 kJ/mol-atom ± 0.85 | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6 |  |
-| σ |  | -11.225 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 6 |  |
 | σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 13 |  |
 | σ |  | -11.005 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 2, p. 6, row 7 |  |
 | σ |  | -10.88 kJ/mol-atom | 1473 | experimental |  |  | [1] Bratberg 2003; _cites Spencer 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990028-8) | Table 3, p. 6, row 9 |  |

@@ -290,14 +290,14 @@ Table: Crystal structure, Mn–Ti system
 | Lattice a | 0.89737 nm | 900 | (αMn); _(αMn): Mn 0.88, Ti 0.12_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 17 |  |
 | Lattice a | 0.6315 nm | 913.5 | (βMn); _(βMn): Mn 0.967, Ti 0.033_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 12 |  |
 | Lattice a | 2.3596 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
-| Lattice a | 0.79081 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.765, Ti 0.235_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice a | 0.79081 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
 | Lattice a | 1.1007 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
 | Lattice a | 0.386 nm | 1119 | (γMn); _(γMn): Mn 0.994, Ti 0.006_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 10 |  |
 | Lattice a | 0.308 nm | 1192 | (δMn); _(δMn): Mn 0.954, Ti 0.046_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 7 |  |
 | Lattice a | 0.3307 nm | 1276 | (βTi); _(βTi): Mn 0.256, Ti 0.744; (βTi) (βTi1−xMnx): Mn 0, Ti 1_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 1 |  |
 | Lattice b | 2.58557 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
 | Lattice b | 2.58557 nm ± 9.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 18 |  |
-| Lattice b | 2.58557 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.765, Ti 0.235_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice b | 2.58557 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
 | Lattice c | 0.78038 nm | 0 | TiMn2; _alloy: Ti 0.333333_ | DFT | [3] Khan 2016 | Table 1, p. 6, row 25 |  |
 | Lattice c | 0.79099 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 23 |  |
 | Lattice c | 0.47931 nm ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mn 0.751, Ti 0.249_ | experimental | [3] Khan 2016 | Table 3, p. 9, row 17 |  |
@@ -308,7 +308,7 @@ Table: Crystal structure, Mn–Ti system
 | Lattice c | 0.79309 nm | 298.15 | UNKNOWN | experimental | [3] Khan 2016 | Table 1, p. 6, row 22 |  |
 | Lattice c | 0.4684 nm | 882 (\<) | (αTi); _(αTi): Mn 0.004, Ti 0.996_ | experimental | [3] Khan 2016; _cites ref. 10_ | Table 1, p. 6, row 5 |  |
 | Lattice c | 0.8035 nm | 970 (\<) | TiMn1-x; _TiMn1-x: Mn 0.466, Ti 0.534_ | experimental | [3] Khan 2016; _cites ref. 16_ | Table 1, p. 6, row 18 |  |
-| Lattice c | 0.47931 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.765, Ti 0.235_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
+| Lattice c | 0.47931 nm | 1047.5 | TiMn~3; _TiMn~3: Mn 0.5, Ti 0.5_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 26 |  |
 | Lattice c | 1.94411 nm | 1050 | TiMn~4; _TiMn~4: Mn 0.84, Ti 0.16_ | experimental | [3] Khan 2016 | Table 1, p. 6, row 27 |  |
 
 ## Sources

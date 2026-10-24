@@ -172,6 +172,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J2SVQZ7AXV ORC-R7OHUAERMY ORC-6Y5JJB7A7A ORC-YIADGUXWWB",
@@ -182,18 +183,22 @@
   "observations": [
    {
     "id": "ORC-J2SVQZ7AXV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.07.010"
    },
    {
     "id": "ORC-R7OHUAERMY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.07.010"
    },
    {
     "id": "ORC-6Y5JJB7A7A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.07.010"
    },
    {
     "id": "ORC-YIADGUXWWB",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.calphad.2008.07.010"
    }
   ],

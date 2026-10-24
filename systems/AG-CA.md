@@ -1,10 +1,10 @@
 # Ag–Ca system
 
-> Ag–Ca system: 97 accepted literature values (invariant reaction 46, phase transition 40, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ca system: 95 accepted literature values (invariant reaction 46, phase transition 38, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CA.html · Markdown: https://data.orchid-project.org/systems/AG-CA.md
 
-97 accepted literature values from 2 paper(s) (experimental 61, model 26, unspecified 10); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+95 accepted literature values from 2 paper(s) (experimental 65, model 21, unspecified 9); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AG-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CA.html) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 61 |
-| model | 26 |
-| unspecified | 10 |
+| experimental | 65 |
+| model | 21 |
+| unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 46 |
-| phase transition | 40 |
+| phase transition | 38 |
 | formation | 7 |
 | activity / EMF / Gibbs energy | 4 |
 
@@ -172,14 +172,12 @@ Table: Enthalpies of formation, Ag–Ca system (7)
 
 ## Other properties
 
-### Phase transition (40)
+### Phase transition (38)
 
 Table: Phase transition, Ag–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 100 K | 100 | congruent melting: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | model | [2] Huang 2008 | Table 3, p. 3, row 5 |  |
-| Phase transition | 100 K | 100 | congruent melting: L -> Ca2Ag7; _L: Ca 0.222; Ca2Ag7: Ca 0.222_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 6 |  |
 | Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [2] Huang 2008 | Table 3, p. 3, row 19 |  |
 | Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20 |  |
 | Phase transition | 730 K | 730 | Cooling; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 30 |  |
@@ -225,10 +223,10 @@ Table: Activity / EMF / Gibbs energy, Ag–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: free energy of formation_ | -15.7 kJ/mol | 830 |  | model | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
-| Gibbs energy; _printed: free energy of formation_ | -25 kJ/mol | 830 |  | model | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
-| Gibbs energy; _printed: free energy of formation_ | -18.9 kJ/mol | 830 |  | model | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
-| Gibbs energy; _printed: free energy of formation_ | -22.5 kJ/mol | 830 |  | model | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
+| Gibbs energy; _printed: free energy of formation_ | -15.7 kJ/mol | 830 |  | experimental | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
+| Gibbs energy; _printed: free energy of formation_ | -25 kJ/mol | 830 |  | experimental | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
+| Gibbs energy; _printed: free energy of formation_ | -18.9 kJ/mol | 830 |  | experimental | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
+| Gibbs energy; _printed: free energy of formation_ | -22.5 kJ/mol | 830 |  | experimental | [2] Huang 2008; _cites Notin 1982_ [doi](https://doi.org/10.1016/0364-5916%2882%2990015-3) | p. 1 | “Notin and Hertz \[11\] determined the free energy of formation of Ca2 Ag9 , Ca2 Ag7 , CaAg2 and CaAg at 830 K to be -15.7, -18.9, -22.5 and -25 kJ/mol, respectively.” |
 
 ## Sources
 

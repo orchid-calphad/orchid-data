@@ -52,6 +52,7 @@
   "observations": [
    {
     "id": "ORC-OOUUOWXXSK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0460-4"
    }
   ],

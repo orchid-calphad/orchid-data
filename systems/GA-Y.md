@@ -1,10 +1,10 @@
 # Ga–Y system
 
-> Ga–Y system: 57 accepted literature values (formation 24, invariant reaction 20, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Y system: 56 accepted literature values (formation 23, invariant reaction 20, phase transition 10, mixing / partial 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-Y.html · Markdown: https://data.orchid-project.org/systems/GA-Y.md
 
-57 accepted literature values from 1 paper(s) (experimental 26, model 31); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+56 accepted literature values from 1 paper(s) (experimental 25, model 31); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-Y.json) · [CSV](https://data.orchid-project.org/systems/GA-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-Y/GaY-13Idb.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-Y.html) · [Markdown](https://data.orchid-project.org/systems/GA-Y.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
+| experimental | 25 |
 | model | 31 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 20 |
 | phase transition | 10 |
-| formation | 24 |
+| formation | 23 |
 | mixing / partial | 3 |
 
 ## Calculated phase diagrams
@@ -81,7 +81,7 @@ Table: Invariant reactions reported in the literature for the Ga–Y system (20)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ga–Y system (24)
+Table: Enthalpies of formation, Ga–Y system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -108,7 +108,6 @@ Table: Enthalpies of formation, Ga–Y system (24)
 | GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -71.4 kJ/mol-atom ± 1.7 | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 5, p. 7, row 17 |  |
 | GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -71 kJ/mol-atom | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Merker 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990065-c) | Table 5, p. 7, row 18 |  |
 | GaY | [GaY](https://data.orchid-project.org/compounds/GaY.html) | -68.9 kJ/mol-atom ± 2.8 | 298.15 | experimental | -64.449 (mp-aaaaaqxg) | -64.338 (oqmd-30366) | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 13 |  |
-| UNKNOWN |  | -61.8 kJ/mol-atom ± 2.8 | 298.15 | experimental |  |  | [1] Idbenali 2013; _cites Babu 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901132-4) | Table 5, p. 7, row 2 |  |
 
 ## Other properties
 

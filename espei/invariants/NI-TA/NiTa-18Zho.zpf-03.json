@@ -123,14 +123,17 @@
   "observations": [
    {
     "id": "ORC-5HGLLPOSLR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.06.011"
    },
    {
     "id": "ORC-FJBIQZ27FD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.06.011"
    },
    {
     "id": "ORC-HLROVMFJYG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2018.06.011"
    }
   ],

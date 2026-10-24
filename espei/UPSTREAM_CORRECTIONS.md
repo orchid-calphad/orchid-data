@@ -8,87 +8,87 @@ The bundle never changes a published literature value. Where the export had to d
 |---|---|---|---|---|---|
 | ORC-5MP57ADSXW.538c92 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-FU36JJPD4E.072b4c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-KO7RM2QBTG.3d1a02 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-NCKZ3PREPK.72dbfd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-LC3RLTZB2A.119b82 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-SQISU6VSCV.37e260 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-KO7RM2QBTG.0610cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-NCKZ3PREPK.55e8b5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-LC3RLTZB2A.0411d0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-SQISU6VSCV.19ac6f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-JN3BU3V3UQ.41bcb0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-5OZGTSNZVA.7597e1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-5OZGTSNZVA.3a2b7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-S3UQLI7BPF.05e5cd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-ZROKVQJL2B.cb5a6a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-TY3NGMQR4C.622722 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-LMNMH76YJK.8409cd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-3KYMCK7EM4.ec2ebf | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-CZKA3JE6K5.fae357 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-UQTPQTQMAW.ce9cc6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-ZROKVQJL2B.9a73df | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-TY3NGMQR4C.03f1ba | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-LMNMH76YJK.4b0091 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-3KYMCK7EM4.a56b41 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-CZKA3JE6K5.8b5cce | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-UQTPQTQMAW.85d3b6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-SJAFM2LLZF.98e9e1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-TZNGIKQ7VA.3379d5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-X4IWZFAVSX.e0b126 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-QBFSLHIM2Y.f7fa29 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-7LBBMU2S24.fb84a4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-2KRHGPYFBW.8c9568 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-TZNGIKQ7VA.130c7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-X4IWZFAVSX.e02cc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-QBFSLHIM2Y.002bdb | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-7LBBMU2S24.d13dc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-2KRHGPYFBW.5f228b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-5MP57ADSXW.93bc01 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-FU36JJPD4E.bbfc1c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-KO7RM2QBTG.0341a1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-NCKZ3PREPK.d2e6ad | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-NCKZ3PREPK.a50b1d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-LC3RLTZB2A.cc350b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-SQISU6VSCV.ed1064 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-JN3BU3V3UQ.389e2c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-5OZGTSNZVA.a82344 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-S3UQLI7BPF.b1a72d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-ZROKVQJL2B.b60b47 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-SQISU6VSCV.2d7227 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-JN3BU3V3UQ.11fa96 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-5OZGTSNZVA.32d0af | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-S3UQLI7BPF.3499ee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-ZROKVQJL2B.7ed026 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-TY3NGMQR4C.3c0536 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-LMNMH76YJK.ce6688 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-3KYMCK7EM4.dcf425 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-CZKA3JE6K5.2b414b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-UQTPQTQMAW.ba1fb5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-SJAFM2LLZF.e21149 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-TZNGIKQ7VA.b9e4e2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-X4IWZFAVSX.e07634 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-QBFSLHIM2Y.9097a4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-LMNMH76YJK.9d5bcf | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-3KYMCK7EM4.74e5cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-CZKA3JE6K5.129b2c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-UQTPQTQMAW.574bb4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-SJAFM2LLZF.c6fe55 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-TZNGIKQ7VA.816fb1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-X4IWZFAVSX.4c1922 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-QBFSLHIM2Y.2f907e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-7LBBMU2S24.508a38 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-2KRHGPYFBW.9dfddb | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-3SOWKONKY4.ec37be | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-GEL6SZZHLI.b8bd60 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-2KRHGPYFBW.8277c4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-3SOWKONKY4.a8425d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-GEL6SZZHLI.83f50a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-DIDX6VFZX5.9ae6db | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-VGZITPKLA5.9db2f8 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-AMDFCACSBH.cad77a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-OVWFFZU6IF.d74623 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-PRO2KGSCGH.a11aa6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-X6Y4FTGPAN.c4343a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-XEDXRMDT4P.f20915 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-H2OOKTUZCC.ab499c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-IEVSXBE66O.bb9826 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-AMDFCACSBH.7d4893 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-OVWFFZU6IF.5b83a0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-PRO2KGSCGH.4b298d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-X6Y4FTGPAN.3fbf8a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-XEDXRMDT4P.8cd2ff | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-H2OOKTUZCC.3bcfb3 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-IEVSXBE66O.62a9bd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-2WMVT745V6.6baea4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-EH6IAUO2NG.3d3e36 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-EH6IAUO2NG.384837 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-R4DMMVGBF5.06debc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-D7AU7J2EIB.ed956b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-AQ7AOTMQZL.6aa7f6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-D7AU7J2EIB.9d5eee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-AQ7AOTMQZL.4cc006 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-LD7CL5LFCB.271d5f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-KZD6YH2VDP.83169c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-Q77DLAE7GB.f96fdf | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-HK3UZCOV44.e6b93f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
-| ORC-53NFUIBR57.d496da | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-Q77DLAE7GB.bd0781 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-HK3UZCOV44.911141 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
+| ORC-53NFUIBR57.855fcc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | CU | FCC_A1 | LIQUID | printed |
 | ORC-3SOWKONKY4.3002f1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-GEL6SZZHLI.22cb54 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-DIDX6VFZX5.cfdb07 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-DIDX6VFZX5.798c63 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-VGZITPKLA5.6329f8 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-AMDFCACSBH.d48b2b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-AMDFCACSBH.654289 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-OVWFFZU6IF.21957a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-PRO2KGSCGH.e05148 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-X6Y4FTGPAN.f54536 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-XEDXRMDT4P.f31b53 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-H2OOKTUZCC.d54d36 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-PRO2KGSCGH.694ff1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-X6Y4FTGPAN.1fb007 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-XEDXRMDT4P.549211 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-H2OOKTUZCC.b55997 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-IEVSXBE66O.1a01ab | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-2WMVT745V6.562b81 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-EH6IAUO2NG.e302fc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-2WMVT745V6.0fb0a5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-EH6IAUO2NG.2a190d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-R4DMMVGBF5.95bc4d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-D7AU7J2EIB.14d891 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-AQ7AOTMQZL.7dcede | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-AQ7AOTMQZL.4d7b93 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-LD7CL5LFCB.2bb348 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-KZD6YH2VDP.54cb32 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-Q77DLAE7GB.335c76 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
-| ORC-HK3UZCOV44.6a72f7 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-Q77DLAE7GB.2ea175 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
+| ORC-HK3UZCOV44.557d70 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 | ORC-53NFUIBR57.c4014e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3 | ZR | HCP_A3 | LIQUID | printed |
 
 ## The same printed row read twice (E4)
@@ -102,88 +102,88 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-A457RLOQUZ.937344 | ORC-A457RLOQUZ.937344 | doi:10.1016/j.jallcom.2004.04.126/p4/tab-2/r12#equilibrium_property |
 | ORC-B4KB6D5M4Q.d212bf | ORC-B4KB6D5M4Q.d212bf | doi:10.1016/j.jallcom.2004.04.126/p4/tab-2/r32#equilibrium_property |
 | ORC-NGJRNJDINQ | ORC-NGJRNJDINQ | doi:10.1016/j.jallcom.2014.05.141/p2/tab-1/r04#equilibrium_property |
-| ORC-UPOYVTUV5Y.60edbe | ORC-UPOYVTUV5Y.a79759 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r01#equilibrium_property |
-| ORC-DH2IGAU4R4.fbfffc | ORC-DH2IGAU4R4.f85c1f | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r02#equilibrium_property |
-| ORC-XZQIWMFZYL.71a627 | ORC-XZQIWMFZYL.c25b39 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r03#equilibrium_property |
-| ORC-5FROBP7ARD.953f77 | ORC-5FROBP7ARD.6c7529 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r04#equilibrium_property |
-| ORC-KYWYSQIVUH.08e242 | ORC-KYWYSQIVUH.a073e2 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r05#equilibrium_property |
-| ORC-LRHV5MAEZO.4e313a | ORC-LRHV5MAEZO.10d0af | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r06#equilibrium_property |
-| ORC-BAO6SHD72G.5440b2 | ORC-BAO6SHD72G.160390 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r07#equilibrium_property |
-| ORC-CKTKVWFYZH.c24db5 | ORC-CKTKVWFYZH.8e46db | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r08#equilibrium_property |
-| ORC-DC7O5HN2WM.627c1a | ORC-DC7O5HN2WM.90997f | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r09#equilibrium_property |
-| ORC-LYUSMKZDEB.deec2c | ORC-LYUSMKZDEB.6a9a9c | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r10#equilibrium_property |
-| ORC-4W6T3ICZIG.9d1ab9 | ORC-4W6T3ICZIG.0f9dfa | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r11#equilibrium_property |
-| ORC-5BZY5GRORQ.219132 | ORC-5BZY5GRORQ.42abb7 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r12#equilibrium_property |
-| ORC-U2PCO2SDRR.31e67a | ORC-U2PCO2SDRR.6a8a02 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r13#equilibrium_property |
-| ORC-6HHKAQX3T5.21bf41 | ORC-6HHKAQX3T5.1e52a8 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r14#equilibrium_property |
-| ORC-TUCLD4GVW5.40025e | ORC-TUCLD4GVW5.786e95 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r15#equilibrium_property |
-| ORC-GB5GW42HLU.1b3248 | ORC-GB5GW42HLU.6c4ac1 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r16#equilibrium_property |
-| ORC-YDXV67V7T2.2b0fc9 | ORC-YDXV67V7T2.45f56e | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r17#equilibrium_property |
-| ORC-TN3WLU6ZLT.65a42b | ORC-TN3WLU6ZLT.2bfba9 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r18#equilibrium_property |
-| ORC-CEU7U6V4GF.c3820b | ORC-CEU7U6V4GF.dfe190 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r19#equilibrium_property |
-| ORC-4DGGWXUTZP.5e6ffb | ORC-4DGGWXUTZP.b574f0 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r20#equilibrium_property |
-| ORC-OIYJ2ORV6Q.bac776 | ORC-OIYJ2ORV6Q.5e0e45 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r21#equilibrium_property |
-| ORC-RNGVKEETAU.1423dd | ORC-RNGVKEETAU.d37fcd | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r22#equilibrium_property |
-| ORC-YC6IQIAXZC.6a1582 | ORC-YC6IQIAXZC.7dc1ad | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r23#equilibrium_property |
-| ORC-OQHUT4VFEO.69ba60 | ORC-OQHUT4VFEO.c5ee0a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r24#equilibrium_property |
-| ORC-2IC6G65Y5M.ee8213 | ORC-2IC6G65Y5M.19b3fb | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r25#equilibrium_property |
-| ORC-HYMXJTRFFF.b91ff3 | ORC-HYMXJTRFFF.aed46c | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r26#equilibrium_property |
-| ORC-TUJST44ZEI.1513aa | ORC-TUJST44ZEI.39a522 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r27#equilibrium_property |
-| ORC-4QWARINJIL.eaa040 | ORC-4QWARINJIL.a2fb97 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r28#equilibrium_property |
-| ORC-5BADYO5PR6.29487c | ORC-5BADYO5PR6.172a6e | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r29#equilibrium_property |
-| ORC-CHEJLXLDTE.3bb446 | ORC-CHEJLXLDTE.1efd02 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r30#equilibrium_property |
-| ORC-E2ONQJJDH2.a22a78 | ORC-E2ONQJJDH2.504bf6 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r31#equilibrium_property |
-| ORC-G3F2LU73LA.24b912 | ORC-G3F2LU73LA.c7532a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r32#equilibrium_property |
-| ORC-D2OAPRRNBX.1e0d8a | ORC-D2OAPRRNBX.aef200 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r33#equilibrium_property |
-| ORC-2MH7Y6VAKB.27333d | ORC-2MH7Y6VAKB.83b48e | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r34#equilibrium_property |
-| ORC-DENBWB3K3C.9805cf | ORC-DENBWB3K3C.795a9d | doi:10.1007/s11669-018-0683-7/p3/tab-1/r01#equilibrium_property |
-| ORC-DYLEZCG4HM.b90007 | ORC-DYLEZCG4HM.dda937 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r10#equilibrium_property |
-| ORC-NOQDCUENTV.5695f3 | ORC-NOQDCUENTV.ece9ca | doi:10.1007/s11669-018-0683-7/p3/tab-1/r02#equilibrium_property |
-| ORC-FORFJG353E.0cea63 | ORC-FORFJG353E.e63569 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
-| ORC-IYYBFJIDJR.9a13f7 | ORC-IYYBFJIDJR.b0c51f | doi:10.1007/s11669-018-0683-7/p3/tab-1/r03#equilibrium_property |
-| ORC-IAHORPYKKP.4a3737 | ORC-IAHORPYKKP.dffef8 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r04#equilibrium_property |
-| ORC-FCNMFTUR4E.d90e23 | ORC-FCNMFTUR4E.92fd58 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r11#equilibrium_property |
-| ORC-N7ZOMZ7UNS.e9c9c9 | ORC-N7ZOMZ7UNS.69f53d | doi:10.1007/s11669-018-0683-7/p3/tab-1/r05#equilibrium_property |
-| ORC-PJHC2KGG2M.159934 | ORC-PJHC2KGG2M.c02e48 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r14#equilibrium_property |
-| ORC-RMJA7ZD7GC.fc193f | ORC-RMJA7ZD7GC.195be4 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r06#equilibrium_property |
-| ORC-S7IJ2WTKZG.22e618 | ORC-S7IJ2WTKZG.c6a6ae | doi:10.1007/s11669-018-0683-7/p3/tab-1/r07#equilibrium_property |
-| ORC-IR25DWRF5G.fee548 | ORC-IR25DWRF5G.53bf45 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r12#equilibrium_property |
-| ORC-3HNT2KROYM.fc350f | ORC-3HNT2KROYM.a2bfc1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r08#equilibrium_property |
-| ORC-JFXIVMRCAO.3f0c26 | ORC-JFXIVMRCAO.b4f2b4 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r13#equilibrium_property |
-| ORC-EG4CZFRGL7.697286 | ORC-EG4CZFRGL7.ed96ac | doi:10.1007/s11669-018-0683-7/p3/tab-1/r09#equilibrium_property |
-| ORC-G2E5AOIVAY.bab2df | ORC-G2E5AOIVAY.76a40b | doi:10.1007/s11669-018-0683-7/p3/tab-1/r16#equilibrium_property |
-| ORC-DENBWB3K3C.0a754d | ORC-DENBWB3K3C.f053d3 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r01#equilibrium_property |
-| ORC-DYLEZCG4HM.d2c55e | ORC-DYLEZCG4HM.87c197 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r10#equilibrium_property |
-| ORC-FORFJG353E.18dd13 | ORC-FORFJG353E.18dd13 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
-| ORC-FORFJG353E.18dd13 | ORC-FORFJG353E.50f713 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
-| ORC-IYYBFJIDJR.e433be | ORC-IYYBFJIDJR.5ed8ac | doi:10.1007/s11669-018-0683-7/p3/tab-1/r03#equilibrium_property |
-| ORC-IAHORPYKKP.c8c592 | ORC-IAHORPYKKP.ee26d1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r04#equilibrium_property |
-| ORC-FCNMFTUR4E.901fdd | ORC-FCNMFTUR4E.f22bb3 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r11#equilibrium_property |
-| ORC-N7ZOMZ7UNS.352d88 | ORC-N7ZOMZ7UNS.c3fba0 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r05#equilibrium_property |
-| ORC-PJHC2KGG2M.d50a74 | ORC-PJHC2KGG2M.da54bd | doi:10.1007/s11669-018-0683-7/p3/tab-1/r14#equilibrium_property |
-| ORC-RMJA7ZD7GC.3990b7 | ORC-RMJA7ZD7GC.11b1bd | doi:10.1007/s11669-018-0683-7/p3/tab-1/r06#equilibrium_property |
-| ORC-S7IJ2WTKZG.4adf0e | ORC-S7IJ2WTKZG.8ae02e | doi:10.1007/s11669-018-0683-7/p3/tab-1/r07#equilibrium_property |
-| ORC-IR25DWRF5G.165461 | ORC-IR25DWRF5G.7f35b1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r12#equilibrium_property |
-| ORC-3HNT2KROYM.2327c9 | ORC-3HNT2KROYM.68a880 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r08#equilibrium_property |
-| ORC-JFXIVMRCAO.047605 | ORC-JFXIVMRCAO.aecbc9 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r13#equilibrium_property |
-| ORC-EG4CZFRGL7.8c720a | ORC-EG4CZFRGL7.4223e1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r09#equilibrium_property |
-| ORC-G2E5AOIVAY.bd6342 | ORC-G2E5AOIVAY.1d15e8 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r16#equilibrium_property |
+| ORC-UPOYVTUV5Y.60edbe | ORC-UPOYVTUV5Y.60edbe | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r01#equilibrium_property |
+| ORC-DH2IGAU4R4.fbfffc | ORC-DH2IGAU4R4.fbfffc | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r02#equilibrium_property |
+| ORC-XZQIWMFZYL.71a627 | ORC-XZQIWMFZYL.71a627 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r03#equilibrium_property |
+| ORC-5FROBP7ARD.953f77 | ORC-5FROBP7ARD.953f77 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r04#equilibrium_property |
+| ORC-KYWYSQIVUH.08e242 | ORC-KYWYSQIVUH.08e242 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r05#equilibrium_property |
+| ORC-LRHV5MAEZO.4e313a | ORC-LRHV5MAEZO.4e313a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r06#equilibrium_property |
+| ORC-BAO6SHD72G.5440b2 | ORC-BAO6SHD72G.5440b2 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r07#equilibrium_property |
+| ORC-CKTKVWFYZH.c24db5 | ORC-CKTKVWFYZH.c24db5 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r08#equilibrium_property |
+| ORC-DC7O5HN2WM.627c1a | ORC-DC7O5HN2WM.627c1a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r09#equilibrium_property |
+| ORC-LYUSMKZDEB.deec2c | ORC-LYUSMKZDEB.deec2c | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r10#equilibrium_property |
+| ORC-4W6T3ICZIG.9d1ab9 | ORC-4W6T3ICZIG.9d1ab9 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r11#equilibrium_property |
+| ORC-5BZY5GRORQ.219132 | ORC-5BZY5GRORQ.219132 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r12#equilibrium_property |
+| ORC-U2PCO2SDRR.31e67a | ORC-U2PCO2SDRR.31e67a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r13#equilibrium_property |
+| ORC-6HHKAQX3T5.21bf41 | ORC-6HHKAQX3T5.21bf41 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r14#equilibrium_property |
+| ORC-TUCLD4GVW5.40025e | ORC-TUCLD4GVW5.40025e | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r15#equilibrium_property |
+| ORC-GB5GW42HLU.1b3248 | ORC-GB5GW42HLU.1b3248 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r16#equilibrium_property |
+| ORC-YDXV67V7T2.2b0fc9 | ORC-YDXV67V7T2.2b0fc9 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r17#equilibrium_property |
+| ORC-TN3WLU6ZLT.65a42b | ORC-TN3WLU6ZLT.65a42b | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r18#equilibrium_property |
+| ORC-CEU7U6V4GF.c3820b | ORC-CEU7U6V4GF.c3820b | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r19#equilibrium_property |
+| ORC-4DGGWXUTZP.5e6ffb | ORC-4DGGWXUTZP.5e6ffb | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r20#equilibrium_property |
+| ORC-OIYJ2ORV6Q.bac776 | ORC-OIYJ2ORV6Q.bac776 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r21#equilibrium_property |
+| ORC-RNGVKEETAU.1423dd | ORC-RNGVKEETAU.1423dd | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r22#equilibrium_property |
+| ORC-YC6IQIAXZC.6a1582 | ORC-YC6IQIAXZC.6a1582 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r23#equilibrium_property |
+| ORC-OQHUT4VFEO.69ba60 | ORC-OQHUT4VFEO.69ba60 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r24#equilibrium_property |
+| ORC-2IC6G65Y5M.ee8213 | ORC-2IC6G65Y5M.ee8213 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r25#equilibrium_property |
+| ORC-HYMXJTRFFF.b91ff3 | ORC-HYMXJTRFFF.b91ff3 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r26#equilibrium_property |
+| ORC-TUJST44ZEI.1513aa | ORC-TUJST44ZEI.1513aa | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r27#equilibrium_property |
+| ORC-4QWARINJIL.eaa040 | ORC-4QWARINJIL.eaa040 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r28#equilibrium_property |
+| ORC-5BADYO5PR6.29487c | ORC-5BADYO5PR6.29487c | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r29#equilibrium_property |
+| ORC-CHEJLXLDTE.3bb446 | ORC-CHEJLXLDTE.3bb446 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r30#equilibrium_property |
+| ORC-E2ONQJJDH2.a22a78 | ORC-E2ONQJJDH2.a22a78 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r31#equilibrium_property |
+| ORC-G3F2LU73LA.24b912 | ORC-G3F2LU73LA.24b912 | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r32#equilibrium_property |
+| ORC-D2OAPRRNBX.1e0d8a | ORC-D2OAPRRNBX.1e0d8a | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r33#equilibrium_property |
+| ORC-2MH7Y6VAKB.27333d | ORC-2MH7Y6VAKB.27333d | doi:10.1016/j.jallcom.2021.161937/p5/tab-2/r34#equilibrium_property |
+| ORC-DENBWB3K3C.795a9d | ORC-DENBWB3K3C.795a9d | doi:10.1007/s11669-018-0683-7/p3/tab-1/r01#equilibrium_property |
+| ORC-DYLEZCG4HM.dda937 | ORC-DYLEZCG4HM.dda937 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r10#equilibrium_property |
+| ORC-NOQDCUENTV.ece9ca | ORC-NOQDCUENTV.ece9ca | doi:10.1007/s11669-018-0683-7/p3/tab-1/r02#equilibrium_property |
+| ORC-FORFJG353E.e63569 | ORC-FORFJG353E.e63569 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
+| ORC-IYYBFJIDJR.b0c51f | ORC-IYYBFJIDJR.b0c51f | doi:10.1007/s11669-018-0683-7/p3/tab-1/r03#equilibrium_property |
+| ORC-IAHORPYKKP.dffef8 | ORC-IAHORPYKKP.dffef8 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r04#equilibrium_property |
+| ORC-FCNMFTUR4E.92fd58 | ORC-FCNMFTUR4E.92fd58 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r11#equilibrium_property |
+| ORC-N7ZOMZ7UNS.69f53d | ORC-N7ZOMZ7UNS.69f53d | doi:10.1007/s11669-018-0683-7/p3/tab-1/r05#equilibrium_property |
+| ORC-PJHC2KGG2M.c02e48 | ORC-PJHC2KGG2M.c02e48 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r14#equilibrium_property |
+| ORC-RMJA7ZD7GC.195be4 | ORC-RMJA7ZD7GC.195be4 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r06#equilibrium_property |
+| ORC-S7IJ2WTKZG.c6a6ae | ORC-S7IJ2WTKZG.c6a6ae | doi:10.1007/s11669-018-0683-7/p3/tab-1/r07#equilibrium_property |
+| ORC-IR25DWRF5G.53bf45 | ORC-IR25DWRF5G.53bf45 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r12#equilibrium_property |
+| ORC-3HNT2KROYM.a2bfc1 | ORC-3HNT2KROYM.a2bfc1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r08#equilibrium_property |
+| ORC-JFXIVMRCAO.b4f2b4 | ORC-JFXIVMRCAO.b4f2b4 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r13#equilibrium_property |
+| ORC-EG4CZFRGL7.ed96ac | ORC-EG4CZFRGL7.ed96ac | doi:10.1007/s11669-018-0683-7/p3/tab-1/r09#equilibrium_property |
+| ORC-G2E5AOIVAY.76a40b | ORC-G2E5AOIVAY.76a40b | doi:10.1007/s11669-018-0683-7/p3/tab-1/r16#equilibrium_property |
+| ORC-DENBWB3K3C.f053d3 | ORC-DENBWB3K3C.f053d3 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r01#equilibrium_property |
+| ORC-DYLEZCG4HM.87c197 | ORC-DYLEZCG4HM.87c197 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r10#equilibrium_property |
+| ORC-FORFJG353E.50f713 | ORC-FORFJG353E.50f713 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
+| ORC-FORFJG353E.50f713 | ORC-FORFJG353E.50f713 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r15#equilibrium_property |
+| ORC-IYYBFJIDJR.5ed8ac | ORC-IYYBFJIDJR.5ed8ac | doi:10.1007/s11669-018-0683-7/p3/tab-1/r03#equilibrium_property |
+| ORC-IAHORPYKKP.ee26d1 | ORC-IAHORPYKKP.ee26d1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r04#equilibrium_property |
+| ORC-FCNMFTUR4E.f22bb3 | ORC-FCNMFTUR4E.f22bb3 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r11#equilibrium_property |
+| ORC-N7ZOMZ7UNS.c3fba0 | ORC-N7ZOMZ7UNS.c3fba0 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r05#equilibrium_property |
+| ORC-PJHC2KGG2M.da54bd | ORC-PJHC2KGG2M.da54bd | doi:10.1007/s11669-018-0683-7/p3/tab-1/r14#equilibrium_property |
+| ORC-RMJA7ZD7GC.11b1bd | ORC-RMJA7ZD7GC.11b1bd | doi:10.1007/s11669-018-0683-7/p3/tab-1/r06#equilibrium_property |
+| ORC-S7IJ2WTKZG.8ae02e | ORC-S7IJ2WTKZG.8ae02e | doi:10.1007/s11669-018-0683-7/p3/tab-1/r07#equilibrium_property |
+| ORC-IR25DWRF5G.7f35b1 | ORC-IR25DWRF5G.7f35b1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r12#equilibrium_property |
+| ORC-3HNT2KROYM.68a880 | ORC-3HNT2KROYM.68a880 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r08#equilibrium_property |
+| ORC-JFXIVMRCAO.aecbc9 | ORC-JFXIVMRCAO.aecbc9 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r13#equilibrium_property |
+| ORC-EG4CZFRGL7.4223e1 | ORC-EG4CZFRGL7.4223e1 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r09#equilibrium_property |
+| ORC-G2E5AOIVAY.1d15e8 | ORC-G2E5AOIVAY.1d15e8 | doi:10.1007/s11669-018-0683-7/p3/tab-1/r16#equilibrium_property |
 | ORC-HLZEWZBCEG.8f78ca | ORC-HLZEWZBCEG.8f78ca | doi:10.1007/s11669-020-00813-5/p10/tab-7/r02#equilibrium_property |
 | ORC-EXIRIZR2RB.b18a79 | ORC-EXIRIZR2RB.b18a79 | doi:10.1007/s11669-020-00813-5/p10/tab-7/r07#equilibrium_property |
 | ORC-B3OCOGSVAC.193db4 | ORC-B3OCOGSVAC.193db4 | doi:10.1007/s11669-020-00813-5/p10/tab-7/r11#equilibrium_property |
-| ORC-MRXG4QVO4K.a93890 | ORC-MRXG4QVO4K.406280 | doi:10.1007/bf02868547/p3/tab-4/r10#equilibrium_property |
-| ORC-IGR7SO3LTS.fbd99d | ORC-IGR7SO3LTS.21359b | doi:10.1007/bf02868547/p3/tab-4/r11#equilibrium_property |
-| ORC-IBRQIR6GFI.6b950a | ORC-IBRQIR6GFI.c86542 | doi:10.1007/bf02868547/p3/tab-4/r12#equilibrium_property |
-| ORC-APQT7ZKMRO.e7799d | ORC-APQT7ZKMRO.a247d8 | doi:10.1007/bf02868547/p3/tab-4/r13#equilibrium_property |
-| ORC-TEUZLVFVW4.23d0fa | ORC-TEUZLVFVW4.ac725f | doi:10.1007/bf02868547/p3/tab-4/r14#equilibrium_property |
-| ORC-PNDWNRMG4M.e93ef7 | ORC-PNDWNRMG4M.781315 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r08#equilibrium_property |
-| ORC-7WTP4LTZGH.d706cb | ORC-7WTP4LTZGH.dc5f91 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r20#equilibrium_property |
-| ORC-IGHKVCH3WK.c582ac | ORC-IGHKVCH3WK.e8a495 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r09#equilibrium_property |
-| ORC-FHBP4YQMQO.76870b | ORC-FHBP4YQMQO.3fd5f4 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r22#equilibrium_property |
-| ORC-NEIOD6VMFX.794acb | ORC-NEIOD6VMFX.382bad | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r10#equilibrium_property |
-| ORC-6WOBDFQDT6.dd85fd | ORC-6WOBDFQDT6.aa92cb | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r21#equilibrium_property |
-| ORC-TCPC77DHKK.420946 | ORC-TCPC77DHKK.452f64 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r19#equilibrium_property |
-| ORC-DJDAA52VRM.53b551 | ORC-DJDAA52VRM.636ac4 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r45#equilibrium_property |
+| ORC-MRXG4QVO4K.a93890 | ORC-MRXG4QVO4K.a93890 | doi:10.1007/bf02868547/p3/tab-4/r10#equilibrium_property |
+| ORC-IGR7SO3LTS.fbd99d | ORC-IGR7SO3LTS.fbd99d | doi:10.1007/bf02868547/p3/tab-4/r11#equilibrium_property |
+| ORC-IBRQIR6GFI.6b950a | ORC-IBRQIR6GFI.6b950a | doi:10.1007/bf02868547/p3/tab-4/r12#equilibrium_property |
+| ORC-APQT7ZKMRO.e7799d | ORC-APQT7ZKMRO.e7799d | doi:10.1007/bf02868547/p3/tab-4/r13#equilibrium_property |
+| ORC-TEUZLVFVW4.23d0fa | ORC-TEUZLVFVW4.23d0fa | doi:10.1007/bf02868547/p3/tab-4/r14#equilibrium_property |
+| ORC-PNDWNRMG4M.781315 | ORC-PNDWNRMG4M.781315 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r08#equilibrium_property |
+| ORC-7WTP4LTZGH.dc5f91 | ORC-7WTP4LTZGH.dc5f91 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r20#equilibrium_property |
+| ORC-IGHKVCH3WK.e8a495 | ORC-IGHKVCH3WK.e8a495 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r09#equilibrium_property |
+| ORC-FHBP4YQMQO.3fd5f4 | ORC-FHBP4YQMQO.3fd5f4 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r22#equilibrium_property |
+| ORC-NEIOD6VMFX.382bad | ORC-NEIOD6VMFX.382bad | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r10#equilibrium_property |
+| ORC-6WOBDFQDT6.aa92cb | ORC-6WOBDFQDT6.aa92cb | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r21#equilibrium_property |
+| ORC-TCPC77DHKK.452f64 | ORC-TCPC77DHKK.452f64 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r19#equilibrium_property |
+| ORC-DJDAA52VRM.636ac4 | ORC-DJDAA52VRM.636ac4 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r45#equilibrium_property |
 | ORC-M2X72TAQEQ.d019cc | ORC-M2X72TAQEQ.387a00 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
 | ORC-M2X72TAQEQ.ecef70 | ORC-M2X72TAQEQ.114efe | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
 | ORC-M2X72TAQEQ.8a1e5a | ORC-M2X72TAQEQ.aca4b7 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
@@ -204,10 +204,10 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-VTB72Y5OXM.0759bb | ORC-VTB72Y5OXM.6feba1 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r23#equilibrium_property |
 | ORC-M2X72TAQEQ.c95868 | ORC-M2X72TAQEQ.b8e202 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
 | ORC-M2X72TAQEQ.0c03a2 | ORC-M2X72TAQEQ.2c7755 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
-| ORC-TPSEVCXJ6T.bfccba | ORC-TPSEVCXJ6T.cda139 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r01#equilibrium_property |
-| ORC-RL4XI5ZJPE.3dd98a | ORC-RL4XI5ZJPE.0dfd61 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r03#equilibrium_property |
-| ORC-LSLZ6CGKOQ.207e1f | ORC-LSLZ6CGKOQ.67d367 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r05#equilibrium_property |
-| ORC-PDPECKEWAL.51eaf8 | ORC-PDPECKEWAL.dcee83 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r07#equilibrium_property |
+| ORC-TPSEVCXJ6T.cda139 | ORC-TPSEVCXJ6T.cda139 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r01#equilibrium_property |
+| ORC-RL4XI5ZJPE.0dfd61 | ORC-RL4XI5ZJPE.0dfd61 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r03#equilibrium_property |
+| ORC-LSLZ6CGKOQ.67d367 | ORC-LSLZ6CGKOQ.67d367 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r05#equilibrium_property |
+| ORC-PDPECKEWAL.dcee83 | ORC-PDPECKEWAL.dcee83 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r07#equilibrium_property |
 | ORC-JS5IF7RCC7.1c3822 | ORC-JS5IF7RCC7.1c3822 | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r01#equilibrium_property |
 | ORC-PPHKB7RLW5.2ce243 | ORC-PPHKB7RLW5.2ce243 | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r05#equilibrium_property |
 | ORC-GW6JIXCRKE.4493dc | ORC-GW6JIXCRKE.98752e | doi:10.1361/105497199770335938/p12/tab-4/r12#equilibrium_property |
@@ -215,9 +215,9 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-6XHHBQTLFH.cd6016 | ORC-6XHHBQTLFH.cd6016 | doi:10.1007/s11669-015-0398-y/p4/tab-2/r02#equilibrium_property |
 | ORC-EJAFE6SO5K.00779d | ORC-EJAFE6SO5K.00779d | doi:10.1007/s11669-015-0398-y/p4/tab-2/r17#equilibrium_property |
 | ORC-I4SWEZOOEZ.94c27f | ORC-I4SWEZOOEZ.94c27f | doi:10.1007/s11669-015-0398-y/p4/tab-2/r18#equilibrium_property |
-| ORC-JNZZAVNKJJ.49915b | ORC-JNZZAVNKJJ.c50bea | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r03#equilibrium_property |
-| ORC-4LYM3FC7EW.ba70fc | ORC-4LYM3FC7EW.0af27d | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r12#equilibrium_property |
-| ORC-APHPP3C3IL.0b882d | ORC-APHPP3C3IL.e1203d | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r15#equilibrium_property |
+| ORC-JNZZAVNKJJ.c50bea | ORC-JNZZAVNKJJ.c50bea | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r03#equilibrium_property |
+| ORC-4LYM3FC7EW.0af27d | ORC-4LYM3FC7EW.0af27d | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r12#equilibrium_property |
+| ORC-APHPP3C3IL.e1203d | ORC-APHPP3C3IL.e1203d | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r15#equilibrium_property |
 | ORC-KYETK65V4M.2e058a | ORC-KYETK65V4M.2e058a | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r02#equilibrium_property |
 | ORC-KJLEYKP22O.30573f | ORC-KJLEYKP22O.30573f | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r07#equilibrium_property |
 | ORC-G673WTHHLV.508dd2 | ORC-G673WTHHLV.508dd2 | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r12#equilibrium_property |
@@ -233,18 +233,18 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-URCD42J6HC.67e42b | ORC-URCD42J6HC.67e42b | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r08#equilibrium_property |
 | ORC-ZK3NKCG3OO.8dee39 | ORC-ZK3NKCG3OO.8dee39 | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r11#equilibrium_property |
 | ORC-TBUT4TDDGS.00931e | ORC-TBUT4TDDGS.00931e | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r14#equilibrium_property |
-| ORC-6SOWRE2DF4.eb809d | ORC-6SOWRE2DF4.c8006f | doi:10.1007/s11669-022-00968-3/p7/tab-4/r01#equilibrium_property |
-| ORC-2MQEBRH4MW.7fce1e | ORC-2MQEBRH4MW.774860 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r10#equilibrium_property |
-| ORC-3JGPW3I75H.d8dc51 | ORC-3JGPW3I75H.6b3fd3 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r17#equilibrium_property |
-| ORC-RZXTTI2S6E.7086a3 | ORC-RZXTTI2S6E.218093 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r24#equilibrium_property |
-| ORC-5OEWEA7JA4.0e62fc | ORC-5OEWEA7JA4.e247f4 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r11#equilibrium_property |
-| ORC-VJRN7UJYRI.3344ce | ORC-VJRN7UJYRI.3f1074 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r20#equilibrium_property |
-| ORC-6SOWRE2DF4.43ed25 | ORC-6SOWRE2DF4.d74829 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r01#equilibrium_property |
-| ORC-2MQEBRH4MW.53083f | ORC-2MQEBRH4MW.d9ca52 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r10#equilibrium_property |
-| ORC-3JGPW3I75H.79df58 | ORC-3JGPW3I75H.142dc2 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r17#equilibrium_property |
-| ORC-RZXTTI2S6E.066d6f | ORC-RZXTTI2S6E.2246b1 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r24#equilibrium_property |
-| ORC-5OEWEA7JA4.0f40fc | ORC-5OEWEA7JA4.4457b0 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r11#equilibrium_property |
-| ORC-VJRN7UJYRI.5a24cf | ORC-VJRN7UJYRI.b21475 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r20#equilibrium_property |
+| ORC-6SOWRE2DF4.c8006f | ORC-6SOWRE2DF4.c8006f | doi:10.1007/s11669-022-00968-3/p7/tab-4/r01#equilibrium_property |
+| ORC-2MQEBRH4MW.774860 | ORC-2MQEBRH4MW.774860 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r10#equilibrium_property |
+| ORC-3JGPW3I75H.6b3fd3 | ORC-3JGPW3I75H.6b3fd3 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r17#equilibrium_property |
+| ORC-RZXTTI2S6E.218093 | ORC-RZXTTI2S6E.218093 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r24#equilibrium_property |
+| ORC-5OEWEA7JA4.e247f4 | ORC-5OEWEA7JA4.e247f4 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r11#equilibrium_property |
+| ORC-VJRN7UJYRI.3f1074 | ORC-VJRN7UJYRI.3f1074 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r20#equilibrium_property |
+| ORC-6SOWRE2DF4.d74829 | ORC-6SOWRE2DF4.d74829 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r01#equilibrium_property |
+| ORC-2MQEBRH4MW.d9ca52 | ORC-2MQEBRH4MW.d9ca52 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r10#equilibrium_property |
+| ORC-3JGPW3I75H.142dc2 | ORC-3JGPW3I75H.142dc2 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r17#equilibrium_property |
+| ORC-RZXTTI2S6E.2246b1 | ORC-RZXTTI2S6E.2246b1 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r24#equilibrium_property |
+| ORC-5OEWEA7JA4.4457b0 | ORC-5OEWEA7JA4.4457b0 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r11#equilibrium_property |
+| ORC-VJRN7UJYRI.b21475 | ORC-VJRN7UJYRI.b21475 | doi:10.1007/s11669-022-00968-3/p7/tab-4/r20#equilibrium_property |
 | ORC-CQ22GU36LI.039803 | ORC-CQ22GU36LI.039803 | doi:10.1016/j.jallcom.2010.02.189/p5/tab-3/r05#equilibrium_property |
 | ORC-4AWU77RDY6.8a28e1 | ORC-4AWU77RDY6.8a28e1 | doi:10.1016/j.jallcom.2010.02.189/p5/tab-3/r12#equilibrium_property |
 | ORC-JANYTACZLZ.6ff909 | ORC-JANYTACZLZ.6ff909 | doi:10.1016/j.jallcom.2010.02.189/p5/tab-3/r13#equilibrium_property |
@@ -258,33 +258,33 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-RU5ZAH5SZ4.a45335 | ORC-RU5ZAH5SZ4.a45335 | doi:10.1007/s11669-013-0261-y/p6/tab-4/r10#equilibrium_property |
 | ORC-KVCKXHNYOJ.5e3d1d | ORC-KVCKXHNYOJ.35506d | doi:10.1007/s11669-013-0261-y/p6/tab-4/r14#equilibrium_property |
 | ORC-WAK6DH7EG3.0397c2 | ORC-WAK6DH7EG3.0397c2 | doi:10.1007/s11669-013-0261-y/p6/tab-4/r17#equilibrium_property |
-| ORC-EB4LAZM5M4.ca03f6 | ORC-EB4LAZM5M4.c664ba | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r01#equilibrium_property |
-| ORC-QN4HS7ABC5.c2b9e4 | ORC-QN4HS7ABC5.567db6 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r03#equilibrium_property |
-| ORC-OD5K4D3P6X.130eed | ORC-OD5K4D3P6X.714493 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r05#equilibrium_property |
-| ORC-JYDIQHVZJY.f37290 | ORC-JYDIQHVZJY.0f4b1e | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r07#equilibrium_property |
-| ORC-YBDLHBNMS7.a9afbb | ORC-YBDLHBNMS7.d4dfd7 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r09#equilibrium_property |
-| ORC-PQZF6Q43FE.d97fd0 | ORC-PQZF6Q43FE.767b72 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r11#equilibrium_property |
-| ORC-FFTUE5RXFA.6a7fd2 | ORC-FFTUE5RXFA.adeddf | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r13#equilibrium_property |
-| ORC-KIXZE5BPYE.59471c | ORC-KIXZE5BPYE.67c4da | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r15#equilibrium_property |
-| ORC-NYIK7ROSS3.95f086 | ORC-NYIK7ROSS3.90ad9a | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r17#equilibrium_property |
-| ORC-6WTVTZV5WW.067771 | ORC-6WTVTZV5WW.f5cf17 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r19#equilibrium_property |
-| ORC-DMZBBXUC7I.ab0471 | ORC-DMZBBXUC7I.4de758 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r21#equilibrium_property |
-| ORC-TQ3PMQLINS.473bdc | ORC-TQ3PMQLINS.7ea8fe | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r23#equilibrium_property |
-| ORC-MFOH2OTVBL.636837 | ORC-MFOH2OTVBL.f9d0c8 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r25#equilibrium_property |
-| ORC-DMUEGPCIHE.188403 | ORC-DMUEGPCIHE.8f2f35 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r27#equilibrium_property |
-| ORC-TLCMGKP5PW.64b35b | ORC-TLCMGKP5PW.c0a574 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r29#equilibrium_property |
-| ORC-OMOESPRYC6.94d9f9 | ORC-OMOESPRYC6.cd6e21 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r31#equilibrium_property |
-| ORC-O6T27EECUR.ffd08b | ORC-O6T27EECUR.475ca1 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r33#equilibrium_property |
-| ORC-47GIDRCAIY.25d926 | ORC-47GIDRCAIY.327edc | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r35#equilibrium_property |
-| ORC-5OZUNE57VC.439fb3 | ORC-5OZUNE57VC.f92ebe | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r38#equilibrium_property |
-| ORC-W7QKNYCF5B.516144 | ORC-W7QKNYCF5B.a4d041 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r41#equilibrium_property |
-| ORC-BJUR3AAGDL.0ab99e | ORC-BJUR3AAGDL.4d0c3b | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r44#equilibrium_property |
-| ORC-KHVJHSHEFF.3579d9 | ORC-KHVJHSHEFF.df8c98 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r47#equilibrium_property |
-| ORC-I24SFUVJ7N.928c41 | ORC-I24SFUVJ7N.c73961 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r36#equilibrium_property |
-| ORC-DUUH5E5WYV.f7952a | ORC-DUUH5E5WYV.170dd6 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r39#equilibrium_property |
-| ORC-K5BB5SKJGL.36020b | ORC-K5BB5SKJGL.445b52 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r42#equilibrium_property |
-| ORC-2GY2WPLP5O.7dcb92 | ORC-2GY2WPLP5O.171acb | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r45#equilibrium_property |
-| ORC-OFEZUCTYHP.41ee07 | ORC-OFEZUCTYHP.7a4c1a | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r48#equilibrium_property |
+| ORC-EB4LAZM5M4.ca03f6 | ORC-EB4LAZM5M4.ca03f6 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r01#equilibrium_property |
+| ORC-QN4HS7ABC5.c2b9e4 | ORC-QN4HS7ABC5.c2b9e4 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r03#equilibrium_property |
+| ORC-OD5K4D3P6X.130eed | ORC-OD5K4D3P6X.130eed | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r05#equilibrium_property |
+| ORC-JYDIQHVZJY.f37290 | ORC-JYDIQHVZJY.f37290 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r07#equilibrium_property |
+| ORC-YBDLHBNMS7.a9afbb | ORC-YBDLHBNMS7.a9afbb | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r09#equilibrium_property |
+| ORC-PQZF6Q43FE.d97fd0 | ORC-PQZF6Q43FE.d97fd0 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r11#equilibrium_property |
+| ORC-FFTUE5RXFA.6a7fd2 | ORC-FFTUE5RXFA.6a7fd2 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r13#equilibrium_property |
+| ORC-KIXZE5BPYE.59471c | ORC-KIXZE5BPYE.59471c | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r15#equilibrium_property |
+| ORC-NYIK7ROSS3.95f086 | ORC-NYIK7ROSS3.95f086 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r17#equilibrium_property |
+| ORC-6WTVTZV5WW.067771 | ORC-6WTVTZV5WW.067771 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r19#equilibrium_property |
+| ORC-DMZBBXUC7I.ab0471 | ORC-DMZBBXUC7I.ab0471 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r21#equilibrium_property |
+| ORC-TQ3PMQLINS.473bdc | ORC-TQ3PMQLINS.473bdc | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r23#equilibrium_property |
+| ORC-MFOH2OTVBL.636837 | ORC-MFOH2OTVBL.636837 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r25#equilibrium_property |
+| ORC-DMUEGPCIHE.188403 | ORC-DMUEGPCIHE.188403 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r27#equilibrium_property |
+| ORC-TLCMGKP5PW.64b35b | ORC-TLCMGKP5PW.64b35b | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r29#equilibrium_property |
+| ORC-OMOESPRYC6.94d9f9 | ORC-OMOESPRYC6.94d9f9 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r31#equilibrium_property |
+| ORC-O6T27EECUR.ffd08b | ORC-O6T27EECUR.ffd08b | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r33#equilibrium_property |
+| ORC-47GIDRCAIY.25d926 | ORC-47GIDRCAIY.25d926 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r35#equilibrium_property |
+| ORC-5OZUNE57VC.439fb3 | ORC-5OZUNE57VC.439fb3 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r38#equilibrium_property |
+| ORC-W7QKNYCF5B.516144 | ORC-W7QKNYCF5B.516144 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r41#equilibrium_property |
+| ORC-BJUR3AAGDL.0ab99e | ORC-BJUR3AAGDL.0ab99e | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r44#equilibrium_property |
+| ORC-KHVJHSHEFF.3579d9 | ORC-KHVJHSHEFF.3579d9 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r47#equilibrium_property |
+| ORC-I24SFUVJ7N.928c41 | ORC-I24SFUVJ7N.928c41 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r36#equilibrium_property |
+| ORC-DUUH5E5WYV.f7952a | ORC-DUUH5E5WYV.f7952a | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r39#equilibrium_property |
+| ORC-K5BB5SKJGL.36020b | ORC-K5BB5SKJGL.36020b | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r42#equilibrium_property |
+| ORC-2GY2WPLP5O.7dcb92 | ORC-2GY2WPLP5O.7dcb92 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r45#equilibrium_property |
+| ORC-OFEZUCTYHP.41ee07 | ORC-OFEZUCTYHP.41ee07 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r48#equilibrium_property |
 | ORC-MLODMPC55R.2c3f06 | ORC-MLODMPC55R.2c3f06 | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r01#equilibrium_property |
 | ORC-DH24IJ4UJ2.2622de | ORC-DH24IJ4UJ2.2622de | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r03#equilibrium_property |
 | ORC-WNDHR77EMG.29ac49 | ORC-WNDHR77EMG.29ac49 | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r05#equilibrium_property |
@@ -300,85 +300,85 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-VHX6GMMSGM.10fb72 | ORC-VHX6GMMSGM.10fb72 | doi:10.1007/bf02651660/p11/tab-iii/r07#equilibrium_property |
 | ORC-YOJB4D7DY3.a30c8d | ORC-YOJB4D7DY3.a30c8d | doi:10.1007/bf02651660/p11/tab-iii/r11#equilibrium_property |
 | ORC-CWF5BOVOXI.ac2741 | ORC-CWF5BOVOXI.ac2741 | doi:10.1007/bf02651660/p11/tab-iii/r09#equilibrium_property |
-| ORC-ZDS7SVJW37.79f712 | ORC-ZDS7SVJW37.6c99b2 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r22#equilibrium_property |
-| ORC-SHBHPLOWRZ.496f37 | ORC-SHBHPLOWRZ.b6ec88 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r23#equilibrium_property |
-| ORC-5DSEUH4NK2.275607 | ORC-5DSEUH4NK2.4030f3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r24#equilibrium_property |
-| ORC-D6O6WD7FEM.052b22 | ORC-D6O6WD7FEM.41ccc1 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r26#equilibrium_property |
-| ORC-D4GO4RDBQ3.f911d1 | ORC-D4GO4RDBQ3.0b66ef | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r27#equilibrium_property |
-| ORC-SQKDM2MIIO.51bcd7 | ORC-SQKDM2MIIO.7c252f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r28#equilibrium_property |
-| ORC-2J4IQSP6P5.6ab015 | ORC-2J4IQSP6P5.455370 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r30#equilibrium_property |
-| ORC-JC43FO644N.5d5d8e | ORC-JC43FO644N.ee35b9 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r01#equilibrium_property |
-| ORC-6HTTW5327W.8ad375 | ORC-6HTTW5327W.8f41bd | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r04#equilibrium_property |
-| ORC-WQZPJRIYBP.488bdc | ORC-WQZPJRIYBP.089b97 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r02#equilibrium_property |
-| ORC-RRUITAEIYM.35c951 | ORC-RRUITAEIYM.4a9907 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r07#equilibrium_property |
-| ORC-57NY3YXVJ7.f9f7d0 | ORC-57NY3YXVJ7.5ff086 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r09#equilibrium_property |
-| ORC-JUOGYNLXX5.a35513 | ORC-JUOGYNLXX5.6e916f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r11#equilibrium_property |
-| ORC-VYDTBVQGR6.32fd53 | ORC-VYDTBVQGR6.7e076a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r05#equilibrium_property |
-| ORC-AET63ATDZX.30d5a8 | ORC-AET63ATDZX.bb7fb2 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r13#equilibrium_property |
-| ORC-2ALE6E3FVH.9cfe61 | ORC-2ALE6E3FVH.dae7b0 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r15#equilibrium_property |
-| ORC-5L35TGCFAL.3e96d3 | ORC-5L35TGCFAL.ec28c3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r18#equilibrium_property |
-| ORC-JJU3CGVLU7.772065 | ORC-JJU3CGVLU7.826061 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r20#equilibrium_property |
+| ORC-ZDS7SVJW37.6c99b2 | ORC-ZDS7SVJW37.6c99b2 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r22#equilibrium_property |
+| ORC-SHBHPLOWRZ.b6ec88 | ORC-SHBHPLOWRZ.b6ec88 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r23#equilibrium_property |
+| ORC-5DSEUH4NK2.4030f3 | ORC-5DSEUH4NK2.4030f3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r24#equilibrium_property |
+| ORC-D6O6WD7FEM.41ccc1 | ORC-D6O6WD7FEM.41ccc1 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r26#equilibrium_property |
+| ORC-D4GO4RDBQ3.0b66ef | ORC-D4GO4RDBQ3.0b66ef | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r27#equilibrium_property |
+| ORC-SQKDM2MIIO.7c252f | ORC-SQKDM2MIIO.7c252f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r28#equilibrium_property |
+| ORC-2J4IQSP6P5.455370 | ORC-2J4IQSP6P5.455370 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r30#equilibrium_property |
+| ORC-JC43FO644N.ee35b9 | ORC-JC43FO644N.ee35b9 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r01#equilibrium_property |
+| ORC-6HTTW5327W.8f41bd | ORC-6HTTW5327W.8f41bd | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r04#equilibrium_property |
+| ORC-WQZPJRIYBP.089b97 | ORC-WQZPJRIYBP.089b97 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r02#equilibrium_property |
+| ORC-RRUITAEIYM.4a9907 | ORC-RRUITAEIYM.4a9907 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r07#equilibrium_property |
+| ORC-57NY3YXVJ7.5ff086 | ORC-57NY3YXVJ7.5ff086 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r09#equilibrium_property |
+| ORC-JUOGYNLXX5.6e916f | ORC-JUOGYNLXX5.6e916f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r11#equilibrium_property |
+| ORC-VYDTBVQGR6.7e076a | ORC-VYDTBVQGR6.7e076a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r05#equilibrium_property |
+| ORC-AET63ATDZX.bb7fb2 | ORC-AET63ATDZX.bb7fb2 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r13#equilibrium_property |
+| ORC-2ALE6E3FVH.dae7b0 | ORC-2ALE6E3FVH.dae7b0 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r15#equilibrium_property |
+| ORC-5L35TGCFAL.ec28c3 | ORC-5L35TGCFAL.ec28c3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r18#equilibrium_property |
+| ORC-JJU3CGVLU7.826061 | ORC-JJU3CGVLU7.826061 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r20#equilibrium_property |
 | ORC-ZKE56KTRWC.f9b1d8 | ORC-ZKE56KTRWC.a2311b | doi:10.1007/s11669-014-0313-y/p6/tab-5/r06#equilibrium_property |
 | ORC-GQNFWJEWL3.30af1a | ORC-GQNFWJEWL3.467cc7 | doi:10.1007/s11669-014-0313-y/p6/tab-5/r07#equilibrium_property |
 | ORC-EE3RYO4H7V.7569a7 | ORC-EE3RYO4H7V.7569a7 | doi:10.1007/bf02671963/p5/tab-4/r01#equilibrium_property |
-| ORC-LF2XK4HKT2.17a006 | ORC-LF2XK4HKT2.754378 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r13#equilibrium_property |
-| ORC-VICVK7W5MI.c96f7a | ORC-VICVK7W5MI.4eb1cb | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r17#equilibrium_property |
-| ORC-43ZXOO6TFO.c1da95 | ORC-43ZXOO6TFO.5bfa0b | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r18#equilibrium_property |
-| ORC-RAE3344I7N.a9a93b | ORC-RAE3344I7N.9f6f6d | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r26#equilibrium_property |
-| ORC-636TFSTTTX.64e6ca | ORC-636TFSTTTX.9fd6f2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r34#equilibrium_property |
-| ORC-LF2XK4HKT2.7c05fe | ORC-LF2XK4HKT2.58f977 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r13#equilibrium_property |
-| ORC-VICVK7W5MI.6cff0e | ORC-VICVK7W5MI.87e1e2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r17#equilibrium_property |
-| ORC-43ZXOO6TFO.d25966 | ORC-43ZXOO6TFO.9a5ff5 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r18#equilibrium_property |
-| ORC-RAE3344I7N.0a32c2 | ORC-RAE3344I7N.7e1d0f | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r26#equilibrium_property |
-| ORC-636TFSTTTX.a31e4b | ORC-636TFSTTTX.fadc13 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r34#equilibrium_property |
-| ORC-LEVZKAYSFQ.76f04c | ORC-LEVZKAYSFQ.3928ec | doi:10.1016/j.calphad.2014.10.006/p4/tab-3/r02#equilibrium_property |
+| ORC-LF2XK4HKT2.754378 | ORC-LF2XK4HKT2.754378 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r13#equilibrium_property |
+| ORC-VICVK7W5MI.4eb1cb | ORC-VICVK7W5MI.4eb1cb | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r17#equilibrium_property |
+| ORC-43ZXOO6TFO.5bfa0b | ORC-43ZXOO6TFO.5bfa0b | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r18#equilibrium_property |
+| ORC-RAE3344I7N.9f6f6d | ORC-RAE3344I7N.9f6f6d | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r26#equilibrium_property |
+| ORC-636TFSTTTX.9fd6f2 | ORC-636TFSTTTX.9fd6f2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r34#equilibrium_property |
+| ORC-LF2XK4HKT2.58f977 | ORC-LF2XK4HKT2.58f977 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r13#equilibrium_property |
+| ORC-VICVK7W5MI.87e1e2 | ORC-VICVK7W5MI.87e1e2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r17#equilibrium_property |
+| ORC-43ZXOO6TFO.9a5ff5 | ORC-43ZXOO6TFO.9a5ff5 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r18#equilibrium_property |
+| ORC-RAE3344I7N.7e1d0f | ORC-RAE3344I7N.7e1d0f | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r26#equilibrium_property |
+| ORC-636TFSTTTX.fadc13 | ORC-636TFSTTTX.fadc13 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r34#equilibrium_property |
+| ORC-LEVZKAYSFQ.3928ec | ORC-LEVZKAYSFQ.3928ec | doi:10.1016/j.calphad.2014.10.006/p4/tab-3/r02#equilibrium_property |
 | ORC-5MXBBIBV47.8b3ef0 | ORC-5MXBBIBV47.8b3ef0 | doi:10.1016/j.actamat.2012.10.014/p7/tab-2/r01#equilibrium_property |
 | ORC-HU6TGEN7ZU.a8618c | ORC-HU6TGEN7ZU.a8618c | doi:10.1016/j.actamat.2012.10.014/p7/tab-2/r14#equilibrium_property |
 | ORC-BRWKD672OZ.90c952 | ORC-BRWKD672OZ.90c952 | doi:10.1016/j.actamat.2012.10.014/p7/tab-2/r21#equilibrium_property |
 | ORC-AOI2GCMTQT.d50b9e | ORC-AOI2GCMTQT.d50b9e | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r01#equilibrium_property |
 | ORC-I7NECGTHSI.4b9601 | ORC-I7NECGTHSI.4b9601 | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r06#equilibrium_property |
-| ORC-5MP57ADSXW.538c92 | ORC-5MP57ADSXW.e3b57f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r01#equilibrium_property |
-| ORC-FU36JJPD4E.072b4c | ORC-FU36JJPD4E.19c131 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r35#equilibrium_property |
-| ORC-KO7RM2QBTG.3d1a02 | ORC-KO7RM2QBTG.0610cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r03#equilibrium_property |
-| ORC-NCKZ3PREPK.72dbfd | ORC-NCKZ3PREPK.55e8b5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r11#equilibrium_property |
-| ORC-LC3RLTZB2A.119b82 | ORC-LC3RLTZB2A.0411d0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r25#equilibrium_property |
-| ORC-SQISU6VSCV.37e260 | ORC-SQISU6VSCV.19ac6f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r05#equilibrium_property |
-| ORC-JN3BU3V3UQ.41bcb0 | ORC-JN3BU3V3UQ.c941de | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r07#equilibrium_property |
-| ORC-5OZGTSNZVA.7597e1 | ORC-5OZGTSNZVA.3a2b7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r09#equilibrium_property |
-| ORC-S3UQLI7BPF.05e5cd | ORC-S3UQLI7BPF.cd690b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r29#equilibrium_property |
-| ORC-ZROKVQJL2B.cb5a6a | ORC-ZROKVQJL2B.9a73df | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r13#equilibrium_property |
-| ORC-TY3NGMQR4C.622722 | ORC-TY3NGMQR4C.03f1ba | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r37#equilibrium_property |
-| ORC-LMNMH76YJK.8409cd | ORC-LMNMH76YJK.4b0091 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r15#equilibrium_property |
-| ORC-3KYMCK7EM4.ec2ebf | ORC-3KYMCK7EM4.a56b41 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r17#equilibrium_property |
-| ORC-CZKA3JE6K5.fae357 | ORC-CZKA3JE6K5.8b5cce | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r19#equilibrium_property |
-| ORC-UQTPQTQMAW.ce9cc6 | ORC-UQTPQTQMAW.85d3b6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r21#equilibrium_property |
-| ORC-SJAFM2LLZF.98e9e1 | ORC-SJAFM2LLZF.f7a294 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r23#equilibrium_property |
-| ORC-TZNGIKQ7VA.3379d5 | ORC-TZNGIKQ7VA.130c7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r27#equilibrium_property |
-| ORC-X4IWZFAVSX.e0b126 | ORC-X4IWZFAVSX.e02cc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r31#equilibrium_property |
-| ORC-QBFSLHIM2Y.f7fa29 | ORC-QBFSLHIM2Y.002bdb | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r33#equilibrium_property |
-| ORC-7LBBMU2S24.fb84a4 | ORC-7LBBMU2S24.d13dc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r39#equilibrium_property |
-| ORC-2KRHGPYFBW.8c9568 | ORC-2KRHGPYFBW.5f228b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r41#equilibrium_property |
-| ORC-5MP57ADSXW.93bc01 | ORC-5MP57ADSXW.c77c27 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r01#equilibrium_property |
-| ORC-FU36JJPD4E.bbfc1c | ORC-FU36JJPD4E.db9b45 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r35#equilibrium_property |
-| ORC-KO7RM2QBTG.0341a1 | ORC-KO7RM2QBTG.cc2d93 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r03#equilibrium_property |
-| ORC-NCKZ3PREPK.d2e6ad | ORC-NCKZ3PREPK.a50b1d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r11#equilibrium_property |
-| ORC-LC3RLTZB2A.cc350b | ORC-LC3RLTZB2A.d6352d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r25#equilibrium_property |
-| ORC-SQISU6VSCV.ed1064 | ORC-SQISU6VSCV.2d7227 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r05#equilibrium_property |
-| ORC-JN3BU3V3UQ.389e2c | ORC-JN3BU3V3UQ.11fa96 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r07#equilibrium_property |
-| ORC-5OZGTSNZVA.a82344 | ORC-5OZGTSNZVA.32d0af | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r09#equilibrium_property |
-| ORC-S3UQLI7BPF.b1a72d | ORC-S3UQLI7BPF.3499ee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r29#equilibrium_property |
-| ORC-ZROKVQJL2B.b60b47 | ORC-ZROKVQJL2B.7ed026 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r13#equilibrium_property |
-| ORC-TY3NGMQR4C.3c0536 | ORC-TY3NGMQR4C.404811 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r37#equilibrium_property |
-| ORC-LMNMH76YJK.ce6688 | ORC-LMNMH76YJK.9d5bcf | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r15#equilibrium_property |
-| ORC-3KYMCK7EM4.dcf425 | ORC-3KYMCK7EM4.74e5cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r17#equilibrium_property |
-| ORC-CZKA3JE6K5.2b414b | ORC-CZKA3JE6K5.129b2c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r19#equilibrium_property |
-| ORC-UQTPQTQMAW.ba1fb5 | ORC-UQTPQTQMAW.574bb4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r21#equilibrium_property |
-| ORC-SJAFM2LLZF.e21149 | ORC-SJAFM2LLZF.c6fe55 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r23#equilibrium_property |
-| ORC-TZNGIKQ7VA.b9e4e2 | ORC-TZNGIKQ7VA.816fb1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r27#equilibrium_property |
-| ORC-X4IWZFAVSX.e07634 | ORC-X4IWZFAVSX.4c1922 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r31#equilibrium_property |
-| ORC-QBFSLHIM2Y.9097a4 | ORC-QBFSLHIM2Y.2f907e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r33#equilibrium_property |
-| ORC-7LBBMU2S24.508a38 | ORC-7LBBMU2S24.5ffd56 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r39#equilibrium_property |
-| ORC-2KRHGPYFBW.9dfddb | ORC-2KRHGPYFBW.8277c4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r41#equilibrium_property |
+| ORC-5MP57ADSXW.538c92 | ORC-5MP57ADSXW.538c92 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r01#equilibrium_property |
+| ORC-FU36JJPD4E.072b4c | ORC-FU36JJPD4E.072b4c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r35#equilibrium_property |
+| ORC-KO7RM2QBTG.0610cc | ORC-KO7RM2QBTG.0610cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r03#equilibrium_property |
+| ORC-NCKZ3PREPK.55e8b5 | ORC-NCKZ3PREPK.55e8b5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r11#equilibrium_property |
+| ORC-LC3RLTZB2A.0411d0 | ORC-LC3RLTZB2A.0411d0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r25#equilibrium_property |
+| ORC-SQISU6VSCV.19ac6f | ORC-SQISU6VSCV.19ac6f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r05#equilibrium_property |
+| ORC-JN3BU3V3UQ.41bcb0 | ORC-JN3BU3V3UQ.41bcb0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r07#equilibrium_property |
+| ORC-5OZGTSNZVA.3a2b7e | ORC-5OZGTSNZVA.3a2b7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r09#equilibrium_property |
+| ORC-S3UQLI7BPF.05e5cd | ORC-S3UQLI7BPF.05e5cd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r29#equilibrium_property |
+| ORC-ZROKVQJL2B.9a73df | ORC-ZROKVQJL2B.9a73df | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r13#equilibrium_property |
+| ORC-TY3NGMQR4C.03f1ba | ORC-TY3NGMQR4C.03f1ba | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r37#equilibrium_property |
+| ORC-LMNMH76YJK.4b0091 | ORC-LMNMH76YJK.4b0091 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r15#equilibrium_property |
+| ORC-3KYMCK7EM4.a56b41 | ORC-3KYMCK7EM4.a56b41 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r17#equilibrium_property |
+| ORC-CZKA3JE6K5.8b5cce | ORC-CZKA3JE6K5.8b5cce | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r19#equilibrium_property |
+| ORC-UQTPQTQMAW.85d3b6 | ORC-UQTPQTQMAW.85d3b6 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r21#equilibrium_property |
+| ORC-SJAFM2LLZF.98e9e1 | ORC-SJAFM2LLZF.98e9e1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r23#equilibrium_property |
+| ORC-TZNGIKQ7VA.130c7e | ORC-TZNGIKQ7VA.130c7e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r27#equilibrium_property |
+| ORC-X4IWZFAVSX.e02cc2 | ORC-X4IWZFAVSX.e02cc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r31#equilibrium_property |
+| ORC-QBFSLHIM2Y.002bdb | ORC-QBFSLHIM2Y.002bdb | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r33#equilibrium_property |
+| ORC-7LBBMU2S24.d13dc2 | ORC-7LBBMU2S24.d13dc2 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r39#equilibrium_property |
+| ORC-2KRHGPYFBW.5f228b | ORC-2KRHGPYFBW.5f228b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r41#equilibrium_property |
+| ORC-5MP57ADSXW.93bc01 | ORC-5MP57ADSXW.93bc01 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r01#equilibrium_property |
+| ORC-FU36JJPD4E.bbfc1c | ORC-FU36JJPD4E.bbfc1c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r35#equilibrium_property |
+| ORC-KO7RM2QBTG.0341a1 | ORC-KO7RM2QBTG.0341a1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r03#equilibrium_property |
+| ORC-NCKZ3PREPK.a50b1d | ORC-NCKZ3PREPK.a50b1d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r11#equilibrium_property |
+| ORC-LC3RLTZB2A.cc350b | ORC-LC3RLTZB2A.cc350b | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r25#equilibrium_property |
+| ORC-SQISU6VSCV.2d7227 | ORC-SQISU6VSCV.2d7227 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r05#equilibrium_property |
+| ORC-JN3BU3V3UQ.11fa96 | ORC-JN3BU3V3UQ.11fa96 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r07#equilibrium_property |
+| ORC-5OZGTSNZVA.32d0af | ORC-5OZGTSNZVA.32d0af | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r09#equilibrium_property |
+| ORC-S3UQLI7BPF.3499ee | ORC-S3UQLI7BPF.3499ee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r29#equilibrium_property |
+| ORC-ZROKVQJL2B.7ed026 | ORC-ZROKVQJL2B.7ed026 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r13#equilibrium_property |
+| ORC-TY3NGMQR4C.3c0536 | ORC-TY3NGMQR4C.3c0536 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r37#equilibrium_property |
+| ORC-LMNMH76YJK.9d5bcf | ORC-LMNMH76YJK.9d5bcf | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r15#equilibrium_property |
+| ORC-3KYMCK7EM4.74e5cc | ORC-3KYMCK7EM4.74e5cc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r17#equilibrium_property |
+| ORC-CZKA3JE6K5.129b2c | ORC-CZKA3JE6K5.129b2c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r19#equilibrium_property |
+| ORC-UQTPQTQMAW.574bb4 | ORC-UQTPQTQMAW.574bb4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r21#equilibrium_property |
+| ORC-SJAFM2LLZF.c6fe55 | ORC-SJAFM2LLZF.c6fe55 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r23#equilibrium_property |
+| ORC-TZNGIKQ7VA.816fb1 | ORC-TZNGIKQ7VA.816fb1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r27#equilibrium_property |
+| ORC-X4IWZFAVSX.4c1922 | ORC-X4IWZFAVSX.4c1922 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r31#equilibrium_property |
+| ORC-QBFSLHIM2Y.2f907e | ORC-QBFSLHIM2Y.2f907e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r33#equilibrium_property |
+| ORC-7LBBMU2S24.508a38 | ORC-7LBBMU2S24.508a38 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r39#equilibrium_property |
+| ORC-2KRHGPYFBW.8277c4 | ORC-2KRHGPYFBW.8277c4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r41#equilibrium_property |
 | ORC-UI3EU3RWNT.09590c | ORC-UI3EU3RWNT.09590c | doi:10.1361/105497198770341923/p4/tab-3/r01#equilibrium_property |
 | ORC-F3UZL4Y5XM.045101 | ORC-F3UZL4Y5XM.045101 | doi:10.1361/105497198770341923/p4/tab-3/r08#equilibrium_property |
 | ORC-XQVQVNRKYW.f8b656 | ORC-XQVQVNRKYW.f8b656 | doi:10.1361/105497198770341923/p4/tab-3/r15#equilibrium_property |
@@ -388,13 +388,13 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-333NWOR5VO.44d4cd | ORC-333NWOR5VO.44d4cd | doi:10.1007/s11663-998-0113-z/p2/tab-i/r03#equilibrium_property |
 | ORC-T33M5YU6FU.28aef2 | ORC-T33M5YU6FU.28aef2 | doi:10.1007/s11663-998-0113-z/p2/tab-i/r05#equilibrium_property |
 | ORC-KGFHLLF5NI.7efd8a | ORC-KGFHLLF5NI.7efd8a | doi:10.1007/s11663-998-0113-z/p2/tab-i/r07#equilibrium_property |
-| ORC-DJCHWQNF3R.a8739c | ORC-DJCHWQNF3R.58497e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r09#equilibrium_property |
-| ORC-3DFCHE5IR2.dad4ef | ORC-3DFCHE5IR2.11713e | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
-| ORC-NUHO6HHWO3.bb76c0 | ORC-NUHO6HHWO3.b76be8 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
-| ORC-3DFCHE5IR2.a7aade | ORC-3DFCHE5IR2.552874 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
-| ORC-NUHO6HHWO3.e1eca4 | ORC-NUHO6HHWO3.48b29d | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
-| ORC-3DFCHE5IR2.d6a983 | ORC-3DFCHE5IR2.0d65b1 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
-| ORC-NUHO6HHWO3.8d6938 | ORC-NUHO6HHWO3.8dcb77 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
+| ORC-DJCHWQNF3R.58497e | ORC-DJCHWQNF3R.58497e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r09#equilibrium_property |
+| ORC-3DFCHE5IR2.11713e | ORC-3DFCHE5IR2.11713e | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
+| ORC-NUHO6HHWO3.b76be8 | ORC-NUHO6HHWO3.b76be8 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
+| ORC-3DFCHE5IR2.552874 | ORC-3DFCHE5IR2.552874 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
+| ORC-NUHO6HHWO3.48b29d | ORC-NUHO6HHWO3.48b29d | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
+| ORC-3DFCHE5IR2.0d65b1 | ORC-3DFCHE5IR2.0d65b1 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
+| ORC-NUHO6HHWO3.8dcb77 | ORC-NUHO6HHWO3.8dcb77 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
 | ORC-STB5INE33U.082a43 | ORC-STB5INE33U.082a43 | doi:10.1361/105497103770330730/p3/tab-3/r01#equilibrium_property |
 | ORC-CN3ILEUCE2.2aaf0a | ORC-CN3ILEUCE2.2aaf0a | doi:10.1361/105497103770330730/p3/tab-3/r02#equilibrium_property |
 | ORC-SB3XW4RX7Z.0a16cb | ORC-SB3XW4RX7Z.0a16cb | doi:10.1361/105497103770330730/p3/tab-3/r03#equilibrium_property |
@@ -410,9 +410,9 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-JP3VP34BEY.468507 | ORC-JP3VP34BEY.468507 | doi:10.1361/105497101770332965/p5/tab-2/r16#equilibrium_property |
 | ORC-PZ3LQ4A5M5.069e35 | ORC-PZ3LQ4A5M5.069e35 | doi:10.1016/j.matpr.2019.07.598/p4/tab-4/r04#equilibrium_property |
 | ORC-7Z3D4WRJUL.781bf8 | ORC-7Z3D4WRJUL.781bf8 | doi:10.1016/j.matpr.2019.07.598/p4/tab-4/r05#equilibrium_property |
-| ORC-Y5TEVW6D4C.f58ae3 | ORC-Y5TEVW6D4C.f1203e | doi:10.1007/s10973-019-08689-5/p3/tab-1/r14#equilibrium_property |
-| ORC-2UHOWSMDDM.b7e4b7 | ORC-2UHOWSMDDM.36e676 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r20#equilibrium_property |
-| ORC-QHNKBTS4T7.6f1e99 | ORC-QHNKBTS4T7.9189eb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r15#equilibrium_property |
+| ORC-Y5TEVW6D4C.f1203e | ORC-Y5TEVW6D4C.f1203e | doi:10.1007/s10973-019-08689-5/p3/tab-1/r14#equilibrium_property |
+| ORC-2UHOWSMDDM.36e676 | ORC-2UHOWSMDDM.36e676 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r20#equilibrium_property |
+| ORC-QHNKBTS4T7.9189eb | ORC-QHNKBTS4T7.9189eb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r15#equilibrium_property |
 | ORC-7ETPQ4MBKX.0a40ca | ORC-7ETPQ4MBKX.0a40ca | doi:10.1016/0925-8388(95)02178-7/p3/tab-1/r01#equilibrium_property |
 | ORC-ZGNAFNTX2H.5e9855 | ORC-ZGNAFNTX2H.5e9855 | doi:10.1016/0925-8388(95)02178-7/p3/tab-1/r05#equilibrium_property |
 | ORC-7G4J3DVKFH.4c3dd1 | ORC-7G4J3DVKFH.4c3dd1 | doi:10.1016/0925-8388(95)02178-7/p3/tab-1/r09#equilibrium_property |
@@ -450,92 +450,92 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-7EJZDTGN6G.722fc9 | ORC-7EJZDTGN6G.722fc9 | doi:10.1016/0925-8388(95)02178-7/p3/tab-1/r32#equilibrium_property |
 | ORC-7JROAITAUC.8abb2e | ORC-7JROAITAUC.8abb2e | doi:10.1016/0925-8388(95)02178-7/p3/tab-1/r36#equilibrium_property |
 | ORC-66TWZZPIZQ | ORC-66TWZZPIZQ | doi:10.1007/bf02667485/p3/tab-2/r61#phase_region_vertex_set |
-| ORC-MH3ZIMSBFC.ea378c | ORC-MH3ZIMSBFC.118cdf | doi:10.1007/s10853-013-7814-7/p3/tab-2/r01#equilibrium_property |
-| ORC-UMF5FHBZ2R.6eda5e | ORC-UMF5FHBZ2R.3ee0b5 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r04#equilibrium_property |
-| ORC-PBO5HTNEEN.b6b6cd | ORC-PBO5HTNEEN.056889 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r07#equilibrium_property |
-| ORC-RD3CLV2FOT.fee459 | ORC-RD3CLV2FOT.cf6f65 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r10#equilibrium_property |
-| ORC-F6U6L6LQZN.c79ebf | ORC-F6U6L6LQZN.ed040b | doi:10.1007/s10853-013-7814-7/p3/tab-2/r17#equilibrium_property |
-| ORC-PSEXKKFKOW.574362 | ORC-PSEXKKFKOW.e13e42 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r02#equilibrium_property |
-| ORC-BITKOMNVUS.8c970c | ORC-BITKOMNVUS.d4a7d1 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r06#equilibrium_property |
-| ORC-WZQAODEBEC.6a64ec | ORC-WZQAODEBEC.5de7d8 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r10#equilibrium_property |
-| ORC-MX4X76FL6C.620c5b | ORC-MX4X76FL6C.510ad6 | doi:10.1007/bf02667471/p3/tab-3/r01#equilibrium_property |
-| ORC-IS45WK5UKP.8679f7 | ORC-IS45WK5UKP.262376 | doi:10.1007/bf02667471/p3/tab-3/r02#equilibrium_property |
-| ORC-UZLQY2LXGE.792773 | ORC-UZLQY2LXGE.b7f095 | doi:10.1007/bf02667471/p3/tab-3/r03#equilibrium_property |
-| ORC-TEUX77SVIF.f3fe20 | ORC-TEUX77SVIF.94ebfe | doi:10.1007/bf02667471/p3/tab-3/r04#equilibrium_property |
-| ORC-VEMIQI2QKH.e07ad1 | ORC-VEMIQI2QKH.72ac2a | doi:10.1007/bf02667471/p3/tab-3/r05#equilibrium_property |
-| ORC-PQIJGZZYCW.8c28cf | ORC-PQIJGZZYCW.1366ba | doi:10.1007/bf02667471/p3/tab-3/r07#equilibrium_property |
-| ORC-4VJOVJYQSA.db7ebb | ORC-4VJOVJYQSA.7735fb | doi:10.1007/bf02667471/p3/tab-3/r08#equilibrium_property |
-| ORC-4K4ENMK6L6.ef6f87 | ORC-4K4ENMK6L6.064bce | doi:10.1007/bf02667471/p3/tab-3/r09#equilibrium_property |
-| ORC-6YLE4P7WNL.e32968 | ORC-6YLE4P7WNL.dd51ab | doi:10.1007/bf02667471/p3/tab-3/r10#equilibrium_property |
-| ORC-IS45WK5UKP.779104 | ORC-IS45WK5UKP.91a912 | doi:10.1007/bf02667471/p3/tab-3/r02#equilibrium_property |
-| ORC-UZLQY2LXGE.d0c1b8 | ORC-UZLQY2LXGE.f9126f | doi:10.1007/bf02667471/p3/tab-3/r03#equilibrium_property |
-| ORC-TEUX77SVIF.b24f2c | ORC-TEUX77SVIF.e3e014 | doi:10.1007/bf02667471/p3/tab-3/r04#equilibrium_property |
-| ORC-VEMIQI2QKH.eca12c | ORC-VEMIQI2QKH.6141b4 | doi:10.1007/bf02667471/p3/tab-3/r05#equilibrium_property |
-| ORC-K43YLA7BZC.576c99 | ORC-K43YLA7BZC.443dd6 | doi:10.1007/bf02667471/p3/tab-3/r06#equilibrium_property |
-| ORC-PQIJGZZYCW.34f0c8 | ORC-PQIJGZZYCW.29b003 | doi:10.1007/bf02667471/p3/tab-3/r07#equilibrium_property |
-| ORC-4VJOVJYQSA.9bb148 | ORC-4VJOVJYQSA.b3216e | doi:10.1007/bf02667471/p3/tab-3/r08#equilibrium_property |
-| ORC-4K4ENMK6L6.bcc6bc | ORC-4K4ENMK6L6.173f2e | doi:10.1007/bf02667471/p3/tab-3/r09#equilibrium_property |
-| ORC-6YLE4P7WNL.02d244 | ORC-6YLE4P7WNL.2db3df | doi:10.1007/bf02667471/p3/tab-3/r10#equilibrium_property |
-| ORC-QAZ74ROOA4.14f82d | ORC-QAZ74ROOA4.b1f97d | doi:10.1007/bf02667471/p3/tab-3/r11#equilibrium_property |
-| ORC-NSLZ5NLCAN.17527b | ORC-NSLZ5NLCAN.5e930d | doi:10.1361/105497100770340408/p3/tab-3/r04#equilibrium_property |
-| ORC-VWFCJHEUZJ.cbdee4 | ORC-VWFCJHEUZJ.3fa291 | doi:10.1361/105497100770340408/p3/tab-3/r12#equilibrium_property |
-| ORC-GVZJCFBURB.ced65a | ORC-GVZJCFBURB.d0f825 | doi:10.1361/105497100770340408/p3/tab-3/r09#equilibrium_property |
-| ORC-SYPHVE2N5D.9720a9 | ORC-SYPHVE2N5D.50bf91 | doi:10.1361/105497100770340408/p3/tab-3/r15#equilibrium_property |
+| ORC-MH3ZIMSBFC.118cdf | ORC-MH3ZIMSBFC.118cdf | doi:10.1007/s10853-013-7814-7/p3/tab-2/r01#equilibrium_property |
+| ORC-UMF5FHBZ2R.3ee0b5 | ORC-UMF5FHBZ2R.3ee0b5 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r04#equilibrium_property |
+| ORC-PBO5HTNEEN.056889 | ORC-PBO5HTNEEN.056889 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r07#equilibrium_property |
+| ORC-RD3CLV2FOT.cf6f65 | ORC-RD3CLV2FOT.cf6f65 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r10#equilibrium_property |
+| ORC-F6U6L6LQZN.ed040b | ORC-F6U6L6LQZN.ed040b | doi:10.1007/s10853-013-7814-7/p3/tab-2/r17#equilibrium_property |
+| ORC-PSEXKKFKOW.e13e42 | ORC-PSEXKKFKOW.e13e42 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r02#equilibrium_property |
+| ORC-BITKOMNVUS.d4a7d1 | ORC-BITKOMNVUS.d4a7d1 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r06#equilibrium_property |
+| ORC-WZQAODEBEC.5de7d8 | ORC-WZQAODEBEC.5de7d8 | doi:10.1016/j.jct.2022.106883/p8/tab-10/r10#equilibrium_property |
+| ORC-MX4X76FL6C.510ad6 | ORC-MX4X76FL6C.510ad6 | doi:10.1007/bf02667471/p3/tab-3/r01#equilibrium_property |
+| ORC-IS45WK5UKP.262376 | ORC-IS45WK5UKP.262376 | doi:10.1007/bf02667471/p3/tab-3/r02#equilibrium_property |
+| ORC-UZLQY2LXGE.b7f095 | ORC-UZLQY2LXGE.b7f095 | doi:10.1007/bf02667471/p3/tab-3/r03#equilibrium_property |
+| ORC-TEUX77SVIF.94ebfe | ORC-TEUX77SVIF.94ebfe | doi:10.1007/bf02667471/p3/tab-3/r04#equilibrium_property |
+| ORC-VEMIQI2QKH.72ac2a | ORC-VEMIQI2QKH.72ac2a | doi:10.1007/bf02667471/p3/tab-3/r05#equilibrium_property |
+| ORC-PQIJGZZYCW.1366ba | ORC-PQIJGZZYCW.1366ba | doi:10.1007/bf02667471/p3/tab-3/r07#equilibrium_property |
+| ORC-4VJOVJYQSA.7735fb | ORC-4VJOVJYQSA.7735fb | doi:10.1007/bf02667471/p3/tab-3/r08#equilibrium_property |
+| ORC-4K4ENMK6L6.064bce | ORC-4K4ENMK6L6.064bce | doi:10.1007/bf02667471/p3/tab-3/r09#equilibrium_property |
+| ORC-6YLE4P7WNL.dd51ab | ORC-6YLE4P7WNL.dd51ab | doi:10.1007/bf02667471/p3/tab-3/r10#equilibrium_property |
+| ORC-IS45WK5UKP.91a912 | ORC-IS45WK5UKP.91a912 | doi:10.1007/bf02667471/p3/tab-3/r02#equilibrium_property |
+| ORC-UZLQY2LXGE.f9126f | ORC-UZLQY2LXGE.f9126f | doi:10.1007/bf02667471/p3/tab-3/r03#equilibrium_property |
+| ORC-TEUX77SVIF.e3e014 | ORC-TEUX77SVIF.e3e014 | doi:10.1007/bf02667471/p3/tab-3/r04#equilibrium_property |
+| ORC-VEMIQI2QKH.6141b4 | ORC-VEMIQI2QKH.6141b4 | doi:10.1007/bf02667471/p3/tab-3/r05#equilibrium_property |
+| ORC-K43YLA7BZC.443dd6 | ORC-K43YLA7BZC.443dd6 | doi:10.1007/bf02667471/p3/tab-3/r06#equilibrium_property |
+| ORC-PQIJGZZYCW.29b003 | ORC-PQIJGZZYCW.29b003 | doi:10.1007/bf02667471/p3/tab-3/r07#equilibrium_property |
+| ORC-4VJOVJYQSA.b3216e | ORC-4VJOVJYQSA.b3216e | doi:10.1007/bf02667471/p3/tab-3/r08#equilibrium_property |
+| ORC-4K4ENMK6L6.173f2e | ORC-4K4ENMK6L6.173f2e | doi:10.1007/bf02667471/p3/tab-3/r09#equilibrium_property |
+| ORC-6YLE4P7WNL.2db3df | ORC-6YLE4P7WNL.2db3df | doi:10.1007/bf02667471/p3/tab-3/r10#equilibrium_property |
+| ORC-QAZ74ROOA4.b1f97d | ORC-QAZ74ROOA4.b1f97d | doi:10.1007/bf02667471/p3/tab-3/r11#equilibrium_property |
+| ORC-NSLZ5NLCAN.5e930d | ORC-NSLZ5NLCAN.5e930d | doi:10.1361/105497100770340408/p3/tab-3/r04#equilibrium_property |
+| ORC-VWFCJHEUZJ.3fa291 | ORC-VWFCJHEUZJ.3fa291 | doi:10.1361/105497100770340408/p3/tab-3/r12#equilibrium_property |
+| ORC-GVZJCFBURB.d0f825 | ORC-GVZJCFBURB.d0f825 | doi:10.1361/105497100770340408/p3/tab-3/r09#equilibrium_property |
+| ORC-SYPHVE2N5D.50bf91 | ORC-SYPHVE2N5D.50bf91 | doi:10.1361/105497100770340408/p3/tab-3/r15#equilibrium_property |
 | ORC-MLSK6MMBJC | ORC-MLSK6MMBJC | doi:10.1016/0364-5916(95)00038-g/p4/tab-1b/r05#phase_region_vertex_set |
 | ORC-45RKMHXPOP.7fe6a3 | ORC-45RKMHXPOP.7fe6a3 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r11#equilibrium_property |
 | ORC-6FIHIYYN7M.5d1f54 | ORC-6FIHIYYN7M.5d1f54 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r12#equilibrium_property |
 | ORC-UTYLURSU47.0df886 | ORC-UTYLURSU47.0df886 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r28#equilibrium_property |
 | ORC-OMEEBS7VNA.70d585 | ORC-OMEEBS7VNA.70d585 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r29#equilibrium_property |
 | ORC-CIBLIAIPZV.362249 | ORC-CIBLIAIPZV.362249 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r32#equilibrium_property |
-| ORC-5NZ545FAPJ.092896 | ORC-5NZ545FAPJ.027e9e | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r01#equilibrium_property |
-| ORC-UCAWQ7TJ6P.783d75 | ORC-UCAWQ7TJ6P.414e38 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r02#equilibrium_property |
-| ORC-5RTTGBYBLH.e4a9cb | ORC-5RTTGBYBLH.96385b | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r03#equilibrium_property |
-| ORC-QMOW2L7IX7.f119fc | ORC-QMOW2L7IX7.b85803 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r04#equilibrium_property |
-| ORC-GGF3AVZN5J.e1e1b9 | ORC-GGF3AVZN5J.b2016c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r05#equilibrium_property |
-| ORC-VEF6TLJI5M.1fdda4 | ORC-VEF6TLJI5M.1c3b5c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r06#equilibrium_property |
-| ORC-W5YFYFLRKV.dc0dbb | ORC-W5YFYFLRKV.f13a3c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r07#equilibrium_property |
-| ORC-ECIHSYUDRC.51f5ba | ORC-ECIHSYUDRC.11d1bb | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r08#equilibrium_property |
-| ORC-ND427AX3LA.c37529 | ORC-ND427AX3LA.56d405 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r09#equilibrium_property |
-| ORC-DCQYNUYZK5.e4e81f | ORC-DCQYNUYZK5.5adfea | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r10#equilibrium_property |
-| ORC-BBVSGB56XG.bcdf7f | ORC-BBVSGB56XG.6425a1 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r11#equilibrium_property |
-| ORC-CK4YSGL7IJ.562121 | ORC-CK4YSGL7IJ.ffa195 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r12#equilibrium_property |
-| ORC-EZXO34WQZ3.89ac0e | ORC-EZXO34WQZ3.09362c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r13#equilibrium_property |
-| ORC-L33SX3YAL7.9e5473 | ORC-L33SX3YAL7.fa70d0 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r14#equilibrium_property |
-| ORC-XQBHD62QNB.df2c63 | ORC-XQBHD62QNB.417385 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r15#equilibrium_property |
-| ORC-QOCRQBJDUB.2cfa02 | ORC-QOCRQBJDUB.6f0e5d | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r16#equilibrium_property |
-| ORC-S2UL3AKO7G.3b7ada | ORC-S2UL3AKO7G.92cdb8 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r17#equilibrium_property |
-| ORC-V3ZLX7NUVW.c59ec5 | ORC-V3ZLX7NUVW.254cf3 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r18#equilibrium_property |
-| ORC-4ZUNGQUW25.f087f7 | ORC-4ZUNGQUW25.0a396d | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r19#equilibrium_property |
-| ORC-JK5N7SNTIR.ab96da | ORC-JK5N7SNTIR.d22270 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r20#equilibrium_property |
-| ORC-366KWTOBRX.203572 | ORC-366KWTOBRX.2a89bd | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r21#equilibrium_property |
-| ORC-QVRKZ3JDES.83eaf9 | ORC-QVRKZ3JDES.eaf36f | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r22#equilibrium_property |
-| ORC-QXNLTOYRPC.8a8c21 | ORC-QXNLTOYRPC.e8c437 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r23#equilibrium_property |
-| ORC-QC5K7ODIQI.a4b770 | ORC-QC5K7ODIQI.ac5d9f | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r24#equilibrium_property |
-| ORC-UZ6GVQRNMG.b784c9 | ORC-UZ6GVQRNMG.af5aa0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r01#equilibrium_property |
-| ORC-N4R4VXHYYS.42153e | ORC-N4R4VXHYYS.63bbe6 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r02#equilibrium_property |
-| ORC-5P37AKXDJA.61080a | ORC-5P37AKXDJA.d0b2b7 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r03#equilibrium_property |
-| ORC-TR7IHMB45Q.ece17f | ORC-TR7IHMB45Q.ada3c0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r04#equilibrium_property |
-| ORC-5QHCOCHWGW.1f542b | ORC-5QHCOCHWGW.b7b3bd | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r05#equilibrium_property |
-| ORC-CC4ZATIHZY.b52155 | ORC-CC4ZATIHZY.672cd2 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r06#equilibrium_property |
-| ORC-AXC7ARC6Y6.ff1b36 | ORC-AXC7ARC6Y6.d4e3d1 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r07#equilibrium_property |
-| ORC-IT7YSQMHF6.ebfe01 | ORC-IT7YSQMHF6.db716d | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r08#equilibrium_property |
-| ORC-2C53JADKMD.0ce008 | ORC-2C53JADKMD.a61c39 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r09#equilibrium_property |
-| ORC-SFD2KHCML5.05258f | ORC-SFD2KHCML5.9d0105 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r10#equilibrium_property |
-| ORC-A7W3KER6E5.167ee9 | ORC-A7W3KER6E5.1f57dd | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r11#equilibrium_property |
-| ORC-OWJSHDZEA6.28d436 | ORC-OWJSHDZEA6.2ee18d | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r12#equilibrium_property |
-| ORC-P5GGFOWMDH.5f990b | ORC-P5GGFOWMDH.1f2213 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r13#equilibrium_property |
-| ORC-LTGY7ET35B.525ec0 | ORC-LTGY7ET35B.70862c | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r14#equilibrium_property |
-| ORC-63WJIQMRVL.227ca2 | ORC-63WJIQMRVL.c4bbd1 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r15#equilibrium_property |
-| ORC-622PGZM3T2.edf4b2 | ORC-622PGZM3T2.fef96a | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r16#equilibrium_property |
-| ORC-XNM6TYMKTE.474873 | ORC-XNM6TYMKTE.e1aa4b | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r17#equilibrium_property |
-| ORC-GV7ELY7DVL.ece5c0 | ORC-GV7ELY7DVL.858eec | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r18#equilibrium_property |
-| ORC-VDMHT7PQXF.d9d7a4 | ORC-VDMHT7PQXF.696606 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r19#equilibrium_property |
-| ORC-2BQHK4P4FL.1ea771 | ORC-2BQHK4P4FL.8f72b0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r20#equilibrium_property |
-| ORC-WQG5YU7G5A.39f490 | ORC-WQG5YU7G5A.5b9e83 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r21#equilibrium_property |
-| ORC-LS2LFPX7UP.eaa323 | ORC-LS2LFPX7UP.701c62 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r22#equilibrium_property |
-| ORC-W5KI5UYQ5T.53b183 | ORC-W5KI5UYQ5T.2d0e28 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r23#equilibrium_property |
-| ORC-PRVEMNGLQK.d3ff1a | ORC-PRVEMNGLQK.9f59f5 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r24#equilibrium_property |
-| ORC-5ZU4LEKRXD.18d3c9 | ORC-5ZU4LEKRXD.1dc1ab | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r25#equilibrium_property |
+| ORC-5NZ545FAPJ.027e9e | ORC-5NZ545FAPJ.027e9e | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r01#equilibrium_property |
+| ORC-UCAWQ7TJ6P.414e38 | ORC-UCAWQ7TJ6P.414e38 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r02#equilibrium_property |
+| ORC-5RTTGBYBLH.96385b | ORC-5RTTGBYBLH.96385b | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r03#equilibrium_property |
+| ORC-QMOW2L7IX7.b85803 | ORC-QMOW2L7IX7.b85803 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r04#equilibrium_property |
+| ORC-GGF3AVZN5J.b2016c | ORC-GGF3AVZN5J.b2016c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r05#equilibrium_property |
+| ORC-VEF6TLJI5M.1c3b5c | ORC-VEF6TLJI5M.1c3b5c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r06#equilibrium_property |
+| ORC-W5YFYFLRKV.f13a3c | ORC-W5YFYFLRKV.f13a3c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r07#equilibrium_property |
+| ORC-ECIHSYUDRC.11d1bb | ORC-ECIHSYUDRC.11d1bb | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r08#equilibrium_property |
+| ORC-ND427AX3LA.56d405 | ORC-ND427AX3LA.56d405 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r09#equilibrium_property |
+| ORC-DCQYNUYZK5.5adfea | ORC-DCQYNUYZK5.5adfea | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r10#equilibrium_property |
+| ORC-BBVSGB56XG.6425a1 | ORC-BBVSGB56XG.6425a1 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r11#equilibrium_property |
+| ORC-CK4YSGL7IJ.ffa195 | ORC-CK4YSGL7IJ.ffa195 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r12#equilibrium_property |
+| ORC-EZXO34WQZ3.09362c | ORC-EZXO34WQZ3.09362c | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r13#equilibrium_property |
+| ORC-L33SX3YAL7.fa70d0 | ORC-L33SX3YAL7.fa70d0 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r14#equilibrium_property |
+| ORC-XQBHD62QNB.417385 | ORC-XQBHD62QNB.417385 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r15#equilibrium_property |
+| ORC-QOCRQBJDUB.6f0e5d | ORC-QOCRQBJDUB.6f0e5d | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r16#equilibrium_property |
+| ORC-S2UL3AKO7G.92cdb8 | ORC-S2UL3AKO7G.92cdb8 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r17#equilibrium_property |
+| ORC-V3ZLX7NUVW.254cf3 | ORC-V3ZLX7NUVW.254cf3 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r18#equilibrium_property |
+| ORC-4ZUNGQUW25.0a396d | ORC-4ZUNGQUW25.0a396d | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r19#equilibrium_property |
+| ORC-JK5N7SNTIR.d22270 | ORC-JK5N7SNTIR.d22270 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r20#equilibrium_property |
+| ORC-366KWTOBRX.2a89bd | ORC-366KWTOBRX.2a89bd | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r21#equilibrium_property |
+| ORC-QVRKZ3JDES.eaf36f | ORC-QVRKZ3JDES.eaf36f | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r22#equilibrium_property |
+| ORC-QXNLTOYRPC.e8c437 | ORC-QXNLTOYRPC.e8c437 | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r23#equilibrium_property |
+| ORC-QC5K7ODIQI.ac5d9f | ORC-QC5K7ODIQI.ac5d9f | doi:10.1016/j.jallcom.2016.12.399/p5/tab-2/r24#equilibrium_property |
+| ORC-UZ6GVQRNMG.af5aa0 | ORC-UZ6GVQRNMG.af5aa0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r01#equilibrium_property |
+| ORC-N4R4VXHYYS.63bbe6 | ORC-N4R4VXHYYS.63bbe6 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r02#equilibrium_property |
+| ORC-5P37AKXDJA.d0b2b7 | ORC-5P37AKXDJA.d0b2b7 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r03#equilibrium_property |
+| ORC-TR7IHMB45Q.ada3c0 | ORC-TR7IHMB45Q.ada3c0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r04#equilibrium_property |
+| ORC-5QHCOCHWGW.b7b3bd | ORC-5QHCOCHWGW.b7b3bd | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r05#equilibrium_property |
+| ORC-CC4ZATIHZY.672cd2 | ORC-CC4ZATIHZY.672cd2 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r06#equilibrium_property |
+| ORC-AXC7ARC6Y6.d4e3d1 | ORC-AXC7ARC6Y6.d4e3d1 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r07#equilibrium_property |
+| ORC-IT7YSQMHF6.db716d | ORC-IT7YSQMHF6.db716d | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r08#equilibrium_property |
+| ORC-2C53JADKMD.a61c39 | ORC-2C53JADKMD.a61c39 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r09#equilibrium_property |
+| ORC-SFD2KHCML5.9d0105 | ORC-SFD2KHCML5.9d0105 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r10#equilibrium_property |
+| ORC-A7W3KER6E5.1f57dd | ORC-A7W3KER6E5.1f57dd | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r11#equilibrium_property |
+| ORC-OWJSHDZEA6.2ee18d | ORC-OWJSHDZEA6.2ee18d | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r12#equilibrium_property |
+| ORC-P5GGFOWMDH.1f2213 | ORC-P5GGFOWMDH.1f2213 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r13#equilibrium_property |
+| ORC-LTGY7ET35B.70862c | ORC-LTGY7ET35B.70862c | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r14#equilibrium_property |
+| ORC-63WJIQMRVL.c4bbd1 | ORC-63WJIQMRVL.c4bbd1 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r15#equilibrium_property |
+| ORC-622PGZM3T2.fef96a | ORC-622PGZM3T2.fef96a | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r16#equilibrium_property |
+| ORC-XNM6TYMKTE.e1aa4b | ORC-XNM6TYMKTE.e1aa4b | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r17#equilibrium_property |
+| ORC-GV7ELY7DVL.858eec | ORC-GV7ELY7DVL.858eec | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r18#equilibrium_property |
+| ORC-VDMHT7PQXF.696606 | ORC-VDMHT7PQXF.696606 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r19#equilibrium_property |
+| ORC-2BQHK4P4FL.8f72b0 | ORC-2BQHK4P4FL.8f72b0 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r20#equilibrium_property |
+| ORC-WQG5YU7G5A.5b9e83 | ORC-WQG5YU7G5A.5b9e83 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r21#equilibrium_property |
+| ORC-LS2LFPX7UP.701c62 | ORC-LS2LFPX7UP.701c62 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r22#equilibrium_property |
+| ORC-W5KI5UYQ5T.2d0e28 | ORC-W5KI5UYQ5T.2d0e28 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r23#equilibrium_property |
+| ORC-PRVEMNGLQK.9f59f5 | ORC-PRVEMNGLQK.9f59f5 | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r24#equilibrium_property |
+| ORC-5ZU4LEKRXD.1dc1ab | ORC-5ZU4LEKRXD.1dc1ab | doi:10.1016/j.jallcom.2016.12.399/p6/tab-3/r25#equilibrium_property |
 | ORC-YXN56HZPNM.5dbe46 | ORC-YXN56HZPNM.5dbe46 | doi:10.1016/j.jallcom.2016.12.399/p7/tab-4/r01#equilibrium_property |
 | ORC-NGIDTXSSGC.70deab | ORC-NGIDTXSSGC.70deab | doi:10.1016/j.jallcom.2016.12.399/p7/tab-4/r02#equilibrium_property |
 | ORC-HNMU5NSLAR.3a9200 | ORC-HNMU5NSLAR.3a9200 | doi:10.1016/j.jallcom.2016.12.399/p7/tab-4/r03#equilibrium_property |
@@ -589,40 +589,40 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-D2GEUAFSA3.17618f | ORC-D2GEUAFSA3.17618f | doi:10.1016/j.intermet.2004.03.011/p6/tab-3/r15#equilibrium_property |
 | ORC-IWJLELXHAM.752c54 | ORC-IWJLELXHAM.752c54 | doi:10.1016/j.intermet.2008.11.011/p4/tab-3/r02#equilibrium_property |
 | ORC-MDJMCVRYSE.1f557a | ORC-MDJMCVRYSE.1f557a | doi:10.1016/j.intermet.2008.11.011/p4/tab-3/r10#equilibrium_property |
-| ORC-5CWK34HTUC.8cfd0c | ORC-5CWK34HTUC.8ed34b | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r10#equilibrium_property |
-| ORC-CFKKFJWLEZ.915aea | ORC-CFKKFJWLEZ.044e9f | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r15#equilibrium_property |
+| ORC-5CWK34HTUC.8ed34b | ORC-5CWK34HTUC.8ed34b | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r10#equilibrium_property |
+| ORC-CFKKFJWLEZ.044e9f | ORC-CFKKFJWLEZ.044e9f | doi:10.1016/j.calphad.2014.11.005/p3/tab-2/r15#equilibrium_property |
 | ORC-DJW67EF4ZM.f4dfa5 | ORC-DJW67EF4ZM.2ce8e3 | sha256:7dba98ff5b6d400f/p2/tab-i/r01#equilibrium_property |
 | ORC-GD6EKDN36L.0c78bd | ORC-GD6EKDN36L.0c78bd | sha256:7dba98ff5b6d400f/p2/tab-i/r10#equilibrium_property |
 | ORC-BNYYHWWIJ2.6526c5 | ORC-BNYYHWWIJ2.6526c5 | sha256:7dba98ff5b6d400f/p2/tab-i/r05#equilibrium_property |
 | ORC-XJLRGU3HQQ.9dfc81 | ORC-XJLRGU3HQQ.9dfc81 | sha256:7dba98ff5b6d400f/p2/tab-i/r07#equilibrium_property |
 | ORC-23VAE3URZS.63e02f | ORC-23VAE3URZS.63e02f | sha256:7dba98ff5b6d400f/p2/tab-i/r12#equilibrium_property |
 | ORC-K3LQZVOONG.cc5000 | ORC-K3LQZVOONG.1b4e3e | sha256:7dba98ff5b6d400f/p2/tab-i/r14#equilibrium_property |
-| ORC-35KKCWXTVK.bdfc92 | ORC-35KKCWXTVK.ce70bf | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r02#equilibrium_property |
-| ORC-TQH35NFF7E.fdae45 | ORC-TQH35NFF7E.7f567c | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r07#equilibrium_property |
-| ORC-C6LZ36ISCC.09c256 | ORC-C6LZ36ISCC.714909 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r11#equilibrium_property |
-| ORC-H5OATTV4YI.99a5c9 | ORC-H5OATTV4YI.112d07 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r08#equilibrium_property |
-| ORC-EENBV6JOTY.a7d9ec | ORC-EENBV6JOTY.018b44 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r23#equilibrium_property |
-| ORC-UHMYIGYWKU.f02841 | ORC-UHMYIGYWKU.8cb74d | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r24#equilibrium_property |
-| ORC-PEPGNW2DTY.12bb23 | ORC-PEPGNW2DTY.86597c | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r16#equilibrium_property |
-| ORC-YEW6RRQCYU.864b86 | ORC-YEW6RRQCYU.9b4e30 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r24#equilibrium_property |
-| ORC-QE7M3FV2JX.4f533a | ORC-QE7M3FV2JX.2483a3 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r02#equilibrium_property |
-| ORC-MAQJCN6KZA.97cc57 | ORC-MAQJCN6KZA.38a97c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r08#equilibrium_property |
-| ORC-FK52QONVEP.49d2b3 | ORC-FK52QONVEP.263c23 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r12#equilibrium_property |
-| ORC-5DLLBJSKHU.821a7b | ORC-5DLLBJSKHU.19c63a | doi:10.1007/s10973-016-5380-3/p5/tab-2/r16#equilibrium_property |
-| ORC-2VYYLCJG6B.fc601c | ORC-2VYYLCJG6B.35b188 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r17#equilibrium_property |
-| ORC-KQAQJSXIUR.8d6ca1 | ORC-KQAQJSXIUR.9e9991 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r21#equilibrium_property |
-| ORC-T6WAJSN2ID.111f82 | ORC-T6WAJSN2ID.b71772 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r04#equilibrium_property |
-| ORC-CROH3CJWUG.38377e | ORC-CROH3CJWUG.cc1425 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r10#equilibrium_property |
-| ORC-BDP3R2S4AJ.45efe5 | ORC-BDP3R2S4AJ.3d02aa | doi:10.1007/s10973-016-5380-3/p5/tab-2/r14#equilibrium_property |
-| ORC-ATWHHONLGM.201ce6 | ORC-ATWHHONLGM.3eeafe | doi:10.1007/s10973-016-5380-3/p5/tab-2/r19#equilibrium_property |
-| ORC-XIHXMIOGKA.43ccac | ORC-XIHXMIOGKA.f0a91e | doi:10.1007/s10973-016-5380-3/p5/tab-2/r23#equilibrium_property |
-| ORC-3NOZAMJ6QA.4def27 | ORC-3NOZAMJ6QA.ec7216 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r05#equilibrium_property |
-| ORC-T6WAJSN2ID.e1a6fc | ORC-T6WAJSN2ID.418ed4 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r04#equilibrium_property |
-| ORC-CROH3CJWUG.8b59de | ORC-CROH3CJWUG.290d14 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r10#equilibrium_property |
-| ORC-BDP3R2S4AJ.e7767e | ORC-BDP3R2S4AJ.f9968d | doi:10.1007/s10973-016-5380-3/p5/tab-2/r14#equilibrium_property |
-| ORC-ATWHHONLGM.b5d4b2 | ORC-ATWHHONLGM.d93edb | doi:10.1007/s10973-016-5380-3/p5/tab-2/r19#equilibrium_property |
-| ORC-XIHXMIOGKA.192321 | ORC-XIHXMIOGKA.09fc75 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r23#equilibrium_property |
-| ORC-3NOZAMJ6QA.c063a9 | ORC-3NOZAMJ6QA.aa656c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r05#equilibrium_property |
+| ORC-35KKCWXTVK.ce70bf | ORC-35KKCWXTVK.ce70bf | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r02#equilibrium_property |
+| ORC-TQH35NFF7E.7f567c | ORC-TQH35NFF7E.7f567c | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r07#equilibrium_property |
+| ORC-C6LZ36ISCC.714909 | ORC-C6LZ36ISCC.714909 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r11#equilibrium_property |
+| ORC-H5OATTV4YI.112d07 | ORC-H5OATTV4YI.112d07 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r08#equilibrium_property |
+| ORC-EENBV6JOTY.018b44 | ORC-EENBV6JOTY.018b44 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r23#equilibrium_property |
+| ORC-UHMYIGYWKU.8cb74d | ORC-UHMYIGYWKU.8cb74d | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r24#equilibrium_property |
+| ORC-PEPGNW2DTY.86597c | ORC-PEPGNW2DTY.86597c | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r16#equilibrium_property |
+| ORC-YEW6RRQCYU.9b4e30 | ORC-YEW6RRQCYU.9b4e30 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r24#equilibrium_property |
+| ORC-QE7M3FV2JX.2483a3 | ORC-QE7M3FV2JX.2483a3 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r02#equilibrium_property |
+| ORC-MAQJCN6KZA.38a97c | ORC-MAQJCN6KZA.38a97c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r08#equilibrium_property |
+| ORC-FK52QONVEP.263c23 | ORC-FK52QONVEP.263c23 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r12#equilibrium_property |
+| ORC-5DLLBJSKHU.19c63a | ORC-5DLLBJSKHU.19c63a | doi:10.1007/s10973-016-5380-3/p5/tab-2/r16#equilibrium_property |
+| ORC-2VYYLCJG6B.35b188 | ORC-2VYYLCJG6B.35b188 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r17#equilibrium_property |
+| ORC-KQAQJSXIUR.9e9991 | ORC-KQAQJSXIUR.9e9991 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r21#equilibrium_property |
+| ORC-T6WAJSN2ID.b71772 | ORC-T6WAJSN2ID.b71772 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r04#equilibrium_property |
+| ORC-CROH3CJWUG.cc1425 | ORC-CROH3CJWUG.cc1425 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r10#equilibrium_property |
+| ORC-BDP3R2S4AJ.3d02aa | ORC-BDP3R2S4AJ.3d02aa | doi:10.1007/s10973-016-5380-3/p5/tab-2/r14#equilibrium_property |
+| ORC-ATWHHONLGM.3eeafe | ORC-ATWHHONLGM.3eeafe | doi:10.1007/s10973-016-5380-3/p5/tab-2/r19#equilibrium_property |
+| ORC-XIHXMIOGKA.f0a91e | ORC-XIHXMIOGKA.f0a91e | doi:10.1007/s10973-016-5380-3/p5/tab-2/r23#equilibrium_property |
+| ORC-3NOZAMJ6QA.ec7216 | ORC-3NOZAMJ6QA.ec7216 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r05#equilibrium_property |
+| ORC-T6WAJSN2ID.418ed4 | ORC-T6WAJSN2ID.418ed4 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r04#equilibrium_property |
+| ORC-CROH3CJWUG.290d14 | ORC-CROH3CJWUG.290d14 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r10#equilibrium_property |
+| ORC-BDP3R2S4AJ.f9968d | ORC-BDP3R2S4AJ.f9968d | doi:10.1007/s10973-016-5380-3/p5/tab-2/r14#equilibrium_property |
+| ORC-ATWHHONLGM.d93edb | ORC-ATWHHONLGM.d93edb | doi:10.1007/s10973-016-5380-3/p5/tab-2/r19#equilibrium_property |
+| ORC-XIHXMIOGKA.09fc75 | ORC-XIHXMIOGKA.09fc75 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r23#equilibrium_property |
+| ORC-3NOZAMJ6QA.aa656c | ORC-3NOZAMJ6QA.aa656c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r05#equilibrium_property |
 | ORC-GHCN4AU6KY.0f4f25 | ORC-GHCN4AU6KY.0f4f25 | doi:10.1361/105497198770342238/p1/tab-1/r03#equilibrium_property |
 | ORC-RQM5UTYKXI.4dfee6 | ORC-RQM5UTYKXI.4dfee6 | doi:10.1361/105497198770342238/p1/tab-1/r04#equilibrium_property |
 | ORC-FTEQRLKT76.6d8dd4 | ORC-FTEQRLKT76.6d8dd4 | doi:10.1361/105497198770342238/p1/tab-1/r09#equilibrium_property |
@@ -649,23 +649,23 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-47OJSMFTDT.9e9bb7 | ORC-47OJSMFTDT.9e9bb7 | doi:10.1016/j.calphad.2009.05.001/p6/tab-4/r15#equilibrium_property |
 | ORC-VVJLDFPSO2.7569fb | ORC-VVJLDFPSO2.7569fb | doi:10.1016/j.calphad.2009.05.001/p6/tab-4/r16#equilibrium_property |
 | ORC-J4OJD7ZKXZ.d553ee | ORC-J4OJD7ZKXZ.d553ee | doi:10.1016/j.calphad.2009.05.001/p6/tab-4/r17#equilibrium_property |
-| ORC-QBTBTA576Y.dd4485 | ORC-QBTBTA576Y.13bbfc | sha256:fc2eb898db6c0244/p8/tab-v/r01#equilibrium_property |
-| ORC-WQH6W53A6M.7c73a7 | ORC-WQH6W53A6M.a387b3 | sha256:fc2eb898db6c0244/p8/tab-v/r04#equilibrium_property |
-| ORC-LDP5O2JGT6.334ca4 | ORC-LDP5O2JGT6.cde3eb | sha256:fc2eb898db6c0244/p8/tab-v/r07#equilibrium_property |
-| ORC-LQN7YN3PVS.efd894 | ORC-LQN7YN3PVS.aa54d7 | sha256:fc2eb898db6c0244/p8/tab-v/r12#equilibrium_property |
-| ORC-KGEHUOP3SH.ce8c47 | ORC-KGEHUOP3SH.248101 | sha256:fc2eb898db6c0244/p8/tab-v/r16#equilibrium_property |
-| ORC-IOZPT2WUPA.0a6d96 | ORC-IOZPT2WUPA.697e74 | sha256:fc2eb898db6c0244/p8/tab-v/r20#equilibrium_property |
-| ORC-ZLK2AFKPJQ.1de261 | ORC-ZLK2AFKPJQ.c4d86a | sha256:fc2eb898db6c0244/p8/tab-v/r23#equilibrium_property |
-| ORC-3IWLINAN5P.3739f4 | ORC-3IWLINAN5P.c6f340 | sha256:fc2eb898db6c0244/p8/tab-v/r13#equilibrium_property |
-| ORC-IRVRKYRVYA.463463 | ORC-IRVRKYRVYA.a76274 | sha256:fc2eb898db6c0244/p8/tab-v/r17#equilibrium_property |
-| ORC-YQ6CITKJYH.fe0799 | ORC-YQ6CITKJYH.eca9f0 | sha256:fc2eb898db6c0244/p8/tab-v/r24#equilibrium_property |
+| ORC-QBTBTA576Y.13bbfc | ORC-QBTBTA576Y.13bbfc | sha256:fc2eb898db6c0244/p8/tab-v/r01#equilibrium_property |
+| ORC-WQH6W53A6M.a387b3 | ORC-WQH6W53A6M.a387b3 | sha256:fc2eb898db6c0244/p8/tab-v/r04#equilibrium_property |
+| ORC-LDP5O2JGT6.cde3eb | ORC-LDP5O2JGT6.cde3eb | sha256:fc2eb898db6c0244/p8/tab-v/r07#equilibrium_property |
+| ORC-LQN7YN3PVS.aa54d7 | ORC-LQN7YN3PVS.aa54d7 | sha256:fc2eb898db6c0244/p8/tab-v/r12#equilibrium_property |
+| ORC-KGEHUOP3SH.248101 | ORC-KGEHUOP3SH.248101 | sha256:fc2eb898db6c0244/p8/tab-v/r16#equilibrium_property |
+| ORC-IOZPT2WUPA.697e74 | ORC-IOZPT2WUPA.697e74 | sha256:fc2eb898db6c0244/p8/tab-v/r20#equilibrium_property |
+| ORC-ZLK2AFKPJQ.c4d86a | ORC-ZLK2AFKPJQ.c4d86a | sha256:fc2eb898db6c0244/p8/tab-v/r23#equilibrium_property |
+| ORC-3IWLINAN5P.c6f340 | ORC-3IWLINAN5P.c6f340 | sha256:fc2eb898db6c0244/p8/tab-v/r13#equilibrium_property |
+| ORC-IRVRKYRVYA.a76274 | ORC-IRVRKYRVYA.a76274 | sha256:fc2eb898db6c0244/p8/tab-v/r17#equilibrium_property |
+| ORC-YQ6CITKJYH.eca9f0 | ORC-YQ6CITKJYH.eca9f0 | sha256:fc2eb898db6c0244/p8/tab-v/r24#equilibrium_property |
 | ORC-I5ERKJ6ASU.0d9345 | ORC-I5ERKJ6ASU.2fecbd | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r03#equilibrium_property |
 | ORC-LQVRUTMRZB.80a30c | ORC-LQVRUTMRZB.b7e99c | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r06#equilibrium_property |
 | ORC-XVHMK36SNQ.1a8a1b | ORC-XVHMK36SNQ.0789cd | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r07#equilibrium_property |
-| ORC-K3HZTEHG2L.a59b0d | ORC-K3HZTEHG2L.f8e0f3 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r02#equilibrium_property |
-| ORC-AZHIIJFVVN.b7673e | ORC-AZHIIJFVVN.0f8013 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r04#equilibrium_property |
-| ORC-KSXPAH2RSB.96e5b4 | ORC-KSXPAH2RSB.4db829 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r06#equilibrium_property |
-| ORC-MBFNTRXGAI.905300 | ORC-MBFNTRXGAI.f9d105 | doi:10.1016/j.calphad.2023.102541/p27/tab-1/r15#equilibrium_property |
+| ORC-K3HZTEHG2L.f8e0f3 | ORC-K3HZTEHG2L.f8e0f3 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r02#equilibrium_property |
+| ORC-AZHIIJFVVN.0f8013 | ORC-AZHIIJFVVN.0f8013 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r04#equilibrium_property |
+| ORC-KSXPAH2RSB.4db829 | ORC-KSXPAH2RSB.4db829 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r06#equilibrium_property |
+| ORC-MBFNTRXGAI.905300 | ORC-MBFNTRXGAI.905300 | doi:10.1016/j.calphad.2023.102541/p27/tab-1/r15#equilibrium_property |
 | ORC-YVLBOQ5WZM.2cc9d4 | ORC-YVLBOQ5WZM.2cc9d4 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r02#equilibrium_property |
 | ORC-2MDAMARU3A.3ab478 | ORC-2MDAMARU3A.3ab478 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r06#equilibrium_property |
 | ORC-5FM66R6W4S.2b6a0c | ORC-5FM66R6W4S.2b6a0c | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r08#equilibrium_property |
@@ -678,11 +678,11 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-NNBDCYEADO.98dc51 | ORC-NNBDCYEADO.98dc51 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r26#equilibrium_property |
 | ORC-GEOHQLQG2H.60a4e1 | ORC-GEOHQLQG2H.60a4e1 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r22#equilibrium_property |
 | ORC-6OOPELOSIS.274e9e | ORC-6OOPELOSIS.274e9e | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r24#equilibrium_property |
-| ORC-MF7LDLWXCM.e09079 | ORC-MF7LDLWXCM.9acaf2 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r06#equilibrium_property |
-| ORC-HCFOJHG4OH.1b136d | ORC-HCFOJHG4OH.4f5391 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r10#equilibrium_property |
-| ORC-O4XZBZ3GQN.82bb37 | ORC-O4XZBZ3GQN.cc5da3 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r16#equilibrium_property |
-| ORC-GBX5IRSDAR.880e53 | ORC-GBX5IRSDAR.72bc1a | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r22#equilibrium_property |
-| ORC-GNQ4UPZMQ2.3753c5 | ORC-GNQ4UPZMQ2.923e00 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r26#equilibrium_property |
+| ORC-MF7LDLWXCM.9acaf2 | ORC-MF7LDLWXCM.9acaf2 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r06#equilibrium_property |
+| ORC-HCFOJHG4OH.4f5391 | ORC-HCFOJHG4OH.4f5391 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r10#equilibrium_property |
+| ORC-O4XZBZ3GQN.cc5da3 | ORC-O4XZBZ3GQN.cc5da3 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r16#equilibrium_property |
+| ORC-GBX5IRSDAR.72bc1a | ORC-GBX5IRSDAR.72bc1a | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r22#equilibrium_property |
+| ORC-GNQ4UPZMQ2.923e00 | ORC-GNQ4UPZMQ2.923e00 | doi:10.1016/j.calphad.2009.07.001/p4/tab-2/r26#equilibrium_property |
 | ORC-2FNA3V3ITS.180d8b | ORC-2FNA3V3ITS.180d8b | doi:10.1016/j.calphad.2011.09.007/p2/tab-2/r01#equilibrium_property |
 | ORC-UHRCVRDEJE.6499cc | ORC-UHRCVRDEJE.6499cc | doi:10.1016/j.calphad.2011.09.007/p2/tab-2/r04#equilibrium_property |
 | ORC-EEVBEWVICW.3cdbfe | ORC-EEVBEWVICW.3cdbfe | doi:10.1016/j.calphad.2011.09.007/p2/tab-2/r07#equilibrium_property |
@@ -691,7 +691,7 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-IT2F53DXDU.3e331b | ORC-IT2F53DXDU.3e331b | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r02#equilibrium_property |
 | ORC-OEWHAHTIO4.06dce4 | ORC-OEWHAHTIO4.06dce4 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r14#equilibrium_property |
 | ORC-GBN3NM56LI.8ae575 | ORC-GBN3NM56LI.8ae575 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r03#equilibrium_property |
-| ORC-OLNLWPIRLP.d4d902 | ORC-OLNLWPIRLP.a9a6fd | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r04#equilibrium_property |
+| ORC-OLNLWPIRLP.a9a6fd | ORC-OLNLWPIRLP.a9a6fd | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r04#equilibrium_property |
 | ORC-M3FHPP37LD.5251f4 | ORC-M3FHPP37LD.5251f4 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r07#equilibrium_property |
 | ORC-5O7BBL2ZS5.6cd718 | ORC-5O7BBL2ZS5.6cd718 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r12#equilibrium_property |
 | ORC-RBNDQYDXRA.5f2d77 | ORC-RBNDQYDXRA.5f2d77 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r11#equilibrium_property |
@@ -702,12 +702,12 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-GIH62I4VZW.4af807 | ORC-GIH62I4VZW.4af807 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r23#equilibrium_property |
 | ORC-345NTR6DDL.069d3c | ORC-345NTR6DDL.069d3c | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r21#equilibrium_property |
 | ORC-K6GMSBONRZ.72bc9b | ORC-K6GMSBONRZ.72bc9b | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r26#equilibrium_property |
-| ORC-OLNLWPIRLP.68d05f | ORC-OLNLWPIRLP.c37eb0 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r04#equilibrium_property |
+| ORC-OLNLWPIRLP.c37eb0 | ORC-OLNLWPIRLP.c37eb0 | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r04#equilibrium_property |
 | ORC-IMUKKQP2HM.58e758 | ORC-IMUKKQP2HM.6c3660 | doi:10.1016/j.calphad.2005.06.004/p7/tab-6/r10#equilibrium_property |
-| ORC-HPF2C7PFZM.5f003e | ORC-HPF2C7PFZM.e5279b | doi:10.1007/bf02667808/p6/tab-3/r01#equilibrium_property |
-| ORC-MEYGLBV6G2.c933aa | ORC-MEYGLBV6G2.ca9876 | doi:10.1007/bf02667808/p6/tab-3/r04#equilibrium_property |
-| ORC-KOZWZVEI53.c6e908 | ORC-KOZWZVEI53.9304b4 | doi:10.1007/bf02667808/p6/tab-3/r02#equilibrium_property |
-| ORC-CYNYBUMDH2.8b7ddf | ORC-CYNYBUMDH2.1ce302 | doi:10.1007/bf02667808/p6/tab-3/r05#equilibrium_property |
+| ORC-HPF2C7PFZM.5f003e | ORC-HPF2C7PFZM.5f003e | doi:10.1007/bf02667808/p6/tab-3/r01#equilibrium_property |
+| ORC-MEYGLBV6G2.c933aa | ORC-MEYGLBV6G2.c933aa | doi:10.1007/bf02667808/p6/tab-3/r04#equilibrium_property |
+| ORC-KOZWZVEI53.c6e908 | ORC-KOZWZVEI53.c6e908 | doi:10.1007/bf02667808/p6/tab-3/r02#equilibrium_property |
+| ORC-CYNYBUMDH2.8b7ddf | ORC-CYNYBUMDH2.8b7ddf | doi:10.1007/bf02667808/p6/tab-3/r05#equilibrium_property |
 | ORC-OZSIMP67VN.9c5fc2 | ORC-OZSIMP67VN.b5aa7e | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r01#equilibrium_property |
 | ORC-MNSGFN7TUF.62673d | ORC-MNSGFN7TUF.bcaf6e | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r02#equilibrium_property |
 | ORC-T7MNBZZVXK.3f37c8 | ORC-T7MNBZZVXK.2b6e43 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r03#equilibrium_property |
@@ -747,15 +747,15 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-IFVF5O65HA.7601ad | ORC-IFVF5O65HA.b43fd6 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r36#equilibrium_property |
 | ORC-OYSX326MRK.e94686 | ORC-OYSX326MRK.700a2f | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r41#equilibrium_property |
 | ORC-ZDYH7IJLFP.b81126 | ORC-ZDYH7IJLFP.48de5c | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r42#equilibrium_property |
-| ORC-PIKWTIFFLT.0c987a | ORC-PIKWTIFFLT.28e733 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r02#equilibrium_property |
-| ORC-ERGDTKCCNO.264eef | ORC-ERGDTKCCNO.dbe85d | doi:10.1007/s11669-015-0390-6/p4/tab-3/r05#equilibrium_property |
-| ORC-SCXLN5PW5J.1bdf6b | ORC-SCXLN5PW5J.1fb030 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r08#equilibrium_property |
-| ORC-UGHIJTFJXQ.dee5a9 | ORC-UGHIJTFJXQ.d60bca | doi:10.1007/s11669-015-0390-6/p4/tab-3/r13#equilibrium_property |
-| ORC-BCJLH5QZP3.d32fe6 | ORC-BCJLH5QZP3.d8e17e | doi:10.1007/s11669-015-0390-6/p4/tab-3/r16#equilibrium_property |
-| ORC-UAONAY6USS.a6d089 | ORC-UAONAY6USS.6eaf6c | doi:10.1007/s11669-015-0390-6/p4/tab-3/r19#equilibrium_property |
-| ORC-RIU6VQODTD.ec765d | ORC-RIU6VQODTD.ff9f9c | doi:10.1007/s11669-015-0390-6/p4/tab-3/r22#equilibrium_property |
-| ORC-HPNGKBHL7Q.f40eee | ORC-HPNGKBHL7Q.7e48ad | doi:10.1007/s11669-015-0390-6/p4/tab-3/r25#equilibrium_property |
-| ORC-QBXP4WN4EH.f2ff8b | ORC-QBXP4WN4EH.1119f0 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r29#equilibrium_property |
+| ORC-PIKWTIFFLT.28e733 | ORC-PIKWTIFFLT.28e733 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r02#equilibrium_property |
+| ORC-ERGDTKCCNO.dbe85d | ORC-ERGDTKCCNO.dbe85d | doi:10.1007/s11669-015-0390-6/p4/tab-3/r05#equilibrium_property |
+| ORC-SCXLN5PW5J.1fb030 | ORC-SCXLN5PW5J.1fb030 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r08#equilibrium_property |
+| ORC-UGHIJTFJXQ.d60bca | ORC-UGHIJTFJXQ.d60bca | doi:10.1007/s11669-015-0390-6/p4/tab-3/r13#equilibrium_property |
+| ORC-BCJLH5QZP3.d8e17e | ORC-BCJLH5QZP3.d8e17e | doi:10.1007/s11669-015-0390-6/p4/tab-3/r16#equilibrium_property |
+| ORC-UAONAY6USS.6eaf6c | ORC-UAONAY6USS.6eaf6c | doi:10.1007/s11669-015-0390-6/p4/tab-3/r19#equilibrium_property |
+| ORC-RIU6VQODTD.ff9f9c | ORC-RIU6VQODTD.ff9f9c | doi:10.1007/s11669-015-0390-6/p4/tab-3/r22#equilibrium_property |
+| ORC-HPNGKBHL7Q.7e48ad | ORC-HPNGKBHL7Q.7e48ad | doi:10.1007/s11669-015-0390-6/p4/tab-3/r25#equilibrium_property |
+| ORC-QBXP4WN4EH.1119f0 | ORC-QBXP4WN4EH.1119f0 | doi:10.1007/s11669-015-0390-6/p4/tab-3/r29#equilibrium_property |
 | ORC-LI75RO5UOF.0e04e4 | ORC-LI75RO5UOF.b2865e | doi:10.1016/j.jallcom.2003.10.051/p2/tab-2/r13#equilibrium_property |
 | ORC-TDKQYWMQ63.42461c | ORC-TDKQYWMQ63.00a265 | doi:10.1016/j.jallcom.2003.10.051/p2/tab-2/r14#equilibrium_property |
 | ORC-CNWR63A4F6 | ORC-CNWR63A4F6 | doi:10.1007/bf02817278/p3/tab-v/r01#phase_region_vertex_set |
@@ -772,22 +772,22 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-34KYBMAMNH.bce292 | ORC-34KYBMAMNH.bce292 | sha256:d721a3a5fe63848f/p2/tab-1/r41#equilibrium_property |
 | ORC-VGPFFM6HKY.31582e | ORC-VGPFFM6HKY.31582e | sha256:d721a3a5fe63848f/p2/tab-1/r50#equilibrium_property |
 | ORC-XNBGYI6FKA.1661c8 | ORC-XNBGYI6FKA.1661c8 | sha256:d721a3a5fe63848f/p2/tab-1/r54#equilibrium_property |
-| ORC-URIPMRCZ3I.c86db4 | ORC-URIPMRCZ3I.8cc05d | sha256:8df6e975c3b6dbea/p3/tab-2/r01#equilibrium_property |
-| ORC-BFAMJ2DIA5.dd461e | ORC-BFAMJ2DIA5.917539 | sha256:8df6e975c3b6dbea/p3/tab-2/r06#equilibrium_property |
-| ORC-AYWJZHYTRS.5bb1a2 | ORC-AYWJZHYTRS.aeb0ce | sha256:8df6e975c3b6dbea/p3/tab-2/r10#equilibrium_property |
-| ORC-3KKWBH2XDZ.a50d24 | ORC-3KKWBH2XDZ.b64d86 | sha256:8df6e975c3b6dbea/p3/tab-2/r15#equilibrium_property |
-| ORC-6S6FJDBDPS.2a7f92 | ORC-6S6FJDBDPS.361c7d | sha256:8df6e975c3b6dbea/p3/tab-2/r18#equilibrium_property |
-| ORC-4GRDKBOGIM.e82b52 | ORC-4GRDKBOGIM.4fa341 | sha256:8df6e975c3b6dbea/p3/tab-2/r02#equilibrium_property |
-| ORC-M5W5YRWCXR.430153 | ORC-M5W5YRWCXR.cc9321 | sha256:8df6e975c3b6dbea/p3/tab-2/r11#equilibrium_property |
-| ORC-DSMEXZLUVF.ff4fc5 | ORC-DSMEXZLUVF.79fcd5 | sha256:8df6e975c3b6dbea/p3/tab-2/r19#equilibrium_property |
-| ORC-RBLTNNPVR3.1458d7 | ORC-RBLTNNPVR3.7c362e | sha256:8df6e975c3b6dbea/p3/tab-2/r31#equilibrium_property |
-| ORC-DI7K5WNBQD.81f28b | ORC-DI7K5WNBQD.9f1700 | sha256:8df6e975c3b6dbea/p3/tab-2/r20#equilibrium_property |
-| ORC-5J5H3KGZYE.686fb4 | ORC-5J5H3KGZYE.5184e3 | sha256:8df6e975c3b6dbea/p3/tab-2/r23#equilibrium_property |
-| ORC-RHK3CZSOYD.ab3ff7 | ORC-RHK3CZSOYD.f4ddb9 | sha256:8df6e975c3b6dbea/p3/tab-2/r24#equilibrium_property |
-| ORC-ZQPMERZ45A.ac8ea8 | ORC-ZQPMERZ45A.425703 | sha256:8df6e975c3b6dbea/p3/tab-2/r25#equilibrium_property |
-| ORC-W37THFZ6PU.7829dc | ORC-W37THFZ6PU.4c9892 | sha256:8df6e975c3b6dbea/p3/tab-2/r26#equilibrium_property |
-| ORC-SUPC2RDQAU.221bec | ORC-SUPC2RDQAU.ccc1a6 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r06#equilibrium_property |
-| ORC-VXJZM6BOO7.d665b5 | ORC-VXJZM6BOO7.dab2f9 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r08#equilibrium_property |
+| ORC-URIPMRCZ3I.8cc05d | ORC-URIPMRCZ3I.8cc05d | sha256:8df6e975c3b6dbea/p3/tab-2/r01#equilibrium_property |
+| ORC-BFAMJ2DIA5.917539 | ORC-BFAMJ2DIA5.917539 | sha256:8df6e975c3b6dbea/p3/tab-2/r06#equilibrium_property |
+| ORC-AYWJZHYTRS.aeb0ce | ORC-AYWJZHYTRS.aeb0ce | sha256:8df6e975c3b6dbea/p3/tab-2/r10#equilibrium_property |
+| ORC-3KKWBH2XDZ.b64d86 | ORC-3KKWBH2XDZ.b64d86 | sha256:8df6e975c3b6dbea/p3/tab-2/r15#equilibrium_property |
+| ORC-6S6FJDBDPS.361c7d | ORC-6S6FJDBDPS.361c7d | sha256:8df6e975c3b6dbea/p3/tab-2/r18#equilibrium_property |
+| ORC-4GRDKBOGIM.4fa341 | ORC-4GRDKBOGIM.4fa341 | sha256:8df6e975c3b6dbea/p3/tab-2/r02#equilibrium_property |
+| ORC-M5W5YRWCXR.cc9321 | ORC-M5W5YRWCXR.cc9321 | sha256:8df6e975c3b6dbea/p3/tab-2/r11#equilibrium_property |
+| ORC-DSMEXZLUVF.79fcd5 | ORC-DSMEXZLUVF.79fcd5 | sha256:8df6e975c3b6dbea/p3/tab-2/r19#equilibrium_property |
+| ORC-RBLTNNPVR3.1458d7 | ORC-RBLTNNPVR3.1458d7 | sha256:8df6e975c3b6dbea/p3/tab-2/r31#equilibrium_property |
+| ORC-DI7K5WNBQD.9f1700 | ORC-DI7K5WNBQD.9f1700 | sha256:8df6e975c3b6dbea/p3/tab-2/r20#equilibrium_property |
+| ORC-5J5H3KGZYE.5184e3 | ORC-5J5H3KGZYE.5184e3 | sha256:8df6e975c3b6dbea/p3/tab-2/r23#equilibrium_property |
+| ORC-RHK3CZSOYD.f4ddb9 | ORC-RHK3CZSOYD.f4ddb9 | sha256:8df6e975c3b6dbea/p3/tab-2/r24#equilibrium_property |
+| ORC-ZQPMERZ45A.425703 | ORC-ZQPMERZ45A.425703 | sha256:8df6e975c3b6dbea/p3/tab-2/r25#equilibrium_property |
+| ORC-W37THFZ6PU.4c9892 | ORC-W37THFZ6PU.4c9892 | sha256:8df6e975c3b6dbea/p3/tab-2/r26#equilibrium_property |
+| ORC-SUPC2RDQAU.ccc1a6 | ORC-SUPC2RDQAU.ccc1a6 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r06#equilibrium_property |
+| ORC-VXJZM6BOO7.dab2f9 | ORC-VXJZM6BOO7.dab2f9 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r08#equilibrium_property |
 | ORC-OB2DGUQYZ2.91a64a | ORC-OB2DGUQYZ2.91a64a | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r03#equilibrium_property |
 | ORC-OQUBXYMF3T.85d912 | ORC-OQUBXYMF3T.85d912 | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r07#equilibrium_property |
 | ORC-VVADXIIBVX.6cb4ad | ORC-VVADXIIBVX.6cb4ad | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r10#equilibrium_property |
@@ -810,10 +810,10 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-VUTX73AUZN.c07346 | ORC-VUTX73AUZN.c07346 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r01#equilibrium_property |
 | ORC-QBEOR26ZXW.2a082a | ORC-QBEOR26ZXW.2a082a | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r04#equilibrium_property |
 | ORC-QBEOR26ZXW.1288bd | ORC-QBEOR26ZXW.1288bd | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r04#equilibrium_property |
-| ORC-QBEOR26ZXW.617fb7 | ORC-QBEOR26ZXW.e46430 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r04#equilibrium_property |
+| ORC-QBEOR26ZXW.617fb7 | ORC-QBEOR26ZXW.617fb7 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r04#equilibrium_property |
 | ORC-VVD6KBZNAZ.cdc32e | ORC-VVD6KBZNAZ.cdc32e | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r02#equilibrium_property |
 | ORC-VVD6KBZNAZ.0affb3 | ORC-VVD6KBZNAZ.0affb3 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r02#equilibrium_property |
-| ORC-VVD6KBZNAZ.c0f1e8 | ORC-VVD6KBZNAZ.004cf3 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r02#equilibrium_property |
+| ORC-VVD6KBZNAZ.004cf3 | ORC-VVD6KBZNAZ.004cf3 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r02#equilibrium_property |
 | ORC-4F7X5PYCOO.5769a4 | ORC-4F7X5PYCOO.5769a4 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
 | ORC-EP63T5JKQK.48f132 | ORC-EP63T5JKQK.48f132 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r03#equilibrium_property |
 | ORC-4F7X5PYCOO.5769a4 | ORC-4F7X5PYCOO.5769a4 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
@@ -823,14 +823,14 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-4F7X5PYCOO.64e7cc | ORC-4F7X5PYCOO.64e7cc | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
 | ORC-4F7X5PYCOO.5769a4 | ORC-4F7X5PYCOO.5769a4 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
 | ORC-4F7X5PYCOO.64e7cc | ORC-4F7X5PYCOO.64e7cc | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
-| ORC-4F7X5PYCOO.8552a1 | ORC-4F7X5PYCOO.d58e94 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
+| ORC-4F7X5PYCOO.8552a1 | ORC-4F7X5PYCOO.8552a1 | doi:10.1016/j.actamat.2006.03.058/p4/tab-4/r06#equilibrium_property |
 | ORC-PSDZU7YMNB.abef50 | ORC-PSDZU7YMNB.ed0174 | doi:10.1016/j.calphad.2008.09.014/p3/tab-2/r21#equilibrium_property |
-| ORC-FOZPO6DSVX.9a05d1 | ORC-FOZPO6DSVX.862cb8 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r05#equilibrium_property |
-| ORC-6GMJVZONBS.47dc25 | ORC-6GMJVZONBS.00a8fa | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r14#equilibrium_property |
-| ORC-MFFIYCR33H.9f633b | ORC-MFFIYCR33H.a56e65 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r17#equilibrium_property |
-| ORC-FOZPO6DSVX.dd2129 | ORC-FOZPO6DSVX.df3777 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r05#equilibrium_property |
-| ORC-6GMJVZONBS.59ee57 | ORC-6GMJVZONBS.df3265 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r14#equilibrium_property |
-| ORC-MFFIYCR33H.c6a0d4 | ORC-MFFIYCR33H.1147dd | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r17#equilibrium_property |
+| ORC-FOZPO6DSVX.862cb8 | ORC-FOZPO6DSVX.862cb8 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r05#equilibrium_property |
+| ORC-6GMJVZONBS.00a8fa | ORC-6GMJVZONBS.00a8fa | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r14#equilibrium_property |
+| ORC-MFFIYCR33H.a56e65 | ORC-MFFIYCR33H.a56e65 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r17#equilibrium_property |
+| ORC-FOZPO6DSVX.df3777 | ORC-FOZPO6DSVX.df3777 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r05#equilibrium_property |
+| ORC-6GMJVZONBS.df3265 | ORC-6GMJVZONBS.df3265 | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r14#equilibrium_property |
+| ORC-MFFIYCR33H.1147dd | ORC-MFFIYCR33H.1147dd | doi:10.1016/j.jallcom.2016.02.170/p3/tab-2/r17#equilibrium_property |
 | ORC-6UBIDCFIOR.411216 | ORC-6UBIDCFIOR.411216 | doi:10.1016/0364-5916(95)00012-4/p5/tab-2/r01#equilibrium_property |
 | ORC-ZTEM7HIHVT.1cef31 | ORC-ZTEM7HIHVT.1cef31 | doi:10.1016/0364-5916(95)00012-4/p5/tab-2/r03#equilibrium_property |
 | ORC-FZDHSR2W56.243809 | ORC-FZDHSR2W56.243809 | doi:10.1016/0364-5916(95)00012-4/p5/tab-2/r05#equilibrium_property |
@@ -890,28 +890,28 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-CZWVHOXBDH.769d07 | ORC-CZWVHOXBDH.769d07 | doi:10.1007/s11669-013-0261-y/p6/tab-4/r16#equilibrium_property |
 | ORC-WI2T4P6TEC.3da4eb | ORC-WI2T4P6TEC.3da4eb | doi:10.1007/s11669-013-0261-y/p6/tab-4/r19#equilibrium_property |
 | ORC-37LPJAG4ZJ.937fc4 | ORC-37LPJAG4ZJ.937fc4 | doi:10.1007/s11669-013-0261-y/p6/tab-4/r20#equilibrium_property |
-| ORC-2ONBIZ5QZD.9e6ce3 | ORC-2ONBIZ5QZD.6a3879 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r02#equilibrium_property |
-| ORC-SRCS7D3CLK.abcf12 | ORC-SRCS7D3CLK.0b6239 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r04#equilibrium_property |
-| ORC-3KZ7CXWTIN.0cfc73 | ORC-3KZ7CXWTIN.aee684 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r06#equilibrium_property |
-| ORC-QHUP23G423.74d7e8 | ORC-QHUP23G423.1eeae5 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r08#equilibrium_property |
-| ORC-3YFBHRXVXT.2e7db3 | ORC-3YFBHRXVXT.4b5610 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r10#equilibrium_property |
-| ORC-GYEUU662WB.41e3c6 | ORC-GYEUU662WB.6ba252 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r12#equilibrium_property |
-| ORC-XWQGCKTD5H.2926fb | ORC-XWQGCKTD5H.73a14f | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r14#equilibrium_property |
-| ORC-IVZDCJNU66.fcf6cd | ORC-IVZDCJNU66.472b0e | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r16#equilibrium_property |
-| ORC-MDVKI5CEM2.834c02 | ORC-MDVKI5CEM2.caa279 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r18#equilibrium_property |
-| ORC-A4IL4QZU5T.4124be | ORC-A4IL4QZU5T.8bb046 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r20#equilibrium_property |
-| ORC-F4LLL3VMUO.1aa105 | ORC-F4LLL3VMUO.b72a19 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r22#equilibrium_property |
-| ORC-WWLIGUWMYR.941944 | ORC-WWLIGUWMYR.3102fb | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r24#equilibrium_property |
-| ORC-4JISTRC7KB.d22e70 | ORC-4JISTRC7KB.3266d9 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r26#equilibrium_property |
-| ORC-6KRFX3QKF7.2cf362 | ORC-6KRFX3QKF7.c3c148 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r28#equilibrium_property |
-| ORC-XE3MV4GHUI.3ae41d | ORC-XE3MV4GHUI.73f711 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r30#equilibrium_property |
-| ORC-3FEKBGTQDG.ba344f | ORC-3FEKBGTQDG.9905c5 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r32#equilibrium_property |
-| ORC-P6BUQGUDCD.542181 | ORC-P6BUQGUDCD.f65199 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r34#equilibrium_property |
-| ORC-PQ42CIC557.c0550e | ORC-PQ42CIC557.303af8 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r37#equilibrium_property |
-| ORC-IBP6PUFL7L.8213ff | ORC-IBP6PUFL7L.77f8b5 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r40#equilibrium_property |
-| ORC-WB3ZUG3WTP.f56ed1 | ORC-WB3ZUG3WTP.fa3aa7 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r43#equilibrium_property |
-| ORC-NJ7MIM3AKA.07836a | ORC-NJ7MIM3AKA.43dc5e | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r46#equilibrium_property |
-| ORC-FGPT7OEDVL.b86bab | ORC-FGPT7OEDVL.f6f49f | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r49#equilibrium_property |
+| ORC-2ONBIZ5QZD.9e6ce3 | ORC-2ONBIZ5QZD.9e6ce3 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r02#equilibrium_property |
+| ORC-SRCS7D3CLK.abcf12 | ORC-SRCS7D3CLK.abcf12 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r04#equilibrium_property |
+| ORC-3KZ7CXWTIN.0cfc73 | ORC-3KZ7CXWTIN.0cfc73 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r06#equilibrium_property |
+| ORC-QHUP23G423.74d7e8 | ORC-QHUP23G423.74d7e8 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r08#equilibrium_property |
+| ORC-3YFBHRXVXT.2e7db3 | ORC-3YFBHRXVXT.2e7db3 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r10#equilibrium_property |
+| ORC-GYEUU662WB.41e3c6 | ORC-GYEUU662WB.41e3c6 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r12#equilibrium_property |
+| ORC-XWQGCKTD5H.2926fb | ORC-XWQGCKTD5H.2926fb | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r14#equilibrium_property |
+| ORC-IVZDCJNU66.fcf6cd | ORC-IVZDCJNU66.fcf6cd | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r16#equilibrium_property |
+| ORC-MDVKI5CEM2.834c02 | ORC-MDVKI5CEM2.834c02 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r18#equilibrium_property |
+| ORC-A4IL4QZU5T.4124be | ORC-A4IL4QZU5T.4124be | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r20#equilibrium_property |
+| ORC-F4LLL3VMUO.1aa105 | ORC-F4LLL3VMUO.1aa105 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r22#equilibrium_property |
+| ORC-WWLIGUWMYR.941944 | ORC-WWLIGUWMYR.941944 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r24#equilibrium_property |
+| ORC-4JISTRC7KB.d22e70 | ORC-4JISTRC7KB.d22e70 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r26#equilibrium_property |
+| ORC-6KRFX3QKF7.2cf362 | ORC-6KRFX3QKF7.2cf362 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r28#equilibrium_property |
+| ORC-XE3MV4GHUI.3ae41d | ORC-XE3MV4GHUI.3ae41d | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r30#equilibrium_property |
+| ORC-3FEKBGTQDG.ba344f | ORC-3FEKBGTQDG.ba344f | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r32#equilibrium_property |
+| ORC-P6BUQGUDCD.542181 | ORC-P6BUQGUDCD.542181 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r34#equilibrium_property |
+| ORC-PQ42CIC557.c0550e | ORC-PQ42CIC557.c0550e | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r37#equilibrium_property |
+| ORC-IBP6PUFL7L.8213ff | ORC-IBP6PUFL7L.8213ff | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r40#equilibrium_property |
+| ORC-WB3ZUG3WTP.f56ed1 | ORC-WB3ZUG3WTP.f56ed1 | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r43#equilibrium_property |
+| ORC-NJ7MIM3AKA.07836a | ORC-NJ7MIM3AKA.07836a | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r46#equilibrium_property |
+| ORC-FGPT7OEDVL.b86bab | ORC-FGPT7OEDVL.b86bab | doi:10.1007/s11661-004-0172-y/p11/tab-viii/r49#equilibrium_property |
 | ORC-FQXFNNES72.2eed20 | ORC-FQXFNNES72.2eed20 | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r02#equilibrium_property |
 | ORC-LIQPM7GI4N.a6cda5 | ORC-LIQPM7GI4N.a6cda5 | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r04#equilibrium_property |
 | ORC-DTHDMEIJ2G.3540fe | ORC-DTHDMEIJ2G.3540fe | doi:10.1016/j.tca.2013.08.026/p5/tab-6/r06#equilibrium_property |
@@ -948,86 +948,86 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-3N6JBLRDSJ.20624c | ORC-3N6JBLRDSJ.20624c | doi:10.1361/15477030419522/p9/tab-6/r18#equilibrium_property |
 | ORC-FZTNR6CA4I.395cc2 | ORC-FZTNR6CA4I.395cc2 | doi:10.1361/15477030419522/p9/tab-6/r19#equilibrium_property |
 | ORC-53QNG5X44B.dd51b9 | ORC-53QNG5X44B.dd51b9 | doi:10.1361/15477030419522/p9/tab-6/r20#equilibrium_property |
-| ORC-UYMP4Q5VIC.995cb2 | ORC-UYMP4Q5VIC.b34be0 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r25#equilibrium_property |
-| ORC-2ZFWAB5PU5.2ed1a1 | ORC-2ZFWAB5PU5.0670bd | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r29#equilibrium_property |
-| ORC-2FIN35TU4G.66268d | ORC-2FIN35TU4G.48559a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r31#equilibrium_property |
-| ORC-Y64YYBN6XM.f6e698 | ORC-Y64YYBN6XM.088761 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r03#equilibrium_property |
-| ORC-P3R7LHZLX4.6479a4 | ORC-P3R7LHZLX4.17f577 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r06#equilibrium_property |
-| ORC-WMW5QZIUMC.2072b6 | ORC-WMW5QZIUMC.fe8401 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r08#equilibrium_property |
-| ORC-AEGTNE4V3R.19b6f7 | ORC-AEGTNE4V3R.c00b5c | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r10#equilibrium_property |
-| ORC-WUDG655ASY.9d7334 | ORC-WUDG655ASY.ca522e | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r12#equilibrium_property |
-| ORC-7FHQW3MIEJ.0b0fd7 | ORC-7FHQW3MIEJ.914b84 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r14#equilibrium_property |
-| ORC-MIBJDCHPWM.3f8bc6 | ORC-MIBJDCHPWM.3f735f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r16#equilibrium_property |
-| ORC-YYW7THDQNF.eeceaf | ORC-YYW7THDQNF.e8b9f3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r17#equilibrium_property |
-| ORC-T67FXB2LOH.d2577e | ORC-T67FXB2LOH.21706a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r19#equilibrium_property |
-| ORC-K3BVTYBHGX.06c344 | ORC-K3BVTYBHGX.4b5efe | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r21#equilibrium_property |
-| ORC-74PDWOUQ6D.f97d27 | ORC-74PDWOUQ6D.656ab0 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
-| ORC-XIB343EK4O.4120bc | ORC-XIB343EK4O.aff151 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
-| ORC-OGL6BPJQE3.c60ce8 | ORC-OGL6BPJQE3.e85834 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
-| ORC-55RRRCHTNI.391c94 | ORC-55RRRCHTNI.9b85fb | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
-| ORC-LOSOBGLB6R.953cc1 | ORC-LOSOBGLB6R.e609e2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
-| ORC-7E7CJ5YOFI.7efc86 | ORC-7E7CJ5YOFI.424614 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
-| ORC-WWB3YGRQ7H.a678f1 | ORC-WWB3YGRQ7H.eb34af | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
-| ORC-74PDWOUQ6D.d2a4a5 | ORC-74PDWOUQ6D.cfe15c | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
-| ORC-XIB343EK4O.de036c | ORC-XIB343EK4O.ebb941 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
-| ORC-OGL6BPJQE3.67e9dd | ORC-OGL6BPJQE3.4f5cf9 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
-| ORC-55RRRCHTNI.442d5d | ORC-55RRRCHTNI.a09d8d | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
-| ORC-LOSOBGLB6R.74f0a0 | ORC-LOSOBGLB6R.1b9c29 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
-| ORC-7E7CJ5YOFI.9968cb | ORC-7E7CJ5YOFI.290ec1 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
-| ORC-WWB3YGRQ7H.57f2b7 | ORC-WWB3YGRQ7H.7cd638 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
-| ORC-74PDWOUQ6D.fab6b3 | ORC-74PDWOUQ6D.6cd4d8 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
-| ORC-XIB343EK4O.60df67 | ORC-XIB343EK4O.441b7e | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
-| ORC-OGL6BPJQE3.122b13 | ORC-OGL6BPJQE3.b1a660 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
-| ORC-55RRRCHTNI.70d988 | ORC-55RRRCHTNI.4399ea | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
-| ORC-LOSOBGLB6R.110457 | ORC-LOSOBGLB6R.710382 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
-| ORC-7E7CJ5YOFI.c2612b | ORC-7E7CJ5YOFI.262d70 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
-| ORC-WWB3YGRQ7H.7a953b | ORC-WWB3YGRQ7H.c328a5 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
+| ORC-UYMP4Q5VIC.b34be0 | ORC-UYMP4Q5VIC.b34be0 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r25#equilibrium_property |
+| ORC-2ZFWAB5PU5.0670bd | ORC-2ZFWAB5PU5.0670bd | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r29#equilibrium_property |
+| ORC-2FIN35TU4G.48559a | ORC-2FIN35TU4G.48559a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r31#equilibrium_property |
+| ORC-Y64YYBN6XM.088761 | ORC-Y64YYBN6XM.088761 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r03#equilibrium_property |
+| ORC-P3R7LHZLX4.17f577 | ORC-P3R7LHZLX4.17f577 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r06#equilibrium_property |
+| ORC-WMW5QZIUMC.fe8401 | ORC-WMW5QZIUMC.fe8401 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r08#equilibrium_property |
+| ORC-AEGTNE4V3R.c00b5c | ORC-AEGTNE4V3R.c00b5c | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r10#equilibrium_property |
+| ORC-WUDG655ASY.ca522e | ORC-WUDG655ASY.ca522e | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r12#equilibrium_property |
+| ORC-7FHQW3MIEJ.914b84 | ORC-7FHQW3MIEJ.914b84 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r14#equilibrium_property |
+| ORC-MIBJDCHPWM.3f735f | ORC-MIBJDCHPWM.3f735f | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r16#equilibrium_property |
+| ORC-YYW7THDQNF.e8b9f3 | ORC-YYW7THDQNF.e8b9f3 | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r17#equilibrium_property |
+| ORC-T67FXB2LOH.21706a | ORC-T67FXB2LOH.21706a | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r19#equilibrium_property |
+| ORC-K3BVTYBHGX.4b5efe | ORC-K3BVTYBHGX.4b5efe | doi:10.1016/j.calphad.2009.11.001/p7/tab-4/r21#equilibrium_property |
+| ORC-74PDWOUQ6D.656ab0 | ORC-74PDWOUQ6D.656ab0 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
+| ORC-XIB343EK4O.aff151 | ORC-XIB343EK4O.aff151 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
+| ORC-OGL6BPJQE3.e85834 | ORC-OGL6BPJQE3.e85834 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
+| ORC-55RRRCHTNI.9b85fb | ORC-55RRRCHTNI.9b85fb | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
+| ORC-LOSOBGLB6R.e609e2 | ORC-LOSOBGLB6R.e609e2 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
+| ORC-7E7CJ5YOFI.424614 | ORC-7E7CJ5YOFI.424614 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
+| ORC-WWB3YGRQ7H.eb34af | ORC-WWB3YGRQ7H.eb34af | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
+| ORC-74PDWOUQ6D.cfe15c | ORC-74PDWOUQ6D.cfe15c | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
+| ORC-XIB343EK4O.ebb941 | ORC-XIB343EK4O.ebb941 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
+| ORC-OGL6BPJQE3.4f5cf9 | ORC-OGL6BPJQE3.4f5cf9 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
+| ORC-55RRRCHTNI.a09d8d | ORC-55RRRCHTNI.a09d8d | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
+| ORC-LOSOBGLB6R.1b9c29 | ORC-LOSOBGLB6R.1b9c29 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
+| ORC-7E7CJ5YOFI.290ec1 | ORC-7E7CJ5YOFI.290ec1 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
+| ORC-WWB3YGRQ7H.7cd638 | ORC-WWB3YGRQ7H.7cd638 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
+| ORC-74PDWOUQ6D.6cd4d8 | ORC-74PDWOUQ6D.6cd4d8 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r02#equilibrium_property |
+| ORC-XIB343EK4O.441b7e | ORC-XIB343EK4O.441b7e | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r04#equilibrium_property |
+| ORC-OGL6BPJQE3.b1a660 | ORC-OGL6BPJQE3.b1a660 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r09#equilibrium_property |
+| ORC-55RRRCHTNI.4399ea | ORC-55RRRCHTNI.4399ea | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r19#equilibrium_property |
+| ORC-LOSOBGLB6R.710382 | ORC-LOSOBGLB6R.710382 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r27#equilibrium_property |
+| ORC-7E7CJ5YOFI.262d70 | ORC-7E7CJ5YOFI.262d70 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r35#equilibrium_property |
+| ORC-WWB3YGRQ7H.c328a5 | ORC-WWB3YGRQ7H.c328a5 | doi:10.1016/j.calphad.2015.02.002/p7/tab-5/r38#equilibrium_property |
 | ORC-WA26FWP463.68f6cf | ORC-WA26FWP463.68f6cf | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r03#equilibrium_property |
 | ORC-7VDKUHSROE.1e29b2 | ORC-7VDKUHSROE.1e29b2 | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r05#equilibrium_property |
 | ORC-2OPUP5U5JL.a14004 | ORC-2OPUP5U5JL.a14004 | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r08#equilibrium_property |
 | ORC-OS5PYP3GQF.4bfc79 | ORC-OS5PYP3GQF.4bfc79 | doi:10.1016/j.jallcom.2010.11.160/p3/tab-2/r10#equilibrium_property |
-| ORC-3SOWKONKY4.ec37be | ORC-3SOWKONKY4.a8425d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r02#equilibrium_property |
-| ORC-GEL6SZZHLI.b8bd60 | ORC-GEL6SZZHLI.83f50a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r36#equilibrium_property |
-| ORC-DIDX6VFZX5.9ae6db | ORC-DIDX6VFZX5.9f3c46 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r04#equilibrium_property |
-| ORC-VGZITPKLA5.9db2f8 | ORC-VGZITPKLA5.a250db | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r12#equilibrium_property |
-| ORC-AMDFCACSBH.cad77a | ORC-AMDFCACSBH.7d4893 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r26#equilibrium_property |
-| ORC-OVWFFZU6IF.d74623 | ORC-OVWFFZU6IF.5b83a0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r06#equilibrium_property |
-| ORC-PRO2KGSCGH.a11aa6 | ORC-PRO2KGSCGH.4b298d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r08#equilibrium_property |
-| ORC-X6Y4FTGPAN.c4343a | ORC-X6Y4FTGPAN.3fbf8a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r10#equilibrium_property |
-| ORC-XEDXRMDT4P.f20915 | ORC-XEDXRMDT4P.8cd2ff | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r30#equilibrium_property |
-| ORC-H2OOKTUZCC.ab499c | ORC-H2OOKTUZCC.3bcfb3 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r14#equilibrium_property |
-| ORC-IEVSXBE66O.bb9826 | ORC-IEVSXBE66O.62a9bd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r38#equilibrium_property |
-| ORC-2WMVT745V6.6baea4 | ORC-2WMVT745V6.7781a9 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r16#equilibrium_property |
-| ORC-EH6IAUO2NG.3d3e36 | ORC-EH6IAUO2NG.384837 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r18#equilibrium_property |
-| ORC-R4DMMVGBF5.06debc | ORC-R4DMMVGBF5.26ffef | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r20#equilibrium_property |
-| ORC-D7AU7J2EIB.ed956b | ORC-D7AU7J2EIB.9d5eee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r22#equilibrium_property |
-| ORC-AQ7AOTMQZL.6aa7f6 | ORC-AQ7AOTMQZL.4cc006 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r24#equilibrium_property |
-| ORC-LD7CL5LFCB.271d5f | ORC-LD7CL5LFCB.625352 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r28#equilibrium_property |
-| ORC-KZD6YH2VDP.83169c | ORC-KZD6YH2VDP.c93fa5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r32#equilibrium_property |
-| ORC-Q77DLAE7GB.f96fdf | ORC-Q77DLAE7GB.bd0781 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r34#equilibrium_property |
-| ORC-HK3UZCOV44.e6b93f | ORC-HK3UZCOV44.911141 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r40#equilibrium_property |
-| ORC-53NFUIBR57.d496da | ORC-53NFUIBR57.855fcc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r42#equilibrium_property |
-| ORC-3SOWKONKY4.3002f1 | ORC-3SOWKONKY4.841f38 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r02#equilibrium_property |
-| ORC-GEL6SZZHLI.22cb54 | ORC-GEL6SZZHLI.bd4200 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r36#equilibrium_property |
-| ORC-DIDX6VFZX5.cfdb07 | ORC-DIDX6VFZX5.798c63 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r04#equilibrium_property |
-| ORC-VGZITPKLA5.6329f8 | ORC-VGZITPKLA5.69cec3 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r12#equilibrium_property |
-| ORC-AMDFCACSBH.d48b2b | ORC-AMDFCACSBH.654289 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r26#equilibrium_property |
-| ORC-OVWFFZU6IF.21957a | ORC-OVWFFZU6IF.f8d163 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r06#equilibrium_property |
-| ORC-PRO2KGSCGH.e05148 | ORC-PRO2KGSCGH.694ff1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r08#equilibrium_property |
-| ORC-X6Y4FTGPAN.f54536 | ORC-X6Y4FTGPAN.1fb007 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r10#equilibrium_property |
-| ORC-XEDXRMDT4P.f31b53 | ORC-XEDXRMDT4P.549211 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r30#equilibrium_property |
-| ORC-H2OOKTUZCC.d54d36 | ORC-H2OOKTUZCC.b55997 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r14#equilibrium_property |
-| ORC-IEVSXBE66O.1a01ab | ORC-IEVSXBE66O.afe480 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r38#equilibrium_property |
-| ORC-2WMVT745V6.562b81 | ORC-2WMVT745V6.0fb0a5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r16#equilibrium_property |
-| ORC-EH6IAUO2NG.e302fc | ORC-EH6IAUO2NG.2a190d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r18#equilibrium_property |
-| ORC-R4DMMVGBF5.95bc4d | ORC-R4DMMVGBF5.e81782 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r20#equilibrium_property |
-| ORC-D7AU7J2EIB.14d891 | ORC-D7AU7J2EIB.272378 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r22#equilibrium_property |
-| ORC-AQ7AOTMQZL.7dcede | ORC-AQ7AOTMQZL.4d7b93 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r24#equilibrium_property |
-| ORC-LD7CL5LFCB.2bb348 | ORC-LD7CL5LFCB.994268 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r28#equilibrium_property |
-| ORC-KZD6YH2VDP.54cb32 | ORC-KZD6YH2VDP.8af2d8 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r32#equilibrium_property |
-| ORC-Q77DLAE7GB.335c76 | ORC-Q77DLAE7GB.2ea175 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r34#equilibrium_property |
-| ORC-HK3UZCOV44.6a72f7 | ORC-HK3UZCOV44.557d70 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r40#equilibrium_property |
-| ORC-53NFUIBR57.c4014e | ORC-53NFUIBR57.f6ac53 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r42#equilibrium_property |
+| ORC-3SOWKONKY4.a8425d | ORC-3SOWKONKY4.a8425d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r02#equilibrium_property |
+| ORC-GEL6SZZHLI.83f50a | ORC-GEL6SZZHLI.83f50a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r36#equilibrium_property |
+| ORC-DIDX6VFZX5.9ae6db | ORC-DIDX6VFZX5.9ae6db | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r04#equilibrium_property |
+| ORC-VGZITPKLA5.9db2f8 | ORC-VGZITPKLA5.9db2f8 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r12#equilibrium_property |
+| ORC-AMDFCACSBH.7d4893 | ORC-AMDFCACSBH.7d4893 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r26#equilibrium_property |
+| ORC-OVWFFZU6IF.5b83a0 | ORC-OVWFFZU6IF.5b83a0 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r06#equilibrium_property |
+| ORC-PRO2KGSCGH.4b298d | ORC-PRO2KGSCGH.4b298d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r08#equilibrium_property |
+| ORC-X6Y4FTGPAN.3fbf8a | ORC-X6Y4FTGPAN.3fbf8a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r10#equilibrium_property |
+| ORC-XEDXRMDT4P.8cd2ff | ORC-XEDXRMDT4P.8cd2ff | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r30#equilibrium_property |
+| ORC-H2OOKTUZCC.3bcfb3 | ORC-H2OOKTUZCC.3bcfb3 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r14#equilibrium_property |
+| ORC-IEVSXBE66O.62a9bd | ORC-IEVSXBE66O.62a9bd | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r38#equilibrium_property |
+| ORC-2WMVT745V6.6baea4 | ORC-2WMVT745V6.6baea4 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r16#equilibrium_property |
+| ORC-EH6IAUO2NG.384837 | ORC-EH6IAUO2NG.384837 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r18#equilibrium_property |
+| ORC-R4DMMVGBF5.06debc | ORC-R4DMMVGBF5.06debc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r20#equilibrium_property |
+| ORC-D7AU7J2EIB.9d5eee | ORC-D7AU7J2EIB.9d5eee | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r22#equilibrium_property |
+| ORC-AQ7AOTMQZL.4cc006 | ORC-AQ7AOTMQZL.4cc006 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r24#equilibrium_property |
+| ORC-LD7CL5LFCB.271d5f | ORC-LD7CL5LFCB.271d5f | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r28#equilibrium_property |
+| ORC-KZD6YH2VDP.83169c | ORC-KZD6YH2VDP.83169c | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r32#equilibrium_property |
+| ORC-Q77DLAE7GB.bd0781 | ORC-Q77DLAE7GB.bd0781 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r34#equilibrium_property |
+| ORC-HK3UZCOV44.911141 | ORC-HK3UZCOV44.911141 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r40#equilibrium_property |
+| ORC-53NFUIBR57.855fcc | ORC-53NFUIBR57.855fcc | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r42#equilibrium_property |
+| ORC-3SOWKONKY4.3002f1 | ORC-3SOWKONKY4.3002f1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r02#equilibrium_property |
+| ORC-GEL6SZZHLI.22cb54 | ORC-GEL6SZZHLI.22cb54 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r36#equilibrium_property |
+| ORC-DIDX6VFZX5.798c63 | ORC-DIDX6VFZX5.798c63 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r04#equilibrium_property |
+| ORC-VGZITPKLA5.6329f8 | ORC-VGZITPKLA5.6329f8 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r12#equilibrium_property |
+| ORC-AMDFCACSBH.654289 | ORC-AMDFCACSBH.654289 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r26#equilibrium_property |
+| ORC-OVWFFZU6IF.21957a | ORC-OVWFFZU6IF.21957a | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r06#equilibrium_property |
+| ORC-PRO2KGSCGH.694ff1 | ORC-PRO2KGSCGH.694ff1 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r08#equilibrium_property |
+| ORC-X6Y4FTGPAN.1fb007 | ORC-X6Y4FTGPAN.1fb007 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r10#equilibrium_property |
+| ORC-XEDXRMDT4P.549211 | ORC-XEDXRMDT4P.549211 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r30#equilibrium_property |
+| ORC-H2OOKTUZCC.b55997 | ORC-H2OOKTUZCC.b55997 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r14#equilibrium_property |
+| ORC-IEVSXBE66O.1a01ab | ORC-IEVSXBE66O.1a01ab | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r38#equilibrium_property |
+| ORC-2WMVT745V6.0fb0a5 | ORC-2WMVT745V6.0fb0a5 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r16#equilibrium_property |
+| ORC-EH6IAUO2NG.2a190d | ORC-EH6IAUO2NG.2a190d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r18#equilibrium_property |
+| ORC-R4DMMVGBF5.95bc4d | ORC-R4DMMVGBF5.95bc4d | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r20#equilibrium_property |
+| ORC-D7AU7J2EIB.14d891 | ORC-D7AU7J2EIB.14d891 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r22#equilibrium_property |
+| ORC-AQ7AOTMQZL.4d7b93 | ORC-AQ7AOTMQZL.4d7b93 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r24#equilibrium_property |
+| ORC-LD7CL5LFCB.2bb348 | ORC-LD7CL5LFCB.2bb348 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r28#equilibrium_property |
+| ORC-KZD6YH2VDP.54cb32 | ORC-KZD6YH2VDP.54cb32 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r32#equilibrium_property |
+| ORC-Q77DLAE7GB.2ea175 | ORC-Q77DLAE7GB.2ea175 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r34#equilibrium_property |
+| ORC-HK3UZCOV44.557d70 | ORC-HK3UZCOV44.557d70 | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r40#equilibrium_property |
+| ORC-53NFUIBR57.c4014e | ORC-53NFUIBR57.c4014e | doi:10.1016/j.calphad.2006.06.002/p7/tab-3/r42#equilibrium_property |
 | ORC-7WSVPZ2VU5.4c5963 | ORC-7WSVPZ2VU5.4c5963 | doi:10.1016/j.jallcom.2017.07.129/p7/tab-5/r09#equilibrium_property |
 | ORC-LEEKSM6VFT.683f42 | ORC-LEEKSM6VFT.683f42 | doi:10.1016/j.jallcom.2017.07.129/p7/tab-5/r18#equilibrium_property |
 | ORC-ACXKXPR5PP.0a53f9 | ORC-ACXKXPR5PP.0a53f9 | doi:10.1016/j.jallcom.2017.07.129/p7/tab-5/r24#equilibrium_property |
@@ -1109,80 +1109,79 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-JLO6JNNFPW.0fc07e | ORC-JLO6JNNFPW.0fc07e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r04#equilibrium_property |
 | ORC-EYG3LVACYB.987171 | ORC-EYG3LVACYB.987171 | doi:10.1007/s11663-998-0113-z/p2/tab-i/r06#equilibrium_property |
 | ORC-HKVUXEMB2Q.104a7c | ORC-HKVUXEMB2Q.104a7c | doi:10.1007/s11663-998-0113-z/p2/tab-i/r08#equilibrium_property |
-| ORC-RLSDTO2JWE.ce6325 | ORC-RLSDTO2JWE.51559e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r10#equilibrium_property |
-| ORC-H4NKUXML7D.a76e00 | ORC-H4NKUXML7D.669e30 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
-| ORC-KVZPQN4KHH.9a9b14 | ORC-KVZPQN4KHH.60972e | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
-| ORC-FJFK6YCWPH.4252c3 | ORC-FJFK6YCWPH.78a7cc | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
-| ORC-PV2TBSQX43.5f54e6 | ORC-PV2TBSQX43.0e1a95 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
-| ORC-IAH3PPW35K.414d0c | ORC-IAH3PPW35K.01ae08 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
-| ORC-RTODDWTW2Z.4a18b6 | ORC-RTODDWTW2Z.531fa1 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
-| ORC-R3WXFRC5LR.32a133 | ORC-R3WXFRC5LR.bd106c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
-| ORC-WPCS2KBO5J.658b11 | ORC-WPCS2KBO5J.88df97 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
-| ORC-H4NKUXML7D.cc3c49 | ORC-H4NKUXML7D.b09f14 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
-| ORC-KVZPQN4KHH.099610 | ORC-KVZPQN4KHH.a611a9 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
-| ORC-FJFK6YCWPH.70fb46 | ORC-FJFK6YCWPH.271d7b | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
-| ORC-PV2TBSQX43.bdecaf | ORC-PV2TBSQX43.822ba6 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
-| ORC-IAH3PPW35K.b350e6 | ORC-IAH3PPW35K.e1d15a | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
-| ORC-RTODDWTW2Z.6c8cb4 | ORC-RTODDWTW2Z.80388c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
-| ORC-R3WXFRC5LR.dbdc30 | ORC-R3WXFRC5LR.8068cd | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
-| ORC-WPCS2KBO5J.09642f | ORC-WPCS2KBO5J.ff88ae | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
-| ORC-H4NKUXML7D.8fb746 | ORC-H4NKUXML7D.963479 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
-| ORC-KVZPQN4KHH.d43cc3 | ORC-KVZPQN4KHH.8a056a | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
-| ORC-FJFK6YCWPH.8652e8 | ORC-FJFK6YCWPH.9a2e46 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
-| ORC-PV2TBSQX43.2519b1 | ORC-PV2TBSQX43.565cc0 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
-| ORC-IAH3PPW35K.5b5edd | ORC-IAH3PPW35K.bd3d91 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
-| ORC-RTODDWTW2Z.bd4211 | ORC-RTODDWTW2Z.60c4e6 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
-| ORC-R3WXFRC5LR.d16664 | ORC-R3WXFRC5LR.ed093c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
-| ORC-WPCS2KBO5J.310639 | ORC-WPCS2KBO5J.d7ea67 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
-| ORC-4L5AQFNUQI.a81826 | ORC-4L5AQFNUQI.ade543 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r08#equilibrium_property |
-| ORC-HIIHOOYKXL.b71cf7 | ORC-HIIHOOYKXL.794470 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r09#equilibrium_property |
-| ORC-MO7OACPB2R.138ed1 | ORC-MO7OACPB2R.efbb97 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r12#equilibrium_property |
-| ORC-2RCSQLTWBK.bddb27 | ORC-2RCSQLTWBK.04c3b3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r13#equilibrium_property |
-| ORC-LHRNDE2Q3Y.9823ac | ORC-LHRNDE2Q3Y.fd5e40 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r20#equilibrium_property |
-| ORC-R7FXTYB7WY.1a1f5f | ORC-R7FXTYB7WY.df52ea | doi:10.1007/s11669-017-0574-3/p12/tab-5/r21#equilibrium_property |
-| ORC-2VLYO5U2PE.c24925 | ORC-2VLYO5U2PE.5e0fa0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r29#equilibrium_property |
-| ORC-GIISRU7LXY.089c34 | ORC-GIISRU7LXY.e368eb | doi:10.1007/s11669-017-0574-3/p12/tab-5/r30#equilibrium_property |
-| ORC-33JL3ZUQM7.95c8b2 | ORC-33JL3ZUQM7.ef53ee | doi:10.1007/s11669-017-0574-3/p12/tab-5/r38#equilibrium_property |
-| ORC-T272B37D6L.9c93ff | ORC-T272B37D6L.5548f0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r39#equilibrium_property |
-| ORC-IIIWFVRG2N.97c39f | ORC-IIIWFVRG2N.79080a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r45#equilibrium_property |
-| ORC-VJKMOTPGKA.32366c | ORC-VJKMOTPGKA.57b566 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r46#equilibrium_property |
-| ORC-KTTXKNTOAB.d7344a | ORC-KTTXKNTOAB.5519bd | doi:10.1007/s11669-017-0574-3/p12/tab-5/r04#equilibrium_property |
-| ORC-DCYT456GBS.e85755 | ORC-DCYT456GBS.1f80e3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r05#equilibrium_property |
-| ORC-ZIV7BPZWGR.909421 | ORC-ZIV7BPZWGR.336bbd | doi:10.1007/s11669-017-0574-3/p12/tab-5/r16#equilibrium_property |
-| ORC-U4RZPZU4UN.a7c522 | ORC-U4RZPZU4UN.0b1ed0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r17#equilibrium_property |
-| ORC-QT5UBDBYZS.28d440 | ORC-QT5UBDBYZS.6bdd9f | doi:10.1007/s11669-017-0574-3/p12/tab-5/r25#equilibrium_property |
-| ORC-UL2T2UPAKD.0841f8 | ORC-UL2T2UPAKD.1a1e2a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r26#equilibrium_property |
-| ORC-KLUKXTEPAT.3915e0 | ORC-KLUKXTEPAT.9ca263 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r34#equilibrium_property |
-| ORC-D6GSRMF6MC.18cd8b | ORC-D6GSRMF6MC.ffc1f6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r35#equilibrium_property |
-| ORC-4L5AQFNUQI.db3220 | ORC-4L5AQFNUQI.028ff6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r08#equilibrium_property |
-| ORC-HIIHOOYKXL.f238cc | ORC-HIIHOOYKXL.c87a5a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r09#equilibrium_property |
-| ORC-MO7OACPB2R.118a2f | ORC-MO7OACPB2R.510220 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r12#equilibrium_property |
-| ORC-2RCSQLTWBK.d451f1 | ORC-2RCSQLTWBK.bf1137 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r13#equilibrium_property |
-| ORC-LHRNDE2Q3Y.1e69d8 | ORC-LHRNDE2Q3Y.3dc083 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r20#equilibrium_property |
-| ORC-R7FXTYB7WY.e1beba | ORC-R7FXTYB7WY.dac8b5 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r21#equilibrium_property |
-| ORC-2VLYO5U2PE.aa0cbe | ORC-2VLYO5U2PE.80ae64 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r29#equilibrium_property |
-| ORC-GIISRU7LXY.595017 | ORC-GIISRU7LXY.e8130c | doi:10.1007/s11669-017-0574-3/p12/tab-5/r30#equilibrium_property |
-| ORC-33JL3ZUQM7.b7a931 | ORC-33JL3ZUQM7.754f89 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r38#equilibrium_property |
-| ORC-T272B37D6L.fb0058 | ORC-T272B37D6L.f61fe0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r39#equilibrium_property |
-| ORC-IIIWFVRG2N.9ae3f5 | ORC-IIIWFVRG2N.a0809b | doi:10.1007/s11669-017-0574-3/p12/tab-5/r45#equilibrium_property |
-| ORC-VJKMOTPGKA.ffa1c3 | ORC-VJKMOTPGKA.e420c6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r46#equilibrium_property |
-| ORC-R7FXTYB7WY.1c8732 | ORC-R7FXTYB7WY.a72d0b | doi:10.1007/s11669-017-0574-3/p12/tab-5/r21#equilibrium_property |
-| ORC-ZU2CLADFIL.23f1e6 | ORC-ZU2CLADFIL.d835f2 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r07#equilibrium_property |
-| ORC-EQF6PDPNOA.2dd050 | ORC-EQF6PDPNOA.5e8f88 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r11#equilibrium_property |
-| ORC-IDMAWP7YJE.fb36d0 | ORC-IDMAWP7YJE.c49669 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r19#equilibrium_property |
-| ORC-6QGDDSNWBF.c50754 | ORC-6QGDDSNWBF.996588 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r28#equilibrium_property |
-| ORC-5DSPYMO2OC.d6b48c | ORC-5DSPYMO2OC.5a0fde | doi:10.1007/s11669-017-0574-3/p12/tab-5/r37#equilibrium_property |
-| ORC-NX54UA2XIM.dd4765 | ORC-NX54UA2XIM.f00232 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r44#equilibrium_property |
-| ORC-Q6B2TJ4ZLZ.b8c3cc | ORC-Q6B2TJ4ZLZ.678a22 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r03#equilibrium_property |
-| ORC-P55O5ODJI4.176ee2 | ORC-P55O5ODJI4.21695a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r15#equilibrium_property |
-| ORC-HINQXKCPZ7.aa6087 | ORC-HINQXKCPZ7.704731 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r24#equilibrium_property |
-| ORC-DCZID2USGD.239503 | ORC-DCZID2USGD.73c5a5 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r33#equilibrium_property |
-| ORC-ZU2CLADFIL.c5029b | ORC-ZU2CLADFIL.53298d | doi:10.1007/s11669-017-0574-3/p12/tab-5/r07#equilibrium_property |
-| ORC-EQF6PDPNOA.804331 | ORC-EQF6PDPNOA.090bca | doi:10.1007/s11669-017-0574-3/p12/tab-5/r11#equilibrium_property |
-| ORC-IDMAWP7YJE.5330d2 | ORC-IDMAWP7YJE.82197c | doi:10.1007/s11669-017-0574-3/p12/tab-5/r19#equilibrium_property |
-| ORC-6QGDDSNWBF.d0d035 | ORC-6QGDDSNWBF.5f09e3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r28#equilibrium_property |
-| ORC-5DSPYMO2OC.e66809 | ORC-5DSPYMO2OC.cd9ab9 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r37#equilibrium_property |
-| ORC-NX54UA2XIM.4db587 | ORC-NX54UA2XIM.6ca9a7 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r44#equilibrium_property |
+| ORC-RLSDTO2JWE.51559e | ORC-RLSDTO2JWE.51559e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r10#equilibrium_property |
+| ORC-H4NKUXML7D.669e30 | ORC-H4NKUXML7D.669e30 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
+| ORC-KVZPQN4KHH.60972e | ORC-KVZPQN4KHH.60972e | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
+| ORC-FJFK6YCWPH.78a7cc | ORC-FJFK6YCWPH.78a7cc | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
+| ORC-PV2TBSQX43.0e1a95 | ORC-PV2TBSQX43.0e1a95 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
+| ORC-IAH3PPW35K.01ae08 | ORC-IAH3PPW35K.01ae08 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
+| ORC-RTODDWTW2Z.531fa1 | ORC-RTODDWTW2Z.531fa1 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
+| ORC-R3WXFRC5LR.bd106c | ORC-R3WXFRC5LR.bd106c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
+| ORC-WPCS2KBO5J.88df97 | ORC-WPCS2KBO5J.88df97 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
+| ORC-H4NKUXML7D.b09f14 | ORC-H4NKUXML7D.b09f14 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
+| ORC-KVZPQN4KHH.a611a9 | ORC-KVZPQN4KHH.a611a9 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
+| ORC-FJFK6YCWPH.271d7b | ORC-FJFK6YCWPH.271d7b | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
+| ORC-PV2TBSQX43.822ba6 | ORC-PV2TBSQX43.822ba6 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
+| ORC-IAH3PPW35K.e1d15a | ORC-IAH3PPW35K.e1d15a | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
+| ORC-RTODDWTW2Z.80388c | ORC-RTODDWTW2Z.80388c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
+| ORC-R3WXFRC5LR.8068cd | ORC-R3WXFRC5LR.8068cd | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
+| ORC-WPCS2KBO5J.ff88ae | ORC-WPCS2KBO5J.ff88ae | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
+| ORC-H4NKUXML7D.963479 | ORC-H4NKUXML7D.963479 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r05#equilibrium_property |
+| ORC-KVZPQN4KHH.8a056a | ORC-KVZPQN4KHH.8a056a | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r06#equilibrium_property |
+| ORC-FJFK6YCWPH.9a2e46 | ORC-FJFK6YCWPH.9a2e46 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r09#equilibrium_property |
+| ORC-PV2TBSQX43.565cc0 | ORC-PV2TBSQX43.565cc0 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r10#equilibrium_property |
+| ORC-IAH3PPW35K.bd3d91 | ORC-IAH3PPW35K.bd3d91 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r14#equilibrium_property |
+| ORC-RTODDWTW2Z.60c4e6 | ORC-RTODDWTW2Z.60c4e6 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r15#equilibrium_property |
+| ORC-R3WXFRC5LR.ed093c | ORC-R3WXFRC5LR.ed093c | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r24#equilibrium_property |
+| ORC-WPCS2KBO5J.d7ea67 | ORC-WPCS2KBO5J.d7ea67 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r25#equilibrium_property |
+| ORC-4L5AQFNUQI.ade543 | ORC-4L5AQFNUQI.ade543 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r08#equilibrium_property |
+| ORC-HIIHOOYKXL.794470 | ORC-HIIHOOYKXL.794470 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r09#equilibrium_property |
+| ORC-MO7OACPB2R.efbb97 | ORC-MO7OACPB2R.efbb97 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r12#equilibrium_property |
+| ORC-2RCSQLTWBK.04c3b3 | ORC-2RCSQLTWBK.04c3b3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r13#equilibrium_property |
+| ORC-LHRNDE2Q3Y.fd5e40 | ORC-LHRNDE2Q3Y.fd5e40 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r20#equilibrium_property |
+| ORC-R7FXTYB7WY.df52ea | ORC-R7FXTYB7WY.df52ea | doi:10.1007/s11669-017-0574-3/p12/tab-5/r21#equilibrium_property |
+| ORC-2VLYO5U2PE.5e0fa0 | ORC-2VLYO5U2PE.5e0fa0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r29#equilibrium_property |
+| ORC-GIISRU7LXY.e368eb | ORC-GIISRU7LXY.e368eb | doi:10.1007/s11669-017-0574-3/p12/tab-5/r30#equilibrium_property |
+| ORC-33JL3ZUQM7.ef53ee | ORC-33JL3ZUQM7.ef53ee | doi:10.1007/s11669-017-0574-3/p12/tab-5/r38#equilibrium_property |
+| ORC-T272B37D6L.5548f0 | ORC-T272B37D6L.5548f0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r39#equilibrium_property |
+| ORC-IIIWFVRG2N.79080a | ORC-IIIWFVRG2N.79080a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r45#equilibrium_property |
+| ORC-VJKMOTPGKA.57b566 | ORC-VJKMOTPGKA.57b566 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r46#equilibrium_property |
+| ORC-KTTXKNTOAB.5519bd | ORC-KTTXKNTOAB.5519bd | doi:10.1007/s11669-017-0574-3/p12/tab-5/r04#equilibrium_property |
+| ORC-DCYT456GBS.1f80e3 | ORC-DCYT456GBS.1f80e3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r05#equilibrium_property |
+| ORC-ZIV7BPZWGR.336bbd | ORC-ZIV7BPZWGR.336bbd | doi:10.1007/s11669-017-0574-3/p12/tab-5/r16#equilibrium_property |
+| ORC-U4RZPZU4UN.0b1ed0 | ORC-U4RZPZU4UN.0b1ed0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r17#equilibrium_property |
+| ORC-QT5UBDBYZS.6bdd9f | ORC-QT5UBDBYZS.6bdd9f | doi:10.1007/s11669-017-0574-3/p12/tab-5/r25#equilibrium_property |
+| ORC-UL2T2UPAKD.1a1e2a | ORC-UL2T2UPAKD.1a1e2a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r26#equilibrium_property |
+| ORC-KLUKXTEPAT.9ca263 | ORC-KLUKXTEPAT.9ca263 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r34#equilibrium_property |
+| ORC-D6GSRMF6MC.ffc1f6 | ORC-D6GSRMF6MC.ffc1f6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r35#equilibrium_property |
+| ORC-4L5AQFNUQI.028ff6 | ORC-4L5AQFNUQI.028ff6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r08#equilibrium_property |
+| ORC-HIIHOOYKXL.c87a5a | ORC-HIIHOOYKXL.c87a5a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r09#equilibrium_property |
+| ORC-MO7OACPB2R.510220 | ORC-MO7OACPB2R.510220 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r12#equilibrium_property |
+| ORC-2RCSQLTWBK.bf1137 | ORC-2RCSQLTWBK.bf1137 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r13#equilibrium_property |
+| ORC-LHRNDE2Q3Y.3dc083 | ORC-LHRNDE2Q3Y.3dc083 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r20#equilibrium_property |
+| ORC-R7FXTYB7WY.dac8b5 | ORC-R7FXTYB7WY.dac8b5 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r21#equilibrium_property |
+| ORC-2VLYO5U2PE.80ae64 | ORC-2VLYO5U2PE.80ae64 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r29#equilibrium_property |
+| ORC-GIISRU7LXY.e8130c | ORC-GIISRU7LXY.e8130c | doi:10.1007/s11669-017-0574-3/p12/tab-5/r30#equilibrium_property |
+| ORC-33JL3ZUQM7.754f89 | ORC-33JL3ZUQM7.754f89 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r38#equilibrium_property |
+| ORC-T272B37D6L.f61fe0 | ORC-T272B37D6L.f61fe0 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r39#equilibrium_property |
+| ORC-IIIWFVRG2N.a0809b | ORC-IIIWFVRG2N.a0809b | doi:10.1007/s11669-017-0574-3/p12/tab-5/r45#equilibrium_property |
+| ORC-VJKMOTPGKA.e420c6 | ORC-VJKMOTPGKA.e420c6 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r46#equilibrium_property |
+| ORC-ZU2CLADFIL.d835f2 | ORC-ZU2CLADFIL.d835f2 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r07#equilibrium_property |
+| ORC-EQF6PDPNOA.5e8f88 | ORC-EQF6PDPNOA.5e8f88 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r11#equilibrium_property |
+| ORC-IDMAWP7YJE.c49669 | ORC-IDMAWP7YJE.c49669 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r19#equilibrium_property |
+| ORC-6QGDDSNWBF.996588 | ORC-6QGDDSNWBF.996588 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r28#equilibrium_property |
+| ORC-5DSPYMO2OC.5a0fde | ORC-5DSPYMO2OC.5a0fde | doi:10.1007/s11669-017-0574-3/p12/tab-5/r37#equilibrium_property |
+| ORC-NX54UA2XIM.f00232 | ORC-NX54UA2XIM.f00232 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r44#equilibrium_property |
+| ORC-Q6B2TJ4ZLZ.678a22 | ORC-Q6B2TJ4ZLZ.678a22 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r03#equilibrium_property |
+| ORC-P55O5ODJI4.21695a | ORC-P55O5ODJI4.21695a | doi:10.1007/s11669-017-0574-3/p12/tab-5/r15#equilibrium_property |
+| ORC-HINQXKCPZ7.704731 | ORC-HINQXKCPZ7.704731 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r24#equilibrium_property |
+| ORC-DCZID2USGD.73c5a5 | ORC-DCZID2USGD.73c5a5 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r33#equilibrium_property |
+| ORC-ZU2CLADFIL.53298d | ORC-ZU2CLADFIL.53298d | doi:10.1007/s11669-017-0574-3/p12/tab-5/r07#equilibrium_property |
+| ORC-EQF6PDPNOA.090bca | ORC-EQF6PDPNOA.090bca | doi:10.1007/s11669-017-0574-3/p12/tab-5/r11#equilibrium_property |
+| ORC-IDMAWP7YJE.82197c | ORC-IDMAWP7YJE.82197c | doi:10.1007/s11669-017-0574-3/p12/tab-5/r19#equilibrium_property |
+| ORC-6QGDDSNWBF.5f09e3 | ORC-6QGDDSNWBF.5f09e3 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r28#equilibrium_property |
+| ORC-5DSPYMO2OC.cd9ab9 | ORC-5DSPYMO2OC.cd9ab9 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r37#equilibrium_property |
+| ORC-NX54UA2XIM.6ca9a7 | ORC-NX54UA2XIM.6ca9a7 | doi:10.1007/s11669-017-0574-3/p12/tab-5/r44#equilibrium_property |
 | ORC-ZWVAJGVCR7.a94d59 | ORC-ZWVAJGVCR7.6ca7cc | doi:10.1361/105497101770332965/p5/tab-2/r02#equilibrium_property |
 | ORC-E6AXYRUMC7.b2d536 | ORC-E6AXYRUMC7.61128a | doi:10.1361/105497101770332965/p5/tab-2/r04#equilibrium_property |
 | ORC-K2R2CJFFUM.8993a2 | ORC-K2R2CJFFUM.8993a2 | doi:10.1361/105497101770332965/p5/tab-2/r08#equilibrium_property |
@@ -1200,39 +1199,39 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-BVDXJTMVTC.0c5691 | ORC-BVDXJTMVTC.0c5691 | doi:10.1361/105497101770332965/p5/tab-2/r22#equilibrium_property |
 | ORC-TOIB376JUA.73a101 | ORC-TOIB376JUA.73a101 | doi:10.1361/105497101770332965/p5/tab-2/r26#equilibrium_property |
 | ORC-CIKN6GBTXS.945c7e | ORC-CIKN6GBTXS.945c7e | doi:10.1361/105497101770332965/p5/tab-2/r30#equilibrium_property |
-| ORC-G2X6TZWPV3.4ab5ea | ORC-G2X6TZWPV3.594112 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r02#equilibrium_property |
-| ORC-Q7TVNFFWS7.1c3d70 | ORC-Q7TVNFFWS7.013ed4 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r03#equilibrium_property |
-| ORC-3WQJ6YOBOV.96b046 | ORC-3WQJ6YOBOV.8a5430 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r04#equilibrium_property |
-| ORC-3SUM5ZPBIZ.1ff10a | ORC-3SUM5ZPBIZ.67d1cf | doi:10.1007/s10973-019-08689-5/p3/tab-1/r06#equilibrium_property |
-| ORC-SY5E5O2KBQ.054c44 | ORC-SY5E5O2KBQ.de37cb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r07#equilibrium_property |
-| ORC-HZOEXL73WS.a51267 | ORC-HZOEXL73WS.90b546 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r08#equilibrium_property |
-| ORC-P3CDM2JKRO.35555d | ORC-P3CDM2JKRO.68d6de | doi:10.1007/s10973-019-08689-5/p3/tab-1/r10#equilibrium_property |
-| ORC-MWINCMIK2B.6a6e57 | ORC-MWINCMIK2B.093f41 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r11#equilibrium_property |
-| ORC-Z3LF4MV5BH.3455fd | ORC-Z3LF4MV5BH.66ad1b | doi:10.1007/s10973-019-08689-5/p3/tab-1/r12#equilibrium_property |
-| ORC-EGVRANT5II.7b8f8c | ORC-EGVRANT5II.202074 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r16#equilibrium_property |
-| ORC-EN3EGWJZUG.6d9522 | ORC-EN3EGWJZUG.74ef41 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r21#equilibrium_property |
-| ORC-2V5BXCODMG.15e60d | ORC-2V5BXCODMG.a026e9 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r22#equilibrium_property |
-| ORC-3GNRLTY6ED.2834e9 | ORC-3GNRLTY6ED.334ce8 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r23#equilibrium_property |
-| ORC-G2X6TZWPV3.24d250 | ORC-G2X6TZWPV3.a00705 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r02#equilibrium_property |
-| ORC-Q7TVNFFWS7.1dc0db | ORC-Q7TVNFFWS7.2a0d54 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r03#equilibrium_property |
-| ORC-3WQJ6YOBOV.03e6ab | ORC-3WQJ6YOBOV.616ee9 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r04#equilibrium_property |
-| ORC-3SUM5ZPBIZ.3c85fc | ORC-3SUM5ZPBIZ.54ab5f | doi:10.1007/s10973-019-08689-5/p3/tab-1/r06#equilibrium_property |
-| ORC-SY5E5O2KBQ.a87ce3 | ORC-SY5E5O2KBQ.125d1d | doi:10.1007/s10973-019-08689-5/p3/tab-1/r07#equilibrium_property |
-| ORC-HZOEXL73WS.717c34 | ORC-HZOEXL73WS.ba155e | doi:10.1007/s10973-019-08689-5/p3/tab-1/r08#equilibrium_property |
-| ORC-P3CDM2JKRO.6492af | ORC-P3CDM2JKRO.43baef | doi:10.1007/s10973-019-08689-5/p3/tab-1/r10#equilibrium_property |
-| ORC-MWINCMIK2B.12d8fc | ORC-MWINCMIK2B.84d9c0 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r11#equilibrium_property |
-| ORC-Z3LF4MV5BH.a3e9ec | ORC-Z3LF4MV5BH.ce2749 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r12#equilibrium_property |
-| ORC-EGVRANT5II.eb9804 | ORC-EGVRANT5II.0454bb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r16#equilibrium_property |
-| ORC-WSVQZN3HU4.7d1297 | ORC-WSVQZN3HU4.2f8981 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r17#equilibrium_property |
-| ORC-RKQCKUZDV6.b07dd9 | ORC-RKQCKUZDV6.e38611 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r18#equilibrium_property |
-| ORC-EN3EGWJZUG.74d1a6 | ORC-EN3EGWJZUG.b93ff3 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r21#equilibrium_property |
-| ORC-2V5BXCODMG.b6ac3d | ORC-2V5BXCODMG.b8583c | doi:10.1007/s10973-019-08689-5/p3/tab-1/r22#equilibrium_property |
-| ORC-3GNRLTY6ED.e12250 | ORC-3GNRLTY6ED.48b4f3 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r23#equilibrium_property |
-| ORC-YCQA2XH3VF.d977f8 | ORC-YCQA2XH3VF.0b8846 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r03#equilibrium_property |
-| ORC-IHCDRGMAUK.933040 | ORC-IHCDRGMAUK.16a6c2 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r06#equilibrium_property |
-| ORC-5F6DUYARCB.5f7a66 | ORC-5F6DUYARCB.428cef | doi:10.1007/s10853-013-7814-7/p3/tab-2/r09#equilibrium_property |
-| ORC-QZMDBDZN7S.1adb88 | ORC-QZMDBDZN7S.5d444d | doi:10.1007/s10853-013-7814-7/p3/tab-2/r15#equilibrium_property |
-| ORC-KGWYF63JYC.155f8f | ORC-KGWYF63JYC.da16bd | doi:10.1007/s10853-013-7814-7/p3/tab-2/r19#equilibrium_property |
+| ORC-G2X6TZWPV3.594112 | ORC-G2X6TZWPV3.594112 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r02#equilibrium_property |
+| ORC-Q7TVNFFWS7.013ed4 | ORC-Q7TVNFFWS7.013ed4 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r03#equilibrium_property |
+| ORC-3WQJ6YOBOV.8a5430 | ORC-3WQJ6YOBOV.8a5430 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r04#equilibrium_property |
+| ORC-3SUM5ZPBIZ.67d1cf | ORC-3SUM5ZPBIZ.67d1cf | doi:10.1007/s10973-019-08689-5/p3/tab-1/r06#equilibrium_property |
+| ORC-SY5E5O2KBQ.de37cb | ORC-SY5E5O2KBQ.de37cb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r07#equilibrium_property |
+| ORC-HZOEXL73WS.90b546 | ORC-HZOEXL73WS.90b546 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r08#equilibrium_property |
+| ORC-P3CDM2JKRO.68d6de | ORC-P3CDM2JKRO.68d6de | doi:10.1007/s10973-019-08689-5/p3/tab-1/r10#equilibrium_property |
+| ORC-MWINCMIK2B.093f41 | ORC-MWINCMIK2B.093f41 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r11#equilibrium_property |
+| ORC-Z3LF4MV5BH.66ad1b | ORC-Z3LF4MV5BH.66ad1b | doi:10.1007/s10973-019-08689-5/p3/tab-1/r12#equilibrium_property |
+| ORC-EGVRANT5II.202074 | ORC-EGVRANT5II.202074 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r16#equilibrium_property |
+| ORC-EN3EGWJZUG.74ef41 | ORC-EN3EGWJZUG.74ef41 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r21#equilibrium_property |
+| ORC-2V5BXCODMG.a026e9 | ORC-2V5BXCODMG.a026e9 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r22#equilibrium_property |
+| ORC-3GNRLTY6ED.334ce8 | ORC-3GNRLTY6ED.334ce8 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r23#equilibrium_property |
+| ORC-G2X6TZWPV3.a00705 | ORC-G2X6TZWPV3.a00705 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r02#equilibrium_property |
+| ORC-Q7TVNFFWS7.2a0d54 | ORC-Q7TVNFFWS7.2a0d54 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r03#equilibrium_property |
+| ORC-3WQJ6YOBOV.616ee9 | ORC-3WQJ6YOBOV.616ee9 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r04#equilibrium_property |
+| ORC-3SUM5ZPBIZ.54ab5f | ORC-3SUM5ZPBIZ.54ab5f | doi:10.1007/s10973-019-08689-5/p3/tab-1/r06#equilibrium_property |
+| ORC-SY5E5O2KBQ.125d1d | ORC-SY5E5O2KBQ.125d1d | doi:10.1007/s10973-019-08689-5/p3/tab-1/r07#equilibrium_property |
+| ORC-HZOEXL73WS.ba155e | ORC-HZOEXL73WS.ba155e | doi:10.1007/s10973-019-08689-5/p3/tab-1/r08#equilibrium_property |
+| ORC-P3CDM2JKRO.43baef | ORC-P3CDM2JKRO.43baef | doi:10.1007/s10973-019-08689-5/p3/tab-1/r10#equilibrium_property |
+| ORC-MWINCMIK2B.84d9c0 | ORC-MWINCMIK2B.84d9c0 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r11#equilibrium_property |
+| ORC-Z3LF4MV5BH.ce2749 | ORC-Z3LF4MV5BH.ce2749 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r12#equilibrium_property |
+| ORC-EGVRANT5II.0454bb | ORC-EGVRANT5II.0454bb | doi:10.1007/s10973-019-08689-5/p3/tab-1/r16#equilibrium_property |
+| ORC-WSVQZN3HU4.2f8981 | ORC-WSVQZN3HU4.2f8981 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r17#equilibrium_property |
+| ORC-RKQCKUZDV6.e38611 | ORC-RKQCKUZDV6.e38611 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r18#equilibrium_property |
+| ORC-EN3EGWJZUG.b93ff3 | ORC-EN3EGWJZUG.b93ff3 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r21#equilibrium_property |
+| ORC-2V5BXCODMG.b8583c | ORC-2V5BXCODMG.b8583c | doi:10.1007/s10973-019-08689-5/p3/tab-1/r22#equilibrium_property |
+| ORC-3GNRLTY6ED.48b4f3 | ORC-3GNRLTY6ED.48b4f3 | doi:10.1007/s10973-019-08689-5/p3/tab-1/r23#equilibrium_property |
+| ORC-YCQA2XH3VF.0b8846 | ORC-YCQA2XH3VF.0b8846 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r03#equilibrium_property |
+| ORC-IHCDRGMAUK.16a6c2 | ORC-IHCDRGMAUK.16a6c2 | doi:10.1007/s10853-013-7814-7/p3/tab-2/r06#equilibrium_property |
+| ORC-5F6DUYARCB.428cef | ORC-5F6DUYARCB.428cef | doi:10.1007/s10853-013-7814-7/p3/tab-2/r09#equilibrium_property |
+| ORC-QZMDBDZN7S.5d444d | ORC-QZMDBDZN7S.5d444d | doi:10.1007/s10853-013-7814-7/p3/tab-2/r15#equilibrium_property |
+| ORC-KGWYF63JYC.da16bd | ORC-KGWYF63JYC.da16bd | doi:10.1007/s10853-013-7814-7/p3/tab-2/r19#equilibrium_property |
 | ORC-NXB4QUUXWI.faa632 | ORC-NXB4QUUXWI.c457f5 | doi:10.1016/j.tca.2018.08.011/p4/tab-1/r01#equilibrium_property |
 | ORC-4MYJ3AWCDR.abc2ef | ORC-4MYJ3AWCDR.8f99fe | doi:10.1016/j.tca.2018.08.011/p4/tab-1/r13#equilibrium_property |
 | ORC-KGXCD4BLYH.d91922 | ORC-KGXCD4BLYH.9efe50 | doi:10.1016/j.tca.2018.08.011/p4/tab-1/r02#equilibrium_property |
@@ -1276,7 +1275,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-4EKSADAPCN.24065b | ORC-4EKSADAPCN.24065b | doi:10.1007/s10973-014-4189-1/p4/tab-3/r33#equilibrium_property |
 | ORC-PEUZNTZ35W.4e4ad4 | ORC-PEUZNTZ35W.4e4ad4 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r03#equilibrium_property |
 | ORC-KOSAEYIXBG.3e618d | ORC-KOSAEYIXBG.3e618d | doi:10.1007/s10973-014-4189-1/p4/tab-3/r07#equilibrium_property |
-| ORC-U2SOP75IJQ.49f7ea | ORC-U2SOP75IJQ.49f7ea | doi:10.1007/s10973-014-4189-1/p4/tab-3/r09#equilibrium_property |
 | ORC-E3ZO53RNRF.1fb2a3 | ORC-E3ZO53RNRF.1fb2a3 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r14#equilibrium_property |
 | ORC-PEMOQUEAL5.9a3033 | ORC-PEMOQUEAL5.9a3033 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r17#equilibrium_property |
 | ORC-Q3DAXC6QZG.6b2306 | ORC-Q3DAXC6QZG.6b2306 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r21#equilibrium_property |
@@ -1314,29 +1312,29 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-WUROX2PQVN.7d8d9a | ORC-WUROX2PQVN.7d8d9a | doi:10.1016/j.jfluchem.2018.01.011/p6/tab-7/r03#equilibrium_property |
 | ORC-2WQUWRMXXV.9e04fb | ORC-2WQUWRMXXV.9e04fb | doi:10.1016/j.jfluchem.2018.01.011/p6/tab-7/r04#equilibrium_property |
 | ORC-EN4I7UQFNU.6c0fe0 | ORC-EN4I7UQFNU.6c0fe0 | doi:10.1016/j.jfluchem.2018.01.011/p6/tab-7/r05#equilibrium_property |
-| ORC-SWZVSHVRMM.c9d853 | ORC-SWZVSHVRMM.76b452 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r01#equilibrium_property |
-| ORC-R3A2CLR433.73bc5b | ORC-R3A2CLR433.ff7185 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r04#equilibrium_property |
-| ORC-RLRA6HW3SA.126725 | ORC-RLRA6HW3SA.9bf006 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r05#equilibrium_property |
-| ORC-UFNAP3LNTN.88469b | ORC-UFNAP3LNTN.669eb3 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r06#equilibrium_property |
-| ORC-CDHN5CGC5W.9ce89a | ORC-CDHN5CGC5W.de9062 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r10#equilibrium_property |
-| ORC-43RPIOXQDY.c923c3 | ORC-43RPIOXQDY.0fa021 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r14#equilibrium_property |
-| ORC-3FTFHG62AG.937659 | ORC-3FTFHG62AG.c7649e | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r20#equilibrium_property |
-| ORC-V44SXNOR6E.94b8bb | ORC-V44SXNOR6E.944019 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r22#equilibrium_property |
-| ORC-VMVXXM4H55.8a6df1 | ORC-VMVXXM4H55.853698 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r26#equilibrium_property |
-| ORC-GGV4NIYGUE.42e186 | ORC-GGV4NIYGUE.038c77 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r01#equilibrium_property |
-| ORC-VZ42TLKJHT.c6ec38 | ORC-VZ42TLKJHT.7cd9c0 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r14#equilibrium_property |
-| ORC-BFT55GLVVO.d07852 | ORC-BFT55GLVVO.762d6d | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r21#equilibrium_property |
-| ORC-HHKNYOONKX.40cafe | ORC-HHKNYOONKX.26cd87 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r33#equilibrium_property |
-| ORC-4KUVCAKG6H.49ef69 | ORC-4KUVCAKG6H.7fd733 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r03#equilibrium_property |
-| ORC-MDOIEI5HRY.041e58 | ORC-MDOIEI5HRY.bd2665 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r09#equilibrium_property |
-| ORC-D5A4A6APNW.6af4a4 | ORC-D5A4A6APNW.5c8221 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r13#equilibrium_property |
-| ORC-YMDZIWYML2.cc1e77 | ORC-YMDZIWYML2.fa394a | doi:10.1007/s10973-016-5380-3/p5/tab-2/r18#equilibrium_property |
-| ORC-A6SF6ZB2GP.eba394 | ORC-A6SF6ZB2GP.ec7e29 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r22#equilibrium_property |
-| ORC-4KUVCAKG6H.643e23 | ORC-4KUVCAKG6H.07d5a1 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r03#equilibrium_property |
-| ORC-MDOIEI5HRY.bea123 | ORC-MDOIEI5HRY.1e839f | doi:10.1007/s10973-016-5380-3/p5/tab-2/r09#equilibrium_property |
-| ORC-D5A4A6APNW.16a128 | ORC-D5A4A6APNW.0ff563 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r13#equilibrium_property |
-| ORC-YMDZIWYML2.3ad14e | ORC-YMDZIWYML2.5c9459 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r18#equilibrium_property |
-| ORC-A6SF6ZB2GP.4f7281 | ORC-A6SF6ZB2GP.e7e2c1 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r22#equilibrium_property |
+| ORC-SWZVSHVRMM.76b452 | ORC-SWZVSHVRMM.76b452 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r01#equilibrium_property |
+| ORC-R3A2CLR433.ff7185 | ORC-R3A2CLR433.ff7185 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r04#equilibrium_property |
+| ORC-RLRA6HW3SA.9bf006 | ORC-RLRA6HW3SA.9bf006 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r05#equilibrium_property |
+| ORC-UFNAP3LNTN.669eb3 | ORC-UFNAP3LNTN.669eb3 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r06#equilibrium_property |
+| ORC-CDHN5CGC5W.de9062 | ORC-CDHN5CGC5W.de9062 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r10#equilibrium_property |
+| ORC-43RPIOXQDY.0fa021 | ORC-43RPIOXQDY.0fa021 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r14#equilibrium_property |
+| ORC-3FTFHG62AG.c7649e | ORC-3FTFHG62AG.c7649e | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r20#equilibrium_property |
+| ORC-V44SXNOR6E.944019 | ORC-V44SXNOR6E.944019 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r22#equilibrium_property |
+| ORC-VMVXXM4H55.853698 | ORC-VMVXXM4H55.853698 | doi:10.1016/j.jallcom.2015.12.215/p6/tab-5/r26#equilibrium_property |
+| ORC-GGV4NIYGUE.038c77 | ORC-GGV4NIYGUE.038c77 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r01#equilibrium_property |
+| ORC-VZ42TLKJHT.7cd9c0 | ORC-VZ42TLKJHT.7cd9c0 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r14#equilibrium_property |
+| ORC-BFT55GLVVO.762d6d | ORC-BFT55GLVVO.762d6d | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r21#equilibrium_property |
+| ORC-HHKNYOONKX.26cd87 | ORC-HHKNYOONKX.26cd87 | doi:10.1016/j.calphad.2013.02.004/p8/tab-6/r33#equilibrium_property |
+| ORC-4KUVCAKG6H.7fd733 | ORC-4KUVCAKG6H.7fd733 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r03#equilibrium_property |
+| ORC-MDOIEI5HRY.bd2665 | ORC-MDOIEI5HRY.bd2665 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r09#equilibrium_property |
+| ORC-D5A4A6APNW.5c8221 | ORC-D5A4A6APNW.5c8221 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r13#equilibrium_property |
+| ORC-YMDZIWYML2.fa394a | ORC-YMDZIWYML2.fa394a | doi:10.1007/s10973-016-5380-3/p5/tab-2/r18#equilibrium_property |
+| ORC-A6SF6ZB2GP.ec7e29 | ORC-A6SF6ZB2GP.ec7e29 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r22#equilibrium_property |
+| ORC-4KUVCAKG6H.07d5a1 | ORC-4KUVCAKG6H.07d5a1 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r03#equilibrium_property |
+| ORC-MDOIEI5HRY.1e839f | ORC-MDOIEI5HRY.1e839f | doi:10.1007/s10973-016-5380-3/p5/tab-2/r09#equilibrium_property |
+| ORC-D5A4A6APNW.0ff563 | ORC-D5A4A6APNW.0ff563 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r13#equilibrium_property |
+| ORC-YMDZIWYML2.5c9459 | ORC-YMDZIWYML2.5c9459 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r18#equilibrium_property |
+| ORC-A6SF6ZB2GP.e7e2c1 | ORC-A6SF6ZB2GP.e7e2c1 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r22#equilibrium_property |
 | ORC-RGFB4RVHHS.c47128 | ORC-RGFB4RVHHS.c47128 | doi:10.1016/j.jct.2016.07.040/p12/tab-9/r01#equilibrium_property |
 | ORC-JBXVUOFGIP.854c26 | ORC-JBXVUOFGIP.854c26 | doi:10.1016/j.jct.2016.07.040/p12/tab-9/r03#equilibrium_property |
 | ORC-RGFB4RVHHS.62ee3d | ORC-RGFB4RVHHS.62ee3d | doi:10.1016/j.jct.2016.07.040/p12/tab-9/r01#equilibrium_property |
@@ -1348,9 +1346,9 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-GBISJLEMBL.0f5ba0 | ORC-GBISJLEMBL.0f5ba0 | doi:10.1361/105497198770342238/p1/tab-1/r18#equilibrium_property |
 | ORC-CLUULVACZM.4a06e2 | ORC-CLUULVACZM.82dd24 | doi:10.1361/105497198770342238/p1/tab-1/r22#equilibrium_property |
 | ORC-OVQ3F762FA | ORC-OVQ3F762FA | doi:10.1016/j.jallcom.2020.157064/p10/tab-5/r01#equilibrium_property |
-| ORC-TUPPEUSP3G.75aa0f | ORC-TUPPEUSP3G.090ff3 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r01#equilibrium_property |
-| ORC-NP3TPDQFGJ.da124c | ORC-NP3TPDQFGJ.c2bf44 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r03#equilibrium_property |
-| ORC-QZJQT2XAUD.9aadd1 | ORC-QZJQT2XAUD.2a0d87 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r05#equilibrium_property |
+| ORC-TUPPEUSP3G.090ff3 | ORC-TUPPEUSP3G.090ff3 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r01#equilibrium_property |
+| ORC-NP3TPDQFGJ.c2bf44 | ORC-NP3TPDQFGJ.c2bf44 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r03#equilibrium_property |
+| ORC-QZJQT2XAUD.2a0d87 | ORC-QZJQT2XAUD.2a0d87 | doi:10.1016/s0364-5916(00)00004-3/p17/tab-3/r05#equilibrium_property |
 | ORC-LAENHZK3Y6.a8b5fd | ORC-LAENHZK3Y6.a8b5fd | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r01#equilibrium_property |
 | ORC-N4ABGBP2DJ.0ae061 | ORC-N4ABGBP2DJ.0ae061 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r03#equilibrium_property |
 | ORC-UBYA6L7PJN.34975c | ORC-UBYA6L7PJN.34975c | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r07#equilibrium_property |
@@ -1379,8 +1377,8 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-GDYQLC5AAG.70774e | ORC-GDYQLC5AAG.70774e | doi:10.1016/j.jallcom.2012.09.148/p2/tab-2/r25#equilibrium_property |
 | ORC-SQXXJQONU6.8888e0 | ORC-SQXXJQONU6.42c00b | doi:10.1016/j.calphad.2005.06.004/p7/tab-6/r09#equilibrium_property |
 | ORC-SQXXJQONU6.571634 | ORC-SQXXJQONU6.04fffd | doi:10.1016/j.calphad.2005.06.004/p7/tab-6/r09#equilibrium_property |
-| ORC-FSP75VD3H4.6cc764 | ORC-FSP75VD3H4.b580b3 | doi:10.1007/bf02667808/p6/tab-3/r03#equilibrium_property |
-| ORC-LYBAGZYJQA.face3e | ORC-LYBAGZYJQA.d19b91 | doi:10.1007/bf02667808/p6/tab-3/r06#equilibrium_property |
+| ORC-FSP75VD3H4.6cc764 | ORC-FSP75VD3H4.6cc764 | doi:10.1007/bf02667808/p6/tab-3/r03#equilibrium_property |
+| ORC-LYBAGZYJQA.face3e | ORC-LYBAGZYJQA.face3e | doi:10.1007/bf02667808/p6/tab-3/r06#equilibrium_property |
 | ORC-TY4CSBSDDO.b45084 | ORC-TY4CSBSDDO.64ba3e | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r10#equilibrium_property |
 | ORC-GLXEK5FJVI.0725cd | ORC-GLXEK5FJVI.755cf6 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r26#equilibrium_property |
 | ORC-4TLA46EVWK.0b4f64 | ORC-4TLA46EVWK.8b1af7 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r29#equilibrium_property |
@@ -1391,28 +1389,28 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-MMN65JRDFS | ORC-MMN65JRDFS | doi:10.1016/s0022-3115(02)00813-9/p4/tab-3/r16#phase_region_vertex_set |
 | ORC-66STCHEIRV | ORC-66STCHEIRV | doi:10.1016/s0022-3115(02)00813-9/p4/tab-2/r10#phase_region_vertex_set |
 | ORC-4PUTNPIDD2 | ORC-4PUTNPIDD2 | doi:10.1016/s0022-3115(02)00813-9/p5/tab-4/r134#phase_region_vertex_set |
-| ORC-WJS56OFWF2.d979dc | ORC-WJS56OFWF2.ad73b1 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
-| ORC-ARH6QFMUVX.e48bb0 | ORC-ARH6QFMUVX.0a724d | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
-| ORC-CGXG2LYDLD.c5e8b9 | ORC-CGXG2LYDLD.d64f3b | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
-| ORC-VJKQQEBA2V.d6b2fa | ORC-VJKQQEBA2V.8e168c | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
-| ORC-IY4HBZTVGD.3d2f8e | ORC-IY4HBZTVGD.24eed0 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r09#equilibrium_property |
-| ORC-SAHSUVBSIT.600d20 | ORC-SAHSUVBSIT.6eb5d4 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
-| ORC-O4MOZLURZJ.939702 | ORC-O4MOZLURZJ.86d5e5 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
-| ORC-U6QFEWSDKO.f543a8 | ORC-U6QFEWSDKO.afae9f | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
-| ORC-WJS56OFWF2.662e9d | ORC-WJS56OFWF2.db26d2 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
-| ORC-ARH6QFMUVX.99a873 | ORC-ARH6QFMUVX.c56014 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
-| ORC-CGXG2LYDLD.cc2b7a | ORC-CGXG2LYDLD.cfa217 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
-| ORC-VJKQQEBA2V.a94f52 | ORC-VJKQQEBA2V.4dc903 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
-| ORC-SAHSUVBSIT.d6e31e | ORC-SAHSUVBSIT.0df3aa | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
-| ORC-O4MOZLURZJ.f4c11e | ORC-O4MOZLURZJ.ceb2c2 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
-| ORC-U6QFEWSDKO.c387c4 | ORC-U6QFEWSDKO.90f187 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
-| ORC-WJS56OFWF2.e6c2f8 | ORC-WJS56OFWF2.2e9cf7 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
-| ORC-ARH6QFMUVX.9dbf64 | ORC-ARH6QFMUVX.21b037 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
-| ORC-CGXG2LYDLD.75c747 | ORC-CGXG2LYDLD.3c4990 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
-| ORC-VJKQQEBA2V.4f9d53 | ORC-VJKQQEBA2V.8abf86 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
-| ORC-SAHSUVBSIT.ff3e15 | ORC-SAHSUVBSIT.4bcc25 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
-| ORC-O4MOZLURZJ.0ad8a8 | ORC-O4MOZLURZJ.5adaab | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
-| ORC-U6QFEWSDKO.8f5db3 | ORC-U6QFEWSDKO.e2e472 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
+| ORC-WJS56OFWF2.ad73b1 | ORC-WJS56OFWF2.ad73b1 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
+| ORC-ARH6QFMUVX.0a724d | ORC-ARH6QFMUVX.0a724d | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
+| ORC-CGXG2LYDLD.d64f3b | ORC-CGXG2LYDLD.d64f3b | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
+| ORC-VJKQQEBA2V.8e168c | ORC-VJKQQEBA2V.8e168c | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
+| ORC-IY4HBZTVGD.24eed0 | ORC-IY4HBZTVGD.24eed0 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r09#equilibrium_property |
+| ORC-SAHSUVBSIT.6eb5d4 | ORC-SAHSUVBSIT.6eb5d4 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
+| ORC-O4MOZLURZJ.86d5e5 | ORC-O4MOZLURZJ.86d5e5 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
+| ORC-U6QFEWSDKO.afae9f | ORC-U6QFEWSDKO.afae9f | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
+| ORC-WJS56OFWF2.db26d2 | ORC-WJS56OFWF2.db26d2 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
+| ORC-ARH6QFMUVX.c56014 | ORC-ARH6QFMUVX.c56014 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
+| ORC-CGXG2LYDLD.cfa217 | ORC-CGXG2LYDLD.cfa217 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
+| ORC-VJKQQEBA2V.4dc903 | ORC-VJKQQEBA2V.4dc903 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
+| ORC-SAHSUVBSIT.0df3aa | ORC-SAHSUVBSIT.0df3aa | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
+| ORC-O4MOZLURZJ.ceb2c2 | ORC-O4MOZLURZJ.ceb2c2 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
+| ORC-U6QFEWSDKO.90f187 | ORC-U6QFEWSDKO.90f187 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
+| ORC-WJS56OFWF2.2e9cf7 | ORC-WJS56OFWF2.2e9cf7 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r01#equilibrium_property |
+| ORC-ARH6QFMUVX.21b037 | ORC-ARH6QFMUVX.21b037 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r03#equilibrium_property |
+| ORC-CGXG2LYDLD.3c4990 | ORC-CGXG2LYDLD.3c4990 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r05#equilibrium_property |
+| ORC-VJKQQEBA2V.8abf86 | ORC-VJKQQEBA2V.8abf86 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r07#equilibrium_property |
+| ORC-SAHSUVBSIT.4bcc25 | ORC-SAHSUVBSIT.4bcc25 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r11#equilibrium_property |
+| ORC-O4MOZLURZJ.5adaab | ORC-O4MOZLURZJ.5adaab | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r13#equilibrium_property |
+| ORC-U6QFEWSDKO.e2e472 | ORC-U6QFEWSDKO.e2e472 | doi:10.1016/s0022-3115(02)00878-4/p9/tab-4/r15#equilibrium_property |
 
 ## Corpus ESPEI export: phase of thermochemical datasets (root cause of LIQUID mislabels)
 
@@ -1442,6 +1440,7 @@ Composition copied from another table row, or a per-formula label on a solution 
 | ORC-A4XBUGH2M5.bd8f2b | general/espei-model/ScSi-15Qin/hmr-model-00.json |
 | ORC-A4XBUGH2M5.d499f5 | general/espei-model/ScSi-15Qin/hmr-model-00.json |
 | ORC-ATSWCPLHI3.ae4c69 | general/espei/NiSi-03Tok/hmr-02.json |
+| ORC-CFKKFJWLEZ.044e9f | general/espei/NiSc-15Zhu/hmr-00.json |
 | ORC-DSIDS2MAX2.b484d4 | general/espei-model/CaSi-94Ang-LB/hmr-model-00.json |
 | ORC-DSIDS2MAX2.da25fb | general/espei-model/CaSi-94Ang-LB/hmr-model-00.json |
 | ORC-DYBIVMPQDE.50f636 | general/espei/NiSi-03Tok/hmr-00.json |

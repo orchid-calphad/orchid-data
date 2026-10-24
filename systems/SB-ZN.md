@@ -1,10 +1,10 @@
 # Sb–Zn system
 
-> Sb–Zn system: 246 accepted literature values (invariant reaction 107, formation 89, phase transition 25, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Zn system: 245 accepted literature values (invariant reaction 107, formation 88, phase transition 25, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-ZN.html · Markdown: https://data.orchid-project.org/systems/SB-ZN.md
 
-246 accepted literature values from 4 paper(s) (experimental 132, model 105, unspecified 9); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+245 accepted literature values from 4 paper(s) (experimental 132, model 104, unspecified 9); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-ZN.json) · [CSV](https://data.orchid-project.org/systems/SB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-ZN/SbZn-00Liu-LB.json) · [phases (24)](https://data.orchid-project.org/phases/pages/SB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SB-ZN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 132 |
-| model | 105 |
+| model | 104 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 107 |
 | phase transition | 25 |
 | phase equilibrium | 5 |
-| formation | 89 |
+| formation | 88 |
 | activity / EMF / Gibbs energy | 20 |
 
 ## Calculated phase diagrams
@@ -362,7 +362,7 @@ Table: Phase equilibrium, Sb–Zn system
 | Phase composition |  | 801.15 | other: Liquidus line; _liquid: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 2 |  |
 | Phase composition |  | 814.15 | other: Liquidus line; _liquid: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 1 |  |
 
-### Formation (41)
+### Formation (40)
 
 Table: Formation, Sb–Zn system
 
@@ -381,7 +381,6 @@ Table: Formation, Sb–Zn system
 | Gibbs energy of formation | -8.115 kJ/mol-atom | 600 | ε-Sb3Zn4; _alloy: Zn 0.571429_ | model | [2] Li 2007 | Table 4, p. 4, row 23 |  |
 | Gibbs energy of formation | -8.6373 kJ/mol-atom | 600.15 | β-Zn13Sb10; _alloy: Zn 0.565217_ | model | [1] Zhang 2022 | Table 8, p. 14, row 22 |  |
 | Gibbs energy of formation | -6.99 kJ/mol-atom | 600.15 | β-Zn13Sb10; _alloy: Zn 0.565217_ | experimental | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 21 |  |
-| Gibbs energy of formation | -8210 kJ/mol-atom | 700 | SbZn; _alloy: Zn 0.5_ | model | [2] Li 2007 | Table 4, p. 4, row 3 |  |
 | Gibbs energy of formation | -7.946 kJ/mol-atom | 700 | SbZn; _alloy: Zn 0.5_ | model | [2] Li 2007; _cites Hulgren 1973_ | Table 4, p. 4, row 4 |  |
 | Gibbs energy of formation | -7.946 kJ/mol-atom | 700.15 | SbZn; _alloy: Zn 0.5_ | experimental | [1] Zhang 2022; _cites Hultgren 1978_ | Table 8, p. 14, row 7 |  |
 | Gibbs energy of formation | -8.7714 kJ/mol-atom | 700.15 | SbZn; _alloy: Zn 0.5_ | model | [1] Zhang 2022 | Table 8, p. 14, row 8 |  |

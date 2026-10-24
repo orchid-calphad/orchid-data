@@ -1,10 +1,10 @@
 # Na–Sb–Sn system
 
-> Na–Sb–Sn system: 27 accepted literature values (formation 27) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sb–Sn system: 26 accepted literature values (formation 26) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SB-SN.html · Markdown: https://data.orchid-project.org/systems/NA-SB-SN.md
 
-27 accepted literature values from 1 paper(s) (model 10, DFT 17); 0 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (model 9, DFT 17); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB-SN.json) · [CSV](https://data.orchid-project.org/systems/NA-SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB-SN.md)
 
@@ -12,20 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 10 |
+| model | 9 |
 | DFT | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 27 |
+| formation | 26 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Na–Sb–Sn system (27)
+Table: Enthalpies of formation, Na–Sb–Sn system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -49,7 +49,6 @@ Table: Enthalpies of formation, Na–Sb–Sn system (27)
 | NaSb |  | -0.679 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 21 |  |
 | NaSb |  | -0.663 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 22 |  |
 | NaSn5 |  | -0.36 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 29 |  |
-| UNKNOWN |  | -31 kJ/mol (basis unstated) | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 2 |  |
 | UNKNOWN |  | -2.066 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 3 |  |
 | UNKNOWN |  | -0.741 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 1 |  |
 | UNKNOWN |  | -0.39 eV relaxed cell | 0 | model |  |  | [1] Dreval 2017 | Table 4, p. 8, row 4 |  |

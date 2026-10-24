@@ -94,11 +94,13 @@
   "observations": [
    {
     "id": "ORC-MGHWWOGEQM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s1003-6326(11)60690-0",
     "measured_in": "ref:8455630e1fad00fb"
    },
    {
     "id": "ORC-QVZVS3LHZY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s1003-6326(11)60690-0",
     "measured_in": "ref:8455630e1fad00fb"
    }

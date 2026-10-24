@@ -1,10 +1,10 @@
 # Cr–Si system
 
-> Cr–Si system: 139 accepted literature values (formation 58, invariant reaction 53, phase transition 28) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Si system: 110 accepted literature values (invariant reaction 53, formation 29, phase transition 28) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-SI.html · Markdown: https://data.orchid-project.org/systems/CR-SI.md
 
-139 accepted literature values from 5 paper(s) (experimental 54, model 58, unspecified 27); 7 calculated phase diagram(s).
+110 accepted literature values from 5 paper(s) (experimental 45, model 38, unspecified 27); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-SI.json) · [CSV](https://data.orchid-project.org/systems/CR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-SI/CrSi-00Du.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CR-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-SI.html) · [Markdown](https://data.orchid-project.org/systems/CR-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
-| model | 58 |
+| experimental | 45 |
+| model | 38 |
 | unspecified | 27 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 53 |
 | phase transition | 28 |
-| formation | 58 |
+| formation | 29 |
 
 ## Calculated phase diagrams
 
@@ -163,68 +163,39 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Si system (58)
+Table: Enthalpies of formation, Cr–Si system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr3Si |  | -31590 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 3 |  |
-| Cr3Si |  | -28749 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 2 |  |
-| Cr3Si |  | -27200 per mol-atom ± 1100 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 1 |  |
 | Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -34.7 kJ/mol-atom | 298.15 | experimental | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 1 |  |
 | Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.92 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 4 |  |
 | Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.59 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 2 |  |
+| Cr3Si |  | -31.59 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 3 |  |
 | Cr3Si | [Cr3Si](https://data.orchid-project.org/compounds/Cr3Si.html) | -31.41 kJ/mol-atom |  | model | -31.155 (mp-aaaaabcb) | -34.888 (oqmd-3600) | [5] Coughanowr 1994 | Table 6, p. 14, row 3 |  |
+| Cr3Si |  | -28.749 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 2 |  |
+| Cr3Si |  | -27.2 per mol-atom ± 1100 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 1 |  |
 | Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5 |  |
 | Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.9 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 8 |  |
 | Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.57 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 6 |  |
 | Cr5Si3 | [Cr5Si3](https://data.orchid-project.org/compounds/Cr5Si3.html) | -32.52 kJ/mol-atom |  | model | -27.079 (mp-aaaaalcs) | -29.969 (oqmd-3178) | [5] Coughanowr 1994 | Table 6, p. 14, row 7 |  |
-| CrSi |  | -34200 per mol-atom ± 1600 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
-| CrSi |  | -30429 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 8 |  |
-| CrSi |  | -30160 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
 | CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9 |  |
+| CrSi |  | -34.2 per mol-atom ± 1600 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
 | CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.44 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 12 |  |
+| CrSi |  | -30.429 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 8 |  |
 | CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.18 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 11 |  |
+| CrSi |  | -30.16 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
 | CrSi | [CrSi](https://data.orchid-project.org/compounds/CrSi.html) | -30.16 kJ/mol-atom |  | model | -24.637 (mp-aaaaalfk) | -27.832 (oqmd-3602) | [5] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
-| CrSi2 |  | -27296 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 11 |  |
-| CrSi2 |  | -26080 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
-| CrSi2 |  | -25800 per mol-atom ± 4400 | 298.15 | experimental |  |  | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
 | CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -40.2 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
+| CrSi2 |  | -27.296 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 11 |  |
 | CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.1 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
 | CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.09 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
 | CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -26.08 kJ/mol-atom |  | model | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
+| CrSi2 |  | -26.08 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
 | CrSi2 | [CrSi2](https://data.orchid-project.org/compounds/CrSi2.html) | -25.8 kJ/mol-atom | 298.15 | experimental | -31.349 (mp-aaaaanft) | -35.843 (oqmd-12787) | [5] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
-| UNKNOWN |  | -34200 per mol-atom ± 1600 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
-| UNKNOWN |  | -33600 per mol-atom ± 1000 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4 |  |
-| UNKNOWN |  | -32570 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6 |  |
-| UNKNOWN |  | -32525 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 5 |  |
-| UNKNOWN |  | -31590 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 3 |  |
-| UNKNOWN |  | -30429 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 8 |  |
-| UNKNOWN |  | -30160 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
-| UNKNOWN |  | -28749 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 2 |  |
-| UNKNOWN |  | -27296 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 11 |  |
-| UNKNOWN |  | -27200 per mol-atom ± 1100 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 1 |  |
-| UNKNOWN |  | -26080 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
-| UNKNOWN |  | -25800 per mol-atom ± 4400 | 298.15 | experimental |  |  | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
-| UNKNOWN |  | -41 kJ/mol-atom | 298.15 | experimental |  |  | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 5 |  |
-| UNKNOWN |  | -40.2 kJ/mol-atom | 298.15 | experimental |  |  | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
-| UNKNOWN |  | -39.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9 |  |
-| UNKNOWN |  | -34.7 kJ/mol-atom | 298.15 | experimental |  |  | [5] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 1 |  |
-| UNKNOWN |  | -32.9 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 8 |  |
-| UNKNOWN |  | -32.57 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 6 |  |
-| UNKNOWN |  | -32.52 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 7 |  |
-| UNKNOWN |  | -31.92 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 4 |  |
-| UNKNOWN |  | -31.59 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 2 |  |
-| UNKNOWN |  | -31.41 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 3 |  |
-| UNKNOWN |  | -30.44 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 12 |  |
-| UNKNOWN |  | -30.18 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 11 |  |
-| UNKNOWN |  | -30.16 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
-| UNKNOWN |  | -26.1 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
-| UNKNOWN |  | -26.09 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
-| UNKNOWN |  | -26.08 kJ/mol-atom |  | model |  |  | [5] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
-| UNKNOWN |  | -25.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
-| αCr5Si3 |  | -33600 per mol-atom ± 1000 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4 |  |
-| αCr5Si3 |  | -32570 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6 |  |
-| αCr5Si3 |  | -32525 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 5 |  |
+| CrSi2 |  | -25.8 per mol-atom ± 4400 | 298.15 | experimental |  |  | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
+| αCr5Si3 |  | -33.6 per mol-atom ± 1000 | 298.15 | experimental |  |  | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 4 |  |
+| αCr5Si3 |  | -32.57 per mol-atom | 298.15 | model |  |  | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 6 |  |
+| αCr5Si3 |  | -32.525 per mol-atom | 298.15 | model |  |  | [2] Du 2000 | Table 4, p. 4, row 5 |  |
 
 ## Other properties
 

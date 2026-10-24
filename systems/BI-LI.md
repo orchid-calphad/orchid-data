@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/BI-LI.html · Markdown: https://data.orchid-project.org/systems/BI-LI.md
 
-30 accepted literature values from 1 paper(s) (experimental 18, model 12); 1 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 20, model 10); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-LI.json) · [CSV](https://data.orchid-project.org/systems/BI-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-LI/BiLi-13Liu.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-LI.html) · [Markdown](https://data.orchid-project.org/systems/BI-LI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 12 |
+| experimental | 20 |
+| model | 10 |
 
 Table: Accepted values by property group
 
@@ -53,7 +53,7 @@ Table: Invariant reactions reported in the literature for the Bi–Li system (14
 | 693 | liq + BiLi3 \<-> βBiLi | BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Weppner 1978_ [doi](https://doi.org/10.1149/1.2131401) | Table 3, p. 5, row 8 |  |
 | 693 | peritectic |  | experimental | [1] Liu 2013; _cites Weppner 1978_ [doi](https://doi.org/10.1149/1.2131401) | p. 2 | “From emf measurement, Weppner and Huggins \[9\] obtained a peritectic temperature of about 693 K.” |
 | 688 | liq + BiLi3 \<-> βBiLi | liq: Li 0.36; BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Grube 1934_ | Table 3, p. 5, row 7 |  |
-| 688 | peritectic |  | model | [1] Liu 2013; _cites Grube 1934_ | p. 2 | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
+| 688 | peritectic |  | experimental | [1] Liu 2013; _cites Grube 1934_ | p. 2 | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
 | 688 | liq + BiLi3 \<-> βBiLi | liq: Li 0.36; BiLi3: Bi 0.25, Li 0.75; βBiLi: Bi 0.5, Li 0.5 | model | [1] Liu 2013 | Table 3, p. 5, row 6 |  |
 | 673 | liq + BiLi3 \<-> αBiLi | liq: Li 0.37; BiLi3: Bi 0.25, Li 0.75; αBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Grube 1934_ | Table 3, p. 5, row 4 |  |
 | 673 | liq + BiLi3 \<-> αBiLi | BiLi3: Bi 0.25, Li 0.75; αBiLi: Bi 0.5, Li 0.5 | experimental | [1] Liu 2013; _cites Weppner 1978_ [doi](https://doi.org/10.1149/1.2131401) | Table 3, p. 5, row 5 |  |
@@ -88,7 +88,7 @@ Table: Phase transition, Bi–Li system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 673 K | 673 | polymorphic | experimental | [1] Liu 2013 | p. 1 | “BiLi has an allotropic transformation around 673 K.” |
-| Phase transition | 673 K | 673 | polymorphic | model | [1] Liu 2013; _cites Grube 1934_ | p. 2 | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
+| Phase transition | 673 K | 673 | polymorphic | experimental | [1] Liu 2013; _cites Grube 1934_ | p. 2 | “From both thermal analysis and electrical resistivity measurement, Gruber et al. \[8\] identified two invariant reactions at 688 and 673 K, respectively, which were related with the peritectic melting of BiLi and the allotropic transformation of BiLi, respectively.” |
 | Phase transition | 688 K | 688 | BiLi + BiLi3 + liquid | experimental | [1] Liu 2013 | p. 1 | “In addition, BiLi melts incongruently, with the formation of Bi-Li melts and BiLi3 when the temperature is raised above 688 K.” |
 | Phase transition | 1418 K | 1418 | congruent melting | model | [1] Liu 2013; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645966) | p. 1 | “BiLi3 melts congruently around 1418 K, and the liquidus around BiLi3 shows a certain degree of steepness, indicating the presence of short-range ordering for the melts around such a composition.” |
 

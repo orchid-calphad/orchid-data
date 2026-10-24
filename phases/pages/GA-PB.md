@@ -170,7 +170,7 @@ _assessment that models this phase_
 - Id: `phase:ga-pb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 302.89–2500 K, x(Pb) 0–1
-- Literature: 868 values (866 accepted) from 2 papers
+- Literature: 868 values (865 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-pb:liquid)
 
 Names (7): _corpus: _corpus:phase:ga-pb:liquid  

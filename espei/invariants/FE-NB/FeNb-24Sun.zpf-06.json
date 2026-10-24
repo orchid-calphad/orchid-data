@@ -184,22 +184,27 @@
   "observations": [
    {
     "id": "ORC-WR5VYTA7OH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
    },
    {
     "id": "ORC-55A2NR5KOX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
    },
    {
     "id": "ORC-VYDLG3QV4O",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
    },
    {
     "id": "ORC-GM4JDAPI3A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
    },
    {
     "id": "ORC-QQ5DDOG22V",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
    }
   ],

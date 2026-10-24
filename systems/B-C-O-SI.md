@@ -1,10 +1,10 @@
 # B–C–O–Si system
 
-> B–C–O–Si system: 7 accepted literature values (phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–C–O–Si system: 6 accepted literature values (phase equilibrium 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-C-O-SI.html · Markdown: https://data.orchid-project.org/systems/B-C-O-SI.md
 
-7 accepted literature values from 1 paper(s) (experimental 7); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 6); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-C-O-SI.json) · [CSV](https://data.orchid-project.org/systems/B-C-O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C-O-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C-O-SI.html) · [Markdown](https://data.orchid-project.org/systems/B-C-O-SI.md)
 
@@ -12,24 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase equilibrium | 7 |
+| phase equilibrium | 6 |
 
 ## Other properties
 
-### Phase equilibrium (7)
+### Phase equilibrium (6)
 
 Table: Phase equilibrium, B–C–O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase assemblage |  | 1273.15 | Si (diamond); _alloy: C 0, O 0, Si 1_ | experimental | [1] Schnurre 2004 | Table 5, p. 11, row 4 |  |
-| Phase assemblage |  | 1300 | Si (diamond); _alloy: C 0, O 0, Si 1_ | experimental | [1] Schnurre 2004 | Table 5, p. 11, row 5 |  |
 | Phase assemblage |  | 1373.15 | Si (diamond); _alloy: C 0, O 0, Si 1_ | experimental | [1] Schnurre 2004 | Table 5, p. 11, row 6 |  |
 | Phase assemblage |  | 1473.15 | Si (diamond); _alloy: C 0, O 0, Si 1_ | experimental | [1] Schnurre 2004 | Table 5, p. 11, row 8 |  |
 | Phase assemblage |  | 1573.15 | Si (diamond); _alloy: C 0, O 0, Si 1_ | experimental | [1] Schnurre 2004 | Table 5, p. 11, row 13 |  |

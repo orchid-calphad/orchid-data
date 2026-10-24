@@ -1,0 +1,141 @@
+{
+ "components": [
+  "AU",
+  "ND",
+  "VA"
+ ],
+ "phases": [
+  "AUND_B27"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -74000.0
+   ]
+  ]
+ ],
+ "reference": "Moustaine 2016, doi:10.1016/j.jallcom.2016.02.170",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FOZPO6DSVX.862cb8",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "AuNd-16Mou.tdb",
+   "path": "databases/sgte-binary/AuNd-16Mou.tdb",
+   "sha256": "9c0e752aab7ca18f409a4d99444489ddbc5094144adf841fa80dc3415c106636",
+   "catalog_entry": {
+    "name": "AuNd-16Mou.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2016-02-170",
+   "doi": "10.1016/j.jallcom.2016.02.170",
+   "citation": {
+    "authors": "see doi",
+    "title": "D. Moustaine, K. Mahdouk, J. Alloys Compd., 673, 115-25(2016).",
+    "year": "2016"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "moustaine2016_57ed8f",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-FOZPO6DSVX.862cb8",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2016.02.170",
+    "measured_in": "doi:10.1016/j.jallcom.2016.02.170",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-FOZPO6DSVX.862cb8"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.02.170"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2016.02.170"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/AuNd-16Mou/hmr-model-00.json",
+  "values_dropped": 3
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "AUND_B27"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "AuNd-16Mou.tdb",
+   "path": "databases/sgte-binary/AuNd-16Mou.tdb",
+   "sha256": "9c0e752aab7ca18f409a4d99444489ddbc5094144adf841fa80dc3415c106636",
+   "phase": "AUND_B27",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AU",
+    "ND"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-FOZPO6DSVX.862cb8",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

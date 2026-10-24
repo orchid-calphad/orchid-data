@@ -1,10 +1,10 @@
 # Au–Si system
 
-> Au–Si system: 18 accepted literature values (phase transition 12, invariant reaction 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Si system: 17 accepted literature values (phase transition 12, invariant reaction 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SI.html · Markdown: https://data.orchid-project.org/systems/AU-SI.md
 
-18 accepted literature values from 2 paper(s) (experimental 16, model 2); 4 calculated phase diagram(s).
+17 accepted literature values from 2 paper(s) (experimental 15, model 2); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SI.json) · [CSV](https://data.orchid-project.org/systems/AU-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SI/AuSi-07Men.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AU-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SI.html) · [Markdown](https://data.orchid-project.org/systems/AU-SI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 15 |
 | model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 | phase transition | 12 |
 
 ## Calculated phase diagrams
@@ -55,12 +55,11 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Si system (6)
+Table: Invariant reactions reported in the literature for the Au–Si system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 643 | eutectic |  | experimental | [1] Chevalier 1989; _cites Heath 1961_ | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
-| 643 | eutectic |  | experimental | [1] Chevalier 1989; _cites Gerlach 1967_ [doi](https://doi.org/10.1016/0038-1101%2867%2990140-2) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
 | 636 | eutectic |  | model | [1] Chevalier 1989; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
 | 636 | eutectic |  | experimental | [1] Chevalier 1989; _cites Anantatmula 1975_ [doi](https://doi.org/10.1007/bf02666229) | p. 6 | “The eutectic point has been located at x&k-'= 0.17, T = 643 K \[22\], xi;) = O.l86,T= 643 K \[21\], x&k'= 0.195, T= 618 K \[23\], xi:) = 0.19, T= 636 K \[24\] and x$-j = 0.186, T = 636 K \[20\].” |
 | 636 | eutectic |  | model | [2] Meng 2007; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02884878) | p. 1 | “Fortunately, Okamoto and Massalski \[19\] recommend the eutectic temperature of 636 ± 3 K which is accepted in the present optimization.” |

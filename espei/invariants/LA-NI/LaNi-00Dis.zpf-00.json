@@ -398,6 +398,7 @@
   "observations": [
    {
     "id": "ORC-GJILY3R566",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "also_reported_as": [
@@ -411,16 +412,19 @@
    },
    {
     "id": "ORC-U5GKLYZR2L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085"
    },
    {
     "id": "ORC-4ZLDMULQT3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085"
    },
    {
     "id": "ORC-LNAJHFEH5L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "also_reported_as": [
@@ -440,6 +444,7 @@
    },
    {
     "id": "ORC-4VO2PJ3HPR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "also_reported_as": [
@@ -459,6 +464,7 @@
    },
    {
     "id": "ORC-TOKYB4UEJK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "also_reported_as": [
@@ -472,11 +478,13 @@
    },
    {
     "id": "ORC-ABHDSR44M7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085"
    },
    {
     "id": "ORC-DR7QVBYHCZ.525102",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "caveats": [
@@ -493,11 +501,13 @@
    },
    {
     "id": "ORC-UUWR6NH5KM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085"
    },
    {
     "id": "ORC-DR7QVBYHCZ.681418",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085",
     "caveats": [
@@ -506,6 +516,7 @@
    },
    {
     "id": "ORC-DOHPXIDMUC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)01151-8",
     "measured_in": "doi:10.1007/bf02645085"
    }

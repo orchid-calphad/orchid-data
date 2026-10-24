@@ -1,10 +1,10 @@
 # O–U system
 
-> O–U system: 979 accepted literature values (phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 79, formation 61) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–U system: 942 accepted literature values (phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 60, formation 43) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data.orchid-project.org/systems/O-U.md
 
-979 accepted literature values from 4 paper(s) (experimental 584, model 386, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+942 accepted literature values from 4 paper(s) (experimental 584, model 349, unspecified 9); 0 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-U.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 584 |
-| model | 386 |
+| model | 349 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 | invariant reaction | 23 |
 | phase transition | 204 |
 | phase equilibrium | 601 |
-| formation | 61 |
-| heat capacity / entropy / enthalpy | 79 |
+| formation | 43 |
+| heat capacity / entropy / enthalpy | 60 |
 | other property | 11 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-U.json) · [CALPHAD hull UO-02Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-02Che.json) · [CALPHAD hull UO-02Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-02Gue.json) · [CALPHAD hull UO-04Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-04Che.json) · [CALPHAD hull UO-08Bar](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-08Bar.json) · [CALPHAD hull UO-11Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-11Gue.json)
@@ -63,12 +63,10 @@ Table: Invariant reactions reported in the literature for the O–U system (23)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–U system (61)
+Table: Enthalpies of formation, O–U system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| U (g) |  | 533 kJ/mol-atom ± 8 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
-| U (g) |  | 534.996 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -327.265 kJ/mol-atom | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 20 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -325.781 kJ/mol-atom ± 12.9704 | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 10, p. 8, row 18 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -324.983 kJ/mol-atom ± 2.5104 | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 17 |  |
@@ -87,22 +85,6 @@ Table: Enthalpies of formation, O–U system (61)
 | U4O9 |  | -345.437 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2002; _cites Duquesnoy 1964_ | Table 10, p. 8, row 10 |  |
 | U4O9 (s) |  | -347.077 kJ/mol-atom ± 0.523 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | U4O9 (s) |  | -346.864 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 3 |  |
-| UNKNOWN |  | -361667 per mol-atom ± 333 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2 |  |
-| UNKNOWN |  | -347077 per mol-atom ± 523 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
-| UNKNOWN |  | -324979 per mol-atom ± 218 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6 |  |
-| UNKNOWN |  | -304375 per mol-atom ± 750 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
-| UNKNOWN |  | -199800 per mol-atom ± 375 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16 |  |
-| UNKNOWN |  | -159267 per mol-atom ± 6667 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14 |  |
-| UNKNOWN |  | -361.374 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 1 |  |
-| UNKNOWN |  | -346.864 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 3 |  |
-| UNKNOWN |  | -325.22 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 5 |  |
-| UNKNOWN |  | -305.95 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 7 |  |
-| UNKNOWN |  | -198.613 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 15 |  |
-| UNKNOWN |  | -158.176 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 13 |  |
-| UNKNOWN |  | 7.954 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
-| UNKNOWN |  | 534.996 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
-| UNKNOWN |  | 15250 per mol-atom ± 8500 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
-| UNKNOWN |  | 533000 per mol-atom ± 8000 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
 | UO (g) |  | 7.954 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
 | UO (g) |  | 15.25 kJ/mol-atom ± 8.5 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | UO2 | [UO2](https://data.orchid-project.org/compounds/UO2.html) | -361.637 kJ/mol-atom | 298.15 | model | -361.862 (mp-aaaaacjl) | -368.505 (oqmd-20358) | [1] Chevalier 2002 | Table 10, p. 8, row 5 |  |
@@ -950,14 +932,12 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3138 | L1; _L1: O 0.6664, U 0.3336_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 95 |  |
 | Phase composition |  | 3138 | other: 1.998; _liquid: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 3 |  |
 
-### Heat capacity / entropy / enthalpy (79)
+### Heat capacity / entropy / enthalpy (60)
 
 Table: Heat capacity / entropy / enthalpy, O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0 (298 K)_ | 199.8 J/mol-atom/K | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
-| Entropy; _printed: S0 (298 K)_ | 199.8 J/mol-atom/K ± 0.1 | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6864 J/mol-atom/K ± 0.5 | 298.15 | U3O8; _alloy: U 0.272727_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 21 |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6746 J/mol-atom/K | 298.15 | U3O8; _alloy: U 0.272727_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 22 |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 J/mol-atom/K ± 0.05 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6 |  |
@@ -971,20 +951,11 @@ Table: Heat capacity / entropy / enthalpy, O–U system
 | Entropy; _printed: S0 (298 K)_ | 25.7 J/mol-atom/K ± 0.5 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.05 | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6 |  |
 | Entropy; _printed: S0 (298 K)_ | 88.8 per mol-atom ± 1.33 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14 |  |
-| Entropy; _printed: S0 (298 K)_ | 25.73 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 3 |  |
 | Entropy; _printed: S0 (298 K)_ | 77.4 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16 |  |
-| Entropy; _printed: S0 (298 K)_ | 25.83 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 5 |  |
-| Entropy; _printed: S0 (298 K)_ | 199.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 1_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
 | Entropy; _printed: S0 (298 K)_ | 25.7 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | Entropy; _printed: S0 (298 K)_ | 124.4 per mol-atom ± 1 | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 per mol-atom ± 0.07 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2 |  |
 | Entropy; _printed: S0 (298 K)_ | 24.92 per mol-atom ± 0.33 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
-| Entropy; _printed: S0 (298 K)_ | 88.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 13 |  |
-| Entropy; _printed: S0 (298 K)_ | 199.8 per mol-atom ± 0.1 | 298.15 | UNKNOWN; _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
-| Entropy; _printed: S0 (298 K)_ | 126.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
-| Entropy; _printed: S0 (298 K)_ | 77.4 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 15 |  |
-| Entropy; _printed: S0 (298 K)_ | 24.03 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 7 |  |
-| Entropy; _printed: S0 (298 K)_ | 25.65 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 1 |  |
 | Entropy; _printed: S0 (298 K)_ | 124.4 J/mol-atom/K ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | Entropy; _printed: S0 (298 K)_ | 126.1 J/mol-atom/K | 298.15 | UO (g); _alloy: U 0.5_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6758 J/mol-atom/K | 298.15 | UO2; _alloy: U 0.333333_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 5 |  |
@@ -1011,20 +982,12 @@ Table: Heat capacity / entropy / enthalpy, O–U system
 | Heat capacity; _printed: C0p (298 K)_ | 22.57 J/mol-atom/K ± 0.05 | 298.15 | U4O9 (s); _alloy: U 0.307692_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 21.63 per mol-atom ± 0.04 | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 19.83 per mol-atom ± 0.67 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 22.35 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 3 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 16.12 per mol-atom ± 0.5 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 16 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 21.73 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.272727_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 5 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 23.69 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 1_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 22.57 per mol-atom ± 0.05 | 298.15 | UNKNOWN; _alloy: U 0.307692_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 21 per mol-atom ± 1 | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 21.2 per mol-atom ± 0.03 | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 20.46 per mol-atom ± 0.07 | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 19.84 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 13 |  |
 | Heat capacity; _printed: Cp0 (298 K)_ | 23.69 per mol-atom ± 0.04 | 298.15 | UNKNOWN; _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 19.67 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.5_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 16.12 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 15 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 20.42 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.25_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 7 |  |
-| Heat capacity; _printed: Cp0 (298 K)_ | 20.98 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: U 0.333333_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 1 |  |
 | Heat capacity; _printed: C0p (298 K)_ | 21 J/mol-atom/K ± 1 | 298.15 | UO (g); _alloy: U 0.5_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | Heat capacity; _printed: C0p (298 K)_ | 19.67 J/mol-atom/K | 298.15 | UO (g); _alloy: U 0.5_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
 | Heat capacity; _printed: C0p (298 K)_ | 19.83 J/mol-atom/K ± 0.67 | 298.15 | UO2 (g); _alloy: U 0.333333_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 14 |  |

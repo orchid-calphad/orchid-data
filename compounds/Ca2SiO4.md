@@ -1,19 +1,27 @@
 # Ca2SiO4: enthalpy of formation
 
-> Enthalpy of formation of Ca2SiO4: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ca2SiO4: 11 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca2SiO4.html · Markdown: https://data.orchid-project.org/compounds/Ca2SiO4.md
 
-3 accepted literature formation-enthalpy value(s) (DFT 3).
+11 accepted literature formation-enthalpy value(s) (model 8, DFT 3).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca2SiO4 reported in the literature (3)
+Table: Enthalpy of formation of Ca2SiO4 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -2548 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 12 |  |
+| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 17 |  |
+| -2316 kJ/mol (basis unstated) | γ-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18 |  |
+| -2307 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 15 |  |
+| -2306 kJ/mol (basis unstated) | β-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16 |  |
+| -2304 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
+| -2293 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
+| -2198 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
 | -18.7429 kJ/mol-atom | γ-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 | -17.8286 kJ/mol-atom | β-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
 | -17.4857 kJ/mol-atom | α′-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |

@@ -1,10 +1,10 @@
 # Mg–Y system
 
-> Mg–Y system: 66 accepted literature values (invariant reaction 27, formation 20, activity / EMF / Gibbs energy 12, crystal structure 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Y system: 50 accepted literature values (invariant reaction 27, formation 10, crystal structure 7, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-Y.html · Markdown: https://data.orchid-project.org/systems/MG-Y.md
 
-66 accepted literature values from 4 paper(s) (experimental 32, model 29, unspecified 5); 4 calculated phase diagram(s).
+50 accepted literature values from 4 paper(s) (experimental 22, model 23, unspecified 5); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
-| model | 29 |
+| experimental | 22 |
+| model | 23 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| formation | 20 |
-| activity / EMF / Gibbs energy | 12 |
+| formation | 10 |
+| activity / EMF / Gibbs energy | 6 |
 | crystal structure | 7 |
 
 ## Calculated phase diagrams
@@ -120,20 +120,10 @@ Table: Invariant reactions reported in the literature for the Mg–Y system (27)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mg–Y system (20)
+Table: Enthalpies of formation, Mg–Y system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -30.3 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 2 |  |
-| UNKNOWN |  | -17.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Bonhomme 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2901927-8) | Table 4, p. 5, row 8 |  |
-| UNKNOWN |  | -15.6 kJ/mol-atom |  | model |  |  | [1] Fabrichnaya 2003 | Table 4, p. 5, row 3 |  |
-| UNKNOWN |  | -14.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 6 |  |
-| UNKNOWN |  | -12.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 1 |  |
-| UNKNOWN |  | -12.6 kJ/mol-atom |  | model |  |  | [1] Fabrichnaya 2003 | Table 4, p. 5, row 9 |  |
-| UNKNOWN |  | -12 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 7 |  |
-| UNKNOWN |  | -7.8 kJ/mol-atom |  | model |  |  | [1] Fabrichnaya 2003 | Table 4, p. 5, row 14 |  |
-| UNKNOWN |  | -7.53 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 12 |  |
-| UNKNOWN |  | -6.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 13 |  |
 | Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.8 kJ/mol-atom |  | model | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003 | Table 4, p. 5, row 14 |  |
 | Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -7.53 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 12 |  |
 | Y5Mg24 | [Mg24Y5](https://data.orchid-project.org/compounds/Mg24Y5.html) | -6.1 kJ/mol-atom | 298.15 | experimental | -5.219 (mp-aaaaacym) | -5.806 (oqmd-19035) | [1] Fabrichnaya 2003; _cites Pyagai 1990_ | Table 4, p. 5, row 13 |  |
@@ -147,18 +137,12 @@ Table: Enthalpies of formation, Mg–Y system (20)
 
 ## Other properties
 
-### Activity / EMF / Gibbs energy (12)
+### Activity / EMF / Gibbs energy (6)
 
 Table: Activity / EMF / Gibbs energy, Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG_ | -7.95 kJ/mol-at |  | UNKNOWN | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 15 |  |
-| Gibbs energy; _printed: ΔG_ | -12.14 kJ/mol-at |  | UNKNOWN | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 4 |  |
-| Gibbs energy; _printed: ΔG_ | -11.94 kJ/mol-at |  | UNKNOWN | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 11 |  |
-| Gibbs energy; _printed: ΔG_ | -12.56 kJ/mol-at |  | UNKNOWN | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 10 |  |
-| Gibbs energy; _printed: ΔG_ | -7.46 kJ/mol-at |  | UNKNOWN | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 16 |  |
-| Gibbs energy; _printed: ΔG_ | -14.47 kJ/mol-at |  | UNKNOWN | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 5 |  |
 | Gibbs energy; _printed: ΔG_ | -7.95 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 15 |  |
 | Gibbs energy; _printed: ΔG_ | -7.46 kJ/mol-at |  | Y5Mg24; _alloy: Y 0.172414_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 16 |  |
 | Gibbs energy; _printed: ΔG_ | -12.14 kJ/mol-at |  | YMg; _alloy: Y 0.5_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 4 |  |

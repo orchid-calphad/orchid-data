@@ -1,10 +1,10 @@
 # Nb–Re system
 
-> Nb–Re system: 68 accepted literature values (invariant reaction 27, formation 25, crystal structure 15, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Re system: 62 accepted literature values (invariant reaction 26, formation 20, crystal structure 15, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-RE.html · Markdown: https://data.orchid-project.org/systems/NB-RE.md
 
-68 accepted literature values from 2 paper(s) (experimental 20, model 35, DFT 13); 2 calculated phase diagram(s).
+62 accepted literature values from 2 paper(s) (experimental 20, model 29, DFT 13); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-RE.json) · [CSV](https://data.orchid-project.org/systems/NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-RE/NbRe-13Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NB-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/NB-RE.md)
 
@@ -13,16 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 35 |
+| model | 29 |
 | DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 26 |
 | phase transition | 1 |
-| formation | 25 |
+| formation | 20 |
 | crystal structure | 15 |
 
 ## Calculated phase diagrams
@@ -53,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nb–Re system (27)
+Table: Invariant reactions reported in the literature for the Nb–Re system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -83,29 +83,23 @@ Table: Invariant reactions reported in the literature for the Nb–Re system (27
 | 2460 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.54 | experimental | [2] Liu 2013; _cites Giessen 1961_ | Table 6, p. 9, row 6 |  |
 | 2441 | eutectoid: σ -> bcc + χ (eutectoid) | σ: Re 0.57 | model | [2] Liu 2013 | Table 6, p. 9, row 5 |  |
 | 2441 | σ ↔ bcc + χ | L: Re 0.57 | DFT | [1] Yen 2020; _cites Liu 2013_ | Table VIII, p. 44, row 11 |  |
-| 2436 | σ ↔ bcc + χ | L: Re 0.601 | model | [1] Yen 2020 | Table VIII, p. 44, row 12 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Re system (13)
+Table: Enthalpies of formation, Nb–Re system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | -13.542 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | p. 4 | “Table 3 depicts that the ΔfH for χ-(Re)24(Nb)10(Re)24 calculated with the Debye-Grüneisen model at 298 K in this work is -13.542 kJ/mol atom.” |
-| (σ) |  | -407.638 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
 | (σ) |  | -67.417 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
 | (σ) |  | -13.588 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
 | (σ) |  | -2.247 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
-| (χ) |  | -785.46 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
-| (χ) |  | -610.088 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
 | (χ) |  | -13.542 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
 | (χ) |  | -10.519 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
 | (χ) |  | 4.359 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
 | (χ) |  | 4.423 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 3 |  |
-| (χ) |  | 252.829 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
-| (χ) |  | 256.567 kJ/mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 3 |  |
 
 ## Other properties
 

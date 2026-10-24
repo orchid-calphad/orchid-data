@@ -103,6 +103,7 @@
   "observations": [
    {
     "id": "ORC-EVFCA6NKVJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497198770341923",
     "measured_in": "ref:258b1b82c4fa88f1",
     "caveats": [
@@ -111,6 +112,7 @@
    },
    {
     "id": "ORC-Z5225J6WZS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497198770341923",
     "measured_in": "ref:258b1b82c4fa88f1"
    }

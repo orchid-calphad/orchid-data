@@ -1,10 +1,10 @@
 # Ho–Ni system
 
-> Ho–Ni system: 147 accepted literature values (invariant reaction 71, formation 43, phase transition 24, heat capacity / entropy / enthalpy 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Ni system: 146 accepted literature values (invariant reaction 71, formation 42, phase transition 24, heat capacity / entropy / enthalpy 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-NI.html · Markdown: https://data.orchid-project.org/systems/HO-NI.md
 
-147 accepted literature values from 2 paper(s) (experimental 44, model 89, unspecified 14); 2 calculated phase diagram(s).
+146 accepted literature values from 2 paper(s) (experimental 44, model 88, unspecified 14); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-NI.json) · [CSV](https://data.orchid-project.org/systems/HO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-NI/HoNi-15Kar.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-NI.html) · [Markdown](https://data.orchid-project.org/systems/HO-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 44 |
-| model | 89 |
+| model | 88 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 71 |
 | phase transition | 24 |
-| formation | 43 |
+| formation | 42 |
 | heat capacity / entropy / enthalpy | 9 |
 
 ## Calculated phase diagrams
@@ -248,7 +248,7 @@ Table: Phase transition, Ho–Ni system
 | Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | model | [1] Kardellass 2015 | Table 6, p. 7, row 2 |  |
 | Phase transition | 1747.15 K | 1747.15 | L -> (Ho); _L: Ni 0; (Ho): Ni 0_ | experimental | [1] Kardellass 2015 | Table 6, p. 7, row 1 |  |
 
-### Formation (9)
+### Formation (8)
 
 Table: Formation, Ho–Ni system
 
@@ -257,7 +257,6 @@ Table: Formation, Ho–Ni system
 | Entropy of formation | 33.56 J/mol-atom/K | 298.15 | Ho2Ni17; _alloy: Ni 0.894737_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 33 |  |
 | Entropy of formation | 36.3 J/mol-atom/K | 298.15 | Ho2Ni7; _alloy: Ni 0.777778_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 25 |  |
 | Entropy of formation | 59.24 J/mol-atom/K | 298.15 | Ho3Ni; _alloy: Ni 0.25_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 3 |  |
-| Entropy of formation | 63.25 J/mol-atom/K | 298.15 | Ho3Ni2_HT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 9 |  |
 | Entropy of formation | 53.31 J/mol-atom/K | 298.15 | Ho3Ni2_LT; _alloy: Ni 0.4_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 7 |  |
 | Entropy of formation | 46.21 J/mol-atom/K | 298.15 | HoNi; _alloy: Ni 0.5_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
 | Entropy of formation | 42.32 J/mol-atom/K | 298.15 | HoNi2; _alloy: Ni 0.666667_ | model | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |

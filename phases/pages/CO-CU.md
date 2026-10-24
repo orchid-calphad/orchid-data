@@ -78,7 +78,7 @@ _reports values for this phase_
 - Id: `phase:co-cu:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1877.99 K, x(Cu) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 12 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-cu:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:co-cu:fcc-a1  
@@ -187,7 +187,7 @@ _assessment that models this phase_
 - Id: `phase:co-cu:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300.27–2500 K, x(Cu) 0–1
-- Literature: 65 values (65 accepted) from 2 papers
+- Literature: 65 values (64 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-cu:liquid)
 
 Names (7): _corpus: _corpus:phase:co-cu:liquid  

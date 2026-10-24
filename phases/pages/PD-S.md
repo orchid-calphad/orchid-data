@@ -17,10 +17,10 @@ Table: Phases of the Pd–S system (10)
 | [FCC_A1](#phase-pd-s-fcc-a1); _phase:pd-s:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1852.05 K, x(S) 0–0 | 2 | 1 |
 | [HCP_A3](#phase-pd-s-hcp-a3); _phase:pd-s:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pd-s-liquid); _phase:pd-s:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(S) 0–1 | 10 | 1 |
-| [PD16S7](#phase-pd-s-pd16s7); _phase:pd-s:pd16s7_ | Pd16S7 · cI46 · I-43m (217) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–917.23 K, x(S) 0.30435–0.30435 | 10 | 1 |
-| [PD3S](#phase-pd-s-pd3s); _phase:pd-s:pd3s_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 836.33–918.75 K, x(S) 0.25–0.25 | 10 | 1 |
-| [PD4S](#phase-pd-s-pd4s); _phase:pd-s:pd4s_ | Pd4Se · tP10 · P-42_1c (114) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1047.05 K, x(S) 0.2–0.2 | 12 | 1 |
-| [PDS_B34](#phase-pd-s-pds-b34); _phase:pd-s:pds-b34_ | PdS · B34 · tP16 · P4_2/m (84) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1272.85 K, x(S) 0.5–0.5 | 10 | 1 |
+| [PD16S7](#phase-pd-s-pd16s7); _phase:pd-s:pd16s7_ | Pd16S7 · cI46 · I-43m (217) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–917.23 K, x(S) 0.30435–0.30435 | 9 | 1 |
+| [PD3S](#phase-pd-s-pd3s); _phase:pd-s:pd3s_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 836.33–918.75 K, x(S) 0.25–0.25 | 9 | 1 |
+| [PD4S](#phase-pd-s-pd4s); _phase:pd-s:pd4s_ | Pd4Se · tP10 · P-42_1c (114) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1047.05 K, x(S) 0.2–0.2 | 11 | 1 |
+| [PDS_B34](#phase-pd-s-pds-b34); _phase:pd-s:pds-b34_ | PdS · B34 · tP16 · P4_2/m (84) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1272.85 K, x(S) 0.5–0.5 | 9 | 1 |
 | [MONOCLINIC_S](#phase-pd-s-s-monoclinic); _phase:pd-s:s-monoclinic_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 368.3–2499.55 K, x(S) 1–1 | 0 | 1 |
 
 ## ORTHORHOMBIC_A16 (Pd–S)
@@ -166,7 +166,7 @@ _cited as the source of values for this phase_
 - Structure: Pd16S7 · cI46 · I-43m (217); type `st:pd16s7-ci46`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Pd 0.6957, S 0.3043
 - Stability: stable in 1 of 1 calculated diagram(s): 300–917.23 K, x(S) 0.30435–0.30435
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-s:pd16s7)
 
 Names (5): _corpus: _corpus:phase:pd-s:pd16s7  
@@ -210,7 +210,7 @@ _cited as the source of values for this phase_
 - Candidate (dft_space_group_and_stoichiometry): NdTe3 · oC16 · Cmcm (63) — space group 63 and stoichiometry match
 - Stoichiometry: Pd 0.7500, S 0.2500
 - Stability: stable in 1 of 1 calculated diagram(s): 836.33–918.75 K, x(S) 0.25–0.25
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-s:pd3s)
 
 Names (3): _corpus: _corpus:phase:pd-s:pd3s  
@@ -244,7 +244,7 @@ _cited as the source of values for this phase_
 - Structure: Pd4Se · tP10 · P-42_1c (114); type `st:pd4se-tp10`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Pd 0.8000, S 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1047.05 K, x(S) 0.2–0.2
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-s:pd4s)
 
 Names (5): _corpus: _corpus:phase:pd-s:pd4s  
@@ -282,7 +282,7 @@ _cited as the source of values for this phase_
 - Structure: PdS · B34 · tP16 · P4_2/m (84); type `st:b34-pds-tp16`; tier A: standard phase name; confidence high
 - Stoichiometry: Pd 0.5000, S 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1272.85 K, x(S) 0.5–0.5
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-s:pds-b34)
 
 Names (3): _corpus: _corpus:phase:pd-s:pds-b34  

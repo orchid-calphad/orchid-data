@@ -403,21 +403,25 @@
   "observations": [
    {
     "id": "ORC-MZWUFUOECL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-WBNRTBK2YV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-W7MW5KQZZS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-2CTSNC4ZBM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20",
     "caveats": [
@@ -426,41 +430,49 @@
    },
    {
     "id": "ORC-X45FPHSIRN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-O2TFZVXUY4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-M4O2SF7JAY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-GXU74KI3SD",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-E53EH7EWCE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-P66Y2HII7X",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-OUPOVMIIQC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    },
    {
     "id": "ORC-AKNVMKWN3M",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2017.07.129",
     "measured_in": "unresolved:source:doi:10-1016-j-jallcom-2017-07-129#20"
    }

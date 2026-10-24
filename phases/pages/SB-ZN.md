@@ -1212,7 +1212,7 @@ _assessment that models this phase_
 - Id: `phase:sb-zn:sbzn-be`; status `assigned`
 - Structure: CdSb · B_e · oP16 · Pbca (61); type `st:b-e-cdsb-op16`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–838.84 K, x(Zn) 0.4902–0.5
-- Literature: 62 values (62 accepted) from 2 papers
+- Literature: 62 values (61 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-zn:sbzn-be)
 
 Names (11): _corpus: _corpus:phase:sb-zn:sbzn-be  

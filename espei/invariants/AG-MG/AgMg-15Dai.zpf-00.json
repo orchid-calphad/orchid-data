@@ -61,6 +61,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-24KCP6PM7L",
@@ -71,6 +72,7 @@
   "observations": [
    {
     "id": "ORC-24KCP6PM7L",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2014.08.075"
    }
   ],

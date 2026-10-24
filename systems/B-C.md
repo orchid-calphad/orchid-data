@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/B-C.html · Markdown: https://data.orchid-project.org/systems/B-C.md
 
-15 accepted literature values from 4 paper(s) (experimental 6, model 6, unspecified 3); 5 calculated phase diagram(s).
+15 accepted literature values from 4 paper(s) (experimental 6, model 5, DFT 1, unspecified 3); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-C.json) · [CSV](https://data.orchid-project.org/systems/B-C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-C/BC-12Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/B-C.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C.html) · [Markdown](https://data.orchid-project.org/systems/B-C.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 6 |
+| model | 5 |
+| DFT | 1 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -79,11 +80,11 @@ Table: Phase transition, B–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1388 K | 1388 | a-boron = b-boron | model | [2] Saengdeejing 2012; _cites Shang 2007_ [doi](https://doi.org/10.1103/physrevb.75.092101) | p. 2 | “Using density functional theory, Shang et al. \[20\] showed that a-boron is more stable than bboron at low temperatures in the defect-free structure and predicted the a to b transition temperature at 1388 K.” |
-| Phase transition | 1823 K | 1823 | C + B | experimental | [3] ZINKEVICH 2007; _cites Foex 1966_ | p. 17 | “For Tb2O3, the straight line is obtained with the lowest measured transition temperature at normal pressure, 1823 K \[3\], which is selected as a probable value.” |
-| Phase transition | 2145 K | 2145 | C + B | model | [3] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
+| Phase transition | 1388 K | 1388 | a-boron = b-boron | DFT | [2] Saengdeejing 2012; _cites Shang 2007_ [doi](https://doi.org/10.1103/physrevb.75.092101) | p. 2 | “Using density functional theory, Shang et al. \[20\] showed that a-boron is more stable than bboron at low temperatures in the defect-free structure and predicted the a to b transition temperature at 1388 K.” |
+| Phase transition | 1823 K | 1823 | B | experimental | [3] ZINKEVICH 2007; _cites Foex 1966_ | p. 17 | “For Tb2O3, the straight line is obtained with the lowest measured transition temperature at normal pressure, 1823 K \[3\], which is selected as a probable value.” |
+| Phase transition | 2145 K | 2145 | B | model | [3] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
 | Phase transition | 2348.15 K | 2348.15 |  | experimental | [4] Rogl 2014 | p. 1 | “Relative to the thermodynamically accepted melting point of pure ßB (TM 1⁄42075 1C), the calculated reaction isotherm is determined at 2100.6 1C, a peritectic point at 0.75 at% C and a maximum solid solubility of 1.43 at% C in (ßB) at reaction temperature.” |
-| Phase transition | 2445 K | 2445 | C + B | model | [3] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
+| Phase transition | 2445 K | 2445 | B | model | [3] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
 | Phase transition | 2720 K | 2720 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | model | [2] Saengdeejing 2012 | Table 5, p. 7, row 1 |  |
 | Phase transition | 2723 K | 2723 | Liquid -> B4+xC; _Liquid: C 0.2; B4+xC: C 0.2_ | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | Table 5, p. 7, row 2 |  |
 | Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2 | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |

@@ -1,10 +1,10 @@
 # Pd–Sn system
 
-> Pd–Sn system: 235 accepted literature values (invariant reaction 105, crystal structure 56, formation 52, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Sn system: 209 accepted literature values (invariant reaction 105, crystal structure 56, formation 26, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SN.html · Markdown: https://data.orchid-project.org/systems/PD-SN.md
 
-235 accepted literature values from 2 paper(s) (experimental 121, model 74, unspecified 40); 3 calculated phase diagram(s).
+209 accepted literature values from 2 paper(s) (experimental 111, model 67, unspecified 31); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SN.json) · [CSV](https://data.orchid-project.org/systems/PD-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SN/PdSn-06Viz.json) · [phases (18)](https://data.orchid-project.org/phases/pages/PD-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SN.html) · [Markdown](https://data.orchid-project.org/systems/PD-SN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 121 |
-| model | 74 |
-| unspecified | 40 |
+| experimental | 111 |
+| model | 67 |
+| unspecified | 31 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 105 |
 | phase transition | 4 |
-| formation | 52 |
+| formation | 26 |
 | mixing / partial | 18 |
 | crystal structure | 56 |
 
@@ -205,7 +205,7 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Sn system (52)
+Table: Enthalpies of formation, Pd–Sn system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -231,32 +231,6 @@ Table: Enthalpies of formation, Pd–Sn system (52)
 | PdSn4 | [PdSn4](https://data.orchid-project.org/compounds/PdSn4.html) | -28.56 kJ/mol-atom | 298.15 | unspecified | -22.852 (mp-aaaaaddw) | -29.96 (oqmd-17952) | [2] Ghosh 1999 | Table V, p. 8, row 26 |  |
 | PdSn4 | [PdSn4](https://data.orchid-project.org/compounds/PdSn4.html) | -28.339 kJ/mol-atom ± 0.335 | 273 | experimental | -22.852 (mp-aaaaaddw) | -29.96 (oqmd-17952) | [2] Ghosh 1999; _cites Guadagno 1968_ | Table V, p. 8, row 24 |  |
 | PdSn4 | [PdSn4](https://data.orchid-project.org/compounds/PdSn4.html) | -27.841 kJ/mol-atom ± 0.075 | 320 | experimental | -22.852 (mp-aaaaaddw) | -29.96 (oqmd-17952) | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 23 |  |
-| UNKNOWN |  | -69 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 8 |  |
-| UNKNOWN |  | -69 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 14 |  |
-| UNKNOWN |  | -64.575 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 9 |  |
-| UNKNOWN |  | -64.517 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 10 |  |
-| UNKNOWN |  | -64.286 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 11 |  |
-| UNKNOWN |  | -64.222 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 6 |  |
-| UNKNOWN |  | -64 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 5 |  |
-| UNKNOWN |  | -63.996 kJ/mol-atom ± 0.088 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 4 |  |
-| UNKNOWN |  | -62.351 kJ/mol-atom ± 0.276 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 7 |  |
-| UNKNOWN |  | -61.166 kJ/mol-atom ± 0.184 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 12 |  |
-| UNKNOWN |  | -60.997 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 15 |  |
-| UNKNOWN |  | -60.363 kJ/mol-atom ± 0.335 | 273 | experimental |  |  | [2] Ghosh 1999; _cites Guadagno 1968_ | Table V, p. 8, row 13 |  |
-| UNKNOWN |  | -59 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 2 |  |
-| UNKNOWN |  | -58.976 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 3 |  |
-| UNKNOWN |  | -58.579 kJ/mol-atom ± 0.218 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 1 |  |
-| UNKNOWN |  | -52 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 18 |  |
-| UNKNOWN |  | -44.104 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 19 |  |
-| UNKNOWN |  | -44.1 kJ/mol-atom ± 0.172 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 16 |  |
-| UNKNOWN |  | -43.744 kJ/mol-atom ± 0.251 | 273 | experimental |  |  | [2] Ghosh 1999; _cites Guadagno 1968_ | Table V, p. 8, row 17 |  |
-| UNKNOWN |  | -39 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 21 |  |
-| UNKNOWN |  | -34.826 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 22 |  |
-| UNKNOWN |  | -33.878 kJ/mol-atom ± 0.125 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 20 |  |
-| UNKNOWN |  | -31 kJ/mol-atom | 298.15 | model |  |  | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 25 |  |
-| UNKNOWN |  | -28.56 kJ/mol-atom | 298.15 | unspecified |  |  | [2] Ghosh 1999 | Table V, p. 8, row 26 |  |
-| UNKNOWN |  | -28.339 kJ/mol-atom ± 0.335 | 273 | experimental |  |  | [2] Ghosh 1999; _cites Guadagno 1968_ | Table V, p. 8, row 24 |  |
-| UNKNOWN |  | -27.841 kJ/mol-atom ± 0.075 | 320 | experimental |  |  | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 23 |  |
 | α-Pd3Sn2 | [Pd3Sn2](https://data.orchid-project.org/compounds/Pd3Sn2.html) | -69 kJ/mol-atom | 298.15 | model |  | -54.261 (oqmd-1797420) | [2] Ghosh 1999; _cites F 1988_ | Table V, p. 8, row 8 |  |
 | α-Pd3Sn2 | [Pd3Sn2](https://data.orchid-project.org/compounds/Pd3Sn2.html) | -64.575 kJ/mol-atom | 298.15 | unspecified |  | -54.261 (oqmd-1797420) | [2] Ghosh 1999 | Table V, p. 8, row 9 |  |
 | α-Pd3Sn2 | [Pd3Sn2](https://data.orchid-project.org/compounds/Pd3Sn2.html) | -62.351 kJ/mol-atom ± 0.276 | 320 | experimental |  | -54.261 (oqmd-1797420) | [2] Ghosh 1999; _cites Bryant 1970_ | Table V, p. 8, row 7 |  |

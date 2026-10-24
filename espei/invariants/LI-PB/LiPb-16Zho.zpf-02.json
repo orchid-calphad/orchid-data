@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-36OBL4OGEX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2016.04.061",
     "measured_in": "ref:2ea629fcd2c32d34"
    }

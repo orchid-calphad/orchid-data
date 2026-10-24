@@ -100,6 +100,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SSVBDZXFUS ORC-V352TF7SI7",
@@ -110,10 +111,12 @@
   "observations": [
    {
     "id": "ORC-SSVBDZXFUS",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-V352TF7SI7",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    }
   ],

@@ -1,10 +1,10 @@
 # Al–Ni system
 
-> Al–Ni system: 204 accepted literature values (invariant reaction 110, formation 53, phase transition 23, mixing / partial 10) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni system: 194 accepted literature values (invariant reaction 110, formation 43, phase transition 23, mixing / partial 10) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI.html · Markdown: https://data.orchid-project.org/systems/AL-NI.md
 
-204 accepted literature values from 11 paper(s) (experimental 91, model 103, DFT 3, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+194 accepted literature values from 11 paper(s) (experimental 86, model 98, DFT 3, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NI/AlNi-01Dup-4sl-old.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 91 |
-| model | 103 |
+| experimental | 86 |
+| model | 98 |
 | DFT | 3 |
 | unspecified | 7 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 110 |
 | phase transition | 23 |
-| formation | 53 |
+| formation | 43 |
 | mixing / partial | 10 |
 | heat capacity / entropy / enthalpy | 3 |
 | activity / EMF / Gibbs energy | 5 |
@@ -329,7 +329,7 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ni system (53)
+Table: Enthalpies of formation, Al–Ni system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -368,16 +368,6 @@ Table: Enthalpies of formation, Al–Ni system (53)
 | Ni3Al |  | -42 per mol-atom | 300 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 2 |  |
 | Ni3Al |  | -41.6 per mol-atom ± 1.2 | 756 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 5 |  |
 | Ni3Al |  | -41.3 per mol-atom ± 1.3 | 300 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1 |  |
-| UNKNOWN |  | -43.2 per mol-atom | 756 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 6 |  |
-| UNKNOWN |  | -43.2 per mol-atom | 947 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 8 |  |
-| UNKNOWN |  | -42.9 per mol-atom | 1123 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 10 |  |
-| UNKNOWN |  | -42.3 per mol-atom | 521 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 4 |  |
-| UNKNOWN |  | -42.3 per mol-atom ± 1.6 | 1123 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 9 |  |
-| UNKNOWN |  | -42.2 per mol-atom ± 1.2 | 947 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 7 |  |
-| UNKNOWN |  | -42 per mol-atom ± 1.1 | 521 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 3 |  |
-| UNKNOWN |  | -42 per mol-atom | 300 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 2 |  |
-| UNKNOWN |  | -41.6 per mol-atom ± 1.2 | 756 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 5 |  |
-| UNKNOWN |  | -41.3 per mol-atom ± 1.3 | 300 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1 |  |
 | γ′ (Ni3Al) |  | -49.6 kJ/mol (basis unstated) ± 1.3 | 980 | experimental |  |  | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
 | γ′ (Ni3Al) |  | -44.8 kJ/mol (basis unstated) | 980 | model |  |  | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
 | γ′ (Ni3Al) |  | -41.7 kJ/mol (basis unstated) | 1600 | model |  |  | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |

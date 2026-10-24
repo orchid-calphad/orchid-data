@@ -311,21 +311,25 @@
   "observations": [
    {
     "id": "ORC-WXR3E3EKBZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    },
    {
     "id": "ORC-KGZZHEC7DH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    },
    {
     "id": "ORC-DYQ5SA4VDK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    },
    {
     "id": "ORC-RGWRBIKAR6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044",
     "also_reported_as": [
@@ -339,16 +343,19 @@
    },
    {
     "id": "ORC-BYSXU6BUJA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    },
    {
     "id": "ORC-YKJNXJEDN6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    },
    {
     "id": "ORC-56WVQKPTF3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.1016/j.jnucmat.2014.03.044"
    }

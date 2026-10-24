@@ -1,10 +1,10 @@
 # Ag–Y system
 
-> Ag–Y system: 28 accepted literature values (invariant reaction 28) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Y system: 27 accepted literature values (invariant reaction 27) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-Y.html · Markdown: https://data.orchid-project.org/systems/AG-Y.md
 
-28 accepted literature values from 1 paper(s) (experimental 18, model 10); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 17, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-Y.json) · [CSV](https://data.orchid-project.org/systems/AG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-Y/AgY-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-Y.html) · [Markdown](https://data.orchid-project.org/systems/AG-Y.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 17 |
 | model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 28 |
+| invariant reaction | 27 |
 
 ## Calculated phase diagrams
 
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Y system (28)
+Table: Invariant reactions reported in the literature for the Ag–Y system (27)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -82,7 +82,6 @@ Table: Invariant reactions reported in the literature for the Ag–Y system (28)
 | 1070.25 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.105; Ag51Y14: Y 0.2; (Ag): Y 0.016 | model | [1] Wang 2009 | Table 3, p. 3, row 21 |  |
 | 1048.15 | eutectic: L ↔ (Ag) + Ag51 Y14 |  | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | p. 1 | “less than 1 at.% at 775 ◦ C and four eutectic reactions: L ↔ (Ag) + Ag51 Y14 at 11.5 at.% Y and 775 ◦ C, L ↔ Ag51 Y14 + Ag2 Y at 29 at.% Y and 900 ◦ C, L ↔ Ag2 Y + AgY at 35 at.% Y and 945 ◦ C, and L ↔ AgY + ␣Y at 72.5 at.% Y and 885 ◦ C.” |
 | 1048.15 | eutectic: L ↔ Ag51Y14 + (Ag) | L: Y 0.115; Ag51Y14: Y 0.226 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 19 |  |
-| 294.65 | congruent melting: L ↔ Ag51Y14 | L: Y 0.215; Ag51Y14: Y 0.215 | experimental | [1] Wang 2009; _cites Gschneidner 1971_ | Table 3, p. 3, row 17 |  |
 
 ## Sources
 

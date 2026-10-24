@@ -229,22 +229,27 @@
   "observations": [
    {
     "id": "ORC-ONG5OVQRRL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.03.010"
    },
    {
     "id": "ORC-UKLQTNEFEW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.03.010"
    },
    {
     "id": "ORC-VGJK25FWKY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.03.010"
    },
    {
     "id": "ORC-EBGO3EI5UM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.03.010"
    },
    {
     "id": "ORC-J6FVTSOC57",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2010.03.010"
    }
   ],

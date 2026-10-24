@@ -1,21 +1,20 @@
 # Ge3Ni5: enthalpy of formation
 
-> Enthalpy of formation of Ge3Ni5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ge3Ni5: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ge3Ni5.html · Markdown: https://data.orchid-project.org/compounds/Ge3Ni5.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 1, DFT 2); experimental median -37 kJ/mol-atom (n = 1); Materials Project -30.009 kJ/mol-atom (mp-aaaaaccy); OQMD -31.355 kJ/mol-atom (oqmd-647287).
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -37 kJ/mol-atom (n = 1); Materials Project -30.009 kJ/mol-atom (mp-aaaaaccy); OQMD -31.355 kJ/mol-atom (oqmd-647287).
 
 Systems: [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ge3Ni5 reported in the literature (3)
+Table: Enthalpy of formation of Ge3Ni5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -37 kJ/mol-atom | εNi5Ge3 (Ni5Ge3) | 1063 | experimental | Calorimetry | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 12 |  |
-| -33.8 kJ/mol-atom | ε′Ni5Ge3 | 0 | DFT | DFT | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 6 |  |
 | -33.8 kJ/mol-atom | ε'Ni5Ge3 | 0 | DFT | DFT | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 6 |  |
 
 ## DFT formation energies

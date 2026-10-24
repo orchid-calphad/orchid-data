@@ -13,7 +13,7 @@ Table: Phases of the Na–Sb system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-na-sb-a7-rhombohedral); _phase:na-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 2 | 2 |
-| [BCC_A2](#phase-na-sb-bcc-a2); _phase:na-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–370.87 K, x(Sb) 0–0 | 2 | 2 |
+| [BCC_A2](#phase-na-sb-bcc-a2); _phase:na-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–370.87 K, x(Sb) 0–0 | 0 | 2 |
 | [FCC_A1](#phase-na-sb-fcc-a1); _phase:na-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-na-sb-hcp-a3); _phase:na-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-na-sb-liquid); _phase:na-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 370.87–2500 K, x(Sb) 0–1 | 12 | 2 |
@@ -64,11 +64,10 @@ _cited as the source of values for this phase_
 - Id: `phase:na-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–370.87 K, x(Sb) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:na-sb:bcc-a2  
-_paper: _paper:10.1016/j.tca.2013.07.009:Na  
+Names (3): _corpus: _corpus:phase:na-sb:bcc-a2  
 _tdb: _tdb:NaSb-13Liu.tdb:BCC_A2, tdb:NaSb-17Dre.tdb:BCC_A2  
 
 
@@ -88,14 +87,12 @@ _tdb: _tdb:NaSb-13Liu.tdb:BCC_A2, tdb:NaSb-17Dre.tdb:BCC_A2
 43: CONST BCC_A2 : NA% SB : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.tca.2013.07.009](https://doi.org/10.1016/j.tca.2013.07.009) Yajun Liu, Jun Xu, Zhitao Kang, Jiang Wang, Thermodynamic descriptions and phase diagrams for Sb–Na and Sb–K binary systems, Thermochimica Acta 569, 119-126 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
 _assessment that models this phase_
-- [doi:10.1002/zaac.19060500118](https://doi.org/10.1002/zaac.19060500118) C. H. Mathewson, Metallographische Mitteilung aus dem Institut für anorganische Chemie der Universität Göttingen. XXXIV. Natrium‐Blei‐, Natrium‐Kadmium‐, Natrium‐Wismut‐ und Natrium‐Antimonlegierungen, Z. Anorg. Chem. 50, 171-198 (1906).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.tca.2013.07.009](https://doi.org/10.1016/j.tca.2013.07.009) Yajun Liu, Jun Xu, Zhitao Kang, Jiang Wang, Thermodynamic descriptions and phase diagrams for Sb–Na and Sb–K binary systems, Thermochimica Acta 569, 119-126 (2013).  
+_assessment that models this phase_
 
 ## FCC_A1 (Na–Sb)
 

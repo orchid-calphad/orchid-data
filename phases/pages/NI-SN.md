@@ -14,13 +14,13 @@ Table: Phases of the Ni–Sn system (12)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ni-sn-a4-diamond); _phase:ni-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 3 | 11 |
 | [BCT_A5](#phase-ni-sn-a5-bct); _phase:ni-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–505.08 K, x(Sn) 0.99996–1 | 12 | 11 |
-| [BCC_A2](#phase-ni-sn-bcc-a2); _phase:ni-sn:bcc-a2_ |  | needs_review | stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653 | 15 | 11 |
+| [BCC_A2](#phase-ni-sn-bcc-a2); _phase:ni-sn:bcc-a2_ |  | needs_review | stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653 | 12 | 11 |
 | [FCC_A1](#phase-ni-sn-fcc-a1); _phase:ni-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1734.24 K, x(Sn) 0–0.13456 | 20 | 11 |
 | [HCP_A3](#phase-ni-sn-hcp-a3); _phase:ni-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 11 calculated diagram(s): 504.61–504.61 K, x(Sn) 0.99054–0.99054 | 0 | 11 |
-| [LIQUID](#phase-ni-sn-liquid); _phase:ni-sn:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1 | 72 | 11 |
-| [NI3SN_D019](#phase-ni-sn-ni3sn-d019); _phase:ni-sn:ni3sn-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541 | 56 | 11 |
+| [LIQUID](#phase-ni-sn-liquid); _phase:ni-sn:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1 | 67 | 11 |
+| [NI3SN_D019](#phase-ni-sn-ni3sn-d019); _phase:ni-sn:ni3sn-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541 | 55 | 11 |
 | [NI3SN_D03](#phase-ni-sn-ni3sn-d03); _phase:ni-sn:ni3sn-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1090–1462.98 K, x(Sn) 0.09–0.27263 | 39 | 9 |
-| [NI3SN2_LT](#phase-ni-sn-ni3sn2); _phase:ni-sn:ni3sn2_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985 | 39 | 11 |
+| [NI3SN2_LT](#phase-ni-sn-ni3sn2); _phase:ni-sn:ni3sn2_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985 | 37 | 11 |
 | [NI3SN2_B82](#phase-ni-sn-ni3sn2-b82); _phase:ni-sn:ni3sn2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 414.67–1552.95 K, x(Sn) 0.37102–0.4511 | 20 | 7 |
 | [NI3SN2-LT](#phase-ni-sn-ni3sn2-lt); _phase:ni-sn:ni3sn2-lt_ |  | needs_review | no calculated diagram | 10 | 0 |
 | [NI3SN4](#phase-ni-sn-ni3sn4); _phase:ni-sn:ni3sn4_ | Ni3Sn4 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1075.85 K, x(Sn) 0.52691–0.58093 | 33 | 11 |
@@ -263,7 +263,7 @@ _cited as the source of values for this phase_
 - Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word 'A2' in the TDB name
 - Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)
 - Stability: stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:bcc-a2)
 
 Names (13): _corpus: _corpus:phase:ni-sn:bcc-a2  
@@ -605,7 +605,7 @@ _assessment that models this phase_
 - Id: `phase:ni-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1
-- Literature: 72 values (72 accepted) from 3 papers
+- Literature: 67 values (67 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:liquid)
 
 Names (16): _corpus: _corpus:phase:ni-sn:liquid  
@@ -712,7 +712,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110827](https://doi.org/10.3139/146.110827) J. Liu, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 104, 51-59(2013).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2006.10.045](https://doi.org/10.1016/j.intermet.2006.10.045) Clemens Schmetterer, Hans Flandorfer, Klaus W. Richter, Usman Saeed, Matthieu Kauffman, Pascal Roussel et al., A new investigation of the system Ni–Sn, Intermetallics 15, 869-884 (2007).  
+- [doi:10.1007/s11661-999-0085-x](https://doi.org/10.1007/s11661-999-0085-x) G. Ghosh, Thermodynamic modeling of the nickel-lead-tin system, Metall Mater Trans A 30, 1481-1494 (1999).  
 _cited as the source of values for this phase_
 
 ## NI3SN_D019 (Ni–Sn)
@@ -729,7 +729,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in NiSn-22Lia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiSn-99Gho.tdb also describes the disordered state
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541
-- Literature: 56 values (55 accepted) from 3 papers
+- Literature: 55 values (54 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:ni3sn-d019)
 
 Names (16): _corpus: _corpus:phase:ni-sn:ni3sn-d019  
@@ -960,7 +960,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): Ni3Sn2 · oP20 · Pnma (62) — Hallstedt 2025 mmc2 row for NI3SN2_LT: Ni3Sn2 (low T)
 - Candidate (tdb_comment): InNi2 · hP6 · P6_3/mmc — NiSn-03Mie.tdb: 'Prototype InNi2 (hP6, P6_3/mmc), high T and'
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985
-- Literature: 39 values (39 accepted) from 2 papers
+- Literature: 37 values (37 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:ni3sn2)
 
 Names (14): _corpus: _corpus:phase:ni-sn:ni3sn2  

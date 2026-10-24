@@ -1,10 +1,10 @@
 # Ce–Ni system
 
-> Ce–Ni system: 194 accepted literature values (invariant reaction 128, formation 32, phase transition 19, phase equilibrium 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ni system: 178 accepted literature values (invariant reaction 128, phase transition 19, formation 16, phase equilibrium 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-NI.html · Markdown: https://data.orchid-project.org/systems/CE-NI.md
 
-194 accepted literature values from 5 paper(s) (experimental 140, model 46, unspecified 8); 4 calculated phase diagram(s).
+178 accepted literature values from 5 paper(s) (experimental 124, model 46, unspecified 8); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-NI.json) · [CSV](https://data.orchid-project.org/systems/CE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-NI/CeNi-04Du-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CE-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-NI.html) · [Markdown](https://data.orchid-project.org/systems/CE-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 140 |
+| experimental | 124 |
 | model | 46 |
 | unspecified | 8 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 128 |
 | phase transition | 19 |
 | phase equilibrium | 14 |
-| formation | 32 |
+| formation | 16 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -254,26 +254,10 @@ Table: Invariant reactions reported in the literature for the Ce–Ni system (12
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–Ni system (32)
+Table: Enthalpies of formation, Ce–Ni system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -41.3 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 12 |  |
-| UNKNOWN |  | -37.9 kJ/mol-atom | 903 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 11 |  |
-| UNKNOWN |  | -37.2 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 9 |  |
-| UNKNOWN |  | -36.8 kJ/mol-atom | 1093 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 16 |  |
-| UNKNOWN |  | -36 kJ/mol-atom | 913 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 14 |  |
-| UNKNOWN |  | -35.6 kJ/mol-atom | 923 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 8 |  |
-| UNKNOWN |  | -34.5 kJ/mol-atom | 953 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 13 |  |
-| UNKNOWN |  | -33.5 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 7 |  |
-| UNKNOWN |  | -32.9 kJ/mol-atom | 903 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 10 |  |
-| UNKNOWN |  | -32.2 kJ/mol-atom | 973 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 6 |  |
-| UNKNOWN |  | -31 kJ/mol-atom | 903 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 5 |  |
-| UNKNOWN |  | -28.5 kJ/mol-atom | 1043 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 15 |  |
-| UNKNOWN |  | -28 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 4 |  |
-| UNKNOWN |  | -27.2 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 3 |  |
-| UNKNOWN |  | -26.1 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 2 |  |
-| UNKNOWN |  | -16.5 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 1 |  |
 | solid Ce–Ni alloy |  | -41.3 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 12 |  |
 | solid Ce–Ni alloy |  | -37.9 kJ/mol-atom | 903 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 11 |  |
 | solid Ce–Ni alloy |  | -37.2 kJ/mol-atom | 300 | experimental |  |  | [3] Palumbo 2004 | Table 3, p. 3, row 9 |  |

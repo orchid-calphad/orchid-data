@@ -104,14 +104,17 @@
   "observations": [
    {
     "id": "ORC-POSG52LJIJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2022.179327"
    },
    {
     "id": "ORC-7RFWQASPU5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2022.179327"
    },
    {
     "id": "ORC-7J43QH2VQV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.tca.2022.179327"
    }
   ],

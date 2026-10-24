@@ -1,21 +1,20 @@
 # CaGa2: enthalpy of formation
 
-> Enthalpy of formation of CaGa2: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CaGa2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaGa2.html · Markdown: https://data.orchid-project.org/compounds/CaGa2.md
 
-3 accepted literature formation-enthalpy value(s) (DFT 1, unspecified 2); Materials Project -50.078 kJ/mol-atom (mp-aaaaaqsa); OQMD -50.802 kJ/mol-atom (oqmd-28952).
+2 accepted literature formation-enthalpy value(s) (DFT 1, unspecified 1); Materials Project -50.078 kJ/mol-atom (mp-aaaaaqsa); OQMD -50.802 kJ/mol-atom (oqmd-28952).
 
 Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaGa2 reported in the literature (3)
+Table: Enthalpy of formation of CaGa2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -49.254 kJ/mol-atom | CaGa2 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 6 |  |
-| -38.8 kJ/mol-atom ± 4.8 | CaGa2 |  | unspecified |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
 | -38.8 kJ/mol-atom ± 4.8 | CaGa2 |  | unspecified |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
 
 ## DFT formation energies

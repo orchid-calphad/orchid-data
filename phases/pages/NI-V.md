@@ -18,7 +18,7 @@ Table: Phases of the Ni–V system (12)
 | [FCC_A1](#phase-ni-v-fcc-a1); _phase:ni-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1729.8 K, x(V) 0–0.46504 | 20 | 7 |
 | [HCP_A3](#phase-ni-v-hcp-a3); _phase:ni-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 7 |
 | [LIQUID](#phase-ni-v-liquid); _phase:ni-v:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1459.93–4000 K, x(V) 0–1 | 9 | 7 |
-| [NI2V](#phase-ni-v-ni2v); _phase:ni-v:ni2v_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1208.99 K, x(V) 0.33333–0.33333 | 16 | 7 |
+| [NI2V](#phase-ni-v-ni2v); _phase:ni-v:ni2v_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1208.99 K, x(V) 0.33333–0.33333 | 12 | 7 |
 | [NI2V7_A15](#phase-ni-v-ni2v7-a15); _phase:ni-v:ni2v7-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1171.92 K, x(V) 0.77778–0.77778 | 2 | 2 |
 | [NI3V_D022](#phase-ni-v-ni3v-d022); _phase:ni-v:ni3v-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1333.8 K, x(V) 0.22708–0.27095 | 8 | 7 |
 | [NI8V](#phase-ni-v-ni8v); _phase:ni-v:ni8v_ | Pt8Ti · tI18 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–678.03 K, x(V) 0.11111–0.11111 | 0 | 2 |
@@ -456,7 +456,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1208.99 K, x(V) 0.33333–0.33333
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-v:ni2v)
 
 Names (10): _corpus: _corpus:phase:ni-v:ni2v  

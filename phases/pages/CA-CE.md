@@ -181,8 +181,8 @@ _assessment that models this phase_
 - Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:liquid)
 
-Names (6): _corpus: _corpus:phase:ca-ce:liquid  
-_paper: _paper:10.1007/s10853-007-2002-2:L″, paper:10.1016/j.jallcom.2007.09.020:Liquid 1, paper:10.1016/j.jallcom.2007.09.020:liquid 2  
+Names (5): _corpus: _corpus:phase:ca-ce:liquid  
+_paper: _paper:10.1007/s10853-007-2002-2:L″, paper:10.1016/j.jallcom.2007.09.020:Liquid 1  
 _tdb: _tdb:CaCe-07Ham.tdb:LIQUID, tdb:CaCe-08Zha.tdb:LIQUID  
 
 

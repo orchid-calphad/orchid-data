@@ -1,10 +1,10 @@
 # Ga–Ho system
 
-> Ga–Ho system: 109 accepted literature values (formation 76, invariant reaction 31, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Ho system: 71 accepted literature values (formation 38, invariant reaction 31, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-HO.html · Markdown: https://data.orchid-project.org/systems/GA-HO.md
 
-109 accepted literature values from 1 paper(s) (experimental 17, model 92); 1 calculated phase diagram(s).
+71 accepted literature values from 1 paper(s) (experimental 14, model 57); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-HO.json) · [CSV](https://data.orchid-project.org/systems/GA-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-HO/GaHo-20Ait.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-HO.html) · [Markdown](https://data.orchid-project.org/systems/GA-HO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 92 |
+| experimental | 14 |
+| model | 57 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 31 |
 | phase transition | 2 |
-| formation | 76 |
+| formation | 38 |
 
 ## Calculated phase diagrams
 
@@ -95,7 +95,7 @@ Table: Invariant reactions reported in the literature for the Ga–Ho system (31
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ga–Ho system (46)
+Table: Enthalpies of formation, Ga–Ho system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -122,29 +122,6 @@ Table: Enthalpies of formation, Ga–Ho system (46)
 | HoGa6 | [Ga6Ho](https://data.orchid-project.org/compounds/Ga6Ho.html) | -33.1 kJ/mol-atom | 298.15 | model | -28.329 (mp-aaackuyq) | -29.467 (oqmd-1484087) | [1] Boukideur 2020 | Table 1, p. 3, row 23 |  |
 | HoGa6 | [Ga6Ho](https://data.orchid-project.org/compounds/Ga6Ho.html) | -33 kJ/mol-atom | 298.15 | model | -28.329 (mp-aaackuyq) | -29.467 (oqmd-1484087) | [1] Boukideur 2020 | Table 1, p. 3, row 22 |  |
 | HoGa6 | [Ga6Ho](https://data.orchid-project.org/compounds/Ga6Ho.html) | -28.95 kJ/mol-atom | 298.15 | model | -28.329 (mp-aaackuyq) | -29.467 (oqmd-1484087) | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 19 |  |
-| UNKNOWN |  | -72 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 10 |  |
-| UNKNOWN |  | -71.34 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 5 |  |
-| UNKNOWN |  | -71 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 6 |  |
-| UNKNOWN |  | -71 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 11 |  |
-| UNKNOWN |  | -70 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 7 |  |
-| UNKNOWN |  | -69.04 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 12 |  |
-| UNKNOWN |  | -67.6 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 8 |  |
-| UNKNOWN |  | -62.92 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 9 |  |
-| UNKNOWN |  | -62.21 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 3 |  |
-| UNKNOWN |  | -61.2 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 4 |  |
-| UNKNOWN |  | -61.02 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 1 |  |
-| UNKNOWN |  | -57.8 kJ/mol-atom | 681.575 | experimental |  |  | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 14 |  |
-| UNKNOWN |  | -56.8 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 16 |  |
-| UNKNOWN |  | -56.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 1, p. 3, row 15 |  |
-| UNKNOWN |  | -56.8 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 18 |  |
-| UNKNOWN |  | -56.8 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 17 |  |
-| UNKNOWN |  | -56.45 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 2 |  |
-| UNKNOWN |  | -50 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 13 |  |
-| UNKNOWN |  | -35 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 21 |  |
-| UNKNOWN |  | -33.1 kJ/mol-atom | 681.575 | experimental |  |  | [1] Boukideur 2020; _cites Colinet 1994_ [doi](https://doi.org/10.1016/s0168-1273%2805%2980063-7) | Table 1, p. 3, row 20 |  |
-| UNKNOWN |  | -33.1 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 23 |  |
-| UNKNOWN |  | -33 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020 | Table 1, p. 3, row 22 |  |
-| UNKNOWN |  | -28.95 kJ/mol-atom | 298.15 | model |  |  | [1] Boukideur 2020; _cites De 2014_ | Table 1, p. 3, row 19 |  |
 
 ## Other properties
 
@@ -157,7 +134,7 @@ Table: Phase transition, Ga–Ho system
 | Phase transition | 1533.15 K | 1533.15 | congruent transformation | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
 | Phase transition | 1543.15 K | 1543.15 | congruent transformation | model | [1] Boukideur 2020 | p. 10 | “To solve the problem of the anomalous asymmetry of liquidus between 50 and 70 at.% Ga, our optimizations by the Redlich-Kister model and Kaptay model guided to a congruent point, for the compound Ho5 Ga3 at 1260 C and 0.375 at.% Ga (Redlich-Kister)/at 1270 C and 0.375 at.% Ga (Kaptay), and a eutectic reaction Liq , HoGa þ Ho5 Ga3 at 1230 C and 0.430 at.% Ga (Figs. 3, 4) instead of a peritectic re…” |
 
-### Formation (30)
+### Formation (15)
 
 Table: Formation, Ga–Ho system
 
@@ -178,21 +155,6 @@ Table: Formation, Ga–Ho system
 | Entropy of formation | -2.6685 J/mol-atom/K | 298.15 | HoGa6; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 22 |  |
 | Entropy of formation | -1.2683 J/mol-atom/K | 298.15 | HoGa6; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 23 |  |
 | Entropy of formation | 0.8342 J/mol-atom/K | 298.15 | HoGa6; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 21 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.6685 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 22 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.2683 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 23 |  |
-| Entropy of formation; _printed: ΔfS_ | 4.7116 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.5_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | 9 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.625_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.1403 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.25_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 16 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.8342 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.142857_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 21 |  |
-| Entropy of formation; _printed: ΔfS_ | 1.3493 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.625_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | 7.33 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.5_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | 1.8299 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | 3.5907 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | 1.3238 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.625_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | 2.6898 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.25_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 18 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.8896 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.5_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 7 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.0523 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.25_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 17 |  |
-| Entropy of formation; _printed: ΔfS_ | 3.801 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Boukideur 2020 | Table 1, p. 3, row 12 |  |
 
 ## Sources
 

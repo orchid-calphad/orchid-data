@@ -1,10 +1,10 @@
 # Al–B system
 
-> Al–B system: 58 accepted literature values (invariant reaction 29, formation 20, phase transition 7, other property 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–B system: 48 accepted literature values (invariant reaction 29, formation 10, phase transition 7, other property 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-B.html · Markdown: https://data.orchid-project.org/systems/AL-B.md
 
-58 accepted literature values from 3 paper(s) (experimental 14, model 39, unspecified 5); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+48 accepted literature values from 3 paper(s) (experimental 12, model 31, unspecified 5); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-B.json) · [CSV](https://data.orchid-project.org/systems/AL-B.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-B) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-B/AlB-01Luk-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-B.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-B.html) · [Markdown](https://data.orchid-project.org/systems/AL-B.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 39 |
+| experimental | 12 |
+| model | 31 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 29 |
 | phase transition | 7 |
-| formation | 20 |
+| formation | 10 |
 | other property | 2 |
 
 ## Calculated phase diagrams
@@ -123,7 +123,7 @@ Table: Invariant reactions reported in the literature for the Al–B system (29)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–B system (20)
+Table: Enthalpies of formation, Al–B system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -137,16 +137,6 @@ Table: Enthalpies of formation, Al–B system (20)
 | AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -22.3 kJ/mol-atom ± 4.2 | 298 | experimental | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
 | AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -21.8 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
 | AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -19.1 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
-| UNKNOWN |  | -50.332 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| UNKNOWN |  | -28.603 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| UNKNOWN |  | -27.8 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
-| UNKNOWN |  | -22.3 kJ/mol-atom ± 4.2 | 298 | experimental |  |  | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| UNKNOWN |  | -21.8 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
-| UNKNOWN |  | -20.469 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| UNKNOWN |  | -19.1 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
-| UNKNOWN |  | -15.45 kJ/mol-atom ± 3.2 | 298 | experimental |  |  | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| UNKNOWN |  | -15.253 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| UNKNOWN |  | -7.13 kJ/mol-atom | 298 | model |  |  | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
 
 ## Other properties
 

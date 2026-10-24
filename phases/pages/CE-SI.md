@@ -24,7 +24,7 @@ Table: Phases of the Ce–Si system (13)
 | [DHCP](#phase-ce-si-dhcp-a3); _phase:ce-si:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ce-si-fcc-a1); _phase:ce-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Si) 0–0 | 4 | 2 |
 | [HCP_A3](#phase-ce-si-hcp-a3); _phase:ce-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ce-si-liquid); _phase:ce-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 900.07–2500 K, x(Si) 0–1 | 139 | 2 |
+| [LIQUID](#phase-ce-si-liquid); _phase:ce-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 900.07–2500 K, x(Si) 0–1 | 90 | 2 |
 
 ## DIAMOND_A4 (Ce–Si)
 
@@ -525,11 +525,11 @@ _assessment that models this phase_
 - Id: `phase:ce-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 900.07–2500 K, x(Si) 0–1
-- Literature: 139 values (139 accepted) from 2 papers
+- Literature: 90 values (90 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-si:liquid)
 
-Names (6): _corpus: _corpus:phase:ce-si:liquid  
-_paper: _paper:10.1007/s11661-004-0172-y:Liquid, paper:10.1007/s11661-004-0172-y:liquid, paper:10.1016/j.tca.2016.11.003:L  
+Names (5): _corpus: _corpus:phase:ce-si:liquid  
+_paper: _paper:10.1007/s11661-004-0172-y:liquid, paper:10.1016/j.tca.2016.11.003:L  
 _tdb: _tdb:CeSi-04Gro.tdb:LIQUID, tdb:CeSi-16Hua.tdb:LIQUID  
 
 

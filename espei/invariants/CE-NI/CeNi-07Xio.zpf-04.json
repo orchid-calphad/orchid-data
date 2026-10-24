@@ -125,16 +125,19 @@
   "observations": [
    {
     "id": "ORC-UBQ2LHQBL6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2007.04.004",
     "measured_in": "ref:785ccf237b229a58"
    },
    {
     "id": "ORC-KI3CDQOJCE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2007.04.004",
     "measured_in": "ref:785ccf237b229a58"
    },
    {
     "id": "ORC-WQ4IEUZMEQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2007.04.004",
     "measured_in": "ref:785ccf237b229a58",
     "caveats": [

@@ -1,10 +1,10 @@
 # C–Cr–Nb system
 
-> C–Cr–Nb system: 10 accepted literature values (phase equilibrium 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Cr–Nb system: 11 accepted literature values (phase equilibrium 10, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CR-NB.html · Markdown: https://data.orchid-project.org/systems/C-CR-NB.md
 
-10 accepted literature values from 1 paper(s) (experimental 5, model 5); 0 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 6, model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CR-NB.json) · [CSV](https://data.orchid-project.org/systems/C-CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CR-NB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/C-CR-NB.md)
 
@@ -12,14 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 6 |
 | model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 1 |
 | phase equilibrium | 10 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the C–Cr–Nb system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1913 | eutectic |  | experimental | [1] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The melting temperature of the (NbC)þ Cr eutectic was corrected and reported as 1913 K.” |
 
 ## Other properties
 

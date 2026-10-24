@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/BiK3.html · Markdown: https://data.orchid-project.org/compounds/BiK3.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -2.05 kJ/mol-atom (n = 2); Materials Project -35.228 kJ/mol-atom (mp-aaaabuhi); OQMD -37.486 kJ/mol-atom (oqmd-24983).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); experimental median -47.15 kJ/mol-atom (n = 2); Materials Project -35.228 kJ/mol-atom (mp-aaaabuhi); OQMD -37.486 kJ/mol-atom (oqmd-24983).
 
 Systems: [Bi–K](https://data.orchid-project.org/systems/BI-K.html)
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of BiK3 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -49.2 kJ/mol-atom | BiK3 | 848 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18 |  |
-| 45.1 kJ/mol-atom ± 2.1 | BiK3 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
+| -45.1 kJ/mol-atom ± 2.1 | BiK3 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
 | -51.3 kJ/mol-atom | BiK3 | 848 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 19 |  |
 | -46.7 kJ/mol-atom | BiK3 | 523 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 17 |  |
 

@@ -72,6 +72,7 @@
   "observations": [
    {
     "id": "ORC-YNWXNBHLYP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2012.10.014",
     "measured_in": "doi:10.1016/j.actamat.2012.10.014"
    }

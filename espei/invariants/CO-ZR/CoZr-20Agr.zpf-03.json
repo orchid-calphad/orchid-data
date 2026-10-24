@@ -71,6 +71,7 @@
   "observations": [
    {
     "id": "ORC-7CCOBJSVT5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00805-5",
     "also_reported_as": [
      {

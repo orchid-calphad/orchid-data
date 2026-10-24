@@ -1,10 +1,10 @@
 # Si–W system
 
-> Si–W system: 79 accepted literature values (invariant reaction 42, phase transition 24, formation 13) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–W system: 77 accepted literature values (invariant reaction 42, phase transition 24, formation 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-W.html · Markdown: https://data.orchid-project.org/systems/SI-W.md
 
-79 accepted literature values from 3 paper(s) (experimental 63, model 16); 4 calculated phase diagram(s).
+77 accepted literature values from 3 paper(s) (experimental 61, model 16); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-W.json) · [CSV](https://data.orchid-project.org/systems/SI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-W/SiW-03Che-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/SI-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-W.html) · [Markdown](https://data.orchid-project.org/systems/SI-W.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
+| experimental | 61 |
 | model | 16 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 42 |
 | phase transition | 24 |
-| formation | 13 |
+| formation | 11 |
 
 ## Calculated phase diagrams
 
@@ -118,12 +118,10 @@ Table: Invariant reactions reported in the literature for the Si–W system (42)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si–W system (13)
+Table: Enthalpies of formation, Si–W system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -133 kJ/mol (basis unstated) ± 25 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5 |  |
-| UNKNOWN |  | -82 kJ/mol (basis unstated) ± 6 | 298.15 | experimental |  |  | [3] Li 2013; _cites Fujiwara 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.100) | Table 3, p. 3, row 5 |  |
 | W5Si3 |  | -145 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 3, p. 3, row 6 |  |
 | W5Si3 |  | -138 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Li 2013; _cites Kematick 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990543-v) | Table 3, p. 3, row 4 |  |
 | W5Si3 |  | -136 kJ/mol (basis unstated) |  | model |  |  | [3] Li 2013 | Table 3, p. 3, row 7 |  |

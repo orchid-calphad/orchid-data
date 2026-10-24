@@ -1,10 +1,10 @@
 # Cr–Hf–Ti system
 
-> Cr–Hf–Ti system: 267 accepted literature values (crystal structure 267) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Hf–Ti system: 265 accepted literature values (crystal structure 265) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-HF-TI.html · Markdown: https://data.orchid-project.org/systems/CR-HF-TI.md
 
-267 accepted literature values from 1 paper(s) (experimental 38, DFT 168, unspecified 61); 0 calculated phase diagram(s).
+265 accepted literature values from 1 paper(s) (experimental 36, DFT 168, unspecified 61); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-HF-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-HF-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-HF-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-HF-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-HF-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 36 |
 | DFT | 168 |
 | unspecified | 61 |
 
@@ -20,11 +20,11 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 267 |
+| crystal structure | 265 |
 
 ## Other properties
 
-### Crystal structure (267)
+### Crystal structure (265)
 
 Table: Crystal structure, Cr–Hf–Ti system
 
@@ -154,9 +154,7 @@ Table: Crystal structure, Cr–Hf–Ti system
 | Lattice c | 512 pm | 298.15 | NM HCP Hf; _alloy: Hf 1, Ti 0_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
 | Lattice c | 468.1 pm | 298.15 | NM HCP Ti; _alloy: Hf 0, Ti 1_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
 | Lattice c | 1647 pm | 298.15 | UNKNOWN; _alloy: Hf 0.333333, Ti 0_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
-| Lattice c | 1647 pm | 298.15 | UNKNOWN; _alloy: Hf 0.333333, Ti 0_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 8 |  |
 | Lattice c | 287.87 pm | 298.15 | UNKNOWN; _alloy: Hf 0, Ti 0_ | experimental | [1] Pavlů 2010; _cites Moroni 1993_ [doi](https://doi.org/10.1103/physrevb.47.3255) | Table 1, p. 3, row 7 |  |
-| Lattice c | 821 pm | 298.15 | UNKNOWN; _alloy: Hf 0.333333, Ti 0_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
 | Lattice c | 821 pm | 298.15 | UNKNOWN; _alloy: Hf 0.333333, Ti 0_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 1 |  |
 | Lattice c | 1601.1 pm | 298.15 | UNKNOWN; _alloy: Hf 0, Ti 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 22 |  |
 | Lattice c | 800.53 pm | 298.15 | UNKNOWN; _alloy: Hf 0, Ti 0.333333_ | experimental | [1] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 15 |  |

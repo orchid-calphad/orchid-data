@@ -143,6 +143,7 @@
   "observations": [
    {
     "id": "ORC-CUACRWTX4K",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2015.12.105",
     "also_reported_as": [
      {
@@ -154,10 +155,12 @@
    },
    {
     "id": "ORC-4PFGEN6XLK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2015.12.105"
    },
    {
     "id": "ORC-MM5FFKCSSS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2015.12.105"
    }
   ],

@@ -1,10 +1,10 @@
 # C–Zr system
 
-> C–Zr system: 48 accepted literature values (phase transition 17, invariant reaction 16, phase equilibrium 9, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Zr system: 47 accepted literature values (phase transition 17, invariant reaction 16, phase equilibrium 8, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-ZR.html · Markdown: https://data.orchid-project.org/systems/C-ZR.md
 
-48 accepted literature values from 2 paper(s) (experimental 33, model 12, unspecified 3); 0 calculated phase diagram(s).
+47 accepted literature values from 1 paper(s) (experimental 32, model 12, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-ZR.json) · [CSV](https://data.orchid-project.org/systems/C-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-ZR) · [phases (6)](https://data.orchid-project.org/phases/pages/C-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-ZR.html) · [Markdown](https://data.orchid-project.org/systems/C-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
+| experimental | 32 |
 | model | 12 |
 | unspecified | 3 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 17 |
-| phase equilibrium | 9 |
+| phase equilibrium | 8 |
 | formation | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-ZR.json)
@@ -91,13 +91,12 @@ Table: Phase transition, C–Zr system
 | Phase transition | 3816 K | 3816 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Brownlee 1959_ | Table 3, p. 10, row 4 |  |
 | Phase transition | 4016 K | 4016 | congruent transformation: ZrCx (γ) congruent melting | experimental | [1] Guillermet 1995; _cites Paderno 1962_ | Table 3, p. 10, row 6 |  |
 
-### Phase equilibrium (9)
+### Phase equilibrium (8)
 
 Table: Phase equilibrium, C–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase assemblage |  | 2493.15 | W2Zr; _alloy: C 5.000e-4_ | experimental | [2] Zhou 2015; _cites Savitsky 1977_ | p. 2 | “Savitsky et al. \[39\] also investigated the vertical section with constant C content of ~0.05 at.% and reported the melting temperature of W2Zr to be ~2220 °C.” |
 | Phase composition |  | 1136 | α + β + γ; _γ: C 0.38, Zr 0.62_ | model | [1] Guillermet 1995; _cites Okamoto_ | Table 6, p. 13, row 8 |  |
 | Phase composition |  | 1139 | α + β + γ; _γ: C 0.5, Zr 0.5_ | experimental | [1] Guillermet 1995; _cites Hayes 1955_ | Table 6, p. 13, row 1 |  |
 | Phase composition |  | 1139 | α + β + γ; _γ: C 0.4, Zr 0.6_ | experimental | [1] Guillermet 1995; _cites Shunk 1969_ | Table 6, p. 13, row 6 |  |
@@ -112,7 +111,6 @@ Table: Phase equilibrium, C–Zr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. A. Fernández Guillermet, Analysis of thermochemical properties and phase stability in the zirconium-carbon system, Journal of Alloys and Compounds 217, 69-89 (1995). [doi:10.1016/0925-8388(94)01310-e](https://doi.org/10.1016/0925-8388%2894%2901310-e)
-2. Peng Zhou, Yingbiao Peng, Yong Du, Shequan Wang, Guanghua Wen, Thermodynamic modeling of the C–W–Zr system, International Journal of Refractory Metals and Hard Materials 50, 274-281 (2015). [doi:10.1016/j.ijrmhm.2015.02.002](https://doi.org/10.1016/j.ijrmhm.2015.02.002)
 
 ## Please cite
 

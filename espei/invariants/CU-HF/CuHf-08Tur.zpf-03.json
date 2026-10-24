@@ -102,10 +102,12 @@
   "observations": [
    {
     "id": "ORC-JVIC7UWMSZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9008-4"
    },
    {
     "id": "ORC-BGK662SYQO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9008-4"
    }
   ],

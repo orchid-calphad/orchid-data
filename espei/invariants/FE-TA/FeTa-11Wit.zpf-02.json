@@ -124,6 +124,7 @@
   "observations": [
    {
     "id": "ORC-2GPTOXBEZ7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
     "measured_in": "ref:acddaf214c3da4fc",
     "caveats": [
@@ -132,11 +133,13 @@
    },
    {
     "id": "ORC-M33CYEXGAO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
     "measured_in": "ref:acddaf214c3da4fc"
    },
    {
     "id": "ORC-K2UZ43CFCY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
     "measured_in": "ref:acddaf214c3da4fc"
    }

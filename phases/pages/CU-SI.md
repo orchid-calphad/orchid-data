@@ -700,8 +700,8 @@ _cited as the source of values for this phase_
 - Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-si:cu3si-mt)
 
-Names (8): _corpus: _corpus:phase:cu-si:cu3si-mt  
-_paper: _paper:10.1007/s11669-024-01160-5:η', paper:10.1007/s11669-024-01160-5:η′, paper:10.1016/j.jct.2012.07.025:η′  
+Names (7): _corpus: _corpus:phase:cu-si:cu3si-mt  
+_paper: _paper:10.1007/s11669-024-01160-5:η′, paper:10.1016/j.jct.2012.07.025:η′  
 _tdb: _tdb:CuSi-13Gie.tdb:CU3SI_MT, tdb:CuSi-16Hal.tdb:CU3SI_MT, tdb:CuSi-19Sol.tdb:CU3SI_MT, tdb:CuSi-24Kro.tdb:CU3SI_MT  
 
 

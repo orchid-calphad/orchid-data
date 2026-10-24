@@ -1,10 +1,10 @@
 # Ni–Sn system
 
-> Ni–Sn system: 167 accepted literature values (phase transition 70, invariant reaction 54, formation 43) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sn system: 159 accepted literature values (phase transition 64, invariant reaction 54, formation 41) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SN.html · Markdown: https://data.orchid-project.org/systems/NI-SN.md
 
-167 accepted literature values from 4 paper(s) (experimental 58, model 91, unspecified 18); 11 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+159 accepted literature values from 4 paper(s) (experimental 56, model 85, unspecified 18); 11 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SN.json) · [CSV](https://data.orchid-project.org/systems/NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SN/NiSn-03Mie.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/NI-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 58 |
-| model | 91 |
+| experimental | 56 |
+| model | 85 |
 | unspecified | 18 |
 
 Table: Accepted values by property group
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 54 |
-| phase transition | 70 |
-| formation | 43 |
+| phase transition | 64 |
+| formation | 41 |
 
 ## Calculated phase diagrams
 
@@ -206,12 +206,10 @@ Table: Invariant reactions reported in the literature for the Ni–Sn system (54
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sn system (43)
+Table: Enthalpies of formation, Ni–Sn system (41)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -32714 J/g atm | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
-| — |  | -30823 J/g atm | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
 | Ni3Sn(γ1) |  | -26.66 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 3 |  |
 | Ni3Sn(γ1) |  | -26.4 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 4 |  |
 | Ni3Sn(γ1) |  | -26.31 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 1 |  |
@@ -256,7 +254,7 @@ Table: Enthalpies of formation, Ni–Sn system (43)
 
 ## Other properties
 
-### Phase transition (70)
+### Phase transition (64)
 
 Table: Phase transition, Ni–Sn system
 
@@ -270,7 +268,6 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 504.85 K | 504.85 | Ni3Sn_HT + Ni3Sn_LT; _Ni3Sn_HT: Sn 0.578; Ni3Sn_LT: Sn 0.999_ | experimental | [1] Zemanova 2012 | Table 3, p. 5, row 29 |  |
 | Phase transition | 505.05 K | 505.05 | Liquid + Sn | model | [1] Zemanova 2012 | Table 3, p. 5, row 26 |  |
 | Phase transition | 505.05 K | 505.05 | Ni3Sn_HT + Ni3Sn_LT; _Ni3Sn_HT: Sn 1; Ni3Sn_LT: Sn 1_ | experimental | [1] Zemanova 2012 | Table 3, p. 5, row 26 |  |
-| Phase transition | 505.15 K | 505.15 | Liquid + Sn | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 27 |  |
 | Phase transition | 505.15 K | 505.15 | Liquid / Sn | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 27 |  |
 | Phase transition | 505.15 K | 505.15 | Ni3Sn4 + Liquid + βSn | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 30 |  |
 | Phase transition | 873 K | 873 |  | experimental | [4] Ghosh 1999 | p. 11 | “h-Ni3Sn2 phase undergoes a second-order phase transition around 873 K, leading to ordering of Ni and vacancies.” |
@@ -287,7 +284,6 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 1190.15 K | 1190.15 | Ni + Ni3Sn_LT + Ni3Sn_HT | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 19 |  |
 | Phase transition | 1201 K | 1201 |  | model | [2] Liu 2004 | p. 7 | “Ni3 Sn_HT ⇔ Ni3 Sn_LT + Ni3 Sn2 \_HT, and Ni3 Sn_HT ⇔ Ni3 Sn_LT, are assessed to be 1143 and 1201 K, respectively, which deviate much from the reviewed values by \[5\].” |
 | Phase transition | 1201 K | 1201 | Ni3Sn_HT -> Ni3Sn_LT; _Ni3Sn_HT: Sn 0.25; Ni3Sn_LT: Sn 0.25_ | model | [2] Liu 2004 | Table 4, p. 7, row 33 |  |
-| Phase transition | 1201.15 K | 1201.15 | Ni3Sn_HT + Ni3Sn_LT | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 16 |  |
 | Phase transition | 1201.15 K | 1201.15 | Ni3Sn_HT / Ni3Sn_LT; _Ni3Sn_HT: Sn 0.24; Ni3Sn_LT: Sn 0.25_ | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 16 |  |
 | Phase transition | 1218.05 K | 1218.05 | Ni + Ni3Sn_LT + Ni3Sn_HT | model | [1] Zemanova 2012 | Table 3, p. 5, row 18 |  |
 | Phase transition | 1218.15 K | 1218.15 | Ni3Sn_HT + Ni3Sn_LT; _Ni3Sn_HT: Sn 0.24; Ni3Sn_LT: Sn 0.24_ | experimental | [1] Zemanova 2012 | Table 3, p. 5, row 15 |  |
@@ -303,7 +299,6 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 1412.15 K | 1412.15 | Ni + Liquid + Ni3Sn_HT | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 12 |  |
 | Phase transition | 1440.15 K | 1440.15 | Ni3Sn_HT + Liquid + Ni3Sn2 | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 11 |  |
 | Phase transition | 1442 K | 1442 | L -> Ni3Sn_HT; _L: Sn 0.258; Ni3Sn_HT: Sn 0.25_ | model | [2] Liu 2004 | Table 4, p. 7, row 23 |  |
-| Phase transition | 1442.15 K | 1442.15 | Liquid + Ni3Sn_HT | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 8 |  |
 | Phase transition | 1442.15 K | 1442.15 | Liquid / Ni3Sn_HT; _L: Sn 0.259; Ni3Sn_HT: Sn 0.25_ | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 8 |  |
 | Phase transition | 1445.15 K | 1445.15 | Ni3Sn_HT + Liquid + Ni3Sn2 | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 9 |  |
 | Phase transition | 1447 K | 1447 | L -> Ni3Sn_HT; _L: Sn 0.25; Ni3Sn_HT: Sn 0.25_ | unspecified | [2] Liu 2004; _cites Nash 1985_ [doi](https://doi.org/10.1007/bf02880521) | Table 4, p. 7, row 21 |  |
@@ -313,7 +308,6 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 1454 K | 1454 | Liq–Ni3Sn(γ); _Liq: Sn 0.251; Ni3Sn(γ): Sn 0.251_ | model | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 5, row 14 |  |
 | Phase transition | 1455.75 K | 1455.75 | Liquid + Ni3Sn_HT | model | [1] Zemanova 2012 | Table 3, p. 5, row 7 |  |
 | Phase transition | 1455.75 K | 1455.75 | Liquid / Ni3Sn_HT; _L: Sn 0.259; Ni3Sn_HT: Sn 0.259_ | experimental | [1] Zemanova 2012 | Table 3, p. 5, row 7 |  |
-| Phase transition | 1462.15 K | 1462.15 | Liquid + Ni3Sn_HT | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 6 |  |
 | Phase transition | 1462.15 K | 1462.15 | Liquid / Ni3Sn_HT; _L: Sn 0.259; Ni3Sn_HT: Sn 0.25_ | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 6 |  |
 | Phase transition | 1534 K | 1534 | L -> Ni3Sn2_HT; _L: Sn 0.404; Ni3Sn2_HT: Sn 0.4_ | model | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 7, row 25 |  |
 | Phase transition | 1534 K | 1534 | Liq–Ni3Sn2(η); _Liq: Sn 0.404; Ni3Sn2(η): Sn 0.404_ | model | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 4, p. 5, row 21 |  |
@@ -321,9 +315,7 @@ Table: Phase transition, Ni–Sn system
 | Phase transition | 1537 K | 1537 | L -> Ni3Sn2_HT; _L: Sn 0.4; Ni3Sn2_HT: Sn 0.4_ | unspecified | [2] Liu 2004; _cites Nash 1985_ [doi](https://doi.org/10.1007/bf02880521) | Table 4, p. 7, row 24 |  |
 | Phase transition | 1540 K | 1540 | L -> Ni3Sn2_HT; _L: Sn 0.396; Ni3Sn2_HT: Sn 0.4_ | model | [2] Liu 2004 | Table 4, p. 7, row 26 |  |
 | Phase transition | 1540 K | 1540 | congruent transformation | experimental | [4] Ghosh 1999; _cites Heumann 1943_ | p. 2 | “Ni3Sn2 also melts congruently\[34\] around 1540 K.” |
-| Phase transition | 1540.15 K | 1540.15 | Liquid + Ni3Sn2 | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 5 |  |
 | Phase transition | 1540.15 K | 1540.15 | Liquid / Ni3Sn2; _L: Sn 0.401; Ni3Sn2: Sn 0.4_ | model | [1] Zemanova 2012; _cites Liu 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.12.002) | Table 3, p. 5, row 5 |  |
-| Phase transition | 1553.15 K | 1553.15 | Liquid + Ni3Sn2 | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 3 |  |
 | Phase transition | 1553.15 K | 1553.15 | Liquid / Ni3Sn2; _L: Sn 0.401; Ni3Sn2: Sn 0.4_ | experimental | [1] Zemanova 2012; _cites Schmetterer 2007_ [doi](https://doi.org/10.1016/j.intermet.2006.10.045) | Table 3, p. 5, row 3 |  |
 | Phase transition | 1553.95 K | 1553.95 | Liquid + Ni3Sn2 | model | [1] Zemanova 2012 | Table 3, p. 5, row 4 |  |
 | Phase transition | 1553.95 K | 1553.95 | Liquid / Ni3Sn2; _L: Sn 0.401; Ni3Sn2: Sn 0.401_ | experimental | [1] Zemanova 2012 | Table 3, p. 5, row 4 |  |

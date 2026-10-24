@@ -318,7 +318,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabfls and oqmd-19577, space group 191
 - Stoichiometry: Fe 0.5000, Sn 0.5000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1042.51 K, x(Sn) 0.5–0.5
-- Literature: 28 values (28 accepted) from 2 papers
+- Literature: 28 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-sn:fesn-b35)
 
 Names (8): _corpus: _corpus:phase:fe-sn:fesn-b35  
@@ -368,7 +368,7 @@ _cited as the source of values for this phase_
 - Structure: Al2Cu · C16 · tI12 · I4/mcm (140); type `st:c16-al2cu-ti12`; tier A: standard phase name; confidence high
 - Stoichiometry: Fe 0.3333, Sn 0.6667
 - Stability: stable in 3 of 3 calculated diagram(s): 300–786.12 K, x(Sn) 0.66667–0.66667
-- Literature: 23 values (23 accepted) from 2 papers
+- Literature: 23 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-sn:fesn2-c16)
 
 Names (6): _corpus: _corpus:phase:fe-sn:fesn2-c16  

@@ -1,20 +1,19 @@
 # Al8Cr5: enthalpy of formation
 
-> Enthalpy of formation of Al8Cr5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al8Cr5: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al8Cr5.html · Markdown: https://data.orchid-project.org/compounds/Al8Cr5.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 2, model 1); experimental median -15.062 kJ/mol-atom (n = 2); Materials Project -5.217 kJ/mol-atom (mp-aaaabdnm); OQMD -9.087 kJ/mol-atom (oqmd-684913).
+2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -15.062 kJ/mol-atom (n = 1); Materials Project -5.217 kJ/mol-atom (mp-aaaabdnm); OQMD -9.087 kJ/mol-atom (oqmd-684913).
 
 Systems: [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) · [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al8Cr5 reported in the literature (3)
+Table: Enthalpy of formation of Al8Cr5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.062 kJ/mol-atom | Al8Cr5 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 5 |  |
 | -15.062 kJ/mol-atom | Al8Cr5 | 298.15 | experimental |  | [Al–Cr](https://data.orchid-project.org/systems/AL-CR.html) | [1] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 5 |  |
 | -15.5 kJ/mol-atom | Al8Cr5 | 1 | model |  | [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.html) | [2] Saunders 1986 | Table 4, p. 8, row 6 |  |
 

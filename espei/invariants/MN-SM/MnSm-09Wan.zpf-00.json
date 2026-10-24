@@ -72,6 +72,7 @@
   "observations": [
    {
     "id": "ORC-PC4H33GTDW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.03.121",
     "measured_in": "ref:ad4e041dffff58e8"
    }

@@ -25,8 +25,8 @@ Table: Phases of the Gd–Ni system (15)
 | [GDNI3](#phase-gd-ni-gdni3); _phase:gd-ni:gdni3_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1494.63 K, x(Ni) 0.75–0.75 | 10 | 3 |
 | [GDNI4](#phase-gd-ni-gdni4); _phase:gd-ni:gdni4_ | Co19Sm5 · hP48 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1540.66 K, x(Ni) 0.8–0.8 | 0 | 2 |
 | [GDNI5_D2D](#phase-gd-ni-gdni5-d2d); _phase:gd-ni:gdni5-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1751.79 K, x(Ni) 0.83333–0.83333 | 14 | 3 |
-| [HCP_A3](#phase-gd-ni-hcp-a3); _phase:gd-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1535.04 K, x(Ni) 0–0.00206 | 8 | 3 |
-| [LIQUID](#phase-gd-ni-liquid); _phase:gd-ni:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 875.72–2500 K, x(Ni) 0–1 | 67 | 3 |
+| [HCP_A3](#phase-gd-ni-hcp-a3); _phase:gd-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1535.04 K, x(Ni) 0–0.00206 | 5 | 3 |
+| [LIQUID](#phase-gd-ni-liquid); _phase:gd-ni:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 875.72–2500 K, x(Ni) 0–1 | 46 | 3 |
 
 ## BCC_A2 (Gd–Ni)
 
@@ -569,11 +569,11 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-ni:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1535.04 K, x(Ni) 0–0.00206
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-ni:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:gd-ni:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2006.09.068:hcp (Gd), paper:10.1016/j.jallcom.2015.06.201:α-Gd  
+Names (5): _corpus: _corpus:phase:gd-ni:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2015.06.201:α-Gd  
 _tdb: _tdb:GdNi-15Rah.tdb:HCP_A3, tdb:GdNi-96Su-oldGd.tdb:HCP_A3, tdb:GdNi-96Su.tdb:HCP_A3  
 
 
@@ -600,12 +600,10 @@ _tdb: _tdb:GdNi-15Rah.tdb:HCP_A3, tdb:GdNi-96Su-oldGd.tdb:HCP_A3, tdb:GdNi-96Su.
 47: CONST HCP_A3 : GD% NI : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2015.06.201](https://doi.org/10.1016/j.jallcom.2015.06.201) Z. Rahou, K. Mahdouk, Thermodynamic reassessment of Gd–Ni system, Journal of Alloys and Compounds 648, 346-352 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
-_reports values for this phase_
 - [doi:10.1002/bbpc.19981020918](https://doi.org/10.1002/bbpc.19981020918) J. Dischinger, H.‐J. Schaller, III. Highly reactive and multicomponent systems: On the constitution and thermodynamics of Ni‐Gd alloys, Ber Bunsenges Phys Chem 102, 1167-1172 (1998).  
 _cited as the source of values for this phase_
 - [doi:10.3139/146.110756](https://doi.org/10.3139/146.110756) Guanglong Xu, Yu-Wen Cui, Houjun Fei, Ligang Zhang, Feng Zheng, Libin Liu et al., Phase equilibria in the Gd–Ni binary and Mg–Ni–Gd ternary systems, International Journal of Materials Research 103, 1179-1187 (2012).  
@@ -616,7 +614,7 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 875.72–2500 K, x(Ni) 0–1
-- Literature: 67 values (67 accepted) from 2 papers
+- Literature: 46 values (46 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-ni:liquid)
 
 Names (6): _corpus: _corpus:phase:gd-ni:liquid  
@@ -651,12 +649,12 @@ Example references (4 of 4; assessments first):
 
 - [doi:10.1016/j.jallcom.2015.06.201](https://doi.org/10.1016/j.jallcom.2015.06.201) Z. Rahou, K. Mahdouk, Thermodynamic reassessment of Gd–Ni system, Journal of Alloys and Compounds 648, 346-352 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
-_reports values for this phase_
 - [doi:10.1002/bbpc.19981020918](https://doi.org/10.1002/bbpc.19981020918) J. Dischinger, H.‐J. Schaller, III. Highly reactive and multicomponent systems: On the constitution and thermodynamics of Ni‐Gd alloys, Ber Bunsenges Phys Chem 102, 1167-1172 (1998).  
 _cited as the source of values for this phase_
 - [doi:10.3139/146.110756](https://doi.org/10.3139/146.110756) Guanglong Xu, Yu-Wen Cui, Houjun Fei, Ligang Zhang, Feng Zheng, Libin Liu et al., Phase equilibria in the Gd–Ni binary and Mg–Ni–Gd ternary systems, International Journal of Materials Research 103, 1179-1187 (2012).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
+_reports values for this phase_
 
 ## Please cite
 

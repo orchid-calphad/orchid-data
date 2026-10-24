@@ -17,10 +17,10 @@ Table: Enthalpy of formation of Cu10Zr7 reported in the literature (12)
 | -22.004 kJ/mol-atom ± 0.259 | Cu10Zr7 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 13 |  |
 | -12.31 kJ/mol-atom ± 0.24 | Cu10Zr7 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 12 |  |
 | -12.31 kJ/mol-atom | Cu10Zr7 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 13 |  |
+| -21.226 kJ/mol-atom | Cu10Zr7 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 10 |  |
 | -20.466 kJ/mol-atom | Cu10Zr7 | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 15 |  |
 | -14.2206 kJ/mol-atom | Cu10Zr7 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 12 |  |
 | -6.73512 kJ/mol-atom | Cu10Zr7 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 11 |  |
-| 21.226 kJ/mol-atom | Cu10Zr7 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 10 |  |
 | -18.75 kJ/mol-atom | Cu10Zr7-ϕ | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 12 |  |
 | -18.75 kJ/mol-atom | Cu10Zr7-φ | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 12 |  |
 | -16.13 kJ/mol-atom | Cu10Zr7-ϕ | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zhou 2010 | Table 2, p. 3, row 11 |  |

@@ -1,10 +1,10 @@
 # Mo–Ni–Ta system
 
-> Mo–Ni–Ta system: 124 accepted literature values (formation 70, phase equilibrium 42, mixing / partial 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni–Ta system: 118 accepted literature values (formation 70, phase equilibrium 42, mixing / partial 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI-TA.html · Markdown: https://data.orchid-project.org/systems/MO-NI-TA.md
 
-124 accepted literature values from 2 paper(s) (experimental 42, DFT 82); 0 calculated phase diagram(s).
+118 accepted literature values from 2 paper(s) (experimental 42, DFT 76); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI-TA.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 42 |
-| DFT | 82 |
+| DFT | 76 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase equilibrium | 42 |
 | formation | 70 |
-| mixing / partial | 12 |
+| mixing / partial | 6 |
 
 ## Formation enthalpies
 
@@ -153,7 +153,7 @@ Table: Phase equilibrium, Mo–Ni–Ta system
 | Phase composition |  | 1473 | NiTa + Bcc; _NiTa: Mo 0.035, Ni 0.466, Ta 0.499; Bcc: Mo 0.498, Ni 0.011, Ta 0.491_ | experimental | [2] Cui 1999 | Table I, p. 3, row 10 |  |
 | Phase composition |  | 1473 | NiTa + Ni2Ta; _NiTa: Mo 0.057, Ni 0.472, Ta 0.471; Ni2Ta: Mo 0.003, Ni 0.648, Ta 0.349_ | experimental | [2] Cui 1999 | Table I, p. 3, row 26 |  |
 
-### Mixing / partial (12)
+### Mixing / partial (6)
 
 Table: Mixing / partial, Mo–Ni–Ta system
 
@@ -165,12 +165,6 @@ Table: Mixing / partial, Mo–Ni–Ta system
 | Enthalpy of mixing; _printed: ΔH_ | 0.588 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -5.17 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -0.23 kJ/mol-atom |  | A2 bcc-SQS16; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0.588 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -5.17 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -12.16 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.25, Ta 0.75_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7.54 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -0.23 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.5, Ta 0.5_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9.28 kJ/mol-atom |  | UNKNOWN; _alloy: Ni 0.75, Ta 0.25_ | DFT | [1] Zhou 2009 | Table 6, p. 7, row 12 |  |
 
 ## Sources
 

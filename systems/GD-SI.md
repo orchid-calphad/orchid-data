@@ -1,10 +1,10 @@
 # Gd–Si system
 
-> Gd–Si system: 8 accepted literature values (phase transition 6, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Si system: 29 accepted literature values (invariant reaction 23, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-SI.html · Markdown: https://data.orchid-project.org/systems/GD-SI.md
 
-8 accepted literature values from 2 paper(s) (experimental 8); 1 calculated phase diagram(s).
+29 accepted literature values from 2 paper(s) (experimental 22, model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-SI.json) · [CSV](https://data.orchid-project.org/systems/GD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SI/GdSi-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-SI.html) · [Markdown](https://data.orchid-project.org/systems/GD-SI.md)
 
@@ -12,13 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 22 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 23 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -58,12 +59,33 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Si system (2)
+Table: Invariant reactions reported in the literature for the Gd–Si system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
+| 2108.15 | Liquid -> GdSi |  | model | [1] Huang 2007 | Table 2, p. 6, row 11 |  |
+| 2108.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 12 |  |
+| 2103.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 13 |  |
+| 2047.15 | Liquid + GdSi -> Gd5Si4 |  | model | [1] Huang 2007 | Table 2, p. 6, row 8 |  |
+| 2043.15 | Liquid + GdSi -> Gd5Si4 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 9 |  |
+| 2023.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 6 |  |
+| 2021.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | model | [1] Huang 2007 | Table 2, p. 6, row 5 |  |
+| 1998.15 | Liquid + GdSi -> Gd5Si4 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 10 |  |
+| 1973.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 7 |  |
+| 1938.15 | Liquid + GdSi -> Gd3Si5 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 15 |  |
+| 1937.15 | Liquid + GdSi -> Gd3Si5 |  | model | [1] Huang 2007 | Table 2, p. 6, row 14 |  |
+| 1898.15 | Liquid + GdSi -> Gd3Si5 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 16 |  |
+| 1874.15 | Liquid + Gd3Si5 -> GdSi2-x |  | model | [1] Huang 2007 | Table 2, p. 6, row 17 |  |
+| 1873.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 18 |  |
+| 1863.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 19 |  |
+| 1503.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 22 |  |
 | 1503.15 | eutectic |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | p. 3 | “The DTA result in Fig. 1(a) indicates a thermal event at 1227 ◦ C on the heating curve for the eutectic reaction liquid ↔ GdSi2-x + Si, which is in good agreement with temperature of 1230 ◦ C reported by Eremenko et al. \[5\].” |
+| 1500.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 21 |  |
 | 1500.15 | eutectic |  | experimental | [1] Huang 2007 | p. 3 | “The DTA result in Fig. 1(a) indicates a thermal event at 1227 ◦ C on the heating curve for the eutectic reaction liquid ↔ GdSi2-x + Si, which is in good agreement with temperature of 1230 ◦ C reported by Eremenko et al. \[5\].” |
+| 1499.15 | Liquid + GdSi2-x -> diamond (Si) |  | model | [1] Huang 2007 | Table 2, p. 6, row 20 |  |
+| 1361.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 3 |  |
+| 1360.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | model | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
+| 1353.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 4 |  |
 
 ## Other properties
 

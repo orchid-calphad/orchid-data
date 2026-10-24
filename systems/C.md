@@ -1,10 +1,10 @@
 # C system
 
-> C system: 35 accepted literature values (heat capacity / entropy / enthalpy 30, other property 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C system: 20 accepted literature values (heat capacity / entropy / enthalpy 15, other property 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C.html · Markdown: https://data.orchid-project.org/systems/C.md
 
-35 accepted literature values from 2 paper(s) (experimental 14, model 14, unspecified 7); 0 calculated phase diagram(s).
+20 accepted literature values from 2 paper(s) (experimental 8, model 8, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C.json) · [CSV](https://data.orchid-project.org/systems/C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C.html) · [Markdown](https://data.orchid-project.org/systems/C.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 14 |
-| unspecified | 7 |
+| experimental | 8 |
+| model | 8 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | mixing / partial | 2 |
-| heat capacity / entropy / enthalpy | 30 |
+| heat capacity / entropy / enthalpy | 15 |
 | other property | 3 |
 
 ## Other properties
@@ -35,22 +35,12 @@ Table: Mixing / partial, C system
 | Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 125.52 kJ/mol (basis unstated) |  | liquid C | experimental | [1] He 2021; _cites Leider 1973_ [doi](https://doi.org/10.1016/0008-6223%2873%2990316-3) | Table 2, p. 3, row 3 |  |
 | Partial enthalpy; _printed: H_C^liq(T_m) - H_C^gra(T_m)_ | 117.318 kJ/mol (basis unstated) |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 4 |  |
 
-### Heat capacity / entropy / enthalpy (30)
+### Heat capacity / entropy / enthalpy (15)
 
 Table: Heat capacity / entropy / enthalpy, C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.6 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [2] He 2022; _cites Gokcen 1976_ | Table 1, p. 2, row 7 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.6 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] He 2021; _cites Spencer 1976_ | Table 2, p. 3, row 5 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.6 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] He 2021 | Table 2, p. 3, row 6 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.6 J/mol (basis unstated)/K |  | UNKNOWN | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 8 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 30.5 J/mol (basis unstated)/K |  | UNKNOWN | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 16 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 30.5 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] He 2021 | Table 2, p. 3, row 11 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.85 J/mol (basis unstated)/K |  | UNKNOWN | model | [2] He 2022 | Table 1, p. 2, row 9 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 29.3 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] He 2021; _cites Spencer 1976_ | Table 2, p. 3, row 10 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 30.73 J/mol (basis unstated)/K |  | UNKNOWN | model | [2] He 2022 | Table 1, p. 2, row 17 |  |
-| Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 29.3 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [2] He 2022; _cites Gokcen 1976_ | Table 1, p. 2, row 15 |  |
 | Entropy; _printed: S_C^liq(Tm) − S_C^gra(Tm)_ | 24.6 J/mol (basis unstated)/K |  | liquid | experimental | [2] He 2022; _cites Gokcen 1976_ | Table 1, p. 2, row 7 |  |
 | Entropy; _printed: S_C^liq(Tm) − S_C^gra(Tm)_ | 24.6 J/mol (basis unstated)/K |  | liquid | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 8 |  |
 | Entropy; _printed: S_C^liq(Tm) − S_C^dia(Tm)_ | 30.5 J/mol (basis unstated)/K |  | liquid | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 16 |  |
@@ -61,14 +51,9 @@ Table: Heat capacity / entropy / enthalpy, C system
 | Entropy; _printed: S_C^liq(T_m) - S_C^gra(T_m)_ | 24.6 J/mol (basis unstated)/K |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 6 |  |
 | Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 30.5 J/mol (basis unstated)/K |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 11 |  |
 | Entropy; _printed: S_C^liq(T_m) - S_C^dia(T_m)_ | 29.3 J/mol (basis unstated)/K |  | liquid C | experimental | [1] He 2021; _cites Spencer 1976_ | Table 2, p. 3, row 10 |  |
-| Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | UNKNOWN | unspecified | [1] He 2021 | Table 2, p. 3, row 8 |  |
-| Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | UNKNOWN | experimental | [1] He 2021; _cites Valenzuela 1982_ [doi](https://doi.org/10.1063/1.555666) | Table 2, p. 3, row 7 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liq | experimental | [2] He 2022; _cites Chase 1982_ | Table 1, p. 2, row 10 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28.72 J/mol (basis unstated)/K |  | liq | model | [2] He 2022 | Table 1, p. 2, row 12 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liq | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 11 |  |
-| Heat capacity; _printed: Cp^liq(Tm)_ | 28 J/mol (basis unstated)/K |  | liquid | experimental | [2] He 2022; _cites Chase 1982_ | Table 1, p. 2, row 10 |  |
-| Heat capacity; _printed: Cp^liq(Tm)_ | 28.72 J/mol (basis unstated)/K |  | liquid | model | [2] He 2022 | Table 1, p. 2, row 12 |  |
-| Heat capacity; _printed: Cp^liq(Tm)_ | 28 J/mol (basis unstated)/K |  | liquid | model | [2] He 2022; _cites He 2021_ [doi](https://doi.org/10.1016/j.calphad.2021.102250) | Table 1, p. 2, row 11 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 8 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liquid C | experimental | [1] He 2021; _cites Valenzuela 1982_ [doi](https://doi.org/10.1063/1.555666) | Table 2, p. 3, row 7 |  |
 

@@ -112,11 +112,13 @@
   "observations": [
    {
     "id": "ORC-SOLNOOVAXU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(95)01578-7",
     "measured_in": "ref:b7949273829802d7"
    },
    {
     "id": "ORC-FHVANPAEEE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(95)01578-7",
     "measured_in": "ref:b7949273829802d7"
    }

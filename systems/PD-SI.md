@@ -1,10 +1,10 @@
 # Pd–Si system
 
-> Pd–Si system: 118 accepted literature values (formation 46, invariant reaction 44, phase equilibrium 18, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Si system: 116 accepted literature values (formation 44, invariant reaction 44, phase equilibrium 18, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SI.html · Markdown: https://data.orchid-project.org/systems/PD-SI.md
 
-118 accepted literature values from 3 paper(s) (experimental 46, model 30, DFT 42); 5 calculated phase diagram(s).
+116 accepted literature values from 3 paper(s) (experimental 46, model 28, DFT 42); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SI.json) · [CSV](https://data.orchid-project.org/systems/PD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SI/PdSi-05The.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SI.html) · [Markdown](https://data.orchid-project.org/systems/PD-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 46 |
-| model | 30 |
+| model | 28 |
 | DFT | 42 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 44 |
 | phase transition | 10 |
 | phase equilibrium | 18 |
-| formation | 46 |
+| formation | 44 |
 
 ## Calculated phase diagrams
 
@@ -164,7 +164,7 @@ Table: Invariant reactions reported in the literature for the Pd–Si system (44
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Si system (46)
+Table: Enthalpies of formation, Pd–Si system (44)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -192,8 +192,6 @@ Table: Enthalpies of formation, Pd–Si system (46)
 | SiPd-δ |  | 43.17 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 27 |  |
 | SiSi-δ |  | 66.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 28 |  |
 | UNKNOWN |  | -65.1 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 19 |  |
-| UNKNOWN |  | -64.2 kJ/mol (basis unstated) |  | model |  |  | [3] Zhou 2016; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table I, p. 3, row 20 |  |
-| UNKNOWN |  | -57.9 kJ/mol (basis unstated) |  | model |  |  | [3] Zhou 2016; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table I, p. 3, row 14 |  |
 | UNKNOWN |  | -57.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 13 |  |
 | UNKNOWN |  | -50.18 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 25 |  |
 | UNKNOWN |  | -42.7 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 8 |  |

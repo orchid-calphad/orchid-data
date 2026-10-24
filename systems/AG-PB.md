@@ -138,347 +138,347 @@ Table: Heat capacity / entropy / enthalpy, Ag–Pb system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Heat capacity; _printed: Cp_ | 31.042 J/mol (basis unstated)/K | 628.812 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 1 |  |
-| Heat capacity; _printed: Cp_ | 0.153 J/mol (basis unstated)/K | 628.812 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 1 |  |
-| Heat capacity; _printed: Cp_ | 0.151 J/mol (basis unstated)/K | 630.807 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 2 |  |
+| Heat capacity; _printed: Cp_ | 0.153 J/g/K | 628.812 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 1 |  |
+| Heat capacity; _printed: Cp_ | 0.151 J/g/K | 630.807 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 2 |  |
 | Heat capacity; _printed: Cp_ | 30.643 J/mol (basis unstated)/K | 630.807 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 2 |  |
-| Heat capacity; _printed: Cp_ | 0.15 J/mol (basis unstated)/K | 632.8 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 3 |  |
+| Heat capacity; _printed: Cp_ | 0.15 J/g/K | 632.8 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 3 |  |
 | Heat capacity; _printed: Cp_ | 30.349 J/mol (basis unstated)/K | 632.8 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 3 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 634.791 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 4 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 634.791 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 4 |  |
 | Heat capacity; _printed: Cp_ | 31.385 J/mol (basis unstated)/K | 634.791 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 4 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 636.787 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 5 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 636.787 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 5 |  |
 | Heat capacity; _printed: Cp_ | 31.837 J/mol (basis unstated)/K | 636.787 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 5 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 638.78 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 6 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 638.78 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 6 |  |
 | Heat capacity; _printed: Cp_ | 31.896 J/mol (basis unstated)/K | 638.78 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 6 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 640.774 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 7 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 640.774 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 7 |  |
 | Heat capacity; _printed: Cp_ | 32.865 J/mol (basis unstated)/K | 640.774 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 7 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 642.769 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 8 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 642.769 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 8 |  |
 | Heat capacity; _printed: Cp_ | 32.029 J/mol (basis unstated)/K | 642.769 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 8 |  |
-| Heat capacity; _printed: Cp_ | 0.153 J/mol (basis unstated)/K | 644.761 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 9 |  |
+| Heat capacity; _printed: Cp_ | 0.153 J/g/K | 644.761 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 9 |  |
 | Heat capacity; _printed: Cp_ | 31.026 J/mol (basis unstated)/K | 644.761 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 9 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 646.753 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 10 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 646.753 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 10 |  |
 | Heat capacity; _printed: Cp_ | 31.512 J/mol (basis unstated)/K | 646.753 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 10 |  |
 | Heat capacity; _printed: Cp_ | 30.728 J/mol (basis unstated)/K | 648.75 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 11 |  |
-| Heat capacity; _printed: Cp_ | 0.152 J/mol (basis unstated)/K | 648.75 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 11 |  |
+| Heat capacity; _printed: Cp_ | 0.152 J/g/K | 648.75 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 11 |  |
 | Heat capacity; _printed: Cp_ | 31.857 J/mol (basis unstated)/K | 650.744 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 12 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 650.744 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 12 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 650.744 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 12 |  |
 | Heat capacity; _printed: Cp_ | 32.224 J/mol (basis unstated)/K | 652.737 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 13 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 652.737 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 13 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 652.737 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 13 |  |
 | Heat capacity; _printed: Cp_ | 32.538 J/mol (basis unstated)/K | 654.732 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 14 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 654.732 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 14 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 654.732 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 14 |  |
 | Heat capacity; _printed: Cp_ | 32.439 J/mol (basis unstated)/K | 656.725 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 15 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 656.725 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 15 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 658.716 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 16 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 656.725 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 15 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 658.716 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 16 |  |
 | Heat capacity; _printed: Cp_ | 32.191 J/mol (basis unstated)/K | 658.716 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 16 |  |
 | Heat capacity; _printed: Cp_ | 32.001 J/mol (basis unstated)/K | 660.709 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 17 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 660.709 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 17 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 660.709 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 17 |  |
 | Heat capacity; _printed: Cp_ | 31.387 J/mol (basis unstated)/K | 662.703 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 18 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 662.703 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 18 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 662.703 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 18 |  |
 | Heat capacity; _printed: Cp_ | 32.394 J/mol (basis unstated)/K | 664.696 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 19 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 664.696 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 19 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 664.696 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 19 |  |
 | Heat capacity; _printed: Cp_ | 32.013 J/mol (basis unstated)/K | 666.69 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 20 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 666.69 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 20 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 668.68 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 21 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 666.69 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 20 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 668.68 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 21 |  |
 | Heat capacity; _printed: Cp_ | 32.007 J/mol (basis unstated)/K | 668.68 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 21 |  |
 | Heat capacity; _printed: Cp_ | 32.638 J/mol (basis unstated)/K | 670.673 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 22 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 670.673 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 22 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 670.673 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 22 |  |
 | Heat capacity; _printed: Cp_ | 32.297 J/mol (basis unstated)/K | 672.669 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 23 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 672.669 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 23 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 672.669 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 23 |  |
 | Heat capacity; _printed: Cp_ | 32.83 J/mol (basis unstated)/K | 674.664 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 24 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 674.664 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 24 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 676.658 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 25 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 674.664 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 24 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 676.658 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 25 |  |
 | Heat capacity; _printed: Cp_ | 32.727 J/mol (basis unstated)/K | 676.658 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 25 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 678.651 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 26 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 678.651 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 26 |  |
 | Heat capacity; _printed: Cp_ | 32.417 J/mol (basis unstated)/K | 678.651 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 26 |  |
 | Heat capacity; _printed: Cp_ | 32.938 J/mol (basis unstated)/K | 680.646 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 27 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 680.646 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 27 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 682.641 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 28 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 680.646 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 27 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 682.641 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 28 |  |
 | Heat capacity; _printed: Cp_ | 33.335 J/mol (basis unstated)/K | 682.641 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 28 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 684.636 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 29 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 684.636 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 29 |  |
 | Heat capacity; _printed: Cp_ | 32.05 J/mol (basis unstated)/K | 684.636 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 29 |  |
 | Heat capacity; _printed: Cp_ | 32.283 J/mol (basis unstated)/K | 686.632 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 30 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 686.632 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 30 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 688.627 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 31 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 686.632 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 30 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 688.627 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 31 |  |
 | Heat capacity; _printed: Cp_ | 33.077 J/mol (basis unstated)/K | 688.627 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 31 |  |
 | Heat capacity; _printed: Cp_ | 32.708 J/mol (basis unstated)/K | 690.62 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 32 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 690.62 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 32 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 690.62 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 32 |  |
 | Heat capacity; _printed: Cp_ | 32.828 J/mol (basis unstated)/K | 692.614 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 33 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 692.614 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 33 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 694.609 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 34 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 692.614 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 33 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 694.609 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 34 |  |
 | Heat capacity; _printed: Cp_ | 33.041 J/mol (basis unstated)/K | 694.609 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 34 |  |
 | Heat capacity; _printed: Cp_ | 33.402 J/mol (basis unstated)/K | 696.603 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 35 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 696.603 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 35 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 696.603 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 35 |  |
 | Heat capacity; _printed: Cp_ | 32.492 J/mol (basis unstated)/K | 698.596 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 36 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 698.596 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 36 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 700.593 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 37 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 698.596 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 36 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 700.593 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 37 |  |
 | Heat capacity; _printed: Cp_ | 31.427 J/mol (basis unstated)/K | 700.593 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 37 |  |
 | Heat capacity; _printed: Cp_ | 31.916 J/mol (basis unstated)/K | 702.59 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 38 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 702.59 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 38 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 704.583 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 39 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 702.59 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 38 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 704.583 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 39 |  |
 | Heat capacity; _printed: Cp_ | 33.513 J/mol (basis unstated)/K | 704.583 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 39 |  |
 | Heat capacity; _printed: Cp_ | 32.753 J/mol (basis unstated)/K | 706.577 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 40 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 706.577 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 40 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 706.577 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 40 |  |
 | Heat capacity; _printed: Cp_ | 31.61 J/mol (basis unstated)/K | 708.572 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 41 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 708.572 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 41 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 708.572 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 41 |  |
 | Heat capacity; _printed: Cp_ | 31.948 J/mol (basis unstated)/K | 710.567 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 42 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 710.567 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 42 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 712.563 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 43 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 710.567 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 42 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 712.563 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 43 |  |
 | Heat capacity; _printed: Cp_ | 31.845 J/mol (basis unstated)/K | 712.563 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 43 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 714.558 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 44 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 714.558 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 44 |  |
 | Heat capacity; _printed: Cp_ | 31.804 J/mol (basis unstated)/K | 714.558 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 44 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 716.553 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 45 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 716.553 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 45 |  |
 | Heat capacity; _printed: Cp_ | 31.46 J/mol (basis unstated)/K | 716.553 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 45 |  |
 | Heat capacity; _printed: Cp_ | 31.541 J/mol (basis unstated)/K | 718.549 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 46 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 718.549 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 46 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 720.543 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 47 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 718.549 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 46 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 720.543 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 47 |  |
 | Heat capacity; _printed: Cp_ | 31.498 J/mol (basis unstated)/K | 720.543 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 47 |  |
 | Heat capacity; _printed: Cp_ | 31.968 J/mol (basis unstated)/K | 722.537 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 48 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 722.537 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 48 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 722.537 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 48 |  |
 | Heat capacity; _printed: Cp_ | 31.46 J/mol (basis unstated)/K | 724.534 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 49 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 724.534 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 49 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 724.534 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 49 |  |
 | Heat capacity; _printed: Cp_ | 31.399 J/mol (basis unstated)/K | 726.53 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 50 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 726.53 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 50 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 726.53 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 50 |  |
 | Heat capacity; _printed: Cp_ | 32.044 J/mol (basis unstated)/K | 728.523 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 51 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 728.523 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 51 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 730.516 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 52 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 728.523 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 51 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 730.516 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 52 |  |
 | Heat capacity; _printed: Cp_ | 31.991 J/mol (basis unstated)/K | 730.516 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 52 |  |
 | Heat capacity; _printed: Cp_ | 31.397 J/mol (basis unstated)/K | 732.512 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 53 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 732.512 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 53 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 732.512 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 53 |  |
 | Heat capacity; _printed: Cp_ | 31.241 J/mol (basis unstated)/K | 734.507 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 54 |  |
-| Heat capacity; _printed: Cp_ | 0.154 J/mol (basis unstated)/K | 734.507 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 54 |  |
+| Heat capacity; _printed: Cp_ | 0.154 J/g/K | 734.507 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 54 |  |
 | Heat capacity; _printed: Cp_ | 32.035 J/mol (basis unstated)/K | 736.499 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 55 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 736.499 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 55 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 736.499 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 55 |  |
 | Heat capacity; _printed: Cp_ | 32.648 J/mol (basis unstated)/K | 738.496 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 56 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 738.496 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 56 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 738.496 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 56 |  |
 | Heat capacity; _printed: Cp_ | 32.22 J/mol (basis unstated)/K | 740.495 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 57 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 740.495 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 57 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 740.495 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 57 |  |
 | Heat capacity; _printed: Cp_ | 32.293 J/mol (basis unstated)/K | 742.489 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 58 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 742.489 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 58 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 742.489 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 58 |  |
 | Heat capacity; _printed: Cp_ | 32.82 J/mol (basis unstated)/K | 744.482 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 59 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 744.482 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 59 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 744.482 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 59 |  |
 | Heat capacity; _printed: Cp_ | 32.455 J/mol (basis unstated)/K | 746.473 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 60 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 746.473 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 60 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 746.473 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 60 |  |
 | Heat capacity; _printed: Cp_ | 31.701 J/mol (basis unstated)/K | 748.467 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 61 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 748.467 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 61 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 750.461 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 62 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 748.467 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 61 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 750.461 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 62 |  |
 | Heat capacity; _printed: Cp_ | 32.242 J/mol (basis unstated)/K | 750.461 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 62 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 752.457 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 63 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 752.457 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 63 |  |
 | Heat capacity; _printed: Cp_ | 32.471 J/mol (basis unstated)/K | 752.457 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 63 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 754.452 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 64 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 754.452 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 64 |  |
 | Heat capacity; _printed: Cp_ | 32.382 J/mol (basis unstated)/K | 754.452 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 64 |  |
 | Heat capacity; _printed: Cp_ | 31.65 J/mol (basis unstated)/K | 756.444 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 65 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 756.444 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 65 |  |
-| Heat capacity; _printed: Cp_ | 0.154 J/mol (basis unstated)/K | 758.439 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 66 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 756.444 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 65 |  |
+| Heat capacity; _printed: Cp_ | 0.154 J/g/K | 758.439 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 66 |  |
 | Heat capacity; _printed: Cp_ | 31.206 J/mol (basis unstated)/K | 758.439 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 66 |  |
 | Heat capacity; _printed: Cp_ | 32.396 J/mol (basis unstated)/K | 760.435 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 67 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 760.435 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 67 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 762.429 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 68 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 760.435 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 67 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 762.429 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 68 |  |
 | Heat capacity; _printed: Cp_ | 32.686 J/mol (basis unstated)/K | 762.429 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 68 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 764.423 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 69 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 764.423 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 69 |  |
 | Heat capacity; _printed: Cp_ | 32.664 J/mol (basis unstated)/K | 764.423 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 69 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 766.417 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 70 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 766.417 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 70 |  |
 | Heat capacity; _printed: Cp_ | 31.557 J/mol (basis unstated)/K | 766.417 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 70 |  |
 | Heat capacity; _printed: Cp_ | 31.823 J/mol (basis unstated)/K | 768.411 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 71 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 768.411 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 71 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 770.407 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 72 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 768.411 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 71 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 770.407 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 72 |  |
 | Heat capacity; _printed: Cp_ | 31.638 J/mol (basis unstated)/K | 770.407 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 72 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 772.392 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 74 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 772.392 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 74 |  |
 | Heat capacity; _printed: Cp_ | 33.377 J/mol (basis unstated)/K | 772.392 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 74 |  |
 | Heat capacity; _printed: Cp_ | 32.706 J/mol (basis unstated)/K | 772.403 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 73 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 772.403 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 73 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 772.403 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 73 |  |
 | Heat capacity; _printed: Cp_ | 31.94 J/mol (basis unstated)/K | 774.375 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 75 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 774.375 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 75 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 774.375 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 75 |  |
 | Heat capacity; _printed: Cp_ | 31.987 J/mol (basis unstated)/K | 776.366 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 76 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 776.366 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 76 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 778.359 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 77 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 776.366 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 76 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 778.359 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 77 |  |
 | Heat capacity; _printed: Cp_ | 32.262 J/mol (basis unstated)/K | 778.359 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 77 |  |
 | Heat capacity; _printed: Cp_ | 31.304 J/mol (basis unstated)/K | 780.354 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 78 |  |
-| Heat capacity; _printed: Cp_ | 0.154 J/mol (basis unstated)/K | 780.354 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 78 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 782.349 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 79 |  |
+| Heat capacity; _printed: Cp_ | 0.154 J/g/K | 780.354 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 78 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 782.349 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 79 |  |
 | Heat capacity; _printed: Cp_ | 32.702 J/mol (basis unstated)/K | 782.349 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 79 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 784.341 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 80 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 784.341 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 80 |  |
 | Heat capacity; _printed: Cp_ | 33.331 J/mol (basis unstated)/K | 784.341 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 80 |  |
 | Heat capacity; _printed: Cp_ | 32.07 J/mol (basis unstated)/K | 786.334 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 81 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 786.334 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 81 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 786.334 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 81 |  |
 | Heat capacity; _printed: Cp_ | 31.535 J/mol (basis unstated)/K | 788.326 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 82 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 788.326 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 82 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 788.326 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 82 |  |
 | Heat capacity; _printed: Cp_ | 32.619 J/mol (basis unstated)/K | 790.318 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 83 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 790.318 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 83 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 792.314 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 84 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 790.318 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 83 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 792.314 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 84 |  |
 | Heat capacity; _printed: Cp_ | 32.785 J/mol (basis unstated)/K | 792.314 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 84 |  |
 | Heat capacity; _printed: Cp_ | 32.457 J/mol (basis unstated)/K | 794.308 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 85 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 794.308 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 85 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 796.301 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 86 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 794.308 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 85 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 796.301 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 86 |  |
 | Heat capacity; _printed: Cp_ | 32.487 J/mol (basis unstated)/K | 796.301 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 86 |  |
 | Heat capacity; _printed: Cp_ | 32.088 J/mol (basis unstated)/K | 798.296 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 87 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 798.296 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 87 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 798.296 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 87 |  |
 | Heat capacity; _printed: Cp_ | 32.607 J/mol (basis unstated)/K | 800.291 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 88 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 800.291 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 88 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 800.291 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 88 |  |
 | Heat capacity; _printed: Cp_ | 31.849 J/mol (basis unstated)/K | 802.285 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 89 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 802.285 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 89 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 802.285 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 89 |  |
 | Heat capacity; _printed: Cp_ | 31.52 J/mol (basis unstated)/K | 804.28 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 90 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 804.28 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 90 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 804.28 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 90 |  |
 | Heat capacity; _printed: Cp_ | 33.785 J/mol (basis unstated)/K | 806.275 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 91 |  |
-| Heat capacity; _printed: Cp_ | 0.167 J/mol (basis unstated)/K | 806.275 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 91 |  |
+| Heat capacity; _printed: Cp_ | 0.167 J/g/K | 806.275 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 91 |  |
 | Heat capacity; _printed: Cp_ | 32.441 J/mol (basis unstated)/K | 808.271 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 92 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 808.271 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 92 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 808.271 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 92 |  |
 | Heat capacity; _printed: Cp_ | 31.885 J/mol (basis unstated)/K | 810.264 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 93 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 810.264 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 93 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 810.264 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 93 |  |
 | Heat capacity; _printed: Cp_ | 31.825 J/mol (basis unstated)/K | 812.26 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 94 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 812.26 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 94 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 812.26 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 94 |  |
 | Heat capacity; _printed: Cp_ | 32.506 J/mol (basis unstated)/K | 814.253 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 95 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 814.253 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 95 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 814.253 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 95 |  |
 | Heat capacity; _printed: Cp_ | 32.56 J/mol (basis unstated)/K | 816.244 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 96 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 816.244 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 96 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 818.237 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 97 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 816.244 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 96 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 818.237 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 97 |  |
 | Heat capacity; _printed: Cp_ | 33.416 J/mol (basis unstated)/K | 818.237 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 97 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 820.231 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 98 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 820.231 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 98 |  |
 | Heat capacity; _printed: Cp_ | 32.127 J/mol (basis unstated)/K | 820.231 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 98 |  |
 | Heat capacity; _printed: Cp_ | 31.484 J/mol (basis unstated)/K | 822.225 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 99 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 822.225 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 99 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 824.22 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 100 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 822.225 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 99 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 824.22 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 100 |  |
 | Heat capacity; _printed: Cp_ | 32.143 J/mol (basis unstated)/K | 824.22 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 100 |  |
-| Heat capacity; _printed: Cp_ | 0.154 J/mol (basis unstated)/K | 826.214 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 101 |  |
+| Heat capacity; _printed: Cp_ | 0.154 J/g/K | 826.214 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 101 |  |
 | Heat capacity; _printed: Cp_ | 31.168 J/mol (basis unstated)/K | 826.214 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 101 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 828.205 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 102 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 828.205 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 102 |  |
 | Heat capacity; _printed: Cp_ | 32.064 J/mol (basis unstated)/K | 828.205 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 102 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 830.199 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 103 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 830.199 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 103 |  |
 | Heat capacity; _printed: Cp_ | 31.948 J/mol (basis unstated)/K | 830.199 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 103 |  |
 | Heat capacity; _printed: Cp_ | 32.952 J/mol (basis unstated)/K | 832.193 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 104 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 832.193 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 104 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 834.189 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 105 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 832.193 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 104 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 834.189 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 105 |  |
 | Heat capacity; _printed: Cp_ | 32.36 J/mol (basis unstated)/K | 834.189 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 105 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 836.186 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 106 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 836.186 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 106 |  |
 | Heat capacity; _printed: Cp_ | 32.129 J/mol (basis unstated)/K | 836.186 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 106 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 838.179 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 107 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 838.179 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 107 |  |
 | Heat capacity; _printed: Cp_ | 32.838 J/mol (basis unstated)/K | 838.179 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 107 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 840.175 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 108 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 840.175 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 108 |  |
 | Heat capacity; _printed: Cp_ | 31.966 J/mol (basis unstated)/K | 840.175 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 108 |  |
 | Heat capacity; _printed: Cp_ | 31.63 J/mol (basis unstated)/K | 842.173 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 109 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 842.173 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 109 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 844.17 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 110 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 842.173 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 109 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 844.17 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 110 |  |
 | Heat capacity; _printed: Cp_ | 32.104 J/mol (basis unstated)/K | 844.17 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 110 |  |
 | Heat capacity; _printed: Cp_ | 32.252 J/mol (basis unstated)/K | 846.161 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 111 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 846.161 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 111 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 848.155 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 112 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 846.161 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 111 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 848.155 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 112 |  |
 | Heat capacity; _printed: Cp_ | 31.729 J/mol (basis unstated)/K | 848.155 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 112 |  |
 | Heat capacity; _printed: Cp_ | 32.56 J/mol (basis unstated)/K | 850.15 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 113 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 850.15 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 113 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 850.15 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 113 |  |
 | Heat capacity; _printed: Cp_ | 32.976 J/mol (basis unstated)/K | 852.144 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 114 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 852.144 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 114 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 852.144 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 114 |  |
 | Heat capacity; _printed: Cp_ | 32.252 J/mol (basis unstated)/K | 854.14 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 115 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 854.14 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 115 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 854.14 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 115 |  |
 | Heat capacity; _printed: Cp_ | 32.4 J/mol (basis unstated)/K | 856.135 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 116 |  |
-| Heat capacity; _printed: Cp_ | 0.16 J/mol (basis unstated)/K | 856.135 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 116 |  |
-| Heat capacity; _printed: Cp_ | 0.153 J/mol (basis unstated)/K | 858.13 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 117 |  |
+| Heat capacity; _printed: Cp_ | 0.16 J/g/K | 856.135 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 116 |  |
+| Heat capacity; _printed: Cp_ | 0.153 J/g/K | 858.13 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 117 |  |
 | Heat capacity; _printed: Cp_ | 31.117 J/mol (basis unstated)/K | 858.13 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 117 |  |
 | Heat capacity; _printed: Cp_ | 31.76 J/mol (basis unstated)/K | 860.127 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 118 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 860.127 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 118 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 860.127 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 118 |  |
 | Heat capacity; _printed: Cp_ | 34.444 J/mol (basis unstated)/K | 862.122 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 119 |  |
-| Heat capacity; _printed: Cp_ | 0.17 J/mol (basis unstated)/K | 862.122 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 119 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 864.117 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 120 |  |
+| Heat capacity; _printed: Cp_ | 0.17 J/g/K | 862.122 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 119 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 864.117 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 120 |  |
 | Heat capacity; _printed: Cp_ | 33.26 J/mol (basis unstated)/K | 864.117 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 120 |  |
 | Heat capacity; _printed: Cp_ | 33.023 J/mol (basis unstated)/K | 866.112 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 121 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 866.112 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 121 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 866.112 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 121 |  |
 | Heat capacity; _printed: Cp_ | 33.552 J/mol (basis unstated)/K | 868.103 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 122 |  |
-| Heat capacity; _printed: Cp_ | 0.166 J/mol (basis unstated)/K | 868.103 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 122 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 870.097 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 123 |  |
+| Heat capacity; _printed: Cp_ | 0.166 J/g/K | 868.103 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 122 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 870.097 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 123 |  |
 | Heat capacity; _printed: Cp_ | 33.242 J/mol (basis unstated)/K | 870.097 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 123 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 872.094 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 124 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 872.094 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 124 |  |
 | Heat capacity; _printed: Cp_ | 32.792 J/mol (basis unstated)/K | 872.094 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 124 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 874.089 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 125 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 874.089 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 125 |  |
 | Heat capacity; _printed: Cp_ | 33.215 J/mol (basis unstated)/K | 874.089 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 125 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 876.081 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 126 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 876.081 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 126 |  |
 | Heat capacity; _printed: Cp_ | 31.385 J/mol (basis unstated)/K | 876.081 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 126 |  |
 | Heat capacity; _printed: Cp_ | 31.407 J/mol (basis unstated)/K | 878.076 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 127 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 878.076 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 127 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 880.071 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 128 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 878.076 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 127 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 880.071 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 128 |  |
 | Heat capacity; _printed: Cp_ | 32.577 J/mol (basis unstated)/K | 880.071 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 128 |  |
 | Heat capacity; _printed: Cp_ | 33.061 J/mol (basis unstated)/K | 882.066 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 129 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 882.066 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 129 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 882.066 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 129 |  |
 | Heat capacity; _printed: Cp_ | 32.331 J/mol (basis unstated)/K | 884.062 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 130 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 884.062 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 130 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 884.062 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 130 |  |
 | Heat capacity; _printed: Cp_ | 31.391 J/mol (basis unstated)/K | 886.057 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 131 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 886.057 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 131 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 886.057 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 131 |  |
 | Heat capacity; _printed: Cp_ | 32.175 J/mol (basis unstated)/K | 888.052 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 132 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 888.052 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 132 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 888.052 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 132 |  |
 | Heat capacity; _printed: Cp_ | 32.806 J/mol (basis unstated)/K | 890.044 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 133 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 890.044 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 133 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 892.04 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 134 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 890.044 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 133 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 892.04 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 134 |  |
 | Heat capacity; _printed: Cp_ | 33.209 J/mol (basis unstated)/K | 892.04 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 134 |  |
 | Heat capacity; _printed: Cp_ | 32.984 J/mol (basis unstated)/K | 894.037 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 135 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 894.037 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 135 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 896.032 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 136 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 894.037 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 135 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 896.032 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 136 |  |
 | Heat capacity; _printed: Cp_ | 32.877 J/mol (basis unstated)/K | 896.032 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 136 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 898.023 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 137 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 898.023 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 137 |  |
 | Heat capacity; _printed: Cp_ | 33.452 J/mol (basis unstated)/K | 898.023 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 137 |  |
 | Heat capacity; _printed: Cp_ | 32.938 J/mol (basis unstated)/K | 900.015 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 138 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 900.015 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 138 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 900.015 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 138 |  |
 | Heat capacity; _printed: Cp_ | 32.648 J/mol (basis unstated)/K | 902.011 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 139 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 902.011 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 139 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 902.011 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 139 |  |
 | Heat capacity; _printed: Cp_ | 31.289 J/mol (basis unstated)/K | 906.003 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 140 |  |
-| Heat capacity; _printed: Cp_ | 0.154 J/mol (basis unstated)/K | 906.003 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 140 |  |
+| Heat capacity; _printed: Cp_ | 0.154 J/g/K | 906.003 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 140 |  |
 | Heat capacity; _printed: Cp_ | 31.425 J/mol (basis unstated)/K | 909.988 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 141 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 909.988 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 141 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 909.988 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 141 |  |
 | Heat capacity; _printed: Cp_ | 32.676 J/mol (basis unstated)/K | 911.983 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 142 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 911.983 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 142 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 913.979 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 143 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 911.983 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 142 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 913.979 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 143 |  |
 | Heat capacity; _printed: Cp_ | 32.157 J/mol (basis unstated)/K | 913.979 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 143 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 915.974 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 144 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 915.974 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 144 |  |
 | Heat capacity; _printed: Cp_ | 33.236 J/mol (basis unstated)/K | 915.974 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 144 |  |
-| Heat capacity; _printed: Cp_ | 0.166 J/mol (basis unstated)/K | 917.968 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 145 |  |
+| Heat capacity; _printed: Cp_ | 0.166 J/g/K | 917.968 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 145 |  |
 | Heat capacity; _printed: Cp_ | 33.568 J/mol (basis unstated)/K | 917.968 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 145 |  |
 | Heat capacity; _printed: Cp_ | 32.723 J/mol (basis unstated)/K | 919.962 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 146 |  |
-| Heat capacity; _printed: Cp_ | 0.161 J/mol (basis unstated)/K | 919.962 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 146 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 921.957 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 147 |  |
+| Heat capacity; _printed: Cp_ | 0.161 J/g/K | 919.962 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 146 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 921.957 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 147 |  |
 | Heat capacity; _printed: Cp_ | 32.741 J/mol (basis unstated)/K | 921.957 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 147 |  |
-| Heat capacity; _printed: Cp_ | 0.166 J/mol (basis unstated)/K | 923.952 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 148 |  |
+| Heat capacity; _printed: Cp_ | 0.166 J/g/K | 923.952 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 148 |  |
 | Heat capacity; _printed: Cp_ | 33.641 J/mol (basis unstated)/K | 923.952 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 148 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 925.946 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 149 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 925.946 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 149 |  |
 | Heat capacity; _printed: Cp_ | 33.023 J/mol (basis unstated)/K | 925.946 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 149 |  |
-| Heat capacity; _printed: Cp_ | 0.165 J/mol (basis unstated)/K | 927.942 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 150 |  |
+| Heat capacity; _printed: Cp_ | 0.165 J/g/K | 927.942 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 150 |  |
 | Heat capacity; _printed: Cp_ | 33.485 J/mol (basis unstated)/K | 927.942 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 150 |  |
 | Heat capacity; _printed: Cp_ | 33.175 J/mol (basis unstated)/K | 929.937 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 151 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 929.937 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 151 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 931.931 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 152 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 929.937 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 151 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 931.931 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 152 |  |
 | Heat capacity; _printed: Cp_ | 33.286 J/mol (basis unstated)/K | 931.931 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 152 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 933.927 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 153 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 933.927 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 153 |  |
 | Heat capacity; _printed: Cp_ | 32.741 J/mol (basis unstated)/K | 933.927 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 153 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 935.923 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 154 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 935.923 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 154 |  |
 | Heat capacity; _printed: Cp_ | 32.098 J/mol (basis unstated)/K | 935.923 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 154 |  |
 | Heat capacity; _printed: Cp_ | 33.911 J/mol (basis unstated)/K | 937.917 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 155 |  |
-| Heat capacity; _printed: Cp_ | 0.167 J/mol (basis unstated)/K | 937.917 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 155 |  |
-| Heat capacity; _printed: Cp_ | 0.155 J/mol (basis unstated)/K | 939.909 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 156 |  |
+| Heat capacity; _printed: Cp_ | 0.167 J/g/K | 937.917 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 155 |  |
+| Heat capacity; _printed: Cp_ | 0.155 J/g/K | 939.909 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 156 |  |
 | Heat capacity; _printed: Cp_ | 31.423 J/mol (basis unstated)/K | 939.909 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 156 |  |
 | Heat capacity; _printed: Cp_ | 32.021 J/mol (basis unstated)/K | 941.902 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 157 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 941.902 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 157 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 941.902 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 157 |  |
 | Heat capacity; _printed: Cp_ | 32.269 J/mol (basis unstated)/K | 943.897 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 158 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 943.897 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 158 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 945.89 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 159 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 943.897 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 158 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 945.89 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 159 |  |
 | Heat capacity; _printed: Cp_ | 33.213 J/mol (basis unstated)/K | 945.89 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 159 |  |
 | Heat capacity; _printed: Cp_ | 33.067 J/mol (basis unstated)/K | 947.882 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 160 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 947.882 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 160 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 947.882 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 160 |  |
 | Heat capacity; _printed: Cp_ | 32.838 J/mol (basis unstated)/K | 949.874 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 161 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 949.874 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 161 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 949.874 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 161 |  |
 | Heat capacity; _printed: Cp_ | 32.834 J/mol (basis unstated)/K | 951.866 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 162 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 951.866 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 162 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 953.859 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 163 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 951.866 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 162 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 953.859 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 163 |  |
 | Heat capacity; _printed: Cp_ | 31.968 J/mol (basis unstated)/K | 953.859 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 163 |  |
 | Heat capacity; _printed: Cp_ | 33.185 J/mol (basis unstated)/K | 955.852 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 164 |  |
-| Heat capacity; _printed: Cp_ | 0.164 J/mol (basis unstated)/K | 955.852 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 164 |  |
-| Heat capacity; _printed: Cp_ | 0.162 J/mol (basis unstated)/K | 957.846 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 165 |  |
+| Heat capacity; _printed: Cp_ | 0.164 J/g/K | 955.852 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 164 |  |
+| Heat capacity; _printed: Cp_ | 0.162 J/g/K | 957.846 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 165 |  |
 | Heat capacity; _printed: Cp_ | 32.804 J/mol (basis unstated)/K | 957.846 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 165 |  |
-| Heat capacity; _printed: Cp_ | 0.163 J/mol (basis unstated)/K | 959.843 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 166 |  |
+| Heat capacity; _printed: Cp_ | 0.163 J/g/K | 959.843 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 166 |  |
 | Heat capacity; _printed: Cp_ | 32.982 J/mol (basis unstated)/K | 959.843 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 166 |  |
 | Heat capacity; _printed: Cp_ | 31.885 J/mol (basis unstated)/K | 961.838 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 167 |  |
-| Heat capacity; _printed: Cp_ | 0.157 J/mol (basis unstated)/K | 961.838 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 167 |  |
+| Heat capacity; _printed: Cp_ | 0.157 J/g/K | 961.838 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 167 |  |
 | Heat capacity; _printed: Cp_ | 32.056 J/mol (basis unstated)/K | 963.83 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 168 |  |
-| Heat capacity; _printed: Cp_ | 0.158 J/mol (basis unstated)/K | 963.83 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 168 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 965.825 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 169 |  |
+| Heat capacity; _printed: Cp_ | 0.158 J/g/K | 963.83 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 168 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 965.825 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 169 |  |
 | Heat capacity; _printed: Cp_ | 32.226 J/mol (basis unstated)/K | 965.825 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 169 |  |
-| Heat capacity; _printed: Cp_ | 0.156 J/mol (basis unstated)/K | 967.821 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 170 |  |
+| Heat capacity; _printed: Cp_ | 0.156 J/g/K | 967.821 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 170 |  |
 | Heat capacity; _printed: Cp_ | 31.681 J/mol (basis unstated)/K | 967.821 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 170 |  |
 | Heat capacity; _printed: Cp_ | 32.173 J/mol (basis unstated)/K | 969.817 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 171 |  |
-| Heat capacity; _printed: Cp_ | 0.159 J/mol (basis unstated)/K | 969.817 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 171 |  |
+| Heat capacity; _printed: Cp_ | 0.159 J/g/K | 969.817 | UNKNOWN; _alloy: Ag 0.045, Pb 0.955_ | experimental | [1] Hassam 2010 | Table 2, p. 4, row 171 |  |
 
 ## Sources
 

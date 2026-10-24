@@ -276,31 +276,37 @@
   "observations": [
    {
     "id": "ORC-HH53JTDRM5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-TJDQZSW3KJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-WMFV5B2N4N",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-PWN5VUOFDY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-ETGUYHXR72",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-JXYJ4B7HQT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006",
     "also_reported_as": [
@@ -313,11 +319,13 @@
    },
    {
     "id": "ORC-SBZSBVXVOP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    },
    {
     "id": "ORC-CWOR4G2WHB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00679-4",
     "measured_in": "ref:e23a291318a89006"
    }

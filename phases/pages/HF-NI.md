@@ -12,14 +12,14 @@ Table: Phases of the Hf–Ni system (19)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-hf-ni-bcc-a2); _phase:hf-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438 | 8 | 6 |
+| [BCC_A2](#phase-hf-ni-bcc-a2); _phase:hf-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438 | 6 | 6 |
 | [B2_BCC](#phase-hf-ni-bcc-b2); _phase:hf-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1350.9–2516.97 K, x(Ni) 0–0.50634 | 5 | 1 |
-| [FCC_A1](#phase-hf-ni-fcc-a1); _phase:hf-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1 | 9 | 6 |
+| [FCC_A1](#phase-hf-ni-fcc-a1); _phase:hf-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1 | 8 | 6 |
 | [L12_FCC](#phase-hf-ni-fcc-l12); _phase:hf-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1160–1700 K, x(Ni) 0.99–0.99 | 5 | 1 |
 | [HCP_A3](#phase-hf-ni-hcp-a3); _phase:hf-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2016.68 K, x(Ni) 0–0.0133 | 5 | 5 |
 | [HF2NI_C16](#phase-hf-ni-hf2ni-c16); _phase:hf-ni:hf2ni-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1562.55 K, x(Ni) 0.31648–0.33333 | 3 | 5 |
 | [HF2NI5](#phase-hf-ni-hf2ni5); _phase:hf-ni:hf2ni5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1612.16 K, x(Ni) 0.71429–0.71429 | 0 | 1 |
-| [HF2NI7](#phase-hf-ni-hf2ni7); _phase:hf-ni:hf2ni7_ | Ni7Zr2 · mC36 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866 | 9 | 5 |
+| [HF2NI7](#phase-hf-ni-hf2ni7); _phase:hf-ni:hf2ni7_ | Ni7Zr2 · mC36 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866 | 5 | 5 |
 | [HF3NI7](#phase-hf-ni-hf3ni7); _phase:hf-ni:hf3ni7_ | Hf3Ni7 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1289.3–1529.43 K, x(Ni) 0.7–0.7 | 2 | 4 |
 | [HF7NI10](#phase-hf-ni-hf7ni10); _phase:hf-ni:hf7ni10_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1573.12 K, x(Ni) 0.58824–0.58824 | 5 | 5 |
 | [HF8NI21](#phase-hf-ni-hf8ni21); _phase:hf-ni:hf8ni21_ | Hf8Ni21 · aP29 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1448–1579.97 K, x(Ni) 0.72414–0.72414 | 0 | 4 |
@@ -30,18 +30,18 @@ Table: Phases of the Hf–Ni system (19)
 | [HFNI3_HT](#phase-hf-ni-hfni3-ht); _phase:hf-ni:hfni3-ht_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1470.06–1632.16 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI3_RT](#phase-hf-ni-hfni3-rt); _phase:hf-ni:hfni3-rt_ | Pd2RhTa · hP40 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1472.75 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI5_C15B](#phase-hf-ni-hfni5-c15b); _phase:hf-ni:hfni5-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1675.31 K, x(Ni) 0.83333–0.83333 | 8 | 5 |
-| [LIQUID](#phase-hf-ni-liquid); _phase:hf-ni:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1 | 17 | 5 |
+| [LIQUID](#phase-hf-ni-liquid); _phase:hf-ni:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1 | 8 | 5 |
 
 ## BCC_A2 (Hf–Ni)
 
 - Id: `phase:hf-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 6 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438
-- Literature: 8 values (8 accepted) from 3 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:bcc-a2)
 
-Names (11): _corpus: _corpus:phase:hf-ni:bcc-a2, corpus:phase:hf-ni:a2-bcc  
-_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Hf, paper:10.1016/j.tca.2018.08.011:bcc-A2, paper:10.1179/000844375795050157:bcc  
+Names (10): _corpus: _corpus:phase:hf-ni:bcc-a2, corpus:phase:hf-ni:a2-bcc  
+_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Hf, paper:10.1016/j.tca.2018.08.011:bcc-A2  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:BCC_A2, tdb:HfNi-08Zha.tdb:BCC_A2, tdb:HfNi-11Cac.tdb:BCC_A2, tdb:HfNi-18Ros.tdb:A2_BCC, tdb:HfNi-18Ros.tdb:BCC_A2, tdb:HfNi-75Kau.tdb:BCC_A2  
 
 
@@ -93,11 +93,11 @@ Example references (5 of 5; assessments first):
 
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2007.08.009](https://doi.org/10.1016/j.intermet.2007.08.009) C. Zhang, J. Zhu, Y. Yang, H.-B. Cao, F. Zhang, W.-S. Cao et al., Thermodynamic modeling and experimental investigation of the Ni-rich corner of the Ni–Al–Hf system, Intermetallics 16, 139-147 (2008).  
+_assessment that models this phase_
+- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
@@ -136,11 +136,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:hf-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 6 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1
-- Literature: 9 values (9 accepted) from 3 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:fcc-a1)
 
-Names (13): _corpus: _corpus:phase:hf-ni:fcc-a1, corpus:phase:hf-ni:a1-fcc  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Ni, paper:10.1016/j.tca.2018.08.011:Hf(fcc-A1), paper:10.1016/j.tca.2018.08.011:Ni(fcc-A1), paper:10.1016/j.tca.2018.08.011:fcc-A1, paper:10.1179/000844375795050157:fcc  
+Names (12): _corpus: _corpus:phase:hf-ni:fcc-a1, corpus:phase:hf-ni:a1-fcc  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Ni, paper:10.1016/j.tca.2018.08.011:Hf(fcc-A1), paper:10.1016/j.tca.2018.08.011:Ni(fcc-A1), paper:10.1016/j.tca.2018.08.011:fcc-A1  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:FCC_A1, tdb:HfNi-08Zha.tdb:FCC_A1, tdb:HfNi-11Cac.tdb:FCC_A1, tdb:HfNi-18Ros.tdb:A1_FCC, tdb:HfNi-18Ros.tdb:FCC_A1, tdb:HfNi-75Kau.tdb:FCC_A1  
 
 
@@ -194,9 +194,9 @@ Example references (5 of 5; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2007.08.009](https://doi.org/10.1016/j.intermet.2007.08.009) C. Zhang, J. Zhu, Y. Yang, H.-B. Cao, F. Zhang, W.-S. Cao et al., Thermodynamic modeling and experimental investigation of the Ni-rich corner of the Ni–Al–Hf system, Intermetallics 16, 139-147 (2008).  
+_assessment that models this phase_
+- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
@@ -393,11 +393,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866
-- Literature: 9 values (9 accepted) from 3 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf2ni7)
 
-Names (9): _corpus: _corpus:phase:hf-ni:hf2ni7  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Hf2Ni7, paper:10.1016/j.tca.2018.08.011:Hf2Ni7, paper:10.1179/000844375795050157:Ni7Hf2  
+Names (8): _corpus: _corpus:phase:hf-ni:hf2ni7  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Hf2Ni7, paper:10.1016/j.tca.2018.08.011:Hf2Ni7  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF2NI7, tdb:HfNi-08Zha.tdb:HF2NI7, tdb:HfNi-11Cac.tdb:HF2NI7, tdb:HfNi-18Ros.tdb:HF2NI7, tdb:HfNi-75Kau.tdb:HF2NI7  
 
 
@@ -442,11 +442,11 @@ Example references (5 of 5; assessments first):
 
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2007.08.009](https://doi.org/10.1016/j.intermet.2007.08.009) C. Zhang, J. Zhu, Y. Yang, H.-B. Cao, F. Zhang, W.-S. Cao et al., Thermodynamic modeling and experimental investigation of the Ni-rich corner of the Ni–Al–Hf system, Intermetallics 16, 139-147 (2008).  
+_assessment that models this phase_
+- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
@@ -997,11 +997,11 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1410.87–4000 K, x(Ni) 0–1
-- Literature: 17 values (17 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:liquid)
 
-Names (8): _corpus: _corpus:phase:hf-ni:liquid  
-_paper: _paper:10.1016/j.calphad.2011.10.003:L, paper:10.1179/000844375795050157:L  
+Names (7): _corpus: _corpus:phase:hf-ni:liquid  
+_paper: _paper:10.1016/j.calphad.2011.10.003:L  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:LIQUID, tdb:HfNi-08Zha.tdb:LIQUID, tdb:HfNi-11Cac.tdb:LIQUID, tdb:HfNi-18Ros.tdb:LIQUID, tdb:HfNi-75Kau.tdb:LIQUID  
 
 
@@ -1044,13 +1044,13 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:LIQUID, tdb:HfNi-08Zha.tdb:LIQUID, tdb:HfNi-11Cac.t
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2007.08.009](https://doi.org/10.1016/j.intermet.2007.08.009) C. Zhang, J. Zhu, Y. Yang, H.-B. Cao, F. Zhang, W.-S. Cao et al., Thermodynamic modeling and experimental investigation of the Ni-rich corner of the Ni–Al–Hf system, Intermetallics 16, 139-147 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
+_assessment that models this phase_
+- [doi:10.1179/000844375795050157](https://doi.org/10.1179/000844375795050157) L. Kaufman, H. Nesor, Calculation of the Ni-Al-W, Ni-Al-Hf and Ni-Cr-Hf systems, Canadian Metallurgical Quarterly 14, 221-232 (1975).  
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_

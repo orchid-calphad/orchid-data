@@ -1,10 +1,10 @@
 # O–Pb system
 
-> O–Pb system: 236 accepted literature values (activity / EMF / Gibbs energy 64, heat capacity / entropy / enthalpy 47, invariant reaction 46, formation 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pb system: 223 accepted literature values (activity / EMF / Gibbs energy 64, invariant reaction 46, formation 40, phase transition 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://data.orchid-project.org/systems/O-PB.md
 
-236 accepted literature values from 1 paper(s) (experimental 169, model 43, unspecified 24); 0 calculated phase diagram(s).
+223 accepted literature values from 1 paper(s) (experimental 158, model 41, unspecified 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 169 |
-| model | 43 |
+| experimental | 158 |
+| model | 41 |
 | unspecified | 24 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 46 |
 | phase transition | 39 |
 | formation | 40 |
-| heat capacity / entropy / enthalpy | 47 |
+| heat capacity / entropy / enthalpy | 34 |
 | activity / EMF / Gibbs energy | 64 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PB.json)
@@ -155,7 +155,7 @@ Table: Phase transition, O–Pb system
 | Phase transition | 1161 K | 1161 | congruent transformation: \[09Coo\] | unspecified | [1] Risold 1998; _cites ref. 09Coo_ | Table 5, p. 5, row 3 |  |
 | Phase transition | 1161 K | 1161 | congruent transformation: \[12Kro\] | experimental | [1] Risold 1998; _cites Kroll 1912_ [doi](https://doi.org/10.1002/zaac.19120780107) | Table 5, p. 5, row 5 |  |
 | Phase transition | 1170 K | 1170 | congruent transformation: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12 |  |
-| Phase transition | 1808 K | 1808 | other | model | [1] Risold 1998 | p. 13 | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
+| Phase transition | 1808 K | 1808 | other | experimental | [1] Risold 1998 | p. 13 | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
 
 ### Formation (21)
 
@@ -185,7 +185,7 @@ Table: Formation, O–Pb system
 | Gibbs energy of formation; _printed: ΔfG298_ | -72.983 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -71.799 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
 
-### Heat capacity / entropy / enthalpy (47)
+### Heat capacity / entropy / enthalpy (34)
 
 Table: Heat capacity / entropy / enthalpy, O–Pb system
 
@@ -204,19 +204,6 @@ Table: Heat capacity / entropy / enthalpy, O–Pb system
 | Entropy; _printed: ΔS_ | 24.3 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 6, p. 5, row 11 |  |
 | Entropy; _printed: ΔS_ | 24 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 6, p. 5, row 7 |  |
 | Entropy; _printed: ΔS_ | 22.9 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 6, p. 5, row 16 |  |
-| Entropy; _printed: ΔS_ | 21.2 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 6, p. 5, row 6 |  |
-| Entropy; _printed: ΔS_ | 23.6 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 6, p. 5, row 5 |  |
-| Entropy; _printed: ΔS_ | 21.9 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 6, p. 5, row 3 |  |
-| Entropy; _printed: ΔS_ | 24.9 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 6, p. 5, row 13 |  |
-| Entropy; _printed: ΔS_ | 24.7 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 6, p. 5, row 10 |  |
-| Entropy; _printed: ΔS_ | 26.4 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 6, p. 5, row 12 |  |
-| Entropy; _printed: ΔS_ | 22.2 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 6, p. 5, row 15 |  |
-| Entropy; _printed: ΔS_ | 24.5 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 6, p. 5, row 14 |  |
-| Entropy; _printed: ΔS_ | 25.1 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites ref. 55Ric_ | Table 6, p. 5, row 2 |  |
-| Entropy; _printed: ΔS_ | 21.3 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 6, p. 5, row 9 |  |
-| Entropy; _printed: ΔS_ | 24.3 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 6, p. 5, row 11 |  |
-| Entropy; _printed: ΔS_ | 24 J/mol·K |  | UNKNOWN | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 6, p. 5, row 7 |  |
-| Entropy; _printed: ΔS_ | 22.9 J/mol·K |  | UNKNOWN | model | [1] Risold 1998 | Table 6, p. 5, row 16 |  |
 | Entropy; _printed: S_ | 76.4 J/mol 9K | 298 |  | experimental | [1] Risold 1998; _cites ref. 29Mil_ | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
 | Entropy; _printed: S_ | 71.8 J/mol. K | 298 |  | experimental | [1] Risold 1998; _cites Duisman 1968_ [doi](https://doi.org/10.1021/j100848a030) | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
 | Entropy; _printed: ΔS_ | 2.39 J/mol · K | 298 | UNKNOWN | model | [1] Risold 1998 | Table 3, p. 3, row 3 |  |

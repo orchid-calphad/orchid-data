@@ -1,10 +1,10 @@
 # Pr–Si system
 
-> Pr–Si system: 11 accepted literature values (phase transition 6, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pr–Si system: 10 accepted literature values (phase transition 6, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PR-SI.html · Markdown: https://data.orchid-project.org/systems/PR-SI.md
 
-11 accepted literature values from 1 paper(s) (experimental 8, model 3); 1 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (experimental 8, model 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PR-SI.json) · [CSV](https://data.orchid-project.org/systems/PR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-SI/PrSi-20Xu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/PR-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR-SI.html) · [Markdown](https://data.orchid-project.org/systems/PR-SI.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 3 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
+| invariant reaction | 4 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -58,7 +58,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pr–Si system (5)
+Table: Invariant reactions reported in the literature for the Pr–Si system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -66,7 +66,6 @@ Table: Invariant reactions reported in the literature for the Pr–Si system (5)
 | 1690.15 | peritectic |  | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
 | 1423.15 | eutectic: L⇌(C) + SiC + Pr3Si2C2 |  | experimental | [1] Xu 2020 | p. 10 | “This peak with an average onset at 1150°C is assumed as the temperature of the corresponding ternary eutectic reaction: L⇌(C) + SiC + Pr3Si2C2 in the present calculations.” |
 | 1421.15 | eutectic: L⇌(C) + SiC + Pr3Si2C2 |  | model | [1] Xu 2020 | p. 9 | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
-| 1421.15 | eutectic |  | model | [1] Xu 2020 | p. 1 | “In the SiC-RE3Si2C2 core-shell structures, the RE3Si2C2 phases can react with SiC via ternary eutectic reactions at 810°C, 747°C, and 1148°C respectively.” |
 
 ## Other properties
 

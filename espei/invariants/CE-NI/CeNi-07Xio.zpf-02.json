@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-UDACNV2NLY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2007.04.004",
     "measured_in": "doi:10.2473/shigentosozai.110.95",
     "caveats": [

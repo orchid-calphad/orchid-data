@@ -14,14 +14,14 @@ Table: Enthalpy of formation of CrSi2 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25800 per mol-atom ± 4400 | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
-| -40.2 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
-| -25.8 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
-| -27296 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000 | Table 4, p. 4, row 11 |  |
-| -26080 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
-| -26.1 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
-| -26.09 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
-| -26.08 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
+| -40.2 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 13 |  |
+| -25.8 kJ/mol-atom | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 87Top_ | Table 6, p. 14, row 14 |  |
+| -25.8 per mol-atom ± 4400 | CrSi2 | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites ref. 1987Top_ | Table 4, p. 4, row 10 |  |
+| -27.296 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 11 |  |
+| -26.1 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 16 |  |
+| -26.09 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 17 |  |
+| -26.08 kJ/mol-atom | CrSi2 |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 15 |  |
+| -26.08 per mol-atom | CrSi2 | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 12 |  |
 
 ## DFT formation energies
 
@@ -38,8 +38,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000). [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066)
-2. Corinne A. Coughanowr, Ibrahim Ansara, Hans Leo Lukas, Assessment of the CrSi System, Calphad 18, 125-140 (1994). [doi:10.1016/0364-5916(94)90023-x](https://doi.org/10.1016/0364-5916%2894%2990023-x)
+1. Corinne A. Coughanowr, Ibrahim Ansara, Hans Leo Lukas, Assessment of the CrSi System, Calphad 18, 125-140 (1994). [doi:10.1016/0364-5916(94)90023-x](https://doi.org/10.1016/0364-5916%2894%2990023-x)
+2. Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000). [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066)
 
 ## Please cite
 

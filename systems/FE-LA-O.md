@@ -1,10 +1,10 @@
 # Fe–La–O system
 
-> Fe–La–O system: 31 accepted literature values (activity / EMF / Gibbs energy 16, formation 10, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–La–O system: 24 accepted literature values (formation 10, activity / EMF / Gibbs energy 9, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-LA-O.html · Markdown: https://data.orchid-project.org/systems/FE-LA-O.md
 
-31 accepted literature values from 1 paper(s) (experimental 18, model 13); 0 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 15, model 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-LA-O.json) · [CSV](https://data.orchid-project.org/systems/FE-LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-LA-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-LA-O.html) · [Markdown](https://data.orchid-project.org/systems/FE-LA-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 13 |
+| experimental | 15 |
+| model | 9 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 5 |
-| activity / EMF / Gibbs energy | 16 |
+| activity / EMF / Gibbs energy | 9 |
 
 ## Formation enthalpies
 
@@ -56,7 +56,7 @@ Table: Heat capacity / entropy / enthalpy, Fe–La–O system
 | Entropy; _printed: °S_ | 49.8 J/mol-atom/K | 900 | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 11 |  |
 | Entropy; _printed: °S_ | 50.518 J/mol-atom/K | 900 | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Stlen 1998_ [doi](https://doi.org/10.1006/jcht.1997.0309) | Table 1, p. 4, row 12 |  |
 
-### Activity / EMF / Gibbs energy (16)
+### Activity / EMF / Gibbs energy (9)
 
 Table: Activity / EMF / Gibbs energy, Fe–La–O system
 
@@ -70,14 +70,7 @@ Table: Activity / EMF / Gibbs energy, Fe–La–O system
 | Gibbs energy; _printed: Δ°G_ | -66066 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 29 |  |
 | Gibbs energy; _printed: Δ°G_ | -60625 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 26 |  |
 | Gibbs energy; _printed: Δ°G_ | -62835 J/mol |  | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Nakamura 1979_ [doi](https://doi.org/10.1016/0025-5408%2879%2990048-5) | Table 1, p. 4, row 27 |  |
-| Gibbs energy; _printed: Δ°G_ | -281993 J/mol |  | UNKNOWN | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 15 |  |
-| Gibbs energy; _printed: Δ°G_ | -60267 J/mol |  | UNKNOWN | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 28 |  |
-| Gibbs energy; _printed: Δ°G_ | -309700 J/mol |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Nakamura 1979_ [doi](https://doi.org/10.1016/0025-5408%2879%2990048-5) | Table 1, p. 4, row 14 |  |
 | Gibbs energy; _printed: Δ°G_ | -287841 unknown ± 1255 |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 16 |  |
-| Gibbs energy; _printed: Δ°G_ | -307364 J/mol |  | UNKNOWN | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 13 |  |
-| Gibbs energy; _printed: Δ°G_ | -66066 J/mol |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Kimizuka 1802_ | Table 1, p. 4, row 29 |  |
-| Gibbs energy; _printed: Δ°G_ | -60625 J/mol |  | UNKNOWN | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 26 |  |
-| Gibbs energy; _printed: Δ°G_ | -62835 J/mol |  | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Nakamura 1979_ [doi](https://doi.org/10.1016/0025-5408%2879%2990048-5) | Table 1, p. 4, row 27 |  |
 
 ## Sources
 

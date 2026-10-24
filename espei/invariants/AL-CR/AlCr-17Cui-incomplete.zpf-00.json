@@ -111,6 +111,7 @@
   "observations": [
    {
     "id": "ORC-WJBF5KG6MZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.298",
     "also_reported_as": [
      {
@@ -122,6 +123,7 @@
    },
    {
     "id": "ORC-E5NGXLNZXB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2016.12.298"
    }
   ],

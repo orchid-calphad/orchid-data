@@ -103,11 +103,13 @@
   "observations": [
    {
     "id": "ORC-FWCBWTNIGP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.12.002",
     "measured_in": "doi:10.1007/bf02645345"
    },
    {
     "id": "ORC-VNN4TB2EGU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2003.12.002",
     "measured_in": "doi:10.1007/bf02645345",
     "also_reported_as": [

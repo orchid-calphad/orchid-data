@@ -364,31 +364,37 @@
   "observations": [
    {
     "id": "ORC-HQDHPHDSQC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-F3A75NARMJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-TO76O6GDEP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-2SV6PO3M6P",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-AUSYLIGWSG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-BIHPTBZ2UV",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7",
     "caveats": [
@@ -397,6 +403,7 @@
    },
    {
     "id": "ORC-ANUAP6D2KZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7",
     "also_reported_as": [
@@ -416,6 +423,7 @@
    },
    {
     "id": "ORC-QXSVYV7GS5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7",
     "caveats": [
@@ -424,11 +432,13 @@
    },
    {
     "id": "ORC-UZ5G2U3Y6H",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-Z2IAQFK6DO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7",
     "caveats": [
@@ -437,11 +447,13 @@
    },
    {
     "id": "ORC-JR4WVECEGR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7"
    },
    {
     "id": "ORC-UGSFFFMUXH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2014.09.116",
     "measured_in": "doi:10.1016/s0925-8388(00)01382-7",
     "caveats": [

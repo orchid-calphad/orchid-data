@@ -67,19 +67,21 @@ Table: Invariant reactions reported in the literature for the Ru–U system (64)
 | 2123 | Liquid + hcp \<=> Ru3U | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 35 |  |
 | 1998.15 | Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 4 |  |
 | 1998 | Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 36 |  |
+| 1938.15 | Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 5 |  |
 | 1938 | Liquid \<=> Ru3U | Liquid: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 37 |  |
+| 1861.15 | Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 2 |  |
 | 1861 | Liquid \<=> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 34 |  |
 | 1849.15 | Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 1 |  |
 | 1849 | Liquid \<=> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | model | [1] Berche 2011 | Table 6, p. 12, row 33 |  |
-| 1665 | Liquid -> Ru3U | L: Ru 0.75, U 0.25; Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 5 |  |
-| 1588 | Liquid -> Ru3U + hcp | Ru3U: Ru 0.75, U 0.25 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 2 |  |
 | 1466.15 | Liquid + Ru3U -> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | model | [1] Berche 2011 | Table 6, p. 12, row 6 |  |
 | 1466 | Liquid + Ru3U \<=> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | model | [1] Berche 2011 | Table 6, p. 12, row 38 |  |
+| 1460.15 | Liquid + Ru3U -> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 7 |  |
 | 1460 | Liquid + Ru3U \<=> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 39 |  |
 | 1455.15 | Liquid + Ru3U -> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 8 |  |
 | 1455 | Liquid + Ru3U \<=> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 40 |  |
 | 1452.15 | Liquid + Ru5U3 -> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | model | [1] Berche 2011 | Table 6, p. 12, row 9 |  |
 | 1452 | Liquid + Ru5U3 \<=> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | model | [1] Berche 2011 | Table 6, p. 12, row 41 |  |
+| 1439.15 | Liquid + Ru5U3 -> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 10 |  |
 | 1439 | Liquid + Ru5U3 \<=> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 42 |  |
 | 1436.15 | Liquid + Ru5U3 -> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 11 |  |
 | 1436 | Liquid + Ru5U3 \<=> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 43 |  |
@@ -95,10 +97,8 @@ Table: Invariant reactions reported in the literature for the Ru–U system (64)
 | 1218 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 50 |  |
 | 1210.15 | Liquid + RuU-H -> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 19 |  |
 | 1210 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 51 |  |
-| 1187 | Liquid + Ru3U -> Ru5U3 | Ru3U: Ru 0.75, U 0.25; Ru5U3: Ru 0.625, U 0.375 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 7 |  |
 | 1170.15 | Liquid + RuU-H -> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Berndt 1965_ | Table 6, p. 12, row 20 |  |
 | 1170 | Liquid + RuU-H \<=> RuU2 | RuU-H: Ru 0.48, U 0.52; RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Berndt 1965_ | Table 6, p. 12, row 52 |  |
-| 1166 | Liquid + Ru5U3 -> Ru4U3 | Ru5U3: Ru 0.625, U 0.375; Ru4U3: Ru 0.571429, U 0.428571 | experimental | [1] Berche 2011; _cites Mason 1994_ [doi](https://doi.org/10.1016/0022-3115%2894%2990381-6) | Table 6, p. 12, row 10 |  |
 | 1159.15 | Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 22 |  |
 | 1159 | Liquid \<=> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | experimental | [1] Berche 2011; _cites Park 1968_ [doi](https://doi.org/10.6028/jres.072a.001) | Table 6, p. 12, row 54 |  |
 | 1149.15 | Liquid -> bcc + RuU2 | RuU2: Ru 0.333333, U 0.666667 | model | [1] Berche 2011 | Table 6, p. 12, row 21 |  |

@@ -1,10 +1,10 @@
 # Ni–Sc system
 
-> Ni–Sc system: 224 accepted literature values (invariant reaction 96, phase transition 45, formation 44, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sc system: 222 accepted literature values (invariant reaction 96, phase transition 45, formation 42, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SC.html · Markdown: https://data.orchid-project.org/systems/NI-SC.md
 
-224 accepted literature values from 3 paper(s) (experimental 110, model 101, unspecified 13); 3 calculated phase diagram(s).
+222 accepted literature values from 3 paper(s) (experimental 108, model 101, unspecified 13); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SC.json) · [CSV](https://data.orchid-project.org/systems/NI-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SC/NiSc-13Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SC.html) · [Markdown](https://data.orchid-project.org/systems/NI-SC.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 110 |
+| experimental | 108 |
 | model | 101 |
 | unspecified | 13 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 96 |
 | phase transition | 45 |
 | phase equilibrium | 11 |
-| formation | 44 |
+| formation | 42 |
 | crystal structure | 28 |
 
 ## Calculated phase diagrams
@@ -192,7 +192,7 @@ Table: Invariant reactions reported in the literature for the Ni–Sc system (96
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sc system (44)
+Table: Enthalpies of formation, Ni–Sc system (42)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -238,8 +238,6 @@ Table: Enthalpies of formation, Ni–Sc system (44)
 | ScNi5 | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -20.614 kJ/mol-atom | 298 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [2] Zhu 2015 | Table 2, p. 3, row 4 |  |
 | ScNi5 | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -18.068 kJ/mol-atom | 298 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 3 |  |
 | ScNi5 | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -17.594 kJ/mol-atom | 298 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 2 |  |
-| UNKNOWN |  | -44.7 kJ/mol-atom ± 2.3 | 1473 | experimental |  |  | [2] Zhu 2015; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 15 |  |
-| UNKNOWN |  | -43 kJ/mol-atom ± 2.3 | 1473 | experimental |  |  | [2] Zhu 2015; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 10 |  |
 
 ## Other properties
 

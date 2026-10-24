@@ -1,10 +1,10 @@
 # Fe–Ho system
 
-> Fe–Ho system: 123 accepted literature values (formation 58, phase transition 31, invariant reaction 22, heat capacity / entropy / enthalpy 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ho system: 88 accepted literature values (phase transition 31, formation 29, invariant reaction 22, heat capacity / entropy / enthalpy 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-HO.html · Markdown: https://data.orchid-project.org/systems/FE-HO.md
 
-123 accepted literature values from 1 paper(s) (experimental 57, model 62, DFT 2, unspecified 2); 2 calculated phase diagram(s).
+88 accepted literature values from 1 paper(s) (experimental 46, model 39, DFT 1, unspecified 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-HO.json) · [CSV](https://data.orchid-project.org/systems/FE-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-HO/FeHo-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-HO.html) · [Markdown](https://data.orchid-project.org/systems/FE-HO.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 57 |
-| model | 62 |
-| DFT | 2 |
+| experimental | 46 |
+| model | 39 |
+| DFT | 1 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 22 |
 | phase transition | 31 |
-| formation | 58 |
-| heat capacity / entropy / enthalpy | 12 |
+| formation | 29 |
+| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -107,7 +107,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ho system (22
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ho system (40)
+Table: Enthalpies of formation, Fe–Ho system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -131,26 +131,6 @@ Table: Enthalpies of formation, Fe–Ho system (40)
 | Fe2Ho |  | -2.6 kJ/mol (basis unstated) ± 3.3 | 1373 | experimental |  |  | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 3, row 16 |  |
 | Fe3Ho |  | -2.52 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
 | Fe3Ho |  | -2 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 9 |  |
-| UNKNOWN |  | -9.5 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 15 |  |
-| UNKNOWN |  | -6.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 7 |  |
-| UNKNOWN |  | -6.2 kJ/mol (basis unstated) | 300 | experimental |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
-| UNKNOWN |  | -6.2 kJ/mol (basis unstated) | 300 | model |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 13 |  |
-| UNKNOWN |  | -6.2 kJ/mol (basis unstated) | 300 | model |  |  | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 6 |  |
-| UNKNOWN |  | -5.9 kJ/mol (basis unstated) | 290 | experimental |  |  | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
-| UNKNOWN |  | -5.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 3 |  |
-| UNKNOWN |  | -4.32 kJ/mol (basis unstated) ± 0.02 | 1066 | experimental |  |  | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 2 |  |
-| UNKNOWN |  | -4.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2014; _cites Latini 2013_ [doi](https://doi.org/10.1016/j.jct.2012.09.021) | Table 3, p. 3, row 14 |  |
-| UNKNOWN |  | -3 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 11 |  |
-| UNKNOWN |  | -2.97 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 20 |  |
-| UNKNOWN |  | -2.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 3, p. 3, row 12 |  |
-| UNKNOWN |  | -2.65 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
-| UNKNOWN |  | -2.6 kJ/mol (basis unstated) ± 3.3 | 1373 | experimental |  |  | [1] Kardellass 2014; _cites Meschel 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.035) | Table 3, p. 3, row 16 |  |
-| UNKNOWN |  | -2.52 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| UNKNOWN |  | -2.12 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 5 |  |
-| UNKNOWN |  | -2 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 9 |  |
-| UNKNOWN |  | -1.84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
-| UNKNOWN |  | -1.09 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014; _cites Kardellass 2013_ | Table 3, p. 3, row 1 |  |
-| UNKNOWN |  | -0.295 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 
 ## Other properties
 
@@ -192,49 +172,34 @@ Table: Phase transition, Fe–Ho system
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | model | [1] Kardellass 2014 | Table 6, p. 4, row 3 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 1 |  |
 
-### Formation (18)
+### Formation (9)
 
 Table: Formation, Fe–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation | 41.63 J/mol (basis unstated)/K | 290 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
-| Entropy of formation | 41.63 J/mol (basis unstated)/K | 290 | UNKNOWN; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
 | Entropy of formation | 1.8 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 3 |  |
 | Entropy of formation | 38.03 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 | Entropy of formation | 43.15 J/mol (basis unstated)/K | 298.15 | Fe23Ho6; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
 | Entropy of formation | 49.18 J/mol (basis unstated)/K | 298.15 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
 | Entropy of formation | 45.02 J/mol (basis unstated)/K | 298.15 | Fe3Ho; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| Entropy of formation | 45.02 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| Entropy of formation | 1.8 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 3 |  |
-| Entropy of formation | 43.15 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
-| Entropy of formation | 49.18 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
-| Entropy of formation | 38.03 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 | Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
 | Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 13 |  |
-| Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | UNKNOWN; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
-| Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 13 |  |
 | Entropy of formation | 0.85 J/mol (basis unstated)/K ± 0.01 | 1066 | Fe17Ho2; _alloy: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 2 |  |
-| Entropy of formation | 0.85 J/mol (basis unstated)/K ± 0.01 | 1066 | UNKNOWN; _alloy: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (12)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Heat capacity | 30.09 J/mol (basis unstated)/K | 290 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
-| Heat capacity | 30.09 J/mol (basis unstated)/K | 290 | UNKNOWN; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
 | Heat capacity | 24.71 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 | Heat capacity | 24.98 J/mol (basis unstated)/K | 298.15 | Fe23Ho6; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
 | Heat capacity | 25.33 J/mol (basis unstated)/K | 298.15 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
 | Heat capacity | 25.11 J/mol (basis unstated)/K | 298.15 | Fe3Ho; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| Heat capacity | 25.11 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| Heat capacity | 24.98 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
-| Heat capacity | 25.33 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
-| Heat capacity | 24.71 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 | Heat capacity | 30.45 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
-| Heat capacity | 30.45 J/mol (basis unstated)/K | 300 | UNKNOWN; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
 
 ## Sources
 

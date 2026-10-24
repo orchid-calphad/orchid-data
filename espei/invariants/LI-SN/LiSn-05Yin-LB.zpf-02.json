@@ -115,14 +115,17 @@
   "observations": [
    {
     "id": "ORC-TMCFFFFYJN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.09.047"
    },
    {
     "id": "ORC-2IC5DXQ6P3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.09.047"
    },
    {
     "id": "ORC-DWWCTLGZ2C",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.09.047"
    }
   ],

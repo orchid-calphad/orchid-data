@@ -27,7 +27,7 @@ Table: Phases of the Ni–W system (9)
 - Id: `phase:ni-w:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–3999.86 K, x(W) 0.9917–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 9 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:ni-w:bcc-a2  
@@ -131,7 +131,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ni-w:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1790.73 K, x(W) 0–0.17637
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 10 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:ni-w:fcc-a1  
@@ -226,7 +226,7 @@ _assessment that models this phase_
 - Id: `phase:ni-w:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1728.25–4000 K, x(W) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 4 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:liquid)
 
 Names (5): _corpus: _corpus:phase:ni-w:liquid  

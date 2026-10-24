@@ -112,11 +112,13 @@
   "observations": [
    {
     "id": "ORC-IF4LBBWU73",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00827-z",
     "measured_in": "doi:10.1515/ijmr-1962-530810"
    },
    {
     "id": "ORC-X2NEJR2XDE.ee661b",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-020-00827-z",
     "measured_in": "doi:10.1515/ijmr-1962-530810"
    }

@@ -151,6 +151,7 @@
   "observations": [
    {
     "id": "ORC-3DJWAR3TGF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(03)00131-2",
     "measured_in": "doi:10.1016/s0925-8388(03)00131-2",
     "also_reported_as": [
@@ -164,6 +165,7 @@
    },
    {
     "id": "ORC-V5C6IJ3LT6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(03)00131-2",
     "measured_in": "doi:10.1016/s0925-8388(03)00131-2",
     "also_reported_as": [
@@ -177,6 +179,7 @@
    },
    {
     "id": "ORC-GW7FEJFYBM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(03)00131-2",
     "measured_in": "doi:10.1016/s0925-8388(03)00131-2",
     "also_reported_as": [

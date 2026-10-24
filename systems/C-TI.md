@@ -1,10 +1,10 @@
 # C–Ti system
 
-> C–Ti system: 60 accepted literature values (formation 30, invariant reaction 19, phase transition 6, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ti system: 57 accepted literature values (formation 27, invariant reaction 19, phase transition 6, heat capacity / entropy / enthalpy 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-TI.html · Markdown: https://data.orchid-project.org/systems/C-TI.md
 
-60 accepted literature values from 3 paper(s) (experimental 23, model 33, unspecified 4); 0 calculated phase diagram(s).
+57 accepted literature values from 3 paper(s) (experimental 23, model 30, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-TI.json) · [CSV](https://data.orchid-project.org/systems/C-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-TI) · [phases (6)](https://data.orchid-project.org/phases/pages/C-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 23 |
-| model | 33 |
+| model | 30 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 19 |
 | phase transition | 6 |
-| formation | 30 |
+| formation | 27 |
 | heat capacity / entropy / enthalpy | 5 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-TI.json) · [CALPHAD hull TiC-95Dus](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-95Dus.json) · [CALPHAD hull TiC-96Jon](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-96Jon.json) · [CALPHAD hull TiC-96Sei](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-96Sei.json) · [CALPHAD hull TiC-99Dum-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-TI--TiC-99Dum-LB.json)
@@ -57,7 +57,7 @@ Table: Invariant reactions reported in the literature for the C–Ti system (19)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Ti system (30)
+Table: Enthalpies of formation, C–Ti system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -88,9 +88,6 @@ Table: Enthalpies of formation, C–Ti system (30)
 | TiCx |  | 92 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Humphrey 1951_ [doi](https://doi.org/10.1021/ja01149a100) | Table 2, p. 3, row 7 |  |
 | TiCx |  | 96.4 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Mulokozi 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990058-8) | Table 2, p. 3, row 12 |  |
 | TiCx |  | 103.5 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Morozova 1962_ | Table 2, p. 3, row 10 |  |
-| UNKNOWN |  | -64 kJ/mol-atom |  | model |  |  | [3] Frisk 2003 | Table 3, p. 5, row 3 |  |
-| UNKNOWN |  | -64 kJ/mol-atom |  | model |  |  | [3] Frisk 2003; _cites Fernandez 1992_ | Table 3, p. 5, row 1 |  |
-| UNKNOWN |  | -57 kJ/mol-atom |  | model |  |  | [3] Frisk 2003; _cites F 1988_ | Table 3, p. 5, row 2 |  |
 
 ## Other properties
 

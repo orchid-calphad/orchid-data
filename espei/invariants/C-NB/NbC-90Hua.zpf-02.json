@@ -123,14 +123,17 @@
   "observations": [
    {
     "id": "ORC-EATQ2O737H",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1179/mst.1990.6.8.687"
    },
    {
     "id": "ORC-D76Y7BPTG2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1179/mst.1990.6.8.687"
    },
    {
     "id": "ORC-EWHVFPAOIU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1179/mst.1990.6.8.687"
    }
   ],

@@ -92,6 +92,7 @@
   "observations": [
    {
     "id": "ORC-BACNHOSW5O",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.12.006",
     "measured_in": "doi:10.1002/srin.197001633",
     "caveats": [
@@ -100,6 +101,7 @@
    },
    {
     "id": "ORC-UNASOYRSGQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2014.12.006",
     "measured_in": "doi:10.1002/srin.197001633",
     "caveats": [

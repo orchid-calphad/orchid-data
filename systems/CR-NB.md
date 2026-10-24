@@ -1,10 +1,10 @@
 # Cr–Nb system
 
-> Cr–Nb system: 253 accepted literature values (phase transition 114, phase equilibrium 77, formation 24, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb system: 249 accepted literature values (phase transition 114, phase equilibrium 77, formation 21, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://data.orchid-project.org/systems/CR-NB.md
 
-253 accepted literature values from 3 paper(s) (experimental 193, model 23, DFT 33, unspecified 4); 7 calculated phase diagram(s).
+249 accepted literature values from 3 paper(s) (experimental 192, model 23, DFT 30, unspecified 4); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 193 |
+| experimental | 192 |
 | model | 23 |
-| DFT | 33 |
+| DFT | 30 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 15 |
 | phase transition | 114 |
 | phase equilibrium | 77 |
-| formation | 24 |
+| formation | 21 |
 | heat capacity / entropy / enthalpy | 1 |
 | activity / EMF / Gibbs energy | 4 |
 | crystal structure | 17 |
@@ -72,7 +72,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Nb system (16)
+Table: Invariant reactions reported in the literature for the Cr–Nb system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -83,7 +83,6 @@ Table: Invariant reactions reported in the literature for the Cr–Nb system (16
 | 1933 | L = (Cr2Nb) + (Nb) | (Cr2Nb): Nb 0.333333 | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 3, p. 2, row 2 |  |
 | 1933 | L = (Cr2Nb) + (Nb) | (Cr2Nb): Nb 0.333333 | experimental | [1] Schmetterer 2014; _cites Elyutin 1956_ | Table 3, p. 2, row 6 |  |
 | 1923 | eutectic |  | experimental | [2] Khvan 2012; _cites Bondar 1996_ [doi](https://doi.org/10.1007/bf01329242) | p. 3 | “Later in the work of Bondar and Velikanova \[4\] the temperature of the eutectic melting point determined was 1923 K in their work on construction of the solidus surface of the system.” |
-| 1913 | eutectic |  | experimental | [2] Khvan 2012; _cites Dovbenko 2000_ [doi](https://doi.org/10.1007/bf02684676) | p. 3 | “The melting temperature of the (NbC)þ Cr eutectic was corrected and reported as 1913 K.” |
 | 1913 | L = (Cr) + (Cr2Nb) | (Cr2Nb): Nb 0.333333 | experimental | [1] Schmetterer 2014; _cites Pan 1961_ | Table 3, p. 2, row 1 |  |
 | 1903 | L = (Cr) + (Cr2Nb) | (Cr2Nb): Nb 0.333333 | experimental | [1] Schmetterer 2014; _cites Goldschmidt 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990042-x) | Table 3, p. 2, row 7 |  |
 | 1898 | peritectoid |  | model | [1] Schmetterer 2014; _cites Thoma 1992_ [doi](https://doi.org/10.1016/0921-5093%2892%2990420-6) | p. 3 | “Based on these data they also concluded that the transition between the two phases comprises an intermediate C36 hexagonal Laves type phase and follows a sequential peritectoid (1898 K)-eutectoid (1858 K) transition.” |
@@ -97,7 +96,7 @@ Table: Invariant reactions reported in the literature for the Cr–Nb system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Nb system (23)
+Table: Enthalpies of formation, Cr–Nb system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -121,9 +120,6 @@ Table: Enthalpies of formation, Cr–Nb system (23)
 | UNKNOWN |  | 27.29 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 14 |  |
 | UNKNOWN |  | 30.56 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 12 |  |
 | UNKNOWN |  | 33.55 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 13 |  |
-| UNKNOWN |  | 75.33 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 11 |  |
-| UNKNOWN |  | 75.38 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 9 |  |
-| UNKNOWN |  | 75.39 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 10 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Cu–Fe–Ta system
 
-> Cu–Fe–Ta system: 31 accepted literature values (phase equilibrium 21, invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Fe–Ta system: 28 accepted literature values (phase equilibrium 21, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-FE-TA.html · Markdown: https://data.orchid-project.org/systems/CU-FE-TA.md
 
-31 accepted literature values from 1 paper(s) (experimental 21, model 10); 0 calculated phase diagram(s).
+28 accepted literature values from 1 paper(s) (experimental 21, model 7); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-FE-TA.json) · [CSV](https://data.orchid-project.org/systems/CU-FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-FE-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/CU-FE-TA.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 21 |
-| model | 10 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
+| invariant reaction | 7 |
 | phase equilibrium | 21 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Fe–Ta system (10)
+Table: Invariant reactions reported in the literature for the Cu–Fe–Ta system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -35,9 +35,6 @@ Table: Invariant reactions reported in the literature for the Cu–Fe–Ta syste
 | 1367.55 | quasi-peritectic: Liquid1 + (γFe) -> λ2 + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 8 |  |
 | 1352.75 | quasi-peritectic: Liquid1 + λ2 -> μ + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 9 |  |
 | 1339.75 | quasi-peritectic: Liquid1 + μ -> (Ta) + (Cu) |  | model | [1] Liu 2015 | Table 6, p. 10, row 10 |  |
-| 297.65 | quasi-peritectic: Liquid1 + μ -> λ2 + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 4 |  |
-| 288.55 | eutectic: Liquid1 -> λ + (γFe) + liquid2 |  | model | [1] Liu 2015 | Table 6, p. 10, row 7 |  |
-| 281.65 | eutectic: Liquid1 -> liquid2 + μ+ (Ta) |  | model | [1] Liu 2015 | Table 6, p. 10, row 2 |  |
 
 ## Other properties
 

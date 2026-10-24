@@ -1,10 +1,10 @@
 # Gd–Ni system
 
-> Gd–Ni system: 77 accepted literature values (invariant reaction 62, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Ni system: 56 accepted literature values (invariant reaction 41, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-NI.html · Markdown: https://data.orchid-project.org/systems/GD-NI.md
 
-77 accepted literature values from 2 paper(s) (experimental 55, model 19, unspecified 3); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+56 accepted literature values from 2 paper(s) (experimental 41, model 12, unspecified 3); 3 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-NI.json) · [CSV](https://data.orchid-project.org/systems/GD-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-NI/GdNi-15Rah.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GD-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-NI.html) · [Markdown](https://data.orchid-project.org/systems/GD-NI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
-| model | 19 |
+| experimental | 41 |
+| model | 12 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 62 |
+| invariant reaction | 41 |
 | phase transition | 15 |
 
 ## Calculated phase diagrams
@@ -124,72 +124,51 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Gd–Ni system (62)
+Table: Invariant reactions reported in the literature for the Gd–Ni system (41)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2108.15 | Liquid -> GdSi |  | model | [1] Huang 2007 | Table 2, p. 6, row 11 |  |
-| 2108.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 12 |  |
-| 2103.15 | Liquid -> GdSi |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 13 |  |
-| 2047.15 | Liquid + GdSi -> Gd5Si4 |  | model | [1] Huang 2007 | Table 2, p. 6, row 8 |  |
-| 2043.15 | Liquid + GdSi -> Gd5Si4 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 9 |  |
-| 2023.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 6 |  |
-| 2021.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | model | [1] Huang 2007 | Table 2, p. 6, row 5 |  |
-| 1998.15 | Liquid + GdSi -> Gd5Si4 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 10 |  |
-| 1973.15 | Liquid + Gd5Si4 -> Gd5Si3 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 7 |  |
-| 1938.15 | Liquid + GdSi -> Gd3Si5 |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 15 |  |
-| 1937.15 | Liquid + GdSi -> Gd3Si5 |  | model | [1] Huang 2007 | Table 2, p. 6, row 14 |  |
-| 1898.15 | Liquid + GdSi -> Gd3Si5 |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 16 |  |
-| 1874.15 | Liquid + Gd3Si5 -> GdSi2-x |  | model | [1] Huang 2007 | Table 2, p. 6, row 17 |  |
-| 1873.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 18 |  |
-| 1863.15 | Liquid + Gd3Si5 -> GdSi2-x |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 19 |  |
-| 1589 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.91; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | model | [2] Rahou 2015 | Table 4, p. 4, row 38 |  |
-| 1589 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.9; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 39 |  |
-| 1573 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 40 |  |
-| 1571 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.93; Gd2Ni17: Ni 0.894737 | model | [2] Rahou 2015 | Table 4, p. 4, row 43 |  |
-| 1571 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.94; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 44 |  |
-| 1563 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 45 |  |
-| 1558 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.94; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 41 |  |
-| 1557 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.71; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 30 |  |
-| 1556 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.73; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | model | [2] Rahou 2015 | Table 4, p. 4, row 29 |  |
-| 1553 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.95; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 42 |  |
-| 1548.15 | eutectic: L 4 Gd2Ni17 þ fcc-Ni |  | experimental | [2] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
-| 1548 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.95; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 46 |  |
-| 1535.15 | Liquid + bcc (Gd) -> hcp (Gd) |  | model | [1] Huang 2007 | Table 2, p. 6, row 1 |  |
-| 1521 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.96; Gd2Ni17: Ni 0.894737 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 47 |  |
-| 1503.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 22 |  |
-| 1500.15 | Liquid + GdSi2-x -> diamond (Si) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 21 |  |
-| 1499.15 | Liquid + GdSi2-x -> diamond (Si) |  | model | [1] Huang 2007 | Table 2, p. 6, row 20 |  |
-| 1481 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.69; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | model | [2] Rahou 2015 | Table 4, p. 4, row 24 |  |
-| 1480 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.66; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 25 |  |
-| 1474 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.64; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 33 |  |
-| 1473 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 31 |  |
-| 1473 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.65; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 32 |  |
-| 1383 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.61; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 27 |  |
-| 1383 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 26 |  |
-| 1372 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.6; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 28 |  |
-| 1361.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007 | Table 2, p. 6, row 3 |  |
-| 1360.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | model | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
-| 1358 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.61; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 20 |  |
-| 1358 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.64; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | model | [2] Rahou 2015 | Table 4, p. 4, row 19 |  |
-| 1353.15 | Liquid -> Gd5Si3 + hcp (Gd) |  | experimental | [1] Huang 2007; _cites Eremenko 1991_ | Table 2, p. 6, row 4 |  |
-| 1283 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.58; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 22 |  |
-| 1280 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.57; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 23 |  |
-| 1268 | peritectic: Liquid + GdNi3 ↔ GdNi2 | GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 21 |  |
-| 1232 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.57; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 18 |  |
-| 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | model | [2] Rahou 2015 | Table 4, p. 4, row 14 |  |
-| 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 15 |  |
-| 1158 | eutectic: Liquid ↔ GdNi + GdNi2 | GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 16 |  |
-| 1153.15 | eutectic: L 4 GdNi2 þ GdNi2 |  | experimental | [2] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
-| 1153 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 17 |  |
-| 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.3; Gd3Ni_HT: Ni 0.25 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 2 |  |
-| 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.32; Gd3Ni_HT: Ni 0.25 | model | [2] Rahou 2015 | Table 4, p. 4, row 1 |  |
-| 1008 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Gd3Ni_HT: Ni 0.25 | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 4 |  |
-| 1006 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.28; Gd3Ni_HT: Ni 0.25 | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 5 |  |
-| 986 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Gd3Ni_HT: Ni 0.25 | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 3 |  |
-| 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.36; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | model | [2] Rahou 2015 | Table 4, p. 4, row 8 |  |
-| 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.33; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 9 |  |
-| 908.15 | eutectic: L 4 Gd3Ni þ Gd3Ni2 |  | experimental | [2] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
+| 1589 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.91; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | model | [1] Rahou 2015 | Table 4, p. 4, row 38 |  |
+| 1589 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.9; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 39 |  |
+| 1573 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 40 |  |
+| 1571 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.93; Gd2Ni17: Ni 0.894737 | model | [1] Rahou 2015 | Table 4, p. 4, row 43 |  |
+| 1571 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.94; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 44 |  |
+| 1563 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 45 |  |
+| 1558 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.94; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 41 |  |
+| 1557 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.71; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 30 |  |
+| 1556 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.73; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | model | [1] Rahou 2015 | Table 4, p. 4, row 29 |  |
+| 1553 | peritectic: Liquid + GdNi5 ↔ Gd2Ni17 | Liquid: Ni 0.95; GdNi5: Ni 0.833333; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 42 |  |
+| 1548.15 | eutectic: L 4 Gd2Ni17 þ fcc-Ni |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
+| 1548 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.95; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 46 |  |
+| 1535.15 | Liquid + bcc (Gd) -> hcp (Gd) |  | model | [2] Huang 2007 | Table 2, p. 6, row 1 |  |
+| 1521 | eutectic: Liquid ↔ Gd2Ni17 + Ni | Liquid: Ni 0.96; Gd2Ni17: Ni 0.894737 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 47 |  |
+| 1481 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.69; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | model | [1] Rahou 2015 | Table 4, p. 4, row 24 |  |
+| 1480 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.66; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 25 |  |
+| 1474 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.64; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 33 |  |
+| 1473 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 31 |  |
+| 1473 | peritectic: Liquid + GdNi5 ↔ Gd2Ni7 | Liquid: Ni 0.65; GdNi5: Ni 0.833333; Gd2Ni7: Ni 0.777778 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 32 |  |
+| 1383 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.61; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 27 |  |
+| 1383 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 26 |  |
+| 1372 | peritectic: Liquid + Gd2Ni7 ↔ GdNi3 | Liquid: Ni 0.6; Gd2Ni7: Ni 0.777778; GdNi3: Ni 0.75 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 28 |  |
+| 1358 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.61; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 20 |  |
+| 1358 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.64; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | model | [1] Rahou 2015 | Table 4, p. 4, row 19 |  |
+| 1283 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.58; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 22 |  |
+| 1280 | peritectic: Liquid + GdNi3 ↔ GdNi2 | Liquid: Ni 0.57; GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 23 |  |
+| 1268 | peritectic: Liquid + GdNi3 ↔ GdNi2 | GdNi3: Ni 0.75; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 21 |  |
+| 1232 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.57; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 18 |  |
+| 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | model | [1] Rahou 2015 | Table 4, p. 4, row 14 |  |
+| 1172 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 15 |  |
+| 1158 | eutectic: Liquid ↔ GdNi + GdNi2 | GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 16 |  |
+| 1153.15 | eutectic: L 4 GdNi2 þ GdNi2 |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
+| 1153 | eutectic: Liquid ↔ GdNi + GdNi2 | Liquid: Ni 0.56; GdNi: Ni 0.5; GdNi2: Ni 0.666667 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 17 |  |
+| 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.3; Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 2 |  |
+| 1039 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.32; Gd3Ni_HT: Ni 0.25 | model | [1] Rahou 2015 | Table 4, p. 4, row 1 |  |
+| 1008 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 4 |  |
+| 1006 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Liquid: Ni 0.28; Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 5 |  |
+| 986 | peritectic: Liquid + α-Gd ↔ Gd3Ni_HT | Gd3Ni_HT: Ni 0.25 | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 3 |  |
+| 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.36; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | model | [1] Rahou 2015 | Table 4, p. 4, row 8 |  |
+| 977 | eutectic: Liquid ↔ Gd3Ni_HT + GdNi | Liquid: Ni 0.33; Gd3Ni_HT: Ni 0.25; GdNi: Ni 0.5 | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 9 |  |
+| 908.15 | eutectic: L 4 Gd3Ni þ Gd3Ni2 |  | experimental | [1] Rahou 2015; _cites Pan 1986_ | p. 2 | “Three eutectic reactions occur: L 4 Gd3Ni þ Gd3Ni2 (635 C, ~2 at% Ni), L 4 GdNi2 þ GdNi2 (880 C ~ 56 at% Ni) and L 4 Gd2Ni17 þ fcc-Ni (1275 C, ~95 at% Ni).” |
 
 ## Other properties
 
@@ -199,28 +178,28 @@ Table: Phase transition, Gd–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 31 K | 31 | magnetic: GdNi5; _alloy: Ni 0.833333_ | unspecified | [2] Rahou 2015; _cites Kaplan 1989_ [doi](https://doi.org/10.1103/physrevlett.62.2732) | Table 1, p. 2, row 1 |  |
-| Phase transition | 69 K | 69 | magnetic: GdNi; _alloy: Ni 0.5_ | unspecified | [2] Rahou 2015; _cites Kumar 2008_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 80 K | 80 | magnetic: GdNi2; _alloy: Ni 0.666667_ | unspecified | [2] Rahou 2015; _cites Gratz 2015_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 114 K | 114 | magnetic: GdNi3; _alloy: Ni 0.75_ | experimental | [2] Rahou 2015; _cites Kwiecien 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.12.032) | Table 1, p. 2, row 4 |  |
-| Phase transition | 911 K | 911 | polymorphic | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | p. 2 | “In the work by Xu et al. \[32\], the DSC curve for the Gd20 at% Ni sample exhibits a small pic at 911 K attributed by these authors to an allotropic transformation of Gd3Ni.” |
-| Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 7 |  |
-| Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | model | [2] Rahou 2015 | Table 4, p. 4, row 6 |  |
-| Phase transition | 1238 K | 1238 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [2] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 11 |  |
-| Phase transition | 1238 K | 1238 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | model | [2] Rahou 2015 | Table 4, p. 4, row 10 |  |
-| Phase transition | 1253 K | 1253 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 12 |  |
-| Phase transition | 1553 K | 1553 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 13 |  |
-| Phase transition | 1705 K | 1705 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | model | [2] Rahou 2015 | Table 4, p. 4, row 34 |  |
-| Phase transition | 1706 K | 1706 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [2] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 35 |  |
-| Phase transition | 1753 K | 1753 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [2] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 36 |  |
-| Phase transition | 1760 K | 1760 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [2] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 37 |  |
+| Phase transition | 31 K | 31 | magnetic: GdNi5; _alloy: Ni 0.833333_ | unspecified | [1] Rahou 2015; _cites Kaplan 1989_ [doi](https://doi.org/10.1103/physrevlett.62.2732) | Table 1, p. 2, row 1 |  |
+| Phase transition | 69 K | 69 | magnetic: GdNi; _alloy: Ni 0.5_ | unspecified | [1] Rahou 2015; _cites Kumar 2008_ | Table 1, p. 2, row 2 |  |
+| Phase transition | 80 K | 80 | magnetic: GdNi2; _alloy: Ni 0.666667_ | unspecified | [1] Rahou 2015; _cites Gratz 2015_ | Table 1, p. 2, row 3 |  |
+| Phase transition | 114 K | 114 | magnetic: GdNi3; _alloy: Ni 0.75_ | experimental | [1] Rahou 2015; _cites Kwiecien 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.12.032) | Table 1, p. 2, row 4 |  |
+| Phase transition | 911 K | 911 | polymorphic | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | p. 2 | “In the work by Xu et al. \[32\], the DSC curve for the Gd20 at% Ni sample exhibits a small pic at 911 K attributed by these authors to an allotropic transformation of Gd3Ni.” |
+| Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 7 |  |
+| Phase transition | 911 K | 911 | polymorphic: Gd3Ni_LT ↔ Gd3Ni_HT; _Gd3Ni_LT: Ni 0.25; Gd3Ni_HT: Ni 0.25_ | model | [1] Rahou 2015 | Table 4, p. 4, row 6 |  |
+| Phase transition | 1238 K | 1238 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [1] Rahou 2015; _cites Xu 2012_ [doi](https://doi.org/10.3139/146.110756) | Table 4, p. 4, row 11 |  |
+| Phase transition | 1238 K | 1238 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | model | [1] Rahou 2015 | Table 4, p. 4, row 10 |  |
+| Phase transition | 1253 K | 1253 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 12 |  |
+| Phase transition | 1553 K | 1553 | congruent melting: Liquid ↔ GdNi; _Liquid: Ni 0.5; GdNi: Ni 0.5_ | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 13 |  |
+| Phase transition | 1705 K | 1705 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | model | [1] Rahou 2015 | Table 4, p. 4, row 34 |  |
+| Phase transition | 1706 K | 1706 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [1] Rahou 2015; _cites Dischinger 1998_ [doi](https://doi.org/10.1002/bbpc.19981020918) | Table 4, p. 4, row 35 |  |
+| Phase transition | 1753 K | 1753 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [1] Rahou 2015; _cites Pan 1986_ | Table 4, p. 4, row 36 |  |
+| Phase transition | 1760 K | 1760 | congruent melting: Liquid ↔ GdNi5; _Liquid: Ni 0.833333; GdNi5: Ni 0.833333_ | experimental | [1] Rahou 2015; _cites Xia 1997_ | Table 4, p. 4, row 37 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007). [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068)
-2. Z. Rahou, K. Mahdouk, Thermodynamic reassessment of Gd–Ni system, Journal of Alloys and Compounds 648, 346-352 (2015). [doi:10.1016/j.jallcom.2015.06.201](https://doi.org/10.1016/j.jallcom.2015.06.201)
+1. Z. Rahou, K. Mahdouk, Thermodynamic reassessment of Gd–Ni system, Journal of Alloys and Compounds 648, 346-352 (2015). [doi:10.1016/j.jallcom.2015.06.201](https://doi.org/10.1016/j.jallcom.2015.06.201)
+2. Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007). [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068)
 
 ## Please cite
 

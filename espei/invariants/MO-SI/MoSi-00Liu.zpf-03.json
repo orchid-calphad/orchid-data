@@ -207,6 +207,7 @@
   "observations": [
    {
     "id": "ORC-EKZMS55JHZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b",
     "caveats": [
@@ -215,16 +216,19 @@
    },
    {
     "id": "ORC-BZ5EHWB2F3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b"
    },
    {
     "id": "ORC-OOBZHIFSQY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b"
    },
    {
     "id": "ORC-Q5SAOF4DEA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b",
     "caveats": [
@@ -233,11 +237,13 @@
    },
    {
     "id": "ORC-AWMI7WQYKA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b"
    },
    {
     "id": "ORC-2X4VWGX5X6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0966-9795(00)00068-6",
     "measured_in": "ref:1639b677ac92cf7b"
    }

@@ -1,10 +1,10 @@
 # Co–W system
 
-> Co–W system: 182 accepted literature values (formation 128, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–W system: 117 accepted literature values (formation 64, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-W.html · Markdown: https://data.orchid-project.org/systems/CO-W.md
 
-182 accepted literature values from 5 paper(s) (experimental 23, model 31, DFT 128); 10 calculated phase diagram(s).
+117 accepted literature values from 5 paper(s) (experimental 22, model 31, DFT 64); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-W.json) · [CSV](https://data.orchid-project.org/systems/CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-W/CoW-05Mar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-W.html) · [Markdown](https://data.orchid-project.org/systems/CO-W.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
+| experimental | 22 |
 | model | 31 |
-| DFT | 128 |
+| DFT | 64 |
 
 Table: Accepted values by property group
 
@@ -23,9 +23,8 @@ Table: Accepted values by property group
 | invariant reaction | 19 |
 | phase transition | 10 |
 | phase equilibrium | 12 |
-| formation | 128 |
+| formation | 64 |
 | mixing / partial | 12 |
-| activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
 
@@ -167,74 +166,10 @@ Table: Invariant reactions reported in the literature for the Co–W system (19)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–W system (128)
+Table: Enthalpies of formation, Co–W system (64)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -4.446 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 31 |  |
-| UNKNOWN |  | -4.415 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 31 |  |
-| UNKNOWN |  | -3.927 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 15 |  |
-| UNKNOWN |  | -3.512 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 15 |  |
-| UNKNOWN |  | 1.853 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 13 |  |
-| UNKNOWN |  | 4.816 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 27 |  |
-| UNKNOWN |  | 5.102 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 27 |  |
-| UNKNOWN |  | 5.866 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 29 |  |
-| UNKNOWN |  | 6.608 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 13 |  |
-| UNKNOWN |  | 7.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 11 |  |
-| UNKNOWN |  | 8.307 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 5 |  |
-| UNKNOWN |  | 8.801 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 7 |  |
-| UNKNOWN |  | 9.684 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 29 |  |
-| UNKNOWN |  | 10.545 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 23 |  |
-| UNKNOWN |  | 10.632 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 7 |  |
-| UNKNOWN |  | 11.322 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
-| UNKNOWN |  | 12.118 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 9 |  |
-| UNKNOWN |  | 12.825 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 11 |  |
-| UNKNOWN |  | 13.694 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 23 |  |
-| UNKNOWN |  | 13.709 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 21 |  |
-| UNKNOWN |  | 14.252 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 19 |  |
-| UNKNOWN |  | 15.029 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 3 |  |
-| UNKNOWN |  | 15.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 25 |  |
-| UNKNOWN |  | 16.878 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 17 |  |
-| UNKNOWN |  | 18.619 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 19 |  |
-| UNKNOWN |  | 22.257 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 5 |  |
-| UNKNOWN |  | 24.043 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 25 |  |
-| UNKNOWN |  | 25.112 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 3 |  |
-| UNKNOWN |  | 27.967 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 21 |  |
-| UNKNOWN |  | 27.98 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 16 |  |
-| UNKNOWN |  | 27.989 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 16 |  |
-| UNKNOWN |  | 30.262 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 9 |  |
-| UNKNOWN |  | 33.344 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 32 |  |
-| UNKNOWN |  | 33.353 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 32 |  |
-| UNKNOWN |  | 35.134 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 14 |  |
-| UNKNOWN |  | 36.811 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 14 |  |
-| UNKNOWN |  | 37.159 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 17 |  |
-| UNKNOWN |  | 37.562 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 6 |  |
-| UNKNOWN |  | 37.736 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 30 |  |
-| UNKNOWN |  | 38.804 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 6 |  |
-| UNKNOWN |  | 39.653 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 30 |  |
-| UNKNOWN |  | 41.007 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 22 |  |
-| UNKNOWN |  | 41.064 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 12 |  |
-| UNKNOWN |  | 41.351 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 12 |  |
-| UNKNOWN |  | 41.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 22 |  |
-| UNKNOWN |  | 42.638 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
-| UNKNOWN |  | 44.291 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 8 |  |
-| UNKNOWN |  | 45.561 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 10 |  |
-| UNKNOWN |  | 46.082 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 8 |  |
-| UNKNOWN |  | 46.225 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 10 |  |
-| UNKNOWN |  | 47.544 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 24 |  |
-| UNKNOWN |  | 48.877 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 24 |  |
-| UNKNOWN |  | 49.921 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2 |  |
-| UNKNOWN |  | 50.411 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 28 |  |
-| UNKNOWN |  | 50.421 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 28 |  |
-| UNKNOWN |  | 51.575 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2 |  |
-| UNKNOWN |  | 55.198 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 26 |  |
-| UNKNOWN |  | 55.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 26 |  |
-| UNKNOWN |  | 58.319 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 18 |  |
-| UNKNOWN |  | 58.706 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 4 |  |
-| UNKNOWN |  | 59.114 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 18 |  |
-| UNKNOWN |  | 62.598 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 4 |  |
-| UNKNOWN |  | 68.081 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 20 |  |
-| UNKNOWN |  | 69.959 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 20 |  |
 | μ 11111 |  | 11.322 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
 | μ 11111 |  | 42.638 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
 | μ 11112 |  | 49.921 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2 |  |
@@ -356,14 +291,6 @@ Table: Mixing / partial, Co–W system
 | Gibbs energy of mixing; _printed: ΔG^M_ | -1.28 kJ/mol (basis unstated) ± 0.337 | 1350 | fcc; _alloy: Co 0.95, W 0.05_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 7 |  |
 | Gibbs energy of mixing; _printed: ΔG^M_ | -1.498 kJ/mol (basis unstated) ± 0.435 | 1350 | fcc; _alloy: Co 0.93, W 0.07_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 11 |  |
 | Gibbs energy of mixing; _printed: ΔG^M_ | -0.941 kJ/mol (basis unstated) ± 0.238 | 1350 | fcc; _alloy: Co 0.97, W 0.03_ | experimental | [2] Guillermet 1989; _cites Rezukhina 1976_ [doi](https://doi.org/10.1016/0021-9614%2876%2990023-9) | Table III, p. 11, row 3 |  |
-
-### Activity / EMF / Gibbs energy (1)
-
-Table: Activity / EMF / Gibbs energy, Co–W system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Activity; _printed: a(C)_ | 0.2 unspecified | 1423 | fcc + M12C + M6C + WC | experimental | [5] Markström 2005; _cites Johansson 1977_ | p. 5 | “At a carbon activity near 0.2, Johansson (Ref 11) found a four-phase equilibrium between fcc, M12C, M6C, and WC at 1423 K.” |
 
 ## Sources
 

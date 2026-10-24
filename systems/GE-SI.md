@@ -1,10 +1,10 @@
 # Ge–Si system
 
-> Ge–Si system: 175 accepted literature values (crystal structure 72, activity / EMF / Gibbs energy 63, mixing / partial 39, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Si system: 126 accepted literature values (crystal structure 72, activity / EMF / Gibbs energy 33, mixing / partial 20, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SI.html · Markdown: https://data.orchid-project.org/systems/GE-SI.md
 
-175 accepted literature values from 3 paper(s) (experimental 102, model 1, unspecified 72); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+126 accepted literature values from 3 paper(s) (experimental 53, model 1, unspecified 72); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 102 |
+| experimental | 53 |
 | model | 1 |
 | unspecified | 72 |
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| mixing / partial | 39 |
-| activity / EMF / Gibbs energy | 63 |
+| mixing / partial | 20 |
+| activity / EMF / Gibbs energy | 33 |
 | crystal structure | 72 |
 
 ## Calculated phase diagrams
@@ -48,32 +48,13 @@ Table: Phase transition, Ge–Si system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1667.4 K | 1667.4 | other | model | [1] Dong 2021 | p. 10 | “For instance, a slightly lower solidification temperature (1394.25°C) was obtained for ­S iGe 0.45 P 0.33 comparing with that of the binary alloy ­SiP0.33 (1399.95°C).” |
 
-### Mixing / partial (39)
+### Mixing / partial (20)
 
 Table: Mixing / partial, Ge–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Partial enthalpy; _printed: H f, \*\*si_ | 6.61 kJ/mol (basis unstated) | 1327 |  | experimental | [2] Bergman 1992 | p. 3 | “Then the partial enthalpy of Si at infinite dilution, H f, \*\*si, is 6.61 kJ/mol with reference to Si (L, 1327 K).” |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 52.789 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.706 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.118 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.7 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9808, Si 0.0192_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 19 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 57.774 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9936, Si 0.0064_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 14 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.137 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.985, Si 0.015_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 7 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.938 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9993, Si 7.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 11 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.326 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9976, Si 0.0024_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 12 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.406 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9925, Si 0.0075_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 4 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.867 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9912, Si 0.0088_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 15 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 58.855 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9956, Si 0.0044_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 13 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.873 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9876, Si 0.0124_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 6 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9751, Si 0.0249_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 10 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.816 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.982, Si 0.018_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 8 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 54.513 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9862, Si 0.0138_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 17 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 55.811 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.99, Si 0.01_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 5 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 60.142 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9951, Si 0.0049_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 3 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 56.576 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
-| Partial enthalpy; _printed: \\bar{H}\_Si_ | 53.947 kJ/mol (basis unstated) | 1327 | UNKNOWN; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
 | Partial enthalpy; _printed: H^l_Si_ | 52.789 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9787, Si 0.0213_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 9 |  |
 | Partial enthalpy; _printed: H^l_Si_ | 54.706 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9991, Si 9.000e-4_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 1 |  |
 | Partial enthalpy; _printed: H^l_Si_ | 53.118 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9885, Si 0.0115_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 16 |  |
@@ -94,23 +75,13 @@ Table: Mixing / partial, Ge–Si system
 | Partial enthalpy; _printed: H^l_Si_ | 56.576 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
 | Partial enthalpy; _printed: H^l_Si_ | 53.947 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
 
-### Activity / EMF / Gibbs energy (63)
+### Activity / EMF / Gibbs energy (33)
 
 Table: Activity / EMF / Gibbs energy, Ge–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Ge; _printed: a_Ge_ | 0.26 1 | 1723 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
-| Activity Ge; _printed: a_Ge_ | 0.366 1 | 1723 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
-| Activity Ge; _printed: a_Ge_ | 0.14 1 | 1723 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
-| Activity Ge; _printed: a_Ge_ | 0.9 1 | 1723 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 2 |  |
 | Activity Ge; _printed: a_Ge_ | 0.554 1 | 1723 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 6 |  |
-| Activity Ge; _printed: a_Ge_ | 1 1 | 1723 | UNKNOWN; _alloy: Ge 1, Si 0_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 1 |  |
-| Activity Ge; _printed: a_Ge_ | 0.46 1 | 1723 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 7 |  |
-| Activity Ge; _printed: a_Ge_ | 0 1 | 1723 | UNKNOWN; _alloy: Ge 0, Si 1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 11 |  |
-| Activity Ge; _printed: a_Ge_ | 0.726 1 | 1723 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
-| Activity Ge; _printed: a_Ge_ | 0.81 1 | 1723 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
-| Activity Ge; _printed: a_Ge_ | 0.64 1 | 1723 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
 | Activity Ge; _printed: aGe_ | 0.26 1 | 1723 | liquid; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
 | Activity Ge; _printed: aGe_ | 0.366 1 | 1723 | liquid; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
 | Activity Ge; _printed: aGe_ | 0.14 1 | 1723 | liquid; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
@@ -121,17 +92,6 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 | Activity Ge; _printed: aGe_ | 0.726 1 | 1723 | liquid; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
 | Activity Ge; _printed: aGe_ | 0.81 1 | 1723 | liquid; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
 | Activity Ge; _printed: aGe_ | 0.64 1 | 1723 | liquid; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
-| Activity Si; _printed: a_Si_ | 0.81 1 | 1723 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
-| Activity Si; _printed: a_Si_ | 0.726 1 | 1723 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
-| Activity Si; _printed: a_Si_ | 0.9 1 | 1723 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
-| Activity Si; _printed: a_Si_ | 0.14 1 | 1723 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 2 |  |
-| Activity Si; _printed: a_Si_ | 0.554 1 | 1723 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 6 |  |
-| Activity Si; _printed: a_Si_ | 0 1 | 1723 | UNKNOWN; _alloy: Ge 1, Si 0_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 1 |  |
-| Activity Si; _printed: a_Si_ | 0.64 1 | 1723 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 7 |  |
-| Activity Si; _printed: a_Si_ | 1 1 | 1723 | UNKNOWN; _alloy: Ge 0, Si 1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 11 |  |
-| Activity Si; _printed: a_Si_ | 0.366 1 | 1723 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
-| Activity Si; _printed: a_Si_ | 0.26 1 | 1723 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
-| Activity Si; _printed: a_Si_ | 0.46 1 | 1723 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
 | Activity Si; _printed: aSi_ | 0.81 1 | 1723 | liquid; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
 | Activity Si; _printed: aSi_ | 0.726 1 | 1723 | liquid; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
 | Activity Si; _printed: aSi_ | 0.9 1 | 1723 | liquid; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
@@ -143,17 +103,8 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 | Activity Si; _printed: aSi_ | 0.366 1 | 1723 | liquid; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
 | Activity Si; _printed: aSi_ | 0.26 1 | 1723 | liquid; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
 | Activity Si; _printed: aSi_ | 0.46 1 | 1723 | liquid; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
-| Gibbs energy; _printed: G^ex_ | 0.89 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
-| Gibbs energy; _printed: G^ex_ | 1.22 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
-| Gibbs energy; _printed: G^ex_ | 0.48 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
-| Gibbs energy; _printed: G^ex_ | 0.48 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 2 |  |
-| Gibbs energy; _printed: G^ex_ | 1.47 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 6 |  |
 | Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 1, Si 0_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 1 |  |
-| Gibbs energy; _printed: G^ex_ | 1.35 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 7 |  |
 | Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0, Si 1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 11 |  |
-| Gibbs energy; _printed: G^ex_ | 1.22 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
-| Gibbs energy; _printed: G^ex_ | 0.89 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
-| Gibbs energy; _printed: G^ex_ | 1.35 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
 | Gibbs energy; _printed: Gex_ | 0.89 kJ/mol | 1723 | liquid; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
 | Gibbs energy; _printed: Gex_ | 1.22 kJ/mol | 1723 | liquid; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
 | Gibbs energy; _printed: Gex_ | 0.48 kJ/mol | 1723 | liquid; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |

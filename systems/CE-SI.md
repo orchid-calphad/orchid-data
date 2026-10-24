@@ -1,10 +1,10 @@
 # Ce–Si system
 
-> Ce–Si system: 229 accepted literature values (mixing / partial 98, invariant reaction 55, formation 39, phase equilibrium 23) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Si system: 179 accepted literature values (invariant reaction 54, mixing / partial 49, formation 39, phase equilibrium 23) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-SI.html · Markdown: https://data.orchid-project.org/systems/CE-SI.md
 
-229 accepted literature values from 3 paper(s) (experimental 119, model 82, unspecified 28); 2 calculated phase diagram(s).
+179 accepted literature values from 3 paper(s) (experimental 92, model 59, unspecified 28); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-SI.json) · [CSV](https://data.orchid-project.org/systems/CE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-SI/CeSi-04Gro.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-SI.html) · [Markdown](https://data.orchid-project.org/systems/CE-SI.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 119 |
-| model | 82 |
+| experimental | 92 |
+| model | 59 |
 | unspecified | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
+| invariant reaction | 54 |
 | phase transition | 14 |
 | phase equilibrium | 23 |
 | formation | 39 |
-| mixing / partial | 98 |
+| mixing / partial | 49 |
 
 ## Calculated phase diagrams
 
@@ -89,7 +89,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Si system (55)
+Table: Invariant reactions reported in the literature for the Ce–Si system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -142,7 +142,6 @@ Table: Invariant reactions reported in the literature for the Ce–Si system (55
 | 1463 | eutectic: Liquid ↔ (Si) + CeSi2 |  | experimental | [1] Huang 2016; _cites Vogel 1913_ [doi](https://doi.org/10.1002/zaac.19130840125) | p. 2 | “The eutectic reaction involving silicon reported by Vogel \[16\] was determined to be Liquid ↔ (Si) + CeSi2 with a temperature of 1463 K, which is 50 K lower than that reported by Vogel \[16\].” |
 | 1460 | eutectic: L ↔ CeSi2 + (Si) | CeSi2: Ce 0.333333, Si 0.666667 | model | [1] Huang 2016; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 7, p. 8, row 42 |  |
 | 1020.15 | eutectic: L⇌(C) + SiC + Ce3Si2C2 |  | model | [2] Xu 2020 | p. 9 | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
-| 1020.15 | eutectic |  | model | [2] Xu 2020 | p. 1 | “In the SiC-RE3Si2C2 core-shell structures, the RE3Si2C2 phases can react with SiC via ternary eutectic reactions at 810°C, 747°C, and 1148°C respectively.” |
 | 926.15 | peritectic |  | experimental | [3] Gröbner 2004 | p. 9 | “The incongruent formation of 2 is given by the rather low DTA signal at 653 °C and, most importantly, by the peritectic formation type observed in the micrographs (e.g., Figures 7 and 8).” |
 | 908 | eutectic: L ↔ (γCe) + Ce5Si3 | L: Si 0.105; (γCe): Si 0; Ce5Si3: Si 0.375 | experimental | [1] Huang 2016; _cites Bulanova 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900409-7) | Table 7, p. 8, row 2 |  |
 | 900.1 | eutectic: L ↔ (γCe) + Ce5Si3 | L: Si 0.109; (γCe): Si 0; Ce5Si3: Si 0.375 | unspecified | [1] Huang 2016 | Table 7, p. 8, row 1 |  |
@@ -250,66 +249,17 @@ Table: Phase equilibrium, Ce–Si system
 | Phase composition |  | 1373 | CeSi1.68\* + CeSi\* + CeSi1.68 + CeSi; _CeSi1.68\*: Ce 0.364, Si 0.636; CeSi1.68: Ce 0.364, Si 0.636; CeSi\*: Ce 0.499, Si 0.501; CeSi: Ce 0.499, Si 0.501_ | experimental | [1] Huang 2016 | Table 5, p. 5, row 13 |  |
 | Phase composition |  | 1373 | CeSi2 + CeSi1.68; _CeSi2: Ce 0.358, Si 0.642; CeSi1.68: Ce 0.362, Si 0.638_ | experimental | [1] Huang 2016 | Table 4, p. 3, row 2 |  |
 
-### Mixing / partial (98)
+### Mixing / partial (49)
 
 Table: Mixing / partial, Ce–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | -11 kJ/mol-atom | 1890.15 | Liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 45 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -35 kJ/mol-atom | 1890.15 | Liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 39 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -45 kJ/mol-atom | 1890.15 | Liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 36 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -23 kJ/mol-atom | 1890.15 | Liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 42 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1890.15 | Liquid; _alloy: Ce 0, Si 1_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 48 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -11 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 45 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -35 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 39 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -45 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 36 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -23 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 42 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1890.15 | liquid; _alloy: Ce 0, Si 1_ | experimental | [3] Gröbner 2004; _cites Sudavtsova 1988_ | Table VIII, p. 11, row 48 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 1, Si 0_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -15.7 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.3, Si 0.7_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 32 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -13.6 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.9, Si 0.1_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -22.1 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.8, Si 0.2_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -43.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.2, Si 0.8_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 35 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -23.2 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.45, Si 0.55_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 26 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -33.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.15, Si 0.85_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 38 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -20.9 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.4, Si 0.6_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -72 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.55, Si 0.45_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 19 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.55, Si 0.45_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -11.65 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.05, Si 0.95_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 44 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -71.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.4, Si 0.6_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 27 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -73.9 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.5, Si 0.5_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 21 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 1, Si 0_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.9 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.5, Si 0.5_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -56.6 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.7, Si 0.3_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 13 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0, Si 1_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 49 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.7 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.75, Si 0.25_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7.1 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.15, Si 0.85_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 40 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -27.1 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.65, Si 0.35_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 16 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -30.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.85, Si 0.15_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0, Si 1_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 47 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -63.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.65, Si 0.35_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 15 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -27.04 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.6, Si 0.4_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -73.75 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.45, Si 0.55_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 25 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -2 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.05, Si 0.95_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 46 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -68.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.6, Si 0.4_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 17 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -52.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.25, Si 0.75_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 33 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -20.5 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.9, Si 0.1_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -60.2 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.3, Si 0.7_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 31 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -12.8 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.25, Si 0.75_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 34 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9.9 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.2, Si 0.8_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 37 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -48.6 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.75, Si 0.25_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.85, Si 0.15_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -10.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.95, Si 0.05_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -7.5 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.95, Si 0.05_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -66.7 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.35, Si 0.65_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 29 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -74 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.48, Si 0.52_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -22.8 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.1, Si 0.9_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 41 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -4.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.1, Si 0.9_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 43 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -24.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.48, Si 0.52_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 24 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -18.4 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.35, Si 0.65_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 30 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -26.3 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.7, Si 0.3_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -39.8 kJ/mol-atom | 1923.15 | Liquid; _alloy: Ce 0.8, Si 0.2_ | experimental | [3] Gröbner 2004; _cites Ryss 1977_ | Table VIII, p. 11, row 9 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 1, Si 0_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 2 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -15.7 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.3, Si 0.7_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 32 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -13.6 kJ/mol-atom | 1923.15 | liquid; _alloy: Ce 0.9, Si 0.1_ | model | [3] Gröbner 2004 | Table VIII, p. 11, row 6 |  |

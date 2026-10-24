@@ -1,10 +1,10 @@
 # C–V system
 
-> C–V system: 45 accepted literature values (invariant reaction 25, phase transition 14, phase equilibrium 4, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–V system: 44 accepted literature values (invariant reaction 25, phase transition 14, phase equilibrium 4, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-V.html · Markdown: https://data.orchid-project.org/systems/C-V.md
 
-45 accepted literature values from 2 paper(s) (experimental 22, model 19, unspecified 4); 0 calculated phase diagram(s).
+44 accepted literature values from 2 paper(s) (experimental 22, model 19, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-V.json) · [CSV](https://data.orchid-project.org/systems/C-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-V) · [phases (11)](https://data.orchid-project.org/phases/pages/C-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-V.html) · [Markdown](https://data.orchid-project.org/systems/C-V.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 22 |
 | model | 19 |
-| unspecified | 4 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 25 |
 | phase transition | 14 |
 | phase equilibrium | 4 |
-| crystal structure | 2 |
+| crystal structure | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-V.json) · [CALPHAD hull VC-06Hu](https://data.orchid-project.org/hulls/calphad-sgte/C/C-V--VC-06Hu.json) · [CALPHAD hull VC-91Hua-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-V--VC-91Hua-LB.json)
 
@@ -93,13 +93,12 @@ Table: Phase equilibrium, C–V system
 | Phase composition |  | 1385 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 1, p. 2, row 30 |  |
 | Phase composition |  | 1397 | congruent melting: V8C7 \<-> VCx; _liquid: V 0.533333; V8C7: V 0.533333_ | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 1, p. 2, row 31 |  |
 
-### Crystal structure (2)
+### Crystal structure (1)
 
 Table: Crystal structure, C–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| volume; _printed: Ω_ | 9.058 unknown |  | UNKNOWN; _alloy: V 0.5_ | unspecified | [2] Bratberg 2002 | Table 3, p. 7, row 2 |  |
 | volume; _printed: Ω_ | 9.058 unknown |  | η-VC; _alloy: V 0.5_ | unspecified | [2] Bratberg 2002 | Table 3, p. 7, row 2 |  |
 
 ## Sources

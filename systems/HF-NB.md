@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/HF-NB.html · Markdown: https://data.orchid-project.org/systems/HF-NB.md
 
-46 accepted literature values from 2 paper(s) (experimental 7, model 3, DFT 36); 2 calculated phase diagram(s).
+46 accepted literature values from 2 paper(s) (experimental 8, model 2, DFT 36); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NB.json) · [CSV](https://data.orchid-project.org/systems/HF-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NB/HfNb-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NB.html) · [Markdown](https://data.orchid-project.org/systems/HF-NB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 3 |
+| experimental | 8 |
+| model | 2 |
 | DFT | 36 |
 
 Table: Accepted values by property group
@@ -77,7 +77,7 @@ Table: Phase transition, Hf–Nb system
 | Phase transition | 2016 K | 2016 |  | model | [1] Ghosh 2002 | p. 11 | “Above 2016 K, Hf and Nb form continuous bee solid solution, while the solubility of Nb in hcp-Hf is rather limited.” |
 | Phase transition | 2338 K | 2338 | other | model | [2] Guillermet 1996 | p. 3 | “The present calculation places the minimum at 36.5 at.% Nb and 2338 K.” |
 | Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3 | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
-| Phase transition | 2373 K | 2373 | other | model | [1] Ghosh 2002 | p. 11 | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
+| Phase transition | 2373 K | 2373 | other | experimental | [1] Ghosh 2002 | p. 11 | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
 
 ### Crystal structure (22)
 

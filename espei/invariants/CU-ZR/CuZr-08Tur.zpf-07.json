@@ -124,6 +124,7 @@
   "observations": [
    {
     "id": "ORC-Y3QUAXETHU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x",
     "also_reported_as": [
      {
@@ -135,10 +136,12 @@
    },
    {
     "id": "ORC-KBYKSSQCKG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x"
    },
    {
     "id": "ORC-JPMRL3IY5S",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x"
    }
   ],

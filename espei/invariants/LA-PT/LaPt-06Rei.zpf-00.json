@@ -191,21 +191,25 @@
   "observations": [
    {
     "id": "ORC-Z3NVDY5E3A",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.10.016",
     "measured_in": "doi:10.1016/j.jallcom.2005.10.016"
    },
    {
     "id": "ORC-R2OWYFXPNH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.10.016",
     "measured_in": "doi:10.1016/j.jallcom.2005.10.016"
    },
    {
     "id": "ORC-LZLUNJ546J",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.10.016",
     "measured_in": "doi:10.1016/j.jallcom.2005.10.016"
    },
    {
     "id": "ORC-C4AY456RPJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2005.10.016",
     "measured_in": "doi:10.1016/j.jallcom.2005.10.016"
    }

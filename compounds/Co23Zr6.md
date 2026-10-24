@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Co23Zr6 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29800 per mol-atom ± 1500 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2 |  |
-| -29.8 kJ/mol-atom ± 1.5 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7 |  |
-| -27.909 kJ/mol-atom | Co23Zr6 | 1596 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 8 |  |
-| -21.641 kJ/mol-atom | Co23Zr6 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 46 |  |
+| -29.8 kJ/mol-atom ± 1.5 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7 |  |
+| -29.8 per mol-atom ± 1500 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2 |  |
+| -27.909 kJ/mol-atom | Co23Zr6 | 1596 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 8 |  |
+| -21.641 kJ/mol-atom | Co23Zr6 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 46 |  |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021). [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5)
-2. A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010). [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006)
+1. A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010). [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006)
+2. Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021). [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5)
 
 ## Please cite
 

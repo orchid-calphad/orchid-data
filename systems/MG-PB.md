@@ -1,10 +1,10 @@
 # Mg–Pb system
 
-> Mg–Pb system: 133 accepted literature values (formation 40, invariant reaction 39, mixing / partial 34, crystal structure 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Pb system: 108 accepted literature values (mixing / partial 34, invariant reaction 34, crystal structure 20, formation 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://data.orchid-project.org/systems/MG-PB.md
 
-133 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 60); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+108 accepted literature values from 2 paper(s) (experimental 61, model 7, DFT 40); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PB.html) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
-| model | 8 |
-| DFT | 60 |
+| experimental | 61 |
+| model | 7 |
+| DFT | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
-| formation | 40 |
+| invariant reaction | 34 |
+| formation | 20 |
 | mixing / partial | 34 |
 | crystal structure | 20 |
 
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Pb system (39)
+Table: Invariant reactions reported in the literature for the Mg–Pb system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -67,18 +67,13 @@ Table: Invariant reactions reported in the literature for the Mg–Pb system (39
 | 822.65 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grethe 1959_ | Table 3, p. 6, row 1 |  |
 | 822.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.35; Mg2Pb: Pb 0.35 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 2 |  |
 | 748.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.2; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 13 |  |
-| 748.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.2; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Kurnakov 1933_ | Table 5, p. 7, row 7 |  |
 | 739.35 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0775 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 8 |  |
 | 739.35 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.0775; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0775 | experimental | [2] Dębski 2021; _cites Eldridge 1967_ | Table 5, p. 7, row 2 |  |
 | 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.0714; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0714 | experimental | [2] Dębski 2021; _cites Foote 1941_ | Table 5, p. 7, row 4 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.0714 | experimental | [1] Zhang 2014; _cites Foote 1941_ | Table 3, p. 6, row 10 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.091 | experimental | [1] Zhang 2014; _cites Vosskuhler 1939_ | Table 3, p. 6, row 12 |  |
 | 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.078; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.078 | experimental | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 5, p. 7, row 3 |  |
-| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.091; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.091 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 6 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.078 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 9 |  |
-| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.075; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.075 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 9 |  |
-| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.175; Mg2Pb: Pb 0.333; Phase 2: Pb 0.083; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.083 | model | [2] Dębski 2021 | Table 5, p. 7, row 1 |  |
-| 738.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.0975; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0975 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 5 |  |
 | 738.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0975 | experimental | [1] Zhang 2014; _cites Raynor 1940_ | Table 3, p. 6, row 11 |  |
 | 737.05 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.1929; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0741 | model | [1] Zhang 2014 | Table 3, p. 6, row 16 |  |
 | 732.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.192; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 8 |  |
@@ -103,7 +98,7 @@ Table: Invariant reactions reported in the literature for the Mg–Pb system (39
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mg–Pb system (40)
+Table: Enthalpies of formation, Mg–Pb system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -127,26 +122,6 @@ Table: Enthalpies of formation, Mg–Pb system (40)
 | Mg2Pb |  | -5.49966 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
 | Mg2Pb |  | -4.24535 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
 | Mg2Pb |  | -4.245 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -11.6747 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
-| UNKNOWN |  | -11.674 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites JARVIS_ | Table 3, p. 4, row 13 |  |
-| UNKNOWN |  | -6.13647 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -6.136 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Automatic_ | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -6.07858 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
-| UNKNOWN |  | -6.078 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites The_ | Table 3, p. 4, row 14 |  |
-| UNKNOWN |  | -5.978 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | -5.97244 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021 | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | -5.9 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
-| UNKNOWN |  | -5.89525 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites at 943 K_ | Table 3, p. 4, row 11 |  |
-| UNKNOWN |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
-| UNKNOWN |  | -5.855 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 9 |  |
-| UNKNOWN |  | -5.84701 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Seith 1937_ | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -5.533 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
-| UNKNOWN |  | -5.52861 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 3, p. 4, row 10 |  |
-| UNKNOWN |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
-| UNKNOWN |  | -5.49966 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Grethe 1959_ | Table 3, p. 4, row 8 |  |
-| UNKNOWN |  | -4.24535 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -4.245 kJ/mol-atom | 0 | DFT |  |  | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 12 |  |
 
 ## Other properties
 

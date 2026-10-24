@@ -52,6 +52,7 @@
   "observations": [
    {
     "id": "ORC-EJQDANPZ36",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2012.03.003"
    }
   ],

@@ -124,6 +124,7 @@
   "observations": [
    {
     "id": "ORC-NRKGNTF2T4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.04.066",
     "also_reported_as": [
      {
@@ -135,10 +136,12 @@
    },
    {
     "id": "ORC-YAEFCZ7HFL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.04.066"
    },
    {
     "id": "ORC-OFAJMYUFUF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2013.04.066"
    }
   ],

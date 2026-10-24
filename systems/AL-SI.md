@@ -1,10 +1,10 @@
 # Al–Si system
 
-> Al–Si system: 13 accepted literature values (invariant reaction 9, phase transition 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Si system: 11 accepted literature values (invariant reaction 7, phase transition 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SI.html · Markdown: https://data.orchid-project.org/systems/AL-SI.md
 
-13 accepted literature values from 3 paper(s) (experimental 4, model 9); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+11 accepted literature values from 3 paper(s) (experimental 4, model 7); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SI/AlSi-12Tan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-SI.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 4 |
-| model | 9 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
+| invariant reaction | 7 |
 | phase transition | 4 |
 
 ## Calculated phase diagrams
@@ -55,14 +55,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Si system (9)
+Table: Invariant reactions reported in the literature for the Al–Si system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 878.45 | eutectic |  | model | [1] Liang 2014 | p. 6 | “For alloy #1, AlP starts precipitating at 605.3 °C, point C in Fig. 6;” |
 | 850.15 | eutectic |  | model | [1] Liang 2014 | p. 2 | “The calculated Al-Si eutectic temperature (577 °C) and liquid composition (12.5 wt.% Si (12.1 at.% Si)), and the solid solubility of Si in the (Al) phase, are in good agreement with the data from the original work in 1980 \[23\] and a later extensive review of experimental data in Ref. \[35\] and other experimental results \[2\].” |
-| 850.15 | eutectic: L -> (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 8 | “However, an extra ZPF line of the AlP phase appears, shown as the red dashed line between the liquidus and solidus line of (Al) and continuing exactly along the horizontal line at 577 °C above 7 wt.% Si. This entire horizontal line in Fig. 10a represents the cut through the ternary eutectic L ! (Al) + (Si) + AlP four-phase equilibrium.” |
-| 850.15 | eutectic: L ! (Al) + (Si) + AlP |  | model | [1] Liang 2014 | p. 15 | “Based on this, the first consistent and experimentally supported Al-Si-P phase diagram was calculated, including details of the most important ternary eutectic, L ! (Al) + (Si) + AlP, at 577 °C.” |
 | 850.15 | eutectic |  | experimental | [2] Kroupa 2024 | p. 3 | “The composition of the eutectic point is Al-12.2 at.% Si, and the eutectic temperature is 577 C (Fig. 3).” |
 | 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 13 | “In all these alloys potent AlP nucleants appear before eutectic (Si) at 577 °C.” |
 | 850.15 | eutectic |  | experimental | [1] Liang 2014 | p. 12 | “Equilibrium eutectic temperature TE = 577 °C.” |

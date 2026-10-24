@@ -1,10 +1,10 @@
 # Al–Cd system
 
-> Al–Cd system: 81 accepted literature values (phase equilibrium 32, phase transition 30, activity / EMF / Gibbs energy 14, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cd system: 74 accepted literature values (phase equilibrium 32, phase transition 30, activity / EMF / Gibbs energy 7, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CD.html · Markdown: https://data.orchid-project.org/systems/AL-CD.md
 
-81 accepted literature values from 2 paper(s) (experimental 74, model 3, unspecified 4); 1 calculated phase diagram(s).
+74 accepted literature values from 2 paper(s) (experimental 67, model 3, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CD.json) · [CSV](https://data.orchid-project.org/systems/AL-CD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CD/AlCd-82McA.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-CD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CD.html) · [Markdown](https://data.orchid-project.org/systems/AL-CD.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
+| experimental | 67 |
 | model | 3 |
 | unspecified | 4 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 30 |
 | phase equilibrium | 32 |
 | heat capacity / entropy / enthalpy | 1 |
-| activity / EMF / Gibbs energy | 14 |
+| activity / EMF / Gibbs energy | 7 |
 
 ## Calculated phase diagrams
 
@@ -143,7 +143,7 @@ Table: Heat capacity / entropy / enthalpy, Al–Cd system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: metastable entropy of fusion_ | 9.7 J/mole.K | 550 |  | model | [2] Yang 1995 | p. 13 | “The expression for Cd\<RHOMBO_AlO> corresponds to an assumed relationship G,\<RHOMBO_AlO> - G,,\<HCP_A3> = 800 - 0.62 J/mole; this can be used to derive to a metastable melting point of about 550 K and a metastable entropy of fusion of 9.7 J/mole.K.” |
 
-### Activity / EMF / Gibbs energy (14)
+### Activity / EMF / Gibbs energy (7)
 
 Table: Activity / EMF / Gibbs energy, Al–Cd system
 
@@ -156,13 +156,6 @@ Table: Activity / EMF / Gibbs energy, Al–Cd system
 | Activity Cd; _printed: Activity (Cd)_ | 0.59 1 | 1373.15 | L; _alloy: Al 0.903, Cd 0.097_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 1 |  |
 | Activity Cd; _printed: Activity (Cd)_ | 0.9 1 | 1373.15 | L; _alloy: Al 0.122, Cd 0.878_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 7 |  |
 | Activity Cd; _printed: Activity (Cd)_ | 0.84 1 | 1373.15 | L; _alloy: Al 0.303, Cd 0.697_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 6 |  |
-| Activity Cd; _printed: Activity_ | 0.66 1 | 1373.15 | UNKNOWN; _alloy: Al 0.856, Cd 0.144_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 2 |  |
-| Activity Cd; _printed: Activity_ | 0.73 1 | 1373.15 | UNKNOWN; _alloy: Al 0.802, Cd 0.198_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 3 |  |
-| Activity Cd; _printed: Activity_ | 0.79 1 | 1373.15 | UNKNOWN; _alloy: Al 0.7, Cd 0.3_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 4 |  |
-| Activity Cd; _printed: Activity_ | 0.81 1 | 1373.15 | UNKNOWN; _alloy: Al 0.5, Cd 0.5_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 5 |  |
-| Activity Cd; _printed: Activity_ | 0.59 1 | 1373.15 | UNKNOWN; _alloy: Al 0.903, Cd 0.097_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 1 |  |
-| Activity Cd; _printed: Activity_ | 0.9 1 | 1373.15 | UNKNOWN; _alloy: Al 0.122, Cd 0.878_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 7 |  |
-| Activity Cd; _printed: Activity_ | 0.84 1 | 1373.15 | UNKNOWN; _alloy: Al 0.303, Cd 0.697_ | experimental | [1] McAlister 1982; _cites Baker 1982_ | Table 5, p. 5, row 6 |  |
 
 ## Sources
 

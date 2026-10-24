@@ -332,6 +332,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MLDQD7MNLJ ORC-K5SLMOSZFG ORC-BTXDGR6XW4 ORC-KP2DHU2XNH ORC-P6MIUTSVNW ORC-JLP53IIEOC ORC-HNOH42LQIL ORC-63MMWTTKT3 ORC-AHWYEC6ABD ORC-OEXXE7GLKW ORC-MZPHMO7VFU",
@@ -342,26 +343,32 @@
   "observations": [
    {
     "id": "ORC-MLDQD7MNLJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-K5SLMOSZFG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-BTXDGR6XW4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-KP2DHU2XNH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-P6MIUTSVNW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-JLP53IIEOC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2004.11.039",
     "also_reported_as": [
      {
@@ -373,22 +380,27 @@
    },
    {
     "id": "ORC-HNOH42LQIL",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-63MMWTTKT3",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-AHWYEC6ABD",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-OEXXE7GLKW",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    },
    {
     "id": "ORC-MZPHMO7VFU",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2004.11.039"
    }
   ],

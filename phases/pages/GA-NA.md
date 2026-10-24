@@ -13,7 +13,7 @@ Table: Phases of the Ga–Na system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ga-na-a11-orthorhombic); _phase:ga-na:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–302.91 K, x(Na) 0–0 | 2 | 1 |
-| [BCC_A2](#phase-ga-na-bcc-a2); _phase:ga-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.89 K, x(Na) 0.99995–1 | 2 | 1 |
+| [BCC_A2](#phase-ga-na-bcc-a2); _phase:ga-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.89 K, x(Na) 0.99995–1 | 0 | 1 |
 | [FCC_A1](#phase-ga-na-fcc-a1); _phase:ga-na:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GA39NA22](#phase-ga-na-ga39na22); _phase:ga-na:ga39na22_ | Ga39Na22 · oP244 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–820.2 K, x(Na) 0.36066–0.36066 | 9 | 1 |
 | [GA4NA_D13](#phase-ga-na-ga4na-d13); _phase:ga-na:ga4na-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–776.41 K, x(Na) 0.2–0.2 | 7 | 1 |
@@ -53,11 +53,10 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ga-na:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–370.89 K, x(Na) 0.99995–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-na:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:ga-na:bcc-a2  
-_paper: _paper:10.1016/j.jcrysgro.2007.05.044:Na  
+Names (2): _corpus: _corpus:phase:ga-na:bcc-a2  
 _tdb: _tdb:GaNa-07Wan.tdb:BCC_A2  
 
 
@@ -73,7 +72,7 @@ _tdb: _tdb:GaNa-07Wan.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jcrysgro.2007.05.044](https://doi.org/10.1016/j.jcrysgro.2007.05.044) Jingfang Wang, Wenxia Yuan, Min Li, Thermodynamic modeling of the Ga–N–Na system, Journal of Crystal Growth 307, 59-65 (2007).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ga–Na)
 
@@ -203,7 +202,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-na:liquid)
 
 Names (4): _corpus: _corpus:phase:ga-na:liquid  
-_paper: _paper:10.1016/j.jcrysgro.2007.05.044:Liquid, paper:10.1016/j.jcrysgro.2007.05.044:Liquid2  
+_paper: _paper:10.1016/j.jcrysgro.2007.05.044:Liquid, paper:10.1016/j.jcrysgro.2007.05.044:Liquid1  
 _tdb: _tdb:GaNa-07Wan.tdb:LIQUID  
 
 

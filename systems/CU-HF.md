@@ -1,10 +1,10 @@
 # Cu–Hf system
 
-> Cu–Hf system: 162 accepted literature values (invariant reaction 64, formation 54, crystal structure 29, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Hf system: 160 accepted literature values (invariant reaction 64, formation 52, crystal structure 29, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-HF.html · Markdown: https://data.orchid-project.org/systems/CU-HF.md
 
-162 accepted literature values from 3 paper(s) (experimental 62, model 58, DFT 17, unspecified 25); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+160 accepted literature values from 3 paper(s) (experimental 60, model 58, DFT 17, unspecified 25); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-HF.json) · [CSV](https://data.orchid-project.org/systems/CU-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-HF/CuHf-06Lia.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-HF.html) · [Markdown](https://data.orchid-project.org/systems/CU-HF.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
+| experimental | 60 |
 | model | 58 |
 | DFT | 17 |
 | unspecified | 25 |
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 64 |
 | phase transition | 15 |
-| formation | 54 |
+| formation | 52 |
 | crystal structure | 29 |
 
 ## Calculated phase diagrams
@@ -157,7 +157,7 @@ Table: Invariant reactions reported in the literature for the Cu–Hf system (64
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Hf system (49)
+Table: Enthalpies of formation, Cu–Hf system (47)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -171,8 +171,6 @@ Table: Enthalpies of formation, Cu–Hf system (49)
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -12.64 kJ/mol-atom | 298.15 | experimental | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 14 |  |
 | Cu10Hf7 |  | -4.15 kJ/mol (basis unstated) | 298 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 10 |  |
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -4.15 kJ/mol-atom |  | model | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 15 |  |
-| Cu51Hf14 |  | -22900 per mol-atom ± 2300 | 298 | experimental |  |  | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 6, row 4 |  |
-| Cu51Hf14 |  | -13650 per mol-atom ± 240 | 298 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 3 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -45.54 kJ/mol-atom | 298 | unspecified | -15.029 (mp-aaacrrua) |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 5 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -45.54 kJ/mol-atom |  | model | -15.029 (mp-aaacrrua) |  | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 22 |  |
 | Cu51Hf14 |  | -16.02 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 26 |  |

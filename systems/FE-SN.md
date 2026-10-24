@@ -1,10 +1,10 @@
 # Fe–Sn system
 
-> Fe–Sn system: 65 accepted literature values (invariant reaction 45, activity / EMF / Gibbs energy 12, mixing / partial 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sn system: 57 accepted literature values (invariant reaction 45, activity / EMF / Gibbs energy 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SN.html · Markdown: https://data.orchid-project.org/systems/FE-SN.md
 
-65 accepted literature values from 2 paper(s) (experimental 49, model 16); 3 calculated phase diagram(s).
+57 accepted literature values from 2 paper(s) (experimental 45, model 12); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN.json) · [CSV](https://data.orchid-project.org/systems/FE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-SN/FeSn-10Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SN.html) · [Markdown](https://data.orchid-project.org/systems/FE-SN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 16 |
+| experimental | 45 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 45 |
-| mixing / partial | 8 |
 | activity / EMF / Gibbs energy | 12 |
 
 ## Calculated phase diagrams
@@ -154,21 +153,6 @@ Table: Invariant reactions reported in the literature for the Fe–Sn system (45
 | 501.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 41 |  |
 
 ## Other properties
-
-### Mixing / partial (8)
-
-Table: Mixing / partial, Fe–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 24.149 unknown |  | FeSn; _alloy: Sn 0.5_ | model | [1] Huang 2010 | Table 5, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 20.334 unknown |  | FeSn; _alloy: Sn 0.5_ | experimental | [1] Huang 2010; _cites Zabdyr 1984_ | Table 5, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 23.65 unknown |  | FeSn; _alloy: Sn 0.5_ | experimental | [1] Huang 2010; _cites Eremenko 1976_ | Table 5, p. 6, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 19.702 unknown |  | FeSn; _alloy: Sn 0.5_ | model | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 5, p. 6, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 28.803 unknown |  | FeSn2; _alloy: Sn 0.666667_ | model | [1] Huang 2010; _cites Hari 1996_ [doi](https://doi.org/10.1016/s0364-5916%2896%2900021-1) | Table 5, p. 6, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 30.52 unknown |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [1] Huang 2010; _cites Eremenko 1976_ | Table 5, p. 6, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 28.368 unknown |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [1] Huang 2010; _cites Zabdyr 1984_ | Table 5, p. 6, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy (T coefficient)_ | 24.567 unknown |  | FeSn2; _alloy: Sn 0.666667_ | model | [1] Huang 2010 | Table 5, p. 6, row 13 |  |
 
 ### Activity / EMF / Gibbs energy (12)
 

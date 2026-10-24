@@ -1,10 +1,10 @@
 # H–Ti–Zr system
 
-> H–Ti–Zr system: 200 accepted literature values (crystal structure 155, formation 45) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ti–Zr system: 194 accepted literature values (crystal structure 155, formation 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-TI-ZR.html · Markdown: https://data.orchid-project.org/systems/H-TI-ZR.md
 
-200 accepted literature values from 1 paper(s) (model 30, DFT 170); 0 calculated phase diagram(s).
+194 accepted literature values from 1 paper(s) (model 24, DFT 170); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-TI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-TI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/H-TI-ZR.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 30 |
+| model | 24 |
 | DFT | 170 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 45 |
+| formation | 39 |
 | crystal structure | 155 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, H–Ti–Zr system (45)
+Table: Enthalpies of formation, H–Ti–Zr system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -64,16 +64,10 @@ Table: Enthalpies of formation, H–Ti–Zr system (45)
 | β |  | 45.3 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 68 |  |
 | β |  | 56.9 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ukita 2007 | Table 1, p. 4, row 52 |  |
 | γ-TiH |  | -35.66 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
-| γ-TiH |  | -35.66 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
-| γ-ZrH |  | -41.24 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | γ-ZrH |  | -41.24 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | δ-TiH2 |  | -47.1 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 2 |  |
-| δ-TiH2 |  | -47.1 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 2 |  |
-| δ-ZrH2 |  | -54 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | δ-ZrH2 |  | -54 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | ε-TiH2 |  | -47.3 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| ε-TiH2 |  | -47.3 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| ε-ZrH2 |  | -54.88 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
 | ε-ZrH2 |  | -54.88 kJ/mol (basis unstated) |  | model |  |  | [1] Ukita 2007 | Table 2, p. 5, row 6 |  |
 
 ## Other properties

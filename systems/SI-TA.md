@@ -1,10 +1,10 @@
 # Si–Ta system
 
-> Si–Ta system: 116 accepted literature values (invariant reaction 45, formation 27, heat capacity / entropy / enthalpy 22, phase transition 22) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta system: 113 accepted literature values (formation 45, invariant reaction 45, phase transition 22, heat capacity / entropy / enthalpy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA.html · Markdown: https://data.orchid-project.org/systems/SI-TA.md
 
-116 accepted literature values from 3 paper(s) (experimental 56, model 54, DFT 1, unspecified 5); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+113 accepted literature values from 3 paper(s) (experimental 54, model 53, DFT 1, unspecified 5); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 56 |
-| model | 54 |
+| experimental | 54 |
+| model | 53 |
 | DFT | 1 |
 | unspecified | 5 |
 
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 45 |
 | phase transition | 22 |
-| formation | 27 |
-| heat capacity / entropy / enthalpy | 22 |
+| formation | 45 |
+| heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
 
@@ -157,7 +157,7 @@ Table: Invariant reactions reported in the literature for the Si–Ta system (45
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si–Ta system (27)
+Table: Enthalpies of formation, Si–Ta system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -187,7 +187,6 @@ Table: Enthalpies of formation, Si–Ta system (27)
 | Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Kubaschewski 1968_ | Table 2, p. 2, row 3 |  |
 | Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -38.8 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 2 |  |
 | Si0.75Ta0.25 | [Si0.75Ta0.25](https://data.orchid-project.org/compounds/Si0.75Ta0.25.html) | -39 kJ/mol-atom | 298.15 | model |  | 4.527 (oqmd-2031407) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 1 |  |
-| UNKNOWN |  | -43.332 kJ/mol-atom | 1760.5 | experimental |  |  | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
 
 ## Other properties
 
@@ -220,34 +219,39 @@ Table: Phase transition, Si–Ta system
 | Phase transition | 3258 K | 3258 | Ta(bcc) -> Ta(L); _Ta(bcc): Ta 1_ | model | [2] Vahlas 1989 | Table 4, p. 9, row 18 |  |
 | Phase transition | 3258 K | 3258 | Ta(bcc) -> Ta(L); _Ta(bcc): Ta 1_ | experimental | [2] Vahlas 1989; _cites ref. 4_ | Table 4, p. 9, row 19 |  |
 
-### Heat capacity / entropy / enthalpy (22)
+### Formation (19)
+
+Table: Formation, Si–Ta system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: s_ | 0.10907 J/mol-atom/K |  | Si0.25Ta0.75; _alloy: Ta 0.75_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 42 |  |
+| Entropy of formation; _printed: s_ | -1.03482 J/mol-atom/K |  | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 41 |  |
+| Entropy of formation; _printed: s_ | 0.556494 J/mol-atom/K |  | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 40 |  |
+| Entropy of formation; _printed: s_ | 0.276595 J/mol-atom/K |  | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 35 |  |
+| Entropy of formation; _printed: s_ | 3.86421 J/mol-atom/K |  | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 34 |  |
+| Entropy of formation; _printed: s (Redlich–Kister)_ | 0.10907 J/mol-atom/K | 298.15 | Si0.25Ta0.75; _alloy: Ta 0.75_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
+| Entropy of formation; _printed: s (Kaptay)_ | -0.422237 J/mol-atom/K | 298.15 | Si0.25Ta0.75; _alloy: Ta 0.75_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
+| Entropy of formation; _printed: s (Kaptay)_ | 0.581966 J/mol-atom/K | 298.15 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
+| Entropy of formation; _printed: s (Redlich–Kister)_ | -1.03482 J/mol-atom/K | 298.15 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
+| Entropy of formation; _printed: s (Redlich–Kister)_ | 0.556494 J/mol-atom/K | 298.15 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
+| Entropy of formation; _printed: s (Redlich–Kister)_ | 0.276595 J/mol-atom/K | 298.15 | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
+| Entropy of formation; _printed: s (Kaptay)_ | -0.777086 J/mol-atom/K | 298.15 | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
+| Entropy of formation; _printed: s (Redlich–Kister)_ | 3.86421 J/mol-atom/K | 298.15 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
+| Entropy of formation; _printed: s_ | -13.95 J/mol-atom/K | 1027 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | experimental | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
+| Entropy of formation; _printed: s_ | -13.34 J/mol-atom/K | 1027 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | experimental | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 19 |  |
+| Entropy of formation; _printed: s_ | 13.57 J/mol-atom/K | 1760.5 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
+| Entropy of formation; _printed: s_ | -0.339 J/mol-atom/K | 1900 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 17 |  |
+| Entropy of formation; _printed: s_ | -1.6 J/mol-atom/K | 2045 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
+| Entropy of formation; _printed: s_ | -2.17 J/mol-atom/K | 2087.5 | Si0.25Ta0.75; _alloy: Ta 0.75_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
+
+### Heat capacity / entropy / enthalpy (1)
 
 Table: Heat capacity / entropy / enthalpy, Si–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: s_ | 0.10907 J/mol-atom/K |  | Si0.25Ta0.75; _alloy: Ta 0.75_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 42 |  |
-| Entropy; _printed: s_ | -1.03482 J/mol-atom/K |  | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 41 |  |
-| Entropy; _printed: s_ | 0.556494 J/mol-atom/K |  | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 40 |  |
-| Entropy; _printed: s_ | 0.276595 J/mol-atom/K |  | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 35 |  |
-| Entropy; _printed: s_ | 3.86421 J/mol-atom/K |  | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | unspecified | [3] Drouelle 2013 | Table 2, p. 2, row 34 |  |
-| Entropy; _printed: s (Redlich–Kister)_ | 0.10907 J/mol-atom/K | 298.15 | Si0.25Ta0.75; _alloy: Ta 0.75_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
-| Entropy; _printed: s (Kaptay)_ | -0.422237 J/mol-atom/K | 298.15 | Si0.25Ta0.75; _alloy: Ta 0.75_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
-| Entropy; _printed: s (Kaptay)_ | 0.581966 J/mol-atom/K | 298.15 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
-| Entropy; _printed: s (Redlich–Kister)_ | -1.03482 J/mol-atom/K | 298.15 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
-| Entropy; _printed: s = b_ | -0.776768 J/mol-atom/K | 298.15 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
-| Entropy; _printed: s (Redlich–Kister)_ | 0.556494 J/mol-atom/K | 298.15 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
-| Entropy; _printed: s (Redlich–Kister)_ | 0.276595 J/mol-atom/K | 298.15 | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
-| Entropy; _printed: s (Kaptay)_ | -0.777086 J/mol-atom/K | 298.15 | Si0.375Ta0.625_LT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
-| Entropy; _printed: s (Redlich–Kister)_ | 3.86421 J/mol-atom/K | 298.15 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
 | Entropy; _printed: s = b_ | 0.024162 J/mol-atom/K | 298.15 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
-| Entropy; _printed: s_ | -13.95 J/mol-atom/K | 1027 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | experimental | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
-| Entropy; _printed: s_ | -13.34 J/mol-atom/K | 1027 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | experimental | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 19 |  |
-| Entropy; _printed: s_ | 13.57 J/mol-atom/K | 1760.5 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
-| Entropy; _printed: s_ | 13.57 J/mol-atom/K | 1760.5 | UNKNOWN; _alloy: Ta 0.3333_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
-| Entropy; _printed: s_ | -0.339 J/mol-atom/K | 1900 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 17 |  |
-| Entropy; _printed: s_ | -1.6 J/mol-atom/K | 2045 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
-| Entropy; _printed: s_ | -2.17 J/mol-atom/K | 2087.5 | Si0.25Ta0.75; _alloy: Ta 0.75_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
 
 ## Sources
 

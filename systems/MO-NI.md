@@ -1,10 +1,10 @@
 # Mo–Ni system
 
-> Mo–Ni system: 73 accepted literature values (formation 46, invariant reaction 16, phase transition 11) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni system: 72 accepted literature values (formation 46, invariant reaction 16, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI.html · Markdown: https://data.orchid-project.org/systems/MO-NI.md
 
-73 accepted literature values from 6 paper(s) (experimental 16, model 11, DFT 46); 5 calculated phase diagram(s).
+72 accepted literature values from 6 paper(s) (experimental 15, model 11, DFT 46); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI.json) · [CSV](https://data.orchid-project.org/systems/MO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NI/MoNi-01Mor.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 15 |
 | model | 11 |
 | DFT | 46 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 11 |
+| phase transition | 10 |
 | formation | 46 |
 
 ## Calculated phase diagrams
@@ -166,7 +166,7 @@ Table: Enthalpies of formation, Mo–Ni system (46)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (10)
 
 Table: Phase transition, Mo–Ni system
 
@@ -176,7 +176,6 @@ Table: Phase transition, Mo–Ni system
 | Phase transition | 1141 K | 1141 | other | experimental | [3] Frisk 1990; _cites CasseItou 1964_ | p. 4 | “In agreement with their work and refs.2 and 9, the decomposition temperature of the p phase was placed at 1141K.” |
 | Phase transition | 1400 K | 1400 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Miracle 1984_ [doi](https://doi.org/10.1007/bf02644971) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
 | Phase transition | 1403 K | 1403 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Wakashima 1983_ [doi](https://doi.org/10.1016/0001-6160%2883%2990139-6) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
-| Phase transition | 1403 K | 1403 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Maslenkov 1989_ | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
 | Phase transition | 1468 K | 1468 | bcc þ fcc 4 L12 þ NiMo | experimental | [4] Peng 2016; _cites Yoshizawa 1981_ [doi](https://doi.org/10.1016/0036-9748%2881%2990164-2) | p. 3 | “Yoshizawa et al. \[42\] also reported the temperature of invariant reaction U3: bcc þ fcc 4 L12 þ NiMo to be ~1468 K, which is considerably higher than that determined later by Wakashima et al. \[24\] (~1403 K), Miracle et al. \[27\](1400 ± 2 K) and Maslenkov et al. \[29\] (1403 ± 5 K).” |
 | Phase transition | 1503.15 K | 1503.15 | L + (Mo,V) = (Ni) + σ | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3 | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |
 | Phase transition | 1563.15 K | 1563.15 | L + δ = (Ni) + (Mo,V) | experimental | [5] Pan 2018; _cites Prima 1980_ | p. 3 | “The liquidus projection in the ternary system is dominated by two liquid transition reactions: L + δ = (Ni) + (Mo,V) at 1290 °C and L + (Mo,V) = (Ni) + σ at 1230 °C \[44\].” |

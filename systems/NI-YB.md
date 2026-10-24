@@ -1,10 +1,10 @@
 # Ni–Yb system
 
-> Ni–Yb system: 175 accepted literature values (formation 84, invariant reaction 50, crystal structure 30, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Yb system: 141 accepted literature values (formation 50, invariant reaction 50, crystal structure 30, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-YB.html · Markdown: https://data.orchid-project.org/systems/NI-YB.md
 
-175 accepted literature values from 2 paper(s) (experimental 83, model 72, DFT 20); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+141 accepted literature values from 2 paper(s) (experimental 65, model 56, DFT 20); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-YB.json) · [CSV](https://data.orchid-project.org/systems/NI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-YB/NiYb-16Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-YB.html) · [Markdown](https://data.orchid-project.org/systems/NI-YB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 83 |
-| model | 72 |
+| experimental | 65 |
+| model | 56 |
 | DFT | 20 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 50 |
 | phase transition | 11 |
-| formation | 84 |
+| formation | 50 |
 | crystal structure | 30 |
 
 ## Calculated phase diagrams
@@ -131,7 +131,7 @@ Table: Invariant reactions reported in the literature for the Ni–Yb system (50
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Yb system (59)
+Table: Enthalpies of formation, Ni–Yb system (36)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -158,29 +158,6 @@ Table: Enthalpies of formation, Ni–Yb system (59)
 | NiYb_LT | [NiYb](https://data.orchid-project.org/compounds/NiYb.html) | -27.8 kJ/mol-atom | 298.15 | model |  | -27.289 (oqmd-30880) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 20 |  |
 | NiYb_LT | [NiYb](https://data.orchid-project.org/compounds/NiYb.html) | -18.8 kJ/mol-atom | 298 | experimental |  | -27.289 (oqmd-30880) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 23 |  |
 | NiYb_LT | [NiYb](https://data.orchid-project.org/compounds/NiYb.html) | -17.28 kJ/mol-atom | 298.15 | model |  | -27.289 (oqmd-30880) | [1] Kardellass 2016 | Table 2, p. 5, row 22 |  |
-| UNKNOWN |  | -33.6 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 15 |  |
-| UNKNOWN |  | -32 kJ/mol-atom ± 4.6 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 17 |  |
-| UNKNOWN |  | -30 kJ/mol-atom | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 16 |  |
-| UNKNOWN |  | -28.8 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 11 |  |
-| UNKNOWN |  | -28 kJ/mol-atom ± 2 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 21 |  |
-| UNKNOWN |  | -27.8 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 20 |  |
-| UNKNOWN |  | -26 kJ/mol-atom ± 4.8 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 12 |  |
-| UNKNOWN |  | -24.8 kJ/mol-atom | 298 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 14 |  |
-| UNKNOWN |  | -23.42 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016 | Table 2, p. 5, row 13 |  |
-| UNKNOWN |  | -23.3 kJ/mol-atom | 298 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 19 |  |
-| UNKNOWN |  | -22.07 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016 | Table 2, p. 5, row 18 |  |
-| UNKNOWN |  | -22 kJ/mol-atom | 298 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 10 |  |
-| UNKNOWN |  | -20.9 kJ/mol-atom ± 4.4 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 8 |  |
-| UNKNOWN |  | -20.47 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016 | Table 2, p. 5, row 9 |  |
-| UNKNOWN |  | -20.2 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 6 |  |
-| UNKNOWN |  | -18.8 kJ/mol-atom | 298 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 23 |  |
-| UNKNOWN |  | -17.28 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016 | Table 2, p. 5, row 22 |  |
-| UNKNOWN |  | -17 kJ/mol-atom ± 0.1 | 990 | experimental |  |  | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
-| UNKNOWN |  | -16.4 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites Bayanov 1973_ | Table 2, p. 5, row 7 |  |
-| UNKNOWN |  | -14.8 kJ/mol-atom | 298 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
-| UNKNOWN |  | -13.9 kJ/mol-atom ± 0.3 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 2 |  |
-| UNKNOWN |  | -13.15 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016 | Table 2, p. 5, row 3 |  |
-| UNKNOWN |  | -12.7 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 1 |  |
 | Yb2Ni17 |  | -13.9 unknown ± 0.3 | 0 | experimental |  |  | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
 | Yb2Ni17 |  | -12.4 kJ/mol-atom | 0 | DFT |  |  | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
 | Yb2Ni17 |  | -12.4 unknown | 0 | DFT |  |  | [2] Hu 2017 | Table 3, p. 26, row 12 |  |
@@ -215,7 +192,7 @@ Table: Phase transition, Ni–Yb system
 | Phase transition | 1583 K | 1583 | congruent melting: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | model | [2] Hu 2017; _cites Zhu 2016_ [doi](https://doi.org/10.1016/s1003-6326%2816%2964202-4) | Table 2, p. 24, row 13 |  |
 | Phase transition | 1583 K | 1583 | congruent melting: Liq -> YbNi3; _L: Yb 0.25; YbNi3: Yb 0.25_ | experimental | [2] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 2, p. 24, row 12 |  |
 
-### Formation (25)
+### Formation (14)
 
 Table: Formation, Ni–Yb system
 
@@ -229,23 +206,12 @@ Table: Formation, Ni–Yb system
 | Entropy of formation; _printed: Entropies of formation_ | -6 J/mol-atom/K | 298 | Ni3Yb; _alloy: Yb 0.25_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 14 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -4 J/mol-atom/K | 298 | Ni5Yb; _alloy: Yb 0.166667_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 10 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -4 J/mol-atom/K | 298 | NiYb_LT; _alloy: Yb 0.5_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 23 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -5.3 J/mol-atom/K | 298 | UNKNOWN; _alloy: Yb 0.333333_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 19 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -6 J/mol-atom/K | 298 | UNKNOWN; _alloy: Yb 0.25_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 14 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -4 J/mol-atom/K | 298 | UNKNOWN; _alloy: Yb 0.166667_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 10 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -2.5 J/mol-atom/K | 298 | UNKNOWN; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
-| Entropy of formation; _printed: Entropies of formation_ | -4 J/mol-atom/K | 298 | UNKNOWN; _alloy: Yb 0.5_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 23 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 33.33 J/mol-atom/K | 298.15 | Ni17Yb2; _alloy: Yb 0.105263_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 3 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 36.47 J/mol-atom/K | 298.15 | Ni2Yb; _alloy: Yb 0.333333_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 18 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 33.98 J/mol-atom/K | 298.15 | Ni3Yb; _alloy: Yb 0.25_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 13 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 33.5 J/mol-atom/K | 298.15 | Ni5Yb; _alloy: Yb 0.166667_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 9 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 42.43 J/mol-atom/K | 298.15 | NiYb_LT; _alloy: Yb 0.5_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 22 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 33.33 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Yb 0.105263_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 3 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 42.43 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Yb 0.5_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 22 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 33.98 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Yb 0.25_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 13 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 33.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Yb 0.166667_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 9 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 36.47 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Yb 0.333333_ | model | [1] Kardellass 2016 | Table 2, p. 5, row 18 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 1.96 J/mol-atom/K ± 0.07 | 990 | Ni17Yb2; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 1.96 J/mol-atom/K ± 0.07 | 990 | UNKNOWN; _alloy: Yb 0.105263_ | experimental | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
 
 ### Crystal structure (30)
 

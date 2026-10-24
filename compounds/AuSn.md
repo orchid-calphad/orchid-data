@@ -1,26 +1,22 @@
 # AuSn: enthalpy of formation
 
-> Enthalpy of formation of AuSn: 8 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of AuSn: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/AuSn.html · Markdown: https://data.orchid-project.org/compounds/AuSn.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 4, model 2, DFT 2).
+4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1).
 
 Systems: [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of AuSn reported in the literature (8)
+Table: Enthalpy of formation of AuSn reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.69 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 3 |  |
-| -15.69 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 3 |  |
-| -14.88 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
 | -14.88 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
 | -15.75 kJ/mol (basis unstated) | AuSn | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 6 |  |
-| -15.75 kJ/mol (basis unstated) | AuSn | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 6 |  |
-| -18.77 kJ/mol (basis unstated) | AuSn | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 5 |  |
 | -18.77 kJ/mol (basis unstated) | AuSn | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 5 |  |
 
 ## Sources

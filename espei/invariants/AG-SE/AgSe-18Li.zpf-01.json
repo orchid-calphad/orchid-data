@@ -51,8 +51,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
-  "orchid",
-  "calphad_certified"
+  "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-35IHIHH2MO",
  "bibtex": "wiggett1999_4129ef",
@@ -62,6 +61,7 @@
   "observations": [
    {
     "id": "ORC-35IHIHH2MO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-018-0683-7",
     "measured_in": "doi:10.1007/s11663-999-0019-4"
    }
@@ -88,12 +88,12 @@
  },
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
-  "all_values_certified": true,
-  "n_certified": 1,
+  "all_values_certified": false,
+  "n_certified": 0,
   "values": [
    {
     "id": "ORC-35IHIHH2MO",
-    "espei_certified": true,
+    "espei_certified": false,
     "calphad_check": "agrees"
    }
   ]

@@ -36,7 +36,7 @@ Table: Phases of the Ba–O system (10)
 - Candidate (tdb_comment): CaC2 · tI6 · I4/mmm — BaO-05Zho-mod.tdb: 'Prototype CaC2 (tI6, I4/mmm), C11_a, barium peroxide'
 - Candidate (tdb_comment): NaCl · cF8 · Fm-3m — BaO-05Zho-mod.tdb: 'Prototype NaCl (cF8, Fm-3m), B1, barium oxide'
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2285.72 K, x(O) 0.5–0.66667
-- Literature: 43 values (43 accepted) from 2 papers
+- Literature: 43 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-o:bao)
 
 Names (9): _corpus: _corpus:phase:ba-o:bao  

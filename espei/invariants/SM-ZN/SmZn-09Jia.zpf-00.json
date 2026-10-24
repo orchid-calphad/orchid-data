@@ -399,61 +399,73 @@
   "observations": [
    {
     "id": "ORC-PBFAXWNAIZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-2STKW4GIDP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-UXUXONUCFQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-GVYRZYSADS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-UTK4S6MMSG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-XWBSVP5EXG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-MMB4K44ZB3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-YLRCTIXZJM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-4J7OIQRCB4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-TCHUC5XOFP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-HTAA74NPYX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    },
    {
     "id": "ORC-2H664AFPYU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.06.019",
     "measured_in": "ref:a5cdcf844e96783b"
    }

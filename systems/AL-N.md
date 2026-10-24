@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-N.html · Markdown: https://data.orchid-project.org/systems/AL-N.md
 
-27 accepted literature values from 2 paper(s) (experimental 15, model 12); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 2 paper(s) (experimental 16, model 11); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-N.json) · [CSV](https://data.orchid-project.org/systems/AL-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-N/AlN-12Pav.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-N.html) · [Markdown](https://data.orchid-project.org/systems/AL-N.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| model | 12 |
+| experimental | 16 |
+| model | 11 |
 
 Table: Accepted values by property group
 
@@ -74,7 +74,7 @@ Table: Phase transition, Al–N system
 | Phase transition | 2690 K | 2690 | other | model | [1] Hillert 1992 | p. 5 | “The sublimation point at 1 bar is obtained at T = 2690 K, in agreement with Figure 7.” |
 | Phase transition | 3064.5 K | 3064.5 | other | model | [1] Hillert 1992 | p. 5 | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
 | Phase transition | 3067.7 K | 3067.7 |  | model | [1] Hillert 1992 | p. 5 | “Figure 5 gives a magnification of the region around the melting point of A1N, which is here given as 3067.7 K.” |
-| Phase transition | 3073.15 K | 3073.15 |  | model | [1] Hillert 1992; _cites Class 1968_ | p. 1 | “The melting point has been determined to 2800 ~ - 50 ~ by Class ~6\]using a high-pressure technique.” |
+| Phase transition | 3073.15 K | 3073.15 |  | experimental | [1] Hillert 1992; _cites Class 1968_ | p. 1 | “The melting point has been determined to 2800 ~ - 50 ~ by Class ~6\]using a high-pressure technique.” |
 | Phase transition | 4220 K | 4220 | other | model | [1] Hillert 1992 | p. 5 | “It shows a liquid miscibility gap with a maximum at about 4220 K and the compositions XN = 0.0070 and xN = 0.4984 at the monotectic temperature of 3064.5 K.” |
 
 ### Phase equilibrium (14)

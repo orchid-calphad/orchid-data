@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-LUGGMP52Q5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2023.112519",
     "measured_in": "doi:10.21236/ad0018321",
     "caveats": [

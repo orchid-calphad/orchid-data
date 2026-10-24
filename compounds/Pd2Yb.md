@@ -1,24 +1,21 @@
 # Pd2Yb: enthalpy of formation
 
-> Enthalpy of formation of Pd2Yb: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Pd2Yb: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Pd2Yb.html · Markdown: https://data.orchid-project.org/compounds/Pd2Yb.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); OQMD -80.519 kJ/mol-atom (oqmd-1592418).
+3 accepted literature formation-enthalpy value(s) (model 3); OQMD -80.519 kJ/mol-atom (oqmd-1592418).
 
 Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Pd2Yb reported in the literature (6)
+Table: Enthalpy of formation of Pd2Yb reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -80.7767 kJ/mol-atom | Pd2Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 66 |  |
-| -80.7767 kJ/mol-atom | Pd2Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 66 |  |
 | -72.0479 kJ/mol-atom | Pd2Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 64 |  |
-| -72.0479 kJ/mol-atom | Pd2Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 64 |  |
-| -65.717 kJ/mol-atom | Pd2Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 65 |  |
 | -65.717 kJ/mol-atom | Pd2Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 65 |  |
 
 ## DFT formation energies

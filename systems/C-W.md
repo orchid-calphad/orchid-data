@@ -1,10 +1,10 @@
 # C–W system
 
-> C–W system: 40 accepted literature values (invariant reaction 26, phase transition 7, heat capacity / entropy / enthalpy 4, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–W system: 39 accepted literature values (invariant reaction 26, phase transition 7, heat capacity / entropy / enthalpy 4, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-W.html · Markdown: https://data.orchid-project.org/systems/C-W.md
 
-40 accepted literature values from 2 paper(s) (experimental 18, model 22); 0 calculated phase diagram(s).
+39 accepted literature values from 2 paper(s) (experimental 17, model 22); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-W.json) · [CSV](https://data.orchid-project.org/systems/C-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-W) · [phases (7)](https://data.orchid-project.org/phases/pages/C-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-W.html) · [Markdown](https://data.orchid-project.org/systems/C-W.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 17 |
 | model | 22 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 26 |
 | phase transition | 7 |
-| formation | 3 |
+| formation | 2 |
 | heat capacity / entropy / enthalpy | 4 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-W.json) · [CALPHAD hull WC-86Gus](https://data.orchid-project.org/hulls/calphad-sgte/C/C-W--WC-86Gus.json)
@@ -63,11 +63,10 @@ Table: Invariant reactions reported in the literature for the C–W system (26)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–W system (3)
+Table: Enthalpies of formation, C–W system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| WC |  | -40170 per formula unit ± 1700 | 298.15 | experimental |  |  | [2] He 2022; _cites McGraw 1947_ [doi](https://doi.org/10.1021/ja01194a050) | Table 2, p. 3, row 4 |  |
 | WC | [WC](https://data.orchid-project.org/compounds/WC.html) | -20.0887 kJ/mol-atom | 298.15 | model | -11.742 (mp-aaaaacuw) | -12.124 (oqmd-3084) | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 2, p. 3, row 5 |  |
 | WC | [WC](https://data.orchid-project.org/compounds/WC.html) | -20.0852 kJ/mol-atom | 298.15 | model | -11.742 (mp-aaaaacuw) | -12.124 (oqmd-3084) | [2] He 2022 | Table 2, p. 3, row 6 |  |
 

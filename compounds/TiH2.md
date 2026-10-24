@@ -1,16 +1,16 @@
 # TiH2: enthalpy of formation
 
-> Enthalpy of formation of TiH2: 16 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of TiH2: 14 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/TiH2.html · Markdown: https://data.orchid-project.org/compounds/TiH2.md
 
-16 accepted literature formation-enthalpy value(s) (experimental 4, model 9, unspecified 3).
+14 accepted literature formation-enthalpy value(s) (experimental 4, model 7, unspecified 3).
 
 Systems: [H–Ti](https://data.orchid-project.org/systems/H-TI.html) · [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of TiH2 reported in the literature (16)
+Table: Enthalpy of formation of TiH2 reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -24,8 +24,6 @@ Table: Enthalpy of formation of TiH2 reported in the literature (16)
 | -133.2 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000 | Table 2, p. 2, row 9 |  |
 | -129 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Kivilahti 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990014-9) | Table 3, p. 4, row 6 |  |
 | -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
 | -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
 | -165 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Wang 1996_ | Table 3, p. 4, row 4 |  |
 | -148 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5 |  |

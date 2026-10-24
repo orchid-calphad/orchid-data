@@ -1,10 +1,10 @@
 # Ge–Li system
 
-> Ge–Li system: 326 accepted literature values (activity / EMF / Gibbs energy 209, invariant reaction 71, formation 32, phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Li system: 323 accepted literature values (activity / EMF / Gibbs energy 209, invariant reaction 71, formation 29, phase transition 14) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-LI.html · Markdown: https://data.orchid-project.org/systems/GE-LI.md
 
-326 accepted literature values from 2 paper(s) (experimental 251, model 60, DFT 8, unspecified 7); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+323 accepted literature values from 2 paper(s) (experimental 248, model 60, DFT 8, unspecified 7); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-LI.json) · [CSV](https://data.orchid-project.org/systems/GE-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-LI/GeLi-18Wan.json) · [phases (16)](https://data.orchid-project.org/phases/pages/GE-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-LI.html) · [Markdown](https://data.orchid-project.org/systems/GE-LI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 251 |
+| experimental | 248 |
 | model | 60 |
 | DFT | 8 |
 | unspecified | 7 |
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 71 |
 | phase transition | 14 |
-| formation | 32 |
+| formation | 29 |
 | activity / EMF / Gibbs energy | 209 |
 
 ## Calculated phase diagrams
@@ -168,7 +168,7 @@ Table: Invariant reactions reported in the literature for the Ge–Li system (71
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–Li system (32)
+Table: Enthalpies of formation, Ge–Li system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -201,9 +201,6 @@ Table: Enthalpies of formation, Ge–Li system (32)
 | GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -28.25 kJ/mol-atom | 0 | model | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022 | Table 10, p. 8, row 7 |  |
 | GeLi |  | -27.542 kJ/mol-atom | 0 | DFT |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 5 |  |
 | GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -25.5 kJ/mol-atom ± 1.6 | 298 | experimental | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022 | Table 10, p. 8, row 6 |  |
-| UNKNOWN |  | -32.2 kJ/mol-atom ± 1.9 | 298 | experimental |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 10 |  |
-| UNKNOWN |  | -25.5 kJ/mol-atom ± 1.6 | 298 | experimental |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 6 |  |
-| UNKNOWN |  | -21.9 kJ/mol-atom ± 1.3 | 298 | experimental |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 2 |  |
 
 ## Other properties
 

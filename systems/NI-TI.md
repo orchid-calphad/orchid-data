@@ -1,10 +1,10 @@
 # Ni–Ti system
 
-> Ni–Ti system: 318 accepted literature values (formation 142, phase transition 52, heat capacity / entropy / enthalpy 52, crystal structure 37) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Ti system: 257 accepted literature values (formation 109, phase transition 52, crystal structure 37, invariant reaction 34) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TI.html · Markdown: https://data.orchid-project.org/systems/NI-TI.md
 
-318 accepted literature values from 6 paper(s) (experimental 49, model 201, DFT 55, unspecified 13); 13 calculated phase diagram(s).
+257 accepted literature values from 6 paper(s) (experimental 36, model 159, DFT 49, unspecified 13); 13 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TI/NiTi-04Tok.json) · [phases (14)](https://data.orchid-project.org/phases/pages/NI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-TI.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 201 |
-| DFT | 55 |
+| experimental | 36 |
+| model | 159 |
+| DFT | 49 |
 | unspecified | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 35 |
+| invariant reaction | 34 |
 | phase transition | 52 |
-| formation | 142 |
-| heat capacity / entropy / enthalpy | 52 |
+| formation | 109 |
+| heat capacity / entropy / enthalpy | 25 |
 | crystal structure | 37 |
 
 ## Calculated phase diagrams
@@ -214,7 +214,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Ti system (35)
+Table: Invariant reactions reported in the literature for the Ni–Ti system (34)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -240,7 +240,6 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (35
 | 1214.15 | L \<=> NiTi2 + (β-Ti) | L: Ti 0.745; NiTi2: Ti 0.667; (β-Ti): Ti 0.906 | model | [1] Santhy 2015 | Table 8, p. 4, row 11 |  |
 | 1194 | L -> fcc + Ni3Ti + NiTi | Ni3Ti: Ti 0.25; NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 3 |  |
 | 1163 | L + Laves_C14 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 4 |  |
-| 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [3] Huang 2018 | Table 4, p. 6, row 5 |  |
 | 1130.15 | eutectic |  | model | [2] Cacciamani 2011 | p. 11 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of TiB2 (which is however smaller than the HfB2 area in B-Hf-Ni), (b) the deep valley close to the Ni-Ti binary subsystem which includes the lowest ternary eutectic of the system Liquid TiB2 + TiNi + TiNi3 at 857 °C.” |
 | 1040.15 | eutectoid: bcc-Ti -> Ti2Ni + hcp-Ti | bcc-Ti: Ti 0.947; Ti2Ni: Ti 0.667; hcp-Ti: Ti 0.998 | model | [2] Cacciamani 2011 | Table 7, p. 8, row 7 |  |
 | 1038.15 | (β-Ti) \<=> (α-Ti) + NiTi2 | (β-Ti): Ti 0.999; (α-Ti): Ti 0.95; NiTi2: Ti 0.69 | model | [1] Santhy 2015; _cites Murray 1991_ | Table 8, p. 4, row 14 |  |
@@ -258,21 +257,21 @@ Table: Invariant reactions reported in the literature for the Ni–Ti system (35
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Ti system (138)
+Table: Enthalpies of formation, Ni–Ti system (103)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni3Ti |  | -48730 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 11 |  |
-| Ni3Ti |  | -47600 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10 |  |
-| Ni3Ti |  | -47100 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9 |  |
-| Ni3Ti |  | -42900 per mol-atom ± 1000 | 1513.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3 |  |
-| Ni3Ti |  | -42200 per mol-atom ± 1200 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5 |  |
-| Ni3Ti |  | -40067 per mol-atom | 1513.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 4 |  |
-| Ni3Ti |  | -39920 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 6 |  |
-| Ni3Ti |  | -34852 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1 |  |
-| Ni3Ti |  | -33369 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 2 |  |
-| Ni3Ti |  | -32500 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 12 |  |
 | Ni3Ti |  | -48.73 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 8 |  |
+| Ni3Ti |  | -48.73 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 11 |  |
+| Ni3Ti |  | -47.6 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10 |  |
+| Ni3Ti |  | -47.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9 |  |
+| Ni3Ti |  | -42.9 per mol-atom ± 1000 | 1513.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3 |  |
+| Ni3Ti |  | -42.2 per mol-atom ± 1200 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5 |  |
+| Ni3Ti |  | -40.067 per mol-atom | 1513.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 4 |  |
+| Ni3Ti |  | -39.92 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 6 |  |
+| Ni3Ti |  | -34.852 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1 |  |
+| Ni3Ti |  | -33.369 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 2 |  |
+| Ni3Ti |  | -32.5 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 12 |  |
 | Ni3Ti |  | -8.72 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 9 |  |
 | Ni3Ti |  | 4.77 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 11 |  |
 | Ni3Ti |  | 7.08 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 10 |  |
@@ -280,21 +279,21 @@ Table: Enthalpies of formation, Ni–Ti system (138)
 | Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -44.4 kJ/mol-atom |  | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 12 |  |
 | Ni3Ti(D03) | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -30.68 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [4] Hu 2014 | Table 1, p. 5, row 15 |  |
 | Ni3Ti(D03) |  | -29.5 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 14 |  |
-| NiTi |  | -45800 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 28 |  |
-| NiTi |  | -38347 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 22 |  |
-| NiTi |  | -38286 per mol-atom | 1460.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 16 |  |
-| NiTi |  | -38100 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25 |  |
-| NiTi |  | -37212 per mol-atom | 1173.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 20 |  |
-| NiTi |  | -36100 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 27 |  |
-| NiTi |  | -36000 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26 |  |
-| NiTi |  | -34200 per mol-atom ± 2000 | 999.15 | experimental |  |  | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17 |  |
-| NiTi |  | -34160 per mol-atom | 999.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 18 |  |
-| NiTi |  | -34000 per mol-atom ± 2000 | 1460.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15 |  |
-| NiTi |  | -33911 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13 |  |
-| NiTi |  | -33100 per mol-atom ± 1100 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21 |  |
-| NiTi |  | -32510 per mol-atom | 1173.15 | experimental |  |  | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19 |  |
-| NiTi |  | -31159 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 14 |  |
+| NiTi |  | -45.8 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 28 |  |
+| NiTi |  | -38.347 per mol-atom | 1477.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 22 |  |
+| NiTi |  | -38.286 per mol-atom | 1460.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 16 |  |
+| NiTi |  | -38.1 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25 |  |
+| NiTi |  | -37.212 per mol-atom | 1173.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 20 |  |
 | NiTi |  | -36.1 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 12 |  |
+| NiTi |  | -36.1 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 27 |  |
+| NiTi |  | -36 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26 |  |
+| NiTi |  | -34.2 per mol-atom ± 2000 | 999.15 | experimental |  |  | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17 |  |
+| NiTi |  | -34.16 per mol-atom | 999.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 18 |  |
+| NiTi |  | -34 per mol-atom ± 2000 | 1460.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15 |  |
+| NiTi |  | -33.911 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13 |  |
+| NiTi |  | -33.1 per mol-atom ± 1100 | 1477.15 | experimental |  |  | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21 |  |
+| NiTi |  | -32.51 per mol-atom | 1173.15 | experimental |  |  | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19 |  |
+| NiTi |  | -31.159 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 14 |  |
 | NiTi |  | 58.14 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 13 |  |
 | NiTi |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [1] Santhy 2015 | Table 5, p. 4, row 14 |  |
 | NiTi(B2) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -46 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -40.882 (oqmd-2036103) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1 |  |
@@ -308,14 +307,14 @@ Table: Enthalpies of formation, Ni–Ti system (138)
 | NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -36.5 kJ/mol-atom |  | model | -38.194 (mp-aaaaaboi) | -40.882 (oqmd-2036103) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 8 |  |
 | NiTi(B32) |  | -29.29 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 10 |  |
 | NiTi(B32) | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -9.8 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -40.882 (oqmd-2036103) | [4] Hu 2014 | Table 1, p. 5, row 11 |  |
-| NiTi2 |  | -35300 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 36 |  |
-| NiTi2 |  | -33700 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33 |  |
-| NiTi2 |  | -30393 per mol-atom | 1202.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 32 |  |
-| NiTi2 |  | -29300 per mol-atom ± 500 | 1202.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31 |  |
-| NiTi2 |  | -28960 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 35 |  |
-| NiTi2 |  | -28200 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34 |  |
-| NiTi2 |  | -26896 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29 |  |
-| NiTi2 |  | -25849 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 30 |  |
+| NiTi2 |  | -35.3 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 36 |  |
+| NiTi2 |  | -33.7 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33 |  |
+| NiTi2 |  | -30.393 per mol-atom | 1202.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 32 |  |
+| NiTi2 |  | -29.3 per mol-atom ± 500 | 1202.15 | experimental |  |  | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 31 |  |
+| NiTi2 |  | -28.96 per mol-atom |  | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 35 |  |
+| NiTi2 |  | -28.2 per mol-atom |  | model |  |  | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34 |  |
+| NiTi2 |  | -26.896 per mol-atom ± 2000 | 298.15 | experimental |  |  | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 29 |  |
+| NiTi2 |  | -25.849 per mol-atom | 298.15 | model |  |  | [1] Santhy 2015 | Table 9, p. 6, row 30 |  |
 | NiTi3(D03) | [NiTi3](https://data.orchid-project.org/compounds/NiTi3.html) | -13.68 kJ/mol-atom | 298.15 | model | -7.619 (mp-aaacdvmv) | -24.754 (oqmd-1280355) | [4] Hu 2014 | Table 1, p. 5, row 17 |  |
 | NiTi3(D03) |  | -12.11 kJ/mol-atom | 0 | DFT |  |  | [4] Hu 2014 | Table 1, p. 5, row 16 |  |
 | R-Phase |  | -3275 unknown | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 17 |  |
@@ -357,9 +356,6 @@ Table: Enthalpies of formation, Ni–Ti system (138)
 | TiNi-B2 | [NiTi](https://data.orchid-project.org/compounds/NiTi.html) | -33.339 kJ/mol-atom | 298.15 | model | -38.194 (mp-aaaaaboi) | -40.882 (oqmd-2036103) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
 | TiNi-B2 |  | -32.784 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 25 |  |
 | TiNi-B2 |  | -31.84 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 30 |  |
-| TiNi3 |  | -43800 per mol-atom ± 1600 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Moser 2006_ | Table 6, p. 8, row 5 |  |
-| TiNi3 |  | -42200 per mol-atom ± 1200 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 8, row 6 |  |
-| TiNi3 |  | -34700 per mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 7 |  |
 | TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -47.6 kJ/mol-atom | 0 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
 | TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -47.1 kJ/mol-atom | 0 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
 | TiNi3 |  | -46.313 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
@@ -368,38 +364,6 @@ Table: Enthalpies of formation, Ni–Ti system (138)
 | TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -40.043 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
 | TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.978 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
 | TiNi3 | [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.html) | -36.871 kJ/mol-atom | 298.15 | model | -46.582 (mp-aaaaaccf) | -47.751 (oqmd-5776) | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| UNKNOWN |  | -43800 per mol-atom ± 1600 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Moser 2006_ | Table 6, p. 8, row 5 |  |
-| UNKNOWN |  | -42200 per mol-atom ± 1200 | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 8, row 6 |  |
-| UNKNOWN |  | -34700 per mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 7 |  |
-| UNKNOWN |  | -47.6 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
-| UNKNOWN |  | -47.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
-| UNKNOWN |  | -46.313 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
-| UNKNOWN |  | -45.928 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10 |  |
-| UNKNOWN |  | -42.132 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| UNKNOWN |  | -40.043 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| UNKNOWN |  | -39.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35 |  |
-| UNKNOWN |  | -39.5 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26 |  |
-| UNKNOWN |  | -38 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28 |  |
-| UNKNOWN |  | -37.8 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36 |  |
-| UNKNOWN |  | -37.721 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| UNKNOWN |  | -36.978 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| UNKNOWN |  | -36.871 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| UNKNOWN |  | -36.665 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Lu 2007_ [doi](https://doi.org/10.1103/physrevb.75.094108) | Table 6, p. 8, row 31 |  |
-| UNKNOWN |  | -36 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27 |  |
-| UNKNOWN |  | -34.721 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| UNKNOWN |  | -34.1 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29 |  |
-| UNKNOWN |  | -34.052 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| UNKNOWN |  | -33.9 kJ/mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 24 |  |
-| UNKNOWN |  | -33.77 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Huang 2002_ | Table 6, p. 8, row 32 |  |
-| UNKNOWN |  | -33.7 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
-| UNKNOWN |  | -33.339 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| UNKNOWN |  | -32.784 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 25 |  |
-| UNKNOWN |  | -31.84 kJ/mol-atom | 0 | DFT |  |  | [5] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 30 |  |
-| UNKNOWN |  | -28.2 kJ/mol-atom | 0 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
-| UNKNOWN |  | -26.977 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| UNKNOWN |  | -26.901 kJ/mol-atom | 298.15 | model |  |  | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| UNKNOWN |  | -26.8 kJ/mol-atom | 298.15 | experimental |  |  | [5] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16 |  |
 
 ## Other properties
 
@@ -462,18 +426,20 @@ Table: Phase transition, Ni–Ti system
 | Phase transition | 1657.15 K | 1657.15 | congruent melting: L -> TiNi3; _L: Ti 0.25; TiNi3: Ti 0.25_ | model | [2] Cacciamani 2011 | Table 7, p. 8, row 1 |  |
 | Phase transition | 1660 K | 1660 | other: liq \<--> TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Tang 1999_ [doi](https://doi.org/10.1016/s1359-6454%2899%2900193-7) | Table 2, p. 4, row 24 |  |
 
-### Formation (4)
+### Formation (6)
 
 Table: Formation, Ni–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔGf_ | -43600 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -29607 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | model | [1] Santhy 2015 | Table 9, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -31943 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | model | [1] Santhy 2015 | Table 9, p. 6, row 24 |  |
-| Gibbs energy of formation; _printed: ΔGf_ | -31600 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 23 |  |
+| Entropy of formation; _printed: ΔSf_ | -10.3 J/mol K | 1653 |  | model | [5] Povoden-Karadeniz 2013 | p. 7 | “Preferring experimental heat capacities over Neumann-Kopp's rule, applied in all previous assessments, now both groups of experimental thermodynamic data, part of calorimetric experiments as well as experimental activities are approximated by the modeling, while the entropy of formation remains highly negative, ΔSf 1⁄4 -10.3 J/mol K at 1653 K.” |
+| Entropy of formation; _printed: ΔSf(TiNi3)_ | -14.9 J/mol K | 1653 |  | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | p. 7 | “Smith et al. \[62\] derived a ΔSf(TiNi3) 1⁄4 -14.9 J/mol K at 1653 K, close to the melting point.” |
+| Gibbs energy of formation; _printed: ΔGf_ | -43.6 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 7 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -29.607 per mol-atom | 1300.15 | Ni3Ti; _alloy: Ti 0.25_ | model | [1] Santhy 2015 | Table 9, p. 6, row 8 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -31.943 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | model | [1] Santhy 2015 | Table 9, p. 6, row 24 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -31.6 per mol-atom | 1300.15 | NiTi; _alloy: Ti 0.5_ | experimental | [1] Santhy 2015; _cites Levshin 1979_ | Table 9, p. 6, row 23 |  |
 
-### Heat capacity / entropy / enthalpy (52)
+### Heat capacity / entropy / enthalpy (25)
 
 Table: Heat capacity / entropy / enthalpy, Ni–Ti system
 
@@ -489,18 +455,6 @@ Table: Heat capacity / entropy / enthalpy, Ni–Ti system
 | Entropy; _printed: Sm, 298.15 K_ | 27.44 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
 | Entropy; _printed: Sm, 298.15 K_ | 27.01 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
 | Entropy; _printed: Sm, 298.15 K_ | 25.09 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Entropy; _printed: Sm_ | 27.01 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| Entropy; _printed: Sm_ | 30.82 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| Entropy; _printed: Sm_ | 31.19 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| Entropy; _printed: Sm_ | 27.44 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| Entropy; _printed: Sm_ | 22.31 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| Entropy; _printed: Sm_ | 28.63 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| Entropy; _printed: Sm_ | 27.01 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| Entropy; _printed: Sm_ | 25.09 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Entropy; _printed: Sm_ | 31.47 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| Entropy; _printed: Sm_ | 29.22 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
-| Entropy; _printed: ΔSf_ | -10.3 J/mol K | 1653 |  | model | [5] Povoden-Karadeniz 2013 | p. 7 | “Preferring experimental heat capacities over Neumann-Kopp's rule, applied in all previous assessments, now both groups of experimental thermodynamic data, part of calorimetric experiments as well as experimental activities are approximated by the modeling, while the entropy of formation remains highly negative, ΔSf 1⁄4 -10.3 J/mol K at 1653 K.” |
-| Entropy; _printed: ΔSf(TiNi3)_ | -14.9 J/mol K | 1653 |  | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | p. 7 | “Smith et al. \[62\] derived a ΔSf(TiNi3) 1⁄4 -14.9 J/mol K at 1653 K, close to the melting point.” |
 | Heat capacity; _printed: Cp, 298.15 K_ | 24.6 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 18 |  |
 | Heat capacity; _printed: Cp, 298.15 K_ | 23.4 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Zabdyr_ | Table 6, p. 8, row 17 |  |
 | Heat capacity; _printed: Cp, 298.15 K_ | 25.09 per mol-atom | 298.15 | Ti2Ni; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
@@ -516,21 +470,6 @@ Table: Heat capacity / entropy / enthalpy, Ni–Ti system
 | Heat capacity; _printed: Cp, 298.15 K_ | 21.79 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Onderka 2010_ | Table 6, p. 8, row 8 |  |
 | Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
 | Heat capacity; _printed: Cp, 298.15 K_ | 25.02 per mol-atom | 298.15 | TiNi3; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Heat capacity; _printed: Cp_ | 25.02 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| Heat capacity; _printed: Cp_ | 25.52 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
-| Heat capacity; _printed: Cp_ | 25.52 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
-| Heat capacity; _printed: Cp_ | 21.42 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| Heat capacity; _printed: Cp_ | 25.54 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
-| Heat capacity; _printed: Cp_ | 24.6 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 18 |  |
-| Heat capacity; _printed: Cp_ | 24.2 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 34 |  |
-| Heat capacity; _printed: Cp_ | 23.4 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | experimental | [5] Povoden-Karadeniz 2013; _cites Zabdyr_ | Table 6, p. 8, row 17 |  |
-| Heat capacity; _printed: Cp_ | 23.4 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Smith 1993_ [doi](https://doi.org/10.1007/bf02671969) | Table 6, p. 8, row 9 |  |
-| Heat capacity; _printed: Cp_ | 21.79 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Povoden-Karadeniz 2013; _cites Onderka 2010_ | Table 6, p. 8, row 8 |  |
-| Heat capacity; _printed: Cp_ | 25.09 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
-| Heat capacity; _printed: Cp_ | 25.02 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| Heat capacity; _printed: Cp_ | 25.02 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| Heat capacity; _printed: Cp_ | 25.58 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.5_ | model | [5] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
-| Heat capacity; _printed: Cp_ | 24.71 per mol-atom | 298.15 | UNKNOWN; _alloy: Ti 0.666667_ | model | [5] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
 
 ### Crystal structure (37)
 

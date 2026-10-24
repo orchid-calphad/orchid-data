@@ -1,21 +1,20 @@
 # Bi4Te3: enthalpy of formation
 
-> Enthalpy of formation of Bi4Te3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi4Te3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi4Te3.html · Markdown: https://data.orchid-project.org/compounds/Bi4Te3.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 2); experimental median 0 kJ/mol-atom (n = 2); Materials Project -34.084 kJ/mol-atom (mp-aaaabptt); OQMD -16.486 kJ/mol-atom (oqmd-5865).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -11.717 kJ/mol-atom (n = 1); Materials Project -34.084 kJ/mol-atom (mp-aaaabptt); OQMD -16.486 kJ/mol-atom (oqmd-5865).
 
 Systems: [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi4Te3 reported in the literature (2)
+Table: Enthalpy of formation of Bi4Te3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -11.717 kJ/mol-atom | Bi4Te3 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 103 |  |
-| 11.717 kJ/mol-atom | Bi4Te3, | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 103 |  |
 
 ## DFT formation energies
 

@@ -17,11 +17,11 @@ Table: Phases of the Gd–Si system (10)
 | [FCC_A1](#phase-gd-si-fcc-a1); _phase:gd-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GD3SI5_C32](#phase-gd-si-gd3si5-c32); _phase:gd-si:gd3si5-c32_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1936.19 K, x(Si) 0.625–0.625 | 0 | 1 |
 | [GD5SI3_D88](#phase-gd-si-gd5si3-d88); _phase:gd-si:gd5si3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2019.97 K, x(Si) 0.375–0.375 | 0 | 1 |
-| [GD5SI4](#phase-gd-si-gd5si4); _phase:gd-si:gd5si4_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2045.62 K, x(Si) 0.44444–0.44444 | 0 | 1 |
+| [GD5SI4](#phase-gd-si-gd5si4); _phase:gd-si:gd5si4_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2045.62 K, x(Si) 0.44444–0.44444 | 6 | 1 |
 | [GDSI_B27](#phase-gd-si-gdsi-b27); _phase:gd-si:gdsi-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2107.12 K, x(Si) 0.5–0.5 | 0 | 1 |
 | [GDSI2](#phase-gd-si-gdsi2); _phase:gd-si:gdsi2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1874.01 K, x(Si) 0.66667–0.66667 | 0 | 1 |
-| [HCP_A3](#phase-gd-si-hcp-a3); _phase:gd-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.16 K, x(Si) 0–0 | 0 | 1 |
-| [LIQUID](#phase-gd-si-liquid); _phase:gd-si:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1352.27–2500 K, x(Si) 0–1 | 0 | 1 |
+| [HCP_A3](#phase-gd-si-hcp-a3); _phase:gd-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.16 K, x(Si) 0–0 | 3 | 1 |
+| [LIQUID](#phase-gd-si-liquid); _phase:gd-si:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1352.27–2500 K, x(Si) 0–1 | 21 | 1 |
 
 ## DIAMOND_A4 (Gd–Si)
 
@@ -168,10 +168,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Gd 0.5556, Si 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2045.62 K, x(Si) 0.44444–0.44444
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-si:gd5si4)
 
-Names (2): _corpus: _corpus:phase:gd-si:gd5si4  
+Names (3): _corpus: _corpus:phase:gd-si:gd5si4  
+_paper: _paper:10.1016/j.jallcom.2006.09.068:Gd5Si4  
 _tdb: _tdb:GdSi-07Hua.tdb:GD5SI4  
 
 
@@ -187,7 +188,7 @@ _tdb: _tdb:GdSi-07Hua.tdb:GD5SI4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GDSI_B27 (Gd–Si)
 
@@ -253,10 +254,11 @@ _assessment that models this phase_
 - Id: `phase:gd-si:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1508.16 K, x(Si) 0–0
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-si:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:gd-si:hcp-a3  
+Names (3): _corpus: _corpus:phase:gd-si:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2006.09.068:hcp (Gd)  
 _tdb: _tdb:GdSi-07Hua.tdb:HCP_A3  
 
 
@@ -272,17 +274,18 @@ _tdb: _tdb:GdSi-07Hua.tdb:HCP_A3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## LIQUID (Gd–Si)
 
 - Id: `phase:gd-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1352.27–2500 K, x(Si) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-si:liquid)
 
-Names (2): _corpus: _corpus:phase:gd-si:liquid  
+Names (3): _corpus: _corpus:phase:gd-si:liquid  
+_paper: _paper:10.1016/j.jallcom.2006.09.068:Liquid  
 _tdb: _tdb:GdSi-07Hua.tdb:LIQUID  
 
 
@@ -298,7 +301,7 @@ _tdb: _tdb:GdSi-07Hua.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.09.068](https://doi.org/10.1016/j.jallcom.2006.09.068) Mianliang Huang, Deborah L. Schlagel, Frederick A. Schmidt, Thomas A. Lograsso, Experimental investigation and thermodynamic modeling of the Gd–Si system, Journal of Alloys and Compounds 441, 94-100 (2007).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

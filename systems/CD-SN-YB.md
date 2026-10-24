@@ -1,10 +1,10 @@
 # Cd–Sn–Yb system
 
-> Cd–Sn–Yb system: 170 accepted literature values (crystal structure 90, formation 80) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Sn–Yb system: 130 accepted literature values (crystal structure 90, formation 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-SN-YB.html · Markdown: https://data.orchid-project.org/systems/CD-SN-YB.md
 
-170 accepted literature values from 1 paper(s) (experimental 46, model 58, DFT 60, unspecified 6); 0 calculated phase diagram(s).
+130 accepted literature values from 1 paper(s) (experimental 44, model 29, DFT 51, unspecified 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SN-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-SN-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SN-YB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-SN-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-SN-YB.md)
 
@@ -12,66 +12,26 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 58 |
-| DFT | 60 |
+| experimental | 44 |
+| model | 29 |
+| DFT | 51 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 80 |
+| formation | 40 |
 | crystal structure | 90 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cd–Sn–Yb system (80)
+Table: Enthalpies of formation, Cd–Sn–Yb system (40)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -65.5 kJ/mol-atom ± 7.3 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 28 |  |
-| UNKNOWN |  | -64.074 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 29 |  |
-| UNKNOWN |  | -63.99 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 30 |  |
-| UNKNOWN |  | -63.721 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 25 |  |
-| UNKNOWN |  | -63.59 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 16 |  |
-| UNKNOWN |  | -63.305 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 12 |  |
-| UNKNOWN |  | -63.299 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 10 |  |
-| UNKNOWN |  | -62.898 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 11 |  |
-| UNKNOWN |  | -62.39 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 15 |  |
-| UNKNOWN |  | -62.285 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 20 |  |
-| UNKNOWN |  | -61.621 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 24 |  |
-| UNKNOWN |  | -61.147 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 23 |  |
-| UNKNOWN |  | -60.3 kJ/mol-atom ± 5.9 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 19 |  |
-| UNKNOWN |  | -58.9 kJ/mol-atom ± 5.2 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 27 |  |
-| UNKNOWN |  | -58.697 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 21 |  |
-| UNKNOWN |  | -58.549 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 14 |  |
-| UNKNOWN |  | -58.4 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 17 |  |
-| UNKNOWN |  | -57.602 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 22 |  |
-| UNKNOWN |  | -57.56 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 13 |  |
-| UNKNOWN |  | -56.787 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 26 |  |
-| UNKNOWN |  | -55.077 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 31 |  |
-| UNKNOWN |  | -53.926 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 32 |  |
-| UNKNOWN |  | -53.82 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 33 |  |
-| UNKNOWN |  | -53.3 kJ/mol-atom ± 4.4 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 18 |  |
-| UNKNOWN |  | -48.002 kJ/mol-atom | 298 | experimental |  |  | [1] Kali-Ali 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 2, p. 4, row 38 |  |
-| UNKNOWN |  | -44.066 kJ/mol-atom | 294 | experimental |  |  | [1] Kali-Ali 2017; _cites Colinet 1970_ | Table 2, p. 4, row 37 |  |
-| UNKNOWN |  | -42.451 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 1 |  |
-| UNKNOWN |  | -42.219 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 34 |  |
-| UNKNOWN |  | -42.2 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 35 |  |
-| UNKNOWN |  | -42.021 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 2 |  |
-| UNKNOWN |  | -41.797 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 36 |  |
-| UNKNOWN |  | -41.6 kJ/mol-atom ± 8.5 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 40 |  |
-| UNKNOWN |  | -37 kJ/mol-atom ± 3.8 |  | model |  |  | [1] Kali-Ali 2017; _cites Witusiewicz 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902659-x) | Table 2, p. 4, row 39 |  |
-| UNKNOWN |  | -36.684 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 3 |  |
-| UNKNOWN |  | -36.196 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 4 |  |
-| UNKNOWN |  | -35.58 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 5 |  |
-| UNKNOWN |  | -33.2 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 6 |  |
-| UNKNOWN |  | -27.85 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 7 |  |
-| UNKNOWN |  | -21.603 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 8 |  |
-| UNKNOWN |  | -20.973 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 9 |  |
 | Yb14Cd51 | [Cd51Yb14](https://data.orchid-project.org/compounds/Cd51Yb14.html) | -27.85 kJ/mol-atom |  | model |  | -30.302 (oqmd-2141572) | [1] Kali-Ali 2017 | Table 2, p. 4, row 7 |  |
 | Yb2Sn | [SnYb2](https://data.orchid-project.org/compounds/SnYb2.html) | -63.305 kJ/mol-atom |  | model |  | -67.458 (oqmd-18137) | [1] Kali-Ali 2017 | Table 2, p. 4, row 12 |  |
 | Yb2Sn |  | -63.299 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 10 |  |

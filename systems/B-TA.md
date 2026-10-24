@@ -1,10 +1,10 @@
 # B–Ta system
 
-> B–Ta system: 84 accepted literature values (invariant reaction 67, formation 14, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ta system: 82 accepted literature values (invariant reaction 65, formation 14, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-TA.html · Markdown: https://data.orchid-project.org/systems/B-TA.md
 
-84 accepted literature values from 2 paper(s) (experimental 38, model 32, DFT 7, unspecified 7); 0 calculated phase diagram(s).
+82 accepted literature values from 2 paper(s) (experimental 36, model 32, DFT 7, unspecified 7); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-TA.json) · [CSV](https://data.orchid-project.org/systems/B-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TA) · [phases (13)](https://data.orchid-project.org/phases/pages/B-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TA.html) · [Markdown](https://data.orchid-project.org/systems/B-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 36 |
 | model | 32 |
 | DFT | 7 |
 | unspecified | 7 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 67 |
+| invariant reaction | 65 |
 | phase transition | 3 |
 | formation | 14 |
 
@@ -29,7 +29,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Ta system (67)
+Table: Invariant reactions reported in the literature for the B–Ta system (65)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -98,8 +98,6 @@ Table: Invariant reactions reported in the literature for the B–Ta system (67)
 | 2193.15 | Ta2B -> Ta3B2 + (Ta) | Ta2B: Ta 0.667; Ta3B2: Ta 0.6; (Ta): Ta 0.987 | unspecified | [1] OuYang 2017; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990004-4) | Table 2, p. 5, row 22 |  |
 | 2183.15 | L -> (B) + TaB2 | L: Ta 0.062; (B): Ta 0; TaB2: Ta 0.333 | unspecified | [1] OuYang 2017; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990004-4) | Table 2, p. 5, row 18 |  |
 | 2173.15 | Ta2B -> Ta3B2 + (Ta) | Ta2B: B 0.333333, Ta 0.666667; Ta3B2: B 0.4, Ta 0.6 | experimental | [1] OuYang 2017; _cites Chad 2006_ [doi](https://doi.org/10.1007/bf02736442) | Table 2, p. 5, row 23 |  |
-| 22.5 | L + TaB(rt) -> Ta2B | L: B 0.225; TaB(rt): B 0.5, Ta 0.5; Ta2B: B 0.333333, Ta 0.666667 | experimental | [2] Silva 2018; _cites Chad 2006_ [doi](https://doi.org/10.1007/bf02736442) | Table 3, p. 19, row 9 |  |
-| 18 | L -> Ta2B + BCC | L: B 0.18; Ta2B: B 0.333333, Ta 0.666667 | experimental | [2] Silva 2018; _cites Chad 2006_ [doi](https://doi.org/10.1007/bf02736442) | Table 3, p. 19, row 3 |  |
 
 ## Formation enthalpies
 

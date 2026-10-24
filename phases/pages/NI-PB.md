@@ -183,8 +183,8 @@ _assessment that models this phase_
 - Literature: 31 values (31 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-pb:liquid)
 
-Names (11): _corpus: _corpus:phase:ni-pb:liquid  
-_paper: _paper:10.1016/j.calphad.2010.08.001:L, paper:10.1016/j.calphad.2010.08.001:L2, paper:10.1016/j.calphad.2013.06.004:LIQUID, paper:10.1016/j.calphad.2013.06.004:LIQUID#2, paper:10.1016/s0364-5916(00)00020-1:L, paper:10.1016/s0364-5916(00)00020-1:L2  
+Names (12): _corpus: _corpus:phase:ni-pb:liquid  
+_paper: _paper:10.1016/j.calphad.2010.08.001:L, paper:10.1016/j.calphad.2010.08.001:L2, paper:10.1016/j.calphad.2013.06.004:LIQUID, paper:10.1016/j.calphad.2013.06.004:LIQUID#1, paper:10.1016/j.calphad.2013.06.004:LIQUID#2, paper:10.1016/s0364-5916(00)00020-1:L, paper:10.1016/s0364-5916(00)00020-1:L2  
 _tdb: _tdb:NiPb-00Wan-LB.tdb:LIQUID, tdb:NiPb-10Kai.tdb:LIQUID, tdb:NiPb-13Vaa.tdb:LIQUID, tdb:NiPb-99Gho.tdb:LIQUID  
 
 

@@ -14,18 +14,18 @@ Table: Enthalpy of formation of CoZr2 reported in the literature (12)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33000 per mol-atom ± 2000 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
-| -26400 per mol-atom ± 1000 | CoZr2 | 298 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
-| -26300 per mol-atom | CoZr2 | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
-| -33 kJ/mol-atom ± 2 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
+| -33 kJ/mol-atom ± 2 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
+| -33 per mol-atom ± 2000 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
+| -26.4 per mol-atom ± 1000 | CoZr2 | 298 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
 | -26.4 kJ/mol-atom | CoZr2 | 298 | experimental |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
-| -32547 per mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 23 |  |
-| -30745 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
-| -28946 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 24 |  |
+| -26.3 per mol-atom | CoZr2 | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
 | -44 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006 | Table 6, p. 5, row 9 |  |
 | -44 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
-| -31.166 kJ/mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 34 |  |
-| -27.564 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 59 |  |
+| -32.547 per mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 23 |  |
+| -31.166 kJ/mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 34 |  |
+| -30.745 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
+| -28.946 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 24 |  |
+| -27.564 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 59 |  |
 
 ## DFT formation energies
 
@@ -42,8 +42,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021). [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5)
-2. A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010). [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006)
+1. A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010). [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006)
+2. Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021). [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5)
 3. Johan Bratberg, Bo Jansson, Thermodynamic evaluation of the C−Co−W−Hf−Zr system for cemented carbides applications, JPED 27, 213-219 (2006). [doi:10.1361/154770306x109746](https://doi.org/10.1361/154770306x109746)
 
 ## Please cite

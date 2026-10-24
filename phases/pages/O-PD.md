@@ -183,7 +183,7 @@ _assessment that models this phase_
 - Id: `phase:o-pd:pdo-b17`; status `assigned`
 - Structure: PtS · B17 · tP4 · P4_2/mmc (131); type `st:b17-pts-tp4`; tier A: standard phase name; confidence high
 - Stability: no calculated diagram
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 18 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-pd:pdo-b17)
 
 Names (3): _corpus: _corpus:phase:o-pd:pdo-b17  

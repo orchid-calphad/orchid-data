@@ -1,10 +1,10 @@
 # Na–Te system
 
-> Na–Te system: 33 accepted literature values (invariant reaction 20, formation 12, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Te system: 27 accepted literature values (invariant reaction 20, formation 6, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-TE.html · Markdown: https://data.orchid-project.org/systems/NA-TE.md
 
-33 accepted literature values from 1 paper(s) (experimental 23, model 10); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 20, model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-TE.json) · [CSV](https://data.orchid-project.org/systems/NA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-TE/NaTe-14Che.json) · [phases (8)](https://data.orchid-project.org/phases/pages/NA-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-TE.html) · [Markdown](https://data.orchid-project.org/systems/NA-TE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 23 |
-| model | 10 |
+| experimental | 20 |
+| model | 7 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 20 |
 | phase transition | 1 |
-| formation | 12 |
+| formation | 6 |
 
 ## Calculated phase diagrams
 
@@ -75,7 +75,7 @@ Table: Invariant reactions reported in the literature for the Na–Te system (20
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Na–Te system (12)
+Table: Enthalpies of formation, Na–Te system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -85,12 +85,6 @@ Table: Enthalpies of formation, Na–Te system (12)
 | NaTe |  | -167.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Morachevskii 1982_ | Table 2, p. 4, row 4 |  |
 | NaTe3 |  | -180 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 2, p. 4, row 5 |  |
 | NaTe3 |  | -167.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Morachevskii 1982_ | Table 2, p. 4, row 6 |  |
-| UNKNOWN |  | -334.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Morachevskii 1982_ | Table 2, p. 4, row 2 |  |
-| UNKNOWN |  | -330 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 2, p. 4, row 1 |  |
-| UNKNOWN |  | -180 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 2, p. 4, row 5 |  |
-| UNKNOWN |  | -175 kJ/mol (basis unstated) |  | model |  |  | [1] Chen 2014 | Table 2, p. 4, row 3 |  |
-| UNKNOWN |  | -167.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Morachevskii 1982_ | Table 2, p. 4, row 4 |  |
-| UNKNOWN |  | -167.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chen 2014; _cites Morachevskii 1982_ | Table 2, p. 4, row 6 |  |
 
 ## Other properties
 

@@ -114,16 +114,19 @@
   "observations": [
    {
     "id": "ORC-WUXHFFJTAL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(96)02197-4",
     "measured_in": "ref:8672a98d855856b0"
    },
    {
     "id": "ORC-F74WPN53TG",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(96)02197-4",
     "measured_in": "ref:8672a98d855856b0"
    },
    {
     "id": "ORC-ZHRREABRJL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0925-8388(96)02197-4",
     "measured_in": "ref:8672a98d855856b0"
    }

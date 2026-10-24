@@ -1,10 +1,10 @@
 # Al–Sr system
 
-> Al–Sr system: 164 accepted literature values (formation 80, invariant reaction 79, phase transition 4, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sr system: 163 accepted literature values (formation 80, invariant reaction 78, phase transition 4, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SR.html · Markdown: https://data.orchid-project.org/systems/AL-SR.md
 
-164 accepted literature values from 3 paper(s) (experimental 54, model 30, DFT 80); 4 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+163 accepted literature values from 3 paper(s) (experimental 53, model 30, DFT 80); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SR.json) · [CSV](https://data.orchid-project.org/systems/AL-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SR/AlSr-03Wan-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SR.html) · [Markdown](https://data.orchid-project.org/systems/AL-SR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
+| experimental | 53 |
 | model | 30 |
 | DFT | 80 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 79 |
+| invariant reaction | 78 |
 | phase transition | 4 |
 | formation | 80 |
 | activity / EMF / Gibbs energy | 1 |
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sr system (79)
+Table: Invariant reactions reported in the literature for the Al–Sr system (78)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -186,7 +186,6 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (79
 | 820.15 | polymorphic: (αSr)->(βSr) |  | model | [2] Wang 2003 | Table 1, p. 2, row 33 |  |
 | 820.15 | polymorphic: (αSr)->(βSr) |  | model | [2] Wang 2003; _cites Du 2002_ | Table 1, p. 2, row 32 |  |
 | 820.15 | polymorphic: (αSr)->(βSr) |  | experimental | [2] Wang 2003; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 31 |  |
-| 25 | congruent melting: SrAl4->L | SrAl4: Al 0.8, Sr 0.2; L: Sr 0.25 | experimental | [2] Wang 2003; _cites Closset 1986_ [doi](https://doi.org/10.1007/bf02665326) | Table 1, p. 2, row 5 |  |
 
 ## Formation enthalpies
 

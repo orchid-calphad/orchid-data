@@ -1,10 +1,10 @@
 # Ag–Ge system
 
-> Ag–Ge system: 26 accepted literature values (invariant reaction 17, phase transition 6, phase equilibrium 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ge system: 25 accepted literature values (invariant reaction 16, phase transition 6, phase equilibrium 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-GE.html · Markdown: https://data.orchid-project.org/systems/AG-GE.md
 
-26 accepted literature values from 3 paper(s) (experimental 22, model 4); 3 calculated phase diagram(s).
+25 accepted literature values from 3 paper(s) (experimental 21, model 4); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-GE.json) · [CSV](https://data.orchid-project.org/systems/AG-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-GE/AgGe-11Wan.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-GE.html) · [Markdown](https://data.orchid-project.org/systems/AG-GE.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 21 |
 | model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 16 |
 | phase transition | 6 |
 | phase equilibrium | 3 |
 
@@ -50,7 +50,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ge system (17)
+Table: Invariant reactions reported in the literature for the Ag–Ge system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -61,7 +61,6 @@ Table: Invariant reactions reported in the literature for the Ag–Ge system (17
 | 923.4 | eutectic: L -> fcc + dia | L: Ge 0.249; fcc: Ge 0.096 | model | [2] Chevalier 1988 | Table 2, p. 5, row 1 |  |
 | 923.4 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.249; diamond_A4(Ge): Ge 1 | model | [3] Wang 2011; _cites Chevalier 1988_ [doi](https://doi.org/10.1016/0040-6031%2888%2987047-3) | Table 1, p. 2, row 6 |  |
 | 923 | eutectic |  | experimental | [2] Chevalier 1988; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | p. 2 | “The eutectic has been given as x& = 0.26, T = 923 K \[4\], x&, = 0.241, T = 922 K \[5\], and x&, = 0.24, T = 923 K \[6\].” |
-| 923 | eutectic |  | experimental | [2] Chevalier 1988; _cites Predel 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990138-1) | p. 2 | “The eutectic has been given as x& = 0.26, T = 923 K \[4\], x&, = 0.241, T = 922 K \[5\], and x&, = 0.24, T = 923 K \[6\].” |
 | 923 | eutectic: L -> fcc + dia | L: Ge 0.26; fcc: Ge 0.065 | experimental | [2] Chevalier 1988; _cites Bull 1980_ | Table 2, p. 5, row 2 |  |
 | 923 | eutectic: L -> fcc + dia | fcc: Ge 0.081 | experimental | [2] Chevalier 1988; _cites Owen 1940_ | Table 2, p. 5, row 6 |  |
 | 923 | eutectic: L \<-> fcc-A1(Ag) + diamond_A4(Ge) | L: Ge 0.26; diamond_A4(Ge): Ge 1 | experimental | [3] Wang 2011; _cites Briggs 1929_ [doi](https://doi.org/10.1021/j150301a010) | Table 1, p. 2, row 1 |  |

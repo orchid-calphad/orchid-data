@@ -1,10 +1,10 @@
 # P–Si system
 
-> P–Si system: 78 accepted literature values (invariant reaction 26, formation 20, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Si system: 75 accepted literature values (invariant reaction 26, formation 17, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-SI.html · Markdown: https://data.orchid-project.org/systems/P-SI.md
 
-78 accepted literature values from 2 paper(s) (experimental 34, model 34, unspecified 10); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+75 accepted literature values from 2 paper(s) (experimental 34, model 31, unspecified 10); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI.json) · [CSV](https://data.orchid-project.org/systems/P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI) · [phases (10)](https://data.orchid-project.org/phases/pages/P-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI.html) · [Markdown](https://data.orchid-project.org/systems/P-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 34 |
-| model | 34 |
+| model | 31 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 26 |
 | phase transition | 7 |
 | phase equilibrium | 7 |
-| formation | 20 |
+| formation | 17 |
 | heat capacity / entropy / enthalpy | 12 |
 | activity / EMF / Gibbs energy | 5 |
 | model expression | 1 |
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the P–Si system (26)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, P–Si system (20)
+Table: Enthalpies of formation, P–Si system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -77,7 +77,6 @@ Table: Enthalpies of formation, P–Si system (20)
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -31.65 kJ/mol-atom | 298.15 | model | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 6 |  |
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -31.61 kJ/mol-atom | 298.15 | model | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 2011Aru_ | Table 5, p. 8, row 5 |  |
 | SiP | [SiP](https://data.orchid-project.org/compounds/SiP.html) | -30.95 kJ/mol-atom | 298.15 | unspecified | -13.047 (mp-aaaaaedq) | -26.653 (oqmd-1784005) | [1] Liang 2014; _cites ref. 1977Bar_ | Table 5, p. 8, row 2 |  |
-| SiP(liq) |  | -63.746 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1 |  |
 | SiP(liq) |  | -46.893 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2 |  |
 | SiP(liq) |  | 36.202 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3 |  |
 | SiP(s) |  | -246.525 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1 |  |
@@ -86,8 +85,6 @@ Table: Enthalpies of formation, P–Si system (20)
 | SiP2 | [SiP2](https://data.orchid-project.org/compounds/SiP2.html) | -26.69 kJ/mol-atom | 298.15 | model | -12.072 (mp-aaaaaoum) | -27.964 (oqmd-7989) | [1] Liang 2014 | Table 5, p. 8, row 9 |  |
 | SiP2 | [SiP2](https://data.orchid-project.org/compounds/SiP2.html) | -26.43 kJ/mol-atom | 298.15 | model | -12.072 (mp-aaaaaoum) | -27.964 (oqmd-7989) | [1] Liang 2014; _cites ref. 2012Jun_ | Table 5, p. 8, row 8 |  |
 | liq |  | -63.746 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1 |  |
-| liq |  | -46.893 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2 |  |
-| liq |  | 36.202 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3 |  |
 | s |  | -246.525 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 1 |  |
 | s |  | -147.253 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024; _cites ref. 11_ | Table 3, p. 35, row 2 |  |
 | s |  | -66.425 kJ/mol (basis unstated) |  | model |  |  | [2] Favre 2024 | Table 3, p. 35, row 3 |  |

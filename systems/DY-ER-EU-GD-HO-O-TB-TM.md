@@ -1,10 +1,10 @@
 # Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
-> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 142 accepted literature values (heat capacity / entropy / enthalpy 89, other property 35, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Er–Eu–Gd–Ho–O–Tb–Tm system: 108 accepted literature values (heat capacity / entropy / enthalpy 55, other property 35, formation 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html · Markdown: https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md
 
-142 accepted literature values from 1 paper(s) (model 142); 0 calculated phase diagram(s).
+108 accepted literature values from 1 paper(s) (model 108); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-ER-EU-GD-HO-O-TB-TM.json) · [CSV](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-ER-EU-GD-HO-O-TB-TM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-ER-EU-GD-HO-O-TB-TM.html) · [Markdown](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 142 |
+| model | 108 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 18 |
-| heat capacity / entropy / enthalpy | 89 |
+| heat capacity / entropy / enthalpy | 55 |
 | other property | 35 |
 
 ## Formation enthalpies
@@ -30,28 +30,28 @@ Table: Enthalpies of formation, Dy–Er–Eu–Gd–Ho–O–Tb–Tm system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B-Eu2O3 |  | -1650400 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
-| B-Eu₂O₃ |  | -1650400 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
-| B-Gd2O3 |  | -1819700 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
-| B-Gd₂O₃ |  | -1819700 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
-| C-Dy2O3 |  | -1863400 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
-| C-Dy₂O₃ |  | -1863400 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
-| C-Er2O3 |  | -1900100 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
-| C-Er₂O₃ |  | -1900100 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
-| C-Eu2O3 |  | -1656580 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
-| C-Eu₂O₃ |  | -1656580 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
-| C-Gd2O3 |  | -1827530 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
-| C-Gd₂O₃ |  | -1827530 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
-| C-Ho2O3 |  | -1883300 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 29 |  |
-| C-Ho₂O₃ |  | -1883300 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 29 |  |
-| C-Tb2O3 |  | -1865200 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
-| C-Tb₂O₃ |  | -1865200 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
-| C-Tm2O3 |  | -1889300 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
-| C-Tm₂O₃ |  | -1889300 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+| B-Eu2O3 |  | -1650.4 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
+| B-Eu₂O₃ |  | -1650.4 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
+| B-Gd2O3 |  | -1819.7 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| B-Gd₂O₃ |  | -1819.7 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| C-Dy2O3 |  | -1863.4 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
+| C-Dy₂O₃ |  | -1863.4 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
+| C-Er2O3 |  | -1900.1 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
+| C-Er₂O₃ |  | -1900.1 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
+| C-Eu2O3 |  | -1656.58 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+| C-Eu₂O₃ |  | -1656.58 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+| C-Gd2O3 |  | -1827.53 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
+| C-Gd₂O₃ |  | -1827.53 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
+| C-Ho2O3 |  | -1883.3 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 29 |  |
+| C-Ho₂O₃ |  | -1883.3 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 29 |  |
+| C-Tb2O3 |  | -1865.2 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
+| C-Tb₂O₃ |  | -1865.2 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
+| C-Tm2O3 |  | -1889.3 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+| C-Tm₂O₃ |  | -1889.3 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (89)
+### Heat capacity / entropy / enthalpy (55)
 
 Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm system
 
@@ -67,15 +67,6 @@ Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm 
 | Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 46 |  |
 | Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
 | Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
-| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
-| Entropy; _printed: Δtrs°S_ | 22.537 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 34 |  |
-| Entropy; _printed: Δtrs°S_ | 5.451 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 33 |  |
-| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
-| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
-| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
-| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
-| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
-| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
 | Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu2O3; _alloy: Er 0, Eu 0.4, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
 | Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu₂O₃; _alloy: Er 0, Eu 0.4, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
 | Entropy; _printed: °S_ | 157.37 unknown | 298.15 | B-Gd2O3; _alloy: Er 0, Eu 0, Gd 0.4, Ho 0, O 0.6, Tb 0, Tm 0_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
@@ -95,57 +86,32 @@ Table: Heat capacity / entropy / enthalpy, Dy–Er–Eu–Gd–Ho–O–Tb–Tm 
 | Entropy; _printed: °S_ | 139.72 unknown | 298.15 | C-Tm2O3; _alloy: Er 0, Eu 0, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
 | Entropy; _printed: °S_ | 139.72 unknown | 298.15 | C-Tm₂O₃; _alloy: Er 0, Eu 0, Gd 0, Ho 0, O 0.6, Tb 0, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
 | Entropy; _printed: Δtrs°S_ | 4.914 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
-| Entropy; _printed: Δtrs°S_ | 4.914 unknown | 894.5 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
 | Entropy; _printed: Δtrs°S_ | 3.737 unknown | 1425 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
-| Entropy; _printed: Δtrs°S_ | 3.737 unknown | 1425 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
 | Entropy; _printed: Δtrs°S_ | 4.211 unknown | 1823 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
-| Entropy; _printed: Δtrs°S_ | 4.211 unknown | 1823 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
 | Entropy; _printed: Δtrs°S_ | 4.09 unknown | 2263 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
-| Entropy; _printed: Δtrs°S_ | 4.09 unknown | 2263 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
 | Entropy; _printed: Δtrs°S_ | 1.504 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
-| Entropy; _printed: Δtrs°S_ | 1.504 unknown | 2323 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
 | Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2413 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
 | Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2440 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2440 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
 | Entropy; _printed: Δtrs°S_ | 2.579 unknown | 2443 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
-| Entropy; _printed: Δtrs°S_ | 2.579 unknown | 2443 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
 | Entropy; _printed: Δtrs°S_ | 3.982 unknown | 2458 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 30 |  |
-| Entropy; _printed: Δtrs°S_ | 3.982 unknown | 2458 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 30 |  |
 | Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2463 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2463 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
 | Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2481 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2481 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
 | Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2483 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 31 |  |
-| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2483 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 31 |  |
 | Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2523 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 1 |  |
 | Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
-| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2543 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
 | Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2593 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
 | Entropy; _printed: Δtrs°S_ | 40.519 unknown | 2608 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 2 |  |
 | Entropy; _printed: Δtrs°S_ | 41.663 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
 | Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2623 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
-| Entropy; _printed: Δtrs°S_ | 41.663 unknown | 2623 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
-| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2623 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
 | Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2633 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
-| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2633 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
 | Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2643 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
-| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2643 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
 | Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2653 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
-| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2653 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
 | Entropy; _printed: Δtrs°S_ | 29.486 unknown | 2681 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
-| Entropy; _printed: Δtrs°S_ | 29.486 unknown | 2681 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
 | Entropy; _printed: Δtrs°S_ | 28.056 unknown | 2683 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
-| Entropy; _printed: Δtrs°S_ | 28.056 unknown | 2683 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
 | Entropy; _printed: Δtrs°S_ | 30.916 unknown | 2688 | C-Ho₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 32 |  |
-| Entropy; _printed: Δtrs°S_ | 30.916 unknown | 2688 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 32 |  |
 | Entropy; _printed: Δtrs°S_ | 32.346 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
-| Entropy; _printed: Δtrs°S_ | 32.346 unknown | 2691 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
 | Entropy; _printed: Δtrs°S_ | 26.625 unknown | 2693 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
-| Entropy; _printed: Δtrs°S_ | 26.625 unknown | 2693 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
 | Entropy; _printed: Δtrs°S_ | 31.284 unknown | 2698 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
-| Entropy; _printed: Δtrs°S_ | 31.284 unknown | 2698 | UNKNOWN | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
 
 ### Other property (35)
 

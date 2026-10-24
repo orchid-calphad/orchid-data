@@ -1,10 +1,10 @@
 # Pd–Se system
 
-> Pd–Se system: 85 accepted literature values (invariant reaction 41, crystal structure 17, phase transition 17, formation 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Se system: 81 accepted literature values (invariant reaction 41, crystal structure 17, phase transition 17, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SE.html · Markdown: https://data.orchid-project.org/systems/PD-SE.md
 
-85 accepted literature values from 1 paper(s) (experimental 56, model 23, unspecified 6); 1 calculated phase diagram(s).
+81 accepted literature values from 1 paper(s) (experimental 56, model 19, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SE.json) · [CSV](https://data.orchid-project.org/systems/PD-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SE/PdSe-14Bor.json) · [phases (14)](https://data.orchid-project.org/phases/pages/PD-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SE.html) · [Markdown](https://data.orchid-project.org/systems/PD-SE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 56 |
-| model | 23 |
+| model | 19 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 41 |
 | phase transition | 17 |
-| formation | 10 |
+| formation | 6 |
 | crystal structure | 17 |
 
 ## Calculated phase diagrams
@@ -120,7 +120,7 @@ Table: Invariant reactions reported in the literature for the Pd–Se system (41
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Se system (10)
+Table: Enthalpies of formation, Pd–Se system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -130,10 +130,6 @@ Table: Enthalpies of formation, Pd–Se system (10)
 | PdSe2 |  | -86.67 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Bordier 2014 | Table 3, p. 7, row 8 |  |
 | PdSe2 |  | -86.4 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [1] Bordier 2014; _cites Stolyarova 2011_ [doi](https://doi.org/10.1134/s0016702911030098) | Table 2, p. 3, row 3 |  |
 | PdSe2 |  | -86.4 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Bordier 2014; _cites Stolyarova 2011_ [doi](https://doi.org/10.1134/s0016702911030098) | Table 3, p. 7, row 7 |  |
-| UNKNOWN |  | -86.67 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Bordier 2014 | Table 3, p. 7, row 8 |  |
-| UNKNOWN |  | -86.4 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Bordier 2014; _cites Stolyarova 2011_ [doi](https://doi.org/10.1134/s0016702911030098) | Table 3, p. 7, row 7 |  |
-| UNKNOWN |  | -72.68 kJ/mol (basis unstated) ± 0.82 | 298.15 | model |  |  | [1] Bordier 2014; _cites Stolyarova 2011_ [doi](https://doi.org/10.1134/s0016702911030098) | Table 3, p. 7, row 9 |  |
-| UNKNOWN |  | -72.17 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Bordier 2014 | Table 3, p. 7, row 10 |  |
 
 ## Other properties
 

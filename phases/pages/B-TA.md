@@ -78,7 +78,7 @@ _cited as the source of values for this phase_
 - Id: `phase:b-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.99 K, x(B) 0–0.02571
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 19 values (18 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ta:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:b-ta:bcc-a2  
@@ -192,7 +192,7 @@ _assessment that models this phase_
 - Id: `phase:b-ta:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 2324.96–4000 K, x(B) 0–1
-- Literature: 42 values (42 accepted) from 2 papers
+- Literature: 42 values (40 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ta:liquid)
 
 Names (5): _corpus: _corpus:phase:b-ta:liquid  
@@ -238,7 +238,7 @@ _cited as the source of values for this phase_
 - Id: `phase:b-ta:ta2b-c16`; status `assigned`
 - Structure: Al2Cu · C16 · tI12 · I4/mcm (140); type `st:c16-al2cu-ti12`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 2206.36–2690.71 K, x(B) 0.27932–0.33333
-- Literature: 38 values (38 accepted) from 2 papers
+- Literature: 38 values (36 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ta:ta2b-c16)
 
 Names (5): _corpus: _corpus:phase:b-ta:ta2b-c16  
@@ -477,7 +477,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition, structure_token_is_also_a_formula); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: B 0.5000, Ta 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3168.25 K, x(B) 0.5–0.5
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 13 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ta:tab-b33)
 
 Names (3): _corpus: _corpus:phase:b-ta:tab-b33  

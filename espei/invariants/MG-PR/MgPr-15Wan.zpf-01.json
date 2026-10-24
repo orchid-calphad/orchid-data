@@ -334,38 +334,47 @@
   "observations": [
    {
     "id": "ORC-GUVL6D3ZAL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-UBCXLGI7OY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-DRCHUJERFS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-CRXHDWJAAH",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-664XMG7IAN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-SMONBKR3E4",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-U6UI4KVCAB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-PC2IAKFUBO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    },
    {
     "id": "ORC-LM5XTJDZNK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.commatsci.2014.11.050"
    }
   ],

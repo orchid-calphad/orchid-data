@@ -13,9 +13,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1665.0,
-   1187.0,
-   1166.0,
    1938.0,
    1460.0,
    1439.0
@@ -118,102 +115,6 @@
      0.4017855
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     0.25
-    ]
-   ],
-   [
-    "RU3U_L12",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RU3U_L12",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RU5U3",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.3125
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RU5U3",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RU4U3",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.4017855
-    ]
-   ]
   ]
  ],
  "reference": "Berche 2011, doi:10.1016/j.jnucmat.2011.01.043",
@@ -221,36 +122,28 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VATAVCXU5R ORC-KJH43QJFSL ORC-6NRN3PXJ7Q ORC-AU5XUQO4QN ORC-UWER5EIF3Y ORC-VWL25W2ED5",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AU5XUQO4QN ORC-UWER5EIF3Y ORC-VWL25W2ED5",
  "bibtex": "berche2011_46bb9d",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-VATAVCXU5R",
-    "paper": "doi:10.1016/j.jnucmat.2011.01.043"
-   },
-   {
-    "id": "ORC-KJH43QJFSL",
-    "paper": "doi:10.1016/j.jnucmat.2011.01.043"
-   },
-   {
-    "id": "ORC-6NRN3PXJ7Q",
-    "paper": "doi:10.1016/j.jnucmat.2011.01.043"
-   },
-   {
     "id": "ORC-AU5XUQO4QN",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-UWER5EIF3Y",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-VWL25W2ED5",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    }
   ],
@@ -263,29 +156,11 @@
    "10.1016/j.jnucmat.2011.01.043"
   ],
   "source_dataset": "db-v2.1/invariants/espei/RuU-11Ber/zpf-01.json",
-  "values_dropped": 2
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 6.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 10.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 16.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -308,7 +183,7 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 10,
+  "line_compound_vertices_null": 5,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  },
@@ -317,21 +192,6 @@
   "all_values_certified": false,
   "n_certified": 0,
   "values": [
-   {
-    "id": "ORC-VATAVCXU5R",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-KJH43QJFSL",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-6NRN3PXJ7Q",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
    {
     "id": "ORC-AU5XUQO4QN",
     "espei_certified": false,

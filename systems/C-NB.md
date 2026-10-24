@@ -1,10 +1,10 @@
 # C–Nb system
 
-> C–Nb system: 77 accepted literature values (heat capacity / entropy / enthalpy 32, invariant reaction 29, crystal structure 10, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Nb system: 61 accepted literature values (invariant reaction 29, heat capacity / entropy / enthalpy 16, crystal structure 10, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-NB.html · Markdown: https://data.orchid-project.org/systems/C-NB.md
 
-77 accepted literature values from 2 paper(s) (experimental 43, model 21, DFT 13); 0 calculated phase diagram(s).
+61 accepted literature values from 2 paper(s) (experimental 35, model 13, DFT 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-NB.json) · [CSV](https://data.orchid-project.org/systems/C-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NB) · [phases (6)](https://data.orchid-project.org/phases/pages/C-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-NB.html) · [Markdown](https://data.orchid-project.org/systems/C-NB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 21 |
+| experimental | 35 |
+| model | 13 |
 | DFT | 13 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 29 |
 | phase transition | 3 |
 | formation | 3 |
-| heat capacity / entropy / enthalpy | 32 |
+| heat capacity / entropy / enthalpy | 16 |
 | crystal structure | 10 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-NB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-NB.json) · [CALPHAD hull NbC-01Lee](https://data.orchid-project.org/hulls/calphad-sgte/C/C-NB--NbC-01Lee.json) · [CALPHAD hull NbC-13Khv](https://data.orchid-project.org/hulls/calphad-sgte/C/C-NB--NbC-13Khv.json) · [CALPHAD hull NbC-90Hua](https://data.orchid-project.org/hulls/calphad-sgte/C/C-NB--NbC-90Hua.json) · [CALPHAD hull NbC-97Hua-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-NB--NbC-97Hua-LB.json)
@@ -88,7 +88,7 @@ Table: Phase transition, C–Nb system
 | Phase transition | 2800 K | 2800 | Nb2C | experimental | [1] Huang 1990 | p. 2 | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
 | Phase transition | 3886 K | 3886 | congruent transformation | experimental | [1] Huang 1990 | p. 2 | “Nb2C decomposes close to 2800 K and NbC melts congruently at 3886 K.” |
 
-### Heat capacity / entropy / enthalpy (32)
+### Heat capacity / entropy / enthalpy (16)
 
 Table: Heat capacity / entropy / enthalpy, C–Nb system
 
@@ -102,14 +102,6 @@ Table: Heat capacity / entropy / enthalpy, C–Nb system
 | Entropy; _printed: °S298_ | 18.04 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
 | Entropy; _printed: °S298_ | 17.52 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
 | Entropy; _printed: °S298_ | 17.45 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
-| Entropy; _printed: °S298_ | 19.83 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
-| Entropy; _printed: °S298_ | 17.52 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
-| Entropy; _printed: °S298_ | 21.36 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
-| Entropy; _printed: °S298_ | 20.44 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
-| Entropy; _printed: °S298_ | 18.04 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
-| Entropy; _printed: °S298_ | 18.75 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
-| Entropy; _printed: °S298_ | 17.45 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
-| Entropy; _printed: °S298_ | 21.65 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
 | Heat capacity; _printed: °Cp,298_ | 21.17 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
 | Heat capacity; _printed: °Cp,298_ | 20.93 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
 | Heat capacity; _printed: °Cp,298_ | 19.87 J/mol (basis unstated)/K | 298 | NbC0.702; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
@@ -118,14 +110,6 @@ Table: Heat capacity / entropy / enthalpy, C–Nb system
 | Heat capacity; _printed: °Cp,298_ | 19.28 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
 | Heat capacity; _printed: °Cp,298_ | 18.57 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
 | Heat capacity; _printed: °Cp,298_ | 18.77 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
-| Heat capacity; _printed: °CP,298_ | 19.34 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
-| Heat capacity; _printed: °CP,298_ | 18.57 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
-| Heat capacity; _printed: °CP,298_ | 21.17 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
-| Heat capacity; _printed: °CP,298_ | 19.87 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
-| Heat capacity; _printed: °CP,298_ | 19.28 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
-| Heat capacity; _printed: °CP,298_ | 19.59 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
-| Heat capacity; _printed: °CP,298_ | 18.77 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
-| Heat capacity; _printed: °CP,298_ | 20.93 J/mol (basis unstated)/K | 298 | UNKNOWN; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
 
 ### Crystal structure (10)
 

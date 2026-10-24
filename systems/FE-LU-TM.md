@@ -28,22 +28,6 @@ Table: Heat capacity / entropy / enthalpy, Fe–Lu–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: 0S298.15 mag_ | -0.868 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 4 |  |
-| Entropy; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 3 |  |
-| Entropy; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Lu 0, Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12 |  |
-| Entropy; _printed: 0S298.15 mag_ | -0.43 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Lu 0, Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11 |  |
-| Entropy; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 5 |  |
-| Entropy; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 6 |  |
-| Entropy; _printed: 0S298.15 mag_ | -3.23 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Lu 0, Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13 |  |
-| Entropy; _printed: 0S298.15 mag_ | -3.31 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Lu 0, Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14 |  |
-| Entropy; _printed: 0S298.15 mag_ | -5.17 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 9 |  |
-| Entropy; _printed: 0S298.15 mag_ | -5.15 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 10 |  |
-| Entropy; _printed: 0S298.15 mag_ | -4.74 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Lu 0, Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18 |  |
-| Entropy; _printed: 0S298.15 mag_ | -4.75 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Lu 0, Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17 |  |
-| Entropy; _printed: 0S298.15 mag_ | -6.34 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 8 |  |
-| Entropy; _printed: 0S298.15 mag_ | -6.4 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 7 |  |
-| Entropy; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16 |  |
-| Entropy; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15 |  |
 | Heat capacity; _printed: 0C298.15 p mag_ | 4.34 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 4 |  |
 | Heat capacity; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 3 |  |
 | Heat capacity; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Lu 0, Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12 |  |
@@ -60,6 +44,22 @@ Table: Heat capacity / entropy / enthalpy, Fe–Lu–Tm system
 | Heat capacity; _printed: 0C298.15 p mag_ | 2.76 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 7 |  |
 | Heat capacity; _printed: 0C298.15 p mag_ | 0.97 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16 |  |
 | Heat capacity; _printed: 0C298.15 p mag_ | 1.02 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.868 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 4 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 3 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Lu 0, Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.43 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Lu 0, Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 5 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 6 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -3.23 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Lu 0, Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -3.31 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Lu 0, Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -5.17 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 9 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -5.15 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 10 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -4.74 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Lu 0, Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -4.75 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Lu 0, Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.34 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25, Tm 0_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 8 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.4 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25, Tm 0_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 7 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Lu 0, Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15 |  |
 
 ## Sources
 

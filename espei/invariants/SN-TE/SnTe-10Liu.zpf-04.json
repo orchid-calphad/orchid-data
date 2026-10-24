@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-LISBEAJFKR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11664-009-0985-y",
     "measured_in": "doi:10.1016/0022-5088(80)90280-5"
    }

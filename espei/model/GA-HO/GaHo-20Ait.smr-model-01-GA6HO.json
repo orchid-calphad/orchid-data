@@ -1,0 +1,185 @@
+{
+ "components": [
+  "GA",
+  "HO",
+  "VA"
+ ],
+ "phases": [
+  "GA6HO"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "SM_FORM",
+ "values": [
+  [
+   [
+    0.8342,
+    -2.6685,
+    -1.2683
+   ]
+  ]
+ ],
+ "reference": "Boukideur 2020, doi:10.1007/s10973-019-08689-5",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EN3EGWJZUG.b93ff3 ORC-2V5BXCODMG.b8583c ORC-3GNRLTY6ED.48b4f3",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GaHo-20Ait.tdb",
+   "path": "databases/sgte-binary/GaHo-20Ait.tdb",
+   "sha256": "97e610d6cbfd4c808bdb0f02491ee357f8c16a9ca0ce2eeb65a702f2af234d9d",
+   "catalog_entry": {
+    "name": "GaHo-20Ait.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10973-019-08689-5",
+   "doi": "10.1007/s10973-019-08689-5",
+   "citation": {
+    "authors": "see doi",
+    "title": "S. Kardellass, J. Therm. Anal. Calorim., 139, 3623-33(2020).",
+    "year": "2020"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "boukideur2020_4d5d66",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-EN3EGWJZUG.b93ff3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "also_read_as": [
+     "ORC-EN3EGWJZUG.b93ff3"
+    ]
+   },
+   {
+    "id": "ORC-2V5BXCODMG.b8583c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "also_read_as": [
+     "ORC-2V5BXCODMG.b8583c"
+    ]
+   },
+   {
+    "id": "ORC-3GNRLTY6ED.48b4f3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-019-08689-5",
+    "measured_in": "doi:10.1007/s10973-019-08689-5",
+    "also_read_as": [
+     "ORC-3GNRLTY6ED.48b4f3"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-019-08689-5"
+  ],
+  "dois": [
+   "10.1007/s10973-019-08689-5"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GaHo-20Ait/smr-model-01.json",
+  "values_dropped": 15
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GA6HO"
+  ],
+  "basis": {
+   "printed_labels": 3
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GaHo-20Ait.tdb",
+   "path": "databases/sgte-binary/GaHo-20Ait.tdb",
+   "sha256": "97e610d6cbfd4c808bdb0f02491ee357f8c16a9ca0ce2eeb65a702f2af234d9d",
+   "phase": "GA6HO",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   6.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GA",
+    "HO"
+   ],
+   [
+    "GA",
+    "HO"
+   ],
+   [
+    "GA",
+    "HO"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-EN3EGWJZUG.b93ff3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2V5BXCODMG.b8583c",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3GNRLTY6ED.48b4f3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

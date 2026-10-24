@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Pm2O3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1811000 unknown | C-Pm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+| -1811 unknown | C-Pm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
 
 ## Sources
 

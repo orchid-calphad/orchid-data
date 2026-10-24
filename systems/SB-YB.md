@@ -1,10 +1,10 @@
 # Sb–Yb system
 
-> Sb–Yb system: 62 accepted literature values (invariant reaction 40, formation 14, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Yb system: 61 accepted literature values (invariant reaction 40, formation 13, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-YB.html · Markdown: https://data.orchid-project.org/systems/SB-YB.md
 
-62 accepted literature values from 2 paper(s) (experimental 32, model 18, DFT 12); 2 calculated phase diagram(s).
+61 accepted literature values from 2 paper(s) (experimental 31, model 18, DFT 12); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-YB.json) · [CSV](https://data.orchid-project.org/systems/SB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-YB/SbYb-12Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/systems/SB-YB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
+| experimental | 31 |
 | model | 18 |
 | DFT | 12 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 40 |
 | phase transition | 8 |
-| formation | 14 |
+| formation | 13 |
 
 ## Calculated phase diagrams
 
@@ -130,7 +130,7 @@ Table: Invariant reactions reported in the literature for the Sb–Yb system (40
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sb–Yb system (14)
+Table: Enthalpies of formation, Sb–Yb system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -140,7 +140,6 @@ Table: Enthalpies of formation, Sb–Yb system (14)
 | UNKNOWN |  | -96.7 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14 |  |
 | UNKNOWN |  | -68.29 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 17 |  |
 | UNKNOWN |  | -64.03 kJ/mol-atom |  | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 16 |  |
-| UNKNOWN |  | -62 kJ/mol-atom | 298.15 | experimental |  |  | [2] Palma 2023; _cites Pratt 1970_ | Table 1, p. 27, row 15 |  |
 | Yb11Sb10 |  | -96.7 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 14 |  |
 | Yb16Sb11 |  | -101.94 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 12 |  |
 | Yb4Sb3 |  | -100.24 kJ/mol-atom | 0 | DFT |  |  | [2] Palma 2023; _cites Chong 2021_ [doi](https://doi.org/10.1016/j.actamat.2021.117169) | Table 1, p. 27, row 13 |  |

@@ -1,10 +1,10 @@
 # Fe–Nb system
 
-> Fe–Nb system: 142 accepted literature values (invariant reaction 101, formation 18, phase transition 11, heat capacity / entropy / enthalpy 8) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Nb system: 127 accepted literature values (invariant reaction 101, phase transition 11, formation 9, heat capacity / entropy / enthalpy 4) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NB.html · Markdown: https://data.orchid-project.org/systems/FE-NB.md
 
-142 accepted literature values from 6 paper(s) (experimental 66, model 76); 16 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+127 accepted literature values from 6 paper(s) (experimental 62, model 65); 16 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NB.json) · [CSV](https://data.orchid-project.org/systems/FE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-NB/FeNb-00Tof.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NB.html) · [Markdown](https://data.orchid-project.org/systems/FE-NB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 66 |
-| model | 76 |
+| experimental | 62 |
+| model | 65 |
 
 Table: Accepted values by property group
 
@@ -21,9 +21,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 101 |
 | phase transition | 11 |
-| formation | 18 |
-| mixing / partial | 4 |
-| heat capacity / entropy / enthalpy | 8 |
+| formation | 9 |
+| mixing / partial | 2 |
+| heat capacity / entropy / enthalpy | 4 |
 
 ## Calculated phase diagrams
 
@@ -258,7 +258,7 @@ Table: Invariant reactions reported in the literature for the Fe–Nb system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Nb system (18)
+Table: Enthalpies of formation, Fe–Nb system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -271,15 +271,6 @@ Table: Enthalpies of formation, Fe–Nb system (18)
 | Fe0.6667Nb0.3333 |  | -17.9 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4 |  |
 | Fe0.6667Nb0.3333 |  | -17.87 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
 | Fe0.6667Nb0.3333 |  | -12.24 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
-| UNKNOWN |  | -23.7 kJ/mol (basis unstated) | 1200 | experimental |  |  | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2 |  |
-| UNKNOWN |  | -23.67 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000 | Table I, p. 2, row 9 |  |
-| UNKNOWN |  | -23.41 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8 |  |
-| UNKNOWN |  | -22.5 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 67_ | Table I, p. 2, row 3 |  |
-| UNKNOWN |  | -21 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 77_ | Table I, p. 2, row 5 |  |
-| UNKNOWN |  | -20.5 kJ/mol (basis unstated) | 1250 | experimental |  |  | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1 |  |
-| UNKNOWN |  | -17.9 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 72_ | Table I, p. 2, row 4 |  |
-| UNKNOWN |  | -17.87 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
-| UNKNOWN |  | -12.24 kJ/mol (basis unstated) |  | model |  |  | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
 
 ## Other properties
 
@@ -301,18 +292,16 @@ Table: Phase transition, Fe–Nb system
 | Phase transition | 1924.15 K | 1924.15 |  | model | [3] He 2017 | p. 12 | “The higher melting point maximum m2 is located at a composition Fe-36.6Al-33.3Nb and a temperature of 1669 C, the lower one termed m3 is at Fe-6.2Al31.6Nb and 1651 C.” |
 | Phase transition | 1942.15 K | 1942.15 |  | model | [3] He 2017 | p. 12 | “The higher melting point maximum m2 is located at a composition Fe-36.6Al-33.3Nb and a temperature of 1669 C, the lower one termed m3 is at Fe-6.2Al31.6Nb and 1651 C.” |
 
-### Mixing / partial (4)
+### Mixing / partial (2)
 
 Table: Mixing / partial, Fe–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of mixing; _printed: -ΔS measured_ | -4.56 J/mol (basis unstated)/K | 1200 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2 |  |
-| Entropy of mixing; _printed: -ΔSmeasured_ | -4.56 J/mol (basis unstated)/K | 1200 | UNKNOWN | experimental | [1] Toffolon 2000; _cites ref. 69_ | Table I, p. 2, row 2 |  |
 | Entropy of mixing; _printed: -ΔS measured_ | -4.6 J/mol (basis unstated)/K | 1250 | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | experimental | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1 |  |
-| Entropy of mixing; _printed: -ΔSmeasured_ | -4.6 J/mol (basis unstated)/K | 1250 | UNKNOWN | experimental | [1] Toffolon 2000; _cites ref. 66_ | Table I, p. 2, row 1 |  |
 
-### Heat capacity / entropy / enthalpy (8)
+### Heat capacity / entropy / enthalpy (4)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Nb system
 
@@ -322,10 +311,6 @@ Table: Heat capacity / entropy / enthalpy, Fe–Nb system
 | Entropy; _printed: -ΔS calculated_ | -1.84 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
 | Entropy; _printed: -ΔS calculated_ | -0.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
 | Entropy; _printed: -ΔS calculated_ | -5.33 J/mol.at.K |  | Fe0.6667Nb0.3333; _alloy: Nb 0.3333_ | model | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8 |  |
-| Entropy; _printed: -ΔScalculated_ | -5.42 J/mol.at.K |  | UNKNOWN | model | [1] Toffolon 2000 | Table I, p. 2, row 9 |  |
-| Entropy; _printed: -ΔScalculated_ | -1.84 J/mol.at.K |  | UNKNOWN | model | [1] Toffolon 2000; _cites ref. 90_ | Table I, p. 2, row 6 |  |
-| Entropy; _printed: -ΔScalculated_ | -0.33 J/mol.at.K |  | UNKNOWN | model | [1] Toffolon 2000; _cites ref. 93_ | Table I, p. 2, row 7 |  |
-| Entropy; _printed: -ΔScalculated_ | -5.33 J/mol.at.K |  | UNKNOWN | model | [1] Toffolon 2000; _cites ref. 94_ | Table I, p. 2, row 8 |  |
 
 ## Sources
 

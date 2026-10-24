@@ -72,6 +72,7 @@
   "observations": [
    {
     "id": "ORC-IELLJFSROE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2007.04.004",
     "measured_in": "ref:406497a04cf2da25"
    }

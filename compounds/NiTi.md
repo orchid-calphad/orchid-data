@@ -14,25 +14,16 @@ Table: Enthalpy of formation of NiTi reported in the literature (62)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34200 per mol-atom ± 2000 | NiTi | 999.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17 |  |
-| -34000 per mol-atom ± 2000 | NiTi | 1460.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15 |  |
-| -33911 per mol-atom ± 2000 | NiTi | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13 |  |
-| -33100 per mol-atom ± 1100 | NiTi | 1477.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21 |  |
-| -32510 per mol-atom | NiTi | 1173.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19 |  |
+| -34.2 per mol-atom ± 2000 | NiTi | 999.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gomozov 1986_ | Table 9, p. 6, row 17 |  |
 | -34.15 kJ/mol-atom | NiTi(B2) | 999 | experimental | Calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Gomozov 1986_ | Table 1, p. 5, row 5 |  |
 | -34 kJ/mol-atom | NiTi(B2) | 1460 | experimental | Calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 1, p. 5, row 3 |  |
+| -34 per mol-atom ± 2000 | NiTi | 1460.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 15 |  |
+| -33.911 per mol-atom ± 2000 | NiTi | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 13 |  |
 | -33.9 kJ/mol-atom | NiTi(B2) | 298.15 | experimental | Calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 1, p. 5, row 4 |  |
 | -33.9 kJ/mol-atom | TiNi-B2 | 298.15 | experimental | direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 24 |  |
+| -33.1 per mol-atom ± 1100 | NiTi | 1477.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites ref. 1998Guo_ | Table 9, p. 6, row 21 |  |
 | -33.1 kJ/mol-atom ± 1.1 | NiTi(B2) | 298.15 | experimental |  | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [4] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 3 |  |
-| -45800 per mol-atom | NiTi | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 28 |  |
-| -38347 per mol-atom | NiTi | 1477.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 22 |  |
-| -38286 per mol-atom | NiTi | 1460.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 16 |  |
-| -38100 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25 |  |
-| -37212 per mol-atom | NiTi | 1173.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 20 |  |
-| -36100 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 27 |  |
-| -36000 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26 |  |
-| -34160 per mol-atom | NiTi | 999.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 18 |  |
-| -31159 per mol-atom | NiTi | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 14 |  |
+| -32.51 per mol-atom | NiTi | 1173.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Yi 1989_ [doi](https://doi.org/10.1007/bf02385723) | Table 9, p. 6, row 19 |  |
 | -5347 unknown | TiNi B19' | 0 | model | FLAPW | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 7 |  |
 | -3911 unknown | TiNi B19 | 0 | model | FLAPW | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 4, p. 5, row 15 |  |
 | -3001 unknown | TiNi B19' | 298.15 | model | CALPHAD assessed | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 4, p. 5, row 8 |  |
@@ -40,21 +31,30 @@ Table: Enthalpy of formation of NiTi reported in the literature (62)
 | -1700 unknown | TiNi B19' | 0 | model | LMTO-ASA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 1 |  |
 | -1564.3 unknown | TiNi B19 | 298.15 | model | CALPHAD assessed | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 4, p. 5, row 16 |  |
 | -46 kJ/mol-atom | NiTi(B2) |  | model | TBB | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 1 |  |
+| -45.8 per mol-atom | NiTi | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 28 |  |
 | -40.9 kJ/mol-atom | NiTi(B2) |  | model | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 2 |  |
 | -39.8 kJ/mol-atom | TiNi B19' | 0 | model | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 35 |  |
 | -39.5 kJ/mol-atom | TiNi B19' | 0 | model | 1st-princ. (FLAPW) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 37 |  |
 | -38.5 kJ/mol-atom | NiTi(B32) |  | model | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 9 |  |
+| -38.347 per mol-atom | NiTi | 1477.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 22 |  |
+| -38.286 per mol-atom | NiTi | 1460.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 16 |  |
+| -38.1 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 25 |  |
 | -38.1 kJ/mol-atom | TiNi-B2 | 0 | model | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 26 |  |
 | -38 kJ/mol-atom | TiNi-B2 | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Sanati 1998_ [doi](https://doi.org/10.1103/physrevb.58.13590) | Table 6, p. 8, row 28 |  |
 | -37.8 kJ/mol-atom | TiNi B19' | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 36 |  |
 | -37.721 kJ/mol-atom | TiNi B19' | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 6, p. 8, row 33 |  |
+| -37.212 per mol-atom | NiTi | 1173.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 20 |  |
 | -36.5 kJ/mol-atom | NiTi(B32) |  | model | TBB | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 8 |  |
+| -36.1 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 27 |  |
 | -36 kJ/mol-atom | TiNi-B2 | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 27 |  |
+| -36 per mol-atom | NiTi |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 26 |  |
 | -34.721 kJ/mol-atom | TiNi-B2 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 6, p. 8, row 21 |  |
+| -34.16 per mol-atom | NiTi | 999.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 18 |  |
 | -34.1 kJ/mol-atom | TiNi-B2 | 0 | model | 1st-princ. (FLAPW) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Hatcher 2009_ [doi](https://doi.org/10.1103/physrevb.80.144203) | Table 6, p. 8, row 29 |  |
 | -34.052 kJ/mol-atom | TiNi-B2 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 22 |  |
 | -33.85 kJ/mol-atom | NiTi(B2) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014 | Table 1, p. 5, row 7 |  |
 | -33.339 kJ/mol-atom | TiNi-B2 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 23 |  |
+| -31.159 per mol-atom | NiTi | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 14 |  |
 | -9.8 kJ/mol-atom | NiTi(B32) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Hu 2014 | Table 1, p. 5, row 11 |  |
 | 3600 unknown | TiNi B19 | 0 | model | LMTO-ASA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 9 |  |
 | 6800 unknown | TiNi B19 | 0 | model | FP-LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 4, p. 5, row 10 |  |

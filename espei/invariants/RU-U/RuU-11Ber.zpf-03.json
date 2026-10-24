@@ -379,6 +379,7 @@
   "experimental",
   "invariant_table",
   "via_assessment",
+  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-7JRCFAAKML ORC-SIFGDWVDPW ORC-GDDBQL5Z5P ORC-YE24SVVGFN ORC-JAT7UODV7L ORC-XS2ZYSTSVR ORC-4Y2W3NPX3V ORC-SNHGZ7P2JD ORC-7SND6GE674 ORC-MRYVUJSEYY",
@@ -389,42 +390,52 @@
   "observations": [
    {
     "id": "ORC-7JRCFAAKML",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-SIFGDWVDPW",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-GDDBQL5Z5P",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-YE24SVVGFN",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-JAT7UODV7L",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-XS2ZYSTSVR",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-4Y2W3NPX3V",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-SNHGZ7P2JD",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-7SND6GE674",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    },
    {
     "id": "ORC-MRYVUJSEYY",
+    "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jnucmat.2011.01.043"
    }
   ],

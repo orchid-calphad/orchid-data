@@ -1,10 +1,10 @@
 # Fe–Ti system
 
-> Fe–Ti system: 517 accepted literature values (invariant reaction 189, formation 140, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ti system: 506 accepted literature values (invariant reaction 189, formation 129, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TI.html · Markdown: https://data.orchid-project.org/systems/FE-TI.md
 
-517 accepted literature values from 10 paper(s) (experimental 109, model 307, DFT 51, unspecified 50); 16 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+506 accepted literature values from 10 paper(s) (experimental 108, model 306, DFT 42, unspecified 50); 16 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-09Key.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 109 |
-| model | 307 |
-| DFT | 51 |
+| experimental | 108 |
+| model | 306 |
+| DFT | 42 |
 | unspecified | 50 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 189 |
 | phase transition | 20 |
-| formation | 140 |
+| formation | 129 |
 | mixing / partial | 96 |
 | activity / EMF / Gibbs energy | 72 |
 
@@ -396,7 +396,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ti system (140)
+Table: Enthalpies of formation, Fe–Ti system (129)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -527,17 +527,6 @@ Table: Enthalpies of formation, Fe–Ti system (140)
 | Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 19 |  |
 | Laves C14 |  | 44.5977 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 15 |  |
 | Laves C14 |  | 44.5977 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 13 |  |
-| UNKNOWN |  | -44.58 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 16 |  |
-| UNKNOWN |  | -33.9 kJ/mol-atom | 1413 | model |  |  | [4] Jonsson 1998 | Table I, p. 2, row 10 |  |
-| UNKNOWN |  | -30.131 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 10 |  |
-| UNKNOWN |  | -29.817 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 11 |  |
-| UNKNOWN |  | -27.134 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 12 |  |
-| UNKNOWN |  | -25.4 kJ/mol-atom ± 2 | 1413 | experimental |  |  | [4] Jonsson 1998; _cites Dinsdale 1981_ | Table I, p. 2, row 9 |  |
-| UNKNOWN |  | -23.678 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 15 |  |
-| UNKNOWN |  | 26.931 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 13 |  |
-| UNKNOWN |  | 37.039 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 14 |  |
-| UNKNOWN |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 18 |  |
-| UNKNOWN |  | 95 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 17 |  |
 | τ3 |  | -10.0347 kJ/mol (basis unstated) |  | DFT |  |  | [9] Liang 2024; _cites Kirklin 1995_ | Table 4, p. 9, row 40 |  |
 | τ3 |  | -10.0347 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 41 |  |
 
@@ -679,78 +668,78 @@ Table: Activity / EMF / Gibbs energy, Fe–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity Ti; _printed: aTi · 10^3_ | 1.6 1 | 1550 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [4] Jonsson 1998 | Table III, p. 2, row 10 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 4.2 1 | 1550 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 11 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 2.1 1 | 1550 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 9 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 3.1 1 | 1550 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [4] Jonsson 1998 | Table III, p. 2, row 12 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.1 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 41 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.7 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 32 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.99 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 33 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.3 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 37 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.2 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 31 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.2 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 36 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 1.6 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 34 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.4 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 35 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.4 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 39 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.1 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 29 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 7.1 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 42 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 6.3 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 38 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.9 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 40 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 1.4 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 30 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 3.5 1 | 1600 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [4] Jonsson 1998 | Table III, p. 2, row 16 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 4.3 1 | 1600 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 15 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.8 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 51 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 7.9 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 56 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 6 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 53 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.3 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 50 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 7.2 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 52 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 6.6 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 54 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.5 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 55 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 2.3 1 | 1650 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 13 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 2.1 1 | 1650 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [4] Jonsson 1998 | Table III, p. 2, row 14 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.5 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 46 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.3 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 43 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.2 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 45 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 1.96 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 44 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.1 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 48 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.9 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 47 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.6 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 49 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 11.34 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 23 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.96 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 13 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 12.43 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 24 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 7.06 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 27 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 1.84 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 6 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.16 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 1 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.86 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 11 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 9.33 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 17 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.67 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 12 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.56 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 5 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.03 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 10 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 6.6 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 15 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 5.51 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [4] Jonsson 1998 | Table III, p. 2, row 6 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 9.24 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 21 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 9.05 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 18 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 13.16 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 26 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.51 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 20 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 8.45 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 16 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 5.89 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 14 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.12 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 3 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 11.58 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 25 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.17 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 7 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 3.16 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 1 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.37 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 8 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 2.45 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 2 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 10.36 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 19 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 8.13 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 7 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 6.6 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 5 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 2.96 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [4] Jonsson 1998 | Table III, p. 2, row 4 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 11.09 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 28 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 7.06 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [4] Jonsson 1998 | Table III, p. 2, row 8 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 8.13 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 22 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 3.02 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 4 |  |
-| Activity Ti; _printed: aTi · 10^3_ | 4.37 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 3 |  |
-| Activity Ti; _printed: aTi x 10^3_ | 4.19 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 9 |  |
-| Activity Ti; _printed: a_Ti·10^3_ | 1.84 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [4] Jonsson 1998 | Table III, p. 2, row 2 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0016 1 | 1550 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [4] Jonsson 1998 | Table III, p. 2, row 10 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0042 1 | 1550 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 11 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.0021 1 | 1550 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 9 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.0031 1 | 1550 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [4] Jonsson 1998 | Table III, p. 2, row 12 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0031 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 41 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0027 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 32 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00299 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 33 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0033 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 37 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0032 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 31 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0042 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 36 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0016 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 34 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0044 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 35 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0054 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 39 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0021 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 29 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0071 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 42 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0063 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 38 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0059 1 | 1550 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 40 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0014 1 | 1550 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 30 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0035 1 | 1600 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [4] Jonsson 1998 | Table III, p. 2, row 16 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.0043 1 | 1600 | Bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 15 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0038 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 51 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0079 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 56 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.006 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 53 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0043 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 50 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0072 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 52 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0066 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 54 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0035 1 | 1600 | bcc; _alloy: Fe 0.9238, Ti 0.0762_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 55 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0023 1 | 1650 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [4] Jonsson 1998; _cites Robinson 1976_ | Table III, p. 2, row 13 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0021 1 | 1650 | Bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [4] Jonsson 1998 | Table III, p. 2, row 14 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0035 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 46 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0023 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | experimental | [5] Dumitrescu 1998; _cites Robinson 1976_ | Table 2, p. 4, row 43 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0042 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 45 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00196 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 44 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0021 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 48 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0039 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 47 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0056 1 | 1650 | bcc; _alloy: Fe 0.952, Ti 0.048_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 49 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01134 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 23 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00296 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 13 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01243 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 24 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00706 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 27 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00184 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 6 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00316 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 1 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00486 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 11 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00933 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 17 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00567 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 12 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00356 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 5 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00503 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 10 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.0066 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 15 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.00551 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [4] Jonsson 1998 | Table III, p. 2, row 6 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00924 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 21 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00905 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 18 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01316 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 26 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00551 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 2, p. 4, row 20 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00845 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 16 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00589 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 14 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00312 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 2, p. 4, row 3 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01158 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 25 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00417 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 7 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.00316 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 1 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00437 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 8 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00245 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 2 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01036 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 2, p. 4, row 19 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.00813 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 7 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.0066 1 | 1873 | L; _alloy: Fe 0.874, Ti 0.126_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 5 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.00296 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [4] Jonsson 1998 | Table III, p. 2, row 4 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.01109 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [5] Dumitrescu 1998 | Table 2, p. 4, row 28 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.00706 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | model | [4] Jonsson 1998 | Table III, p. 2, row 8 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00813 1 | 1873 | L; _alloy: Fe 0.857, Ti 0.143_ | experimental | [5] Dumitrescu 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf02643418) | Table 2, p. 4, row 22 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00302 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 2, p. 4, row 4 |  |
+| Activity Ti; _printed: aTi · 10^3_ | 0.00437 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | experimental | [4] Jonsson 1998; _cites Fruehan 1970_ [doi](https://doi.org/10.1007/bf03037871) | Table III, p. 2, row 3 |  |
+| Activity Ti; _printed: aTi x 10^3_ | 0.00419 1 | 1873 | L; _alloy: Fe 0.911, Ti 0.089_ | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 2, p. 4, row 9 |  |
+| Activity Ti; _printed: a_Ti·10^3_ | 0.00184 1 | 1873 | L; _alloy: Fe 0.934, Ti 0.066_ | model | [4] Jonsson 1998 | Table III, p. 2, row 2 |  |
 
 ## Sources
 

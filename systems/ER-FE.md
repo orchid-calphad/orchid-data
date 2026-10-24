@@ -1,10 +1,10 @@
 # Er–Fe system
 
-> Er–Fe system: 106 accepted literature values (invariant reaction 84, phase transition 16, formation 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Fe system: 124 accepted literature values (invariant reaction 84, mixing / partial 18, phase transition 16, formation 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-FE.html · Markdown: https://data.orchid-project.org/systems/ER-FE.md
 
-106 accepted literature values from 4 paper(s) (experimental 46, model 59, unspecified 1); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+124 accepted literature values from 4 paper(s) (experimental 46, model 77, unspecified 1); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-FE.json) · [CSV](https://data.orchid-project.org/systems/ER-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-FE/ErFe-10Zho.json) · [phases (8)](https://data.orchid-project.org/phases/pages/ER-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-FE.html) · [Markdown](https://data.orchid-project.org/systems/ER-FE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 46 |
-| model | 59 |
+| model | 77 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 84 |
 | phase transition | 16 |
 | formation | 6 |
+| mixing / partial | 18 |
 
 ## Calculated phase diagrams
 
@@ -247,6 +248,31 @@ Table: Phase transition, Er–Fe system
 | Phase transition | 1633.15 K | 1633.15 |  | experimental | [2] Wang 2012; _cites Buschow 1969_ [doi](https://doi.org/10.1002/pssb.19690350154) | p. 2 | “Buschow and Van der Goot \[19\] also reported the melting point of Fe2 Er to be 1360 ◦ C and determined two eutectic reactions: L (16.5 at.% Er) ↔ Fe23 Er6 + Fe12 Er7 at 1315 ◦ C, and L (∼70 at.% Er) ↔ Fe2 Er + hcp (Er) at 915 ◦ C.” |
 | Phase transition | 1636 K | 1636 | congruent melting: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023; _cites ref. 112_ | Table 8, p. 14, row 34 |  |
 | Phase transition | 1640.4 K | 1640.4 | congruent melting: L -> Fe2Er; _L: Fe 0.667_ | model | [1] Ye 2023 | Table 8, p. 14, row 36 |  |
+
+### Mixing / partial (18)
+
+Table: Mixing / partial, Er–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.43448 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [4] Zhou 2010 | Table 5, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.86302 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [4] Zhou 2010 | Table 5, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -1.47969 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [4] Zhou 2010 | Table 5, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -8.14493 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [4] Zhou 2010 | Table 5, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.08152 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [4] Zhou 2010 | Table 5, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.66667 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.001_ | model | [4] Zhou 2010 | Table 5, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.05797 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [4] Zhou 2010 | Table 5, p. 4, row 18 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -2.1508 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.009_ | model | [4] Zhou 2010 | Table 5, p. 4, row 17 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.4058 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [4] Zhou 2010 | Table 5, p. 4, row 16 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -7.3913 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.002_ | model | [4] Zhou 2010 | Table 5, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -6.14653 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.006_ | model | [4] Zhou 2010 | Table 5, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.29093 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [4] Zhou 2010 | Table 5, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.15421 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [4] Zhou 2010 | Table 5, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -5.48 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.007_ | model | [4] Zhou 2010 | Table 5, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.30435 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.005_ | model | [4] Zhou 2010 | Table 5, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.1664 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.003_ | model | [4] Zhou 2010 | Table 5, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -4.06706 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.008_ | model | [4] Zhou 2010 | Table 5, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: ΔmixH_ | -9.62319 kJ/mol-atom | 1573 | liquid; _alloy: Fe 0.004_ | model | [4] Zhou 2010 | Table 5, p. 4, row 8 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ni–Si system
 
-> Ni–Si system: 224 accepted literature values (invariant reaction 137, formation 56, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Si system: 222 accepted literature values (invariant reaction 135, formation 56, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SI.html · Markdown: https://data.orchid-project.org/systems/NI-SI.md
 
-224 accepted literature values from 5 paper(s) (experimental 118, model 71, DFT 1, unspecified 34); 10 calculated phase diagram(s).
+222 accepted literature values from 5 paper(s) (experimental 117, model 70, DFT 1, unspecified 34); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [phases (19)](https://data.orchid-project.org/phases/pages/NI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 118 |
-| model | 71 |
+| experimental | 117 |
+| model | 70 |
 | DFT | 1 |
 | unspecified | 34 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 137 |
+| invariant reaction | 135 |
 | phase transition | 25 |
 | formation | 56 |
 | activity / EMF / Gibbs energy | 6 |
@@ -265,7 +265,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Si system (137)
+Table: Invariant reactions reported in the literature for the Ni–Si system (135)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -364,14 +364,12 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1266.15 | peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.602; Si: Si 1; NiSi2: Si 0.667 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 51 |  |
 | 1266.15 | L + (Si) ↔ NiSi2 | (Si): Si 1; NiSi2: Si 0.666667 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 48 |  |
 | 1266.15 | peritectic: Liquid + Si -> NiSi2 | Liquid: Si 0.601; NiSi2: Ni 0.333333, Si 0.666667 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 50 |  |
-| 1265.15 | L -> NiSi + SiC |  | experimental | [2] Du 1999; _cites Brukl 1969_ | Table V, p. 7, row 1 |  |
 | 1265.15 | congruent melting: Liquid -> NiSi | Liquid: Si 0.506; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 45 |  |
 | 1263.15 | eutectoid: β2 -> β1 + γ | β2: Si 0.252; β1: Si 0.245; γ: Si 0.279 | experimental | [1] Tokunaga 2003; _cites Oya 1983_ | Table 3, p. 6, row 14 |  |
 | 1263.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 13 |  |
 | 1263.15 | β1–β2–γ | β1: Si 0.246; β2: Si 0.252; γ: Si 0.28 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 33 |  |
 | 1262.15 | eutectoid: β2 -> β1 + γ | β2: Ni 0.75, Si 0.25; β1: Si 0.248; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 13 |  |
 | 1262.15 | β1–β2–γ | β1: Si 0.245; β2: Si 0.25; γ: Si 0.286 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 35 |  |
-| 1260.15 | L -> NiSi + SiC | L: Si 0.4999; NiSi: Si 0.5; SiC: Si 0.5 | model | [2] Du 1999 | Table V, p. 7, row 2 |  |
 | 1260.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 17 |  |
 | 1258.15 | congruent melting: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 44 |  |
 | 1252.15 | congruent melting: Liquid -> NiSi | Liquid: Ni 0.5, Si 0.5; NiSi: Ni 0.5, Si 0.5 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 46 |  |

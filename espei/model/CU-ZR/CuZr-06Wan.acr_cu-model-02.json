@@ -34,7 +34,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DIDX6VFZX5.9ae6db ORC-VGZITPKLA5.9db2f8 ORC-AMDFCACSBH.cad77a",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DIDX6VFZX5.9ae6db ORC-VGZITPKLA5.9db2f8 ORC-AMDFCACSBH.7d4893",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -81,7 +81,7 @@
     "paper": "doi:10.1016/j.calphad.2006.06.002",
     "measured_in": "doi:10.1016/j.calphad.2006.06.002",
     "also_read_as": [
-     "ORC-DIDX6VFZX5.9f3c46"
+     "ORC-DIDX6VFZX5.9ae6db"
     ]
    },
    {
@@ -90,11 +90,11 @@
     "paper": "doi:10.1016/j.calphad.2006.06.002",
     "measured_in": "doi:10.1016/j.calphad.2006.06.002",
     "also_read_as": [
-     "ORC-VGZITPKLA5.a250db"
+     "ORC-VGZITPKLA5.9db2f8"
     ]
    },
    {
-    "id": "ORC-AMDFCACSBH.cad77a",
+    "id": "ORC-AMDFCACSBH.7d4893",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
     "measured_in": "doi:10.1016/j.calphad.2006.06.002",
@@ -173,7 +173,7 @@
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-AMDFCACSBH.cad77a",
+    "id": "ORC-AMDFCACSBH.7d4893",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

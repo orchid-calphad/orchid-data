@@ -112,10 +112,12 @@
   "observations": [
    {
     "id": "ORC-PH25R2ZJRK",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2010.05.002"
    },
    {
     "id": "ORC-L5YX6KQLAA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2010.05.002"
    }
   ],

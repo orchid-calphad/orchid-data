@@ -83,6 +83,7 @@
   "observations": [
    {
     "id": "ORC-LGTIR34DK3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.03.039",
     "measured_in": "doi:10.1016/0022-5088(78)90247-3",
     "also_reported_as": [
@@ -96,6 +97,7 @@
    },
    {
     "id": "ORC-HWOKYTRIWN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.03.039",
     "measured_in": "doi:10.1016/0022-5088(78)90247-3",
     "also_reported_as": [

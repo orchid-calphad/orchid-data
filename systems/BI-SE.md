@@ -1,10 +1,10 @@
 # Bi–Se system
 
-> Bi–Se system: 72 accepted literature values (invariant reaction 38, phase transition 34) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Se system: 71 accepted literature values (invariant reaction 38, phase transition 33) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SE.html · Markdown: https://data.orchid-project.org/systems/BI-SE.md
 
-72 accepted literature values from 2 paper(s) (experimental 52, model 16, unspecified 4); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 2 paper(s) (experimental 51, model 16, unspecified 4); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SE.json) · [CSV](https://data.orchid-project.org/systems/BI-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SE/BiSe-14Che.json) · [phases (15)](https://data.orchid-project.org/phases/pages/BI-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SE.html) · [Markdown](https://data.orchid-project.org/systems/BI-SE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
+| experimental | 51 |
 | model | 16 |
 | unspecified | 4 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 38 |
-| phase transition | 34 |
+| phase transition | 33 |
 
 ## Calculated phase diagrams
 
@@ -116,7 +116,7 @@ Table: Invariant reactions reported in the literature for the Bi–Se system (38
 
 ## Other properties
 
-### Phase transition (34)
+### Phase transition (33)
 
 Table: Phase transition, Bi–Se system
 
@@ -139,7 +139,6 @@ Table: Phase transition, Bi–Se system
 | Phase transition | 866 K | 866 | Liquid#1 ? Bi8Se9 ? BiSe | experimental | [1] Zhou 2024 | p. 6 | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |
 | Phase transition | 878 K | 878 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | p. 4 | “Then, Tomoshige\[54\] determined the liquidus in the range of 5-70 at.% Se by OM, XRD, and DTA methods and also determined the temperatures for four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3 ? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (878 K), and Liquid#2 ? (Se) ? Bi2Se3 (423-443 K).” |
 | Phase transition | 878 K | 878 | Liquid#1 ? Bi2Se3? BiSe | experimental | [1] Zhou 2024; _cites Parravano 1913_ | p. 4 | “Parravano\[53\] determined liquidus and the temperatures of four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (891 K), Liquid#2 ? (Se) ? Bi2Se3 (490 K) in the range of 5-70 at.% Se.” |
-| Phase transition | 878 K | 878 | Liquid#1 ? Liquid#2 ? Bi2Se3 | experimental | [1] Zhou 2024; _cites Tomoshige 1919_ | p. 4 | “Then, Tomoshige\[54\] determined the liquidus in the range of 5-70 at.% Se by OM, XRD, and DTA methods and also determined the temperatures for four invariant reactions, i.e., Liquid#1 ? (Bi) ? BiSe (542 K), Liquid#1 ? Bi2Se3 ? BiSe (878 K), Liquid#1 ? Liquid#2 ? Bi2Se3 (878 K), and Liquid#2 ? (Se) ? Bi2Se3 (423-443 K).” |
 | Phase transition | 879 K | 879 | Liquid#1 ? Bi2Se3 ? BiSe | experimental | [1] Zhou 2024; _cites Sher 1986_ | p. 6 | “Sher et al.\[46\] reported liquidus in the range of 15-60 at.% Se, as well as the temperatures of three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi3Se2 (543 K), Liquid#1 ? BiSe ? Bi3Se2 (743 K), and Liquid#1 ? Bi2Se3 ? BiSe (879 K), employing OM, XRD, and DTA methods.” |
 | Phase transition | 880 K | 880 | Liquid#1 ? Bi2Se3? BiSe | experimental | [1] Zhou 2024; _cites Abrikosov 2016_ | p. 4 | “Abrikosov et al.\[56\] measured the temperatures of the three invariant reactions, i.e., Liquid#1 ? (Bi) ? Bi2Se at (543 K), Liquid#1 ? BiSe ? Bi2Se (741 K), Liquid#1 ? Bi2Se3? BiSe (880 K), which includes the compound Bi2Se, employing DTA, OM and conductivity measurement (CM) methods.” |
 | Phase transition | 881 K | 881 | Liquid#1 ? Bi3Se4 ? Bi8Se9 | experimental | [1] Zhou 2024 | p. 6 | “The existence of Bi3Se4, Bi8Se9, BiSe, Bi8Se7 and Bi4Se3 were demonstrated and seven invariant reaction temperatures were also proposed, i.e., Liquid#1 ? Bi2Se3 ? Bi3Se4 (890 K), Liquid#1 ? Bi3Se4 ? Bi8Se9 (881 K), Liquid#1 ? Bi8Se9 ? BiSe (866 K), Liquid#1 ? BiSe ? Bi8Se7 (853 K), Liquid#1 ? Bi8Se7? Bi4Se3 (829 K), Liquid#1 ? Bi4Se3 ? Bi3Se2 (742 K), Liquid#1 ? Bi ? Bi3Se2 (540 K).” |

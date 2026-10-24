@@ -1,10 +1,10 @@
 # Al–Ta system
 
-> Al–Ta system: 237 accepted literature values (phase transition 73, invariant reaction 55, crystal structure 53, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ta system: 236 accepted literature values (phase transition 72, invariant reaction 55, crystal structure 53, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TA.html · Markdown: https://data.orchid-project.org/systems/AL-TA.md
 
-237 accepted literature values from 4 paper(s) (experimental 148, model 55, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+236 accepted literature values from 4 paper(s) (experimental 147, model 54, DFT 1, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 148 |
-| model | 55 |
+| experimental | 147 |
+| model | 54 |
+| DFT | 1 |
 | unspecified | 34 |
 
 Table: Accepted values by property group
@@ -21,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 55 |
-| phase transition | 73 |
+| phase transition | 72 |
 | phase equilibrium | 24 |
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 12 |
@@ -170,7 +171,7 @@ Table: Enthalpies of formation, Al–Ta system (10)
 
 ## Other properties
 
-### Phase transition (73)
+### Phase transition (72)
 
 Table: Phase transition, Al–Ta system
 
@@ -228,7 +229,6 @@ Table: Phase transition, Al–Ta system
 | Phase transition | 1885 K | 1885 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 37 |  |
 | Phase transition | 1895 K | 1895 | Ta39Al69 + σ ↔ L + σ; _alloy: Al 0.559, Ta 0.441_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 35 |  |
 | Phase transition | 1900 K | 1900 | congruent transformation | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | p. 3 | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
-| Phase transition | 1966.15 K | 1966.15 | AlTaO4 | experimental | [4] Gebauer 2022; _cites King 1956_ | p. 6 | “The second coefficient is used to stabilize the phase from room temperature to its melting point of 1693 °C, which is in very good agreement with the experimental results of King et al.\[27\]” |
 | Phase transition | 1972 K | 1972 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | unspecified | [1] Witusiewicz 2010 | Table 3, p. 7, row 29 |  |
 | Phase transition | 1973 K | 1973 (>) | Al3Ta; _alloy: Ta 0.25_ | unspecified | [2] Du 1996; _cites ref. 65Bea_ | Table I, p. 2, row 36 |  |
 | Phase transition | 1978 K | 1978 | L + σ ↔ L; _alloy: Al 0.624, Ta 0.376_ | experimental | [1] Witusiewicz 2010 | Table 3, p. 7, row 27 |  |
@@ -287,7 +287,7 @@ Table: Heat capacity / entropy / enthalpy, Al–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: entropy at constant volume_ | 95.4 J K 1 mol 1 | 298.15 |  | model | [4] Gebauer 2022; _cites Online_ | p. 6 | “The entropy at constant volume of AlTaO4 is available in an online database for ab initio phonon calculations\[36\] and is 95.4 J K1 mol1 at 25 °C.” |
+| Entropy; _printed: entropy at constant volume_ | 95.4 J K 1 mol 1 | 298.15 |  | DFT | [4] Gebauer 2022; _cites Online_ | p. 6 | “The entropy at constant volume of AlTaO4 is available in an online database for ab initio phonon calculations\[36\] and is 95.4 J K1 mol1 at 25 °C.” |
 | Entropy; _printed: entropy at constant pressure_ | 95 J K 1 mol 1 | 298.15 |  | model | [4] Gebauer 2022 | p. 6 | “The entropy at constant pressure calculated from our dataset is 95.0 J K1 mol1 at 25 °C.” |
 | Entropy; _printed: Δ298S_ | -3.506 J K^-1 mol^-1 per mol-atom | 298.15 | Ta39Al69; _alloy: Ta 0.361111_ | model | [1] Witusiewicz 2010 | Table 5, p. 11, row 2 |  |
 | Entropy; _printed: Δ298S_ | -5.688 J K^-1 mol^-1 per mol-atom | 298.15 | ε | model | [1] Witusiewicz 2010 | Table 5, p. 11, row 1 |  |

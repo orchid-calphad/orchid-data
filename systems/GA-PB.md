@@ -1,10 +1,10 @@
 # Ga–Pb system
 
-> Ga–Pb system: 879 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 71, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pb system: 878 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 70, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PB.html · Markdown: https://data.orchid-project.org/systems/GA-PB.md
 
-879 accepted literature values from 2 paper(s) (experimental 865, model 7, unspecified 7); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+878 accepted literature values from 2 paper(s) (experimental 864, model 7, unspecified 7); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-PB.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PB.html) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 865 |
+| experimental | 864 |
 | model | 7 |
 | unspecified | 7 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 71 |
+| phase transition | 70 |
 | phase equilibrium | 17 |
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 717 |
@@ -71,13 +71,12 @@ Table: Invariant reactions reported in the literature for the Ga–Pb system (10
 
 ## Other properties
 
-### Phase transition (71)
+### Phase transition (70)
 
 Table: Phase transition, Ga–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 5.91 K | 5.91 | Puschin et al. \[4\]; _alloy: Ga 0.11, Pb 0.89_ | experimental | [2] Mathon 1996; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 5, p. 7, row 1 |  |
 | Phase transition | 302.924 K | 302.924 | congruent melting: L -> Ga; _Ga: Pb 0_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 2, p. 3, row 1 |  |
 | Phase transition | 473 K | 473 | Greenwood \[7\]; _alloy: Ga 9.000e-4, Pb 0.9991_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 31 |  |
 | Phase transition | 523 K | 523 | Greenwood \[7\]; _alloy: Ga 0.0019, Pb 0.9981_ | experimental | [2] Mathon 1996; _cites Greenwood 1958_ | Table 5, p. 7, row 30 |  |

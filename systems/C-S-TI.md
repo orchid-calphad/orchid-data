@@ -1,10 +1,10 @@
 # C–S–Ti system
 
-> C–S–Ti system: 20 accepted literature values (formation 16, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–S–Ti system: 12 accepted literature values (formation 8, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-S-TI.html · Markdown: https://data.orchid-project.org/systems/C-S-TI.md
 
-20 accepted literature values from 1 paper(s) (experimental 8, model 12); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 4, model 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-S-TI.json) · [CSV](https://data.orchid-project.org/systems/C-S-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-S-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-S-TI.html) · [Markdown](https://data.orchid-project.org/systems/C-S-TI.md)
 
@@ -12,39 +12,31 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 12 |
+| experimental | 4 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 16 |
+| formation | 8 |
 | crystal structure | 4 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–S–Ti system (16)
+Table: Enthalpies of formation, C–S–Ti system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ti4C2S2 |  | -130.5 per mol-atom | 277.15 | model |  |  | [1] Saeki 2020; _cites ref. 44_ | Table 1, p. 4, row 8 |  |
-| Ti4C2S2 |  | -130.5 per mol-atom | 277.15 | model |  |  | [1] Saeki 2020; _cites ref. 44_ | Table 1, p. 4, row 8 |  |
-| Ti4C2S2 |  | -122.1 kJ/mol-atom | 277.15 | model |  |  | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
 | Ti4C2S2 |  | -122.1 kJ/mol-atom | 277.15 | model |  |  | [1] Saeki 2020 | Table 1, p. 4, row 6 |  |
 | Ti4C2S2 |  | -117.4 per mol-atom | 277.15 | model |  |  | [1] Saeki 2020; _cites ref. 43_ | Table 1, p. 4, row 7 |  |
-| Ti4C2S2 |  | -117.4 per mol-atom | 277.15 | model |  |  | [1] Saeki 2020; _cites ref. 43_ | Table 1, p. 4, row 7 |  |
-| TiC |  | -95.2 per mol-atom | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 41_ | Table 1, p. 4, row 4 |  |
 | TiC |  | -95.2 per mol-atom | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 41_ | Table 1, p. 4, row 4 |  |
 | TiC |  | -92.9 per mol-atom ± 8.9 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 42_ | Table 1, p. 4, row 5 |  |
-| TiC |  | -92.9 per mol-atom ± 8.9 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 42_ | Table 1, p. 4, row 5 |  |
-| TiC |  | -91.7 per mol-atom ± 0.8 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 39_ | Table 1, p. 4, row 2 |  |
 | TiC |  | -91.7 per mol-atom ± 0.8 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 39_ | Table 1, p. 4, row 2 |  |
 | TiC |  | -91.6 per mol-atom ± 9.6 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 40_ | Table 1, p. 4, row 3 |  |
-| TiC |  | -91.6 per mol-atom ± 9.6 | 277.15 | experimental |  |  | [1] Saeki 2020; _cites ref. 40_ | Table 1, p. 4, row 3 |  |
-| TiC | [TiC](https://data.orchid-project.org/compounds/TiC.html) | -82.4 kJ/mol-atom | 277.15 | model | -78.062 (mp-aaaaaayh) | -77.586 (oqmd-1949) | [1] Saeki 2020 | Table 1, p. 4, row 1 |  |
 | TiC | [TiC](https://data.orchid-project.org/compounds/TiC.html) | -82.4 kJ/mol-atom | 277.15 | model | -78.062 (mp-aaaaaayh) | -77.586 (oqmd-1949) | [1] Saeki 2020 | Table 1, p. 4, row 1 |  |
 
 ## Other properties

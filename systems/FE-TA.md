@@ -1,10 +1,10 @@
 # Fe–Ta system
 
-> Fe–Ta system: 264 accepted literature values (invariant reaction 96, phase transition 80, formation 47, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ta system: 263 accepted literature values (invariant reaction 95, phase transition 80, formation 47, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TA.html · Markdown: https://data.orchid-project.org/systems/FE-TA.md
 
-264 accepted literature values from 3 paper(s) (experimental 147, model 89, DFT 8, unspecified 20); 3 calculated phase diagram(s).
+263 accepted literature values from 3 paper(s) (experimental 146, model 89, DFT 8, unspecified 20); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TA/FeTa-03Dan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 147 |
+| experimental | 146 |
 | model | 89 |
 | DFT | 8 |
 | unspecified | 20 |
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 96 |
+| invariant reaction | 95 |
 | phase transition | 80 |
 | phase equilibrium | 13 |
 | formation | 47 |
@@ -63,7 +63,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Ta system (96)
+Table: Invariant reactions reported in the literature for the Fe–Ta system (95)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -124,7 +124,6 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (96
 | 1623 | μ + (Ta) | μ: Ta 0.553; (Ta): Ta 0.938 | experimental | [2] Rajkumar 2015 | Table 5, p. 4, row 1 |  |
 | 1516 | (δFe) -> (γFe) + ε |  | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 18 |  |
 | 1516 | eutectoid: δ \<-> γ + λ |  | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 27 |  |
-| 1512.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.3333; γ: Ta 0.005; δ: Ta 0.011 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 22 |  |
 | 1512 | eutectoid: δ \<-> γ + λ | δ: Ta 0.011; γ: Ta 0.005; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Sinha 1967_ | Table 6, p. 14, row 24 |  |
 | 1512 | (δFe) -> (γFe) + ε | (δFe): Ta 0.011; (γFe): Ta 0.005; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 15 |  |
 | 1511 | eutectoid: δ \<-> γ + λ | δ: Ta 0.015; γ: Ta 0.011; λ: Ta 0.298 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 31 |  |

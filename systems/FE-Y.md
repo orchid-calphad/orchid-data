@@ -1,10 +1,10 @@
 # Fe–Y system
 
-> Fe–Y system: 587 accepted literature values (formation 240, invariant reaction 229, phase transition 48, crystal structure 24) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Y system: 512 accepted literature values (invariant reaction 229, formation 165, phase transition 52, crystal structure 24) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-Y.html · Markdown: https://data.orchid-project.org/systems/FE-Y.md
 
-587 accepted literature values from 4 paper(s) (experimental 167, model 379, DFT 33, unspecified 8); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+512 accepted literature values from 4 paper(s) (experimental 169, model 306, DFT 29, unspecified 8); 5 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-Y.json) · [CSV](https://data.orchid-project.org/systems/FE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-Y/FeY-14Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-Y.html) · [Markdown](https://data.orchid-project.org/systems/FE-Y.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 167 |
-| model | 379 |
-| DFT | 33 |
+| experimental | 169 |
+| model | 306 |
+| DFT | 29 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -22,11 +22,11 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 229 |
-| phase transition | 48 |
-| formation | 240 |
+| phase transition | 52 |
+| formation | 165 |
 | mixing / partial | 12 |
 | heat capacity / entropy / enthalpy | 12 |
-| activity / EMF / Gibbs energy | 22 |
+| activity / EMF / Gibbs energy | 18 |
 | crystal structure | 24 |
 
 ## Calculated phase diagrams
@@ -358,7 +358,7 @@ Table: Invariant reactions reported in the literature for the Fe–Y system (229
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Y system (162)
+Table: Enthalpies of formation, Fe–Y system (121)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -483,51 +483,10 @@ Table: Enthalpies of formation, Fe–Y system (162)
 | FeY | [FeY](https://data.orchid-project.org/compounds/FeY.html) | -5.3 kJ/mol-atom | 973 | model |  | 0.618 (oqmd-1435280) | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 43 |  |
 | FeY |  | -5.3 per mol-atom | 973 | experimental |  |  | [1] Kardellass 2014; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 4, p. 4, row 23 |  |
 | FeY | [FeY](https://data.orchid-project.org/compounds/FeY.html) | -2 kJ/mol-atom | 298.15 | model |  | 0.618 (oqmd-1435280) | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 41 |  |
-| UNKNOWN |  | -13.31 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 26 |  |
-| UNKNOWN |  | -13.04 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 25 |  |
-| UNKNOWN |  | -12.97 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 17 |  |
-| UNKNOWN |  | -12.77 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 30 |  |
-| UNKNOWN |  | -12.65 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21 |  |
-| UNKNOWN |  | -12.55 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 38 |  |
-| UNKNOWN |  | -12.5 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Watson 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990034-8) | Table 5, p. 12, row 42 |  |
-| UNKNOWN |  | -12.49 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 29 |  |
-| UNKNOWN |  | -12.47 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 35 |  |
-| UNKNOWN |  | -12.05 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 16 |  |
-| UNKNOWN |  | -11.8 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 39 |  |
-| UNKNOWN |  | -11.69 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 20 |  |
-| UNKNOWN |  | -9.99 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 34 |  |
-| UNKNOWN |  | -9.47 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12 |  |
-| UNKNOWN |  | -9.4 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45 |  |
-| UNKNOWN |  | -9.22 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 19 |  |
-| UNKNOWN |  | -8.94 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 28 |  |
-| UNKNOWN |  | -8.8 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46 |  |
-| UNKNOWN |  | -8.76 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
-| UNKNOWN |  | -8.7 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 5, p. 12, row 2 |  |
-| UNKNOWN |  | -8.35 kJ/mol-atom | 895 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
-| UNKNOWN |  | -7.87 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 31 |  |
-| UNKNOWN |  | -7.77 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 37 |  |
-| UNKNOWN |  | -7.77 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
-| UNKNOWN |  | -7.66 kJ/mol-atom | 895 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
-| UNKNOWN |  | -7.6 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 22 |  |
-| UNKNOWN |  | -6.96 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 24 |  |
-| UNKNOWN |  | -6.66 kJ/mol-atom | 895 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
-| UNKNOWN |  | -6.3 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 33 |  |
-| UNKNOWN |  | -6.25 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 15 |  |
-| UNKNOWN |  | -5.99 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 4 |  |
-| UNKNOWN |  | -5.9 kJ/mol-atom | 0 | model |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 40 |  |
-| UNKNOWN |  | -5.8 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 44 |  |
-| UNKNOWN |  | -5.3 kJ/mol-atom | 973 | model |  |  | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 43 |  |
-| UNKNOWN |  | -5.29 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 5 |  |
-| UNKNOWN |  | -4.85 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 14 |  |
-| UNKNOWN |  | -4.36 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017 | Table 5, p. 12, row 3 |  |
-| UNKNOWN |  | -2 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 41 |  |
-| UNKNOWN |  | -1.78 kJ/mol-atom | 0 | DFT |  |  | [2] Saenko 2017; _cites Mihalkovic 2004_ [doi](https://doi.org/10.1103/physrevb.70.144107) | Table 5, p. 12, row 1 |  |
-| UNKNOWN |  | -1 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 23 |  |
-| UNKNOWN |  | -1 kJ/mol-atom | 298.15 | model |  |  | [2] Saenko 2017; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 12, row 32 |  |
 
 ## Other properties
 
-### Phase transition (48)
+### Phase transition (52)
 
 Table: Phase transition, Fe–Y system
 
@@ -562,6 +521,7 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 490 K | 490 | magnetic: Fe23Y6; _alloy: Y 0.206897_ | experimental | [2] Saenko 2017; _cites Kirchmayr 1968_ [doi](https://doi.org/10.1063/1.1656174) | Table 2, p. 5, row 18 |  |
 | Phase transition | 529.15 K | 529.15 | magnetic: Fe3Y; _alloy: Y 0.25_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 19 |  |
 | Phase transition | 534 K | 534 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Muraoka 1977_ [doi](https://doi.org/10.1002/pssa.2210420141) | Table 2, p. 5, row 29 |  |
+| Phase transition | 535 K | 535 | magnetic | experimental | [4] Ye 2023; _cites ref. 124_ | p. 6 | “However, Dariel et al. did not report the specific heat data but only gave the Curie temperature of Fe2Y to be 535 K\[124\].” |
 | Phase transition | 535.15 K | 535.15 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 24 |  |
 | Phase transition | 542 K | 542 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 5, row 32 |  |
 | Phase transition | 545 K | 545 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Buschow 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990084-3) | Table 2, p. 5, row 28 |  |
@@ -576,60 +536,45 @@ Table: Phase transition, Fe–Y system
 | Phase transition | 552 K | 552 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Arout 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.11.021) | Table 2, p. 5, row 26 |  |
 | Phase transition | 552.15 K | 552.15 | magnetic: Fe2Y; _alloy: Y 0.333333_ | experimental | [1] Kardellass 2014; _cites Pauling_ | Table 3, p. 3, row 26 |  |
 | Phase transition | 569 K | 569 | magnetic: Fe3Y; _alloy: Y 0.25_ | experimental | [2] Saenko 2017; _cites Buschow 1977_ [doi](https://doi.org/10.1088/0034-4885/40/10/002) | Table 2, p. 5, row 25 |  |
+| Phase transition | 1573 K | 1573 | congruent transformation | experimental | [4] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
+| Phase transition | 1608 K | 1608 | congruent transformation | experimental | [4] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 | Phase transition | 1621 K | 1621 | congruent transformation | model | [3] Fan 2021 | p. 12 | “Since there is no critical evidence of congruent melting for Fe23 Y6 and Fe3 Y, their congruent temperature, i.e., 1622 K and 1621 K are calculated based on our DFT results and involved eutectic reactions.” |
 | Phase transition | 1622 K | 1622 | congruent transformation | model | [3] Fan 2021 | p. 12 | “Since there is no critical evidence of congruent melting for Fe23 Y6 and Fe3 Y, their congruent temperature, i.e., 1622 K and 1621 K are calculated based on our DFT results and involved eutectic reactions.” |
 | Phase transition | 1650 K | 1650 | congruent transformation | model | [3] Fan 2021 | p. 12 | “Furthermore, the calculated congruent-melting point of Fe17 Y2 (1650 K) from the current thermodynamic model is within the experimental temperature range from 1648 to 1698 K.” |
 | Phase transition | 1673 K | 1673 | congruent transformation | experimental | [2] Saenko 2017; _cites Domagala 1961_ | p. 2 | “According to the investigation of Domagala et al.,\[14\] this compound melts congruently at 1673 ± 25 K.” |
+| Phase transition | 1673 K | 1673 | congruent transformation | experimental | [4] Ye 2023; _cites (exp_ | p. 5 | “The intermetallic compounds Fe17Y2, Fe23Y6, and Fe3Y are produced by congruent reactions at 1,673 ± 25 K, 1,573 K, and 1,608 K, respectively.” |
 | Phase transition | 1673 K | 1673 | congruent transformation | experimental | [2] Saenko 2017; _cites Domagala 1961_ | p. 2 | “Domagala et al.\[14\] reported that Fe3Y melts congruently at about 1673 K.” |
 
-### Formation (78)
+### Formation (44)
 
 Table: Formation, Fe–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation | 2838 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
-| Entropy of formation | 1015 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
-| Entropy of formation | -1720 J/mol-atom/K ± 20 | 895 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 5, p. 12, row 6 |  |
-| Entropy of formation | -1740 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
-| Entropy of formation | 2838 J/mol-atom/K | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
-| Entropy of formation | 1015 J/mol-atom/K | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
-| Entropy of formation | -1740 J/mol-atom/K | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
-| Entropy of formation | -167 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
-| Entropy of formation | -1900 J/mol-atom/K ± 280 | 973 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 10 |  |
-| Entropy of formation | -1121 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
-| Entropy of formation | 1660 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12 |  |
-| Entropy of formation | -933 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017 | Table 5, p. 12, row 19 |  |
-| Entropy of formation | 2970 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 20 |  |
-| Entropy of formation | -79 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21 |  |
-| Entropy of formation | -2240 J/mol-atom/K ± 440 | 973 | Fe23Y6; _alloy: Y 0.206897_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 18 |  |
-| Entropy of formation | 2870 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 38 |  |
-| Entropy of formation | 320 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017 | Table 5, p. 12, row 37 |  |
-| Entropy of formation | -960 J/mol-atom/K ± 550 | 973 | Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 36 |  |
-| Entropy of formation | 1140 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 39 |  |
-| Entropy of formation | 3570 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 29 |  |
-| Entropy of formation | -184 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017 | Table 5, p. 12, row 28 |  |
-| Entropy of formation | 859 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 30 |  |
-| Entropy of formation | -3030 J/mol-atom/K ± 480 | 973 | Fe3Y; _alloy: Y 0.25_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 27 |  |
-| Entropy of formation | -167 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
-| Entropy of formation | 3570 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 29 |  |
-| Entropy of formation | 2870 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 38 |  |
-| Entropy of formation | 320 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017 | Table 5, p. 12, row 37 |  |
-| Entropy of formation | -184 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017 | Table 5, p. 12, row 28 |  |
-| Entropy of formation | -1121 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
-| Entropy of formation | 859 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 30 |  |
-| Entropy of formation | -933 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017 | Table 5, p. 12, row 19 |  |
-| Entropy of formation | 2970 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 20 |  |
-| Entropy of formation | 1660 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12 |  |
-| Entropy of formation | -79 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21 |  |
-| Entropy of formation | 1140 J/mol-atom/K | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 39 |  |
+| Entropy of formation | 2.838 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
+| Entropy of formation | 1.015 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
+| Entropy of formation | -1.72 J/mol-atom/K ± 20 | 895 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 5, p. 12, row 6 |  |
+| Entropy of formation | -1.74 J/mol-atom/K | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
+| Entropy of formation | -0.167 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
+| Entropy of formation | -1.9 J/mol-atom/K ± 280 | 973 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 10 |  |
+| Entropy of formation | -1.121 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
+| Entropy of formation | 1.66 J/mol-atom/K | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12 |  |
+| Entropy of formation | -0.933 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017 | Table 5, p. 12, row 19 |  |
+| Entropy of formation | 2.97 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 20 |  |
+| Entropy of formation | -0.079 J/mol-atom/K | 973 | Fe23Y6; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21 |  |
+| Entropy of formation | -2.24 J/mol-atom/K ± 440 | 973 | Fe23Y6; _alloy: Y 0.206897_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 18 |  |
+| Entropy of formation | 2.87 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 38 |  |
+| Entropy of formation | 0.32 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017 | Table 5, p. 12, row 37 |  |
+| Entropy of formation | -0.96 J/mol-atom/K ± 550 | 973 | Fe2Y; _alloy: Y 0.333333_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 36 |  |
+| Entropy of formation | 1.14 J/mol-atom/K | 973 | Fe2Y; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 39 |  |
+| Entropy of formation | 3.57 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 29 |  |
+| Entropy of formation | -0.184 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017 | Table 5, p. 12, row 28 |  |
+| Entropy of formation | 0.859 J/mol-atom/K | 973 | Fe3Y; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 30 |  |
+| Entropy of formation | -3.03 J/mol-atom/K ± 480 | 973 | Fe3Y; _alloy: Y 0.25_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 27 |  |
 | Gibbs energy of formation | -10.89 kJ/mol-atom | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
 | Gibbs energy of formation | -8.57 kJ/mol-atom | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
 | Gibbs energy of formation | -4.6 kJ/mol-atom ± 0.6 | 895 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 5, p. 12, row 6 |  |
 | Gibbs energy of formation | -6.72 kJ/mol-atom | 895 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
-| Gibbs energy of formation | -10.89 kJ/mol-atom | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 8 |  |
-| Gibbs energy of formation | -8.57 kJ/mol-atom | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 9 |  |
-| Gibbs energy of formation | -6.72 kJ/mol-atom | 895 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 7 |  |
 | Gibbs energy of formation | -8.6 kJ/mol-atom | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
 | Gibbs energy of formation | -4.54 kJ/mol-atom ± 0.05 | 973 | Fe17Y2; _alloy: Y 0.105263_ | experimental | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 10 |  |
 | Gibbs energy of formation | -6.68 kJ/mol-atom | 973 | Fe17Y2; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
@@ -650,22 +595,6 @@ Table: Formation, Fe–Y system
 | Gibbs energy of formation | -11.5 kJ/mol-atom | 973 | FeY; _alloy: Y 0.5_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45 |  |
 | Gibbs energy of formation | -6 kJ/mol-atom | 973 | FeY; _alloy: Y 0.5_ | model | [2] Saenko 2017 | Table 5, p. 12, row 44 |  |
 | Gibbs energy of formation | -9.7 kJ/mol-atom | 973 | FeY; _alloy: Y 0.5_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46 |  |
-| Gibbs energy of formation | -8.6 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 13 |  |
-| Gibbs energy of formation | -15.96 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 29 |  |
-| Gibbs energy of formation | -15.34 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 38 |  |
-| Gibbs energy of formation | -8.09 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017 | Table 5, p. 12, row 37 |  |
-| Gibbs energy of formation | -8.76 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017 | Table 5, p. 12, row 28 |  |
-| Gibbs energy of formation | -4.6 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.5_ | model | [2] Saenko 2017; _cites Subramanian 1984_ [doi](https://doi.org/10.1016/0364-5916%2884%2990033-6) | Table 5, p. 12, row 43 |  |
-| Gibbs energy of formation | -6.68 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017 | Table 5, p. 12, row 11 |  |
-| Gibbs energy of formation | -13.61 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.25_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 30 |  |
-| Gibbs energy of formation | -8.31 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017 | Table 5, p. 12, row 19 |  |
-| Gibbs energy of formation | -11.5 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.5_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 45 |  |
-| Gibbs energy of formation | -14.58 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 20 |  |
-| Gibbs energy of formation | -11.09 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.105263_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 12 |  |
-| Gibbs energy of formation | -6 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.5_ | model | [2] Saenko 2017 | Table 5, p. 12, row 44 |  |
-| Gibbs energy of formation | -12.57 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.206897_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 21 |  |
-| Gibbs energy of formation | -12.91 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.333333_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 39 |  |
-| Gibbs energy of formation | -9.7 kJ/mol-atom | 973 | UNKNOWN; _alloy: Y 0.5_ | model | [2] Saenko 2017; _cites Kardellass 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.07.010) | Table 5, p. 12, row 46 |  |
 
 ### Mixing / partial (12)
 
@@ -705,20 +634,16 @@ Table: Heat capacity / entropy / enthalpy, Fe–Y system
 | Entropy; _printed: ΔS973 0_ | 3.57 unknown | 973 | Fe3Y; _alloy: Y 0.25_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 12 |  |
 | Entropy; _printed: ΔS973 0_ | 0.859 unknown | 973 | Fe3Y; _alloy: Y 0.25_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 13 |  |
 
-### Activity / EMF / Gibbs energy (22)
+### Activity / EMF / Gibbs energy (18)
 
 Table: Activity / EMF / Gibbs energy, Fe–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: μ(Fe)1573_ | -4 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | experimental | [1] Kardellass 2014; _cites Takashi 2010_ | Table 5, p. 4, row 4 |  |
-| Chemical potential; _printed: μ(Y)1573_ | -60 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | experimental | [1] Kardellass 2014; _cites Takashi 2010_ | Table 5, p. 4, row 4 |  |
 | Chemical potential; _printed: μ(Y)1573_ | -60 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | experimental | [1] Kardellass 2014; _cites Takashi 2010_ | Table 5, p. 4, row 4 |  |
 | Chemical potential; _printed: μ(Fe)1573_ | -4 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | experimental | [1] Kardellass 2014; _cites Takashi 2010_ | Table 5, p. 4, row 4 |  |
 | Chemical potential; _printed: i\* (μ(Fe,liq)) + j\* (μ(Y,liq)) = μ(FeiYj)_ | -188 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | experimental | [1] Kardellass 2014; _cites Takashi 2010_ | Table 5, p. 4, row 4 |  |
 | Chemical potential; _printed: i\* (μ(Fe,liq)) + j\* (μ(Y,liq)) = μ(FeiYj)_ | -225 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 5 |  |
-| Chemical potential; _printed: μ(Fe)1573_ | -7 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 5 |  |
-| Chemical potential; _printed: μ(Y)1573_ | -53 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 5 |  |
 | Chemical potential; _printed: μ(Y)1573_ | -53 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 5 |  |
 | Chemical potential; _printed: μ(Fe)1573_ | -7 kJ/mol.at | 1573 | Fe17Y2; _alloy: Fe 0.895, Y 0.105_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 5 |  |
 | Chemical potential; _printed: μ(Y)1573_ | -47 kJ/mol.at | 1573 | Fe23Y6; _alloy: Fe 0.794, Y 0.206_ | model | [1] Kardellass 2014 | Table 5, p. 4, row 10 |  |

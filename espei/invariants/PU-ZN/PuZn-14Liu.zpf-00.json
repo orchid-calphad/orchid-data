@@ -92,6 +92,7 @@
   "observations": [
    {
     "id": "ORC-Z23EHJSSPR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.07.001",
     "also_reported_as": [
      {
@@ -103,6 +104,7 @@
    },
    {
     "id": "ORC-W3WFYIBFRP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.07.001",
     "also_reported_as": [
      {

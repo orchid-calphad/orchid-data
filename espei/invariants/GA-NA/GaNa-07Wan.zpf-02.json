@@ -62,6 +62,7 @@
   "observations": [
    {
     "id": "ORC-RISBBMOJI3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jcrysgro.2007.05.044"
    }
   ],

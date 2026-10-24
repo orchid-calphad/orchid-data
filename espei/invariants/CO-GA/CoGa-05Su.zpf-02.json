@@ -93,6 +93,7 @@
   "observations": [
    {
     "id": "ORC-EL3AF7O6D5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2004.08.003",
     "also_reported_as": [
      {
@@ -104,6 +105,7 @@
    },
    {
     "id": "ORC-73HCJRFXGB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2004.08.003"
    }
   ],

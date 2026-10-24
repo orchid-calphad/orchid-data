@@ -314,36 +314,43 @@
   "observations": [
    {
     "id": "ORC-AFDKOFM24F",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-LP7VAG4YZB",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-LDB4ATMWOU",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-FTVOM6VWQX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-6LEZ2DBL6U",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-SJLTELWR3W",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    },
    {
     "id": "ORC-LGPDPM2ZXI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jnucmat.2014.03.044",
     "measured_in": "doi:10.3891/acta.chem.scand.33a-0251"
    }

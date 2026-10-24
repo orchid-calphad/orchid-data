@@ -1,24 +1,22 @@
 # ZrH2: enthalpy of formation
 
-> Enthalpy of formation of ZrH2: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of ZrH2: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/ZrH2.html · Markdown: https://data.orchid-project.org/compounds/ZrH2.md
 
-8 accepted literature formation-enthalpy value(s) (model 6, DFT 2); Materials Project -64.62 kJ/mol-atom (mp-aaaabjyc); OQMD -53.846 kJ/mol-atom (oqmd-18857).
+6 accepted literature formation-enthalpy value(s) (model 4, DFT 2); Materials Project -64.62 kJ/mol-atom (mp-aaaabjyc); OQMD -53.846 kJ/mol-atom (oqmd-18857).
 
 Systems: [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) · [H–Zr](https://data.orchid-project.org/systems/H-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of ZrH2 reported in the literature (8)
+Table: Enthalpy of formation of ZrH2 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -56.83 kJ/mol-atom | δ-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 4 |  |
 | -56.07 kJ/mol-atom | ε-ZrH2 |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 3, p. 2, row 2 |  |
 | -54.88 kJ/mol (basis unstated) | ε-ZrH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 6 |  |
-| -54.88 kJ/mol (basis unstated) | ε-ZrH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 6 |  |
-| -54 kJ/mol (basis unstated) | δ-ZrH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | -54 kJ/mol (basis unstated) | δ-ZrH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [2] Ukita 2007 | Table 2, p. 5, row 5 |  |
 | -55.72 kJ/mol-atom | ε-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 3 |  |
 | -54.76 kJ/mol-atom | δ-ZrH2 | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Zhong 2012 | Table 3, p. 2, row 5 |  |

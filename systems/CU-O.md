@@ -1,10 +1,10 @@
 # Cu–O system
 
-> Cu–O system: 404 accepted literature values (activity / EMF / Gibbs energy 246, invariant reaction 59, formation 39, heat capacity / entropy / enthalpy 37) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–O system: 403 accepted literature values (activity / EMF / Gibbs energy 246, invariant reaction 58, formation 39, heat capacity / entropy / enthalpy 37) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-O.html · Markdown: https://data.orchid-project.org/systems/CU-O.md
 
-404 accepted literature values from 2 paper(s) (experimental 325, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+403 accepted literature values from 2 paper(s) (experimental 324, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 325 |
+| experimental | 324 |
 | model | 79 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 59 |
+| invariant reaction | 58 |
 | phase transition | 23 |
 | formation | 39 |
 | heat capacity / entropy / enthalpy | 37 |
@@ -40,7 +40,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–O system (59)
+Table: Invariant reactions reported in the literature for the Cu–O system (58)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -81,7 +81,6 @@ Table: Invariant reactions reported in the literature for the Cu–O system (59)
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.389 | experimental | [1] Hallstedt 1994; _cites Roberts 1921_ [doi](https://doi.org/10.1021/ja01438a009) | Table 2, p. 6, row 37 |  |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) |  | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 2, p. 6, row 36 |  |
 | 1353 | eutectic |  | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | p. 2 | “For the Cu20-CuO eutectic, they gave 1353 K andX o = 0.389 in perfect agreement with the recent measurements by \[91Bou\] and \[92Bou\], who used differential thermal analysis (DTA) combined with thermogravimetry (TG) giving 1353 K andX o = 0.388.” |
-| 1353 | eutectic |  | experimental | [1] Hallstedt 1994 | p. 2 | “For the Cu20-CuO eutectic, they gave 1353 K andX o = 0.389 in perfect agreement with the recent measurements by \[91Bou\] and \[92Bou\], who used differential thermal analysis (DTA) combined with thermogravimetry (TG) giving 1353 K andX o = 0.388.” |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.387 | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 2, p. 6, row 43 |  |
 | 1353 | eutectic: L2 -> Cu2O + CuO (eutectic) | L2: O 0.388 | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 2, p. 6, row 41 |  |
 | 1353 | eutectic |  | model | [2] Schramm 2005; _cites Hallstedt 2003_ | p. 5 | “This is consistent with the previous calculations of Hallstedt and Gauckler\[9\] (XO ≈ 0.388 at 1353 K) and the experimentally determined eutectic\[4\] shown in Fig. 1.” |

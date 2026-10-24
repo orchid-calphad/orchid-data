@@ -1,26 +1,22 @@
 # Bi2Cs: enthalpy of formation
 
-> Enthalpy of formation of Bi2Cs: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi2Cs: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi2Cs.html · Markdown: https://data.orchid-project.org/compounds/Bi2Cs.md
 
-8 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 4); experimental median -26.2 kJ/mol-atom (n = 2); Materials Project -29.714 kJ/mol-atom (mp-aaaabigx); OQMD -29.789 kJ/mol-atom (oqmd-647553).
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 2); experimental median -26.2 kJ/mol-atom (n = 1); Materials Project -29.714 kJ/mol-atom (mp-aaaabigx); OQMD -29.789 kJ/mol-atom (oqmd-647553).
 
 Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi2Cs reported in the literature (8)
+Table: Enthalpy of formation of Bi2Cs reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -26.2 kJ/mol-atom | Bi2Cs | 298.15 | experimental | EMF | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 1 |  |
-| -26.2 kJ/mol-atom | Bi2Cs | 298.15 | experimental | EMF | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 1 |  |
-| -31.027 kJ/mol-atom | Bi2Cs |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 4 |  |
 | -31.027 kJ/mol-atom | Bi2Cs |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 4 |  |
 | -37.753 kJ/mol-atom | Bi2Cs | 0 | DFT | LDA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 3 |  |
-| -37.753 kJ/mol-atom | Bi2Cs | 0 | DFT | LDA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 3 |  |
-| -30.442 kJ/mol-atom | Bi2Cs | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 2 |  |
 | -30.442 kJ/mol-atom | Bi2Cs | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 2 |  |
 
 ## DFT formation energies

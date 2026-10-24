@@ -1,10 +1,10 @@
 # Cu–In system
 
-> Cu–In system: 170 accepted literature values (formation 114, activity / EMF / Gibbs energy 24, invariant reaction 16, heat capacity / entropy / enthalpy 13) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–In system: 142 accepted literature values (formation 97, invariant reaction 16, heat capacity / entropy / enthalpy 13, activity / EMF / Gibbs energy 13) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-IN.html · Markdown: https://data.orchid-project.org/systems/CU-IN.md
 
-170 accepted literature values from 3 paper(s) (experimental 88, model 57, unspecified 25); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+142 accepted literature values from 3 paper(s) (experimental 70, model 47, unspecified 25); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-IN.json) · [CSV](https://data.orchid-project.org/systems/CU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-IN/CuIn-02Her.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-IN.html) · [Markdown](https://data.orchid-project.org/systems/CU-IN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 88 |
-| model | 57 |
+| experimental | 70 |
+| model | 47 |
 | unspecified | 25 |
 
 Table: Accepted values by property group
@@ -22,9 +22,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 2 |
-| formation | 114 |
+| formation | 97 |
 | heat capacity / entropy / enthalpy | 13 |
-| activity / EMF / Gibbs energy | 24 |
+| activity / EMF / Gibbs energy | 13 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -148,7 +148,7 @@ Table: Invariant reactions reported in the literature for the Cu–In system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–In system (114)
+Table: Enthalpies of formation, Cu–In system (97)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -232,40 +232,23 @@ Table: Enthalpies of formation, Cu–In system (114)
 | η + δ |  | -7.519 kJ/mol (basis unstated) | 298 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 18 |  |
 | η + δ |  | -7.055 kJ/mol (basis unstated) | 773 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 16 |  |
 | η + δ |  | -7.055 kJ/mol (basis unstated) | 773 | model |  |  | [2] Hertz 2002 | Table 2, p. 5, row 16 |  |
-| η' |  | -8.011 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 20 |  |
 | η' |  | -7.78 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26 |  |
 | η' |  | -7.757 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22 |  |
 | η' |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 21 |  |
 | η' |  | -7.548 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24 |  |
-| η' |  | -7.504 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 30 |  |
-| η' |  | -7.463 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 32 |  |
 | η' |  | -7.445 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27 |  |
-| η' |  | -7.422 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29 |  |
-| η' |  | -7.417 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 28 |  |
 | η' |  | -7.382 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23 |  |
-| η' |  | -7.267 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 25 |  |
 | η' |  | -7.264 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31 |  |
-| η' |  | -7.113 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 36 |  |
-| η' |  | -6.915 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 34 |  |
 | η' |  | -6.636 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 33 |  |
 | η' |  | -6.402 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 35 |  |
 | η′ |  | -8.011 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 20 |  |
-| η′ |  | -7.78 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26 |  |
-| η′ |  | -7.757 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22 |  |
-| η′ |  | -7.66 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 3, p. 6, row 21 |  |
-| η′ |  | -7.548 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24 |  |
 | η′ |  | -7.504 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 30 |  |
 | η′ |  | -7.463 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 32 |  |
-| η′ |  | -7.445 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27 |  |
 | η′ |  | -7.422 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29 |  |
 | η′ |  | -7.417 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 28 |  |
-| η′ |  | -7.382 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23 |  |
 | η′ |  | -7.267 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 25 |  |
-| η′ |  | -7.264 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31 |  |
 | η′ |  | -7.113 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 36 |  |
 | η′ |  | -6.915 kJ/mol (basis unstated) |  | model |  |  | [3] Liu 2002 | Table 3, p. 6, row 34 |  |
-| η′ |  | -6.636 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 33 |  |
-| η′ |  | -6.402 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 35 |  |
 
 ## Other properties
 
@@ -298,7 +281,7 @@ Table: Heat capacity / entropy / enthalpy, Cu–In system
 | Entropy; _printed: ΔmS_ | 9.9 J/K · mol | 949.15 | ηCu2In; _alloy: In 0.333333_ | model | [1] Kao 1993 | Table 5, p. 7, row 4 |  |
 | Entropy; _printed: ΔmS_ | 11.1 J/K · mol | 960.15 | δCu7In3; _alloy: In 0.3_ | model | [1] Kao 1993 | Table 5, p. 7, row 1 |  |
 
-### Activity / EMF / Gibbs energy (24)
+### Activity / EMF / Gibbs energy (13)
 
 Table: Activity / EMF / Gibbs energy, Cu–In system
 
@@ -306,14 +289,8 @@ Table: Activity / EMF / Gibbs energy, Cu–In system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: ΔG_ | -7642 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | model | [3] Liu 2002 | Table 3, p. 6, row 19 |  |
 | Gibbs energy; _printed: ΔG_ | -7714 J/mol |  | δ; _alloy: Cu 0.7, In 0.3_ | experimental | [3] Liu 2002; _cites Kutsenok 1983_ | Table 3, p. 6, row 17 |  |
-| Gibbs energy; _printed: ΔG_ | -5712 J/mol |  | η'; _alloy: Cu 0.635, In 0.365_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 22 |  |
-| Gibbs energy; _printed: ΔG_ | -5600 J/mol |  | η'; _alloy: Cu 0.635, In 0.365_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG_ | -5738 J/mol |  | η'; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG_ | -7211 J/mol |  | η'; _alloy: Cu 0.625, In 0.375_ | model | [3] Liu 2002 | Table 3, p. 6, row 32 |  |
 | Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.648, In 0.352_ | model | [3] Liu 2002 | Table 3, p. 6, row 25 |  |
 | Gibbs energy; _printed: ΔG_ | -5584 J/mol |  | η'; _alloy: Cu 0.625, In 0.375_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG_ | -5608 J/mol |  | η'; _alloy: Cu 0.648, In 0.352_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24 |  |
-| Gibbs energy; _printed: ΔG_ | -5624 J/mol |  | η'; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27 |  |
 | Gibbs energy; _printed: ΔG_ | -5601 J/mol |  | η'; _alloy: Cu 0.61, In 0.39_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23 |  |
 | Gibbs energy; _printed: ΔG_ | -7259 J/mol |  | η'; _alloy: Cu 0.642, In 0.358_ | model | [3] Liu 2002 | Table 3, p. 6, row 28 |  |
 | Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η'; _alloy: Cu 0.635, In 0.365_ | model | [3] Liu 2002 | Table 3, p. 6, row 30 |  |
@@ -321,13 +298,8 @@ Table: Activity / EMF / Gibbs energy, Cu–In system
 | Gibbs energy; _printed: ΔG_ | -5600 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 29 |  |
 | Gibbs energy; _printed: ΔG_ | -5738 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 26 |  |
 | Gibbs energy; _printed: ΔG_ | -7211 J/mol |  | η′; _alloy: Cu 0.625, In 0.375_ | model | [3] Liu 2002 | Table 3, p. 6, row 32 |  |
-| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η′; _alloy: Cu 0.648, In 0.352_ | model | [3] Liu 2002 | Table 3, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG_ | -5584 J/mol |  | η′; _alloy: Cu 0.625, In 0.375_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 31 |  |
 | Gibbs energy; _printed: ΔG_ | -5608 J/mol |  | η′; _alloy: Cu 0.648, In 0.352_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 24 |  |
 | Gibbs energy; _printed: ΔG_ | -5624 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 27 |  |
-| Gibbs energy; _printed: ΔG_ | -5601 J/mol |  | η′; _alloy: Cu 0.61, In 0.39_ | experimental | [3] Liu 2002; _cites Vinokurova 1976_ | Table 3, p. 6, row 23 |  |
-| Gibbs energy; _printed: ΔG_ | -7259 J/mol |  | η′; _alloy: Cu 0.642, In 0.358_ | model | [3] Liu 2002 | Table 3, p. 6, row 28 |  |
-| Gibbs energy; _printed: ΔG_ | -7251 J/mol |  | η′; _alloy: Cu 0.635, In 0.365_ | model | [3] Liu 2002 | Table 3, p. 6, row 30 |  |
 
 ### Other property (1)
 

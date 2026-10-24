@@ -3883,7 +3883,7 @@
      "detail": "AlCr-98Sau-LB.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'"
     }
    ],
-   "literature_values": 60
+   "literature_values": 59
   },
   {
    "id": "phase:al-cr:al7cr",
@@ -3983,7 +3983,7 @@
      "detail": "AlCr-17Wan.tdb: 'Prototype Al45V7 (mC104, C2/m)'"
     }
    ],
-   "literature_values": 54
+   "literature_values": 53
   },
   {
    "id": "phase:al-cr:al8cr5",
@@ -4047,7 +4047,7 @@
      "detail": "AlCr-98Mur.tdb: 'Prototype Cu5Zn8 (cI52, I-43m), high T'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 1
   },
   {
    "id": "phase:al-cr:al8cr5-gamma",
@@ -4103,7 +4103,7 @@
      "detail": "AlCr-98Mur.tdb: 'Prototype Al9Cr4 (cI52, I-43m ?)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 1
   },
   {
    "id": "phase:al-cr:al9cr4-h",
@@ -5749,7 +5749,7 @@
      "detail": "AlIr-08Zha.tdb: 'Prototype Al28Ir9 (hP236, P31c)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 9
   },
   {
    "id": "phase:al-ir:al5ir2",
@@ -13009,7 +13009,7 @@
      "pearson": "hP27",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 48
+     "count": 46
     },
     {
      "source": "sgte_mmc2",
@@ -34519,7 +34519,7 @@
      "pearson": "hR552",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 17
+     "count": 15
     },
     {
      "source": "sgte_mmc2",
@@ -42622,7 +42622,7 @@
      "detail": "FeY-97Du.tdb: 'Prototype Th2Zn17 (hR19, R-3m), low T'"
     }
    ],
-   "literature_values": 137
+   "literature_values": 134
   },
   {
    "id": "phase:fe-y:fe17y2-ht",
@@ -46058,7 +46058,7 @@
      "pearson": "mC32",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 15
+     "count": 13
     },
     {
      "source": "sgte_mmc2",
@@ -59325,7 +59325,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)"
     }
    ],
-   "literature_values": 15
+   "literature_values": 12
   },
   {
    "id": "phase:ni-sn:ni3sn2",
@@ -59608,7 +59608,7 @@
      "detail": "NiSn-99Gho.tdb: 'Prototype Ni3Sn2 (oP20, Pnma), low T'"
     }
    ],
-   "literature_values": 39
+   "literature_values": 37
   },
   {
    "id": "phase:ni-sn:ni3sn2-lt",
@@ -66203,7 +66203,7 @@
      "detail": "PdS-10Hu.tdb: 'Prototype Pd3S (oC16, Ama2)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 9
   },
   {
    "id": "phase:pd-s:s-monoclinic",
@@ -72503,7 +72503,7 @@
      "detail": "SiSr-20Yi.tdb: 'Prototype Si2Sr (cP12, P4_132)'"
     }
    ],
-   "literature_values": 15
+   "literature_values": 14
   },
   {
    "id": "phase:si-ta:si3ta5",

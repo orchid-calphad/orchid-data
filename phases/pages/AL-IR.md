@@ -12,10 +12,10 @@ Table: Phases of the Al–Ir system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL13IR4](#phase-al-ir-al13ir4); _phase:al-ir:al13ir4_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1287.53 K, x(Ir) 0.23529–0.23529 | 10 | 4 |
+| [AL13IR4](#phase-al-ir-al13ir4); _phase:al-ir:al13ir4_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1287.53 K, x(Ir) 0.23529–0.23529 | 9 | 4 |
 | [AL28IR9](#phase-al-ir-al28ir9); _phase:al-ir:al28ir9_ | Al28Ir9 · hP236 · P31c (159) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1707.94 K, x(Ir) 0.24324–0.24324 | 4 | 1 |
 | [AL3IR_D018](#phase-al-ir-al3ir-d018); _phase:al-ir:al3ir-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1746.92 K, x(Ir) 0.25–0.25 | 11 | 4 |
-| [AL45IR13](#phase-al-ir-al45ir13); _phase:al-ir:al45ir13_ | Al45Ir13 · oP236 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1221.61 K, x(Ir) 0.22414–0.22414 | 16 | 3 |
+| [AL45IR13](#phase-al-ir-al45ir13); _phase:al-ir:al45ir13_ | Al45Ir13 · oP236 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1221.61 K, x(Ir) 0.22414–0.22414 | 15 | 3 |
 | [AL5IR2](#phase-al-ir-al5ir2); _phase:al-ir:al5ir2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1951.96 K, x(Ir) 0.27–0.27027 | 4 | 4 |
 | [AL9IR2](#phase-al-ir-al9ir2); _phase:al-ir:al9ir2_ | Al9Co2 · mP22 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1200.87 K, x(Ir) 0.18182–0.18182 | 26 | 4 |
 | [ALIR_B2](#phase-al-ir-alir-b2); _phase:al-ir:alir-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2446.67 K, x(Ir) 0.4753–0.52966 | 29 | 3 |
@@ -38,7 +38,7 @@ Table: Phases of the Al–Ir system (13)
 - Candidate (tdb_comment): Al28Ir9 · hP236 · P31c — AlIr-08Zha.tdb: 'Prototype Al28Ir9 (hP236, P31c)'
 - Stoichiometry: Al 0.7647, Ir 0.2353
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1287.53 K, x(Ir) 0.23529–0.23529
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ir:al13ir4)
 
 Names (7): _corpus: _corpus:phase:al-ir:al13ir4  
@@ -180,7 +180,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.7759, Ir 0.2241
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1221.61 K, x(Ir) 0.22414–0.22414
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ir:al45ir13)
 
 Names (6): _corpus: _corpus:phase:al-ir:al45ir13  

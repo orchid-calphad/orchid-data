@@ -1,10 +1,10 @@
 # C–Si–Y system
 
-> C–Si–Y system: 286 accepted literature values (crystal structure 165, formation 121) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Si–Y system: 238 accepted literature values (crystal structure 165, formation 73) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-SI-Y.html · Markdown: https://data.orchid-project.org/systems/C-SI-Y.md
 
-286 accepted literature values from 1 paper(s) (experimental 164, model 71, DFT 15, unspecified 36); 0 calculated phase diagram(s).
+238 accepted literature values from 1 paper(s) (experimental 145, model 42, DFT 15, unspecified 36); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-SI-Y.json) · [CSV](https://data.orchid-project.org/systems/C-SI-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-SI-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-SI-Y.html) · [Markdown](https://data.orchid-project.org/systems/C-SI-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 164 |
-| model | 71 |
+| experimental | 145 |
+| model | 42 |
 | DFT | 15 |
 | unspecified | 36 |
 
@@ -21,48 +21,17 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 121 |
+| formation | 73 |
 | crystal structure | 165 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Si–Y system (89)
+Table: Enthalpies of formation, C–Si–Y system (57)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -93 kJ/mol-atom ± 5.5 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15 |  |
-| UNKNOWN |  | -92.1 kJ/mol-atom ± 6.7 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 18 |  |
-| UNKNOWN |  | -89.1 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
-| UNKNOWN |  | -86.5 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
-| UNKNOWN |  | -81.222 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16 |  |
-| UNKNOWN |  | -80.7 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 11 |  |
-| UNKNOWN |  | -80.4 kJ/mol-atom ± 2.3 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 19 |  |
-| UNKNOWN |  | -78 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 14 |  |
-| UNKNOWN |  | -76.25 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 21 |  |
-| UNKNOWN |  | -74.2 kJ/mol-atom ± 3.8 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | -71.7 kJ/mol-atom ± 3.6 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Topor 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990292-r) | Table 2, p. 3, row 20 |  |
-| UNKNOWN |  | -68 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | -66.625 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -66 kJ/mol-atom ± 3.4 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | -65.15 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17 |  |
-| UNKNOWN |  | -64 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 28 |  |
-| UNKNOWN |  | -61.92 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
-| UNKNOWN |  | -61.8 kJ/mol-atom ± 1.4 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 2 |  |
-| UNKNOWN |  | -60.266 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | -60 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 22 |  |
-| UNKNOWN |  | -57 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 29 |  |
-| UNKNOWN |  | -45.153 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 8 |  |
-| UNKNOWN |  | -44.43 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 9 |  |
-| UNKNOWN |  | -38.9214 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | -38.8 kJ/mol-atom | 298.15 | experimental |  |  | [1] Xu 2019; _cites Storms 1971_ | Table 2, p. 3, row 25 |  |
-| UNKNOWN |  | -37.7 kJ/mol-atom ± 8.4 | 298.15 | experimental |  |  | [1] Xu 2019; _cites De 1965_ [doi](https://doi.org/10.1063/1.1696715) | Table 2, p. 3, row 23 |  |
-| UNKNOWN |  | -37 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 32 |  |
-| UNKNOWN |  | -36.5 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 27 |  |
-| UNKNOWN |  | -35 kJ/mol-atom ± 3.5 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Anderson 1972_ | Table 2, p. 3, row 26 |  |
-| UNKNOWN |  | -31.5 kJ/mol-atom |  | model |  |  | [1] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 30 |  |
-| UNKNOWN |  | -30.3 kJ/mol-atom ± 5.7 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Kohl 1970_ [doi](https://doi.org/10.1063/1.1672942) | Table 2, p. 3, row 24 |  |
 | UNKNOWN |  | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
 | Y1.8Si0.2C2.7 |  | -26.6 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 25 |  |
 | Y15C19 (H) | [Y15C19](https://data.orchid-project.org/compounds/Y15C19.html) | -43.77 kJ/mol-atom |  | model | -29.637 (mp-aaacqitm) |  | [1] Xu 2019 | Table 3, p. 3, row 20 |  |
@@ -70,7 +39,6 @@ Table: Enthalpies of formation, C–Si–Y system (89)
 | Y15Si9C |  | -70.8 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 24 |  |
 | Y2C | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | -37 kJ/mol-atom |  | model | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 32 |  |
 | Y2C | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | -31.5 kJ/mol-atom |  | model | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 30 |  |
-| Y2C | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
 | Y2C3 (H) | [Y2C3](https://data.orchid-project.org/compounds/Y2C3.html) | -34 kJ/mol-atom |  | model | -24.654 (mp-aaaaacnf) | -25.199 (oqmd-13982) | [1] Xu 2019 | Table 3, p. 3, row 17 |  |
 | Y2C3 (R) | [Y2C3](https://data.orchid-project.org/compounds/Y2C3.html) | -34.8 kJ/mol-atom |  | model | -24.654 (mp-aaaaacnf) | -25.199 (oqmd-13982) | [1] Xu 2019 | Table 3, p. 3, row 19 |  |
 | Y2C3 (R) |  | -34.61 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 18 |  |
@@ -124,44 +92,28 @@ Table: Enthalpies of formation, C–Si–Y system (89)
 
 ## Other properties
 
-### Formation (32)
+### Formation (16)
 
 Table: Formation, C–Si–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Formation entropy_ | -1969 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
-| Entropy of formation; _printed: Formation entropy_ | -11187 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 22 |  |
-| Entropy of formation; _printed: Formation entropy_ | -5000 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 8 |  |
-| Entropy of formation; _printed: Formation entropy_ | -6049 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1727 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 7 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1242 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16 |  |
-| Entropy of formation; _printed: Formation entropy_ | -12599.7 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1483 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 21 |  |
-| Entropy of formation; _printed: Formation entropy_ | -4000 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 9 |  |
-| Entropy of formation; _printed: Formation entropy_ | -10664.9 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
-| Entropy of formation; _printed: Formation entropy_ | -2500 J/mol-atom/K |  | UNKNOWN; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1727 J/mol-atom/K |  | Y3Si5; _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 7 |  |
-| Entropy of formation; _printed: Formation entropy_ | -4000 J/mol-atom/K |  | Y3Si5(H); _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 9 |  |
-| Entropy of formation; _printed: Formation entropy_ | -5000 J/mol-atom/K |  | Y3Si5(R); _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 8 |  |
-| Entropy of formation; _printed: Formation entropy_ | -11187 J/mol-atom/K |  | Y5Si3; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 22 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1483 J/mol-atom/K |  | Y5Si3; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 21 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1242 J/mol-atom/K |  | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16 |  |
-| Entropy of formation; _printed: Formation entropy_ | -12599.7 J/mol-atom/K |  | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17 |  |
-| Entropy of formation; _printed: Formation entropy_ | -6049 J/mol-atom/K |  | YSi; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
-| Entropy of formation; _printed: Formation entropy_ | -10664.9 J/mol-atom/K |  | YSi; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
-| Entropy of formation; _printed: Formation entropy_ | -1969 J/mol-atom/K |  | YSi2; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
-| Entropy of formation; _printed: Formation entropy_ | -2500 J/mol-atom/K |  | YSi2; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
-| Entropy of formation; _printed: Formation entropy_ | 2900 J/mol-atom/K ± 6400 | 298.15 | UNKNOWN; _alloy: Si 0.444444, Y 0.555556_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15 |  |
-| Entropy of formation; _printed: Formation entropy_ | 5600 J/mol-atom/K ± 7800 | 298.15 | UNKNOWN; _alloy: Si 0.375, Y 0.625_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 18 |  |
-| Entropy of formation; _printed: Formation entropy_ | 400 J/mol-atom/K ± 4700 | 298.15 | UNKNOWN; _alloy: Si 0.5, Y 0.5_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
-| Entropy of formation; _printed: Formation entropy_ | -3100 J/mol-atom/K ± 4500 | 298.15 | UNKNOWN; _alloy: Si 0.625, Y 0.375_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 6 |  |
-| Entropy of formation; _printed: Formation entropy_ | -2800 J/mol-atom/K ± 4000 | 298.15 | UNKNOWN; _alloy: Si 0.666667, Y 0.333333_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
-| Entropy of formation; _printed: Formation entropy_ | -3100 J/mol-atom/K ± 4500 | 298.15 | Y3Si5; _alloy: Si 0.625, Y 0.375_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 6 |  |
-| Entropy of formation; _printed: Formation entropy_ | 5600 J/mol-atom/K ± 7800 | 298.15 | Y5Si3; _alloy: Si 0.375, Y 0.625_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 18 |  |
-| Entropy of formation; _printed: Formation entropy_ | 2900 J/mol-atom/K ± 6400 | 298.15 | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15 |  |
-| Entropy of formation; _printed: Formation entropy_ | 400 J/mol-atom/K ± 4700 | 298.15 | YSi; _alloy: Si 0.5, Y 0.5_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
-| Entropy of formation; _printed: Formation entropy_ | -2800 J/mol-atom/K ± 4000 | 298.15 | YSi2; _alloy: Si 0.666667, Y 0.333333_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
+| Entropy of formation; _printed: Formation entropy_ | -1.727 J/mol-atom/K |  | Y3Si5; _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 7 |  |
+| Entropy of formation; _printed: Formation entropy_ | -4 J/mol-atom/K |  | Y3Si5(H); _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 9 |  |
+| Entropy of formation; _printed: Formation entropy_ | -5 J/mol-atom/K |  | Y3Si5(R); _alloy: Si 0.625, Y 0.375_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 8 |  |
+| Entropy of formation; _printed: Formation entropy_ | -11.187 J/mol-atom/K |  | Y5Si3; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 22 |  |
+| Entropy of formation; _printed: Formation entropy_ | -1.483 J/mol-atom/K |  | Y5Si3; _alloy: Si 0.375, Y 0.625_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 21 |  |
+| Entropy of formation; _printed: Formation entropy_ | -1.242 J/mol-atom/K |  | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 16 |  |
+| Entropy of formation; _printed: Formation entropy_ | -12.5997 J/mol-atom/K |  | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 17 |  |
+| Entropy of formation; _printed: Formation entropy_ | -6.049 J/mol-atom/K |  | YSi; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
+| Entropy of formation; _printed: Formation entropy_ | -10.6649 J/mol-atom/K |  | YSi; _alloy: Si 0.5, Y 0.5_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
+| Entropy of formation; _printed: Formation entropy_ | -1.969 J/mol-atom/K |  | YSi2; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
+| Entropy of formation; _printed: Formation entropy_ | -2.5 J/mol-atom/K |  | YSi2; _alloy: Si 0.666667, Y 0.333333_ | model | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
+| Entropy of formation; _printed: Formation entropy_ | -3.1 J/mol-atom/K ± 4500 | 298.15 | Y3Si5; _alloy: Si 0.625, Y 0.375_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 6 |  |
+| Entropy of formation; _printed: Formation entropy_ | 5.6 J/mol-atom/K ± 7800 | 298.15 | Y5Si3; _alloy: Si 0.375, Y 0.625_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 18 |  |
+| Entropy of formation; _printed: Formation entropy_ | 2.9 J/mol-atom/K ± 6400 | 298.15 | Y5Si4; _alloy: Si 0.444444, Y 0.555556_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 15 |  |
+| Entropy of formation; _printed: Formation entropy_ | 0.4 J/mol-atom/K ± 4700 | 298.15 | YSi; _alloy: Si 0.5, Y 0.5_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
+| Entropy of formation; _printed: Formation entropy_ | -2.8 J/mol-atom/K ± 4000 | 298.15 | YSi2; _alloy: Si 0.666667, Y 0.333333_ | experimental | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
 
 ### Crystal structure (165)
 

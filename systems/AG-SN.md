@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AG-SN.html · Markdown: https://data.orchid-project.org/systems/AG-SN.md
 
-19 accepted literature values from 4 paper(s) (experimental 8, model 11); 10 calculated phase diagram(s).
+19 accepted literature values from 4 paper(s) (experimental 10, model 9); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SN.json) · [CSV](https://data.orchid-project.org/systems/AG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SN/AgSn-00Moo.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SN.html) · [Markdown](https://data.orchid-project.org/systems/AG-SN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 11 |
+| experimental | 10 |
+| model | 9 |
 
 Table: Accepted values by property group
 
@@ -115,8 +115,8 @@ Table: Enthalpies of formation, Ag–Sn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -6.19 kJ/mol-atom ± 0.23 | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
-| — |  | -6.06 kJ/mol-atom ± 0.23 | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
+| — |  | -6.19 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
+| — |  | -6.06 kJ/mol-atom ± 0.23 | 723 | experimental |  |  | [1] Chevalier 1988 | p. 4 | “The heat of formation of two alloy samples of very nearly the same composition was measured by calorimetry at T = 723 K by Kleppa \[38\] as - 6.06 f 0.23 and - 6.19 f 0.23 KJ per gram atom respectively.” |
 | — |  | -4.447 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
 | — |  | -4.317 kJ/mol-atom | 723 | model |  |  | [1] Chevalier 1988 | p. 4 | “Taking into account the value of the Gibbs energy of the transformation Sn(bct) ;=t Sn(liq)( + 6973 J) the heat of formation referred to the pure solid elements was calculated as - 4317 and - 4447 J per gram atom at T = 723 K.” |
 

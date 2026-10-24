@@ -1,19 +1,23 @@
 # Ca3SiO5: enthalpy of formation
 
-> Enthalpy of formation of Ca3SiO5: 1 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ca3SiO5: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca3SiO5.html · Markdown: https://data.orchid-project.org/compounds/Ca3SiO5.md
 
-1 accepted literature formation-enthalpy value(s) (DFT 1).
+5 accepted literature formation-enthalpy value(s) (model 4, DFT 1).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca3SiO5 reported in the literature (1)
+Table: Enthalpy of formation of Ca3SiO5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -2933 kJ/mol (basis unstated) | Triclinic-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 3 |  |
+| -2933 kJ/mol (basis unstated) | Triclinic-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 2 |  |
+| -2932 kJ/mol (basis unstated) | Monoclinic-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 1 |  |
+| -2932 kJ/mol (basis unstated) | Rhombohedral-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
 | -13.1 kJ/mol-atom | Monoclinic-Ca3SiO5 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 
 ## Sources

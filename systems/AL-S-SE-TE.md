@@ -1,10 +1,10 @@
 # Al–S–Se–Te system
 
-> Al–S–Se–Te system: 70 accepted literature values (formation 40, crystal structure 30) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–S–Se–Te system: 50 accepted literature values (crystal structure 30, formation 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-S-SE-TE.html · Markdown: https://data.orchid-project.org/systems/AL-S-SE-TE.md
 
-70 accepted literature values from 1 paper(s) (experimental 46, model 12, DFT 12); 0 calculated phase diagram(s).
+50 accepted literature values from 1 paper(s) (experimental 38, model 6, DFT 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/AL-S-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S-SE-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-S-SE-TE.html) · [Markdown](https://data.orchid-project.org/systems/AL-S-SE-TE.md)
 
@@ -12,22 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 12 |
-| DFT | 12 |
+| experimental | 38 |
+| model | 6 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 40 |
+| formation | 20 |
 | crystal structure | 30 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–S–Se–Te system (40)
+Table: Enthalpies of formation, Al–S–Se–Te system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -39,26 +39,6 @@ Table: Enthalpies of formation, Al–S–Se–Te system (40)
 | Al2Te5 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | -59.1 kJ/mol-atom | 298 | model | -60.423 (mp-aaaaanry) | -31.742 (oqmd-1795930) | [1] Shi 2019 | Table 3, p. 3, row 20 |  |
 | AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
 | AlTe | [AlTe](https://data.orchid-project.org/compounds/AlTe.html) | -87.6 kJ/mol-atom | 298 | model |  | -37.082 (oqmd-1374663) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
-| UNKNOWN |  | -144.6 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| UNKNOWN |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| UNKNOWN |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
-| UNKNOWN |  | -132.5 kJ/mol-atom ± 20 | 298 | experimental |  |  | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
-| UNKNOWN |  | -130.2 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| UNKNOWN |  | -130.2 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| UNKNOWN |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| UNKNOWN |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
-| UNKNOWN |  | -113.4 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
-| UNKNOWN |  | -108.5 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
-| UNKNOWN |  | -107.9 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
-| UNKNOWN |  | -107.7 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
-| UNKNOWN |  | -87.6 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
-| UNKNOWN |  | -85.9 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
-| UNKNOWN |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
-| UNKNOWN |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
-| UNKNOWN |  | -63.8 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
-| UNKNOWN |  | -63.6 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
-| UNKNOWN |  | -59.1 kJ/mol-atom | 298 | model |  |  | [1] Shi 2019 | Table 3, p. 3, row 20 |  |
-| UNKNOWN |  | -52 kJ/mol-atom | 298 | experimental |  |  | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
 | αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
 | αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
 | αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |

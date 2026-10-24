@@ -415,11 +415,13 @@
   "observations": [
    {
     "id": "ORC-ZXU6LPSRKR",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    },
    {
     "id": "ORC-UWNPV3NAQN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556",
     "caveats": [
@@ -428,6 +430,7 @@
    },
    {
     "id": "ORC-3C7ZQX72FM",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556",
     "caveats": [
@@ -436,11 +439,13 @@
    },
    {
     "id": "ORC-DEFZDBXFWT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    },
    {
     "id": "ORC-LKXWFXNNHQ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556",
     "caveats": [
@@ -449,6 +454,7 @@
    },
    {
     "id": "ORC-VRKK7U2JT2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556",
     "also_reported_as": [
@@ -462,11 +468,13 @@
    },
    {
     "id": "ORC-3VK2SOLOOP",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    },
    {
     "id": "ORC-X3322BTOHO",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556",
     "also_reported_as": [
@@ -480,16 +488,19 @@
    },
    {
     "id": "ORC-ZL4QVXQJY6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    },
    {
     "id": "ORC-ZT2I3NGQD5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    },
    {
     "id": "ORC-SKAXOHRCH5",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
     "measured_in": "doi:10.1007/bf02667556"
    }

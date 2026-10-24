@@ -146,6 +146,7 @@
   "observations": [
    {
     "id": "ORC-MRKXIUZNWY",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10853-018-1999-8",
     "measured_in": "ref:534e1c0c5c5f8a5c",
     "caveats": [
@@ -154,11 +155,13 @@
    },
    {
     "id": "ORC-ZSPB6ZALBT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10853-018-1999-8",
     "measured_in": "ref:534e1c0c5c5f8a5c"
    },
    {
     "id": "ORC-ESMQ7TMI5T",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10853-018-1999-8",
     "measured_in": "ref:534e1c0c5c5f8a5c",
     "caveats": [
@@ -167,6 +170,7 @@
    },
    {
     "id": "ORC-DYHL4WYVPN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10853-018-1999-8",
     "measured_in": "ref:534e1c0c5c5f8a5c"
    }

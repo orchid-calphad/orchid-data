@@ -1,10 +1,10 @@
 # Co–Y system
 
-> Co–Y system: 94 accepted literature values (invariant reaction 66, phase transition 16, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Y system: 93 accepted literature values (invariant reaction 66, phase transition 15, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-Y.html · Markdown: https://data.orchid-project.org/systems/CO-Y.md
 
-94 accepted literature values from 2 paper(s) (experimental 33, model 37, DFT 8, unspecified 16); 4 calculated phase diagram(s).
+93 accepted literature values from 2 paper(s) (experimental 33, model 36, DFT 8, unspecified 16); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-Y.json) · [CSV](https://data.orchid-project.org/systems/CO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-Y/CoY-04Du-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-Y.html) · [Markdown](https://data.orchid-project.org/systems/CO-Y.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 33 |
-| model | 37 |
+| model | 36 |
 | DFT | 8 |
 | unspecified | 16 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 66 |
-| phase transition | 16 |
+| phase transition | 15 |
 | formation | 12 |
 
 ## Calculated phase diagrams
@@ -250,17 +250,17 @@ Table: Enthalpies of formation, Co–Y system (12)
 | (Y)(Co)4(Va) |  | 16.31 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 5 |  |
 | Co17Y2 |  | -10.35 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 1 |  |
 | Co17Y2 | [Co17Y2](https://data.orchid-project.org/compounds/Co17Y2.html) | 7.6 kJ/mol-atom ± 0.8 | 298.15 | experimental | -9.092 (mp-aaackyhw) | -10.589 (oqmd-29527) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 14 |  |
+| Co2Y | [Co2Y](https://data.orchid-project.org/compounds/Co2Y.html) | -22.76 kJ/mol-atom ± 1.33 | 298.15 | experimental | -17.069 (mp-aaaaabxu) | -18.206 (oqmd-19394) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 17 |  |
 | Co2Y |  | -19.29 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 16 |  |
-| Co2Y | [Co2Y](https://data.orchid-project.org/compounds/Co2Y.html) | 22.76 kJ/mol-atom ± 1.33 | 298.15 | experimental | -17.069 (mp-aaaaabxu) | -18.206 (oqmd-19394) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 17 |  |
 | CoY |  | -23.14 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 10 |  |
 | CoY3 |  | -16.96 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 12 |  |
-| CoY3 | [CoY3](https://data.orchid-project.org/compounds/CoY3.html) | 15.8 kJ/mol-atom ± 4.98 | 298.15 | experimental | -13.914 (mp-aaackxna) | -14.674 (oqmd-664091) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 18 |  |
+| CoY3 | [CoY3](https://data.orchid-project.org/compounds/CoY3.html) | -15.8 kJ/mol-atom ± 4.98 | 298.15 | experimental | -13.914 (mp-aaackxna) | -14.674 (oqmd-664091) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 18 |  |
 | Y(Co)4(Co) |  | -9.42 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 3 |  |
 | Y(Co)4(Co) |  | 12.2 kJ/mol-atom ± 0.87 | 298.15 | experimental |  |  | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 15 |  |
 
 ## Other properties
 
-### Phase transition (16)
+### Phase transition (15)
 
 Table: Phase transition, Co–Y system
 
@@ -276,7 +276,6 @@ Table: Phase transition, Co–Y system
 | Phase transition | 1167 K | 1167 | magnetic: Co₁₇Y₂ | experimental | [2] Du 2004 | Table 2, p. 4, row 1 |  |
 | Phase transition | 1167 K | 1167 | magnetic: Co₁₇Y₂ | experimental | [1] Golumbfskie 2006 | Table 5, p. 3, row 2 |  |
 | Phase transition | 1613 K | 1613 | liq. + fcc(Co) → Co17 Y2 | model | [2] Du 2004 | p. 6 | “In the present work, it is described as liq. + fcc(Co) → Co17 Y2 at 1613 K instead of liq. → fcc(Co) + Co17 Y2 at 1613 K and liq. → Co17 Y2 at 1630 K reported by Wu et al. \[6\].” |
-| Phase transition | 1613 K | 1613 | liq. → fcc(Co) + Co17 Y2 | model | [2] Du 2004; _cites Conclusions_ | p. 6 | “In the present work, it is described as liq. + fcc(Co) → Co17 Y2 at 1613 K instead of liq. → fcc(Co) + Co17 Y2 at 1613 K and liq. → Co17 Y2 at 1630 K reported by Wu et al. \[6\].” |
 | Phase transition | 1618 K | 1618 | Liq. -> Co5Y; _L: Y 0.16; Co5Y: Y 0.166667_ | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 8 |  |
 | Phase transition | 1618 K | 1618 | Liq. -> Co5Y; _L: Y 0.1547; Co5Y: Y 0.166667_ | model | [2] Du 2004 | Table 4, p. 7, row 7 |  |
 | Phase transition | 1618 K | 1618 | congruent transformation | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | p. 2 | “Though some contradictions exist, it has been accepted that Co17 Y2 \[6,8,10\] and Co5 Y \[6,10\] form via congruent melting at approximately 1630 and 1618 K, respectively, and exhibit appreciable solubility ranges.” |

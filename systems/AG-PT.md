@@ -65,49 +65,49 @@ Table: Phase equilibrium, Ag–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 900 | (Ag) + (Pt); _(Ag): Ag 0.656, Pt 0.344; (Pt): Ag 0.157, Pt 0.843_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 13 |  |
-| Phase composition |  | 950 | (Ag) + (Pt); _(Ag): Ag 0.646, Pt 0.354; (Pt): Ag 0.167, Pt 0.833_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 12 |  |
-| Phase composition |  | 961.9 | L + (Ag); _L: Ag 1, Pt 0; (Ag): Ag 1, Pt 0_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 1 |  |
-| Phase composition |  | 1000 | (Ag) + (Pt); _(Ag): Ag 0.635, Pt 0.365; (Pt): Ag 0.178, Pt 0.822_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 11 |  |
-| Phase composition |  | 1000 | L + (Ag); _L: Ag 0.98, Pt 0.02; (Ag): Ag 0.952, Pt 0.048_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 2 |  |
-| Phase composition |  | 1050 | (Ag) + (Pt); _(Ag): Ag 0.625, Pt 0.375; (Pt): Ag 0.189, Pt 0.811_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 10 |  |
-| Phase composition |  | 1050 | L + (Ag); _L: Ag 0.94, Pt 0.06; (Ag): Ag 0.885, Pt 0.115_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 3 |  |
-| Phase composition |  | 1100 | (Ag) + (Pt); _(Ag): Ag 0.614, Pt 0.386; (Pt): Ag 0.2, Pt 0.8_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 9 |  |
-| Phase composition |  | 1100 | L + (Ag); _L: Ag 0.888, Pt 0.112; (Ag): Ag 0.806, Pt 0.194_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 4 |  |
-| Phase composition |  | 1150 | (Ag) + (Pt); _(Ag): Ag 0.603, Pt 0.397; (Pt): Ag 0.212, Pt 0.788_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 8 |  |
-| Phase composition |  | 1150 | L + (Ag); _L: Ag 0.833, Pt 0.167; (Ag): Ag 0.706, Pt 0.294_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 5 |  |
-| Phase composition |  | 1186 | (Ag) + (Pt); _(Ag): Ag 0.594, Pt 0.406; (Pt): Ag 0.221, Pt 0.779_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 7 |  |
-| Phase composition |  | 1186 | L + (Ag); _L: Ag 0.799, Pt 0.201; (Ag): Ag 0.594, Pt 0.406_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 6 |  |
-| Phase composition |  | 1186 | L + (Pt); _L: Ag 0.799, Pt 0.201; (Pt): Ag 0.221, Pt 0.779_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 14 |  |
-| Phase composition |  | 1200 | L + (Pt); _L: Ag 0.793, Pt 0.207; (Pt): Ag 0.208, Pt 0.792_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 15 |  |
-| Phase composition |  | 1250 | L + (Pt); _L: Ag 0.772, Pt 0.228; (Pt): Ag 0.178, Pt 0.822_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 16 |  |
+| Phase composition |  | 1173.15 | (Ag) + (Pt); _(Ag): Ag 0.656, Pt 0.344; (Pt): Ag 0.157, Pt 0.843_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 13 |  |
+| Phase composition |  | 1223.15 | (Ag) + (Pt); _(Ag): Ag 0.646, Pt 0.354; (Pt): Ag 0.167, Pt 0.833_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 12 |  |
+| Phase composition |  | 1235.05 | L + (Ag); _L: Ag 1, Pt 0; (Ag): Ag 1, Pt 0_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 1 |  |
 | Phase composition |  | 1263.15 | liquid + L; _liquid: Ag 0.98, Pt 0.02; L: Ag 0.98, Pt 0.02_ | experimental | [1] Karakaya 1987; _cites Heycock 1907_ | Table 2, p. 3, row 2 |  |
 | Phase composition |  | 1263.15 | liquid + L; _liquid: Ag 0.986, Pt 0.014; L: Ag 0.986, Pt 0.014_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 1 |  |
-| Phase composition |  | 1300 | L + (Pt); _L: Ag 0.748, Pt 0.252; (Pt): Ag 0.159, Pt 0.841_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 17 |  |
+| Phase composition |  | 1273.15 | (Ag) + (Pt); _(Ag): Ag 0.635, Pt 0.365; (Pt): Ag 0.178, Pt 0.822_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 11 |  |
+| Phase composition |  | 1273.15 | L + (Ag); _L: Ag 0.98, Pt 0.02; (Ag): Ag 0.952, Pt 0.048_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 2 |  |
 | Phase composition |  | 1318.15 | liquid + L; _liquid: Ag 0.944, Pt 0.056; L: Ag 0.944, Pt 0.056_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 3 |  |
 | Phase composition |  | 1318.15 | liquid + L; _liquid: Ag 0.942, Pt 0.058; L: Ag 0.942, Pt 0.058_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 4 |  |
-| Phase composition |  | 1350 | L + (Pt); _L: Ag 0.721, Pt 0.279; (Pt): Ag 0.145, Pt 0.855_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 18 |  |
+| Phase composition |  | 1323.15 | (Ag) + (Pt); _(Ag): Ag 0.625, Pt 0.375; (Pt): Ag 0.189, Pt 0.811_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 10 |  |
+| Phase composition |  | 1323.15 | L + (Ag); _L: Ag 0.94, Pt 0.06; (Ag): Ag 0.885, Pt 0.115_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 3 |  |
+| Phase composition |  | 1373.15 | (Ag) + (Pt); _(Ag): Ag 0.614, Pt 0.386; (Pt): Ag 0.2, Pt 0.8_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 9 |  |
+| Phase composition |  | 1373.15 | L + (Ag); _L: Ag 0.888, Pt 0.112; (Ag): Ag 0.806, Pt 0.194_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 4 |  |
 | Phase composition |  | 1393.15 | liquid + L; _liquid: Ag 0.867, Pt 0.133; L: Ag 0.867, Pt 0.133_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 5 |  |
 | Phase composition |  | 1393.15 | liquid + L; _liquid: Ag 0.878, Pt 0.122; L: Ag 0.878, Pt 0.122_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 6 |  |
-| Phase composition |  | 1400 | L + (Pt); _L: Ag 0.69, Pt 0.31; (Pt): Ag 0.132, Pt 0.868_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 19 |  |
-| Phase composition |  | 1450 | L + (Pt); _L: Ag 0.652, Pt 0.348; (Pt): Ag 0.122, Pt 0.878_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 20 |  |
+| Phase composition |  | 1423.15 | (Ag) + (Pt); _(Ag): Ag 0.603, Pt 0.397; (Pt): Ag 0.212, Pt 0.788_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 8 |  |
+| Phase composition |  | 1423.15 | L + (Ag); _L: Ag 0.833, Pt 0.167; (Ag): Ag 0.706, Pt 0.294_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 5 |  |
 | Phase composition |  | 1454.15 | liquid + L; _liquid: Ag 0.803, Pt 0.197; L: Ag 0.803, Pt 0.197_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 7 |  |
 | Phase composition |  | 1454.15 | liquid + L; _liquid: Ag 0.808, Pt 0.192; L: Ag 0.808, Pt 0.192_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 8 |  |
-| Phase composition |  | 1500 | L + (Pt); _L: Ag 0.601, Pt 0.399; (Pt): Ag 0.112, Pt 0.888_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 21 |  |
-| Phase composition |  | 1550 | L + (Pt); _L: Ag 0.508, Pt 0.492; (Pt): Ag 0.102, Pt 0.898_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 22 |  |
-| Phase composition |  | 1600 | L + (Pt); _L: Ag 0.265, Pt 0.735; (Pt): Ag 0.086, Pt 0.914_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 23 |  |
-| Phase composition |  | 1650 | L + (Pt); _L: Ag 0.157, Pt 0.843; (Pt): Ag 0.062, Pt 0.938_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 24 |  |
-| Phase composition |  | 1700 | L + (Pt); _L: Ag 0.083, Pt 0.917; (Pt): Ag 0.036, Pt 0.964_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 25 |  |
+| Phase composition |  | 1459.15 | (Ag) + (Pt); _(Ag): Ag 0.594, Pt 0.406; (Pt): Ag 0.221, Pt 0.779_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 7 |  |
+| Phase composition |  | 1459.15 | L + (Ag); _L: Ag 0.799, Pt 0.201; (Ag): Ag 0.594, Pt 0.406_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 6 |  |
+| Phase composition |  | 1459.15 | L + (Pt); _L: Ag 0.799, Pt 0.201; (Pt): Ag 0.221, Pt 0.779_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 14 |  |
+| Phase composition |  | 1473.15 | L + (Pt); _L: Ag 0.793, Pt 0.207; (Pt): Ag 0.208, Pt 0.792_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 15 |  |
+| Phase composition |  | 1523.15 | L + (Pt); _L: Ag 0.772, Pt 0.228; (Pt): Ag 0.178, Pt 0.822_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 16 |  |
+| Phase composition |  | 1573.15 | L + (Pt); _L: Ag 0.748, Pt 0.252; (Pt): Ag 0.159, Pt 0.841_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 17 |  |
+| Phase composition |  | 1623.15 | L + (Pt); _L: Ag 0.721, Pt 0.279; (Pt): Ag 0.145, Pt 0.855_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 18 |  |
+| Phase composition |  | 1673.15 | L + (Pt); _L: Ag 0.69, Pt 0.31; (Pt): Ag 0.132, Pt 0.868_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 19 |  |
+| Phase composition |  | 1723.15 | L + (Pt); _L: Ag 0.652, Pt 0.348; (Pt): Ag 0.122, Pt 0.878_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 20 |  |
 | Phase composition |  | 1736.15 | liquid + L; _liquid: Ag 0.64, Pt 0.36; L: Ag 0.64, Pt 0.36_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 9 |  |
 | Phase composition |  | 1736.15 | liquid + L; _liquid: Ag 0.643, Pt 0.357; L: Ag 0.643, Pt 0.357_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 10 |  |
-| Phase composition |  | 1750 | L + (Pt); _L: Ag 0.019, Pt 0.981; (Pt): Ag 0.008, Pt 0.992_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 26 |  |
-| Phase composition |  | 1769 | L + (Pt); _L: Ag 0, Pt 1; (Pt): Ag 0, Pt 1_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 27 |  |
+| Phase composition |  | 1773.15 | L + (Pt); _L: Ag 0.601, Pt 0.399; (Pt): Ag 0.112, Pt 0.888_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 21 |  |
 | Phase composition |  | 1808.15 | liquid + L; _liquid: Ag 0.545, Pt 0.455; L: Ag 0.545, Pt 0.455_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 11 |  |
 | Phase composition |  | 1808.15 | liquid + L; _liquid: Ag 0.545, Pt 0.455; L: Ag 0.545, Pt 0.455_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 12 |  |
+| Phase composition |  | 1823.15 | L + (Pt); _L: Ag 0.508, Pt 0.492; (Pt): Ag 0.102, Pt 0.898_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 22 |  |
 | Phase composition |  | 1832.15 | liquid + L; _liquid: Ag 0.435, Pt 0.565; L: Ag 0.435, Pt 0.565_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 14 |  |
 | Phase composition |  | 1832.15 | liquid + L; _liquid: Ag 0.475, Pt 0.525; L: Ag 0.475, Pt 0.525_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 13 |  |
 | Phase composition |  | 1861.15 | liquid + L; _liquid: Ag 0.31, Pt 0.69; L: Ag 0.31, Pt 0.69_ | experimental | [1] Karakaya 1987; _cites ref. 07Doe_ | Table 2, p. 3, row 16 |  |
 | Phase composition |  | 1861.15 | liquid + L; _liquid: Ag 0.306, Pt 0.694; L: Ag 0.306, Pt 0.694_ | model | [1] Karakaya 1987 | Table 2, p. 3, row 15 |  |
+| Phase composition |  | 1873.15 | L + (Pt); _L: Ag 0.265, Pt 0.735; (Pt): Ag 0.086, Pt 0.914_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 23 |  |
+| Phase composition |  | 1923.15 | L + (Pt); _L: Ag 0.157, Pt 0.843; (Pt): Ag 0.062, Pt 0.938_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 24 |  |
+| Phase composition |  | 1973.15 | L + (Pt); _L: Ag 0.083, Pt 0.917; (Pt): Ag 0.036, Pt 0.964_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 25 |  |
+| Phase composition |  | 2023.15 | L + (Pt); _L: Ag 0.019, Pt 0.981; (Pt): Ag 0.008, Pt 0.992_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 26 |  |
+| Phase composition |  | 2042.15 | L + (Pt); _L: Ag 0, Pt 1; (Pt): Ag 0, Pt 1_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 27 |  |
 
 ### Crystal structure (24)
 

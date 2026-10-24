@@ -351,16 +351,19 @@
   "observations": [
    {
     "id": "ORC-ZT6Y4OLB62",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-IKKZFSH7NA",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-GXBB22VEXJ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860",
     "also_reported_as": [
@@ -374,11 +377,13 @@
    },
    {
     "id": "ORC-QPUADU4WWS",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-BRSMVMPLJT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860",
     "also_reported_as": [
@@ -392,6 +397,7 @@
    },
    {
     "id": "ORC-NTB4QZINFE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860",
     "also_reported_as": [
@@ -405,6 +411,7 @@
    },
    {
     "id": "ORC-N4HIHTXAR3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860",
     "also_reported_as": [
@@ -424,21 +431,25 @@
    },
    {
     "id": "ORC-KAEHGF7H4X",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-LG2BNXB4YE",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-X5J65EMZ23",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860"
    },
    {
     "id": "ORC-EW23BALU5L",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2007.03.074",
     "measured_in": "doi:10.1007/bf02652860",
     "also_reported_as": [

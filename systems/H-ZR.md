@@ -1,10 +1,10 @@
 # H–Zr system
 
-> H–Zr system: 75 accepted literature values (activity / EMF / Gibbs energy 68, formation 5, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Zr system: 57 accepted literature values (activity / EMF / Gibbs energy 50, formation 5, invariant reaction 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-ZR.html · Markdown: https://data.orchid-project.org/systems/H-ZR.md
 
-75 accepted literature values from 2 paper(s) (experimental 1, model 71, DFT 3); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+57 accepted literature values from 2 paper(s) (experimental 1, model 53, DFT 3); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-ZR.json) · [CSV](https://data.orchid-project.org/systems/H-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-ZR) · [phases (9)](https://data.orchid-project.org/phases/pages/H-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-ZR.html) · [Markdown](https://data.orchid-project.org/systems/H-ZR.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 71 |
+| model | 53 |
 | DFT | 3 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | formation | 5 |
-| activity / EMF / Gibbs energy | 68 |
+| activity / EMF / Gibbs energy | 50 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-ZR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-ZR.json) · [CALPHAD hull ZrH-00Koe](https://data.orchid-project.org/hulls/calphad-sgte/H/H-ZR--ZrH-00Koe.json) · [CALPHAD hull ZrH-07Uki](https://data.orchid-project.org/hulls/calphad-sgte/H/H-ZR--ZrH-07Uki.json) · [CALPHAD hull ZrH-97Ans-LB](https://data.orchid-project.org/hulls/calphad-sgte/H/H-ZR--ZrH-97Ans-LB.json) · [CALPHAD hull ZrH-99Dup](https://data.orchid-project.org/hulls/calphad-sgte/H/H-ZR--ZrH-99Dup.json)
 
@@ -51,7 +51,7 @@ Table: Enthalpies of formation, H–Zr system (5)
 
 ## Other properties
 
-### Activity / EMF / Gibbs energy (68)
+### Activity / EMF / Gibbs energy (50)
 
 Table: Activity / EMF / Gibbs energy, H–Zr system
 
@@ -59,27 +59,21 @@ Table: Activity / EMF / Gibbs energy, H–Zr system
 |---|---:|---:|---|---|---|---|---|
 | Activity; _printed: aγ-ZrH_ | 1 1 | 400 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 1 |  |
 | Activity; _printed: aδ-ZrH2-x_ | 0.11 1 | 400 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 1 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.11 1 | 400 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 1 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.11 1 | 400 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 1 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 450 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 2 |  |
 | Activity; _printed: aδ-ZrH2-x_ | 0.15 1 | 450 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 2 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.15 1 | 450 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 2 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.15 1 | 450 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 2 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 500 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 3 |  |
 | Activity; _printed: aδ-ZrH2-x_ | 0.18 1 | 500 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 3 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.18 1 | 500 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 3 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.18 1 | 500 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 3 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 550 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 4 |  |
-| Activity; _printed: aδ-ZrH2-x_ | 0.21 1 | 550 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
 | Activity; _printed: aδ-ZrH2−x_ | 0.21 1 | 550 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.21 1 | 550 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 4 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 600 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 5 |  |
-| Activity; _printed: aδ-ZrH2-x_ | 0.24 1 | 600 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Activity; _printed: aδ-ZrH2−x_ | 0.24 1 | 600 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.24 1 | 600 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 5 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 650 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
 | Activity; _printed: aδ-ZrH2-x_ | 0.27 1 | 650 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.27 1 | 650 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.27 1 | 650 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 6 |  |
 | Activity Zr; _printed: aZr_ | 1 1 | 400 | UNKNOWN | model | [2] Zhong 2012 | Table 5, p. 3, row 1 |  |
 | Activity Zr; _printed: aZr_ | 1 1 | 400 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 1 |  |
@@ -95,34 +89,22 @@ Table: Activity / EMF / Gibbs energy, H–Zr system
 | Activity Zr; _printed: aZr_ | 0.99 1 | 650 | UNKNOWN | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
 | Activity Zr; _printed: aZr_ | 0.99 1 | 650 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
 | Activity Zr; _printed: a_Zr_ | 0.98 1 | 650 | UNKNOWN | model | [2] Zhong 2012 | Table 4, p. 3, row 6 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -70801.3 unknown | 400 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 1 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -70801.3 unknown | 400 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 1 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -107087 unknown | 400 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 1 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -107087 unknown | 400 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 1 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -130607 unknown | 400 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 1 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -73207 unknown | 450 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 2 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -73207 unknown | 450 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 2 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -108737 unknown | 450 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 2 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -108737 unknown | 450 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 2 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -131665 unknown | 450 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 2 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -75848.6 unknown | 500 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 3 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -75848.6 unknown | 500 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 3 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -110617 unknown | 500 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 3 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -110617 unknown | 500 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 3 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -132506 unknown | 500 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 3 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -78704.9 unknown | 550 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 4 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -78704.9 unknown | 550 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 4 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -112678 unknown | 550 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -112678 unknown | 550 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -133049 unknown | 550 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 4 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -81758.7 unknown | 600 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 5 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -81758.7 unknown | 600 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 5 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -114873 unknown | 600 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -114873 unknown | 600 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -133218 unknown | 600 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 5 |  |
-| Gibbs energy; _printed: G0(ZrH)_ | -84995.6 unknown | 650 | UNKNOWN | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -84995.6 unknown | 650 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -117152 unknown | 650 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
 | Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -117152 unknown | 650 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -132953 unknown | 650 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 6 |  |
 

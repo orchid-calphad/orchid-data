@@ -1,10 +1,10 @@
 # Nd–Zn system
 
-> Nd–Zn system: 156 accepted literature values (invariant reaction 87, mixing / partial 48, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Zn system: 155 accepted literature values (invariant reaction 86, formation 48, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-ZN.html · Markdown: https://data.orchid-project.org/systems/ND-ZN.md
 
-156 accepted literature values from 4 paper(s) (experimental 81, model 75); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+155 accepted literature values from 4 paper(s) (experimental 81, model 74); 4 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZN.json) · [CSV](https://data.orchid-project.org/systems/ND-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZN/NdZn-08Li.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ND-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ND-ZN.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 81 |
-| model | 75 |
+| model | 74 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 87 |
+| invariant reaction | 86 |
 | phase transition | 21 |
-| mixing / partial | 48 |
+| formation | 48 |
 
 ## Calculated phase diagrams
 
@@ -139,7 +139,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nd–Zn system (87)
+Table: Invariant reactions reported in the literature for the Nd–Zn system (86)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -194,7 +194,6 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (87
 | 1122.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 15 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 11 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | model | [4] Li 2008 | Table 1, p. 2, row 13 |  |
-| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75; L: Zn 0.0075 | model | [1] Qi 2008 | Table 2, p. 3, row 13 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [2] Qi 2011 | Table 3, p. 5, row 12 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 14 |  |
 | 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 14 |  |
@@ -261,60 +260,60 @@ Table: Phase transition, Nd–Zn system
 | Phase transition | 1289.15 K | 1289.15 |  | model | [1] Qi 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 4 | “However, according to the SGTE database \[25\] the melting temperature of pure neodymium is 1016 ◦ C and the ␣ ↔ ␤ transformation temperature is 857 ◦ C.” |
 | Phase transition | 1294.15 K | 1294.15 |  | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | p. 4 | “The reported melting temperature of pure neodymium by Mason and Chitti \[20\] is 1021 ◦ C and the ␣ ↔ ␤ transformation temperature is 862 ◦ C.” |
 
-### Mixing / partial (48)
+### Formation (48)
 
-Table: Mixing / partial, Nd–Zn system
+Table: Formation, Nd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.17 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 25 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.44 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 26 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.74 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 38 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.97 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 37 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.01 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 20 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -29.63 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 19 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.43 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 31 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.45 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 32 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 2 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 1 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18.98 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 43 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -18.44 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 44 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -33.26 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 8 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -33.21 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 7 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.72 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 13 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -31.11 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.66 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 27 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.98 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 28 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.11 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 40 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -19.39 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 39 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.55 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 22 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 21 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -20.73 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 33 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -20.69 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.8 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 4 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -28.79 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 3 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -14.91 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 46 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 45 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.36 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -30.29 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.38 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.81 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21.51 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 30 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -21.14 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 29 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15.48 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 42 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -15.8 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 41 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -23.09 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 24 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -22.6 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 23 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -17.02 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 35 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -16.93 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 36 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 5 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -26.67 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 47 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -11.38 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 48 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.45 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -27.37 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.51 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 18 |  |
-| Gibbs energy of mixing; _printed: Gibbs free energy of formation_ | -24.03 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.17 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 25 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.44 kJ/mol-atom | 773.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 26 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.74 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 38 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.97 kJ/mol-atom | 773.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 37 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.01 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 20 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -29.63 kJ/mol-atom | 773.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 19 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.43 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 31 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.45 kJ/mol-atom | 773.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 32 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 2 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.93 kJ/mol-atom | 773.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 1 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.98 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 43 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -18.44 kJ/mol-atom | 773.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 44 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.26 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 8 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -33.21 kJ/mol-atom | 773.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 7 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.72 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 13 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -31.11 kJ/mol-atom | 773.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 14 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.66 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 27 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.98 kJ/mol-atom | 973.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 28 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.11 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 40 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -19.39 kJ/mol-atom | 973.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 39 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.55 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 22 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 21 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.73 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 33 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -20.69 kJ/mol-atom | 973.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 34 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.8 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 4 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -28.79 kJ/mol-atom | 973.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 3 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -14.91 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 46 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.11 kJ/mol-atom | 973.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 45 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.36 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 10 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -30.29 kJ/mol-atom | 973.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 9 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.38 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 15 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.81 kJ/mol-atom | 973.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 16 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.51 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 30 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21.14 kJ/mol-atom | 1173.15 | Nd13Zn58; _alloy: Zn 0.816901_ | model | [3] Liu 2009 | Table 8, p. 6, row 29 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.48 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 42 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -15.8 kJ/mol-atom | 1173.15 | Nd2Zn17; _alloy: Zn 0.894737_ | model | [3] Liu 2009 | Table 8, p. 6, row 41 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -23.09 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 24 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -22.6 kJ/mol-atom | 1173.15 | Nd3Zn11; _alloy: Zn 0.785714_ | model | [3] Liu 2009 | Table 8, p. 6, row 23 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -17.02 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | model | [3] Liu 2009 | Table 8, p. 6, row 35 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -16.93 kJ/mol-atom | 1173.15 | Nd3Zn22; _alloy: Zn 0.88_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 36 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.66 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | model | [3] Liu 2009 | Table 8, p. 6, row 5 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -26.67 kJ/mol-atom | 1173.15 | NdZn; _alloy: Zn 0.5_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 6 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -12.16 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | model | [3] Liu 2009 | Table 8, p. 6, row 47 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -11.38 kJ/mol-atom | 1173.15 | NdZn11; _alloy: Zn 0.916667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 48 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.45 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 12 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -27.37 kJ/mol-atom | 1173.15 | NdZn2; _alloy: Zn 0.666667_ | model | [3] Liu 2009 | Table 8, p. 6, row 11 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.51 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | experimental | [3] Liu 2009; _cites Chiotti 1973_ [doi](https://doi.org/10.1007/bf02668004) | Table 8, p. 6, row 18 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -24.03 kJ/mol-atom | 1173.15 | NdZn3; _alloy: Zn 0.75_ | model | [3] Liu 2009 | Table 8, p. 6, row 17 |  |
 
 ## Sources
 

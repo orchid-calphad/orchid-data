@@ -1,10 +1,10 @@
 # Co–Mo system
 
-> Co–Mo system: 25 accepted literature values (formation 14, phase transition 6, crystal structure 4, other property 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Mo system: 37 accepted literature values (formation 26, phase transition 6, crystal structure 4, other property 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-MO.html · Markdown: https://data.orchid-project.org/systems/CO-MO.md
 
-25 accepted literature values from 2 paper(s) (experimental 6, model 19); 4 calculated phase diagram(s).
+37 accepted literature values from 2 paper(s) (experimental 6, model 31); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-MO.json) · [CSV](https://data.orchid-project.org/systems/CO-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-MO/CoMo-03Dav-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CO-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-MO.html) · [Markdown](https://data.orchid-project.org/systems/CO-MO.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 19 |
+| model | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 6 |
-| formation | 14 |
+| formation | 26 |
 | crystal structure | 4 |
 | other property | 1 |
 
@@ -92,17 +92,23 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Mo system (8)
+Table: Enthalpies of formation, Co–Mo system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | -4.38 kJ/mol-atom | 1573 | experimental |  |  | [1] Davydov 1999; _cites Spencer 1975_ [doi](https://doi.org/10.1016/0021-9614%2875%2990186-x) | p. 3 | “Using a high-temperature adiabatic calorimeter, \[75Spe\] determined the enthalpy of formation for the μ phase containing 48 at.% Mo. The resulting ∆f H values, measured at 973 and 1573 K, were -4160 and -4380 J/mol-at, respectively.” |
 | — |  | -4.16 kJ/mol-atom | 973 | experimental |  |  | [1] Davydov 1999; _cites Spencer 1975_ [doi](https://doi.org/10.1016/0021-9614%2875%2990186-x) | p. 3 | “Using a high-temperature adiabatic calorimeter, \[75Spe\] determined the enthalpy of formation for the μ phase containing 48 at.% Mo. The resulting ∆f H values, measured at 973 and 1573 K, were -4160 and -4380 J/mol-at, respectively.” |
 | ε |  | -5.36 kJ/mol-atom | 298.15 | model |  |  | [2] Davydov 2003 | Table 2, p. 3, row 1 |  |
+| ε |  | -5.36 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
 | ε |  | -5.3 kJ/mol-atom ± 1.2 | 298.15 | model |  |  | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 2 |  |
+| ε |  | -5.3 kJ/mol-atom ± 1.2 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
 | μ |  | -3.8 kJ/mol-atom ± 0.4 | 298.15 | model |  |  | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 4 |  |
+| μ |  | -3.8 kJ/mol-atom ± 0.4 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
+| μ |  | -3.53 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
 | μ |  | -3.434 kJ/mol-atom | 298.15 | model |  |  | [2] Davydov 2003 | Table 2, p. 3, row 3 |  |
 | σ |  | -1.9 kJ/mol-atom ± 2.5 | 298.15 | model |  |  | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 6 |  |
+| σ |  | -1.9 kJ/mol-atom ± 2.5 | 298.15 | model |  |  | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
+| σ |  | -0.94 kJ/mol-atom | 298.15 | model |  |  | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
 | σ |  | -0.711 kJ/mol-atom | 298.15 | model |  |  | [2] Davydov 2003 | Table 2, p. 3, row 5 |  |
 
 ## Other properties
@@ -120,7 +126,7 @@ Table: Phase transition, Co–Mo system
 | Phase transition | 1514 K | 1514 | other | experimental | [1] Davydov 1999; _cites Kubaschewski 1983_ | p. 3 | “The latter study revealed several nonequilibrium thermal transformations in the intermetallics, not verified in other works, such as a transition in the σ phase at 1514 K, where according to Fig. 1 no phase change should occur.” |
 | Phase transition | 3022 K | 3022 | other | model | [2] Davydov 2003 | p. 1 | “ment since the minimum miscibility temperature of 3022 K was above the melting points of all the solid phases in the system and thus did not appear on the diagram calculated in the 300-3000 K temperature range.” |
 
-### Formation (6)
+### Formation (12)
 
 Table: Formation, Co–Mo system
 
@@ -128,10 +134,16 @@ Table: Formation, Co–Mo system
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS298_ | 0.1 unknown | 298.15 | ε; _alloy: Co 0.75, Mo 0.25_ | model | [2] Davydov 2003 | Table 2, p. 3, row 1 |  |
 | Entropy of formation; _printed: ΔfS298_ | -1.3 unknown ± 0.8 | 298.15 | ε; _alloy: Co 0.75, Mo 0.25_ | model | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 2 |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.1 J/mol-atom/K | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999 | Table 5, p. 10, row 1 |  |
+| Entropy of formation; _printed: ΔfS^298_ | -1.3 J/mol-atom/K ± 0.8 | 298.15 | ε; _alloy: Mo 0.25_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 2 |  |
 | Entropy of formation; _printed: ΔfS298_ | 2.5 unknown | 298.15 | μ; _alloy: Co 0.52, Mo 0.48_ | model | [2] Davydov 2003 | Table 2, p. 3, row 3 |  |
 | Entropy of formation; _printed: ΔfS298_ | 1.8 unknown ± 0.8 | 298.15 | μ; _alloy: Co 0.52, Mo 0.48_ | model | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 4 |  |
+| Entropy of formation; _printed: ΔfS298_ | 1.8 J/mol-atom/K ± 0.8 | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 4 |  |
+| Entropy of formation; _printed: ΔfS^298_ | 2.4 J/mol-atom/K | 298.15 | μ; _alloy: Mo 0.48_ | model | [1] Davydov 1999 | Table 5, p. 10, row 3 |  |
 | Entropy of formation; _printed: ΔfS298_ | 2.1 unknown | 298.15 | σ; _alloy: Co 0.37, Mo 0.63_ | model | [2] Davydov 2003 | Table 2, p. 3, row 5 |  |
 | Entropy of formation; _printed: ΔfS298_ | 3.3 unknown ± 1.2 | 298.15 | σ; _alloy: Co 0.37, Mo 0.63_ | model | [2] Davydov 2003; _cites Brewer 1980_ [doi](https://doi.org/10.1007/bf02881194) | Table 2, p. 3, row 6 |  |
+| Entropy of formation; _printed: ΔfS^298_ | 3.3 J/mol-atom/K ± 1.2 | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999; _cites Brewer 1980_ | Table 5, p. 10, row 6 |  |
+| Entropy of formation; _printed: ΔfS298_ | 3 J/mol-atom/K | 298.15 | σ; _alloy: Mo 0.63_ | model | [1] Davydov 1999 | Table 5, p. 10, row 5 |  |
 
 ### Crystal structure (4)
 

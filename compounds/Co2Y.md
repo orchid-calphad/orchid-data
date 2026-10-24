@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Co2Y.html · Markdown: https://data.orchid-project.org/compounds/Co2Y.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median 22.76 kJ/mol-atom (n = 1); Materials Project -17.069 kJ/mol-atom (mp-aaaaabxu); OQMD -18.206 kJ/mol-atom (oqmd-19394).
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -22.76 kJ/mol-atom (n = 1); Materials Project -17.069 kJ/mol-atom (mp-aaaaabxu); OQMD -18.206 kJ/mol-atom (oqmd-19394).
 
 Systems: [Co–Y](https://data.orchid-project.org/systems/CO-Y.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Co2Y reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 22.76 kJ/mol-atom ± 1.33 | Co2Y | 298.15 | experimental |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 17 |  |
+| -22.76 kJ/mol-atom ± 1.33 | Co2Y | 298.15 | experimental |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 17 |  |
 | -19.29 kJ/mol-atom | Co2Y | 0 | DFT | first-principles (VASP) | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006 | Table 4, p. 3, row 16 |  |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Cu–Sb–Zn system
 
-> Cu–Sb–Zn system: 38 accepted literature values (formation 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sb–Zn system: 19 accepted literature values (formation 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SB-ZN.html · Markdown: https://data.orchid-project.org/systems/CU-SB-ZN.md
 
-38 accepted literature values from 1 paper(s) (experimental 18, model 20); 0 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 9, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SB-ZN.json) · [CSV](https://data.orchid-project.org/systems/CU-SB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SB-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CU-SB-ZN.md)
 
@@ -12,42 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 20 |
+| experimental | 9 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 38 |
+| formation | 19 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Sb–Zn system (38)
+Table: Enthalpies of formation, Cu–Sb–Zn system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -11.89 kJ/mol-atom | 723.15 | experimental |  |  | [1] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11 |  |
-| UNKNOWN |  | -11.541 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 10 |  |
-| UNKNOWN |  | -9.517 kJ/mol-atom ± 0.627 | 700.15 | experimental |  |  | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12 |  |
-| UNKNOWN |  | -8.749 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 13 |  |
-| UNKNOWN |  | -7.731 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 16 |  |
-| UNKNOWN |  | -7.348 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 14 |  |
-| UNKNOWN |  | -5.78 kJ/mol-atom | 298.15 | experimental |  |  | [1] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
-| UNKNOWN |  | -5.28 kJ/mol-atom | 298.15 | experimental |  |  | [1] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 17 |  |
-| UNKNOWN |  | -5.142 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | -4.936 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | -4.918 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 18 |  |
-| UNKNOWN |  | -4.718 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 4 |  |
-| UNKNOWN |  | -4.351 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | -4.35 kJ/mol-atom | 298.15 | experimental |  |  | [1] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 15 |  |
-| UNKNOWN |  | -4.23 kJ/mol-atom | 723.15 | experimental |  |  | [1] Liu 2000; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -4.205 kJ/mol-atom | 775.15 | experimental |  |  | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 8 |  |
-| UNKNOWN |  | -2.68 kJ/mol-atom |  | model |  |  | [1] Liu 2000 | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | -1.35 kJ/mol-atom | 773.15 | experimental |  |  | [1] Liu 2000; _cites Brodowski 1982_ | Table 2, p. 3, row 9 |  |
-| UNKNOWN |  | -0.27 kJ/mol-atom | 775.15 | experimental |  |  | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 2 |  |
 | β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.89 kJ/mol-atom | 723.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11 |  |
 | β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.541 kJ/mol-atom |  | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Liu 2000 | Table 2, p. 3, row 10 |  |
 | β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -9.517 kJ/mol-atom ± 0.627 | 700.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12 |  |

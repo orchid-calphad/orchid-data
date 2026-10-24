@@ -547,51 +547,21 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 
 | count | n |
 |---|---:|
-| blocked_by_flag | 26 |
-| blocked_by_flag_magnitude_suspect | 17 |
-| blocked_by_flag_unsigned_in_print | 9 |
-| espei_certified | 1928 |
-| espei_ready | 12221 |
-| espei_ready_calphad_disagrees | 323 |
-| espei_ready_no_prediction | 9970 |
-| phase_rule_fail_compound_property_not_fittable | 367 |
-| phase_rule_fail_liquid_impossible_at_T | 8 |
-| phase_rule_fail_phase_label_ambiguous | 77 |
-| phase_rule_fail_phase_label_not_mapped | 790 |
-| phase_rule_fail_phase_not_printed | 710 |
-| phase_rule_fail_temperature_implausible | 6 |
-| phase_rule_pass | 12221 |
+| espei_certified | 1912 |
+| espei_ready | 11956 |
+| espei_ready_calphad_disagrees | 315 |
+| espei_ready_no_prediction | 9729 |
+| phase_rule_fail_compound_property_not_fittable | 360 |
+| phase_rule_fail_liquid_impossible_at_T | 3 |
+| phase_rule_fail_phase_label_ambiguous | 73 |
+| phase_rule_fail_phase_label_not_mapped | 760 |
+| phase_rule_fail_phase_not_printed | 265 |
+| phase_rule_pass | 11956 |
 
 Values whose `espei_ready` the phase rule turned false:
 
 | id | system | property | T (K) | printed labels | reason | detail |
 |---|---|---|---:|---|---|---|
-| ORC-RBLTNNPVR3.7c362e | C-SI-Y | HM_FORM | 298.15 | Y2C | blocked_by_flag | unsigned_in_print |
-| ORC-S46LFTJSEB | CO-Y | HM_FORM | 298.15 | Co2Y | blocked_by_flag | unsigned_in_print |
-| ORC-7CR6KUYW66 | FE-TI | ACR_TI | 1650.0 | bcc | blocked_by_flag | magnitude_suspect |
-| ORC-7WSFDPW275 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-B4QS27QZBY.818957 | FE-TI | ACR_TI | 1650.0 | Bcc | blocked_by_flag | magnitude_suspect |
-| ORC-DQ3GXD66WX | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-EKYGVHERRU | FE-TI | ACR_TI | 1600.0 | bcc | blocked_by_flag | magnitude_suspect |
-| ORC-HSVROZ4SVW.b0d6d4 | FE-TI | ACR_TI | 1550.0 | Bcc | blocked_by_flag | magnitude_suspect |
-| ORC-N47CRZXOCP.66a9d3 | FE-TI | ACR_TI | 1550.0 | Bcc | blocked_by_flag | magnitude_suspect |
-| ORC-NNRZ2XZQMO.460f91 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-NSB7NU6SWX | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-QND2SCLWKB | FE-TI | ACR_TI | 1550.0 | bcc | blocked_by_flag | magnitude_suspect |
-| ORC-RRDGITWNOH.b8c8f8 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-SOYYFWW4R4.0c9800 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-TX5HIWNLDH | FE-TI | ACR_TI | 1550.0 | bcc | blocked_by_flag | magnitude_suspect |
-| ORC-X3O6VV33H6 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-XH3HOVMUTJ.a7c2f4 | FE-TI | ACR_TI | 1873.0 | L | blocked_by_flag | magnitude_suspect |
-| ORC-XLAOWBKMFH.3758f0 | FE-TI | ACR_TI | 1600.0 | Bcc | blocked_by_flag | magnitude_suspect |
-| ORC-NRMMC4OTJO | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-O4LF5UQABA | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-OF7YZ4OCHX | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-P3442DZZI6 | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-QOMRTGICZ5 | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-QZ2I3A6NYV | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-ZPFJ3SIJDS | MN-O | HM_FORM | 298.15 | Mn3O4 | blocked_by_flag | unsigned_in_print |
-| ORC-T64EA4SVSN | O-ZR | HM_FORM | 298.15 | ZrO2 | blocked_by_flag | magnitude_suspect |
 | ORC-XCFMJUUOJ7.a0179c | AL-CA | GM_FORM | 800.0 | Al4Ca | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-V7YJ5MPN3I | AL-NI | SM | 298.0 | Al3Ni | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-IHDYFUIRSU | B-NB | SM | 298.15 | Nb3B4 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -600,36 +570,36 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-BOPH4LJCD6 | C-SI | SM | 298.0 | αSiC(Hex) | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-67R62WBVGI.f4efec | CA-PB | HM_MIX | 1020.0 | Ca2Pb(l) | compound_property_not_fittable | HM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-JR73AQEICV.511c7b | CA-PB | HM_MIX | 1020.0 | CaPb3(l) | compound_property_not_fittable | HM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-4T5HFCFJIC | CE-ZN | GM_MIX | 773.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-7IY7WMYAU7 | CE-ZN | GM_MIX | 773.15 | CeZn5 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-7NGCG5VXFB | CE-ZN | GM_MIX | 773.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-BSC7LKZPK4 | CE-ZN | GM_MIX | 773.15 | Ce13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-CU7XVBQ4U7 | CE-ZN | GM_MIX | 1173.15 | Ce3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-DEWQ4KPVM3 | CE-ZN | GM_MIX | 1173.15 | Ce2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-EKSC43ZMMO | CE-ZN | GM_MIX | 973.15 | Ce13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-G3TRTAFB47 | CE-ZN | GM_MIX | 773.15 | CeZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-G54IYE5ICU | CE-ZN | GM_MIX | 773.15 | Ce3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-GM74XWMPQ7 | CE-ZN | GM_MIX | 1173.15 | CeZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-H7ZRAAMMEB | CE-ZN | GM_MIX | 773.15 | CeZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-IKJIUSYEHO | CE-ZN | GM_MIX | 773.15 | Ce2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-IWY6AENSQZ | CE-ZN | GM_MIX | 773.15 | CeZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-KN7WUE6X2I | CE-ZN | GM_MIX | 973.15 | Ce3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-LJJ4JGFPMB | CE-ZN | GM_MIX | 1173.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MCEDTP4U2B | CE-ZN | GM_MIX | 973.15 | CeZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MEI23J6GDL | CE-ZN | GM_MIX | 1173.15 | CeZn5 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MFTVHE3OCF | CE-ZN | GM_MIX | 1173.15 | Ce13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MMXDAHEPYE | CE-ZN | GM_MIX | 1173.15 | CeZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-NMQOH7S6Z4 | CE-ZN | GM_MIX | 1173.15 | CeZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-NOZQYF5A46 | CE-ZN | GM_MIX | 973.15 | Ce3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-QALMUYRVLZ | CE-ZN | GM_MIX | 973.15 | Ce2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-QJSEAQ5IRX | CE-ZN | GM_MIX | 973.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-S763I5XRQE | CE-ZN | GM_MIX | 973.15 | CeZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SI3RIE5BNR | CE-ZN | GM_MIX | 973.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-USKX4LDIIG | CE-ZN | GM_MIX | 973.15 | CeZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-UYVVGXTHP7 | CE-ZN | GM_MIX | 1173.15 | Ce3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-VSDOYLEF2H | CE-ZN | GM_MIX | 1173.15 | CeZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-WBPEYMXB56 | CE-ZN | GM_MIX | 973.15 | CeZn5 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-YC57UPTDSC | CE-ZN | GM_MIX | 773.15 | Ce3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-4T5HFCFJIC | CE-ZN | GM_FORM | 773.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-7IY7WMYAU7 | CE-ZN | GM_FORM | 773.15 | CeZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-7NGCG5VXFB | CE-ZN | GM_FORM | 773.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-BSC7LKZPK4 | CE-ZN | GM_FORM | 773.15 | Ce13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-CU7XVBQ4U7 | CE-ZN | GM_FORM | 1173.15 | Ce3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-DEWQ4KPVM3 | CE-ZN | GM_FORM | 1173.15 | Ce2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-EKSC43ZMMO | CE-ZN | GM_FORM | 973.15 | Ce13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-G3TRTAFB47 | CE-ZN | GM_FORM | 773.15 | CeZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-G54IYE5ICU | CE-ZN | GM_FORM | 773.15 | Ce3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-GM74XWMPQ7 | CE-ZN | GM_FORM | 1173.15 | CeZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-H7ZRAAMMEB | CE-ZN | GM_FORM | 773.15 | CeZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-IKJIUSYEHO | CE-ZN | GM_FORM | 773.15 | Ce2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-IWY6AENSQZ | CE-ZN | GM_FORM | 773.15 | CeZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-KN7WUE6X2I | CE-ZN | GM_FORM | 973.15 | Ce3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-LJJ4JGFPMB | CE-ZN | GM_FORM | 1173.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MCEDTP4U2B | CE-ZN | GM_FORM | 973.15 | CeZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MEI23J6GDL | CE-ZN | GM_FORM | 1173.15 | CeZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MFTVHE3OCF | CE-ZN | GM_FORM | 1173.15 | Ce13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MMXDAHEPYE | CE-ZN | GM_FORM | 1173.15 | CeZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NMQOH7S6Z4 | CE-ZN | GM_FORM | 1173.15 | CeZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NOZQYF5A46 | CE-ZN | GM_FORM | 973.15 | Ce3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QALMUYRVLZ | CE-ZN | GM_FORM | 973.15 | Ce2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QJSEAQ5IRX | CE-ZN | GM_FORM | 973.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-S763I5XRQE | CE-ZN | GM_FORM | 973.15 | CeZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SI3RIE5BNR | CE-ZN | GM_FORM | 973.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-USKX4LDIIG | CE-ZN | GM_FORM | 973.15 | CeZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-UYVVGXTHP7 | CE-ZN | GM_FORM | 1173.15 | Ce3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-VSDOYLEF2H | CE-ZN | GM_FORM | 1173.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-WBPEYMXB56 | CE-ZN | GM_FORM | 973.15 | CeZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-YC57UPTDSC | CE-ZN | GM_FORM | 773.15 | Ce3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-5L35TGCFAL.ec28c3 | CR-GE | SM | 298.0 | CrGe | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-JJU3CGVLU7.826061 | CR-GE | SM | 298.0 | Cr11Ge19 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-IDEY4NU7GH.5fcb90 | CS-O | CPM | 298.15 | Cs4O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -668,9 +638,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-O7KYJO5SNX | GA-SE | SM | 298.0 | GaSe | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-RHIBFFNDTR | GA-SE | SM | 298.0 | GaSe | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-V3JJYGH5BO | GA-SE | SM | 298.0 | GaSe | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-B7SZWQWZ6C | GE-P | SM | 298.0 | Ge1P1 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3VTJ5UM27P | LI-SB | GM_FORM | 723.0 | Li3Sb | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-BDUZKOBQSG | LI-SB | GM_FORM | 630.0 | Li3Sb | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-FWLVF5XETV | LI-SB | GM_FORM | 630.0 | Li2Sb | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-SGNKL2MPDJ | LI-SB | GM_FORM | 723.0 | Li2Sb | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-3EP2RAVNHP.48e3a8 | MG-SI | SM | 298.0 | Mg2Si | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -734,30 +701,30 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-XUN66SPZKV | MG-SI | CPM | 763.0 | Mg2Si | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-XWHBO6WRRY | MG-SI | CPM | 643.0 | Mg2Si | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-ZIUDPR7GD4 | MG-SI | CPM | 723.0 | Mg2Si | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-2ATZQOQRCH | ND-ZN | GM_MIX | 1173.15 | NdZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3JVNQE5B23 | ND-ZN | GM_MIX | 773.15 | NdZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-5S524GOI3E | ND-ZN | GM_MIX | 1173.15 | Nd13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-6CSAUODHKB | ND-ZN | GM_MIX | 973.15 | NdZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-7BIOCWCKPS | ND-ZN | GM_MIX | 973.15 | Nd2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-B2EKXUYWTF | ND-ZN | GM_MIX | 1173.15 | Nd2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-B4M5M7NQAG | ND-ZN | GM_MIX | 1173.15 | NdZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-BXJ4QZGWMU | ND-ZN | GM_MIX | 973.15 | NdZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-CKSZCOWR27 | ND-ZN | GM_MIX | 773.15 | Nd2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-DHFHJXYE6K | ND-ZN | GM_MIX | 773.15 | NdZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-IAC6RDXQYL | ND-ZN | GM_MIX | 773.15 | Nd3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-K2QCSVOTRD | ND-ZN | GM_MIX | 773.15 | Nd13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-KDVU6VQ47C | ND-ZN | GM_MIX | 773.15 | NdZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-KWF4CVF4JV | ND-ZN | GM_MIX | 973.15 | Nd3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MZ5UATJ747 | ND-ZN | GM_MIX | 973.15 | NdZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-NAJNSOPOZH | ND-ZN | GM_MIX | 1173.15 | Nd3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-NHAXCP7Q64 | ND-ZN | GM_MIX | 1173.15 | NdZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-PXOL3HMSSA | ND-ZN | GM_MIX | 1173.15 | NdZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-QCPK3FIRBC | ND-ZN | GM_MIX | 973.15 | Nd3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SGI7ACYPEG | ND-ZN | GM_MIX | 773.15 | NdZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-TQ7SUM7POQ | ND-ZN | GM_MIX | 1173.15 | Nd3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-VUJTPRAOJY | ND-ZN | GM_MIX | 973.15 | Nd13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-W4A6Z3CVZQ | ND-ZN | GM_MIX | 773.15 | Nd3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-X464TN5H34 | ND-ZN | GM_MIX | 973.15 | NdZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-2ATZQOQRCH | ND-ZN | GM_FORM | 1173.15 | NdZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3JVNQE5B23 | ND-ZN | GM_FORM | 773.15 | NdZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-5S524GOI3E | ND-ZN | GM_FORM | 1173.15 | Nd13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-6CSAUODHKB | ND-ZN | GM_FORM | 973.15 | NdZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-7BIOCWCKPS | ND-ZN | GM_FORM | 973.15 | Nd2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-B2EKXUYWTF | ND-ZN | GM_FORM | 1173.15 | Nd2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-B4M5M7NQAG | ND-ZN | GM_FORM | 1173.15 | NdZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-BXJ4QZGWMU | ND-ZN | GM_FORM | 973.15 | NdZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-CKSZCOWR27 | ND-ZN | GM_FORM | 773.15 | Nd2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-DHFHJXYE6K | ND-ZN | GM_FORM | 773.15 | NdZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-IAC6RDXQYL | ND-ZN | GM_FORM | 773.15 | Nd3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-K2QCSVOTRD | ND-ZN | GM_FORM | 773.15 | Nd13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-KDVU6VQ47C | ND-ZN | GM_FORM | 773.15 | NdZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-KWF4CVF4JV | ND-ZN | GM_FORM | 973.15 | Nd3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MZ5UATJ747 | ND-ZN | GM_FORM | 973.15 | NdZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NAJNSOPOZH | ND-ZN | GM_FORM | 1173.15 | Nd3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NHAXCP7Q64 | ND-ZN | GM_FORM | 1173.15 | NdZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-PXOL3HMSSA | ND-ZN | GM_FORM | 1173.15 | NdZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QCPK3FIRBC | ND-ZN | GM_FORM | 973.15 | Nd3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SGI7ACYPEG | ND-ZN | GM_FORM | 773.15 | NdZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-TQ7SUM7POQ | ND-ZN | GM_FORM | 1173.15 | Nd3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-VUJTPRAOJY | ND-ZN | GM_FORM | 973.15 | Nd13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-W4A6Z3CVZQ | ND-ZN | GM_FORM | 773.15 | Nd3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-X464TN5H34 | ND-ZN | GM_FORM | 973.15 | NdZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-WR54NXQDJY | P-SI | SM | 298.15 | SiP | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2UVFZKE7S2.510392 | PB-Y | CPM | 743.0 | YPb3 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2UVFZKE7S2.a5a14d | PB-Y | CPM | 743.0 | Y5Pb4 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -923,47 +890,38 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZW2RBRTRQQ.3d3f39 | PB-Y | CPM | 383.0 | YPb2 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-ZW2RBRTRQQ.89d534 | PB-Y | CPM | 383.0 | Y5Pb4 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-ZW2RBRTRQQ.b8fa0d | PB-Y | CPM | 383.0 | Y5Pb3 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-2UZJC3N6JJ | PR-ZN | GM_MIX | 773.15 | αPr2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-33FDTG6NVN | PR-ZN | GM_MIX | 773.15 | Pr3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3UC2XEIAVB | PR-ZN | GM_MIX | 773.15 | PrZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-D3LXCAMZ7F | PR-ZN | GM_MIX | 773.15 | PrZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-DX5UMN4EJ2 | PR-ZN | GM_MIX | 773.15 | αPrZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MZ323ESQJ7 | PR-ZN | GM_MIX | 773.15 | Pr13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MZETKMPROX | PR-ZN | GM_MIX | 773.15 | PrZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-RVGYCWUQHI | PR-ZN | GM_MIX | 773.15 | PrZn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-X2C2KWPUJS | PR-ZN | GM_MIX | 773.15 | Pr3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-2UZJC3N6JJ | PR-ZN | GM_FORM | 773.15 | αPr2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-33FDTG6NVN | PR-ZN | GM_FORM | 773.15 | Pr3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3UC2XEIAVB | PR-ZN | GM_FORM | 773.15 | PrZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-D3LXCAMZ7F | PR-ZN | GM_FORM | 773.15 | PrZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-DX5UMN4EJ2 | PR-ZN | GM_FORM | 773.15 | αPrZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MZ323ESQJ7 | PR-ZN | GM_FORM | 773.15 | Pr13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MZETKMPROX | PR-ZN | GM_FORM | 773.15 | PrZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-RVGYCWUQHI | PR-ZN | GM_FORM | 773.15 | PrZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-X2C2KWPUJS | PR-ZN | GM_FORM | 773.15 | Pr3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-VURWOO5JZR.a2b842 | RE-TA | GM_FORM | 298.15 | TaRe1.5 (σ or χ) | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-VURWOO5JZR.d36f92 | RE-TA | GM_FORM | 298.15 | TaRe1.5 (σ or χ) | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-345NTR6DDL.0c5f20 | SI-TA | SM | 2045.0 | Si0.3333Ta0.6667 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-GIH62I4VZW.20f2dc | SI-TA | SM | 1027.0 | Si0.3333Ta0.6667 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-K6GMSBONRZ.3fe8b5 | SI-TA | SM | 2087.5 | Si0.25Ta0.75 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-OLNLWPIRLP.c37eb0 | SI-TA | SM | 1760.5 | Si0.6667Ta0.3333 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-32RUX5I6LW | SM-ZN | GM_MIX | 973.15 | Sm3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-34PUB3JLDB | SM-ZN | GM_MIX | 973.15 | Sm13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3GSTV6FR7O | SM-ZN | GM_MIX | 973.15 | SmZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3WWXG3KLXW | SM-ZN | GM_MIX | 1173.15 | SmZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-44DYV436VP | SM-ZN | GM_MIX | 973.15 | SmZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-5SGYRKTL4Z | SM-ZN | GM_MIX | 1173.15 | SmZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-CCKH2ZC3OC | SM-ZN | GM_MIX | 773.15 | SmZn2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-CSB4QY535P | SM-ZN | GM_MIX | 773.15 | SmZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-DZZVET53KI | SM-ZN | GM_MIX | 973.15 | Sm3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-ENYC5DGVKJ | SM-ZN | GM_MIX | 973.15 | Sm2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-IOXMXKWJEN | SM-ZN | GM_MIX | 1173.15 | Sm3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-KJUINFJ4PN | SM-ZN | GM_MIX | 973.15 | SmZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-MIGPL255DV | SM-ZN | GM_MIX | 773.15 | Sm2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-NO76GSQUOM | SM-ZN | GM_MIX | 773.15 | SmZn3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-QICZWTTHCR | SM-ZN | GM_MIX | 1173.15 | SmZn | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-RPTA4PZEF7 | SM-ZN | GM_MIX | 773.15 | Sm3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-RSMAR3WZAH | SM-ZN | GM_MIX | 1173.15 | Sm3Zn22 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SJLG4VVRQL | SM-ZN | GM_MIX | 773.15 | Sm3Zn11 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-T2W7HHQI4L | SM-ZN | GM_MIX | 1173.15 | Sm2Zn17 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-XHOHAWLLOO | SM-ZN | GM_MIX | 1173.15 | Sm13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-ZTYQWQQDBR | SM-ZN | GM_MIX | 773.15 | Sm13Zn58 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-JUCGQY5M4A | CO-TH | INVARIANT_TEMPERATURE | 695.15 | αCo, εCo, L | liquid_impossible_at_T | liquid at 695.15 K, below 987 K (calculated_sgte_diagram) |
-| ORC-W4VI3EMFMR | CO-TH | INVARIANT_TEMPERATURE | 695.15 | αCo, εCo, L | liquid_impossible_at_T | liquid at 695.15 K, below 987 K (calculated_sgte_diagram) |
-| ORC-3KJCNBMBQI | HF-MN | PHASE_COMPOSITION | 973.15 | liquid | liquid_impossible_at_T | liquid at 973.15 K, below 1185 K (calculated_sgte_diagram) |
-| ORC-OI6UCVJ5NJ | HF-MN | PHASE_COMPOSITION | 973.15 | liquid | liquid_impossible_at_T | liquid at 973.15 K, below 1185 K (calculated_sgte_diagram) |
-| ORC-ZC773CVD62 | HF-MN | PHASE_COMPOSITION | 973.15 | liquid | liquid_impossible_at_T | liquid at 973.15 K, below 1185 K (calculated_sgte_diagram) |
+| ORC-32RUX5I6LW | SM-ZN | GM_FORM | 973.15 | Sm3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-34PUB3JLDB | SM-ZN | GM_FORM | 973.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3GSTV6FR7O | SM-ZN | GM_FORM | 973.15 | SmZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3WWXG3KLXW | SM-ZN | GM_FORM | 1173.15 | SmZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-44DYV436VP | SM-ZN | GM_FORM | 973.15 | SmZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-5SGYRKTL4Z | SM-ZN | GM_FORM | 1173.15 | SmZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-CCKH2ZC3OC | SM-ZN | GM_FORM | 773.15 | SmZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-CSB4QY535P | SM-ZN | GM_FORM | 773.15 | SmZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-DZZVET53KI | SM-ZN | GM_FORM | 973.15 | Sm3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ENYC5DGVKJ | SM-ZN | GM_FORM | 973.15 | Sm2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-IOXMXKWJEN | SM-ZN | GM_FORM | 1173.15 | Sm3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-KJUINFJ4PN | SM-ZN | GM_FORM | 973.15 | SmZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-MIGPL255DV | SM-ZN | GM_FORM | 773.15 | Sm2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NO76GSQUOM | SM-ZN | GM_FORM | 773.15 | SmZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QICZWTTHCR | SM-ZN | GM_FORM | 1173.15 | SmZn | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-RPTA4PZEF7 | SM-ZN | GM_FORM | 773.15 | Sm3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-RSMAR3WZAH | SM-ZN | GM_FORM | 1173.15 | Sm3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SJLG4VVRQL | SM-ZN | GM_FORM | 773.15 | Sm3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-T2W7HHQI4L | SM-ZN | GM_FORM | 1173.15 | Sm2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-XHOHAWLLOO | SM-ZN | GM_FORM | 1173.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ZTYQWQQDBR | SM-ZN | GM_FORM | 773.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-CIPJAZEEG7 | MO-O | INVARIANT_TEMPERATURE | 1053.15 | L, Mo8O23, Mo9O26 | liquid_impossible_at_T | liquid at 1053.15 K, below 1985 K (calculated_sgte_diagram) |
 | ORC-DUVVS2WS3I | MO-O | INVARIANT_TEMPERATURE | 1051.15 | L, Mo9O26, MoO3 | liquid_impossible_at_T | liquid at 1051.15 K, below 1985 K (calculated_sgte_diagram) |
 | ORC-UUOU4YRKZL | MO-O | INVARIANT_TEMPERATURE | 1091.15 | L, MoO2, Mo4O11 | liquid_impossible_at_T | liquid at 1091.15 K, below 1985 K (calculated_sgte_diagram) |
@@ -998,12 +956,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-STEFK5VKOZ | GE-RU | HM_FORM | 298.0 | Ru2Ge3 | phase_label_ambiguous | label 'Ru2Ge3' |
 | ORC-4KBCL5U4BH.046030 | LI-SB | SM_FORM | 686.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
 | ORC-4KBCL5U4BH.342b48 | LI-SB | HM_FORM | 686.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
-| ORC-4KBCL5U4BH.5cf9aa | LI-SB | HM_FORM | 686.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
-| ORC-4KBCL5U4BH.83f318 | LI-SB | SM_FORM | 686.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
 | ORC-L3ZY532BLT.85a76f | LI-SB | HM_FORM | 700.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
-| ORC-L3ZY532BLT.a91cd1 | LI-SB | HM_FORM | 700.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
 | ORC-L3ZY532BLT.f04169 | LI-SB | SM_FORM | 700.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
-| ORC-L3ZY532BLT.fa1aab | LI-SB | SM_FORM | 700.65 | Li3Sb | phase_label_ambiguous | label 'Li3Sb' |
 | ORC-4ID3VNUSY5.45dd63 | MG-NI | GM_FORM | 298.15 | Mg2Ni | phase_label_ambiguous | label 'Mg2Ni' |
 | ORC-4ID3VNUSY5.ba10f5 | MG-NI | HM_FORM | 298.15 | Mg2Ni | phase_label_ambiguous | label 'Mg2Ni' |
 | ORC-4ID3VNUSY5.e2a598 | MG-NI | SM_FORM | 298.15 | Mg2Ni | phase_label_ambiguous | label 'Mg2Ni' |
@@ -1037,9 +991,9 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-HO7JT6JFYO.6095fb | SI-TA | HM_FORM | 298.15 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-OEWHAHTIO4.06dce4 | SI-TA | HM_FORM | 298.15 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-OVSTHRO2TO.ad70dc | SI-TA | HM_FORM | 1027.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
-| ORC-OVSTHRO2TO.cff80a | SI-TA | SM | 1027.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
+| ORC-OVSTHRO2TO.cff80a | SI-TA | SM_FORM | 1027.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-RBNDQYDXRA.5f2d77 | SI-TA | HM_FORM | 298.15 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
-| ORC-WLRX6KX33K.3c6241 | SI-TA | SM | 1900.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
+| ORC-WLRX6KX33K.3c6241 | SI-TA | SM_FORM | 1900.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-WLRX6KX33K.5fec23 | SI-TA | HM_FORM | 1900.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-FSYVSAZKHR | SI-U | HM_FORM | 298.0 | U3Si | phase_label_ambiguous | label 'U3Si' |
 | ORC-C3QDI5675C | SN-TI | HM_FORM | 298.15 | Sn5Ti6-L | phase_label_ambiguous | label 'Sn5Ti6-L' |
@@ -1317,8 +1271,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-W37THFZ6PU.4c9892 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
 | ORC-XAWUXWICRX | C-SI-Y | HM_FORM | 0.0 | Y3Si5 (H) | phase_label_not_mapped | label 'Y3Si5 (H)' |
 | ORC-ZQPMERZ45A.425703 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
-| ORC-23LMFZEDJ3.b8462d | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-23LMFZEDJ3.e74a63 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-23ZIGYN2CV.7c099c | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-23ZIGYN2CV.7ebd39 | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-242GA7RIKL.112092 | C-U | SM | 298.0 | UC | phase_label_not_mapped | label 'UC' |
@@ -1330,8 +1282,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-33GIIPQBST.42a541 | C-U | CPM | 1878.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-35WTM76WD5.0b8b03 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-35WTM76WD5.5dd804 | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
-| ORC-3RZ6TU34RS.1137ac | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-3RZ6TU34RS.cc2905 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-47ONJBEWJ2.a6fe81 | C-U | CPM | 2086.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-4CFQMJELGT.2ff41b | C-U | CPM | 2016.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-5NWPLLHV2M.31e06b | C-U | CPM | 2200.0 | UC | phase_label_not_mapped | label 'UC' |
@@ -1352,8 +1302,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-7WUCDPAEKW.41207d | C-U | SM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-7WUCDPAEKW.83bfaa | C-U | SM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-AMBA2N3OEV.0a0b35 | C-U | CPM | 2021.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
-| ORC-ASKM5EDP34.8598fe | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-ASKM5EDP34.8fa1f1 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-AUIGU4S7VE.2b76ff | C-U | CPM | 900.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-AUIGU4S7VE.4886cd | C-U | SM | 900.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-AUIGU4S7VE.55d6e6 | C-U | CPM | 900.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
@@ -1381,8 +1329,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ES37M7DMUN.b78494 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-FCF7WKQFEH.470641 | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-FCF7WKQFEH.f6f8d2 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
-| ORC-FF63YFFYO3.45ee3a | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-FF63YFFYO3.b8001b | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-FQQ72T5BVR.1c87a1 | C-U | SM | 1100.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-FQQ72T5BVR.21ff0d | C-U | SM | 1100.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
 | ORC-FQQ72T5BVR.5f4e2c | C-U | CPM | 1100.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
@@ -1394,8 +1340,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-GHYX64I4DB.ef723e | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-GLBOSZMY2N.c68743 | C-U | CPM | 2600.0 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-HRMZYM7VPM.700fbe | C-U | CPM | 1800.0 | UC | phase_label_not_mapped | label 'UC' |
-| ORC-I4XPE6VQ6O.e57e1f | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-I4XPE6VQ6O.fe9113 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-IDV2HJJECD.0560a2 | C-U | SM | 2700.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
 | ORC-IDV2HJJECD.733ce7 | C-U | CPM | 2700.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
 | ORC-IDV2HJJECD.bc073e | C-U | CPM | 2700.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
@@ -1406,8 +1350,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-IRAA2SNWE5.cd1c77 | C-U | CPM | 2800.0 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-IT2MHOE4W4.887ab0 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-JBX7HQDS7G.48afb6 | C-U | CPM | 2400.0 | UC | phase_label_not_mapped | label 'UC' |
-| ORC-JEPXUPFBD7.dea7af | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-JEPXUPFBD7.fe4138 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-JMWXRWYCEH.350576 | C-U | CPM | 2581.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-JPXGWKLMR5.6405f9 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-JRXWAA3IRP.fc8bf0 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
@@ -1419,10 +1361,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-KISHC7YH3P.1eb510 | C-U | SM | 2300.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-KISHC7YH3P.2e23a9 | C-U | SM | 2300.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
 | ORC-KISHC7YH3P.b9846d | C-U | CPM | 2300.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
-| ORC-KJAT56SYAN.06bb1b | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-KJAT56SYAN.8478bf | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-KNYQSCZWFT.11a862 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-KNYQSCZWFT.b18900 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-KOAT4GY3FO.2445a8 | C-U | SM | 700.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-KOAT4GY3FO.4545b9 | C-U | SM | 700.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
 | ORC-KOAT4GY3FO.9a68a6 | C-U | CPM | 700.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
@@ -1432,8 +1370,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-L4EOA2SNCV.a9c9ea | C-U | HM_FORM | 298.0 | C0.600U0.400 | phase_label_not_mapped | label 'C0.600U0.400' |
 | ORC-LFAO5SSXMK.234b29 | C-U | SM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-LFAO5SSXMK.be0345 | C-U | SM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
-| ORC-LRPJNWXWY5.def10a | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-LRPJNWXWY5.e8ad5b | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-LSSFSIWPPD.4155ca | C-U | CPM | 900.0 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-LV4SGXSJXS.c02e76 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-LV4SGXSJXS.c70eb3 | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
@@ -1452,8 +1388,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-N5YTMMR3NQ.a08881 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-N5YTMMR3NQ.ed91bf | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-O56OVTZ7KS.3c6ad0 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
-| ORC-O5VIMRM6X4.0e7d4b | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-O5VIMRM6X4.55aa73 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-O7DR3NZX3M.b72d9c | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-OBDHR3TCXP.36f004 | C-U | CPM | 1484.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-OIY4EEX2ZX.3024a9 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
@@ -1501,28 +1435,18 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-U2FVIYX4LQ.84fb4f | C-U | CPM | 2800.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-U4A6PGMXIO.13e647 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-U7PC23R5WQ.7f3d32 | C-U | CPM | 1200.0 | UC | phase_label_not_mapped | label 'UC' |
-| ORC-UNOU4VZYYJ.08ffe6 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-UNOU4VZYYJ.86604e | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-UQQOVF2DGH.af465e | C-U | CPM | 1490.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-UVTDLRXYEZ.77aa87 | C-U | CPM | 2213.0 | UC1.93 | phase_label_not_mapped | label 'UC1.93' |
 | ORC-V5HTCHAXS3.970e9d | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-V5HTCHAXS3.f6db42 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-V6DLUQK6M5.d5abc5 | C-U | CPM | 1700.0 | UC | phase_label_not_mapped | label 'UC' |
-| ORC-VCL6LMCTP7.61c7ac | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-VCL6LMCTP7.bb4335 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-VDPK37734P.2e33e0 | C-U | SM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-VDPK37734P.95297c | C-U | SM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
 | ORC-WDZEJ6KIOW.7378d7 | C-U | CPM | 1600.0 | UC | phase_label_not_mapped | label 'UC' |
-| ORC-X6FNNMPFMR.5199ec | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
-| ORC-X6FNNMPFMR.a7d252 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
 | ORC-X6FQXSGJHQ.3a6d75 | C-U | HM_FORM | 298.0 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-X6FQXSGJHQ.b2b226 | C-U | HM_FORM | 298.0 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
-| ORC-XGUHSXJE72.368816 | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-XGUHSXJE72.8e66e3 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-XJ75CNS7EI.37e936 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-XPCVX2GVQA.4c8015 | C-U | HM_FORM | 298.0 | C0.600U0.400 | phase_label_not_mapped | label 'C0.600U0.400' |
-| ORC-XPXBHUS5OY.a832da | C-U | SM | 298.15 | UC1.9 (U0.345C0.655) | phase_label_not_mapped | label 'UC1.9 (U0.345C0.655)' |
-| ORC-XPXBHUS5OY.ff5c08 | C-U | SM | 298.15 | UC1.9 | phase_label_not_mapped | label 'UC1.9' |
 | ORC-XRQGUG57XK.61c146 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
 | ORC-XS7NDN5RPG.681976 | C-U | SM | 1900.0 | U0.345C0.655 | phase_label_not_mapped | label 'U0.345C0.655' |
 | ORC-XS7NDN5RPG.ac7179 | C-U | SM | 1900.0 | U0.500C0.500 | phase_label_not_mapped | label 'U0.500C0.500' |
@@ -1835,427 +1759,177 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-YTPULMUAG2.3a933d | SN-TI | HM_FORM | 298.15 | Sn3Ti5 | phase_label_not_mapped | label 'Sn3Ti5' |
 | ORC-YTPULMUAG2.da0b8e | SN-TI | HM_FORM | 298.15 | SnTi3 | phase_label_not_mapped | label 'SnTi3' |
 | ORC-2ARHPO6ULI.9c5c44 | AG-PB | CPM | 680.646 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2ARHPO6ULI.f80d4a | AG-PB | CPM | 680.646 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2HZ4HO7VKQ.8d78c3 | AG-PB | CPM | 917.968 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-2HZ4HO7VKQ.eca7c0 | AG-PB | CPM | 917.968 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-3DTAFVIJ57.14fb4f | AG-PB | CPM | 674.664 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DTAFVIJ57.24db24 | AG-PB | CPM | 674.664 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DTHACXC4T.7829d4 | AG-PB | CPM | 642.769 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-3DTHACXC4T.d9eb4c | AG-PB | CPM | 642.769 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-3LN4ERBOIM.6a4804 | AG-PB | CPM | 728.523 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3LN4ERBOIM.c07bf5 | AG-PB | CPM | 728.523 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-44RRBDE2J3.127e38 | AG-PB | CPM | 686.632 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-44RRBDE2J3.b260d0 | AG-PB | CPM | 686.632 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4DHTNZ4RGV.74ef13 | AG-PB | CPM | 882.066 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4DHTNZ4RGV.d71f3e | AG-PB | CPM | 882.066 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4PVRTK5W6F.11db0b | AG-PB | CPM | 951.866 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4PVRTK5W6F.40a6ee | AG-PB | CPM | 951.866 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4QJKHOGSFE.8b7647 | AG-PB | CPM | 798.296 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4QJKHOGSFE.a70b53 | AG-PB | CPM | 798.296 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4QN3QJYDQA.78bec4 | AG-PB | CPM | 929.937 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4QN3QJYDQA.7a96f1 | AG-PB | CPM | 929.937 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4THI2UYU76.131cfc | AG-PB | CPM | 770.407 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4THI2UYU76.f00a6e | AG-PB | CPM | 770.407 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4ZMIAUXC6R.1fb3e3 | AG-PB | CPM | 900.015 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4ZMIAUXC6R.c046b4 | AG-PB | CPM | 900.015 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5G35LAPOWB.704587 | AG-PB | CPM | 684.636 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-5G35LAPOWB.8d495e | AG-PB | CPM | 684.636 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5IQH544QDY.776b5c | AG-PB | CPM | 874.089 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-5IQH544QDY.cd6539 | AG-PB | CPM | 874.089 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6SVBLFA6BT.845f73 | AG-PB | CPM | 872.094 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-6SVBLFA6BT.a72bb3 | AG-PB | CPM | 872.094 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-6WLYXL2FQA.20d5f6 | AG-PB | CPM | 808.271 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6WLYXL2FQA.7f3f0b | AG-PB | CPM | 808.271 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-73IVDAIKMQ.8a2be3 | AG-PB | CPM | 712.563 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-73IVDAIKMQ.e48566 | AG-PB | CPM | 712.563 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-76ZT2FWALX.62f32f | AG-PB | CPM | 953.859 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-76ZT2FWALX.d61cf5 | AG-PB | CPM | 953.859 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7BB4CKBGHU.20414f | AG-PB | CPM | 898.023 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7BB4CKBGHU.edf08e | AG-PB | CPM | 898.023 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7G2K4CJPY5.576e46 | AG-PB | CPM | 774.375 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7G2K4CJPY5.b74718 | AG-PB | CPM | 774.375 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7K6DEW2CLD.65a739 | AG-PB | CPM | 886.057 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7K6DEW2CLD.e6f93b | AG-PB | CPM | 886.057 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7KPULGBBA4.2d6291 | AG-PB | CPM | 778.359 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7KPULGBBA4.5ee390 | AG-PB | CPM | 778.359 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7MCNUQTPUQ.83179d | AG-PB | CPM | 935.923 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7MCNUQTPUQ.890fa0 | AG-PB | CPM | 935.923 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7OIUJD4DZG.24a84c | AG-PB | CPM | 664.696 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7OIUJD4DZG.70c423 | AG-PB | CPM | 664.696 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7XP3AX7IK2.32cb0d | AG-PB | CPM | 909.988 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7XP3AX7IK2.cdcdb1 | AG-PB | CPM | 909.988 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-AB5MDPD4FL.4ae0da | AG-PB | CPM | 748.467 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AB5MDPD4FL.c1e1c7 | AG-PB | CPM | 748.467 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ANPS4KLMKO.6ff3bc | AG-PB | CPM | 692.614 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ANPS4KLMKO.c0dc7c | AG-PB | CPM | 692.614 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ANUGQC7BJO.0cc41f | AG-PB | CPM | 820.231 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ANUGQC7BJO.f599de | AG-PB | CPM | 820.231 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-AWW23FBCHH.06e20e | AG-PB | CPM | 660.709 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AWW23FBCHH.86fd21 | AG-PB | CPM | 660.709 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-B7PCQBKCNB.7144e0 | AG-PB | CPM | 702.59 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-B7PCQBKCNB.d05837 | AG-PB | CPM | 702.59 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BIIJFGEOB5.94513d | AG-PB | CPM | 840.175 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BIIJFGEOB5.ae8679 | AG-PB | CPM | 840.175 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BNTYA7EMG3.9cff4c | AG-PB | CPM | 698.596 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BNTYA7EMG3.cfdf9f | AG-PB | CPM | 698.596 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BUHNMWLZCZ.1fd5d7 | AG-PB | CPM | 856.135 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BUHNMWLZCZ.63deda | AG-PB | CPM | 856.135 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BWHINBDKJR.55496a | AG-PB | CPM | 704.583 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BWHINBDKJR.914d42 | AG-PB | CPM | 704.583 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BX5FPVVQIV.480dfe | AG-PB | CPM | 961.838 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BX5FPVVQIV.c3e477 | AG-PB | CPM | 961.838 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-C2X4WAPT5Q.171c42 | AG-PB | CPM | 700.593 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-C2X4WAPT5Q.6b3efa | AG-PB | CPM | 700.593 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CFDTEF4RTJ.1eac58 | AG-PB | CPM | 720.543 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CFDTEF4RTJ.d8a47b | AG-PB | CPM | 720.543 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CMHLS3QI77.48271e | AG-PB | CPM | 750.461 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CMHLS3QI77.d5fc45 | AG-PB | CPM | 750.461 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CP5N3NWNTK.9640af | AG-PB | CPM | 925.946 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CP5N3NWNTK.c581fc | AG-PB | CPM | 925.946 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CPTWEBCT4N.661f09 | AG-PB | CPM | 848.155 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CPTWEBCT4N.aa8394 | AG-PB | CPM | 848.155 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CX2B7EYOFW.318d1c | AG-PB | CPM | 902.011 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CX2B7EYOFW.f2a50e | AG-PB | CPM | 902.011 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-D7G7L6WRQE.cd5c4a | AG-PB | CPM | 830.199 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-D7G7L6WRQE.dd6287 | AG-PB | CPM | 830.199 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DBSAYIEL4U.643b6c | AG-PB | CPM | 832.193 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DBSAYIEL4U.fddf9e | AG-PB | CPM | 832.193 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DEK6AYBJHT.120a24 | AG-PB | CPM | 931.931 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DEK6AYBJHT.43efd5 | AG-PB | CPM | 931.931 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DG2PEM2S2X.6e6130 | AG-PB | CPM | 941.902 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DG2PEM2S2X.761d49 | AG-PB | CPM | 941.902 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DPGBPT3V25.90b818 | AG-PB | CPM | 816.244 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DPGBPT3V25.d68bb2 | AG-PB | CPM | 816.244 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DR3BILJDS2.49b7af | AG-PB | CPM | 690.62 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DR3BILJDS2.8293df | AG-PB | CPM | 690.62 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DT3W5U462R.1a4b8c | AG-PB | CPM | 894.037 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DT3W5U462R.a0895c | AG-PB | CPM | 894.037 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DTG2NLHDOA.425856 | AG-PB | CPM | 955.852 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DTG2NLHDOA.50dcf6 | AG-PB | CPM | 955.852 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DVMRXMFPWW.341a8c | AG-PB | CPM | 740.495 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DVMRXMFPWW.ad413e | AG-PB | CPM | 740.495 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DW3WA5UZ2E.223222 | AG-PB | CPM | 746.473 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DW3WA5UZ2E.624362 | AG-PB | CPM | 746.473 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-E7J5DCWKP6.01269b | AG-PB | CPM | 868.103 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-E7J5DCWKP6.17ae45 | AG-PB | CPM | 868.103 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-EOKHJKO32F.3e36bd | AG-PB | CPM | 760.435 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EOKHJKO32F.a06714 | AG-PB | CPM | 760.435 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ES52JMIQRA.26693f | AG-PB | CPM | 826.214 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ES52JMIQRA.5a9a84 | AG-PB | CPM | 826.214 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EVWFSM6URM.9494eb | AG-PB | CPM | 818.237 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-EVWFSM6URM.f2783d | AG-PB | CPM | 818.237 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-F25SXBIYWD.29e35c | AG-PB | CPM | 734.507 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F25SXBIYWD.a1f8c3 | AG-PB | CPM | 734.507 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F43ZTPAGRR.71ed62 | AG-PB | CPM | 864.117 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-F43ZTPAGRR.c7551c | AG-PB | CPM | 864.117 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FD6ERMCM5M.8f7ef1 | AG-PB | CPM | 919.962 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FD6ERMCM5M.a1c831 | AG-PB | CPM | 919.962 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FEGVM5GGM4.152feb | AG-PB | CPM | 764.423 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FEGVM5GGM4.abb3f6 | AG-PB | CPM | 764.423 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FIMHIPPOLZ.7287c5 | AG-PB | CPM | 892.04 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FIMHIPPOLZ.f3cf8a | AG-PB | CPM | 892.04 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FJCKTDLWSS.69deb1 | AG-PB | CPM | 634.791 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FJCKTDLWSS.8c0d76 | AG-PB | CPM | 634.791 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FMO26DINAI.075ace | AG-PB | CPM | 696.603 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FMO26DINAI.ce78c4 | AG-PB | CPM | 696.603 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FWY2SEEVQ2.37a6b1 | AG-PB | CPM | 678.651 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FWY2SEEVQ2.c0e634 | AG-PB | CPM | 678.651 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FX5JGS2X4Z.a9c91d | AG-PB | CPM | 650.744 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FX5JGS2X4Z.fd9a12 | AG-PB | CPM | 650.744 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-FXYTFJCBFB.443bd6 | AG-PB | CPM | 806.275 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FXYTFJCBFB.e74ee1 | AG-PB | CPM | 806.275 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-G26IFHJTTF.041b5d | AG-PB | CPM | 947.882 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G26IFHJTTF.9e672d | AG-PB | CPM | 947.882 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-G47SYJZMSP.3ad3f8 | AG-PB | CPM | 772.403 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G47SYJZMSP.aaa56b | AG-PB | CPM | 772.403 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-GACCIRXF2N.a60fcd | AG-PB | CPM | 963.83 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GACCIRXF2N.cc64c4 | AG-PB | CPM | 963.83 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-GCSXGCEUZY.26413d | AG-PB | CPM | 854.14 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GCSXGCEUZY.cc2480 | AG-PB | CPM | 854.14 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-GO6SQI7PIT.da36f5 | AG-PB | CPM | 732.512 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GO6SQI7PIT.f2f306 | AG-PB | CPM | 732.512 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-GYPW6QVUJV.3de26d | AG-PB | CPM | 822.225 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GYPW6QVUJV.d603b9 | AG-PB | CPM | 822.225 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-H5HXDBZOED.578fff | AG-PB | CPM | 718.549 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H5HXDBZOED.afec55 | AG-PB | CPM | 718.549 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-HICGZP6YMM.af8370 | AG-PB | CPM | 738.496 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HICGZP6YMM.b89e87 | AG-PB | CPM | 738.496 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HLLVOCEUYM.0f5111 | AG-PB | CPM | 644.761 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-HLLVOCEUYM.a6cbeb | AG-PB | CPM | 644.761 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-HORFYHR2KI.8c026c | AG-PB | CPM | 708.572 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HORFYHR2KI.b93920 | AG-PB | CPM | 708.572 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-HQWLBCQIBY.a4cf3f | AG-PB | CPM | 654.732 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HQWLBCQIBY.a90b52 | AG-PB | CPM | 654.732 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-INNY76UX7G.d6246b | AG-PB | CPM | 943.897 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-INNY76UX7G.f92ff0 | AG-PB | CPM | 943.897 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IZ45Z5LUWX.25ad07 | AG-PB | CPM | 858.13 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-IZ45Z5LUWX.8bf049 | AG-PB | CPM | 858.13 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-J5GO7LZIPM.491b25 | AG-PB | CPM | 862.122 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J5GO7LZIPM.c94c61 | AG-PB | CPM | 862.122 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-J6H4EQXXAS.01826f | AG-PB | CPM | 812.26 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J6H4EQXXAS.3f02c2 | AG-PB | CPM | 812.26 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J7GW2ZTWE2.ce9f7f | AG-PB | CPM | 896.032 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-J7GW2ZTWE2.d1f409 | AG-PB | CPM | 896.032 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JBTX3RU756.5b1313 | AG-PB | CPM | 814.253 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JBTX3RU756.5b6904 | AG-PB | CPM | 814.253 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JMF7UEXZGW.bf1f0e | AG-PB | CPM | 834.189 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JMF7UEXZGW.e70d3a | AG-PB | CPM | 834.189 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JOJC77ELUW.1dc893 | AG-PB | CPM | 752.457 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JOJC77ELUW.4a1f57 | AG-PB | CPM | 752.457 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JQDOBITKUH.d6c083 | AG-PB | CPM | 937.917 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JQDOBITKUH.f2ad76 | AG-PB | CPM | 937.917 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JTIG6SA6N7.23e52d | AG-PB | CPM | 730.516 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JTIG6SA6N7.cbc285 | AG-PB | CPM | 730.516 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KDDUX3YVXS.ab7554 | AG-PB | CPM | 754.452 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-KDDUX3YVXS.d433ed | AG-PB | CPM | 754.452 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KT473ORKEL.ae9b3b | AG-PB | CPM | 762.429 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-KT473ORKEL.c08409 | AG-PB | CPM | 762.429 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KZ236DSTN3.888118 | AG-PB | CPM | 688.627 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-KZ236DSTN3.bde1ff | AG-PB | CPM | 688.627 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-L7W2FWUUAG.7a28ac | AG-PB | CPM | 880.071 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-L7W2FWUUAG.daaf97 | AG-PB | CPM | 880.071 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-LTM345PTHJ.09528e | AG-PB | CPM | 866.112 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LTM345PTHJ.b80697 | AG-PB | CPM | 866.112 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-LUV7WT4PIM.ed894f | AG-PB | CPM | 878.076 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LUV7WT4PIM.f24786 | AG-PB | CPM | 878.076 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-LW4YQECFOW.067678 | AG-PB | CPM | 888.052 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LW4YQECFOW.1d920c | AG-PB | CPM | 888.052 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-M3EMMXWKI5.5f07f4 | AG-PB | CPM | 776.366 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-M3EMMXWKI5.d59950 | AG-PB | CPM | 776.366 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-M3NHBGRPD3.496db3 | AG-PB | CPM | 768.411 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-M3NHBGRPD3.769e66 | AG-PB | CPM | 768.411 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MCRPXOH7QK.536c01 | AG-PB | CPM | 927.942 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MCRPXOH7QK.e9edec | AG-PB | CPM | 927.942 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MITYBTEMHY.4ec620 | AG-PB | CPM | 676.658 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MITYBTEMHY.fcc4f4 | AG-PB | CPM | 676.658 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MJ4OKSE2PO.9be3be | AG-PB | CPM | 915.974 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MJ4OKSE2PO.d25102 | AG-PB | CPM | 915.974 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MKTYSCGYUI.5125b7 | AG-PB | CPM | 846.161 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MKTYSCGYUI.a7c68e | AG-PB | CPM | 846.161 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MP5JWNP5WT.6613bc | AG-PB | CPM | 766.417 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MP5JWNP5WT.d1e4ff | AG-PB | CPM | 766.417 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MRURU6UP3U.34dc3d | AG-PB | CPM | 939.909 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MRURU6UP3U.d84dd6 | AG-PB | CPM | 939.909 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MTVLG7PHWW.7dddde | AG-PB | CPM | 876.081 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MTVLG7PHWW.aac8c7 | AG-PB | CPM | 876.081 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N3Y4FECV2I.70085f | AG-PB | CPM | 758.439 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-N3Y4FECV2I.ae0ffd | AG-PB | CPM | 758.439 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N5CR2YJPFK.5a56b0 | AG-PB | CPM | 824.22 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-N5CR2YJPFK.67c26b | AG-PB | CPM | 824.22 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NLWT6JLS3U.3092c3 | AG-PB | CPM | 672.669 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NLWT6JLS3U.4a5023 | AG-PB | CPM | 672.669 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NPKLDCXGQX.01716c | AG-PB | CPM | 670.673 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NPKLDCXGQX.391d22 | AG-PB | CPM | 670.673 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NPOEMECNIQ.059c2c | AG-PB | CPM | 726.53 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NPOEMECNIQ.dfb773 | AG-PB | CPM | 726.53 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NXN562PQJK.4d5010 | AG-PB | CPM | 710.567 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NXN562PQJK.82b699 | AG-PB | CPM | 710.567 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-O5GRRVAREL.a2d65d | AG-PB | CPM | 744.482 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-O5GRRVAREL.bb1e42 | AG-PB | CPM | 744.482 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OCVZNJN45Q.7cec6b | AG-PB | CPM | 724.534 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OCVZNJN45Q.eb7d68 | AG-PB | CPM | 724.534 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OIXPZTKC6J.34e196 | AG-PB | CPM | 965.825 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OIXPZTKC6J.47f1bf | AG-PB | CPM | 965.825 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OOJTOZE6NG.6f73bb | AG-PB | CPM | 714.558 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OOJTOZE6NG.bc679a | AG-PB | CPM | 714.558 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OPELXV3XPC.72670e | AG-PB | CPM | 790.318 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OPELXV3XPC.93308e | AG-PB | CPM | 790.318 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PHJBV4QMWD.17663e | AG-PB | CPM | 836.186 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PHJBV4QMWD.deda7e | AG-PB | CPM | 836.186 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PJD6DGUC2G.1d671c | AG-PB | CPM | 636.787 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PJD6DGUC2G.38984c | AG-PB | CPM | 636.787 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-POUB35V4H2.df5da9 | AG-PB | CPM | 666.69 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-POUB35V4H2.fe63de | AG-PB | CPM | 666.69 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PQORXAAKDA.201f64 | AG-PB | CPM | 933.927 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PQORXAAKDA.a44883 | AG-PB | CPM | 933.927 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PRQP2MPCBB.9a7973 | AG-PB | CPM | 800.291 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PRQP2MPCBB.b3a0e2 | AG-PB | CPM | 800.291 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PU7P3TBJPC.a0419c | AG-PB | CPM | 736.499 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PU7P3TBJPC.b3e359 | AG-PB | CPM | 736.499 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-PUOQS2ITTA.77ec8d | AG-PB | CPM | 949.874 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PUOQS2ITTA.c947d9 | AG-PB | CPM | 949.874 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-Q3OG23H5JP.aa4378 | AG-PB | CPM | 780.354 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Q3OG23H5JP.fb1be8 | AG-PB | CPM | 780.354 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Q3SAPDQ4BY.2b4755 | AG-PB | CPM | 782.349 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-Q3SAPDQ4BY.c98efb | AG-PB | CPM | 782.349 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QLI5ATQBRP.3913f1 | AG-PB | CPM | 716.553 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-QLI5ATQBRP.ffe8e9 | AG-PB | CPM | 716.553 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-R2SGFHFUJ4.4c9c4b | AG-PB | CPM | 646.753 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-R2SGFHFUJ4.8cad09 | AG-PB | CPM | 646.753 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RBS5T6XIB7.66bcd9 | AG-PB | CPM | 722.537 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RBS5T6XIB7.6e4439 | AG-PB | CPM | 722.537 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RGGOFP6WR6.b81676 | AG-PB | CPM | 794.308 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RGGOFP6WR6.c07d09 | AG-PB | CPM | 794.308 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RHTRM4DYHC.45e600 | AG-PB | CPM | 796.301 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RHTRM4DYHC.ec7d45 | AG-PB | CPM | 796.301 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RVEZT323R6.1c357c | AG-PB | CPM | 921.957 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RVEZT323R6.d0dd7f | AG-PB | CPM | 921.957 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RZBPECWZJL.0e07b2 | AG-PB | CPM | 852.144 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RZBPECWZJL.5a916a | AG-PB | CPM | 852.144 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SABGQAJGD7.434714 | AG-PB | CPM | 786.334 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SABGQAJGD7.f7587a | AG-PB | CPM | 786.334 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SKRKBZPI3V.242a51 | AG-PB | CPM | 802.285 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SKRKBZPI3V.f0b7e6 | AG-PB | CPM | 802.285 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SOM3EGJ5MP.2df624 | AG-PB | CPM | 844.17 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SOM3EGJ5MP.daa54c | AG-PB | CPM | 844.17 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SONTENM4OP.34e071 | AG-PB | CPM | 884.062 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SONTENM4OP.44ad06 | AG-PB | CPM | 884.062 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SYX7Q55QKO.0d0b8c | AG-PB | CPM | 788.326 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SYX7Q55QKO.c3e585 | AG-PB | CPM | 788.326 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SYZRQBCMDO.611576 | AG-PB | CPM | 923.952 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-SYZRQBCMDO.d3ae3e | AG-PB | CPM | 923.952 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-TTCXNTB3JN.1e072f | AG-PB | CPM | 860.127 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TTCXNTB3JN.e52b19 | AG-PB | CPM | 860.127 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-TWVU6UDAHE.9ffbb1 | AG-PB | CPM | 890.044 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TWVU6UDAHE.ed4fd5 | AG-PB | CPM | 890.044 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U2SB3OMRQC.a4d2ca | AG-PB | CPM | 658.716 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-U2SB3OMRQC.f8541c | AG-PB | CPM | 658.716 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U34WNUTREE.235e39 | AG-PB | CPM | 967.821 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-U34WNUTREE.43f53d | AG-PB | CPM | 967.821 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-U3AQJEJZZ2.c1c23d | AG-PB | CPM | 694.609 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-U3AQJEJZZ2.fb77fd | AG-PB | CPM | 694.609 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UMQDJURRN5.247dd0 | AG-PB | CPM | 632.8 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-UMQDJURRN5.f8ac24 | AG-PB | CPM | 632.8 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-UOGOZHS3CR.2ff711 | AG-PB | CPM | 911.983 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UOGOZHS3CR.7e59f1 | AG-PB | CPM | 911.983 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-US4CZCJ2G3.89221a | AG-PB | CPM | 662.703 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-US4CZCJ2G3.d39aa2 | AG-PB | CPM | 662.703 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-UVLNHUJXLJ.3839d3 | AG-PB | CPM | 969.817 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UVLNHUJXLJ.e62a6d | AG-PB | CPM | 969.817 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-UZOADQR4I6.9ed416 | AG-PB | CPM | 656.725 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UZOADQR4I6.bccbaf | AG-PB | CPM | 656.725 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VDJVY6CKDP.1d951e | AG-PB | CPM | 957.846 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-VDJVY6CKDP.88195a | AG-PB | CPM | 957.846 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-VGYUCPDBMW.220f83 | AG-PB | CPM | 850.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VGYUCPDBMW.c1d04d | AG-PB | CPM | 850.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-VIQFNOP7TZ.c209ad | AG-PB | CPM | 804.28 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VIQFNOP7TZ.d2d743 | AG-PB | CPM | 804.28 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-VL2GH3SFHO.64ccb4 | AG-PB | CPM | 652.737 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VL2GH3SFHO.909385 | AG-PB | CPM | 652.737 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-W7STQPEGAT.294a52 | AG-PB | CPM | 628.812 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-W7STQPEGAT.fc7b8f | AG-PB | CPM | 628.812 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-WAKQG5WET6.8bc51b | AG-PB | CPM | 906.003 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WAKQG5WET6.b7d372 | AG-PB | CPM | 906.003 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WII6TFN3VG.6dbf97 | AG-PB | CPM | 682.641 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-WII6TFN3VG.84e2c7 | AG-PB | CPM | 682.641 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-WM5GU4Y32R.5e7dea | AG-PB | CPM | 648.75 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WM5GU4Y32R.78dbe1 | AG-PB | CPM | 648.75 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WWOZG4LQIC.0c34da | AG-PB | CPM | 959.843 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-WWOZG4LQIC.191017 | AG-PB | CPM | 959.843 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-XJN35IPW72.a6073f | AG-PB | CPM | 810.264 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XJN35IPW72.fd6c2f | AG-PB | CPM | 810.264 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XQPB7D5SLT.6e5534 | AG-PB | CPM | 945.89 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-XQPB7D5SLT.b431df | AG-PB | CPM | 945.89 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Y5KKYQB457.03aee5 | AG-PB | CPM | 870.097 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-Y5KKYQB457.97de3b | AG-PB | CPM | 870.097 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-YAZBBKJRDL.a5b45c | AG-PB | CPM | 842.173 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YAZBBKJRDL.da8ad1 | AG-PB | CPM | 842.173 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YBWUQOYJZN.01964b | AG-PB | CPM | 913.979 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-YBWUQOYJZN.6b52fc | AG-PB | CPM | 913.979 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YC2BJ4UHYF.b8c37c | AG-PB | CPM | 638.78 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-YC2BJ4UHYF.c2fcd8 | AG-PB | CPM | 638.78 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YCJ7TM6BXO.60a215 | AG-PB | CPM | 838.179 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-YCJ7TM6BXO.f0d47a | AG-PB | CPM | 838.179 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-YPAEL6HQ5X.bf7f84 | AG-PB | CPM | 742.489 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YPAEL6HQ5X.d0d3af | AG-PB | CPM | 742.489 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-Z32GWFJIPN.e3dde6 | AG-PB | CPM | 756.444 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Z32GWFJIPN.f1eba2 | AG-PB | CPM | 756.444 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Z5NEOOITTB.a079f7 | AG-PB | CPM | 772.392 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-Z5NEOOITTB.e8b692 | AG-PB | CPM | 772.392 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZDH3TQUW5V.cef4b5 | AG-PB | CPM | 828.205 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZDH3TQUW5V.d304d9 | AG-PB | CPM | 828.205 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZDINBQ4UML.6778e3 | AG-PB | CPM | 784.341 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZDINBQ4UML.700954 | AG-PB | CPM | 784.341 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZKF2XKEQJC.399073 | AG-PB | CPM | 792.314 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZKF2XKEQJC.b18eed | AG-PB | CPM | 792.314 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZLFZRAVKRJ.70f9a8 | AG-PB | CPM | 630.807 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZLFZRAVKRJ.95c9d2 | AG-PB | CPM | 630.807 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZNNIRNC3Z6.b814c4 | AG-PB | CPM | 706.577 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZNNIRNC3Z6.d692a1 | AG-PB | CPM | 706.577 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZREY6M73OS.54a0d2 | AG-PB | CPM | 668.68 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZREY6M73OS.606903 | AG-PB | CPM | 668.68 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZWUKVJQNMI.a4ad60 | AG-PB | CPM | 640.774 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZWUKVJQNMI.dc9c88 | AG-PB | CPM | 640.774 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3HNT2KROYM.2327c9 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3HNT2KROYM.fc350f | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DENBWB3K3C.0a754d | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DENBWB3K3C.9805cf | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DYLEZCG4HM.b90007 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DYLEZCG4HM.d2c55e | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EG4CZFRGL7.697286 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EG4CZFRGL7.8c720a | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FCNMFTUR4E.901fdd | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FCNMFTUR4E.d90e23 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FORFJG353E.0cea63 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FORFJG353E.18dd13 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G2E5AOIVAY.bab2df | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-G2E5AOIVAY.bd6342 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IAHORPYKKP.4a3737 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IAHORPYKKP.c8c592 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IR25DWRF5G.165461 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IR25DWRF5G.fee548 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IYYBFJIDJR.9a13f7 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IYYBFJIDJR.e433be | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JFXIVMRCAO.047605 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JFXIVMRCAO.3f0c26 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N7ZOMZ7UNS.352d88 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-N7ZOMZ7UNS.e9c9c9 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NOQDCUENTV.5695f3 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PJHC2KGG2M.159934 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PJHC2KGG2M.d50a74 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RMJA7ZD7GC.3990b7 | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RMJA7ZD7GC.fc193f | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-S7IJ2WTKZG.22e618 | AG-SE | GM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-S7IJ2WTKZG.4adf0e | AG-SE | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2KOSDBV2KV.de5c3c | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3QIK7OVINP.8dfa3e | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4AIGKIGSRZ.38aeaa | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4T6PPMNMVH.3e4d27 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-56LEO63NHI.7dbdc5 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6WOBDFQDT6.dd85fd | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-72BYE267EP.d2d345 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7WTP4LTZGH.d706cb | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AJBLYDVVJ7.b058a9 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ARDICSAW5Q.582e90 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BIBOWE6FPC.2730db | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CUGQ3IS253.4ae873 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DJDAA52VRM.53b551 | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EFRE3KLDTL.7caa40 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FHBP4YQMQO.76870b | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H3W2VXUOCC.c5b16e | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H5Q7XJZTLL.ba82c4 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HH5P332BD5.6dc594 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IGHKVCH3WK.c582ac | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-J5T6TBKDML.27cda4 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LDRKSJQLLM.8e0b24 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LJMIPJOCL3.0c225c | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NEIOD6VMFX.794acb | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OHVOHPTKPU.cf7138 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PNDWNRMG4M.e93ef7 | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RBRLISTFX3.f41c25 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RRTXNAEBFG.b23cf4 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RU5SWY7JGW.ef4ed6 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SGGMA66RLQ.1795e9 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TCPC77DHKK.420946 | AL-CA | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WAZ6UJADGF.b41923 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZKD74CCMXO.b537d4 | AL-CA | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-4OC5YD5B5T.6e4510 | AL-CR | HM_FORM | 1273.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LSLZ6CGKOQ.207e1f | AL-CR | HM_FORM | 1273.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PDPECKEWAL.51eaf8 | AL-CR | HM_FORM | 1273.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RL4XI5ZJPE.3dd98a | AL-CR | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TPSEVCXJ6T.bfccba | AL-CR | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BCJLH5QZP3.d32fe6 | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ERGDTKCCNO.264eef | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HPNGKBHL7Q.f40eee | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PIKWTIFFLT.0c987a | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QBXP4WN4EH.f2ff8b | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RIU6VQODTD.ec765d | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SCXLN5PW5J.1bdf6b | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UAONAY6USS.a6d089 | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UGHIJTFJXQ.dee5a9 | AL-NI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4LYM3FC7EW.ba70fc | AU-ND | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-APHPP3C3IL.0b882d | AU-ND | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JNZZAVNKJJ.49915b | AU-ND | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-262GCABU7L | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-DMD7RF3IBZ | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-EL4VDF662N | B-SI | ACR_B | 1850.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
@@ -2275,77 +1949,11 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-JHECAZUR7A.527387 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JHECAZUR7A.751186 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-JHECAZUR7A.ac9bb7 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-K4G26RVS4P.18a8e8 | BI-K | HM_FORM | 848.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-K4G26RVS4P.3eff03 | BI-K | SM_FORM | 848.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-K4G26RVS4P.d612d4 | BI-K | GM_FORM | 848.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KEI2TY2L4J.003dd8 | BI-K | SM_FORM | 838.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KEI2TY2L4J.310176 | BI-K | GM_FORM | 838.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KEI2TY2L4J.ced61f | BI-K | HM_FORM | 838.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-MVMC4LLIGK.deb7c0 | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OAM7DL5O44.0f9db3 | BI-K | HM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OAM7DL5O44.a1313c | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OAM7DL5O44.db5826 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2MQEBRH4MW.53083f | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2MQEBRH4MW.7fce1e | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3JGPW3I75H.79df58 | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3JGPW3I75H.d8dc51 | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5OEWEA7JA4.0e62fc | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5OEWEA7JA4.0f40fc | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5Q5G5NGQUV.a3c26f | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6SOWRE2DF4.43ed25 | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6SOWRE2DF4.eb809d | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CICR2FUSVJ.5d0ce4 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CYOIAGTFBT.122505 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EGCH5YBO5T.03ad05 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JJASL6SBZV.20705f | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NJQHVOUU4B.d4aacb | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ODSRRXR4DB.041e13 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Q55RWEY7ZE.93dead | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-R23YOSUSUV.108eb5 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RZXTTI2S6E.066d6f | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RZXTTI2S6E.7086a3 | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-V7JKB5ZQ5Q.3fc1d9 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VJRN7UJYRI.3344ce | BI-RB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VJRN7UJYRI.5a24cf | BI-RB | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WDCIWRCJKL.c59dd4 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YVCSYC5JGI.be63a9 | BI-RB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3KKWBH2XDZ.a50d24 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3KKWBH2XDZ.da1fa1 | C-SI-Y | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4GRDKBOGIM.e82b52 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5J5H3KGZYE.686fb4 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6S6FJDBDPS.2a7f92 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6S6FJDBDPS.833e67 | C-SI-Y | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AYWJZHYTRS.5bb1a2 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AYWJZHYTRS.c62495 | C-SI-Y | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BFAMJ2DIA5.63b8f1 | C-SI-Y | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BFAMJ2DIA5.dd461e | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DI7K5WNBQD.81f28b | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DSMEXZLUVF.ff4fc5 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-M5W5YRWCXR.430153 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RBLTNNPVR3.1458d7 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RHK3CZSOYD.ab3ff7 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-URIPMRCZ3I.873a14 | C-SI-Y | SM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-URIPMRCZ3I.c86db4 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-W37THFZ6PU.7829dc | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZQPMERZ45A.ac8ea8 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2ALE6E3FVH.9cfe61 | CR-GE | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2J4IQSP6P5.6ab015 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-57NY3YXVJ7.f9f7d0 | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5DSEUH4NK2.275607 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5L35TGCFAL.3e96d3 | CR-GE | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-6HTTW5327W.8ad375 | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AET63ATDZX.30d5a8 | CR-GE | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-D4GO4RDBQ3.f911d1 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-D6O6WD7FEM.052b22 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JC43FO644N.5d5d8e | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JJU3CGVLU7.772065 | CR-GE | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-JUOGYNLXX5.a35513 | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RRUITAEIYM.35c951 | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SHBHPLOWRZ.496f37 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SQKDM2MIIO.51bcd7 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VYDTBVQGR6.32fd53 | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WQZPJRIYBP.488bdc | CR-GE | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZDS7SVJW37.79f712 | CR-GE | GM_FORM | 1530.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-7SDDUNMFWD | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BKJI2BHPNQ | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-KDA4DDUPS3 | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
@@ -2363,69 +1971,7 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-MFUTBPJ73V.a91205 | CR-V | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NKAWVPI72A.406946 | CR-V | SM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-NKAWVPI72A.a2b053 | CR-V | CPM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-43ZXOO6TFO.c1da95 | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-43ZXOO6TFO.d25966 | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-636TFSTTTX.64e6ca | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-636TFSTTTX.a31e4b | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FTGB7HG7ZE.c1e902 | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FTGB7HG7ZE.e0fe5c | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FTGB7HG7ZE.fa678e | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IDEY4NU7GH.0ddf07 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IDEY4NU7GH.3196e3 | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IDEY4NU7GH.aa996e | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LF2XK4HKT2.17a006 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LF2XK4HKT2.7c05fe | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NGZLBXOCTJ.613025 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NGZLBXOCTJ.6f1c6d | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NGZLBXOCTJ.ee8fe3 | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QEFWZ76HIE.18e71a | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QEFWZ76HIE.25d578 | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QEFWZ76HIE.844e24 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RAE3344I7N.0a32c2 | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RAE3344I7N.a9a93b | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SVOB5GY4NR.734cec | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SVOB5GY4NR.85215a | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SVOB5GY4NR.d57558 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TSATJTWL4X.4b9f2c | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TSATJTWL4X.842a3b | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TSATJTWL4X.9a4273 | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UCYL5M5YMQ.61e4c5 | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UCYL5M5YMQ.b53a6b | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UCYL5M5YMQ.c95b85 | CS-O | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VICVK7W5MI.6cff0e | CS-O | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VICVK7W5MI.c96f7a | CS-O | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LEVZKAYSFQ.76f04c | CS-TE | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-DJCHWQNF3R.a8739c | FE-TI | HM_FORM | 1413.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RYYYSEVZSO.6d6e7c | FE-TI | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DFCHE5IR2.a7aade | FE-TM | HM_FORM | 290.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DFCHE5IR2.d6a983 | FE-TM | SM_FORM | 290.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3DFCHE5IR2.dad4ef | FE-TM | CPM | 290.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NUHO6HHWO3.8d6938 | FE-TM | SM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NUHO6HHWO3.bb76c0 | FE-TM | CPM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NUHO6HHWO3.e1eca4 | FE-TM | HM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NETNWIDKUE.044cb9 | FE-ZR | HM_FORM | 1760.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RRX24TAHOT.400de0 | FE-ZR | HM_FORM | 1023.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2UHOWSMDDM.b7e4b7 | GA-HO | HM_FORM | 681.575 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QHNKBTS4T7.6f1e99 | GA-HO | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Y5TEVW6D4C.f58ae3 | GA-HO | HM_FORM | 681.575 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3LN5K7OCWU.2a56b0 | GE-HF | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EJJIXFDHZY.f0b9f8 | GE-HF | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-F6U6L6LQZN.c79ebf | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KL7IRCD7WF.dd55f8 | GE-HF | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MH3ZIMSBFC.ea378c | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PBO5HTNEEN.b6b6cd | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RD3CLV2FOT.fee459 | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-RZGNU7RZXQ.4c1a19 | GE-HF | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UMF5FHBZ2R.6eda5e | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-Y7MO2KTGBD.8c92ae | GE-HF | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZO7V5BPXHS.df129d | GE-HF | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BITKOMNVUS.8c970c | GE-LI | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PSEXKKFKOW.574362 | GE-LI | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WZQAODEBEC.6a64ec | GE-LI | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GVZJCFBURB.ced65a | HF-SI | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NSLZ5NLCAN.17527b | HF-SI | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-SYPHVE2N5D.9720a9 | HF-SI | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VWFCJHEUZJ.cbdee4 | HF-SI | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-2XJVL52ZZS.8a49ec | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-324KCUAJTB.3c7513 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-3UMK4HZRHK.4928c5 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
@@ -2477,77 +2023,136 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-YFEPYD4OTH.790ebb | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZGOVESY4GA.9f76f9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZOINEUQ6R5.fbd9e8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MEFBATBWAD.a50595 | MG-PB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MEFBATBWAD.e8a34c | MG-PB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5CWK34HTUC.8cfd0c | NI-SC | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CFKKFJWLEZ.915aea | NI-SC | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-35KKCWXTVK.bdfc92 | NI-SM | HM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-C6LZ36ISCC.09c256 | NI-SM | HM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-EENBV6JOTY.a7d9ec | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-H5OATTV4YI.99a5c9 | NI-SM | HM_FORM | 1473.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-TQH35NFF7E.fdae45 | NI-SM | HM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-UHMYIGYWKU.f02841 | NI-SM | HM_FORM | 300.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-4R2G2JJ6I6.1d4316 | NI-TI | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-L2OPU6DDBU.9ae0f2 | NI-TI | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-PEPGNW2DTY.12bb23 | NI-TI | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YEW6RRQCYU.864b86 | NI-TI | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-2VYYLCJG6B.fc601c | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3NOZAMJ6QA.4def27 | NI-YB | HM_FORM | 990.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3NOZAMJ6QA.c063a9 | NI-YB | SM_FORM | 990.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5DLLBJSKHU.821a7b | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ATWHHONLGM.201ce6 | NI-YB | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ATWHHONLGM.b5d4b2 | NI-YB | SM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BDP3R2S4AJ.45efe5 | NI-YB | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-BDP3R2S4AJ.e7767e | NI-YB | SM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CROH3CJWUG.38377e | NI-YB | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CROH3CJWUG.8b59de | NI-YB | SM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-FK52QONVEP.49d2b3 | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KQAQJSXIUR.8d6ca1 | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MAQJCN6KZA.97cc57 | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QE7M3FV2JX.4f533a | NI-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-T6WAJSN2ID.111f82 | NI-YB | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-T6WAJSN2ID.e1a6fc | NI-YB | SM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XIHXMIOGKA.192321 | NI-YB | SM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XIHXMIOGKA.43ccac | NI-YB | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-3IWLINAN5P.3739f4 | PD-SN | HM_FORM | 273.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IOZPT2WUPA.0a6d96 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-IRVRKYRVYA.463463 | PD-SN | HM_FORM | 273.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KGEHUOP3SH.ce8c47 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LDP5O2JGT6.334ca4 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-LQN7YN3PVS.efd894 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-QBTBTA576Y.dd4485 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WQH6W53A6M.7c73a7 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YQ6CITKJYH.fe0799 | PD-SN | HM_FORM | 273.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-ZLK2AFKPJQ.1de261 | PD-SN | HM_FORM | 320.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-AZHIIJFVVN.b7673e | PU-U | CPM | 773.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-K3HZTEHG2L.a59b0d | PU-U | CPM | 673.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KSXPAH2RSB.96e5b4 | PU-U | CPM | 840.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MBFNTRXGAI.f9d105 | SB-YB | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5BVWOE3YM2.eba333 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-5VW6EUBSRK.28fd2f | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-C4KDRUOFUL.e2ea1b | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CDZ7HLXDBU.aaa45b | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GBX5IRSDAR.880e53 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GNQ4UPZMQ2.3753c5 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-GOJ3G4HACO.48bc61 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HCFOJHG4OH.1b136d | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MF7LDLWXCM.e09079 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-NIY3C4KGUT.8bbb50 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-O4XZBZ3GQN.82bb37 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-R5R6OJDLAW.bde4e8 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VELCVCLWDK.09d35b | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-VFQ3MRKMJK.4536f9 | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-YNLI4WOAVZ.6bf51d | SI-SR | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OLNLWPIRLP.68d05f | SI-TA | SM | 1760.5 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-OLNLWPIRLP.d4d902 | SI-TA | HM_FORM | 1760.5 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-CYNYBUMDH2.1ce302 | TE-TL | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-HPF2C7PFZM.e5279b | TE-TL | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-KOZWZVEI53.9304b4 | TE-TL | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-MEYGLBV6G2.ca9876 | TE-TL | HM_FORM | 298.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-WA3UP3Y5DA | AG-Y | INVARIANT_TEMPERATURE | 294.65 | L, Ag51Y14 | temperature_implausible | phase equilibrium at 294.65 K, below 0.25 x the lowest element melting point (1234.93 K) |
-| ORC-Y7K62CLAB6 | AL-SR | INVARIANT_TEMPERATURE | 25.0 | SrAl4, L | temperature_implausible | phase equilibrium at 25 K, below 0.25 x the lowest element melting point (933.47 K) |
-| ORC-54NIJNKQKM | B-TA | INVARIANT_TEMPERATURE | 22.5 | L, TaB(rt), Ta2B | temperature_implausible | phase equilibrium at 22.5 K, below 0.25 x the lowest element melting point (2348 K) |
-| ORC-OEJI7W4XQX | B-TA | INVARIANT_TEMPERATURE | 18.0 | L, Ta2B, BCC | temperature_implausible | phase equilibrium at 18 K, below 0.25 x the lowest element melting point (2348 K) |
-| ORC-OQGSFBFO3Y | MG-SI | INVARIANT_TEMPERATURE | 0.0 | L, Mg (hcp), Mg2Si | temperature_implausible | T = 0 K is not a temperature of a measured state (zero or a composition) |
-| ORC-YUMIW22Y2P | MG-SI | INVARIANT_TEMPERATURE | 0.333 | L, Mg2Si | temperature_implausible | T = 0.333 K is not a temperature of a measured state (zero or a composition) |
+
+
+## 7. Literature-level consistency gates (literature-gates 2026-10-23)
+
+Every value was checked against its table, its paper, the physics of its quantity and the calculated SGTE diagrams of its system (tools/literature_gates.py; tests tools/tests/test_literature_gates.py). No record is deleted and no printed value or quote is altered. A correction is made only when it is deterministic and evidenced (a printed header, caption or heading, or the internal consistency of a whole table) and, for table-level unit / sign / scale changes and system reassignments, confirmed on the rendered PDF page (`visual_check` {page, image sha256, verdict, what was seen}; tools/literature_visual_checks.json). The stored value is kept (`value_stored`, `temperature_K_stored`, `system_stored`, `property_code_before_gates`, `evidence_class_before_gates`, `phases_stored`) and the record carries `corrections`. Otherwise the record is demoted or flagged: `gate_failures` [{gate, code, effect, detail}] (codes also in `flags.gate_failures`); effect `not_accepted` sets `extraction_accepted` false, `not_espei_ready` sets `espei_ready` and `espei_certified` false, `flag_only` changes nothing else.
+
+| | before | after |
+|---|---:|---:|
+| records | 77540 | 74474 |
+| extraction_accepted | 76600 | 73165 |
+| espei_ready (before the ESPEI phase rule) | 14205 | 13417 |
+| records with corrections | | 1242 |
+| records with gate failures | | 1943 |
+| visual checks on file | | 515 |
+
+| gate | code | action | n |
+|---|---|---|---:|
+| G1 temperatures | `liquid_below_physical_minimum` | demoted | 10 |
+| G1 temperatures | `liquid_below_physical_minimum` | flagged | 31 |
+| G1 temperatures | `liquid_temperature_corrected_from_page` | corrected | 2 |
+| G1 temperatures | `non_temperature_corrected_from_page` | corrected | 4 |
+| G1 temperatures | `sibling_row_celsius_corrected` | corrected | 5 |
+| G1 temperatures | `table_temperature_unit_confirmed_as_stored` | checked | 6 |
+| G1 temperatures | `table_temperature_unit_corrected` | corrected | 132 |
+| G1 temperatures | `temperature_not_a_temperature` | demoted | 7 |
+| G1 temperatures | `temperature_range_stored_as_point` | flagged | 2 |
+| G10 reader tier / agreement | `reader_agreement_derived_multi_reader` | derived | 31439 |
+| G10 reader tier / agreement | `reader_agreement_derived_single_reader` | derived | 451 |
+| G10 reader tier / agreement | `reader_agreement_derived_single_reader_text_layer` | derived | 162 |
+| G11 CALPHAD plausibility fields | `fail_small_dT_composition` | explained | 198 |
+| G11 CALPHAD plausibility fields | `fail_small_dT_composition_pure_element_label` | explained | 88 |
+| G11 CALPHAD plausibility fields | `fail_small_dT_unexplained` | explained | 1 |
+| G12 pressure basis | `pressure_basis_relabelled` | relabelled | 77540 |
+| G2 energies, entropies, heat capacities, activities | `mass_basis_unit_relabelled` | corrected | 171 |
+| G2 energies, entropies, heat capacities, activities | `per_formula_divided` | corrected | 1 |
+| G2 energies, entropies, heat capacities, activities | `table_unit_scale_applied` | corrected | 316 |
+| G2 energies, entropies, heat capacities, activities | `table_unit_scale_suspect` | demoted | 21 |
+| G2 energies, entropies, heat capacities, activities | `unit_not_printed` | corrected | 13 |
+| G2 energies, entropies, heat capacities, activities | `unit_not_read_value_out_of_range` | flagged | 65 |
+| G2 energies, entropies, heat capacities, activities | `value_corrected_from_page` | corrected | 3 |
+| G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | demoted | 166 |
+| G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | flagged | 9 |
+| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 14 |
+| G3 signs | `formation_positive_check_sign` | flagged | 1 |
+| G3 signs | `positive_formation_confirmed_on_page` | checked | 62 |
+| G3 signs | `sign_corrected_from_page` | corrected | 12 |
+| G3 signs | `sign_from_heading_applied` | corrected | 31 |
+| G3 signs | `sign_heading_not_applied` | flagged | 1 |
+| G3 signs | `unsigned_in_print_blocks_espei` | flagged | 44 |
+| G4 system assignment | `magnitude_suspect_blocks_espei` | flagged | 17 |
+| G4 system assignment | `system_confirmed_label_typo` | flagged | 50 |
+| G4 system assignment | `system_mismatch` | demoted | 3 |
+| G4 system assignment | `system_reassigned` | corrected | 147 |
+| G4 system assignment | `system_reassigned_from_page` | corrected | 30 |
+| G5 property semantics | `entropy_increment` | corrected | 30 |
+| G5 property semantics | `formation_code_in_unary_system` | demoted | 4 |
+| G5 property semantics | `formation_on_liquid` | flagged | 22 |
+| G5 property semantics | `mix_to_form` | corrected | 286 |
+| G5 property semantics | `model_parameter_not_property` | demoted | 185 |
+| G5 property semantics | `printed_entropy_of_formation` | corrected | 29 |
+| G5 property semantics | `printed_excess_entropy` | corrected | 1 |
+| G5 property semantics | `printed_magnetic_contribution` | corrected | 16 |
+| G5 property semantics | `unary_fusion_quantity` | corrected | 12 |
+| G5 property semantics | `unary_lattice_stability` | corrected | 21 |
+| G6 invariant phase lists | `binary_more_than_three_phases` | flagged | 279 |
+| G6 invariant phase lists | `phase_list_normalized` | corrected | 619 |
+| G6 invariant phase lists | `reaction_liquid_count_inconsistent` | flagged | 191 |
+| G6 invariant phase lists | `reaction_phase_count_inconsistent` | flagged | 227 |
+| G6 invariant phase lists | `ternary_more_than_four_phases` | flagged | 103 |
+| G7 duplicates | `cosmetic_duplicate_merged` | merged | 3064 |
+| G7 duplicates | `records_removed` | merged | 3066 |
+| G8 evidence class | `assessed_source_not_experimental` | corrected | 1 |
+| G8 evidence class | `evidence_change_rejected_on_check` | checked | 31 |
+| G8 evidence class | `from_evaluation_paper_flagged` | flagged | 734 |
+| G8 evidence class | `model_to_dft` | corrected | 8 |
+| G8 evidence class | `model_to_experimental` | corrected | 47 |
+| G9 compositions | `activity_rounded_to_zero` | flagged | 9 |
+| G9 compositions | `composition_copied_across_rows` | flagged | 10 |
+| G9 compositions | `composition_from_formula` | corrected | 4 |
+| G9 compositions | `composition_label_mismatch` | flagged | 183 |
+| G9 compositions | `overall_composition_sum_not_one` | flagged | 42 |
+| G9 compositions | `phase_composition_sum_not_one` | flagged | 81 |
+| page page checks (visual) | `higher_order_system_row` | demoted | 8 |
+| page page checks (visual) | `misread_on_page` | demoted | 79 |
+
+Visual checks (rendered PDF pages inspected one by one: every table-level group, every system reassignment, and samples of at least 50 per demotion category where the category is larger; `verdict_reader` keeps the reader's verdict where a decision was curated):
+
+| kind | verdict | n |
+|---|---|---:|
+| composition_table | confirmed | 2 |
+| composition_table | rejected | 1 |
+| evidence | confirmed | 56 |
+| evidence | rejected | 31 |
+| per_formula | corrected | 1 |
+| record_T | as_stored | 28 |
+| record_T | corrected | 11 |
+| record_T | misread | 21 |
+| record_comp | as_stored | 50 |
+| record_phases | as_stored | 5 |
+| record_phases | higher_order | 9 |
+| record_phases | misread | 34 |
+| record_value | as_stored | 88 |
+| record_value | confirmed | 34 |
+| record_value | corrected | 15 |
+| record_value | misread | 54 |
+| system | confirmed | 30 |
+| system | misread | 9 |
+| table_T_unit | as_stored | 3 |
+| table_T_unit | confirmed | 8 |
+| table_T_unit_sibling | confirmed | 2 |
+| table_scale | as_stored | 1 |
+| table_scale | confirmed | 14 |
+| table_scale | rejected | 2 |
+| table_scale | unit_not_printed | 3 |
+| table_sign | confirmed | 1 |
+| table_sign | rejected | 1 |
+| table_unit | confirmed | 1 |
+
+Gate rules:
+
+* G1 temperatures. (a) Per table, the stored temperatures (as K, or converted from °C) are compared with the table's own numbers: rows describing a pure element against its melting point in K and °C, invariant rows against the system's SGTE invariants and melting points (median distance, K vs °C reading), and the readers' unit votes. A table whose stored convention disagrees with that evidence is converted as a whole from the printed numbers once the page confirms the header unit; unconfirmed: `temperature_unit_table_suspect`. The CALPHAD cross-check of a corrected value was computed on the old temperature and is moved to `flags.plausibility_before_correction`. (b) A temperature printed as a dash, T <= 1 K for a phase equilibrium, or a temperature equal to a printed composition: `temperature_not_a_temperature` (not accepted). (c) A liquid-bearing value below the lowest temperature a liquid can have (SGTE diagram of the system minus twice the phase-rule margin; binary subsystems for higher orders; else 0.40 x the lowest melting point): `liquid_below_physical_minimum` (not ESPEI-ready; not accepted below 0.25 x the lowest melting point). (d) A printed range stored as one temperature: `temperature_range_stored_as_point`.
+* G2 magnitudes. Physical ranges (kJ/mol-atom unless stated): formation enthalpy / Gibbs energy [-200, 60] (metallic) or [-650, 120] (with O, N, halogens, chalcogens, pnictogens, C, B, Si, Ge); mixing [-150, 60]; partial [-450, 250]; entropy of formation [-60, 60] J/(mol-atom K); absolute entropy [0, 150]; heat capacity [0, 120]; activity (0, 1]. Values of unstated basis are tested per atom of their single printed formula. Corrections: a printed x10^3 activity header (values divided by 1000 when the page confirms the header); a J value under a printed J unit stored as kJ; a per-formula value under a printed per-formula unit labelled per atom; a per-gram unit relabelled. Unexplained values out of range: `value_out_of_physical_range` (not accepted; relative DFT energies only not ESPEI-ready); no unit read: `unit_not_read_value_out_of_range`.
+* G3 signs. A positive value under a printed (-Δ...) heading is negated when the page confirms the heading (`sign_from_heading`); `unsigned_in_print` blocks ESPEI; a positive formation enthalpy / Gibbs energy above +10 kJ/mol-atom of a compound is flagged `formation_positive_check_sign` unless the page confirms it.
+* G4 system. A phase formula naming an element outside the system (or cement notation C-S = CaO-SiO2) moves the value to the system named by its phase formulas and caption when the page confirms it; otherwise `system_mismatch` (not accepted). system_mismatch, magnitude_suspect and source_disputed block ESPEI.
+* G5 semantics. A mixing code whose printed quantity is a formation quantity becomes the formation code; formation / mixing codes in one-element systems become fusion or lattice-stability codes when printed as such, otherwise are not accepted; S(T)-S(298) becomes `SM_INCREMENT`; formation quantities of a liquid are flagged; Redlich-Kister parameters stored as properties are not accepted.
+* G6 invariants. Phase lists drop non-phase labels (composition points, 'liquidus', 'eutectic', 'UNKNOWN' beside a named phase) and repeated phases (`phases_dropped`, `phases_stored`); binary three-phase reactions must have three phases with the right number of liquids, congruent melting two phases with one liquid, solid-state reactions no liquid; a binary row with four or more phases is flagged (likely a higher-order system).
+* G7 duplicates. Values identical in paper, property, value, unit, temperature, table and row (or quote) that differ only cosmetically (UNKNOWN beside a named phase, glyph variants, reader lists) are merged into the most specified record (`merged_ids`).
+* G8 evidence class. Running-text model values whose sentence names only first-principles methods become `dft`; those whose sentence names only experimental methods (and cite a source) become `experimental` (cited); both only when the page check confirms the sentence context (otherwise `evidence_class_review`). Values read from ASM / JPE phase-diagram evaluations (title '<A>-<B> (<Name>-<Name>)') carry `flags.from_evaluation_paper`; an evaluation's own value labelled experimental becomes `unspecified` with `flags.assessed_source` (cited measurements stay experimental). CALPHAD 'thermodynamic assessment' papers with their own experiments are not evaluations in this sense.
+* G9 compositions. Compositions not summing to 1, printed compositions far from the printed formula (and compositions repeated from another row) are flagged; recomputed from the printed formula when the page confirms the formula; activities stored as 0 are not ESPEI-ready.
+* G10 readers. `reader_tier` is the pipeline status of the table or passage (which reader passes ran), not a claim about the value; a row read only by a later reader can carry the table's earlier tier. The agreement claim is `reader_agreement`; where the record builder did not classify a value (invariant tables, running text) it is derived from `readers` (`reader_agreement_basis: derived_from_readers`; settled rows only).
+* G11 plausibility. `flags.plausibility` carries dx (mole-fraction differences per phase) and the calculation; fails with |dT| < 5 K have `fail_reason` (composition; pure-element label compared on the other axis).
+* G12 pressure. 1 atm defaults (stated_default_1_atm, unstated_assumed) are relabelled `assumed_default_1_atm_not_printed` (`pressure_basis_stored` kept).
 

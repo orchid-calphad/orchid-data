@@ -1,10 +1,10 @@
 # Co–Zn system
 
-> Co–Zn system: 166 accepted literature values (heat capacity / entropy / enthalpy 72, invariant reaction 55, activity / EMF / Gibbs energy 31, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Zn system: 165 accepted literature values (heat capacity / entropy / enthalpy 72, invariant reaction 54, activity / EMF / Gibbs energy 31, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-ZN.html · Markdown: https://data.orchid-project.org/systems/CO-ZN.md
 
-166 accepted literature values from 2 paper(s) (experimental 27, model 135, unspecified 4); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+165 accepted literature values from 2 paper(s) (experimental 26, model 135, unspecified 4); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-ZN.json) · [CSV](https://data.orchid-project.org/systems/CO-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-ZN/CoZn-04Iso.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CO-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
+| experimental | 26 |
 | model | 135 |
 | unspecified | 4 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
+| invariant reaction | 54 |
 | phase transition | 7 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 72 |
@@ -75,7 +75,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Zn system (55)
+Table: Invariant reactions reported in the literature for the Co–Zn system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -128,7 +128,6 @@ Table: Invariant reactions reported in the literature for the Co–Zn system (55
 | 692.66 | eutectic: L ↔ γ2 + (Zn) | γ2: Co 0.071429, Zn 0.928571 | model | [1] Vassilev 2004 | Table 4, p. 7, row 6 |  |
 | 692.65 | eutectic: L \<-> γ2 + (Zn) | L: Zn 0.9998; γ2: Co 0.071429, Zn 0.928571; (Zn): Zn 1; γ: Zn 0.9285 | model | [1] Vassilev 2004 | Table 3, p. 6, row 20 |  |
 | 692.65 | congruent melting: Zn(s) \<-> Zn(L) | Zn: Zn 1 | unspecified | [1] Vassilev 2004; _cites ref. 1993Bar_ | Table 3, p. 6, row 21 |  |
-| 692.6 | eutectic: L \<-> γ2 + (Zn) | γ2: Co 0.071429, Zn 0.928571; (Zn): Zn 1; γ: Zn 0.9285 | experimental | [1] Vassilev 2004; _cites Pierce 1923_ | Table 3, p. 6, row 19 |  |
 | 692.6 | eutectic: L ↔ γ2 + (Zn) | γ2: Co 0.071429, Zn 0.928571 | experimental | [1] Vassilev 2004 | Table 4, p. 7, row 5 |  |
 | 692 | eutectic |  | experimental | [1] Vassilev 2004; _cites Pierce 1923_ | p. 1 | “Lewkonja \[1908Lew\] as well as Pierce and Palmerton \[1923Pie\] were the first to study the equilibrium between the liquid and the solid phases in the Zn-rich region; they found eutectic invariants at 686 K and at 692 K, respectively.” |
 | 686 | eutectic |  | experimental | [1] Vassilev 2004; _cites Lewkonja 1908_ | p. 1 | “Lewkonja \[1908Lew\] as well as Pierce and Palmerton \[1923Pie\] were the first to study the equilibrium between the liquid and the solid phases in the Zn-rich region; they found eutectic invariants at 686 K and at 692 K, respectively.” |

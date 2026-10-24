@@ -1,10 +1,10 @@
 # N–U system
 
-> N–U system: 552 accepted literature values (heat capacity / entropy / enthalpy 389, formation 106, invariant reaction 29, phase equilibrium 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–U system: 543 accepted literature values (heat capacity / entropy / enthalpy 385, formation 101, invariant reaction 29, phase equilibrium 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-U.html · Markdown: https://data.orchid-project.org/systems/N-U.md
 
-552 accepted literature values from 1 paper(s) (experimental 199, model 353); 0 calculated phase diagram(s).
+543 accepted literature values from 1 paper(s) (experimental 192, model 351); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-U.json) · [CSV](https://data.orchid-project.org/systems/N-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-U) · [phases (11)](https://data.orchid-project.org/phases/pages/N-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-U.html) · [Markdown](https://data.orchid-project.org/systems/N-U.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 199 |
-| model | 353 |
+| experimental | 192 |
+| model | 351 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 | invariant reaction | 29 |
 | phase transition | 5 |
 | phase equilibrium | 23 |
-| formation | 106 |
-| heat capacity / entropy / enthalpy | 389 |
+| formation | 101 |
+| heat capacity / entropy / enthalpy | 385 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/N/N-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/N/N-U.json)
 
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the N–U system (29)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, N–U system (106)
+Table: Enthalpies of formation, N–U system (101)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -82,13 +82,8 @@ Table: Enthalpies of formation, N–U system (106)
 | N0.500U0.500(fcc_B1) | [U0.5N0.5](https://data.orchid-project.org/compounds/U0.5N0.5.html) | -143.302 kJ/mol-atom | 298.15 | experimental | -143.768 (mp-aaaaactt) | -136.591 (oqmd-4568) | [1] Chevalier 2000; _cites Neumann 1932_ [doi](https://doi.org/10.1002/zaac.19322070204) | Table 8, p. 6, row 1 |  |
 | N0.587U0.413 (β-N3U2) |  | -147.161 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2000; _cites Johnson 1981_ [doi](https://doi.org/10.1016/0021-9614%2881%2990127-0) | Table 8, p. 6, row 16 |  |
 | N0.587U0.413 (β-N3U2) |  | -140.272 kJ/mol-atom | 298.15 | model |  |  | [1] Chevalier 2000 | Table 8, p. 6, row 17 |  |
-| N1.5-1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -150.19 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 10 |  |
 | N1.5-1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -148.21 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 12 |  |
-| N1.5-1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.662 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites Johnson 1981_ [doi](https://doi.org/10.1016/0021-9614%2881%2990127-0) | Table 8, p. 6, row 14 |  |
-| N1.5-1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.41 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites Johnson 1981_ [doi](https://doi.org/10.1016/0021-9614%2881%2990127-0) | Table 8, p. 6, row 13 |  |
-| N1.5-1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.362 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 11 |  |
 | N1.5–1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -150.19 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 10 |  |
-| N1.5–1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -148.21 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 12 |  |
 | N1.5–1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.662 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites Johnson 1981_ [doi](https://doi.org/10.1016/0021-9614%2881%2990127-0) | Table 8, p. 6, row 14 |  |
 | N1.5–1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.41 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites Johnson 1981_ [doi](https://doi.org/10.1016/0021-9614%2881%2990127-0) | Table 8, p. 6, row 13 |  |
 | N1.5–1.75U1 (α-N3U2) | [U2N3](https://data.orchid-project.org/compounds/U2N3.html) | -146.362 kJ/mol-atom | 298.15 | experimental | -154.818 (mp-aaaabhdb) | -145.953 (oqmd-39168) | [1] Chevalier 2000; _cites OOHare 1968_ | Table 8, p. 6, row 11 |  |
@@ -222,7 +217,7 @@ Table: Phase equilibrium, N–U system
 | Phase composition |  | 3113 | N1-xU1(fcc_B1) + L + N1−xU1(fcc_B1); _N1-xU1(fcc_B1): N 0.49495, U 0.50505; L: N 0.46276, U 0.53724; N1−xU1(fcc_B1): N 0.49495, U 0.50505_ | experimental | [1] Chevalier 2000; _cites Benz 1966_ | Table 3, p. 3, row 18 |  |
 | Phase composition |  | 3126 | N1-xU1(fcc_B1) + L + N1−xU1(fcc_B1); _N1-xU1(fcc_B1): N 0.49239, U 0.50761; L: N 0.47499, U 0.52501; N1−xU1(fcc_B1): N 0.49239, U 0.50761_ | experimental | [1] Chevalier 2000; _cites Benz 1966_ | Table 3, p. 3, row 19 |  |
 
-### Heat capacity / entropy / enthalpy (389)
+### Heat capacity / entropy / enthalpy (385)
 
 Table: Heat capacity / entropy / enthalpy, N–U system
 
@@ -240,13 +235,9 @@ Table: Heat capacity / entropy / enthalpy, N–U system
 | Entropy; _printed: S°298.15 K_ | 31.317 J/mol-atom/K | 298.15 | N0.500U0.500(fcc_B1); _alloy: U 0.5_ | experimental | [1] Chevalier 2000; _cites Westrum 1966_ [doi](https://doi.org/10.1063/1.1727621) | Table 8, p. 6, row 23 |  |
 | Entropy; _printed: ΔS°f298.15 K_ | -41.792 J/(g at. K) | 298.15 | N0.500U0.500(fcc_B1); _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 8, p. 6, row 20 |  |
 | Entropy; _printed: S°298.15 K_ | 25 J/mol-atom/K | 298.15 | N1.5-1.75U1 (α-N3U2) | model | [1] Chevalier 2000 | Table 8, p. 6, row 29 |  |
-| Entropy; _printed: S°298.15 K_ | 25.104 J/mol-atom/K | 298.15 | N1.5-1.75U1 (α-N3U2) | experimental | [1] Chevalier 2000; _cites Counsell 1966_ [doi](https://doi.org/10.1039/tf9666201736) | Table 8, p. 6, row 26 |  |
 | Entropy; _printed: S°298.15 K_ | 24.123 J/mol-atom/K | 298.15 | N1.5-1.75U1 (α-N3U2) | experimental | [1] Chevalier 2000; _cites Counsell 1966_ [doi](https://doi.org/10.1039/tf9666201736) | Table 8, p. 6, row 27 |  |
 | Entropy; _printed: S°298.15 K_ | 24.337 J/mol-atom/K | 298.15 | N1.5-1.75U1 (α-N3U2) | model | [1] Chevalier 2000 | Table 8, p. 6, row 28 |  |
-| Entropy; _printed: S°298.15 K_ | 25 J/mol-atom/K | 298.15 | N1.5–1.75U1 (α-N3U2) | model | [1] Chevalier 2000 | Table 8, p. 6, row 29 |  |
 | Entropy; _printed: S°298.15 K_ | 25.104 J/mol-atom/K | 298.15 | N1.5–1.75U1 (α-N3U2) | experimental | [1] Chevalier 2000; _cites Counsell 1966_ [doi](https://doi.org/10.1039/tf9666201736) | Table 8, p. 6, row 26 |  |
-| Entropy; _printed: S°298.15 K_ | 24.123 J/mol-atom/K | 298.15 | N1.5–1.75U1 (α-N3U2) | experimental | [1] Chevalier 2000; _cites Counsell 1966_ [doi](https://doi.org/10.1039/tf9666201736) | Table 8, p. 6, row 27 |  |
-| Entropy; _printed: S°298.15 K_ | 24.337 J/mol-atom/K | 298.15 | N1.5–1.75U1 (α-N3U2) | model | [1] Chevalier 2000 | Table 8, p. 6, row 28 |  |
 | Entropy; _printed: S° 298.15 K_ | 62.42 J/mol (basis unstated)/K | 298.15 | UN(fcc_B1); _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites THERMODATA_ | Table 12, p. 10, row 3 |  |
 | Entropy; _printed: ΔS°f(UN)_ | -83.5 J/(mol K) | 300 | UN(fcc_B1); _alloy: U 0.5_ | model | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 5 |  |
 | Entropy; _printed: ΔS°f(UN)_ | -83.55 J/(mol K) | 300 | UN(fcc_B1); _alloy: U 0.5_ | model | [1] Chevalier 2000 | Table 7, p. 5, row 6 |  |

@@ -71,6 +71,7 @@
   "observations": [
    {
     "id": "ORC-RPSNHZ6W2Z",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0022-3115(02)00813-9",
     "measured_in": "doi:10.1021/j150566a001"
    }

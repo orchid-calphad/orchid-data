@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/AL-CO.html · Markdown: https://data.orchid-project.org/systems/AL-CO.md
 
-115 accepted literature values from 6 paper(s) (experimental 62, model 10, DFT 16, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+115 accepted literature values from 6 paper(s) (experimental 63, model 9, DFT 16, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO.json) · [CSV](https://data.orchid-project.org/systems/AL-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CO/AlCo-13Ste.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-CO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 62 |
-| model | 10 |
+| experimental | 63 |
+| model | 9 |
 | DFT | 16 |
 | unspecified | 27 |
 
@@ -441,7 +441,7 @@ Table: Phase transition, Al–Co system
 | Phase transition | 1944.15 K | 1944.15 | congruent melting: Liq -> CoAl; _Liq: Co 0.5; CoAl: Co 0.5_ | unspecified | [1] Stein 2013 | Table 4, p. 7, row 2 |  |
 | Phase transition | 1944.15 K | 1944.15 | congruent transformation | model | [1] Stein 2013 | p. 8 | “The calculated CoAl phase has a congruent melting point at xCo 1⁄4 0.5003 and 1671 C.” |
 | Phase transition | 1946.15 K | 1946.15 |  | experimental | [1] Stein 2013 | p. 1 | “The melting temperatures of CoAl were found to be significantly higher than previously reported in the literature; for the stoichiometric compound a value of 1673 C was obtained.” |
-| Phase transition | 1946.15 K | 1946.15 |  | model | [3] Ostrowska 2019; _cites Stein 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.03.011) | p. 1 | “They used differential thermal analysis (DTA), scanning electron microscopy (SEM) and electron-probe microanalysis (EPMA) to determine the melting temperature of the B2 phase (at 1673 C), the liquid þ B2 two-phase field and the Al-rich solubility limit of B2-CoAl.” |
+| Phase transition | 1946.15 K | 1946.15 |  | experimental | [3] Ostrowska 2019; _cites Stein 2013_ [doi](https://doi.org/10.1016/j.intermet.2013.03.011) | p. 1 | “They used differential thermal analysis (DTA), scanning electron microscopy (SEM) and electron-probe microanalysis (EPMA) to determine the melting temperature of the B2 phase (at 1673 C), the liquid þ B2 two-phase field and the Al-rich solubility limit of B2-CoAl.” |
 | Phase transition | 1946.15 K | 1946.15 | CoAl + liquid | experimental | [1] Stein 2013 | p. 5 | “The new value of 1673 C for the stoichiometric melting point of CoAl obviously is significantly higher than those reported by Gwyer (1628 C) \[5\] and assessed by McAlister (1640 C) \[13\].” |
 | Phase transition | 1946.15 K | 1946.15 | congruent melting: Liq -> CoAl; _Liq: Co 0.5; CoAl: Co 0.5_ | experimental | [1] Stein 2013 | Table 4, p. 7, row 1 |  |
 | Phase transition | 1946.15 K | 1946.15 | other: 49; _alloy: Al 0.502, Co 0.498_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 7 |  |

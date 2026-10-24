@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/C-MN.html · Markdown: https://data.orchid-project.org/systems/C-MN.md
 
-106 accepted literature values from 2 paper(s) (experimental 39, model 46, DFT 21); 0 calculated phase diagram(s).
+106 accepted literature values from 2 paper(s) (experimental 41, model 44, DFT 21); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-MN.json) · [CSV](https://data.orchid-project.org/systems/C-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-MN) · [phases (13)](https://data.orchid-project.org/phases/pages/C-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-MN.html) · [Markdown](https://data.orchid-project.org/systems/C-MN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 39 |
-| model | 46 |
+| experimental | 41 |
+| model | 44 |
 | DFT | 21 |
 
 Table: Accepted values by property group
@@ -47,10 +47,10 @@ Table: Invariant reactions reported in the literature for the C–Mn system (49)
 | 1508 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.13282, Mn 0.86718 | model | [1] Djurovic 2010 | Table 4, p. 6, row 5 |  |
 | 1507 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.009984, Mn 0.990016 | model | [1] Djurovic 2010 | Table 4, p. 6, row 1 |  |
 | 1506 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.014024, Mn 0.985976 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 3 |  |
-| 1505 | eutectic: Liq → γ -Mn + δ -Mn |  | model | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
+| 1505 | eutectic: Liq → γ -Mn + δ -Mn |  | experimental | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
 | 1504 | eutectic: L^a -> δ-Mn + γ-Mn | L: C 0.011334, Mn 0.988666 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 2 |  |
 | 1502 | eutectic: L^a -> ε-Mn + γ-Mn | L: C 0.133187, Mn 0.866813 | experimental | [1] Djurovic 2010; _cites Fenstad 2007_ [doi](https://doi.org/10.3139/146.101563) | Table 4, p. 6, row 7 |  |
-| 1501 | eutectic: Liq → γ -Mn + ε -Mn |  | model | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
+| 1501 | eutectic: Liq → γ -Mn + ε -Mn |  | experimental | [1] Djurovic 2010 | p. 2 | “Fenstad and Tuset \[5\] reexamined the high temperature part of the Mn-C phase diagram by differential scanning calorimetry and proposed new liquidus details, such as one local maximum and two eutectics, Liq → γ -Mn + δ -Mn and Liq → γ -Mn + ε -Mn at 1505 K and 1501 K, respectively.” |
 | 1444 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234292, Mn 0.765708; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010; _cites Huang 1990_ | Table 4, p. 6, row 17 |  |
 | 1440 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | ε-Mn: C 0.234597, Mn 0.765403; Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | model | [1] Djurovic 2010 | Table 4, p. 6, row 16 |  |
 | 1363 | peritectoid: ε-Mn^a + Mn7C3 -> Mn5C2 | Mn7C3: C 0.3, Mn 0.7; Mn5C2: C 0.285714, Mn 0.714286 | experimental | [1] Djurovic 2010; _cites Benz 1973_ [doi](https://doi.org/10.1007/bf02665426) | Table 4, p. 6, row 18 |  |

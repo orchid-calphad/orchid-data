@@ -1,10 +1,10 @@
 # Co–Si system
 
-> Co–Si system: 95 accepted literature values (invariant reaction 55, phase transition 28, formation 11, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Si system: 89 accepted literature values (invariant reaction 55, phase transition 28, formation 5, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SI.html · Markdown: https://data.orchid-project.org/systems/CO-SI.md
 
-95 accepted literature values from 2 paper(s) (experimental 67, model 16, unspecified 12); 2 calculated phase diagram(s).
+89 accepted literature values from 2 paper(s) (experimental 64, model 13, unspecified 12); 2 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SI.json) · [CSV](https://data.orchid-project.org/systems/CO-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SI/CoSi-06Zha.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SI.html) · [Markdown](https://data.orchid-project.org/systems/CO-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 67 |
-| model | 16 |
+| experimental | 64 |
+| model | 13 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 55 |
 | phase transition | 28 |
-| formation | 11 |
+| formation | 5 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -131,21 +131,6 @@ Table: Invariant reactions reported in the literature for the Co–Si system (55
 | 1466.15 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.181; Co2Si: Si 0.333 | experimental | [2] Soon-Don 1992 | Table 3, p. 7, row 11 |  |
 | 1464 | eutectic: αCo3Si -> (εCo) + αCo2Si | αCo3Si: Co 0.75, Si 0.25; αCo2Si: Co 0.666667, Si 0.333333 | experimental | [1] Zhang 2006 | Table 5, p. 9, row 8 |  |
 | 1463.05 | Co3Si=ε-Co+Co2Si | Co3Si: Si 0.25; ε-Co: Si 0.188; Co2Si: Si 0.333 | model | [2] Soon-Don 1992 | Table 3, p. 7, row 12 |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Co–Si system (6)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Co2Si |  | -32900 unknown | 298.15 | experimental |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 1 |  |
-| Co2Si |  | -31320 unknown | 298.15 | model |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 2 |  |
-| CoSi |  | -47500 unknown | 298.15 | experimental |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 3 |  |
-| CoSi |  | -45190 unknown | 298.15 | model |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 4 |  |
-| CoSi2 |  | -37700 unknown | 298.15 | experimental |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 5 |  |
-| CoSi2 |  | -35770 unknown | 298.15 | model |  |  | [2] Soon-Don 1992 | Table 4, p. 8, row 6 |  |
 
 ## Other properties
 

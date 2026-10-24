@@ -67,7 +67,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-ga:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 880.74–1189.33 K, x(Ga) 0.19371–0.27779
-- Literature: 33 values (33 accepted) from 2 papers
+- Literature: 33 values (32 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-ga:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:cu-ga:bcc-a2  
@@ -308,7 +308,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-ga:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1360.77 K, x(Ga) 0–0.20279
-- Literature: 21 values (21 accepted) from 2 papers
+- Literature: 21 values (20 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-ga:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:cu-ga:fcc-a1  
@@ -384,7 +384,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:cu-ga:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 302.15–2500 K, x(Ga) 0–1
-- Literature: 49 values (49 accepted) from 2 papers
+- Literature: 49 values (48 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-ga:liquid)
 
 Names (5): _corpus: _corpus:phase:cu-ga:liquid  

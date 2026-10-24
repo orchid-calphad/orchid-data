@@ -1,10 +1,10 @@
 # Ce–Mg–Y system
 
-> Ce–Mg–Y system: 10 accepted literature values (invariant reaction 10) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Mg–Y system: 12 accepted literature values (invariant reaction 11, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-MG-Y.html · Markdown: https://data.orchid-project.org/systems/CE-MG-Y.md
 
-10 accepted literature values from 1 paper(s) (experimental 1, model 9); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 2, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-MG-Y.json) · [CSV](https://data.orchid-project.org/systems/CE-MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-MG-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/CE-MG-Y.md)
 
@@ -12,18 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 9 |
+| experimental | 2 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 10 |
+| invariant reaction | 11 |
+| phase transition | 1 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–Mg–Y system (10)
+Table: Invariant reactions reported in the literature for the Ce–Mg–Y system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -37,6 +38,17 @@ Table: Invariant reactions reported in the literature for the Ce–Mg–Y system
 | 817.49 | eutectic: L = Mg24Y5 + CeMg12 + T |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 8 |  |
 | 817.14 | eutectic: L = (Mg) + Mg24Y5 + CeMg12 |  | model | [1] Gröbner 2010 | Table 2, p. 4, row 9 |  |
 | 816.15 | eutectic: L -> (Mg) + Mg24Y5 + CeMg12 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | Table 2, p. 4, row 10 |  |
+| 816.15 | eutectic: L = (Mg) + CeMg12 + Mg24Y5 |  | experimental | [1] Gröbner 2010; _cites Drits 1981_ | p. 3 | “They found a eutectic reaction L = (Mg) + CeMg12 + Mg24Y5 at 543 °C.” |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Ce–Mg–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 818.14 K | 818.14 | other | model | [1] Gröbner 2010 | p. 3 | “Invariant three-phase reactions such as the minimum in L + (Ce,Y)Mg + CeMg2 at 626.8 °C, the maximum in L + Mg24Y5 + T at 560.99 °C, and the shallow maximum in L + Mg24Y5 + CeMg12 at 544.99 °C between the two ternary eutectic invariant reactions E1 and E2 are not included in Table 2.” |
 
 ## Sources
 

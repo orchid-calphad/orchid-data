@@ -14,13 +14,13 @@ Table: Enthalpy of formation of CrSi reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34200 per mol-atom ± 1600 | CrSi | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
-| -39.7 kJ/mol-atom | CrSi | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9 |  |
-| -30429 per mol-atom | CrSi | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000 | Table 4, p. 4, row 8 |  |
-| -30160 per mol-atom | CrSi | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
-| -30.44 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 12 |  |
-| -30.18 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 11 |  |
-| -30.16 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
+| -39.7 kJ/mol-atom | CrSi | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994; _cites ref. 61Gol2_ | Table 6, p. 14, row 9 |  |
+| -34.2 per mol-atom ± 1600 | CrSi | 298.15 | experimental |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 4, row 7 |  |
+| -30.44 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 12 |  |
+| -30.429 per mol-atom | CrSi | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000 | Table 4, p. 4, row 8 |  |
+| -30.18 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 11 |  |
+| -30.16 per mol-atom | CrSi | 298.15 | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [2] Du 2000; _cites Coughanowr 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990023-x) | Table 4, p. 4, row 9 |  |
+| -30.16 kJ/mol-atom | CrSi |  | model |  | [Cr–Si](https://data.orchid-project.org/systems/CR-SI.html) | [1] Coughanowr 1994 | Table 6, p. 14, row 10 |  |
 
 ## DFT formation energies
 
@@ -37,8 +37,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000). [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066)
-2. Corinne A. Coughanowr, Ibrahim Ansara, Hans Leo Lukas, Assessment of the CrSi System, Calphad 18, 125-140 (1994). [doi:10.1016/0364-5916(94)90023-x](https://doi.org/10.1016/0364-5916%2894%2990023-x)
+1. Corinne A. Coughanowr, Ibrahim Ansara, Hans Leo Lukas, Assessment of the CrSi System, Calphad 18, 125-140 (1994). [doi:10.1016/0364-5916(94)90023-x](https://doi.org/10.1016/0364-5916%2894%2990023-x)
+2. Yong Du, Julius C. Schuster, Experimental reinvestigation of the CrSi-Si partial system and update of the thermodynamic description of the entire Cr-Si system, JPE 21, 281-286 (2000). [doi:10.1361/105497100770340066](https://doi.org/10.1361/105497100770340066)
 
 ## Please cite
 

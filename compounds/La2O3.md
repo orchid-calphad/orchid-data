@@ -28,9 +28,9 @@ Table: Enthalpy of formation of La2O3 reported in the literature (17)
 | -1794.5 kJ/mol (basis unstated) | La2O3 | 298 | experimental | Solution calorimetry, Born-Haber cycle | [La–O](https://data.orchid-project.org/systems/LA-O.html) | [1] Grundy 2001; _cites Fitzgibbon 1965_ [doi](https://doi.org/10.1021/j100891a504) | Table 3, p. 3, row 6 |  |
 | -1793.3 kJ/mol (basis unstated) | La2O3 | 298.15 | experimental | Combustion calorimetry | [La–O](https://data.orchid-project.org/systems/LA-O.html) | [1] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 12 |  |
 | -1793.3 kJ/mol (basis unstated) | La2O3 | 298 | experimental | Combustion calorimetry | [La–O](https://data.orchid-project.org/systems/LA-O.html) | [1] Grundy 2001; _cites Huber 1953_ [doi](https://doi.org/10.1021/ja01110a511) | Table 3, p. 3, row 4 |  |
-| -1791600 unknown | A-La2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [2] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
 | -1795.5 kJ/mol (basis unstated) | La2O3 | 298 | model | Optimized | [La–O](https://data.orchid-project.org/systems/LA-O.html) | [1] Grundy 2001 | Table 3, p. 3, row 8 |  |
 | -1795.5 kJ/mol (basis unstated) | La2O3 | 298.15 | model | Optimized | [La–O](https://data.orchid-project.org/systems/LA-O.html) | [1] Grundy 2001 | Table 3, p. 3, row 16 |  |
+| -1791.6 unknown | A-La2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [2] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
 
 ## Sources
 

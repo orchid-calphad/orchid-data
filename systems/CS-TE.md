@@ -1,10 +1,10 @@
 # Cs–Te system
 
-> Cs–Te system: 71 accepted literature values (crystal structure 26, invariant reaction 16, phase transition 12, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–Te system: 70 accepted literature values (crystal structure 26, invariant reaction 16, phase transition 12, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-TE.html · Markdown: https://data.orchid-project.org/systems/CS-TE.md
 
-71 accepted literature values from 1 paper(s) (experimental 52, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+70 accepted literature values from 1 paper(s) (experimental 51, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
+| experimental | 51 |
 | model | 15 |
 | unspecified | 4 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 16 |
 | phase transition | 12 |
 | formation | 5 |
-| heat capacity / entropy / enthalpy | 6 |
+| heat capacity / entropy / enthalpy | 5 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 26 |
 | other property | 4 |
@@ -121,7 +121,7 @@ Table: Phase transition, Cs–Te system
 | Phase transition | 973 K | 973 |  | experimental | [1] Thi 2015; _cites Adamson 1983_ [doi](https://doi.org/10.1016/0022-3115%2883%2990272-6) | p. 2 | “A specimen of Cs2Te which have been purposely contaminated by Adamson and Leighty \[14\] started melting at approximately 973 K.” |
 | Phase transition | 1093 K | 1093 | congruent transformation | experimental | [1] Thi 2015; _cites Chuntonov 1982_ | p. 3 | “Cs2Te presents a structural transition at 895 72 K \[17\] and congruent melting at 1093 K measured by Chuntonov et al. \[16\].” |
 
-### Heat capacity / entropy / enthalpy (6)
+### Heat capacity / entropy / enthalpy (5)
 
 Table: Heat capacity / entropy / enthalpy, Cs–Te system
 
@@ -131,7 +131,6 @@ Table: Heat capacity / entropy / enthalpy, Cs–Te system
 | Entropy; _printed: S0_ | 60 J/mol-atom/K ± 5 | 298.15 | Cs5Te3; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
 | Entropy; _printed: S0_ | 185.1 J/mol (basis unstated)/K | 298.15 | Cs₂Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2 |  |
 | Entropy; _printed: S0_ | 480 J/mol (basis unstated)/K ± 5 | 298.15 | Cs₅Te₃; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
-| Entropy; _printed: S0_ | 61.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2 |  |
 | Entropy; _printed: S0_ | 480 unknown ± 5 | 298.15 | UNKNOWN; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
 
 ### Activity / EMF / Gibbs energy (2)

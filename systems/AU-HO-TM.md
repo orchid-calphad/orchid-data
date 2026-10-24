@@ -1,10 +1,10 @@
 # Au–Ho–Tm system
 
-> Au–Ho–Tm system: 79 accepted literature values (formation 41, crystal structure 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ho–Tm system: 77 accepted literature values (formation 39, crystal structure 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-HO-TM.html · Markdown: https://data.orchid-project.org/systems/AU-HO-TM.md
 
-79 accepted literature values from 1 paper(s) (experimental 42, model 20, DFT 17); 0 calculated phase diagram(s).
+77 accepted literature values from 1 paper(s) (experimental 42, model 18, DFT 17); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-HO-TM.json) · [CSV](https://data.orchid-project.org/systems/AU-HO-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-HO-TM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-HO-TM.html) · [Markdown](https://data.orchid-project.org/systems/AU-HO-TM.md)
 
@@ -13,21 +13,21 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 42 |
-| model | 20 |
+| model | 18 |
 | DFT | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 41 |
+| formation | 39 |
 | crystal structure | 38 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Ho–Tm system (41)
+Table: Enthalpies of formation, Au–Ho–Tm system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -58,10 +58,8 @@ Table: Enthalpies of formation, Au–Ho–Tm system (41)
 | AuTm2 |  | -65.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 37 |  |
 | Ho (fcc) |  | -1.18 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 2 |  |
 | Ho (fcc) |  | -1.18 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 1 |  |
-| Ho (fcc) |  | 496.7 kJ/mol-atom | 298 | model |  |  | [1] Dong 2012 | Table 1, p. 2, row 3 |  |
 | Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 34 |  |
 | Tm (fcc) |  | -2.68 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 33 |  |
-| Tm (fcc) |  | 491.8 kJ/mol-atom | 298 | model |  |  | [1] Dong 2012 | Table 1, p. 2, row 35 |  |
 | αAuHo |  | -87.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 8 |  |
 | αAuHo | [AuHo](https://data.orchid-project.org/compounds/AuHo.html) | -86 kJ/mol-atom | 298 | model | -86.06 (mp-aaacfiqk) | -86.188 (oqmd-28172) | [1] Dong 2012 | Table 1, p. 2, row 10 |  |
 | αAuHo | [AuHo](https://data.orchid-project.org/compounds/AuHo.html) | -81.8 kJ/mol-atom ± 3.6 | 298 | experimental | -86.06 (mp-aaacfiqk) | -86.188 (oqmd-28172) | [1] Dong 2012; _cites Fitzner 1997_ [doi](https://doi.org/10.1007/s11661-997-0094-6) | Table 1, p. 2, row 9 |  |

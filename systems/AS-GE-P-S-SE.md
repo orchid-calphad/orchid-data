@@ -1,10 +1,10 @@
 # As–Ge–P–S–Se system
 
-> As–Ge–P–S–Se system: 167 accepted literature values (formation 102, crystal structure 33, invariant reaction 32) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Ge–P–S–Se system: 116 accepted literature values (formation 51, crystal structure 33, invariant reaction 32) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-GE-P-S-SE.html · Markdown: https://data.orchid-project.org/systems/AS-GE-P-S-SE.md
 
-167 accepted literature values from 1 paper(s) (experimental 85, model 68, unspecified 14); 0 calculated phase diagram(s).
+116 accepted literature values from 1 paper(s) (experimental 69, model 40, unspecified 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-GE-P-S-SE.json) · [CSV](https://data.orchid-project.org/systems/AS-GE-P-S-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-GE-P-S-SE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-GE-P-S-SE.html) · [Markdown](https://data.orchid-project.org/systems/AS-GE-P-S-SE.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 85 |
-| model | 68 |
-| unspecified | 14 |
+| experimental | 69 |
+| model | 40 |
+| unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
-| formation | 102 |
+| formation | 51 |
 | crystal structure | 33 |
 
 ## Invariant reactions (literature)
@@ -67,7 +67,7 @@ Table: Invariant reactions reported in the literature for the As–Ge–P–S–
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, As–Ge–P–S–Se system (102)
+Table: Enthalpies of formation, As–Ge–P–S–Se system (51)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -96,57 +96,6 @@ Table: Enthalpies of formation, As–Ge–P–S–Se system (102)
 | GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -42.6 kJ/mol-atom ± 0.4 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39 |  |
 | GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -41.6 kJ/mol-atom ± 0.9 | 298.15 | experimental | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40 |  |
 | GeS2 | [GeS2](https://data.orchid-project.org/compounds/GeS2.html) | -31.88 kJ/mol-atom | 0 | unspecified | -64.065 (mp-aaabgpmi) | -50.116 (oqmd-2017) | [1] Chen 2022 | Table II, p. 3, row 46 |  |
-| UNKNOWN |  | -69.55 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 45 |  |
-| UNKNOWN |  | -56.42 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
-| UNKNOWN |  | -52.3 kJ/mol-atom ± 4.3 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 42 |  |
-| UNKNOWN |  | -50.03 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 44 |  |
-| UNKNOWN |  | -50 kJ/mol-atom ± 6.7 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 64_ | Table II, p. 3, row 43 |  |
-| UNKNOWN |  | -48.733 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 47 |  |
-| UNKNOWN |  | -45.91 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 41 |  |
-| UNKNOWN |  | -42.6 kJ/mol-atom ± 0.4 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39 |  |
-| UNKNOWN |  | -41.6 kJ/mol-atom ± 0.9 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40 |  |
-| UNKNOWN |  | -38.27 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 35 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom ± 4.2 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom ± 2.1 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33 |  |
-| UNKNOWN |  | -38 kJ/mol-atom ± 5.7 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 52_ | Table II, p. 3, row 21 |  |
-| UNKNOWN |  | -37.7 kJ/mol-atom ± 1.5 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34 |  |
-| UNKNOWN |  | -37.172 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 38 |  |
-| UNKNOWN |  | -34.4 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 20 |  |
-| UNKNOWN |  | -34.3 kJ/mol-atom ± 0.6 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 53_ | Table II, p. 3, row 19 |  |
-| UNKNOWN |  | -31.88 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 46 |  |
-| UNKNOWN |  | -30.6 kJ/mol-atom ± 0.6 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31 |  |
-| UNKNOWN |  | -30.3 kJ/mol-atom ± 2.8 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 49_ | Table II, p. 3, row 22 |  |
-| UNKNOWN |  | -29.96 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32 |  |
-| UNKNOWN |  | -28.13 kJ/mol-atom ± 0.6 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 54_ | Table II, p. 3, row 18 |  |
-| UNKNOWN |  | -25.95 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 11 |  |
-| UNKNOWN |  | -25.8 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 26 |  |
-| UNKNOWN |  | -25.7 kJ/mol-atom ± 0.5 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 47_ | Table II, p. 3, row 12 |  |
-| UNKNOWN |  | -24.9 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 24 |  |
-| UNKNOWN |  | -24.7 kJ/mol-atom ± 9.1 | 298.15 | experimental |  |  | [1] Chen 2022; _cites ref. 55_ | Table II, p. 3, row 17 |  |
-| UNKNOWN |  | -24.6 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 37 |  |
-| UNKNOWN |  | -23.979 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 16 |  |
-| UNKNOWN |  | -23.92 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 28 |  |
-| UNKNOWN |  | -23.28 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 25 |  |
-| UNKNOWN |  | -22.957 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 27 |  |
-| UNKNOWN |  | -22.065 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 29 |  |
-| UNKNOWN |  | -21.54 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 15 |  |
-| UNKNOWN |  | -21.5 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 13 |  |
-| UNKNOWN |  | -19.15 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 14 |  |
-| UNKNOWN |  | -15.07 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022; _cites ref. 50_ | Table II, p. 3, row 23 |  |
-| UNKNOWN |  | -11.442 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 51 |  |
-| UNKNOWN |  | -11.44 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 48 |  |
-| UNKNOWN |  | -5.8 kJ/mol-atom ± 3.2 | 298.15 | experimental |  |  | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 6 |  |
-| UNKNOWN |  | -5.5 kJ/mol-atom ± 2.6 | 298.15 | experimental |  |  | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 1 |  |
-| UNKNOWN |  | -5.302 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 10 |  |
-| UNKNOWN |  | -4.78 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 9 |  |
-| UNKNOWN |  | -4.71 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 7 |  |
-| UNKNOWN |  | -4.481 kJ/mol-atom | 298.15 | model |  |  | [1] Chen 2022 | Table II, p. 3, row 5 |  |
-| UNKNOWN |  | -4.43 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 4 |  |
-| UNKNOWN |  | -4.14 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 2 |  |
-| UNKNOWN |  | -4.14 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 8 |  |
-| UNKNOWN |  | -2.98 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 3 |  |
-| UNKNOWN |  | -0.17 kJ/mol-atom | 0 | unspecified |  |  | [1] Chen 2022 | Table II, p. 3, row 50 |  |
-| UNKNOWN |  | 1.44 kJ/mol-atom | 0 | model |  |  | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
 | αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -56.42 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
 | αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.27 kJ/mol-atom | 0 | model | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites Saal 1996_ | Table II, p. 3, row 35 |  |
 | αGeS | [GeS](https://data.orchid-project.org/compounds/GeS.html) | -38.1 kJ/mol-atom ± 4.2 | 298.15 | experimental | -48.403 (mp-aaaaadig) | -38.311 (oqmd-1877) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |

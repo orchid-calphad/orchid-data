@@ -15,8 +15,8 @@ Table: Phases of the Bi–K system (10)
 | [RHOMBOHEDRAL_A7](#phase-bi-k-a7-rhombohedral); _phase:bi-k:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(K) 0–0 | 4 | 3 |
 | [BCC_A2](#phase-bi-k-bcc-a2); _phase:bi-k:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–336.53 K, x(K) 1–1 | 4 | 3 |
 | [BI2K_C15](#phase-bi-k-bi2k-c15); _phase:bi-k:bi2k-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–837.91 K, x(K) 0.33333–0.33333 | 12 | 3 |
-| [BI2K3](#phase-bi-k-bi2k3); _phase:bi-k:bi2k3_ | Eu3Ga2 · mC20 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–720 K, x(K) 0.6–0.6 | 17 | 3 |
-| [BI4K5](#phase-bi-k-bi4k5); _phase:bi-k:bi4k5_ | Bi4K5 · mC18 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–656.4 K, x(K) 0.55556–0.55556 | 21 | 3 |
+| [BI2K3](#phase-bi-k-bi2k3); _phase:bi-k:bi2k3_ | Eu3Ga2 · mC20 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–720 K, x(K) 0.6–0.6 | 13 | 3 |
+| [BI4K5](#phase-bi-k-bi4k5); _phase:bi-k:bi4k5_ | Bi4K5 · mC18 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–656.4 K, x(K) 0.55556–0.55556 | 17 | 3 |
 | [BIK3_D021](#phase-bi-k-bik3-d021); _phase:bi-k:bik3-d021_ | Cu3P · D0_21 · hP24 · P6_3cm (185) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–555.33 K, x(K) 0.75–0.75 | 7 | 3 |
 | [BIK3_D03](#phase-bi-k-bik3-d03); _phase:bi-k:bik3-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 553–990 K, x(K) 0.75–0.75 | 10 | 3 |
 | [FCC_A1](#phase-bi-k-fcc-a1); _phase:bi-k:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -183,7 +183,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.4000, K 0.6000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–720 K, x(K) 0.6–0.6
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-k:bi2k3)
 
 Names (5): _corpus: _corpus:phase:bi-k:bi2k3  
@@ -235,7 +235,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.4444, K 0.5556
 - Stability: stable in 3 of 3 calculated diagram(s): 300–656.4 K, x(K) 0.55556–0.55556
-- Literature: 21 values (21 accepted) from 1 papers
+- Literature: 17 values (17 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-k:bi4k5)
 
 Names (5): _corpus: _corpus:phase:bi-k:bi4k5  

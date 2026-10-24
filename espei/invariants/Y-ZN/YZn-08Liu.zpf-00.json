@@ -83,6 +83,7 @@
   "observations": [
    {
     "id": "ORC-BY7225MNKN",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2006.11.029",
     "also_reported_as": [
      {
@@ -99,6 +100,7 @@
    },
    {
     "id": "ORC-SNJMFM5ZEF",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2006.11.029",
     "also_reported_as": [
      {

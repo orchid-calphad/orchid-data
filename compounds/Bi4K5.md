@@ -1,20 +1,19 @@
 # Bi4K5: enthalpy of formation
 
-> Enthalpy of formation of Bi4K5: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Bi4K5: 3 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Bi4K5.html · Markdown: https://data.orchid-project.org/compounds/Bi4K5.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 1, model 2, unspecified 1); experimental median -38.1 kJ/mol-atom (n = 1); Materials Project -33.867 kJ/mol-atom (mp-aaacrqif); OQMD -36.015 kJ/mol-atom (oqmd-1339793).
+3 accepted literature formation-enthalpy value(s) (model 2, unspecified 1); Materials Project -33.867 kJ/mol-atom (mp-aaacrqif); OQMD -36.015 kJ/mol-atom (oqmd-1339793).
 
 Systems: [Bi–K](https://data.orchid-project.org/systems/BI-K.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Bi4K5 reported in the literature (4)
+Table: Enthalpy of formation of Bi4K5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38.1 kJ/mol-atom ± 2.2 | Bi4K5 | 523 | experimental |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
 | -48.4 kJ/mol-atom | Bi4K5 | 627 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 11 |  |
 | -42.1 kJ/mol-atom | Bi4K5 | 523 | model |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012 | Table 3, p. 4, row 9 |  |
 | -50.2 kJ/mol-atom ± 12.6 | Bi4K5 | 627 | unspecified |  | [Bi–K](https://data.orchid-project.org/systems/BI-K.html) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 10 |  |

@@ -346,8 +346,8 @@ _cited as the source of values for this phase_
 - Literature: 13 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ni:ge3ni5-prime)
 
-Names (6): _corpus: _corpus:phase:ge-ni:ge3ni5-prime  
-_paper: _paper:10.1016/j.calphad.2012.03.003:ε′Ni5Ge3, paper:10.1016/j.jallcom.2009.11.036:ε'Ni5Ge3, paper:10.1016/j.jallcom.2009.11.036:ε′Ni5Ge3  
+Names (5): _corpus: _corpus:phase:ge-ni:ge3ni5-prime  
+_paper: _paper:10.1016/j.calphad.2012.03.003:ε′Ni5Ge3, paper:10.1016/j.jallcom.2009.11.036:ε'Ni5Ge3  
 _tdb: _tdb:GeNi-10Liu.tdb:GE3NI5_PRIME, tdb:GeNi-12Jin.tdb:GE3NI5_PRIME  
 
 

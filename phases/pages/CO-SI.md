@@ -138,7 +138,7 @@ _cited as the source of values for this phase_
 - Structure: Co2Si · C37 · oP12 · Pnma (62); type `st:c37-co2si-op12`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in CoSi-06Zha.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1603.68 K, x(Si) 0.32229–0.33776
-- Literature: 26 values (26 accepted) from 2 papers
+- Literature: 26 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-si:co2si-c37)
 
 Names (5): _corpus: _corpus:phase:co-si:co2si-c37  
@@ -226,7 +226,7 @@ _cited as the source of values for this phase_
 - Structure: FeSi · B20 · cP8 · P2_13 (198); type `st:b20-fesi-cp8`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in CoSi-06Zha.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1729.38 K, x(Si) 0.49115–0.51491
-- Literature: 26 values (26 accepted) from 2 papers
+- Literature: 26 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-si:cosi-b20)
 
 Names (5): _corpus: _corpus:phase:co-si:cosi-b20  
@@ -268,7 +268,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaadnn and oqmd-5256, space group 225
 - Stoichiometry: Co 0.3333, Si 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1596.91 K, x(Si) 0.66667–0.66667
-- Literature: 23 values (23 accepted) from 2 papers
+- Literature: 23 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-si:cosi2-c1)
 
 Names (7): _corpus: _corpus:phase:co-si:cosi2-c1  

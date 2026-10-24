@@ -1,10 +1,10 @@
 # Ge–Sn system
 
-> Ge–Sn system: 15 accepted literature values (mixing / partial 14, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Sn system: 11 accepted literature values (mixing / partial 10, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SN.html · Markdown: https://data.orchid-project.org/systems/GE-SN.md
 
-15 accepted literature values from 3 paper(s) (experimental 14, model 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+11 accepted literature values from 3 paper(s) (experimental 10, model 1); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SN.json) · [CSV](https://data.orchid-project.org/systems/GE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SN/GeSn-79Ans.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SN.html) · [Markdown](https://data.orchid-project.org/systems/GE-SN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 10 |
 | model | 1 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| mixing / partial | 14 |
+| mixing / partial | 10 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Table: Phase transition, Ge–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 804.45 K | 804.45 | other | experimental | [1] Feutelais 1996 | p. 2 | “In their study of the ternary system Au-Ge-Sn, (SZMOU\] obtained by DSC measurements on purified samples carefully weighed, an invariant temperature of 231.1"C and a liquidus temperature of 531.3"C for the composition Xsn = .90.” |
 
-### Mixing / partial (14)
+### Mixing / partial (10)
 
 Table: Mixing / partial, Ge–Sn system
 
@@ -64,10 +64,6 @@ Table: Mixing / partial, Ge–Sn system
 | Partial enthalpy; _printed: ΔH_Ge^∞_ | 40.1004 kJ/mol (basis unstated) |  | liquid | model | [1] Feutelais 1996 | Table 4, p. 7, row 5 |  |
 | Partial enthalpy; _printed: ΔH_Ge^∞_ | 41.7145 kJ/mol (basis unstated) | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 66_ | Table 4, p. 7, row 2 |  |
 | Partial enthalpy; _printed: ΔH_Ge^∞_ | 41.7145 kJ/mol (basis unstated) | 623 | liquid | experimental | [1] Feutelais 1996; _cites ref. 62_ | Table 4, p. 7, row 1 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.35 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.65 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 3.1 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |
-| Partial enthalpy; _printed: ΔsolH¯Ge(l)∞_ | 2.86 kJ/mol-atom ± 0.47 | 927 | UNKNOWN | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 2 |  |
 | Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.35 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 3 |  |
 | Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.65 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 1 |  |
 | Partial enthalpy; _printed: ΔsolH∞Ge(l)_ | 3.1 kJ/mol-atom ± 0.47 | 927 | liquid Sn; _alloy: Sn 1_ | experimental | [2] Gierlotka 2022 | Table 3, p. 2, row 4 |  |

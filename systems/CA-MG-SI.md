@@ -1,10 +1,10 @@
 # Ca–Mg–Si system
 
-> Ca–Mg–Si system: 121 accepted literature values (phase transition 66, invariant reaction 22, phase equilibrium 18, crystal structure 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg–Si system: 120 accepted literature values (phase transition 66, invariant reaction 22, phase equilibrium 18, crystal structure 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/CA-MG-SI.md
 
-121 accepted literature values from 1 paper(s) (experimental 96, model 25); 0 calculated phase diagram(s).
+120 accepted literature values from 1 paper(s) (experimental 95, model 25); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/CA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG-SI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 96 |
+| experimental | 95 |
 | model | 25 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 22 |
 | phase transition | 66 |
 | phase equilibrium | 18 |
-| crystal structure | 14 |
+| crystal structure | 13 |
 | other property | 1 |
 
 ## Invariant reactions (literature)
@@ -154,7 +154,7 @@ Table: Phase equilibrium, Ca–Mg–Si system
 | Phase assemblage |  | 673.15 | CaSi2 + Ca7Mg6Si14 + Si + Ca3Si4; _alloy: Ca 0.25, Mg 0.1, Si 0.65_ | experimental | [1] Gröbner 2003 | Table 3, p. 5, row 1 |  |
 | Phase assemblage |  | 673.15 | Mg2Si + CaMgSi + Ca7Mg6Si14; _alloy: Ca 0.19, Mg 0.48, Si 0.33_ | experimental | [1] Gröbner 2003 | Table 3, p. 5, row 8 |  |
 
-### Crystal structure (14)
+### Crystal structure (13)
 
 Table: Crystal structure, Ca–Mg–Si system
 
@@ -163,7 +163,6 @@ Table: Crystal structure, Ca–Mg–Si system
 | Lattice a | 1270.8 not_printed ± 0.5 | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 5 |  |
 | Lattice a | 1271 pm | 1423.15 (\<) | τ2, Ca7Mg6Si14; _alloy: Mg 0.222222, Si 0.518519_ | model | [1] Gröbner 2003; _cites Zmiy 1974_ | Table 4, p. 5, row 4 |  |
 | Lattice a | 748.1 not_printed | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
-| Lattice a | 748.1 not_printed ± 0.4 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |
 | Lattice a | 750.4 not_printed ± 0.5 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.263_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 3 |  |
 | Lattice a | 748 pm | 1507.15 (\<) | τ1 | model | [1] Gröbner 2003; _cites Eisenman 1972_ | Table 4, p. 5, row 1 |  |
 | Lattice b | 445.2 not_printed ± 0.6 | 1507.15 (\<) | τ1; _τ1, Ca1+δMg1-δSi CaMgSi: Mg 0.333_ | experimental | [1] Gröbner 2003 | Table 4, p. 5, row 2 |  |

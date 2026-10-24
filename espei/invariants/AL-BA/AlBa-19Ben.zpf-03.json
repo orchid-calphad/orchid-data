@@ -63,6 +63,7 @@
   "observations": [
    {
     "id": "ORC-JUMGMEKJN2",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-019-00714-2",
     "measured_in": "doi:10.1515/ijmr-1934-261-1203",
     "also_reported_as": [

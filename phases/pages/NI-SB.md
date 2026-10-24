@@ -30,7 +30,7 @@ Table: Phases of the Ni–Sb system (11)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Sb 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–903.56 K, x(Sb) 1–1
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 10 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sb:a7-rhombohedral)
 
 Names (8): _corpus: _corpus:phase:ni-sb:a7-rhombohedral, corpus:phase:ni-sb:rhombohedral-a7  
@@ -96,7 +96,7 @@ _cited as the source of values for this phase_
 - Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word 'A2' in the TDB name
 - Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)
 - Stability: stable in 1 of 4 calculated diagram(s): 803.04–1413.04 K, x(Sb) 0.24453–0.29057
-- Literature: 54 values (54 accepted) from 1 papers
+- Literature: 54 values (53 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sb:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:ni-sb:bcc-a2  
@@ -271,7 +271,7 @@ _assessment that models this phase_
 - Id: `phase:ni-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 890.32–2500 K, x(Sb) 0–1
-- Literature: 73 values (73 accepted) from 2 papers
+- Literature: 73 values (72 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sb:liquid)
 
 Names (7): _corpus: _corpus:phase:ni-sb:liquid  
@@ -579,7 +579,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabdlf and oqmd-7569, space group 58
 - Stoichiometry: Ni 0.3333, Sb 0.6667
 - Stability: stable in 4 of 4 calculated diagram(s): 300–901.22 K, x(Sb) 0.66667–0.66667
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 22 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sb:nisb2-c18)
 
 Names (10): _corpus: _corpus:phase:ni-sb:nisb2-c18  

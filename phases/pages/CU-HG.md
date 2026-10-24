@@ -168,8 +168,8 @@ _assessment that models this phase_
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-hg:liquid)
 
-Names (4): _corpus: _corpus:phase:cu-hg:liquid  
-_paper: _paper:10.1016/j.tca.2012.08.004:liq, paper:10.1016/j.tca.2012.08.004:liq (2nd)  
+Names (3): _corpus: _corpus:phase:cu-hg:liquid  
+_paper: _paper:10.1016/j.tca.2012.08.004:liq  
 _tdb: _tdb:CuHg-12Liu.tdb:LIQUID  
 
 

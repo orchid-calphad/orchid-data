@@ -112,6 +112,7 @@
   "observations": [
    {
     "id": "ORC-E6YE5QZV3B",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.06.001",
     "measured_in": "doi:10.1016/j.jallcom.2010.08.035",
     "also_reported_as": [
@@ -125,6 +126,7 @@
    },
    {
     "id": "ORC-IAFIQDUB53",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2011.06.001",
     "measured_in": "doi:10.1016/j.jallcom.2010.08.035"
    }

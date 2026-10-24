@@ -1,10 +1,10 @@
 # Ni–Sb system
 
-> Ni–Sb system: 121 accepted literature values (invariant reaction 115, formation 4, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sb system: 120 accepted literature values (invariant reaction 114, formation 4, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SB.html · Markdown: https://data.orchid-project.org/systems/NI-SB.md
 
-121 accepted literature values from 3 paper(s) (experimental 96, model 25); 4 calculated phase diagram(s).
+120 accepted literature values from 3 paper(s) (experimental 96, model 24); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SB.json) · [CSV](https://data.orchid-project.org/systems/NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SB/NiSb-08Cao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/NI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/NI-SB.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 96 |
-| model | 25 |
+| model | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 115 |
+| invariant reaction | 114 |
 | phase transition | 2 |
 | formation | 4 |
 
@@ -78,7 +78,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Sb system (115)
+Table: Invariant reactions reported in the literature for the Ni–Sb system (114)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -159,7 +159,6 @@ Table: Invariant reactions reported in the literature for the Ni–Sb system (11
 | 890 | eutectic: L ↔ ζNiSb2 + εSb | L: Sb 0.96; ζNiSb2: Sb 0.6667; εSb: Sb 0.01 | model | [2] Zhang 2008 | Table 3, p. 5, row 20 |  |
 | 889 | L+NiSb \<-> NiSb2 | L: Sb 0.95; NiSb: Sb 0.535; NiSb2: Sb 0.713 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 34 |  |
 | 889 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.96; ζNiSb2: Sb 0.714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 16 |  |
-| 889 | eutectic: L ↔ (ζNiSb2) + (εSb) | L: Sb 0.98; ζNiSb2: Sb 0.665; εSb: Sb 0.998; (εSb): Sb 0.998 | model | [2] Zhang 2008; _cites Cha 1991_ | Table 3, p. 5, row 19 |  |
 | 889 | eutectic: L ↔ ζNiSb2 + (εSb) | ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 17 |  |
 | 889 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.97; NiSb2: Sb 0.722; rhomb (Sb): Sb 0.995 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 39 |  |
 | 885 | congruent transformation: (βNi3Sb) ↔ (θNi5Sb2) | (βNi3Sb): Ni 0.75, Sb 0.25; (θNi5Sb2): Sb 0.285 | experimental | [2] Zhang 2008 | Table 3, p. 4, row 30 |  |

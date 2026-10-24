@@ -16,10 +16,10 @@ Table: Phases of the Li–Sb system (8)
 | [BCC_A2](#phase-li-sb-bcc-a2); _phase:li-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–453.6 K, x(Sb) 0–0 | 9 | 2 |
 | [FCC_A1](#phase-li-sb-fcc-a1); _phase:li-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-li-sb-hcp-a3); _phase:li-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LI2SB](#phase-li-sb-li2sb); _phase:li-sb:li2sb_ | GaMg2 · hP18 · P-62c (190) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–864.15 K, x(Sb) 0.33333–0.33333 | 32 | 2 |
+| [LI2SB](#phase-li-sb-li2sb); _phase:li-sb:li2sb_ | GaMg2 · hP18 · P-62c (190) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–864.15 K, x(Sb) 0.33333–0.33333 | 26 | 2 |
 | [LI3SB_D018](#phase-li-sb-li3sb-d018); _phase:li-sb:li3sb-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1580.27 K, x(Sb) 0.25–0.25 | 7 | 2 |
 | [LI3SB_D03](#phase-li-sb-li3sb-d03); _phase:li-sb:li3sb-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1160.49 K, x(Sb) 0.25–0.25 | 7 | 1 |
-| [LIQUID](#phase-li-sb-liquid); _phase:li-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 441.35–2500 K, x(Sb) 0–1 | 197 | 2 |
+| [LIQUID](#phase-li-sb-liquid); _phase:li-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 441.35–2500 K, x(Sb) 0–1 | 172 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Li–Sb)
 
@@ -172,7 +172,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.6667, Sb 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–864.15 K, x(Sb) 0.33333–0.33333
-- Literature: 32 values (32 accepted) from 2 papers
+- Literature: 26 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sb:li2sb)
 
 Names (5): _corpus: _corpus:phase:li-sb:li2sb  
@@ -275,7 +275,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:li-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 441.35–2500 K, x(Sb) 0–1
-- Literature: 197 values (197 accepted) from 2 papers
+- Literature: 172 values (172 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sb:liquid)
 
 Names (6): _corpus: _corpus:phase:li-sb:liquid  

@@ -1,10 +1,10 @@
 # Ga–O system
 
-> Ga–O system: 20 accepted literature values (crystal structure 8, heat capacity / entropy / enthalpy 6, formation 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–O system: 17 accepted literature values (crystal structure 8, formation 5, heat capacity / entropy / enthalpy 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-O.html · Markdown: https://data.orchid-project.org/systems/GA-O.md
 
-20 accepted literature values from 1 paper(s) (experimental 12, model 8); 1 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 10, model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-O.json) · [CSV](https://data.orchid-project.org/systems/GA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-O/GaO-04Zin.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-O.html) · [Markdown](https://data.orchid-project.org/systems/GA-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 8 |
+| experimental | 10 |
+| model | 7 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 1 |
 | formation | 5 |
-| heat capacity / entropy / enthalpy | 6 |
+| heat capacity / entropy / enthalpy | 3 |
 | crystal structure | 8 |
 
 ## Calculated phase diagrams
@@ -66,15 +66,12 @@ Table: Phase transition, Ga–O system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1800 K | 1800 | other | model | [1] Zinkevich 2004 | p. 7 | “At low pressures, the oxygen solubility in liquid gallium is greatly decreased, whereas ␤-Ga2O3 sublimates at ⬃1800 K (Fig. 5).” |
 
-### Heat capacity / entropy / enthalpy (6)
+### Heat capacity / entropy / enthalpy (3)
 
 Table: Heat capacity / entropy / enthalpy, Ga–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S_ | 85 J/mol (basis unstated)/K ± 0.4 | 298.15 | UNKNOWN | experimental | [1] Zinkevich 2004; _cites Pankratz 1963_ | Table V, p. 6, row 2 |  |
-| Entropy; _printed: S_ | 84.6 J/mol (basis unstated)/K ± 0.4 | 298.15 | UNKNOWN | experimental | [1] Zinkevich 2004; _cites King 1958_ | Table V, p. 6, row 1 |  |
-| Entropy; _printed: S_ | 84.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Zinkevich 2004 | Table V, p. 6, row 3 |  |
 | Entropy; _printed: S_ | 85 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites Pankratz 1963_ | Table V, p. 6, row 2 |  |
 | Entropy; _printed: S_ | 84.6 J/mol (basis unstated)/K ± 0.4 | 298.15 | β-Ga2O3; _alloy: O 0.6_ | experimental | [1] Zinkevich 2004; _cites King 1958_ | Table V, p. 6, row 1 |  |
 | Entropy; _printed: S_ | 84.83 J/mol (basis unstated)/K | 298.15 | β-Ga2O3; _alloy: O 0.6_ | model | [1] Zinkevich 2004 | Table V, p. 6, row 3 |  |

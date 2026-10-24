@@ -1,10 +1,10 @@
 # Co–Cu system
 
-> Co–Cu system: 82 accepted literature values (mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 12, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cu system: 81 accepted literature values (mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CU.html · Markdown: https://data.orchid-project.org/systems/CO-CU.md
 
-82 accepted literature values from 3 paper(s) (experimental 69, model 13); 4 calculated phase diagram(s).
+81 accepted literature values from 3 paper(s) (experimental 69, model 12); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU.json) · [CSV](https://data.orchid-project.org/systems/CO-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CU/CoCu-00Kub-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CU.html) · [Markdown](https://data.orchid-project.org/systems/CO-CU.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 69 |
-| model | 13 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 11 |
 | phase transition | 1 |
 | phase equilibrium | 10 |
 | mixing / partial | 35 |
@@ -56,11 +56,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Cu system (12)
+Table: Invariant reactions reported in the literature for the Co–Cu system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1386 | L + (αCo) \<=> (αCu) | L: Co 0.057; (αCo): Co 0.883; (Cu): Co 0.091 | model | [1] Turchanin 2007 | Table 1, p. 6, row 12 |  |
 | 1385 | L + (αCo) \<=> (αCu) | L: Co 0.051; (αCo): Co 0.874; (Cu): Co 0.084 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 10 |  |
 | 1385 | L + (αCo) \<=> (αCu) | L: Co 0.048; (αCo): Co 0.88; (Cu): Co 0.086 | experimental | [1] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 3 |  |
 | 1385 | L + (αCo) \<=> (αCu) |  | experimental | [1] Turchanin 2007; _cites ref. 28_ | Table 1, p. 6, row 4 |  |
@@ -148,7 +147,7 @@ Table: Heat capacity / entropy / enthalpy, Co–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: SE_ | 1 J·mol-1·K-1 | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3 | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
+| sm excess; _printed: SE_ | 1 J·mol-1·K-1 | 1810.15 | liquid | model | [3] Kubišta 2000 | p. 3 | “Liquid Co-Cu alloys are characterized by positive values of the molar excess Gibbs energies GE at 1537 °C (Fig. 2, Table 4), positive values of the molar excess entropies SE (Table 4), and endothermic molar heat of mixing HE (Fig. 3, Table 4). At that temperature, the maximum HE value is 8294 J·mol-1 at 50at.%Cu, the maximum SE value is 1.00 J·mol-1·K-1 at 40at.%Cu, and the maximum GE value is 65…” |
 
 ### Activity / EMF / Gibbs energy (23)
 

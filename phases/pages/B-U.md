@@ -160,7 +160,7 @@ _assessment that models this phase_
 - Id: `phase:b-u:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1381.19–4000 K, x(B) 0–1
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 18 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:liquid)
 
 Names (3): _corpus: _corpus:phase:b-u:liquid  
@@ -242,7 +242,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-u:ub2-c32`; status `assigned`
 - Structure: AlB2 · C32 · hP3 · P6/mmm (191); type `st:c32-alb2-hp3`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2670.95 K, x(B) 0.66667–0.66667
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 8 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:ub2-c32)
 
 Names (3): _corpus: _corpus:phase:b-u:ub2-c32  

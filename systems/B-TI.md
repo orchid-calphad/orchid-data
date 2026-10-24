@@ -1,10 +1,10 @@
 # B–Ti system
 
-> B–Ti system: 152 accepted literature values (invariant reaction 61, formation 36, phase transition 21, crystal structure 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ti system: 141 accepted literature values (invariant reaction 61, formation 25, phase transition 21, crystal structure 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-TI.html · Markdown: https://data.orchid-project.org/systems/B-TI.md
 
-152 accepted literature values from 6 paper(s) (experimental 70, model 51, DFT 23, unspecified 8); 0 calculated phase diagram(s).
+141 accepted literature values from 6 paper(s) (experimental 70, model 50, DFT 13, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-TI.json) · [CSV](https://data.orchid-project.org/systems/B-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TI) · [phases (10)](https://data.orchid-project.org/phases/pages/B-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-TI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 70 |
-| model | 51 |
-| DFT | 23 |
+| model | 50 |
+| DFT | 13 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 61 |
 | phase transition | 21 |
 | phase equilibrium | 10 |
-| formation | 36 |
+| formation | 25 |
 | heat capacity / entropy / enthalpy | 4 |
 | crystal structure | 20 |
 
@@ -102,7 +102,7 @@ Table: Invariant reactions reported in the literature for the B–Ti system (61)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Ti system (36)
+Table: Enthalpies of formation, B–Ti system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -131,17 +131,6 @@ Table: Enthalpies of formation, B–Ti system (36)
 | TiB2 |  | -21.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 15 |  |
 | TiB2 |  | 35 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 5 |  |
 | TiB2 |  | 68.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 16 |  |
-| UNKNOWN |  | -109.7 kJ/mol (basis unstated) |  | model |  |  | [6] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 10 |  |
-| UNKNOWN |  | -105.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 9 |  |
-| UNKNOWN |  | -83.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 8 |  |
-| UNKNOWN |  | -68.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 12 |  |
-| UNKNOWN |  | -68.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 7 |  |
-| UNKNOWN |  | -56.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 13 |  |
-| UNKNOWN |  | -46.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 14 |  |
-| UNKNOWN |  | -32.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 6 |  |
-| UNKNOWN |  | -21.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 15 |  |
-| UNKNOWN |  | 35 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 5 |  |
-| UNKNOWN |  | 68.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 16 |  |
 
 ## Other properties
 

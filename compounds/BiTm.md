@@ -1,26 +1,22 @@
 # BiTm: enthalpy of formation
 
-> Enthalpy of formation of BiTm: 8 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of BiTm: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BiTm.html · Markdown: https://data.orchid-project.org/compounds/BiTm.md
 
-8 accepted literature formation-enthalpy value(s) (model 6, DFT 2); Materials Project -74.592 kJ/mol-atom (mp-aaaabijq); OQMD -77.416 kJ/mol-atom (oqmd-1926383).
+4 accepted literature formation-enthalpy value(s) (model 3, DFT 1); Materials Project -74.592 kJ/mol-atom (mp-aaaabijq); OQMD -77.416 kJ/mol-atom (oqmd-1926383).
 
 Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BiTm reported in the literature (8)
+Table: Enthalpy of formation of BiTm reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -99 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 17 |  |
-| -99 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 17 |  |
-| -76.796 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 19 |  |
 | -76.796 kJ/mol-atom | BiTm |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 19 |  |
 | -73 kJ/mol-atom | BiTm |  | model | Miedema model | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 16 |  |
-| -73 kJ/mol-atom | BiTm |  | model | Miedema model | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 16 |  |
-| -76.501 kJ/mol-atom | BiTm | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 18 |  |
 | -76.501 kJ/mol-atom | BiTm | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 18 |  |
 
 ## DFT formation energies

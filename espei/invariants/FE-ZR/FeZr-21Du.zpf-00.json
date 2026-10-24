@@ -174,21 +174,25 @@
   "observations": [
    {
     "id": "ORC-GOADDM3UBM.f9174d",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w"
    },
    {
     "id": "ORC-ZMIUT26VV7",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w"
    },
    {
     "id": "ORC-6OBWWAUF32",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w"
    },
    {
     "id": "ORC-RMDIQ7YMCC.ca1f59",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w"
    }

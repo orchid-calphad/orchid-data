@@ -1,6 +1,6 @@
 # V system
 
-> V system: 54 accepted literature values (heat capacity / entropy / enthalpy 47, formation 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> V system: 54 accepted literature values (heat capacity / entropy / enthalpy 54) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/V.html · Markdown: https://data.orchid-project.org/systems/V.md
 
@@ -20,26 +20,11 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 7 |
-| heat capacity / entropy / enthalpy | 47 |
+| heat capacity / entropy / enthalpy | 54 |
 
 ## Other properties
 
-### Formation (7)
-
-Table: Formation, V system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfusS°_ | 7.953 unknown ± 0.335 | 2175 | V | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 7, p. 7, row 1 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 9.8488 unknown | 2183 | V | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 7, p. 7, row 19 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 9.9 unknown ± 1 | 2183 | V | model | [1] Hu 2020; _cites Smith 1981_ | Table 7, p. 7, row 15 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 10.432 unknown | 2190 | V | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 7, p. 7, row 16 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 10.4607 unknown | 2201 | V | model | [1] Hu 2020; _cites Arblaster 2017_ [doi](https://doi.org/10.1007/s11669-016-0514-7) | Table 7, p. 7, row 18 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 9.537 unknown ± 1.2 | 2202 | V | model | [1] Hu 2020; _cites Desai 1986_ [doi](https://doi.org/10.1007/bf00503812) | Table 7, p. 7, row 17 |  |
-| Entropy of formation; _printed: ΔfusS°_ | 9.5474 unknown | 2202 | V | model | [1] Hu 2020 | Table 7, p. 7, row 20 |  |
-
-### Heat capacity / entropy / enthalpy (47)
+### Heat capacity / entropy / enthalpy (54)
 
 Table: Heat capacity / entropy / enthalpy, V system
 
@@ -92,6 +77,13 @@ Table: Heat capacity / entropy / enthalpy, V system
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4706 unknown | 298.15 | V | model | [1] Hu 2020 | Table 7, p. 7, row 20 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4640 unknown | 298.15 | V | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 7, p. 7, row 16 |  |
 | Heat content; _printed: H°(298.15 K)–H°(0 K)_ | 4640 unknown | 298.15 | V | model | [1] Hu 2020; _cites Hultgren 1973_ | Table 7, p. 7, row 13 |  |
+| sm fusion; _printed: ΔfusS°_ | 7.953 unknown ± 0.335 | 2175 | V | experimental | [1] Hu 2020; _cites Treverton 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980029-0) | Table 7, p. 7, row 1 |  |
+| sm fusion; _printed: ΔfusS°_ | 9.8488 unknown | 2183 | V | model | [1] Hu 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 7, p. 7, row 19 |  |
+| sm fusion; _printed: ΔfusS°_ | 9.9 unknown ± 1 | 2183 | V | model | [1] Hu 2020; _cites Smith 1981_ | Table 7, p. 7, row 15 |  |
+| sm fusion; _printed: ΔfusS°_ | 10.432 unknown | 2190 | V | model | [1] Hu 2020; _cites and Desai \[35\] 1941_ | Table 7, p. 7, row 16 |  |
+| sm fusion; _printed: ΔfusS°_ | 10.4607 unknown | 2201 | V | model | [1] Hu 2020; _cites Arblaster 2017_ [doi](https://doi.org/10.1007/s11669-016-0514-7) | Table 7, p. 7, row 18 |  |
+| sm fusion; _printed: ΔfusS°_ | 9.537 unknown ± 1.2 | 2202 | V | model | [1] Hu 2020; _cites Desai 1986_ [doi](https://doi.org/10.1007/bf00503812) | Table 7, p. 7, row 17 |  |
+| sm fusion; _printed: ΔfusS°_ | 9.5474 unknown | 2202 | V | model | [1] Hu 2020 | Table 7, p. 7, row 20 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # C–Pu system
 
-> C–Pu system: 118 accepted literature values (heat capacity / entropy / enthalpy 72, formation 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Pu system: 92 accepted literature values (heat capacity / entropy / enthalpy 58, formation 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-PU.html · Markdown: https://data.orchid-project.org/systems/C-PU.md
 
-118 accepted literature values from 1 paper(s) (experimental 58, model 36, unspecified 24); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+92 accepted literature values from 1 paper(s) (experimental 42, model 32, unspecified 18); 0 calculated phase diagram(s). 12 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-PU.json) · [CSV](https://data.orchid-project.org/systems/C-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-PU) · [phases (14)](https://data.orchid-project.org/phases/pages/C-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-PU.html) · [Markdown](https://data.orchid-project.org/systems/C-PU.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 58 |
-| model | 36 |
-| unspecified | 24 |
+| experimental | 42 |
+| model | 32 |
+| unspecified | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 46 |
-| heat capacity / entropy / enthalpy | 72 |
+| formation | 34 |
+| heat capacity / entropy / enthalpy | 58 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-PU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-PU.json) · [CALPHAD hull PuC-08Fis](https://data.orchid-project.org/hulls/calphad-sgte/C/C-PU--PuC-08Fis.json)
 
@@ -29,7 +29,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Pu system (46)
+Table: Enthalpies of formation, C–Pu system (34)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -67,22 +67,10 @@ Table: Enthalpies of formation, C–Pu system (46)
 | C₀.₉₁Pu |  | -50.2 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Lorenzelli 1971_ [doi](https://doi.org/10.1016/0022-1902%2871%2980650-4) | Table 1, p. 3, row 5 |  |
 | C₀.₉₁Pu |  | -45.6 kJ/mol (basis unstated) ± 4.2 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Campbell 1970_ | Table 1, p. 3, row 7 |  |
 | C₁Pu |  | -53.67 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
-| UNKNOWN |  | -102.09 kJ/mol (basis unstated) ± 11 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Lorenzelli 1971_ [doi](https://doi.org/10.1016/0022-1902%2871%2980650-4) | Table 2, p. 3, row 5 |  |
-| UNKNOWN |  | -93.3 kJ/mol (basis unstated) ± 3.3 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Besmann 1983_ [doi](https://doi.org/10.1111/j.1151-2916.1983.tb10562.x) | Table 2, p. 3, row 1 |  |
-| UNKNOWN |  | -88 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Lapage 1969_ | Table 2, p. 3, row 9 |  |
-| UNKNOWN |  | -84.73 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Fischer 2008; _cites Barin 1995_ | Table 2, p. 3, row 13 |  |
-| UNKNOWN |  | -82.84 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Johnson 2008_ | Table 2, p. 3, row 3 |  |
-| UNKNOWN |  | -77.06 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Fischer 2008 | Table 2, p. 3, row 14 |  |
-| UNKNOWN |  | -74.7 kJ/mol (basis unstated) ± 8.35 | 298.15 | unspecified |  |  | [1] Fischer 2008; _cites Lemire 2001_ | Table 2, p. 3, row 12 |  |
-| UNKNOWN |  | -73.22 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Harris 1967_ | Table 2, p. 3, row 11 |  |
-| UNKNOWN |  | -67.53 kJ/mol (basis unstated) ± 4.6 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Battles 1970_ | Table 2, p. 3, row 6 |  |
-| UNKNOWN |  | -66.53 kJ/mol (basis unstated) ± 8 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Marcon 1970_ [doi](https://doi.org/10.1016/0022-1902%2870%2980305-0) | Table 2, p. 3, row 7 |  |
-| UNKNOWN |  | -55.23 kJ/mol (basis unstated) ± 10.5 | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Campbell 1970_ | Table 2, p. 3, row 8 |  |
-| UNKNOWN |  | -51.46 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Fischer 2008; _cites Olson 1967_ | Table 2, p. 3, row 10 |  |
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (72)
+### Heat capacity / entropy / enthalpy (58)
 
 Table: Heat capacity / entropy / enthalpy, C–Pu system
 
@@ -124,16 +112,6 @@ Table: Heat capacity / entropy / enthalpy, C–Pu system
 | Entropy; _printed: ΔS°f,298.15_ | 12.13 J/K mol ± 2 | 298.15 | C₀.₉₁Pu; _alloy: Pu 0.52356_ | experimental | [1] Fischer 2008; _cites Campbell 1970_ | Table 1, p. 3, row 7 |  |
 | Entropy; _printed: ΔS°f,298.15_ | 13.67 J/K mol | 298.15 | C₁Pu; _alloy: Pu 0.5_ | model | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
 | Entropy; _printed: S°298.15_ | 73.87 J/mol (basis unstated)/K | 298.15 | C₁Pu; _alloy: Pu 0.5_ | model | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
-| Entropy; _printed: ΔS°f,298.15_ | 9.76 J/K mol | 298.15 | UNKNOWN | model | [1] Fischer 2008 | Table 2, p. 3, row 14 |  |
-| Entropy; _printed: S°298.15_ | 72.83 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Fischer 2008 | Table 2, p. 3, row 14 |  |
-| Entropy; _printed: ΔS°f,298.15_ | 23.01 J/K mol ± 4.2 | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Campbell 1970_ | Table 2, p. 3, row 8 |  |
-| Entropy; _printed: S°298.15_ | 75 J/mol (basis unstated)/K ± 2.2 | 298.15 | UNKNOWN | unspecified | [1] Fischer 2008; _cites Barin 1995_ | Table 2, p. 3, row 13 |  |
-| Entropy; _printed: ΔS°f,298.15_ | 21.3 J/K mol ± 2.5 | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Battles 1970_ | Table 2, p. 3, row 6 |  |
-| Entropy; _printed: S°298.15_ | 76.17 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Besmann 1983_ [doi](https://doi.org/10.1111/j.1151-2916.1983.tb10562.x) | Table 2, p. 3, row 1 |  |
-| Entropy; _printed: ΔS°f,298.15_ | -0.84 J/K mol ± 4.2 | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Johnson 2008_ | Table 2, p. 3, row 3 |  |
-| Entropy; _printed: S°298.15_ | 75 J/mol (basis unstated)/K ± 2.2 | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Haines 1980_ [doi](https://doi.org/10.1016/0022-3115%2880%2990281-0) | Table 2, p. 3, row 2 |  |
-| Entropy; _printed: S°298.15_ | 64 J/mol (basis unstated)/K ± 4 | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Danan 1972_ | Table 2, p. 3, row 4 |  |
-| Entropy; _printed: S°298.15_ | 75 J/mol (basis unstated)/K ± 1.45 | 298.15 | UNKNOWN | unspecified | [1] Fischer 2008; _cites Lemire 2001_ | Table 2, p. 3, row 12 |  |
 | Heat capacity; _printed: CP298.15_ | 46.06 J/mol (basis unstated)/K | 298.15 | C0.82Pu; _alloy: Pu 0.549451_ | experimental | [1] Fischer 2008; _cites Oetting 1980_ [doi](https://doi.org/10.1016/0022-3115%2880%2990282-2) | Table 1, p. 3, row 1 |  |
 | Heat capacity; _printed: CP298.15_ | 44.16 J/mol (basis unstated)/K | 298.15 | C0.84Pu; _alloy: Pu 0.543478_ | model | [1] Fischer 2008 | Table 1, p. 3, row 13 |  |
 | Heat capacity; _printed: CP298.15_ | 47.1 J/mol (basis unstated)/K ± 1 | 298.15 | C0.84Pu; _alloy: Pu 0.543478_ | unspecified | [1] Fischer 2008; _cites Lemire 2001_ | Table 1, p. 3, row 11 |  |
@@ -156,10 +134,6 @@ Table: Heat capacity / entropy / enthalpy, C–Pu system
 | Heat capacity; _printed: CP298.15_ | 47.7 J/mol (basis unstated)/K | 298.15 | C₀.₈₈Pu; _alloy: Pu 0.531915_ | unspecified | [1] Fischer 2008; _cites Barin 1995_ | Table 1, p. 3, row 12 |  |
 | Heat capacity; _printed: CP298.15_ | 45.11 J/mol (basis unstated)/K | 298.15 | C₀.₉Pu; _alloy: Pu 0.526316_ | model | [1] Fischer 2008 | Table 1, p. 3, row 14 |  |
 | Heat capacity; _printed: CP298.15_ | 46.69 J/mol (basis unstated)/K | 298.15 | C₁Pu; _alloy: Pu 0.5_ | model | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
-| Heat capacity; _printed: CP298.15_ | 56 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Fischer 2008 | Table 2, p. 3, row 14 |  |
-| Heat capacity; _printed: CP298.15_ | 57 J/mol (basis unstated)/K | 298.15 | UNKNOWN | unspecified | [1] Fischer 2008; _cites Barin 1995_ | Table 2, p. 3, row 13 |  |
-| Heat capacity; _printed: CP298.15_ | 57 J/mol (basis unstated)/K | 298.15 | UNKNOWN | experimental | [1] Fischer 2008; _cites Haines 1980_ [doi](https://doi.org/10.1016/0022-3115%2880%2990281-0) | Table 2, p. 3, row 2 |  |
-| Heat capacity; _printed: CP298.15_ | 57 J/mol (basis unstated)/K ± 0.2 | 298.15 | UNKNOWN | unspecified | [1] Fischer 2008; _cites Lemire 2001_ | Table 2, p. 3, row 12 |  |
 
 ## Sources
 

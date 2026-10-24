@@ -1,21 +1,20 @@
 # Y2C: enthalpy of formation
 
-> Enthalpy of formation of Y2C: 5 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Y2C: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Y2C.html · Markdown: https://data.orchid-project.org/compounds/Y2C.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); experimental median 31.8 kJ/mol-atom (n = 1); Materials Project -28.155 kJ/mol-atom (mp-aaaaabzi); OQMD -28.729 kJ/mol-atom (oqmd-4155).
+4 accepted literature formation-enthalpy value(s) (experimental 1, model 3); Materials Project -28.155 kJ/mol-atom (mp-aaaaabzi); OQMD -28.729 kJ/mol-atom (oqmd-4155).
 
 Systems: [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) · [C–Y](https://data.orchid-project.org/systems/C-Y.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Y2C reported in the literature (5)
+Table: Enthalpy of formation of Y2C reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -31.8 kJ/mol (basis unstated) ± 1.3 | Y2C | 298.15 | experimental |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995; _cites Meschel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990783-8) | Table 3, p. 3, row 11 |  |
-| 31.8 kJ/mol-atom ± 1.3 | Y2C | 298.15 | experimental |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [2] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
 | -37 kJ/mol-atom | Y2C |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [2] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 32 |  |
 | -31.5 kJ/mol-atom | Y2C |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [2] Xu 2019; _cites Grobner 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906028-2) | Table 2, p. 3, row 30 |  |
 | -31.5 kJ/mol (basis unstated) | Y2C |  | model |  | [C–Y](https://data.orchid-project.org/systems/C-Y.html) | [1] Gröbner 1995 | Table 3, p. 3, row 12 |  |

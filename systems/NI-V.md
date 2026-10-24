@@ -1,10 +1,10 @@
 # Ni–V system
 
-> Ni–V system: 40 accepted literature values (invariant reaction 32, phase transition 8) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–V system: 34 accepted literature values (invariant reaction 26, phase transition 8) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-V.html · Markdown: https://data.orchid-project.org/systems/NI-V.md
 
-40 accepted literature values from 2 paper(s) (experimental 16, model 24); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+34 accepted literature values from 2 paper(s) (experimental 16, model 18); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-V.json) · [CSV](https://data.orchid-project.org/systems/NI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-V/NiV-01Wat.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-V.html) · [Markdown](https://data.orchid-project.org/systems/NI-V.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 24 |
+| model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 26 |
 | phase transition | 8 |
 
 ## Calculated phase diagrams
@@ -104,7 +104,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–V system (32)
+Table: Invariant reactions reported in the literature for the Ni–V system (26)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -118,7 +118,6 @@ Table: Invariant reactions reported in the literature for the Ni–V system (32)
 | 1475 | eutectic: L -> fcc + σ | L: V 0.512; fcc: V 0.43; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 1 |  |
 | 1475 | eutectic |  | model | [2] Kabanova 2010; _cites Smith 1982_ | p. 1 | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
 | 1473 | eutectic |  | experimental | [2] Kabanova 2010 | p. 1 | “The eutectic temperature was 1473 ± 5 K, which agreed well with the published data (1475 K) \[1\].” |
-| 1337.15 | fcc-(Ni) + bcc-(Mo,V) = δ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 1 |  |
 | 1325.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.247; Ni3V: V 0.247 | model | [1] Pan 2018 | Table 3, p. 6, row 11 |  |
 | 1318.15 | fcc-(Ni) = Ni3V | fcc-(Ni): V 0.25; Ni3V: V 0.25 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 12 |  |
 | 1206.15 | fcc-(Ni) = Ni2V | fcc-(Ni): V 0.333; Ni2V: V 0.333 | model | [1] Pan 2018 | Table 3, p. 6, row 13 |  |
@@ -135,11 +134,6 @@ Table: Invariant reactions reported in the literature for the Ni–V system (32)
 | 1163.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.385; Ni2V: V 0.33; σ: V 0.55 | experimental | [1] Pan 2018; _cites Stevens 1970_ [doi](https://doi.org/10.1007/bf02900242) | Table 3, p. 6, row 8 |  |
 | 1163 | eutectoid: fcc -> Ni2V + σ | fcc: V 0.365; Ni2V: V 0.33; σ: V 0.56 | experimental | [2] Kabanova 2010; _cites Smith 1982_ | Table 1, p. 3, row 11 |  |
 | 1155.15 | fcc-(Ni) = Ni2V + σ | fcc-(Ni): V 0.367; Ni2V: V 0.333; σ: V 0.532 | model | [1] Pan 2018 | Table 3, p. 6, row 7 |  |
-| 1090.15 | fcc-(Ni) + bcc-(Mo,V) = σ + MoNi3 |  | model | [1] Pan 2018 | Table 5, p. 9, row 2 |  |
-| 1079.15 | fcc-(Ni) + Ni3V = MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 3 |  |
-| 1071.15 | fcc-(Ni) = σ + MoNi3 + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 4 |  |
-| 1024.15 | σ + MoNi3 = bcc-(Mo,V) + Ni2V |  | model | [1] Pan 2018 | Table 5, p. 9, row 5 |  |
-| 1006.15 | MoNi3 + Ni2V = bcc-(Mo,V) + Ni3V |  | model | [1] Pan 2018 | Table 5, p. 9, row 6 |  |
 
 ## Other properties
 

@@ -378,56 +378,67 @@
   "observations": [
    {
     "id": "ORC-M7Z64V35G3",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-DJM3WTQZDX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-7EHQOZJ3YX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-YAWZGWUV4U",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-GPPSVROPKC",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-JNSFUSGFBW",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-GVCUULNARI",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-BHGZKI7BHX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-DC3QHXZNHL",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-LVLVCAJVUT",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    },
    {
     "id": "ORC-Y2SV2RN47C",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2008.10.062",
     "measured_in": "doi:10.1016/0022-5088(69)90090-3"
    }

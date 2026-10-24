@@ -1,6 +1,6 @@
 # Se–Sn system
 
-> Se–Sn system: 142 accepted literature values (phase transition 49, phase equilibrium 39, invariant reaction 37, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Se–Sn system: 142 accepted literature values (phase transition 49, phase equilibrium 39, invariant reaction 37, formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SE-SN.html · Markdown: https://data.orchid-project.org/systems/SE-SN.md
 
@@ -23,8 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 37 |
 | phase transition | 49 |
 | phase equilibrium | 39 |
-| formation | 16 |
-| mixing / partial | 1 |
+| formation | 17 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/SE/SE-SN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SE/SE-SN.json)
 
@@ -76,10 +75,11 @@ Table: Invariant reactions reported in the literature for the Se–Sn system (37
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Se–Sn system (16)
+Table: Enthalpies of formation, Se–Sn system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| — |  | -45 unspecified | 1175 | experimental |  |  | [1] Feutelais 1996; _cites Kotchi 1987_ | p. 4 | “As explained by these authors, the large negative enthalpy of formation (-45 kJ/g-atom at T = 1175 K) located at Xse = 0.5 indicates the presence of short-range order based on ~SnSe.” |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -54.7 kJ/mol-atom | 298 | model | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996 | Table 9, p. 8, row 11 |  |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -47.5 kJ/mol-atom ± 1 | 298 | experimental | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6 |  |
 | SnSe | [SnSe](https://data.orchid-project.org/compounds/SnSe.html) | -47 kJ/mol-atom ± 1.5 | 298 | experimental | -64.505 (mp-aaaaabap) | -46.56 (oqmd-3656) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9 |  |
@@ -200,14 +200,6 @@ Table: Phase equilibrium, Se–Sn system
 | Phase composition |  | 1146.9 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | model | [1] Feutelais 1996 | Table 3, p. 3, row 38 |  |
 | Phase composition |  | 1149 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites Yamaguchi 1994_ [doi](https://doi.org/10.2320/matertrans1989.35.118) | Table 3, p. 3, row 35 |  |
 | Phase composition |  | 1153 | congruent melting: βSn0.5Se0.5; _liquid: Sn 0.5_ | experimental | [1] Feutelais 1996; _cites ref. 66Kar_ | Table 3, p. 3, row 27 |  |
-
-### Mixing / partial (1)
-
-Table: Mixing / partial, Se–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: enthalpy of formation_ | -45 unspecified | 1175 |  | experimental | [1] Feutelais 1996; _cites Kotchi 1987_ | p. 4 | “As explained by these authors, the large negative enthalpy of formation (-45 kJ/g-atom at T = 1175 K) located at Xse = 0.5 indicates the presence of short-range order based on ~SnSe.” |
 
 ## Sources
 

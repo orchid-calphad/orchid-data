@@ -213,26 +213,31 @@
   "observations": [
    {
     "id": "ORC-7BNCN46OVX",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(88)87045-x",
     "measured_in": "doi:10.1016/0040-6031(81)80241-9"
    },
    {
     "id": "ORC-JEOSPTYMU6",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(88)87045-x",
     "measured_in": "doi:10.1016/0040-6031(81)80241-9"
    },
    {
     "id": "ORC-6D6FSZBM4G",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(88)87045-x",
     "measured_in": "doi:10.1016/0040-6031(81)80241-9"
    },
    {
     "id": "ORC-67XJF4SF5Y",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(88)87045-x",
     "measured_in": "doi:10.1016/0040-6031(81)80241-9"
    },
    {
     "id": "ORC-JARWAQPXFZ",
+    "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/0040-6031(88)87045-x",
     "measured_in": "doi:10.1016/0040-6031(81)80241-9"
    }
