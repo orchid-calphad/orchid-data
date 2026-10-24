@@ -152,11 +152,13 @@ correction or verification was accepted carry the contributor in their own `cont
    ("confirmed" or "rejected"), seen (what the page shows, in the maintainer's words), checked (date),
    contribution ("<file>:<line>", pull request number)}`. No page image or page text is published.
 4. **Merge** the pull request and add the contributor to `contributors.json` (with their opt-in choice).
-5. **Next release.** The export applies every confirmed correction (`orchid_contrib.apply_corrections`): the new
-   value replaces the old in the record, the old value is kept in the record's `corrections[]` (`gate:
-   "contributed"`, `before`, `after`, `evidence`, `contributor`, `visual_check`), and the contributor is added to the
-   record's `contributors`. A confirmed new value moves from `contributed_unverified` to `verified`. The literature
-   gates, the uncertainty budget and the ESPEI bundle are then rebuilt as for every release, and
-   `orchid_contrib.py credit` updates the credit files.
+5. **Next release.** The literature export (`tools/export_literature_data.py`, `apply_contributions`, after the
+   literature gates) applies every confirmed correction (`orchid_contrib.apply_corrections`): the new value
+   replaces the old in the record, the old value is kept in the record's `corrections[]` (`gate: "contributed"`,
+   `before`, `after`, `evidence`, `contributor`, `visual_check`), and the contributor is added to the record's
+   `contributors`. A confirmed new value is added as its own record (`orchid_contrib.py convert`) and moves from
+   `contributed_unverified` to `verified`; the export step that merges converted values into the release is added
+   with the first accepted value (nothing to merge yet). The uncertainty budget and the ESPEI bundle are then rebuilt
+   as for every release, and `tools/zenodo_release.py credit` updates the credit files and the manifests.
 6. A rejected contribution is closed with the reason; the check stays in `literature_visual_checks.json`
    (`verdict: "rejected"`) so the same question is not reviewed twice.
