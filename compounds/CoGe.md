@@ -19,8 +19,8 @@ Table: Enthalpy of formation of CoGe reported in the literature (7)
 | -22.758 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
 | -21.847 per mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
 | -21.752 kJ/mol-atom | CoGe | 1060 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 6, p. 5, row 16 |  |
-| -21.394 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
-| -20.991 kJ/mol-atom | CoGe | 298 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
+| -21.394 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
+| -20.991 kJ/mol-atom | CoGe | 298.15 | model |  | [Co–Ge](https://data.orchid-project.org/systems/CO-GE.html) | [1] Dong 2013 | Table 5, p. 4, row 5 |  |
 
 ## DFT formation energies
 
@@ -28,10 +28,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of CoGe
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabfkv | -20.979 | -0.217428 | C2/m | 0 | no |
-| OQMD | oqmd-1790918 | -22.291 | -0.231027 | Cmmm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabfkv | -20.979 | -0.217428 | C2/m | 0 | 0 | no |
+| OQMD | oqmd-1790918 | -22.291 | -0.231027 | Cmmm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

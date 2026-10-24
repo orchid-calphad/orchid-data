@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Al3Ca8 reported in the literature (9)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 45 |  |
-| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12 |  |
-| -15.63 kJ/mol-atom | Al3Ca8 | 298 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
+| -13.7 kJ/mol-atom ± 1.3 | Al3Ca8 | 298.15 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12 |  |
+| -15.63 kJ/mol-atom | Al3Ca8 | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
 | -14 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 43 |  |
 | -14 kJ/mol-atom | Al3Ca8 | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 13 |  |
 | -12.83 kJ/mol-atom | Al3Ca8 |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 42 |  |
@@ -30,10 +30,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al3Ca8
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacptlo | -14.913 | -0.154566 | P-1 | 0 | no |
-| OQMD | oqmd-20963 | -16.15 | -0.16738 | P-1 | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacptlo | -14.913 | -0.154566 | P-1 | 0 | 0 | no |
+| OQMD | oqmd-20963 | -16.15 | -0.16738 | P-1 | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

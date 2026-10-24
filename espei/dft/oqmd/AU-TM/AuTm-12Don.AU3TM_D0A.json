@@ -90,8 +90,8 @@
      "sigma_robust_kJ": 6.299,
      "bias_median_kJ_not_applied": 1.925,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.969,
-      7.315
+      4.9,
+      7.284
      ],
      "n_full_stratum": 234
     },

@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_TI": [
    0.33
   ]
@@ -69,6 +69,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "davydov2001_bf04e9",
  "orchid": {
@@ -118,7 +119,7 @@
     "id": "ORC-H5XJE3WQ3B.1ab033",
     "phase": "C15_LAVES",
     "x": 0.33,
-    "T_K": 298.0
+    "T_K": 298.15
    }
   ]
  },

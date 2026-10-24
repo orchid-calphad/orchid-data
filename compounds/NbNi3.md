@@ -16,15 +16,15 @@ Table: Enthalpy of formation of NbNi3 reported in the literature (14)
 |---:|---|---:|---|---|---|---|---|---|
 | -32 kJ/mol-atom ± 2 | NbNi3 | 600.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7 |  |
 | -32 kJ/mol-atom | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8 |  |
-| -31.715 kJ/mol-atom ± 2.218 | Ni3Nb | 298 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
-| -31.714 kJ/mol (basis unstated) ± 2.552 | NbNi3 | 298 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
+| -31.715 kJ/mol-atom ± 2.218 | Ni3Nb | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
+| -31.714 kJ/mol (basis unstated) ± 2.552 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
 | -31.71 kJ/mol-atom ± 2.5 | NbNi3 | 298.15 | experimental | Experimental | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6 |  |
 | -31.71 kJ/mol-atom | δ-NbNi3 | 298.15 | experimental |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2 |  |
-| -33.925 kJ/mol-atom | Ni3Nb | 298 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
+| -33.925 kJ/mol-atom | Ni3Nb | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
 | -32 kJ/mol-atom | NbNi3 | 298.15 | model | Miedema | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9 |  |
-| -30.645 kJ/mol (basis unstated) | NbNi3 | 298 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004 | Table 4, p. 5, row 3 |  |
+| -30.645 kJ/mol (basis unstated) | NbNi3 | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004 | Table 4, p. 5, row 3 |  |
 | -33.41 kJ/mol-atom | NbNi3 |  | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10 |  |
-| -33.409 kJ/mol (basis unstated) | NbNi3 | 298 | DFT | First principles | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
+| -33.409 kJ/mol (basis unstated) | NbNi3 | 298.15 | DFT | First principles | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [3] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
 | -31.2 kJ/mol-atom | NbNi3 | 0 | DFT | First-principle | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Santhy 2015 | Table 6, p. 4, row 11 |  |
 | -28.51 kJ/mol-atom | δ-NbNi3 | 298.15 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
 | -28.38 kJ/mol-atom | δ-NbNi3 | 0 | DFT | DFT and phonon calculations | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
@@ -35,10 +35,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of NbNi3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacdv | -28.233 | -0.292619 | Pmmn | 0 | no |
-| OQMD | oqmd-30781 | -28.755 | -0.298027 | Pmmn | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacdv | -28.233 | -0.292619 | Pmmn | 0 | 0 | no |
+| OQMD | oqmd-30781 | -28.755 | -0.298027 | Pmmn | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

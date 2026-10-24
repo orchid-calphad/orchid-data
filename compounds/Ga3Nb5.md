@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga3Nb5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298 | experimental | EMF | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
+| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298.15 | experimental | EMF | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
 | -26.5 kJ/mol-atom ± 1.7 | Ga3Nb5 | 1373 | experimental | Calorimetry | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
-| -28.953 kJ/mol-atom | Ga3Nb5 | 298 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
-| -27.43 kJ/mol-atom | Ga3Nb5 | 298 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
-| -32.89 kJ/mol-atom | Ga3Nb5 | 298 | DFT | DFT | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Colinet 2014_ | Table 2, p. 8, row 13 |  |
+| -28.953 kJ/mol-atom | Ga3Nb5 | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
+| -27.43 kJ/mol-atom | Ga3Nb5 | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
+| -32.89 kJ/mol-atom | Ga3Nb5 | 298.15 | DFT | DFT | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Colinet 2014_ | Table 2, p. 8, row 13 |  |
 
 ## DFT formation energies
 
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ga3Nb5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabglqj | -32.041 | -0.332087 | I4/mcm | 0.813 | no |
-| OQMD | oqmd-30301 | -32.471 | -0.33654 | I4/mcm | 0.501 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabglqj | -32.041 | -0.332087 | I4/mcm | 0.813 | 0.0084 | no |
+| OQMD | oqmd-30301 | -32.471 | -0.33654 | I4/mcm | 0.501 | 0.0052 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

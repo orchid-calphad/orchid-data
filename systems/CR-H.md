@@ -46,7 +46,7 @@ Table: Other property, Cr–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: enthalpy of desorption_ | 8.01 kJ/moleH | 298 | hexagonal monohydride | experimental | [1] Dottor 2022; _cites Randzio 1974_ | p. 4 | “The enthalpy of desorption at 298 K has been measured using calorimetry by Sieverts and Gotta \[62\] and Randzio and Bojarski \[63\] for the hexagonal monohydride. They found respectively 7.95 kJ/moleH for ~ CrH0.22 and an average value of 8.01 kJ/moleH for hydrides ranging from CrH0.37 to CrH0.49.” |
+| Other; _printed: enthalpy of desorption_ | 8.01 kJ/moleH | 298.15 | hexagonal monohydride | experimental | [1] Dottor 2022; _cites Randzio 1974_ | p. 4 | “The enthalpy of desorption at 298 K has been measured using calorimetry by Sieverts and Gotta \[62\] and Randzio and Bojarski \[63\] for the hexagonal monohydride. They found respectively 7.95 kJ/moleH for ~ CrH0.22 and an average value of 8.01 kJ/moleH for hydrides ranging from CrH0.37 to CrH0.49.” |
 
 ## Sources
 

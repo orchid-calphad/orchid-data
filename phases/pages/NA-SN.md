@@ -23,8 +23,8 @@ Table: Phases of the Na–Sn system (16)
 | [NA5SN13](#phase-na-sn-na5sn13); _phase:na-sn:na5sn13_ | Na5Sn13 · oC288 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–562.08 K, x(Sn) 0.72222–0.72222 | 0 | 1 |
 | [NA7SN12](#phase-na-sn-na7sn12); _phase:na-sn:na7sn12_ | Na7Sn12 · mP78 · P2/c (13) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–598.58 K, x(Sn) 0.63158–0.63158 | 0 | 1 |
 | [NA9SN4](#phase-na-sn-na9sn4); _phase:na-sn:na9sn4_ | Ge4Li9 · oC52 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–800 K, x(Sn) 0.30769–0.30769 | 23 | 1 |
-| [NASN_HT](#phase-na-sn-nasn-ht); _phase:na-sn:nasn-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 756.27–851.27 K, x(Sn) 0.5–0.5 | 17 | 1 |
-| [NASN_LT](#phase-na-sn-nasn-lt); _phase:na-sn:nasn-lt_ | NaPb · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–756.27 K, x(Sn) 0.5–0.5 | 17 | 1 |
+| [NASN_HT](#phase-na-sn-nasn-ht); _phase:na-sn:nasn-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 756.27–851.27 K, x(Sn) 0.5–0.5 | 8 | 1 |
+| [NASN_LT](#phase-na-sn-nasn-lt); _phase:na-sn:nasn-lt_ | NaPb · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–756.27 K, x(Sn) 0.5–0.5 | 12 | 1 |
 | [NASN2](#phase-na-sn-nasn2); _phase:na-sn:nasn2_ | NaSn2 · mC48 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–580.67 K, x(Sn) 0.66667–0.66667 | 0 | 1 |
 | [NASN4](#phase-na-sn-nasn4); _phase:na-sn:nasn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–502.28 K, x(Sn) 0.8–0.8 | 0 | 1 |
 | [NASN5](#phase-na-sn-nasn5); _phase:na-sn:nasn5_ | NaSn5 · tP12 · P-42_1m (113) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–499.39 K, x(Sn) 0.83333–0.83333 | 0 | 1 |
@@ -405,11 +405,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (NaSn-ht) — Hallstedt 2025 mmc2 row for NASN_HT: NaSn (high T)
 - Stoichiometry: Na 0.5000, Sn 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 756.27–851.27 K, x(Sn) 0.5–0.5
-- Literature: 17 values (16 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:nasn-ht)
 
-Names (4): _corpus: _corpus:phase:na-sn:nasn-ht  
-_paper: _paper:10.1016/j.jallcom.2016.11.003:(αNaSn), paper:10.1016/j.jallcom.2016.11.003:βNaSn  
+Names (3): _corpus: _corpus:phase:na-sn:nasn-ht  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:(αNaSn)  
 _tdb: _tdb:NaSn-17Dre.tdb:NASN_HT  
 
 
@@ -426,11 +426,11 @@ Example references (5 of 5; assessments first):
 
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1002/cber.191104403192](https://doi.org/10.1002/cber.191104403192) A. C. Vournasos, Über Bismutide und intermetallische Verbindungen, Ber. Dtsch. Chem. Ges. 44, 3266-3271 (1911).  
+_cited as the source of values for this phase_
 - [doi:10.1002/zaac.19050460107](https://doi.org/10.1002/zaac.19050460107) C. H. Mathewson, XV. Über die Verbindungen von Natrium mit Zinn, Z. Anorg. Chem. 46, 94-112 (1905).  
 _cited as the source of values for this phase_
 - [doi:10.1039/jr9280000947](https://doi.org/10.1039/jr9280000947) William Hume-Rothery, CXXV.—The system sodium–tin, J. Chem. Soc. 0, 947-963 (1928).  
-_cited as the source of values for this phase_
-- [doi:10.1002/cber.191104403192](https://doi.org/10.1002/cber.191104403192) A. C. Vournasos, Über Bismutide und intermetallische Verbindungen, Ber. Dtsch. Chem. Ges. 44, 3266-3271 (1911).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jct.2013.06.005](https://doi.org/10.1016/j.jct.2013.06.005) Jian Wang, Naihua Miao, Patrice Chartrand, In-Ho Jung, Thermodynamic evaluation and optimization of the (Na + X) binary systems (X = Ag, Ca, In, Sn, Zn) using combined Calphad and first-principles methods of calculation, The Journal of Chemical Thermodynamics 66, 22-33 (2013).  
 _cited as the source of values for this phase_
@@ -443,11 +443,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.5000, Sn 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–756.27 K, x(Sn) 0.5–0.5
-- Literature: 17 values (16 accepted) from 1 papers
+- Literature: 12 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:nasn-lt)
 
-Names (4): _corpus: _corpus:phase:na-sn:nasn-lt  
-_paper: _paper:10.1016/j.jallcom.2016.11.003:(βNaSn), paper:10.1016/j.jallcom.2016.11.003:αNaSn  
+Names (3): _corpus: _corpus:phase:na-sn:nasn-lt  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:(βNaSn)  
 _tdb: _tdb:NaSn-17Dre.tdb:NASN_LT  
 
 

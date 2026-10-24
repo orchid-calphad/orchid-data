@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ce3Sn
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabern | -39.857 | -0.413094 | Pm-3m | 0 | no |
-| OQMD | oqmd-29193 | -45.291 | -0.469412 | Pm-3m | 0.283 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabern | -39.857 | -0.413094 | Pm-3m | 0 | 0 | no |
+| OQMD | oqmd-29193 | -45.291 | -0.469412 | Pm-3m | 0.283 | 0.0029 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Nb–Ni system
 
-> Nb–Ni system: 130 accepted literature values (invariant reaction 77, formation 35, phase transition 13, phase equilibrium 5) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Ni system: 125 accepted literature values (invariant reaction 77, formation 30, phase transition 13, phase equilibrium 5) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-NI.html · Markdown: https://data.orchid-project.org/systems/NB-NI.md
 
-130 accepted literature values from 6 paper(s) (experimental 65, model 51, DFT 14); 7 calculated phase diagram(s).
+125 accepted literature values from 6 paper(s) (experimental 64, model 51, DFT 10); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-NI.json) · [CSV](https://data.orchid-project.org/systems/NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-NI/NbNi-04Jou.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NB-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-NI.html) · [Markdown](https://data.orchid-project.org/systems/NB-NI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 65 |
+| experimental | 64 |
 | model | 51 |
-| DFT | 14 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 77 |
 | phase transition | 13 |
 | phase equilibrium | 5 |
-| formation | 35 |
+| formation | 30 |
 
 ## Calculated phase diagrams
 
@@ -168,7 +168,7 @@ Table: Invariant reactions reported in the literature for the Nb–Ni system (77
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Ni system (35)
+Table: Enthalpies of formation, Nb–Ni system (30)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -178,35 +178,30 @@ Table: Enthalpies of formation, Nb–Ni system (35)
 | Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.47 kJ/mol-atom ± 2.2 | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [6] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 1 |  |
 | Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -20.76 kJ/mol-atom | 298.15 | model | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [6] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 4 |  |
 | NbNi3 |  | -33.41 kJ/mol-atom |  | DFT |  |  | [6] Santhy 2015; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 6, p. 4, row 10 |  |
-| NbNi3 |  | -33.409 kJ/mol (basis unstated) | 298 | DFT |  |  | [5] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
+| NbNi3 |  | -33.409 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [5] Joubert 2004; _cites Ravindran 1996_ [doi](https://doi.org/10.1103/physrevb.53.1129) | Table 4, p. 5, row 5 |  |
 | NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [6] Santhy 2015; _cites Niessen 1988_ [doi](https://doi.org/10.1016/0921-4526%2888%2990002-6) | Table 6, p. 4, row 9 |  |
 | NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom ± 2 | 600.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [6] Santhy 2015; _cites Kubaschewski 2015_ | Table 6, p. 4, row 7 |  |
 | NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -32 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [6] Santhy 2015; _cites Hultgren 1973_ | Table 6, p. 4, row 8 |  |
-| NbNi3 |  | -31.714 kJ/mol (basis unstated) ± 2.552 | 298 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
+| NbNi3 |  | -31.714 kJ/mol (basis unstated) ± 2.552 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 4 |  |
 | NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom ± 2.5 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [6] Santhy 2015; _cites Argent 1959_ | Table 6, p. 4, row 6 |  |
 | NbNi3 |  | -31.2 kJ/mol-atom | 0 | DFT |  |  | [6] Santhy 2015 | Table 6, p. 4, row 11 |  |
-| NbNi3 |  | -30.645 kJ/mol (basis unstated) | 298 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 3 |  |
-| NbNi8 |  | -14.49 kJ/mol (basis unstated) | 298 | model |  |  | [5] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
-| NbNi8 |  | -14.488 kJ/mol (basis unstated) | 298 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 1 |  |
-| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -33.925 kJ/mol-atom | 298 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
-| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.715 kJ/mol-atom ± 2.218 | 298 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
-| µ-Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.45 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
-| µ-Nb7Ni6 |  | -20.63 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
-| µ-Nb7Ni6 |  | -20.5 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
-| µ-Nb7Ni6 |  | -20.43 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
-| µ-Nb7Ni6 |  | -20.38 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
+| NbNi3 |  | -30.645 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 3 |  |
+| NbNi8 |  | -14.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
+| NbNi8 |  | -14.488 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 1 |  |
+| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -33.925 kJ/mol-atom | 298.15 | model | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996 | Table 4, p. 8, row 1 |  |
+| Ni3Nb | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.715 kJ/mol-atom ± 2.218 | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 2 |  |
 | δ-NbNi3 | [NbNi3](https://data.orchid-project.org/compounds/NbNi3.html) | -31.71 kJ/mol-atom | 298.15 | experimental | -28.233 (mp-aaaaacdv) | -28.755 (oqmd-30781) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 2 |  |
 | δ-NbNi3 |  | -28.51 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
 | δ-NbNi3 |  | -28.38 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 1 |  |
-| μ |  | -22.468 kJ/mol (basis unstated) ± 2.218 | 298 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 7 |  |
-| μ |  | -20.761 kJ/mol (basis unstated) | 298 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 6 |  |
+| μ |  | -22.468 kJ/mol (basis unstated) ± 2.218 | 298.15 | experimental |  |  | [5] Joubert 2004; _cites Argent 1959_ | Table 4, p. 5, row 7 |  |
+| μ |  | -20.761 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Joubert 2004 | Table 4, p. 5, row 6 |  |
 | μ-Nb7Ni6 + µ-Nb7Ni6 | [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.html) | -22.45 kJ/mol-atom | 298.15 | experimental | -19.894 (mp-aaackvmr) | -19.955 (oqmd-30782) | [4] Sun 2023; _cites Argent 1959_ | Table 6, p. 33, row 5 |  |
 | μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.63 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
 | μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.5 kJ/mol-atom | 0 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
 | μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.43 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 4 |  |
 | μ-Nb7Ni6 + µ-Nb7Ni6 |  | -20.38 kJ/mol-atom | 298.15 | DFT |  |  | [4] Sun 2023 | Table 6, p. 33, row 3 |  |
-| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -22.468 kJ/mol-atom ± 2.552 | 298 | experimental | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 4 |  |
-| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -21.596 kJ/mol-atom | 298 | model | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996 | Table 4, p. 8, row 3 |  |
+| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -22.468 kJ/mol-atom ± 2.552 | 298.15 | experimental | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996; _cites Argent 1959_ | Table 4, p. 8, row 4 |  |
+| μNi7Nb6 | [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.html) | -21.596 kJ/mol-atom | 298.15 | model | -20.338 (mp-aaackwrs) | -20.518 (oqmd-1791808) | [2] Bolcavage 1996 | Table 4, p. 8, row 3 |  |
 
 ## Other properties
 

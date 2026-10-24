@@ -354,43 +354,43 @@ Table: Enthalpies of formation, Co–Zr system (42)
 | BCC_B2 |  | -43.05 kJ/mol-atom ± 3.9 | 1030 | experimental |  |  | [2] Durga 2010; _cites Gomozov 1986_ | Table 5, p. 5, row 22 |  |
 | BCC_B2 |  | -42.2 kJ/mol-atom ± 1 | 1512 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 24 |  |
 | BCC_B2 |  | -41.144 kJ/mol-atom | 1030 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 23 |  |
-| BCC_B2 |  | -36.502 kJ/mol-atom | 298 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 54 |  |
-| Co11Zr2 |  | -23.944 kJ/mol-atom | 298 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 1 |  |
-| Co11Zr2 |  | -15.846 kJ/mol-atom | 298 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
+| BCC_B2 |  | -36.502 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 54 |  |
+| Co11Zr2 |  | -23.944 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 1 |  |
+| Co11Zr2 |  | -15.846 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
 | Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -29.8 kJ/mol-atom ± 1.5 | 1596 | experimental | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7 |  |
 | Co23Zr6 |  | -29.8 per mol-atom ± 1500 | 1596 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2 |  |
 | Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -27.909 kJ/mol-atom | 1596 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 8 |  |
-| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -21.641 kJ/mol-atom | 298 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 46 |  |
+| Co23Zr6 | [Co23Zr6](https://data.orchid-project.org/compounds/Co23Zr6.html) | -21.641 kJ/mol-atom | 298.15 | model | -21.687 (mp-aaaabtft) | -13.87 (oqmd-29538) | [2] Durga 2010 | Table 5, p. 5, row 46 |  |
 | CoZr |  | -43.05 per mol-atom ± 3900 | 1030 | experimental |  |  | [4] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13 |  |
 | CoZr |  | -42.2 per mol-atom ± 1000 | 1512 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12 |  |
 | CoZr |  | -40.267 per mol-atom | 1512 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 17 |  |
-| CoZr |  | -35.8 per mol-atom ± 700 | 298 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14 |  |
-| CoZr |  | -35.694 per mol-atom | 298 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 18 |  |
-| CoZr |  | -35.326 per mol-atom | 298 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16 |  |
+| CoZr |  | -35.8 per mol-atom ± 700 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14 |  |
+| CoZr |  | -35.694 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 18 |  |
+| CoZr |  | -35.326 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16 |  |
 | CoZr |  | -28.83 per mol-atom | 0 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15 |  |
 | CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -33 kJ/mol-atom ± 2 | 1290 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
 | CoZr2 |  | -33 per mol-atom ± 2000 | 1290 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
 | CoZr2 |  | -32.547 per mol-atom | 1290 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 23 |  |
 | CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -31.166 kJ/mol-atom | 1290 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 34 |  |
-| CoZr2 |  | -30.745 per mol-atom | 298 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
-| CoZr2 |  | -28.946 per mol-atom | 298 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 24 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -27.564 kJ/mol-atom | 298 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 59 |  |
-| CoZr2 |  | -26.4 per mol-atom ± 1000 | 298 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
+| CoZr2 |  | -30.745 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
+| CoZr2 |  | -28.946 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 24 |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -27.564 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [2] Durga 2010 | Table 5, p. 5, row 59 |  |
+| CoZr2 |  | -26.4 per mol-atom ± 1000 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
 | CoZr2 |  | -26.3 per mol-atom | 0 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
-| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -23.01 kJ/mol-atom | 298 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [4] Zhou 2021 | Table 3, p. 5, row 26 |  |
+| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -23.01 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [4] Zhou 2021 | Table 3, p. 5, row 26 |  |
 | CoZr3 |  | -22.44 per mol-atom | 0 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 25 |  |
-| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -18.899 kJ/mol-atom | 298 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [2] Durga 2010 | Table 5, p. 5, row 64 |  |
+| CoZr3 | [CoZr3](https://data.orchid-project.org/compounds/CoZr3.html) | -18.899 kJ/mol-atom | 298.15 | model | -20.331 (mp-aaaabthr) | -20.793 (oqmd-29536) | [2] Durga 2010 | Table 5, p. 5, row 64 |  |
 | Laves_C15 |  | -41 kJ/mol-atom ± 1.6 | 1708 | experimental |  |  | [2] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 13 |  |
 | Laves_C15 |  | -38.866 kJ/mol-atom | 1708 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 14 |  |
-| Laves_C15 |  | -33.794 kJ/mol-atom | 298 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 50 |  |
+| Laves_C15 |  | -33.794 kJ/mol-atom | 298.15 | model |  |  | [2] Durga 2010 | Table 5, p. 5, row 50 |  |
 | λ2 |  | -41 per mol-atom ± 1600 | 1708 | experimental |  |  | [4] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 5 |  |
-| λ2 |  | -37.667 per mol-atom ± 3667 | 298 | experimental |  |  | [4] Zhou 2021; _cites Klein 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900226-0) | Table 3, p. 5, row 6 |  |
+| λ2 |  | -37.667 per mol-atom ± 3667 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Klein 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900226-0) | Table 3, p. 5, row 6 |  |
 | λ2 |  | -37.261 per mol-atom | 1708 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 10 |  |
-| λ2 |  | -35.8 per mol-atom ± 600 | 298 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 7 |  |
-| λ2 |  | -31.92 per mol-atom | 298 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 9 |  |
-| λ2 |  | -31.775 per mol-atom | 298 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 11 |  |
+| λ2 |  | -35.8 per mol-atom ± 600 | 298.15 | experimental |  |  | [4] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 7 |  |
+| λ2 |  | -31.92 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 9 |  |
+| λ2 |  | -31.775 per mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 11 |  |
 | λ2 |  | -31.68 per mol-atom | 0 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 8 |  |
-| λ2 |  | -28.642 kJ/mol-atom | 298 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 4 |  |
+| λ2 |  | -28.642 kJ/mol-atom | 298.15 | model |  |  | [4] Zhou 2021 | Table 3, p. 5, row 4 |  |
 | λ2 |  | -21.9 per mol-atom | 0 | experimental |  |  | [4] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 3 |  |
 
 ## Other properties

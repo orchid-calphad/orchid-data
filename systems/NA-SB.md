@@ -135,8 +135,8 @@ Table: Heat capacity / entropy / enthalpy, Na–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Cp_ | 51.9 J/mol (basis unstated)/K | 298 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 1 |  |
-| Heat capacity; _printed: Cp_ | 103.69 J/mol (basis unstated)/K | 298 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 7 |  |
+| Heat capacity; _printed: Cp_ | 51.9 J/mol (basis unstated)/K | 298.15 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 1 |  |
+| Heat capacity; _printed: Cp_ | 103.69 J/mol (basis unstated)/K | 298.15 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 7 |  |
 | Heat capacity; _printed: Cp_ | 51.94 J/mol (basis unstated)/K | 300 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 2 |  |
 | Heat capacity; _printed: Cp_ | 53.94 J/mol (basis unstated)/K | 400 | Na3Sb; _alloy: Sb 0.25_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 3 |  |
 | Heat capacity; _printed: Cp_ | 105.84 J/mol (basis unstated)/K | 400 | NaSb; _alloy: Sb 0.5_ | model | [2] Dreval 2017; _cites Thermo-calc 2015_ | Table 7, p. 11, row 8 |  |

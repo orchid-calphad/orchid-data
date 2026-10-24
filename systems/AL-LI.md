@@ -1,10 +1,10 @@
 # Al–Li system
 
-> Al–Li system: 36 accepted literature values (invariant reaction 30, phase transition 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li system: 37 accepted literature values (invariant reaction 31, phase transition 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI.html · Markdown: https://data.orchid-project.org/systems/AL-LI.md
 
-36 accepted literature values from 4 paper(s) (experimental 14, model 18, unspecified 4); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+37 accepted literature values from 4 paper(s) (experimental 14, model 18, unspecified 5); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI.json) · [CSV](https://data.orchid-project.org/systems/AL-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LI/AlLi-07Hal-condensed.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI.md)
 
@@ -14,13 +14,13 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 14 |
 | model | 18 |
-| unspecified | 4 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 30 |
+| invariant reaction | 31 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -119,7 +119,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Li system (30)
+Table: Invariant reactions reported in the literature for the Al–Li system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -130,6 +130,7 @@ Table: Invariant reactions reported in the literature for the Al–Li system (30
 | 873 | L ↔ fcc(Al) + AlLi | AlLi: Li 0.5 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 7 |  |
 | 873 | L ↔ fcc(Al) + AlLi | L: Li 0.3; fcc(Al): Li 0.18; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 5 |  |
 | 871 | L ↔ fcc(Al) + AlLi | L: Li 0.26; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Shamray 1937_ | Table 3, p. 5, row 6 |  |
+| 868.8 | eutectic: Liquid -> fcc-Al + AlLi | Liquid: Li 0.256; AlLi: Li 0.462; fcc-A1: Li 0.155 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 1 |  |
 | 863 | L ↔ fcc(Al) + AlLi | L: Li 0.234; fcc(Al): Li 0.124; AlLi: Li 0.5 | experimental | [2] Long 2020; _cites Muller 1926_ | Table 3, p. 5, row 4 |  |
 | 794 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.56; L: Li 0.78; Al2Li3: Li 0.667 | experimental | [2] Long 2020; _cites Grube 1935_ | Table 3, p. 5, row 11 |  |
 | 793.6 | peritectic: Liquid + AlLi -> Al2Li3 | Liquid: Li 0.775; AlLi: Li 0.555; Al2Li3: Li 0.6 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 2 |  |

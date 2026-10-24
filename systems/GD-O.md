@@ -1,10 +1,10 @@
 # Gd–O system
 
-> Gd–O system: 5 accepted literature values (crystal structure 4, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–O system: 7 accepted literature values (crystal structure 4, formation 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-O.html · Markdown: https://data.orchid-project.org/systems/GD-O.md
 
-5 accepted literature values from 1 paper(s) (experimental 1, model 1, DFT 3); 2 calculated phase diagram(s).
+7 accepted literature values from 2 paper(s) (experimental 1, model 3, DFT 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-O.json) · [CSV](https://data.orchid-project.org/systems/GD-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-O/GdO-14McM.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-O.html) · [Markdown](https://data.orchid-project.org/systems/GD-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 1 |
+| model | 3 |
 | DFT | 3 |
 
 Table: Accepted values by property group
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
+| formation | 2 |
 | crystal structure | 4 |
 
 ## Calculated phase diagrams
@@ -36,6 +37,17 @@ Table: Assessments with a calculated phase diagram
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GD/GD-O.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GD/GD-O.json) · [CALPHAD hull GdO-14McM](https://data.orchid-project.org/hulls/calphad-sgte/GD/GD-O--GdO-14McM.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Gd–O system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| B-Gd2O3 | [Gd2O3](https://data.orchid-project.org/compounds/Gd2O3.html) | -363.94 kJ/mol-atom | 298.15 | model | -375.849 (mp-aaabcsws) | -365.932 (oqmd-7281) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| C-Gd₂O₃ | [Gd2O3](https://data.orchid-project.org/compounds/Gd2O3.html) | -365.506 kJ/mol-atom | 298.15 | model | -375.849 (mp-aaabcsws) | -365.932 (oqmd-7281) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -44,7 +56,7 @@ Table: Phase transition, Gd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1823.15 K | 1823.15 | other | model | [1] McMurray 2014 | p. 2 | “High temperature X-ray diffraction measurements in the ULaO system suggest the d phase is stable at least up to 1550 °C exhibiting some degree of oxygen non-stoichiometry \[17\] but the limited extent and significant scatter in the reported data does not sufficiently describe a homogeneity range; therefore, it is assumed that UGd6O12 is a stoichiometric compound.” |
+| Phase transition | 1823.15 K | 1823.15 | other | model | [2] McMurray 2014 | p. 2 | “High temperature X-ray diffraction measurements in the ULaO system suggest the d phase is stable at least up to 1550 °C exhibiting some degree of oxygen non-stoichiometry \[17\] but the limited extent and significant scatter in the reported data does not sufficiently describe a homogeneity range; therefore, it is assumed that UGd6O12 is a stoichiometric compound.” |
 
 ### Crystal structure (4)
 
@@ -52,16 +64,17 @@ Table: Crystal structure, Gd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.283 Å |  | Gd2O3; _alloy: O 0.6_ | experimental | [1] McMurray 2014; _cites Heiba 2002_ [doi](https://doi.org/10.1107/s0021889802010555) | Table 1, p. 4, row 2 |  |
-| Lattice a | 10.805 Å | 0 | Gd2O3; _alloy: O 0.6_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 1 |  |
-| Lattice a | 5.496 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 3 |  |
-| Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [1] McMurray 2014 | Table 1, p. 4, row 4 |  |
+| Lattice a | 10.283 Å |  | Gd2O3; _alloy: O 0.6_ | experimental | [2] McMurray 2014; _cites Heiba 2002_ [doi](https://doi.org/10.1107/s0021889802010555) | Table 1, p. 4, row 2 |  |
+| Lattice a | 10.805 Å | 0 | Gd2O3; _alloy: O 0.6_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 1 |  |
+| Lattice a | 5.496 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 3 |  |
+| Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 4 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. J.W. McMurray, D. Shin, B.W. Slone, T.M. Besmann, Thermodynamic reassessment of U–Gd–O system, Journal of Nuclear Materials 452, 397-406 (2014). [doi:10.1016/j.jnucmat.2014.04.047](https://doi.org/10.1016/j.jnucmat.2014.04.047)
+1. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
+2. J.W. McMurray, D. Shin, B.W. Slone, T.M. Besmann, Thermodynamic reassessment of U–Gd–O system, Journal of Nuclear Materials 452, 397-406 (2014). [doi:10.1016/j.jnucmat.2014.04.047](https://doi.org/10.1016/j.jnucmat.2014.04.047)
 
 ## Please cite
 

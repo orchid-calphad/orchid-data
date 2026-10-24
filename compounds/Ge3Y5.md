@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Ge3Y5 reported in the literature (4)
 |---:|---|---:|---|---|---|---|---|---|
 | -109.7 kJ/mol-atom ± 5.7 | Ge3Y5 | 298.15 | experimental | Calorimetry | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990237-x) | Table 4, p. 5, row 20 |  |
 | -89.8 kJ/mol-atom ± 5 | Ge3Y5 | 298.15 | experimental | Calorimetry | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Safonov 1985_ | Table 4, p. 5, row 21 |  |
-| -107.41 kJ/mol-atom | Ge3Y5 | 298 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 23 |  |
+| -107.41 kJ/mol-atom | Ge3Y5 | 298.15 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 23 |  |
 | -91.861 kJ/mol-atom | Ge3Y5 | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 22 |  |
 
 ## DFT formation energies
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ge3Y5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabagt | -80.391 | -0.833197 | P6_3/mcm | 0 | no |
-| OQMD | oqmd-10313 | -80.471 | -0.834026 | P63/mcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabagt | -80.391 | -0.833197 | P6_3/mcm | 0 | 0 | no |
+| OQMD | oqmd-10313 | -80.471 | -0.834026 | P63/mcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

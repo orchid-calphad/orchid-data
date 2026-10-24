@@ -12,11 +12,11 @@ Table: Phases of the Ni–W system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ni-w-bcc-a2); _phase:ni-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.86 K, x(W) 0.9917–1 | 9 | 3 |
+| [BCC_A2](#phase-ni-w-bcc-a2); _phase:ni-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.86 K, x(W) 0.9917–1 | 5 | 3 |
 | [NI4X_D1A](#phase-ni-w-d1a-ni4x); _phase:ni-w:d1a-ni4x_ | MoNi4 · D1_a · tI10 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 304.84–1290 K, x(W) 0.2–0.2 | 15 | 3 |
-| [FCC_A1](#phase-ni-w-fcc-a1); _phase:ni-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1790.73 K, x(W) 0–0.17637 | 10 | 3 |
+| [FCC_A1](#phase-ni-w-fcc-a1); _phase:ni-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1790.73 K, x(W) 0–0.17637 | 6 | 3 |
 | [HCP_A3](#phase-ni-w-hcp-a3); _phase:ni-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LIQUID](#phase-ni-w-liquid); _phase:ni-w:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1728.25–4000 K, x(W) 0–1 | 4 | 3 |
+| [LIQUID](#phase-ni-w-liquid); _phase:ni-w:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1728.25–4000 K, x(W) 0–1 | 0 | 3 |
 | [NI3W_D0A](#phase-ni-w-ni3w-d0a); _phase:ni-w:ni3w-d0a_ | beta-Cu3Ti · D0_a · oP8 · Pmmn (59) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–848.8 K, x(W) 0.25–0.25 | 0 | 1 |
 | [NI8W](#phase-ni-w-ni8w); _phase:ni-w:ni8w_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–802.5 K, x(W) 0.11111–0.11111 | 0 | 1 |
 | [NIW](#phase-ni-w-niw); _phase:ni-w:niw_ | MoNi · oP56 · P2_12_12_1 (19) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1340.8 K, x(W) 0.5–0.5 | 10 | 2 |
@@ -27,11 +27,11 @@ Table: Phases of the Ni–W system (9)
 - Id: `phase:ni-w:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–3999.86 K, x(W) 0.9917–1
-- Literature: 9 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ni-w:bcc-a2  
-_paper: _paper:10.1007/bf02817278:bcc, paper:10.1007/bf02817278:bcc(W)  
+Names (5): _corpus: _corpus:phase:ni-w:bcc-a2  
+_paper: _paper:10.1007/bf02817278:bcc(W)  
 _tdb: _tdb:NiW-08Pop.tdb:BCC_A2, tdb:NiW-17Iso.tdb:BCC_A2, tdb:NiW-86Fer-LB.tdb:BCC_A2  
 
 
@@ -58,7 +58,7 @@ _tdb: _tdb:NiW-08Pop.tdb:BCC_A2, tdb:NiW-17Iso.tdb:BCC_A2, tdb:NiW-86Fer-LB.tdb:
 41: CONST BCC_A2 : NI W% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02817278](https://doi.org/10.1007/BF02817278) A. Fernandez Guillermet, L. Ostlund, Metall. Trans. A, 17A, 1809-23(1986).  
 _assessment that models this phase; reports values for this phase_
@@ -66,8 +66,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.111557](https://doi.org/10.3139/146.111557) I. Isomaki, M. Hamalainien, M.H. Braga, M. Gasik, Int. J. Mater. Res., 108, 1025-35(2017).  
 _assessment that models this phase_
-- [doi:10.1002/srin.193200334](https://doi.org/10.1002/srin.193200334) Kazimir Winkler, Rudolf Vogel, Das Zustandsschaubild Eisen‐Nickel‐Wolfram, Steel Research Intl 6, 165-172 (1932).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02644589](https://doi.org/10.1007/bf02644589) J. M. Walsh, M. J. Donachie, On a new intermetallic phase in the nickel-tungsten system, Metall Trans 4, 2854-2855 (1973).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0036-9748(74)90349-4](https://doi.org/10.1016/0036-9748%2874%2990349-4) K.E Poulsen, S Rubæk, E.W Langer, A new intermetallic phase in the W-Ni system, Scripta Metallurgica 8, 1297-1300 (1974).  
@@ -131,7 +129,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ni-w:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1790.73 K, x(W) 0–0.17637
-- Literature: 10 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:ni-w:fcc-a1  
@@ -162,7 +160,7 @@ _tdb: _tdb:NiW-08Pop.tdb:FCC_A1, tdb:NiW-17Iso.tdb:FCC_A1, tdb:NiW-86Fer-LB.tdb:
 36: CONST FCC_A1 : NI% W : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02817278](https://doi.org/10.1007/BF02817278) A. Fernandez Guillermet, L. Ostlund, Metall. Trans. A, 17A, 1809-23(1986).  
 _assessment that models this phase; reports values for this phase_
@@ -170,8 +168,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.111557](https://doi.org/10.3139/146.111557) I. Isomaki, M. Hamalainien, M.H. Braga, M. Gasik, Int. J. Mater. Res., 108, 1025-35(2017).  
 _assessment that models this phase_
-- [doi:10.1002/srin.193200334](https://doi.org/10.1002/srin.193200334) Kazimir Winkler, Rudolf Vogel, Das Zustandsschaubild Eisen‐Nickel‐Wolfram, Steel Research Intl 6, 165-172 (1932).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02644589](https://doi.org/10.1007/bf02644589) J. M. Walsh, M. J. Donachie, On a new intermetallic phase in the nickel-tungsten system, Metall Trans 4, 2854-2855 (1973).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0036-9748(74)90349-4](https://doi.org/10.1016/0036-9748%2874%2990349-4) K.E Poulsen, S Rubæk, E.W Langer, A new intermetallic phase in the W-Ni system, Scripta Metallurgica 8, 1297-1300 (1974).  
@@ -226,11 +222,10 @@ _assessment that models this phase_
 - Id: `phase:ni-w:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1728.25–4000 K, x(W) 0–1
-- Literature: 4 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-w:liquid)
 
-Names (5): _corpus: _corpus:phase:ni-w:liquid  
-_paper: _paper:10.1007/bf02817278:L  
+Names (4): _corpus: _corpus:phase:ni-w:liquid  
 _tdb: _tdb:NiW-08Pop.tdb:LIQUID, tdb:NiW-17Iso.tdb:LIQUID, tdb:NiW-86Fer-LB.tdb:LIQUID  
 
 
@@ -257,16 +252,14 @@ _tdb: _tdb:NiW-08Pop.tdb:LIQUID, tdb:NiW-17Iso.tdb:LIQUID, tdb:NiW-86Fer-LB.tdb:
 31: CONST LIQUID:L : NI W : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02817278](https://doi.org/10.1007/BF02817278) A. Fernandez Guillermet, L. Ostlund, Metall. Trans. A, 17A, 1809-23(1986).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.intermet.2008.04.003](https://doi.org/10.1016/j.intermet.2008.04.003) J. Popovič, P. Brož, J. Buršík, Microstructure and phase equilibria in the Ni–Al–W system, Intermetallics 16, 884-888 (2008).  
 _assessment that models this phase_
 - [doi:10.3139/146.111557](https://doi.org/10.3139/146.111557) I. Isomaki, M. Hamalainien, M.H. Braga, M. Gasik, Int. J. Mater. Res., 108, 1025-35(2017).  
 _assessment that models this phase_
-- [doi:10.1002/srin.193200334](https://doi.org/10.1002/srin.193200334) Kazimir Winkler, Rudolf Vogel, Das Zustandsschaubild Eisen‐Nickel‐Wolfram, Steel Research Intl 6, 165-172 (1932).  
-_cited as the source of values for this phase_
 
 ## NI3W_D0A (Ni–W)
 

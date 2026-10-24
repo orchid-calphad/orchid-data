@@ -1,16 +1,16 @@
 # Al2Sr: enthalpy of formation
 
-> Enthalpy of formation of Al2Sr: 15 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al2Sr: 14 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2Sr.html · Markdown: https://data.orchid-project.org/compounds/Al2Sr.md
 
-15 accepted literature formation-enthalpy value(s) (DFT 15).
+14 accepted literature formation-enthalpy value(s) (DFT 14).
 
 Systems: [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2Sr reported in the literature (15)
+Table: Enthalpy of formation of Al2Sr reported in the literature (14)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -25,7 +25,6 @@ Table: Enthalpy of formation of Al2Sr reported in the literature (15)
 | -27.2 kJ/mol-atom | Al2Sr C15 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 17 |  |
 | -26 kJ/mol-atom | Al2Sr CaIn2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 10 |  |
 | -23 kJ/mol-atom | Al2Sr C32 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 9 |  |
-| -9 kJ/mol-atom | Al2Sr Si2Sr-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 12 |  |
 | -8.2 kJ/mol-atom | Al2Sr MoPt2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 13 |  |
 | 0.5 kJ/mol-atom | Al2Sr C16 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 11 |  |
 | 55.4 kJ/mol-atom | Al2Sr CaF2-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 14 |  |

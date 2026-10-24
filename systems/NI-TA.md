@@ -187,9 +187,9 @@ Table: Invariant reactions reported in the literature for the Ni–Ta system (87
 | 1615 | liq -> μ-NiTa + C11b-Ni2Ta | μ-NiTa: Ni 0.5, Ta 0.5; C11b-Ni2Ta: Ni 0.666667, Ta 0.333333 | experimental | [1] Zhou 2009; _cites Therkelsen 1933_ | Table 7, p. 8, row 32 |  |
 | 1603.15 | eutectoid: fcc - A1 -> Ni8Ta + Ni3Ta | Ni8Ta: Ta 0.111111; Ni3Ta: Ta 0.25 | unspecified | [2] Ansara 1994; _cites ref. 84Nas_ | Table II, p. 5, row 12 |  |
 | 1593 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Nash 1983_ [doi](https://doi.org/10.1179/030634583790427649) | Table 7, p. 8, row 39 |  |
-| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111; liq: Ta 0.111; κ: Ta 0.111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 37 |  |
-| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111; liq: Ta 0.111; κ: Ta 0.111 | model | [1] Zhou 2009 | Table 7, p. 8, row 35 |  |
-| 1581 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111; liq: Ta 0.111; κ: Ta 0.111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 36 |  |
+| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 37 |  |
+| 1584 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009 | Table 7, p. 8, row 35 |  |
+| 1581 | fcc -> ζ-Ni8Ta | ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 36 |  |
 | 1580 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | fcc: Ta 0.1114; κ: Ta 0.231; ζ: Ta 0.1111 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 41 |  |
 | 1573 | fcc -> ζ-Ni8Ta | fcc: Ni 0.888889, Ta 0.111111; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Pimenov 1977_ | Table 7, p. 8, row 38 |  |
 | 1572 | fcc -> κ-Ni3Ta + ζ-Ni8Ta | κ-Ni3Ta: Ni 0.75, Ta 0.25; ζ-Ni8Ta: Ni 0.888889, Ta 0.111111 | experimental | [1] Zhou 2009; _cites Kornilov 1953_ | Table 7, p. 8, row 43 |  |

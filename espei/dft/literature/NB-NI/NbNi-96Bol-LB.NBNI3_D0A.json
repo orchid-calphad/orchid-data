@@ -132,10 +132,10 @@
      "sigma_robust_kJ": 4.197,
      "bias_median_kJ_not_applied": 1.131,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
     "weight_used": 0.119133,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -159,10 +159,10 @@
      "sigma_robust_kJ": 4.197,
      "bias_median_kJ_not_applied": 1.131,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
     "weight_used": 0.119133,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -186,10 +186,10 @@
      "sigma_robust_kJ": 4.197,
      "bias_median_kJ_not_applied": 1.131,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
     "weight_used": 0.119133,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
@@ -213,10 +213,10 @@
      "sigma_robust_kJ": 4.197,
      "bias_median_kJ_not_applied": 1.131,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
     "weight_used": 0.119133,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",

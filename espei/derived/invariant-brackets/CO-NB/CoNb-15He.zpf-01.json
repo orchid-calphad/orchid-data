@@ -7,8 +7,6 @@
  "phases": [
   "C15_LAVES",
   "C36_LAVES",
-  "CO7NB2",
-  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
@@ -18,9 +16,7 @@
    1747.15,
    1707.15,
    1547.15,
-   1527.15,
-   1369.15,
-   1349.15
+   1527.15
   ]
  },
  "output": "ZPF",
@@ -187,73 +183,6 @@
      0.255
     ]
    ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.037
-    ]
-   ],
-   [
-    "C36_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.245
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.2122222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.2322222222
-    ]
-   ]
-  ],
-  [
-   [
-    "CO7NB2",
-    [
-     "NB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.2122222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.2322222222
-    ]
-   ]
   ]
  ],
  "reference": "He 2015, doi:10.1016/j.jallcom.2015.02.182",
@@ -264,7 +193,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-NB/CoNb-15He.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B7O7USEIIL ORC-CPQLWTKPKL ORC-DGX2GZSGK3 ORC-SP6HBCT4ZE",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-NB/CoNb-15He.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B7O7USEIIL ORC-DGX2GZSGK3 ORC-SP6HBCT4ZE",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-NB/CoNb-15He.zpf-01.json",
@@ -362,44 +291,6 @@
     ],
     "phases_below": [
      "C36_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-CPQLWTKPKL",
-    "side": "above",
-    "T_invariant_K": 1359.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.2222222222222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "(αCo)+C36 = Co7Nb2",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "FCC_A1",
-     "C36_LAVES"
-    ],
-    "phases_below": [
-     "CO7NB2"
-    ]
-   },
-   {
-    "source_observation": "ORC-CPQLWTKPKL",
-    "side": "below",
-    "T_invariant_K": 1359.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.2222222222222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "(αCo)+C36 = Co7Nb2",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "FCC_A1",
-     "C36_LAVES"
-    ],
-    "phases_below": [
-     "CO7NB2"
     ]
    }
   ],

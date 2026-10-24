@@ -15,15 +15,15 @@ Table: Enthalpy of formation of CuHf2 reported in the literature (10)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.23 kJ/mol-atom | CuHf2 | 298.15 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 1 |  |
-| -15.23 kJ/mol (basis unstated) ± 0.5 | CuHf2 | 298 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 12 |  |
+| -15.23 kJ/mol (basis unstated) ± 0.5 | CuHf2 | 298.15 | experimental |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 12 |  |
 | -56.12 kJ/mol-atom | CuHf2 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 2 |  |
 | -20.75 kJ/mol-atom | CuHf2 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 4 |  |
-| -19.174 kJ/mol (basis unstated) | CuHf2 | 298 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
+| -19.174 kJ/mol (basis unstated) | CuHf2 | 298.15 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
 | -19.17 kJ/mol-atom | CuHf2 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 3 |  |
 | -16.36 kJ/mol-atom | CuHf2 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 5 |  |
 | -16.22 kJ/mol-atom | CuHf2 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 6 |  |
 | -15.5 kJ/mol-atom | CuHf2 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 7 |  |
-| -56.12 kJ/mol (basis unstated) | CuHf2 | 298 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 13 |  |
+| -56.12 kJ/mol (basis unstated) | CuHf2 | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 13 |  |
 
 ## DFT formation energies
 
@@ -31,10 +31,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of CuHf2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabtgf | -15.432 | -0.159939 | I4/mmm | 0 | no |
-| OQMD | oqmd-1895392 | -15.582 | -0.161494 | P4mm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabtgf | -15.432 | -0.159939 | I4/mmm | 0 | 0 | no |
+| OQMD | oqmd-1895392 | -15.582 | -0.161494 | P4mm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

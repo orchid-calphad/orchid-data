@@ -15,7 +15,7 @@ Table: Enthalpy of formation of GaPt reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -59.6 kJ/mol-atom | GaPt | 298.15 | experimental |  | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25 |  |
-| -68.12 kJ/mol-atom | GaPt | 298 | model | assessed | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 27 |  |
+| -68.12 kJ/mol-atom | GaPt | 298.15 | model | assessed | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 27 |  |
 | -64.27 kJ/mol-atom | GaPt | 0 | DFT | first-principles | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 26 |  |
 
 ## DFT formation energies
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of GaPt
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacgjch | -60.784 | -0.629988 | P2_13 | 0 | no |
-| OQMD | oqmd-1374058 | -63.427 | -0.657381 | P63/mmc | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacgjch | -60.784 | -0.629988 | P2_13 | 0 | 0 | no |
+| OQMD | oqmd-1374058 | -63.427 | -0.657381 | P63/mmc | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

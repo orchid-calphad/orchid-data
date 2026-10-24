@@ -1,10 +1,10 @@
 # Na–O system
 
-> Na–O system: 62 accepted literature values (invariant reaction 20, phase transition 19, crystal structure 15, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–O system: 64 accepted literature values (invariant reaction 22, phase transition 19, crystal structure 15, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-O.html · Markdown: https://data.orchid-project.org/systems/NA-O.md
 
-62 accepted literature values from 1 paper(s) (experimental 20, model 15, unspecified 27); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+64 accepted literature values from 1 paper(s) (experimental 20, model 17, unspecified 27); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-O.json) · [CSV](https://data.orchid-project.org/systems/NA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-O/NaO-17Smi.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-O.html) · [Markdown](https://data.orchid-project.org/systems/NA-O.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 15 |
+| model | 17 |
 | unspecified | 27 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
+| invariant reaction | 22 |
 | phase transition | 19 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 6 |
@@ -41,13 +41,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Na–O system (20)
+Table: Invariant reactions reported in the literature for the Na–O system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1405.2 | congruent melting: Na2O-III = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 8 |  |
 | 1403 | congruent melting: Na2O-III = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 7 |  |
-| 1403 | monotectic: Na2O-III + L1 = L2 | L1: O 0.047; Na2O: O 0.333 | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 16 |  |
+| 1403 | monotectic: Na2O-III + L1 = L2 | L1: O 0.047 | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 16 |  |
+| 1402 | monotectic: Na2O-III + L1 = L2 | L1: O 0.047; L2: O 0.333 | model | [1] Smith 2017 | Table 7, p. 11, row 15 |  |
 | 1243.2 | polymorphic: Na2O-II = Na2O-III |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 6 |  |
 | 1241 | polymorphic: Na2O-II = Na2O-III |  | model | [1] Smith 2017 | Table 7, p. 11, row 5 |  |
 | 1023.2 | polymorphic: Na2O-I = Na2O-II |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 4 |  |
@@ -55,16 +56,17 @@ Table: Invariant reactions reported in the literature for the Na–O system (20)
 | 948 | congruent melting: Na2O2-II = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 12 |  |
 | 948 | congruent melting: Na2O2-II = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 11 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017 | p. 7 | “The eutectic equilibrium Na2O-I + Na2O2-II = liquid at 843 K was never observed experimentally.” |
-| 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.47; Na2O(I): O 0.333; Na2O2 II: O 50 (basis unresolved) | model | [1] Smith 2017 | Table 7, p. 11, row 19 |  |
+| 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.47 | model | [1] Smith 2017 | Table 7, p. 11, row 19 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | p. 21 | “The present DSC measurements moreover argue for the existence of a {Na2O-I + Na2O2-II = liquid} eutectic equilibrium at 843 K as anticipated by Wriedt \[14\].” |
-| 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.44; Na2OI: O 0.333 | experimental | [1] Smith 2017; _cites Bunzel 1947_ | Table 7, p. 11, row 20 |  |
+| 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.44 | experimental | [1] Smith 2017; _cites Bunzel 1947_ | Table 7, p. 11, row 20 |  |
 | 826 | congruent melting: NaO2-I = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 13 |  |
 | 825 | congruent melting: NaO2-I = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 14 |  |
 | 785 | polymorphic: Na2O2-I = Na2O2-II |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 10 |  |
 | 782 | polymorphic: Na2O2-I = Na2O2-II |  | model | [1] Smith 2017 | Table 7, p. 11, row 9 |  |
-| 371 | eutectic: β-Na + Na2O-I = L1 | Na2O: O 0.333 | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 18 |  |
+| 371 | eutectic: β-Na + Na2O-I = L1 |  | experimental | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 7, p. 11, row 18 |  |
 | 370.98 | congruent melting: β-Na = L1 |  | model | [1] Smith 2017 | Table 7, p. 11, row 1 |  |
 | 370.98 | congruent melting: β-Na = L1 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 2 |  |
+| 370.98 | eutectic: β-Na + Na2O-I = L1 |  | model | [1] Smith 2017 | Table 7, p. 11, row 17 |  |
 
 ## Formation enthalpies
 

@@ -1,23 +1,34 @@
 # Eu2O3: enthalpy of formation
 
-> Enthalpy of formation of Eu2O3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Eu2O3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Eu2O3.html · Markdown: https://data.orchid-project.org/compounds/Eu2O3.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -307.248 kJ/mol-atom (mp-aaacphfp); OQMD -276.415 kJ/mol-atom (oqmd-1820519).
 
-Systems: [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html)
+Systems: [Eu–O](https://data.orchid-project.org/systems/EU-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Eu2O3 reported in the literature (4)
+Table: Enthalpy of formation of Eu2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1656.58 unknown | C-Eu2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
-| -1656.58 unknown | C-Eu₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
-| -1650.4 unknown | B-Eu2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
-| -1650.4 unknown | B-Eu₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
+| -331.316 kJ/mol-atom | C-Eu2O3 | 298.15 | model |  | [Eu–O](https://data.orchid-project.org/systems/EU-O.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+| -330.08 kJ/mol-atom | B-Eu2O3 | 298.15 | model |  | [Eu–O](https://data.orchid-project.org/systems/EU-O.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Eu2O3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacphfp | -307.248 | -3.18441 | Ia-3 | 0 | 0 | no |
+| OQMD | oqmd-1820519 | -276.415 | -2.86485 | P21/c | 0 | 0 | yes |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 

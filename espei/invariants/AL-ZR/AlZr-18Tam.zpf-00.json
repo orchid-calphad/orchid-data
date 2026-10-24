@@ -483,6 +483,12 @@
       "paper": "doi:10.1007/s10973-017-6635-3",
       "measured_in": "ref:ce857b9b659a728f",
       "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-03.json"
+     },
+     {
+      "id": "ORC-4ANPPFO5DL",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "ref:75d2a7c94d80a4c9",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-05.json"
      }
     ]
    },
@@ -502,7 +508,15 @@
     "id": "ORC-SKAXOHRCH5",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s10973-017-6635-3",
-    "measured_in": "doi:10.1007/bf02667556"
+    "measured_in": "doi:10.1007/bf02667556",
+    "also_reported_as": [
+     {
+      "id": "ORC-CVMTVVQCVS",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "ref:75d2a7c94d80a4c9",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -519,7 +533,7 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/AlZr-18Tam/zpf-00.json",
   "values_dropped": 5,
-  "e3_merged": 2
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

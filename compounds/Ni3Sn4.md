@@ -16,12 +16,12 @@ Table: Enthalpy of formation of Ni3Sn4 reported in the literature (10)
 |---:|---|---:|---|---|---|---|---|---|
 | -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Dannohl 1974_ | Table III, p. 12, row 13 |  |
 | -33.704 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Dannohl 1974_ | Table 3, p. 5, row 13 |  |
-| -25.33 kJ/mol (basis unstated) | Ni3Sn4(π) | 298 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10 |  |
+| -25.33 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10 |  |
 | -25.33 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | experimental |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999; _cites Predel 1979_ | Table III, p. 12, row 11 |  |
 | -30.823 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004 | Table 3, p. 5, row 15 |  |
 | -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 14 |  |
-| -25.68 kJ/mol (basis unstated) | Ni3Sn4(π) | 298 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003 | Table 5, p. 5, row 12 |  |
-| -25.41 kJ/mol (basis unstated) | Ni3Sn4(π) | 298 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11 |  |
+| -25.68 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003 | Table 5, p. 5, row 12 |  |
+| -25.41 kJ/mol (basis unstated) | Ni3Sn4(π) | 298.15 | model |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11 |  |
 | -29.359 kJ/mol (basis unstated) | Ni3Sn4 | 1023 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 14 |  |
 | -25.409 kJ/mol (basis unstated) | Ni3Sn4 | 298.15 | unspecified |  | [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.html) | [1] Ghosh 1999 | Table III, p. 12, row 12 |  |
 

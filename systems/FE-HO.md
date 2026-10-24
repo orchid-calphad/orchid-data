@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/FE-HO.html · Markdown: https://data.orchid-project.org/systems/FE-HO.md
 
-88 accepted literature values from 1 paper(s) (experimental 46, model 39, DFT 1, unspecified 2); 2 calculated phase diagram(s).
+88 accepted literature values from 1 paper(s) (experimental 36, model 39, DFT 1, unspecified 12); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-HO.json) · [CSV](https://data.orchid-project.org/systems/FE-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-HO/FeHo-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-HO.html) · [Markdown](https://data.orchid-project.org/systems/FE-HO.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
+| experimental | 36 |
 | model | 39 |
 | DFT | 1 |
-| unspecified | 2 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
@@ -84,21 +84,21 @@ Table: Invariant reactions reported in the literature for the Fe–Ho system (22
 | 1667.15 | δFe ↔ γFe + Liq |  | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 4 |  |
 | 1662.15 | δFe ↔ γFe + Liq |  | model | [1] Kardellass 2014 | Table 6, p. 4, row 5 |  |
 | 1612.15 | L ↔ γFe + Fe17Ho2 | Fe17Ho2: Ho 0.105263 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 7 |  |
-| 1611.15 | eutectic: L ↔ (γFe) + Fe17Ho2 | L: Ho 0.092; (γFe): Ho 0; Fe17Ho2: Ho 0.105 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 4 |  |
+| 1611.15 | eutectic: L ↔ (γFe) + Fe17Ho2 | L: Ho 0.092; (γFe): Ho 0; Fe17Ho2: Ho 0.105 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 4 |  |
 | 1611.15 | L ↔ γFe + Fe17Ho2 | Fe17Ho2: Ho 0.105263 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 6 |  |
 | 1591.15 | L ↔ Fe17Ho2 + Fe23Ho6 | Fe17Ho2: Ho 0.105263; Fe23Ho6: Ho 0.206897 | model | [1] Kardellass 2014 | Table 6, p. 4, row 15 |  |
 | 1569.15 | L + Fe3Ho ↔ Fe23Ho6 | Fe3Ho: Ho 0.25; Fe23Ho6: Ho 0.206897 | model | [1] Kardellass 2014 | Table 6, p. 4, row 21 |  |
-| 1566.15 | peritectic: L + Fe23Ho6 ↔ Fe3Ho | L: Ho 0.27; Fe23Ho6: Ho 0.206; Fe3Ho: Ho 0.25 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 8 |  |
+| 1566.15 | peritectic: L + Fe23Ho6 ↔ Fe3Ho | L: Ho 0.27; Fe23Ho6: Ho 0.206; Fe3Ho: Ho 0.25 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 8 |  |
 | 1566.15 | L + Fe3Ho ↔ Fe23Ho6 | Fe3Ho: Ho 0.25; Fe23Ho6: Ho 0.206897 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 20 |  |
 | 1566.15 | L + Fe3Ho ↔ Fe23Ho6 | Fe3Ho: Ho 0.25; Fe23Ho6: Ho 0.206897 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 19 |  |
 | 1561.15 | L + Fe3Ho ↔ Fe2Ho | Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 23 |  |
 | 1561.15 | L + Fe3Ho ↔ Fe2Ho | Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 22 |  |
 | 1558.15 | L ↔ Fe17Ho2 + Fe23Ho6 | Fe17Ho2: Ho 0.105263; Fe23Ho6: Ho 0.206897 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 14 |  |
 | 1558.15 | L ↔ Fe17Ho2 + Fe23Ho6 | Fe17Ho2: Ho 0.105263; Fe23Ho6: Ho 0.206897 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 13 |  |
-| 1558.15 | peritectic: L + Fe3Ho ↔ Fe2Ho | L: Ho 0.36; Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 9 |  |
-| 1557.15 | eutectic: L ↔ Fe17Ho2 + Fe23Ho6 | L: Ho 0.178; Fe17Ho2: Ho 0.105; Fe23Ho6: Ho 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 6 |  |
+| 1558.15 | peritectic: L + Fe3Ho ↔ Fe2Ho | L: Ho 0.36; Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 9 |  |
+| 1557.15 | eutectic: L ↔ Fe17Ho2 + Fe23Ho6 | L: Ho 0.178; Fe17Ho2: Ho 0.105; Fe23Ho6: Ho 0.206 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 6 |  |
 | 1554.15 | L + Fe3Ho ↔ Fe2Ho | Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333333 | model | [1] Kardellass 2014 | Table 6, p. 4, row 24 |  |
-| 1148.15 | eutectic: L + Fe2Ho ↔ (αHo) | L: Ho 0.633; Fe2Ho: Ho 0.333; (αHo): Ho 100 (basis unresolved) | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 10 |  |
+| 1148.15 | eutectic: L + Fe2Ho ↔ (αHo) | L: Ho 0.633; Fe2Ho: Ho 0.333; (αHo): Ho 100 (basis unresolved) | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 10 |  |
 | 1148.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 26 |  |
 | 1148.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 27 |  |
 | 1146.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | model | [1] Kardellass 2014 | Table 6, p. 4, row 28 |  |
@@ -142,7 +142,7 @@ Table: Phase transition, Fe–Ho system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 325.15 K | 325.15 | magnetic | experimental | [1] Kardellass 2014; _cites Strnat 1966_ [doi](https://doi.org/10.1109/tmag.1966.1065874) | p. 3 | “In good agreement, the Curie temperatures according to mutual induction measurements are 52 °C \[27\] for Fe17Ho2, 293 °C \[28\]” |
 | Phase transition | 1185.15 K | 1185.15 | polymorphic | model | [1] Kardellass 2014; _cites Okamoto 1993_ | p. 1 | “According to \[6,17\] the melting point of dFe is 1538 °C and the dFe M cFe and cFe M aFe allotropic transformation temperatures are 1394 °C and 912 °C, respectively.” |
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: γFe ↔ αFe; _γFe: Ho 0_ | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 3 |  |
+| Phase transition | 1185.15 K | 1185.15 | polymorphic: γFe ↔ αFe; _γFe: Ho 0_ | unspecified | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 3 |  |
 | Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | model | [1] Kardellass 2014 | Table 6, p. 4, row 9 |  |
 | Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 8 |  |
 | Phase transition | 1555.15 K | 1555.15 | L ↔ Fe2Ho; _L: Ho 0.333333; Fe2Ho: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 6, p. 4, row 25 |  |
@@ -152,14 +152,14 @@ Table: Phase transition, Fe–Ho system
 | Phase transition | 1604.15 K | 1604.15 | L ↔ Fe23Ho6; _L: Ho 0.206897; Fe23Ho6: Ho 0.206897_ | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 17 |  |
 | Phase transition | 1605.15 K | 1605.15 | L ↔ Fe23Ho6; _L: Ho 0.206897; Fe23Ho6: Ho 0.206897_ | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 16 |  |
 | Phase transition | 1605.15 K | 1605.15 | congruent melting | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | p. 1 | “The two phases Fe23Ho6 and Fe17Ho2 melted congruently at 1332 °C and 1343 °C, respectively, while Fe3Ho and Fe2Ho melted incongruently at 1293 °C and 1288 °C, respectively, table 1. The melting points for all the intermediate phases are believed accurate with ± 3 °C \[4\].” |
-| Phase transition | 1605.15 K | 1605.15 | congruent melting: L ↔ Fe23Ho6; _L: Ho 0.206; Fe23Ho6: Ho 0.206_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 7 |  |
+| Phase transition | 1605.15 K | 1605.15 | congruent melting: L ↔ Fe23Ho6; _L: Ho 0.206; Fe23Ho6: Ho 0.206_ | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 7 |  |
 | Phase transition | 1613.15 K | 1613.15 | L ↔ Fe17Ho2; _L: Ho 0.105263; Fe17Ho2: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 6, p. 4, row 12 |  |
 | Phase transition | 1616.15 K | 1616.15 | L ↔ Fe17Ho2; _L: Ho 0.105263; Fe17Ho2: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 10 |  |
 | Phase transition | 1616.15 K | 1616.15 | congruent melting | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | p. 1 | “The two phases Fe23Ho6 and Fe17Ho2 melted congruently at 1332 °C and 1343 °C, respectively, while Fe3Ho and Fe2Ho melted incongruently at 1293 °C and 1288 °C, respectively, table 1. The melting points for all the intermediate phases are believed accurate with ± 3 °C \[4\].” |
-| Phase transition | 1616.15 K | 1616.15 | congruent melting: L ↔ Fe17Ho2; _L: Ho 0.105; Fe17Ho2: Ho 0.105_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 5 |  |
+| Phase transition | 1616.15 K | 1616.15 | congruent melting: L ↔ Fe17Ho2; _L: Ho 0.105; Fe17Ho2: Ho 0.105_ | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 5 |  |
 | Phase transition | 1617.15 K | 1617.15 | L ↔ Fe17Ho2; _L: Ho 0.105263; Fe17Ho2: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 11 |  |
 | Phase transition | 1667.15 K | 1667.15 | polymorphic | model | [1] Kardellass 2014; _cites Okamoto 1993_ | p. 1 | “According to \[6,17\] the melting point of dFe is 1538 °C and the dFe M cFe and cFe M aFe allotropic transformation temperatures are 1394 °C and 912 °C, respectively.” |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: δFe ↔ γFe; _δFe: Ho 0_ | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 2 |  |
+| Phase transition | 1667.15 K | 1667.15 | polymorphic: δFe ↔ γFe; _δFe: Ho 0_ | unspecified | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 2 |  |
 | Phase transition | 1713.15 K | 1713.15 | polymorphic: (βHo) ↔ (αHo); _(βHo): Ho 1_ | unspecified | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 1, p. 2, row 12 |  |
 | Phase transition | 1744.15 K | 1744.15 | L ↔ (βHo) | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 31 |  |
 | Phase transition | 1745.15 K | 1745.15 | congruent melting: L ↔ (βHo); _(βHo): Ho 1_ | unspecified | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 1, p. 2, row 11 |  |
@@ -167,7 +167,7 @@ Table: Phase transition, Fe–Ho system
 | Phase transition | 1747.15 K | 1747.15 | L ↔ (βHo) | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 30 |  |
 | Phase transition | 1747.15 K | 1747.15 | L ↔ (βHo) | model | [1] Kardellass 2014 | Table 6, p. 4, row 32 |  |
 | Phase transition | 1809.15 K | 1809.15 | δFe ↔ Liq | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 2 |  |
-| Phase transition | 1811.15 K | 1811.15 | congruent melting: L ↔ δFe; _δFe: Ho 0_ | experimental | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 1 |  |
+| Phase transition | 1811.15 K | 1811.15 | congruent melting: L ↔ δFe; _δFe: Ho 0_ | unspecified | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 1 |  |
 | Phase transition | 1811.15 K | 1811.15 | dFe + liquid | model | [1] Kardellass 2014; _cites Okamoto 1993_ | p. 1 | “According to \[6,17\] the melting point of dFe is 1538 °C and the dFe M cFe and cFe M aFe allotropic transformation temperatures are 1394 °C and 912 °C, respectively.” |
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | model | [1] Kardellass 2014 | Table 6, p. 4, row 3 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 1 |  |

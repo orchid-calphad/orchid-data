@@ -209,7 +209,15 @@
     "id": "ORC-EDQOG34Y54",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0364-5916(03)00049-x",
-    "measured_in": "doi:10.1515/ijmr-1983-740105"
+    "measured_in": "doi:10.1515/ijmr-1983-740105",
+    "also_reported_as": [
+     {
+      "id": "ORC-ZECPSOTC7X",
+      "paper": "doi:10.1016/j.calphad.2005.08.001",
+      "measured_in": "doi:10.1515/ijmr-1983-740105",
+      "dataset": "invariants/NI-SI/NiSi-05Mie.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-4DSAY2ZWO2",
@@ -244,14 +252,17 @@
   ],
   "papers": [
    "doi:10.1515/ijmr-1983-740105",
-   "doi:10.1016/s0364-5916(03)00049-x"
+   "doi:10.1016/s0364-5916(03)00049-x",
+   "doi:10.1016/j.calphad.2005.08.001"
   ],
   "dois": [
+   "10.1016/j.calphad.2005.08.001",
    "10.1016/s0364-5916(03)00049-x",
    "10.1515/ijmr-1983-740105"
   ],
   "source_dataset": "db-v2.1/invariants/espei/NiSi-03Tok/zpf-03.json",
-  "values_dropped": 1
+  "values_dropped": 1,
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "CU10ZR7",
-  "CU2ZR",
   "CU8ZR3",
   "LIQUID"
  ],
@@ -15,7 +14,6 @@
   "P": 101325,
   "T": [
    1177,
-   1160,
    885
   ]
  },
@@ -56,44 +54,6 @@
     ],
     [
      0.342246
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2ZR",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU8ZR3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.339275
     ]
    ]
   ],
@@ -144,7 +104,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OATLEB3VIM ORC-EZPWOD3GVM ORC-TVIPSUQNML",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OATLEB3VIM ORC-TVIPSUQNML",
  "bibtex": "knellernd_268bdf",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -163,20 +123,6 @@
       "id": "ORC-QOMN3TGKS6",
       "paper": "doi:10.1007/s11669-017-0522-2",
       "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-05.json"
-     }
-    ]
-   },
-   {
-    "id": "ORC-EZPWOD3GVM",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2009.12.004",
-    "measured_in": "doi:10.1515/ijmr-1986-770109",
-    "also_reported_as": [
-     {
-      "id": "ORC-GLXDCLR3Y7",
-      "paper": "doi:10.1016/j.jallcom.2011.04.141",
-      "measured_in": "doi:10.1515/ijmr-1986-770109",
-      "dataset": "invariants/CU-ZR/CuZr-11Gie.zpf-01.json"
      }
     ]
    },
@@ -201,15 +147,11 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-10Zho/zpf-02.json",
   "e3_merged": 2,
-  "values_dropped": 1
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -235,11 +177,6 @@
     "id": "ORC-OATLEB3VIM",
     "espei_certified": false,
     "calphad_check": "disagrees"
-   },
-   {
-    "id": "ORC-EZPWOD3GVM",
-    "espei_certified": false,
-    "calphad_check": "not_available"
    },
    {
     "id": "ORC-TVIPSUQNML",

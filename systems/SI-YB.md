@@ -102,20 +102,20 @@ Table: Enthalpies of formation, Si–Yb system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Yb3Si11 |  | -49.1 kJ/mol-atom | 298 | model |  |  | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
-| Yb3Si11 |  | -48 kJ/mol-atom ± 3.1 | 298 | experimental |  |  | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
-| Yb3Si5 | [Si5Yb3](https://data.orchid-project.org/compounds/Si5Yb3.html) | -45 kJ/mol-atom | 298 | model |  | -40.886 (oqmd-646768) | [1] Brutti 2005 | Table 6, p. 7, row 11 |  |
-| Yb3Si5 | [Si5Yb3](https://data.orchid-project.org/compounds/Si5Yb3.html) | -41.3 kJ/mol-atom ± 2.6 | 298 | experimental |  | -40.886 (oqmd-646768) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 12 |  |
-| Yb5Si3 | [Si3Yb5](https://data.orchid-project.org/compounds/Si3Yb5.html) | -49.8 kJ/mol-atom | 298 | model |  | -47.727 (oqmd-1437174) | [1] Brutti 2005 | Table 6, p. 7, row 1 |  |
-| Yb5Si3 | [Si3Yb5](https://data.orchid-project.org/compounds/Si3Yb5.html) | -48.3 kJ/mol-atom ± 3.6 | 298 | experimental |  | -47.727 (oqmd-1437174) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2 |  |
-| Yb5Si4 | [Si4Yb5](https://data.orchid-project.org/compounds/Si4Yb5.html) | -53.2 kJ/mol-atom ± 4.6 | 298 | experimental |  | -45.285 (oqmd-19744) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 4 |  |
-| Yb5Si4 | [Si4Yb5](https://data.orchid-project.org/compounds/Si4Yb5.html) | -51.1 kJ/mol-atom | 298 | model |  | -45.285 (oqmd-19744) | [1] Brutti 2005 | Table 6, p. 7, row 3 |  |
-| Yb8Si11 | [Si11Yb8](https://data.orchid-project.org/compounds/Si11Yb8.html) | -49.1 kJ/mol-atom | 298 | model |  | -46.119 (oqmd-19800) | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
-| Yb8Si11 | [Si11Yb8](https://data.orchid-project.org/compounds/Si11Yb8.html) | -48 kJ/mol-atom ± 3.1 | 298 | experimental |  | -46.119 (oqmd-19800) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
-| YbSi | [SiYb](https://data.orchid-project.org/compounds/SiYb.html) | -51.1 kJ/mol-atom ± 5.1 | 298 | experimental |  | -54.503 (oqmd-646927) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
-| YbSi | [SiYb](https://data.orchid-project.org/compounds/SiYb.html) | -51 kJ/mol-atom | 298 | model |  | -54.503 (oqmd-646927) | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
-| YbSi1.74 |  | -41.1 kJ/mol-atom | 298 | model |  |  | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
-| YbSi1.74 |  | -37.4 kJ/mol-atom ± 0.9 | 298 | experimental |  |  | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
+| Yb3Si11 |  | -49.1 kJ/mol-atom | 298.15 | model |  |  | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
+| Yb3Si11 |  | -48 kJ/mol-atom ± 3.1 | 298.15 | experimental |  |  | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
+| Yb3Si5 | [Si5Yb3](https://data.orchid-project.org/compounds/Si5Yb3.html) | -45 kJ/mol-atom | 298.15 | model |  | -40.886 (oqmd-646768) | [1] Brutti 2005 | Table 6, p. 7, row 11 |  |
+| Yb3Si5 | [Si5Yb3](https://data.orchid-project.org/compounds/Si5Yb3.html) | -41.3 kJ/mol-atom ± 2.6 | 298.15 | experimental |  | -40.886 (oqmd-646768) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 12 |  |
+| Yb5Si3 | [Si3Yb5](https://data.orchid-project.org/compounds/Si3Yb5.html) | -49.8 kJ/mol-atom | 298.15 | model |  | -47.727 (oqmd-1437174) | [1] Brutti 2005 | Table 6, p. 7, row 1 |  |
+| Yb5Si3 | [Si3Yb5](https://data.orchid-project.org/compounds/Si3Yb5.html) | -48.3 kJ/mol-atom ± 3.6 | 298.15 | experimental |  | -47.727 (oqmd-1437174) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2 |  |
+| Yb5Si4 | [Si4Yb5](https://data.orchid-project.org/compounds/Si4Yb5.html) | -53.2 kJ/mol-atom ± 4.6 | 298.15 | experimental |  | -45.285 (oqmd-19744) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 4 |  |
+| Yb5Si4 | [Si4Yb5](https://data.orchid-project.org/compounds/Si4Yb5.html) | -51.1 kJ/mol-atom | 298.15 | model |  | -45.285 (oqmd-19744) | [1] Brutti 2005 | Table 6, p. 7, row 3 |  |
+| Yb8Si11 | [Si11Yb8](https://data.orchid-project.org/compounds/Si11Yb8.html) | -49.1 kJ/mol-atom | 298.15 | model |  | -46.119 (oqmd-19800) | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
+| Yb8Si11 | [Si11Yb8](https://data.orchid-project.org/compounds/Si11Yb8.html) | -48 kJ/mol-atom ± 3.1 | 298.15 | experimental |  | -46.119 (oqmd-19800) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
+| YbSi | [SiYb](https://data.orchid-project.org/compounds/SiYb.html) | -51.1 kJ/mol-atom ± 5.1 | 298.15 | experimental |  | -54.503 (oqmd-646927) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
+| YbSi | [SiYb](https://data.orchid-project.org/compounds/SiYb.html) | -51 kJ/mol-atom | 298.15 | model |  | -54.503 (oqmd-646927) | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
+| YbSi1.74 |  | -41.1 kJ/mol-atom | 298.15 | model |  |  | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
+| YbSi1.74 |  | -37.4 kJ/mol-atom ± 0.9 | 298.15 | experimental |  |  | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
 
 ## Other properties
 
@@ -205,23 +205,23 @@ Table: Formation, Si–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS°298_ | 3.3 J/mol-atom/K | 298 | Yb3Si11; _alloy: Yb 0.214286_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 3.9 J/mol-atom/K | 298 | Yb3Si11; _alloy: Yb 0.214286_ | model | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 5.2 J/mol-atom/K | 298 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 12 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 0.4 J/mol-atom/K | 298 | Yb3Si5; _alloy: Yb 0.375_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 13 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 4.2 J/mol-atom/K | 298 | Yb3Si5; _alloy: Yb 0.375_ | model | [1] Brutti 2005 | Table 6, p. 7, row 11 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 4.5 J/mol-atom/K | 298 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 4.2 J/mol-atom/K | 298 | Yb5Si3; _alloy: Yb 0.625_ | model | [1] Brutti 2005 | Table 6, p. 7, row 1 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 6.2 J/mol-atom/K | 298 | Yb5Si4; _alloy: Yb 0.555556_ | model | [1] Brutti 2005 | Table 6, p. 7, row 3 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 1.3 J/mol-atom/K | 298 | Yb5Si4; _alloy: Yb 0.555556_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 5 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 2.8 J/mol-atom/K | 298 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 4 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 3.3 J/mol-atom/K | 298 | Yb8Si11; _alloy: Yb 0.214286_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 3.9 J/mol-atom/K | 298 | Yb8Si11; _alloy: Yb 0.214286_ | model | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 0.8 J/mol-atom/K | 298 | YbSi; _alloy: Yb 0.5_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 8 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 4.9 J/mol-atom/K | 298 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 7.4 J/mol-atom/K | 298 | YbSi; _alloy: Yb 0.5_ | model | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 7.6 J/mol-atom/K | 298 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
-| Entropy of formation; _printed: ΔfS°298_ | 6.7 J/mol-atom/K | 298 | YbSi1.74; _alloy: Yb 0.364964_ | model | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 3.3 J/mol-atom/K | 298.15 | Yb3Si11; _alloy: Yb 0.214286_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 3.9 J/mol-atom/K | 298.15 | Yb3Si11; _alloy: Yb 0.214286_ | model | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 5.2 J/mol-atom/K | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 12 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 0.4 J/mol-atom/K | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 13 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 4.2 J/mol-atom/K | 298.15 | Yb3Si5; _alloy: Yb 0.375_ | model | [1] Brutti 2005 | Table 6, p. 7, row 11 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 4.5 J/mol-atom/K | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 2 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 4.2 J/mol-atom/K | 298.15 | Yb5Si3; _alloy: Yb 0.625_ | model | [1] Brutti 2005 | Table 6, p. 7, row 1 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 6.2 J/mol-atom/K | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | model | [1] Brutti 2005 | Table 6, p. 7, row 3 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 1.3 J/mol-atom/K | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 5 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 2.8 J/mol-atom/K | 298.15 | Yb5Si4; _alloy: Yb 0.555556_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 4 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 3.3 J/mol-atom/K | 298.15 | Yb8Si11; _alloy: Yb 0.214286_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 3.9 J/mol-atom/K | 298.15 | Yb8Si11; _alloy: Yb 0.214286_ | model | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 0.8 J/mol-atom/K | 298.15 | YbSi; _alloy: Yb 0.5_ | model | [1] Brutti 2005; _cites Dhar 2002_ | Table 6, p. 7, row 8 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 4.9 J/mol-atom/K | 298.15 | YbSi; _alloy: Yb 0.5_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 7.4 J/mol-atom/K | 298.15 | YbSi; _alloy: Yb 0.5_ | model | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 7.6 J/mol-atom/K | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
+| Entropy of formation; _printed: ΔfS°298_ | 6.7 J/mol-atom/K | 298.15 | YbSi1.74; _alloy: Yb 0.364964_ | model | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
 
 ### Activity / EMF / Gibbs energy (13)
 

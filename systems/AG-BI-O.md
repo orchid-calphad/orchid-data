@@ -1,10 +1,10 @@
 # Ag–Bi–O system
 
-> Ag–Bi–O system: 5 accepted literature values (invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Bi–O system: 26 accepted literature values (invariant reaction 20, phase transition 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-BI-O.html · Markdown: https://data.orchid-project.org/systems/AG-BI-O.md
 
-5 accepted literature values from 1 paper(s) (model 5); 0 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 18, model 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI-O.json) · [CSV](https://data.orchid-project.org/systems/AG-BI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-BI-O.html) · [Markdown](https://data.orchid-project.org/systems/AG-BI-O.md)
 
@@ -12,25 +12,57 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 5 |
+| experimental | 18 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
+| invariant reaction | 20 |
+| phase transition | 6 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Bi–O system (5)
+Table: Invariant reactions reported in the literature for the Ag–Bi–O system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
+| 1211.6 | (Ag) + L2 -> L1 |  | model | [1] Assal 1999 | Table I, p. 1, row 22 |  |
+| 1211 | (Ag) + L2 -> L1 | (Ag): Bi 0.33 | experimental | [1] Assal 1999 | Table I, p. 1, row 16 |  |
+| 1210 | (Ag) + L2 -> L1 |  | experimental | [1] Assal 1999 | Table I, p. 1, row 19 |  |
+| 1209 | (Ag) + L2 -> L1 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 13 |  |
 | 1089.6 | δ-Bi2O3 + L1 -> (Ag) + L2 | L1: Ag 0.884, Bi 0.116, O 3.000e-5; (Ag): Ag 0.988, Bi 0.012, O 0; L2: Ag 0.001, Bi 0.4, O 0.599 | model | [1] Assal 1999 | Table V, p. 4, row 2 |  |
 | 1002.1 | α-Bi2O3 -> δ-Bi2O3 (+ (Ag) + L1) | (Ag): Ag 0.981, Bi 0.019, O 0; L1: Ag 0.818, Bi 0.182, O 1.000e-5 | model | [1] Assal 1999 | Table V, p. 4, row 1 |  |
 | 1002.1 | α-Bi2O3 -> δ-Bi2O3 (+ (Ag) + L2) | (Ag): Ag 1, Bi 0, O 4.000e-5; L2: Ag 0.033, Bi 0.38, O 0.587 | model | [1] Assal 1999 | Table V, p. 4, row 3 |  |
+| 962 | (Ag) + α -> L2 | (Ag): Bi 0.974 | experimental | [1] Assal 1999 | Table I, p. 1, row 1 |  |
+| 961 | (Ag) + α -> L2 | (Ag): Bi 0.33 | experimental | [1] Assal 1999 | Table I, p. 1, row 14 |  |
+| 961 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 11 |  |
+| 959.5 | (Ag) + α -> L2 |  | model | [1] Assal 1999 | Table I, p. 1, row 20 |  |
+| 959 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 9 |  |
+| 959 | (Ag) + α -> L2 | (Ag): Bi 0.33 | experimental | [1] Assal 1999 | Table I, p. 1, row 15 |  |
+| 959 | (Ag) + α -> L2 |  | experimental | [1] Assal 1999 | Table I, p. 1, row 17 |  |
+| 958 | (Ag) + α -> L2 | (Ag): Bi 0.95 | experimental | [1] Assal 1999 | Table I, p. 1, row 3 |  |
+| 958 | (Ag) + α -> L2 | (Ag): Bi 0.75 | experimental | [1] Assal 1999 | Table I, p. 1, row 10 |  |
+| 957 | (Ag) + α -> L2 | (Ag): Bi 0.89 | experimental | [1] Assal 1999 | Table I, p. 1, row 7 |  |
+| 951 | (Ag) + α -> L2 | (Ag): Bi 0.95 | experimental | [1] Assal 1999 | Table I, p. 1, row 5 |  |
 | 803.6 | Ag2O + L2 + (Ag) -> L1 | L2: Ag 0.446, Bi 0.133, O 0.422; (Ag): Ag 0.999, Bi 0, O 0.001; L1: Ag 0.749, Bi 0, O 0.251 | model | [1] Assal 1999 | Table V, p. 4, row 5 |  |
 | 699.4 | Ag2O + α-Bi2O3 -> L2 (+ (Ag)) | L2: Ag 0.357, Bi 0.186, O 0.457; (Ag): Ag 1, Bi 0, O 1.000e-4 | model | [1] Assal 1999 | Table V, p. 4, row 4 |  |
+
+## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Ag–Bi–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1002.1 K | 1002.1 | α -> δ | model | [1] Assal 1999 | Table I, p. 1, row 21 |  |
+| Phase transition | 1003 K | 1003 | α -> δ; _α: Bi 0.95_ | experimental | [1] Assal 1999 | Table I, p. 1, row 4 |  |
+| Phase transition | 1004 K | 1004 | α -> δ; _α: Bi 0.974_ | experimental | [1] Assal 1999 | Table I, p. 1, row 2 |  |
+| Phase transition | 1004 K | 1004 | α -> δ; _α: Bi 0.89_ | experimental | [1] Assal 1999 | Table I, p. 1, row 8 |  |
+| Phase transition | 1004 K | 1004 | α -> δ | experimental | [1] Assal 1999 | Table I, p. 1, row 18 |  |
+| Phase transition | 1005 K | 1005 | α -> δ; _α: Bi 0.95_ | experimental | [1] Assal 1999 | Table I, p. 1, row 6 |  |
 
 ## Sources
 

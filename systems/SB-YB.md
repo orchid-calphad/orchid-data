@@ -117,14 +117,14 @@ Table: Invariant reactions reported in the literature for the Sb–Yb system (40
 | 1078.15 | peritectic |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Based on DTA, X-ray diffraction, and microstructural analysis, Abulkhaev \[20\] investigated the phase diagram in the Sb-Yb system, and reported five stoichiometric compounds: Sb2 Yb (peritectic formation at 805 ± 5 °C), SbYb (peritectic formation at 1075 ± 10 °C), Sb10 Yb11 (peritectic formation at 1405 ± 10 °C), Sb3 Yb4 (melting point, 1680 ± 15 °C), and Sb3 Yb5 (peritectic formation at 1540 ± 15…” |
 | 1078.15 | peritectic: L + SbYb -> Sb2Yb | SbYb: Yb 0.5; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 13 |  |
 | 1078 | peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.79; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 4 |  |
-| 1078 | eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Liquid: Sb 0.0123; Yb5Sb3: Sb 0.375, Yb 0.625; Solid: Sb 0.0086 | model | [2] Palma 2023 | Table 2, p. 28, row 17 |  |
+| 1078 | eutectic: Liquid -> Yb5Sb3+ BCC_A2 | Liquid: Sb 0.0123; Yb5Sb3: Sb 0.375, Yb 0.625 | model | [2] Palma 2023 | Table 2, p. 28, row 17 |  |
 | 1075 | peritectic: Liquid+YbSb -> YbSb2 | Liquid: Sb 0.783; YbSb: Sb 0.5, Yb 0.5; YbSb2: Sb 0.666667, Yb 0.333333 | model | [2] Palma 2023 | Table 2, p. 28, row 5 |  |
 | 1038.15 | peritectoid: αSb3Yb5 + (γYb) -> (βYb) | αSb3Yb5: Yb 0.625; (γYb): Yb 0.9988 | model | [1] Liu 2012 | Table 5, p. 4, row 15 |  |
 | 893.15 | eutectic: L -> Sb2Yb + (Sb) | L: Yb 0.076; Sb2Yb: Yb 0.3333; (Sb): Yb 0.0086 | model | [1] Liu 2012 | Table 5, p. 4, row 17 |  |
 | 893.15 | eutectic: L (10 at.%Yb) ↔ Sb2 Yb + (Sb) |  | experimental | [1] Liu 2012; _cites V 1999_ | p. 2 | “Abulkhaev \[20\] also determined two eutectic reactions: L (0.9 at.% Yb) ↔ (γ Yb) + α Sb3 Yb5 at 810 ± 5 °C, L (10 at.%Yb) ↔ Sb2 Yb + (Sb) at 620 ± 2 °C.” |
 | 893.15 | eutectic: L -> Sb2Yb + (Sb) | L: Yb 0.1; Sb2Yb: Yb 0.3333 | experimental | [1] Liu 2012; _cites V 1999_ | Table 5, p. 4, row 16 |  |
 | 893 | eutectic: Liquid -> Rhombohedral+YbSb2 | YbSb2: Sb 0.666667, Yb 0.333333 | experimental | [2] Palma 2023; _cites Abulkhaev 1997_ | Table 2, p. 28, row 1 |  |
-| 885 | eutectic: Liquid -> Rhombohedral+YbSb2 | Liquid: Sb 0.95; YbSb2: Sb 0.666667, Yb 0.333333; Solid: Sb 0.993 | model | [2] Palma 2023 | Table 2, p. 28, row 2 |  |
+| 885 | eutectic: Liquid -> Rhombohedral+YbSb2 | Liquid: Sb 0.95; YbSb2: Sb 0.666667, Yb 0.333333 | model | [2] Palma 2023 | Table 2, p. 28, row 2 |  |
 
 ## Formation enthalpies
 

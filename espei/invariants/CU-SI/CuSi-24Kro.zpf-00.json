@@ -21,7 +21,6 @@
   "P": 101325,
   "T": [
    1122.15,
-   1112.15,
    1094.15,
    1091.15,
    1080.15,
@@ -64,35 +63,6 @@
     ],
     [
      0.142
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "SI"
-    ],
-    [
-     0.145
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "SI"
-    ],
-    [
-     0.125
     ]
    ]
   ],
@@ -425,7 +395,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CY3HAK6FIQ ORC-FHNJB36QZN ORC-ZJ3776FENC ORC-4Z4OE73X5F ORC-GDJWHJU26S ORC-SCO36FPZ5O ORC-OYSMCQJ6TG ORC-55GXGDRP4P ORC-GBVOBHCVKC ORC-GI3ICFUEXH ORC-SJKEAQ2D2L ORC-QB7RLDHCKN ORC-RBZP7M3LS5 ORC-XNYMHAZDTQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CY3HAK6FIQ ORC-ZJ3776FENC ORC-4Z4OE73X5F ORC-GDJWHJU26S ORC-SCO36FPZ5O ORC-OYSMCQJ6TG ORC-55GXGDRP4P ORC-GBVOBHCVKC ORC-GI3ICFUEXH ORC-SJKEAQ2D2L ORC-QB7RLDHCKN ORC-RBZP7M3LS5 ORC-XNYMHAZDTQ",
  "bibtex": "sufryd2011_3c1030",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -433,12 +403,6 @@
   "observations": [
    {
     "id": "ORC-CY3HAK6FIQ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-024-01160-5",
-    "measured_in": "doi:10.1016/j.intermet.2011.05.017"
-   },
-   {
-    "id": "ORC-FHNJB36QZN",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-024-01160-5",
     "measured_in": "doi:10.1016/j.intermet.2011.05.017"
@@ -524,17 +488,12 @@
    "10.1007/s11669-024-01160-5",
    "10.1016/j.intermet.2011.05.017"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuSi-24Kro/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-24Kro/zpf-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 2.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -622,11 +581,6 @@
   "values": [
    {
     "id": "ORC-CY3HAK6FIQ",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-FHNJB36QZN",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

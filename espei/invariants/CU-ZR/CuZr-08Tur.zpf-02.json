@@ -7,7 +7,6 @@
  "phases": [
   "CU51ZR14",
   "CU5ZR_C15B",
-  "CU8ZR3",
   "FCC_A1",
   "LIQUID"
  ],
@@ -16,8 +15,7 @@
   "T": [
    1240.0,
    1283.0,
-   1377.0,
-   1248.0
+   1377.0
   ]
  },
  "output": "ZPF",
@@ -99,44 +97,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU8ZR3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.25395
-    ]
-   ]
   ]
  ],
  "reference": "Turchanin 2008, doi:10.1007/s11106-008-9039-x",
@@ -146,7 +106,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-47VXTQ576T ORC-ZPUO274MFA ORC-6HMOUELYXC ORC-X4CRJIT4P4",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-47VXTQ576T ORC-ZPUO274MFA ORC-6HMOUELYXC",
  "bibtex": "turchanin2008_458466",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -155,39 +115,57 @@
    {
     "id": "ORC-47VXTQ576T",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-AL4POCZYNT",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-09.json"
+     }
+    ]
    },
    {
     "id": "ORC-ZPUO274MFA",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-VHWZOFYGRG",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-09.json"
+     }
+    ]
    },
    {
     "id": "ORC-6HMOUELYXC",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
-   },
-   {
-    "id": "ORC-X4CRJIT4P4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-G442MKBK5P",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-09.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1007/s11106-008-9039-x"
+   "doi:10.1007/s11106-008-9039-x",
+   "doi:10.1007/s11669-017-0522-2",
+   "doi:10.1007/bf02647618"
   ],
   "dois": [
-   "10.1007/s11106-008-9039-x"
+   "10.1007/bf02647618",
+   "10.1007/s11106-008-9039-x",
+   "10.1007/s11669-017-0522-2"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-02.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-02.json",
+  "e3_merged": 3,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -225,11 +203,6 @@
    },
    {
     "id": "ORC-6HMOUELYXC",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-X4CRJIT4P4",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

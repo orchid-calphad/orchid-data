@@ -1,19 +1,20 @@
 # Sm2Ti3: enthalpy of formation
 
-> Enthalpy of formation of Sm2Ti3: 1 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Sm2Ti3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sm2Ti3.html · Markdown: https://data.orchid-project.org/compounds/Sm2Ti3.md
 
-1 accepted literature formation-enthalpy value(s) (unspecified 1); OQMD 65.771 kJ/mol-atom (oqmd-428705).
+2 accepted literature formation-enthalpy value(s) (DFT 1, unspecified 1); OQMD 65.771 kJ/mol-atom (oqmd-428705).
 
 Systems: [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Sm2Ti3 reported in the literature (1)
+Table: Enthalpy of formation of Sm2Ti3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| 87.242 kJ/mol-atom | hP5 Sm₂Ti₃ | 0 | DFT | DFT | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 1, p. 5, row 41 |  |
 | 12.6685 kJ/mol-atom | Sm₂Ti₃ | 0 | unspecified |  | [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.html) | [1] Saengdeejing 2021 | Table 2, p. 13, row 4 |  |
 
 ## DFT formation energies
@@ -22,9 +23,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Sm2Ti3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-428705 | 65.771 | 0.681673 | R-3c | 65.771 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-428705 | 65.771 | 0.681673 | R-3c | 65.771 | 0.6817 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -14,13 +14,13 @@ Table: Enthalpy of formation of ZnP2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.4667 kJ/mol-atom ± 7.5 | ZnP2 | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
-| -126.85 kJ/mol (basis unstated) | ZnP2 | 298 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
-| -126.85 kJ/mol (basis unstated) | ZnP2 | 298 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
-| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7 |  |
-| -42.2833 kJ/mol-atom | ZnP2 | 298 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
-| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298 | unspecified |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| -42.4667 kJ/mol-atom ± 7.5 | ZnP2 | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
+| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
+| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
+| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
+| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7 |  |
+| -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
+| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 
 ## DFT formation energies
 
@@ -28,10 +28,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of ZnP2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaaqib | -23.975 | -0.248482 | P4_32_12 | 0 | no |
-| OQMD | oqmd-31359 | -40.016 | -0.41474 | P41212 | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaaqib | -23.975 | -0.248482 | P4_32_12 | 0 | 0 | no |
+| OQMD | oqmd-31359 | -40.016 | -0.41474 | P41212 | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

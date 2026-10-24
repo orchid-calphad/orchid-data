@@ -118,7 +118,7 @@ Table: Enthalpies of formation, Mo–Zr system (3)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -13.48 kJ/mol-atom |  | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -9.3 kJ/mol-atom |  | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites Brewer 1980_ | Table 2, p. 7, row 1 |  |
-| Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -7.49 kJ/mol-atom | 298 | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
+| Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -7.49 kJ/mol-atom | 298.15 | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
 
 ## Other properties
 

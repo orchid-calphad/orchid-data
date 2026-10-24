@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cu3Sn reported in the literature (6)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.368 kJ/mol-atom | ε (Cu3Sn) | 293 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Biltz 1924_ [doi](https://doi.org/10.1002/zaac.19241340104) | Table 3, p. 8, row 5 |  |
-| -8.2 kJ/mol-atom | ε (Cu3Sn) | 298 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9 |  |
+| -8.2 kJ/mol-atom | ε (Cu3Sn) | 298.15 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Flandorfer 2007_ [doi](https://doi.org/10.1016/j.tca.2007.04.004) | Table 3, p. 8, row 9 |  |
 | -7.824 kJ/mol-atom | ε (Cu3Sn) | 273 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Cohen 1954_ | Table 3, p. 8, row 6 |  |
 | -7.777 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a003) | Table 3, p. 8, row 7 |  |
 | -7.531 kJ/mol-atom | ε (Cu3Sn) | 723 | experimental |  | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | [1] Li 2013; _cites Hultgren 1973_ | Table 3, p. 8, row 8 |  |
@@ -27,10 +27,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cu3Sn
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaatli | 0.024 | 2.460e-4 | P6_3/mmc | 1.148 | no |
-| OQMD | oqmd-2046398 | -2.629 | -0.027253 | Cmcm | 0.876 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaatli | 0.024 | 2.460e-4 | P6_3/mmc | 1.148 | 0.0119 | no |
+| OQMD | oqmd-2046398 | -2.629 | -0.027253 | Cmcm | 0.876 | 0.0091 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

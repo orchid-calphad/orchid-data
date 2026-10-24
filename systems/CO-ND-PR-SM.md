@@ -28,7 +28,7 @@ Table: Enthalpies of formation, Co–Nd–Pr–Sm system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -10 kJ/mol (basis unstated) | 298 | model |  |  | [1] Jin 2009; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900540-9) | p. 5 | “Meanwhile, the enthalpies of formation of CoRE3 (RE = Sm, Nd, Pr) at 298 K was calculated to be -10,000 J mol-1 in the Co-RE (RE = Sm, Nd, Pr) binary systems by Refs. \[31-33\].” |
+| — |  | -10 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Jin 2009; _cites Su 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900540-9) | p. 5 | “Meanwhile, the enthalpies of formation of CoRE3 (RE = Sm, Nd, Pr) at 298 K was calculated to be -10,000 J mol-1 in the Co-RE (RE = Sm, Nd, Pr) binary systems by Refs. \[31-33\].” |
 
 ## Sources
 

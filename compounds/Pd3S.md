@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Pd3S reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.317 per mol-atom | Pd3S | 298 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
-| -24.125 per mol-atom ± 2.625 | Pd3S | 298 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
+| -27.317 per mol-atom | Pd3S | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
+| -24.125 per mol-atom ± 2.625 | Pd3S | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
 | -25.4 per mol-atom | Pd3S | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
 
 ## Sources

@@ -1,10 +1,10 @@
 # Ge–P system
 
-> Ge–P system: 32 accepted literature values (crystal structure 15, formation 13, heat capacity / entropy / enthalpy 2, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–P system: 35 accepted literature values (crystal structure 15, formation 13, heat capacity / entropy / enthalpy 5, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-P.html · Markdown: https://data.orchid-project.org/systems/GE-P.md
 
-32 accepted literature values from 2 paper(s) (experimental 10, model 5, DFT 17); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+35 accepted literature values from 2 paper(s) (experimental 11, model 7, DFT 17); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-P.json) · [CSV](https://data.orchid-project.org/systems/GE-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-P/GeP-21Don.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-P.html) · [Markdown](https://data.orchid-project.org/systems/GE-P.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 5 |
+| experimental | 11 |
+| model | 7 |
 | DFT | 17 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | formation | 13 |
-| heat capacity / entropy / enthalpy | 2 |
+| heat capacity / entropy / enthalpy | 5 |
 | crystal structure | 15 |
 
 ## Calculated phase diagrams
@@ -73,11 +73,11 @@ Table: Enthalpies of formation, Ge–P system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -13.82 kJ/mol-atom | 298 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021 | Table II, p. 6, row 6 |  |
-| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -13.6 kJ/mol-atom | 298 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
-| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -12.56 kJ/mol-atom | 298 | experimental | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | Table II, p. 6, row 1 |  |
-| Ge1P1 |  | -12.19 per mol-atom ± 1.5 | 298 | experimental |  |  | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
-| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -10.5 kJ/mol-atom | 298 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
+| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -13.82 kJ/mol-atom | 298.15 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021 | Table II, p. 6, row 6 |  |
+| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -13.6 kJ/mol-atom | 298.15 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
+| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -12.56 kJ/mol-atom | 298.15 | experimental | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Zumbusch 1939_ [doi](https://doi.org/10.1002/zaac.19392420304) | Table II, p. 6, row 1 |  |
+| Ge1P1 |  | -12.19 per mol-atom ± 1.5 | 298.15 | experimental |  |  | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
+| Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -10.5 kJ/mol-atom | 298.15 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
 | GeP |  | -11.4818 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
 | GeP |  | -11.48 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
 | GeP |  | -3.86 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
@@ -89,14 +89,17 @@ Table: Enthalpies of formation, Ge–P system (13)
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (2)
+### Heat capacity / entropy / enthalpy (5)
 
 Table: Heat capacity / entropy / enthalpy, Ge–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0_298_ | 27.64 per mol-atom ± 3.32 | 298 | Ge1P1; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
-| Entropy; _printed: S298 0_ | 31.5 J/mol-atom/K | 298 | Ge1P1; _alloy: P 0.5_ | model | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
+| Entropy; _printed: S298 0_ | 30.54 J/mol-atom/K | 298.15 | Ge1P1; _alloy: P 0.5_ | model | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
+| Entropy; _printed: S298 0_ | 26.42 J/mol-atom/K | 298.15 | Ge1P1; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Ugai 1979_ | Table II, p. 6, row 4 |  |
+| Entropy; _printed: S298 0_ | 25.57 J/mol-atom/K | 298.15 | Ge1P1; _alloy: P 0.5_ | model | [1] Dong 2021 | Table II, p. 6, row 6 |  |
+| Entropy; _printed: S0_298_ | 27.64 per mol-atom ± 3.32 | 298.15 | Ge1P1; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
+| Entropy; _printed: S298 0_ | 31.5 J/mol-atom/K | 298.15 | Ge1P1; _alloy: P 0.5_ | model | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
 
 ### Crystal structure (15)
 

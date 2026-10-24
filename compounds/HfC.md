@@ -14,11 +14,11 @@ Table: Enthalpy of formation of HfC reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -262.7 kJ/mol (basis unstated) | HfC | 298 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Coffman 1963_ | Table 3, p. 3, row 1 |  |
-| -231.1 kJ/mol (basis unstated) ± 2.1 | HfC1.00 | 298 | experimental | Combustion calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
-| -210.5 kJ/mol (basis unstated) ± 20.9 | HfC | 298 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5 |  |
-| -209.4 kJ/mol (basis unstated) | HfC1.0 | 298 | experimental | Combustion calorimetry of Hf oxycarbides | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
-| -209.4 kJ/mol (basis unstated) | HfC | 298 | model |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997 | Table 3, p. 3, row 9 |  |
+| -262.7 kJ/mol (basis unstated) | HfC | 298.15 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Coffman 1963_ | Table 3, p. 3, row 1 |  |
+| -231.1 kJ/mol (basis unstated) ± 2.1 | HfC1.00 | 298.15 | experimental | Combustion calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| -210.5 kJ/mol (basis unstated) ± 20.9 | HfC | 298.15 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5 |  |
+| -209.4 kJ/mol (basis unstated) | HfC1.0 | 298.15 | experimental | Combustion calorimetry of Hf oxycarbides | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| -209.4 kJ/mol (basis unstated) | HfC | 298.15 | model |  | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997 | Table 3, p. 3, row 9 |  |
 
 ## Sources
 

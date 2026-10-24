@@ -24,7 +24,7 @@ Table: Phases of the Al–Pr system (13)
 | [DHCP](#phase-al-pr-dhcp-a3); _phase:al-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1133 K, x(Pr) 0.97157–1 | 3 | 2 |
 | [FCC_A1](#phase-al-pr-fcc-a1); _phase:al-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–937.69 K, x(Pr) 0–0.00011 | 3 | 2 |
 | [HCP_A3](#phase-al-pr-hcp-a3); _phase:al-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-al-pr-liquid); _phase:al-pr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 912.03–2500 K, x(Pr) 0–1 | 27 | 2 |
+| [LIQUID](#phase-al-pr-liquid); _phase:al-pr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 912.03–2500 K, x(Pr) 0–1 | 21 | 2 |
 
 ## AL11PR3 (Al–Pr)
 
@@ -459,7 +459,7 @@ _assessment that models this phase_
 - Id: `phase:al-pr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 912.03–2500 K, x(Pr) 0–1
-- Literature: 27 values (27 accepted) from 1 papers
+- Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pr:liquid)
 
 Names (4): _corpus: _corpus:phase:al-pr:liquid  

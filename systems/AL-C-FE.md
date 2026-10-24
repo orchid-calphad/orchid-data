@@ -1,10 +1,10 @@
 # Al–C–Fe system
 
-> Al–C–Fe system: 33 accepted literature values (invariant reaction 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–C–Fe system: 38 accepted literature values (invariant reaction 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-C-FE.html · Markdown: https://data.orchid-project.org/systems/AL-C-FE.md
 
-33 accepted literature values from 1 paper(s) (model 6, unspecified 27); 0 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (model 7, unspecified 31); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-C-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C-FE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-C-FE.html) · [Markdown](https://data.orchid-project.org/systems/AL-C-FE.md)
 
@@ -12,35 +12,39 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 6 |
-| unspecified | 27 |
+| model | 7 |
+| unspecified | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 33 |
+| invariant reaction | 38 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–C–Fe system (33)
+Table: Invariant reactions reported in the literature for the Al–C–Fe system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2446.15 | peritectic: L + gr -> Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 1 |  |
+| 1591.15 | quasi-peritectic: L + α -> γ + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 5 |  |
 | 1591.15 | quasi-peritectic: L + α \<-> γ + κ | L: Al 0.193, C 0.077; α: Al 0.221, C 0.01; γ: Al 0.204, C 0.046; α phase: Al 0.221, C 0.01; γ phase: Al 0.204, C 0.046; Liquid phase: Al 0.193, C 0.077 | model | [1] Kumar 1991 | Table 6, p. 5, row 4 |  |
 | 1588.15 | quasi-peritectic: L + α \<-> γ + κ | L: Al 0.202, C 0.079; α: Al 0.27, C 0.007; γ: Al 0.245, C 0.04; α phase: Al 0.27, C 0.007; γ phase: Al 0.245, C 0.04; Liquid phase: Al 0.202, C 0.079 | unspecified | [1] Kumar 1991; _cites ref. 90Pal_ | Table 6, p. 5, row 3 |  |
 | 1586.15 | quasi-peritectic: L + α \<-> γ + κ | L: Al 0.213, C 0.09; Liquid phase: Al 0.213, C 0.09 | unspecified | [1] Kumar 1991; _cites Schuermann 1986_ | Table 6, p. 5, row 1 |  |
 | 1578.15 | quasi-peritectic: L + κ \<-> α + gr | L: Al 0.303, C 0.068; Liquid phase: Al 0.303, C 0.068 | unspecified | [1] Kumar 1991; _cites Schuermann 1986_ | Table 6, p. 5, row 5 |  |
 | 1570.15 | quasi-peritectic: L + α \<-> γ + κ | L: Al 0.203, C 0.097; α: Al 0.34, C 0.003; γ: Al 0.203, C 0.054; α phase: Al 0.34, C 0.003; γ phase: Al 0.203, C 0.054; Liquid phase: Al 0.203, C 0.097 | unspecified | [1] Kumar 1991; _cites Raghavan 1987_ | Table 6, p. 5, row 2 |  |
+| 1570.15 | quasi-peritectic: L + κ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 6 |  |
 | 1570.15 | quasi-peritectic: L + κ \<-> α + gr | L: Al 0.333, C 0.06; α: Al 0.348, C 0.009; α phase: Al 0.348, C 0.009; Liquid phase: Al 0.333, C 0.06 | model | [1] Kumar 1991 | Table 6, p. 5, row 8 |  |
 | 1568.15 | quasi-peritectic: L + κ \<-> α + gr | L: Al 0.342, C 0.054; α: Al 0.337, C 0.007; α phase: Al 0.337, C 0.007; Liquid phase: Al 0.342, C 0.054 | unspecified | [1] Kumar 1991; _cites ref. 90Pal_ | Table 6, p. 5, row 7 |  |
 | 1567.15 | eutectic: L -> α + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 7 |  |
 | 1563.15 | eutectic: L \<-> α + gr + Al4C3 | L: Al 0.396, C 0.048; α: Al 0.398, C 0.007; α phase: Al 0.398, C 0.007; Liquid phase: Al 0.396, C 0.048 | model | [1] Kumar 1991 | Table 6, p. 5, row 17 |  |
 | 1563.15 | eutectic: L -> α + gr + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 8 |  |
+| 1563 | eutectic: liquid -> bcc (a) + A14C3 + graphite |  | model | [1] Kumar 1991 | p. 7 | “In addition to the above invariant reactions, the computed results predict a ternary eutectic reaction, Eb at 1563 K (1290 "C) with the liquid composition at 39.6 at.% AI and 4.8 at.% C, which yields bcc (a) of 39.8 at.% Al and 0.66 at.% C, A14C3 and graphite.” |
 | 1558.15 | quasi-peritectic: L + κ \<-> α + gr | L: Al 0.386, C 0.03; α: Al 0.368, C 0.003; α phase: Al 0.368, C 0.003; Liquid phase: Al 0.386, C 0.03 | unspecified | [1] Kumar 1991; _cites Raghavan 1987_ | Table 6, p. 5, row 6 |  |
 | 1557.15 | quasi-peritectic: L + κ \<-> γ + gr | L: Al 0.17, C 0.114; Liquid phase: Al 0.17, C 0.114 | unspecified | [1] Kumar 1991; _cites Schuermann 1986_ | Table 6, p. 5, row 9 |  |
 | 1555.15 | quasi-peritectic: L + κ \<-> γ + gr | L: Al 0.134, C 0.124; γ: Al 0.165, C 0.045; γ phase: Al 0.165, C 0.045; Liquid phase: Al 0.134, C 0.124 | unspecified | [1] Kumar 1991; _cites ref. 90Pal_ | Table 6, p. 5, row 11 |  |
+| 1555.15 | quasi-peritectic: L + κ -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 9 |  |
 | 1555.15 | quasi-peritectic: L + κ \<-> γ + gr | L: Al 0.123, C 0.116; γ: Al 0.148, C 0.074; γ phase: Al 0.148, C 0.074; Liquid phase: Al 0.123, C 0.116 | model | [1] Kumar 1991 | Table 6, p. 5, row 12 |  |
 | 1553.15 | quasi-peritectic: L + κ \<-> γ + gr | L: Al 0.154, C 0.116; γ: Al 0.173, C 0.092; γ phase: Al 0.173, C 0.092; Liquid phase: Al 0.154, C 0.116 | unspecified | [1] Kumar 1991; _cites Raghavan 1987_ | Table 6, p. 5, row 10 |  |
 | 1483.15 | quasi-peritectic: L + α -> ε + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 11 |  |
@@ -56,6 +60,7 @@ Table: Invariant reactions reported in the literature for the Al–C–Fe system
 | 1263.15 | quasi-peritectic: α + gr -> Al4C3 + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 21 |  |
 | 1098.15 | quasi-peritectic: κ + γ \<-> α + gr | γ: Al 0.085, C 0.048; α: Al 0.085, C 0.007; α phase: Al 0.085, C 0.007; γ phase: Al 0.085, C 0.048 | unspecified | [1] Kumar 1991; _cites ref. 90Pal_ | Table 6, p. 5, row 15 |  |
 | 1094.15 | quasi-peritectic: κ + γ \<-> α + gr | γ: Al 0.104, C 0.048; α: Al 0.115, C 0.001; α phase: Al 0.115, C 0.001; γ phase: Al 0.104, C 0.048 | model | [1] Kumar 1991 | Table 6, p. 5, row 16 |  |
+| 1094.15 | quasi-peritectic: κ + γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 22 |  |
 | 1003.15 | quasi-peritectic: κ + γ \<-> α + gr | γ: Al 0.096, C 0.047; α: Al 0.108, C 0; α phase: Al 0.108, C 0; γ phase: Al 0.096, C 0.047 | unspecified | [1] Kumar 1991; _cites Raghavan 1987_ | Table 6, p. 5, row 14 |  |
 | 933.15 | eutectic: L -> (Al) + Al4C3 |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 24 |  |
 | 925.15 | eutectic: L -> FeAl3 + (Al) |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 25 |  |

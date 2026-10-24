@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfC0.93 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -197.5 kJ/mol (basis unstated) ± 3.8 | HfC0.93 | 298 | experimental | Self-propagating high-temperature synthesis | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 3, row 7 |  |
+| -197.5 kJ/mol (basis unstated) ± 3.8 | HfC0.93 | 298.15 | experimental | Self-propagating high-temperature synthesis | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

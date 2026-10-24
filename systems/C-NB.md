@@ -94,22 +94,22 @@ Table: Heat capacity / entropy / enthalpy, C–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S298_ | 21.36 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
-| Entropy; _printed: °S298_ | 21.65 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
-| Entropy; _printed: °S298_ | 20.44 J/mol (basis unstated)/K | 298 | NbC0.702; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
-| Entropy; _printed: °S298_ | 18.75 J/mol (basis unstated)/K | 298 | NbC0.702; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
-| Entropy; _printed: °S298_ | 19.83 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
-| Entropy; _printed: °S298_ | 18.04 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
-| Entropy; _printed: °S298_ | 17.52 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
-| Entropy; _printed: °S298_ | 17.45 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
-| Heat capacity; _printed: °Cp,298_ | 21.17 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
-| Heat capacity; _printed: °Cp,298_ | 20.93 J/mol (basis unstated)/K | 298 | Nb2C; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
-| Heat capacity; _printed: °Cp,298_ | 19.87 J/mol (basis unstated)/K | 298 | NbC0.702; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
-| Heat capacity; _printed: °Cp,298_ | 19.59 J/mol (basis unstated)/K | 298 | NbC0.702; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
-| Heat capacity; _printed: °Cp,298_ | 19.34 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
-| Heat capacity; _printed: °Cp,298_ | 19.28 J/mol (basis unstated)/K | 298 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
-| Heat capacity; _printed: °Cp,298_ | 18.57 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
-| Heat capacity; _printed: °Cp,298_ | 18.77 J/mol (basis unstated)/K | 298 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
+| Entropy; _printed: °S298_ | 21.36 J/mol (basis unstated)/K | 298.15 | Nb2C; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
+| Entropy; _printed: °S298_ | 21.65 J/mol (basis unstated)/K | 298.15 | Nb2C; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
+| Entropy; _printed: °S298_ | 20.44 J/mol (basis unstated)/K | 298.15 | NbC0.702; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
+| Entropy; _printed: °S298_ | 18.75 J/mol (basis unstated)/K | 298.15 | NbC0.702; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
+| Entropy; _printed: °S298_ | 19.83 J/mol (basis unstated)/K | 298.15 | NbC0.825; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
+| Entropy; _printed: °S298_ | 18.04 J/mol (basis unstated)/K | 298.15 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
+| Entropy; _printed: °S298_ | 17.52 J/mol (basis unstated)/K | 298.15 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
+| Entropy; _printed: °S298_ | 17.45 J/mol (basis unstated)/K | 298.15 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
+| Heat capacity; _printed: °Cp,298_ | 21.17 J/mol (basis unstated)/K | 298.15 | Nb2C; _alloy: Nb 0.666667_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 7 |  |
+| Heat capacity; _printed: °Cp,298_ | 20.93 J/mol (basis unstated)/K | 298.15 | Nb2C; _alloy: Nb 0.666667_ | model | [1] Huang 1990 | Table 3, p. 8, row 8 |  |
+| Heat capacity; _printed: °Cp,298_ | 19.87 J/mol (basis unstated)/K | 298.15 | NbC0.702; _alloy: Nb 0.587544_ | model | [1] Huang 1990 | Table 3, p. 8, row 6 |  |
+| Heat capacity; _printed: °Cp,298_ | 19.59 J/mol (basis unstated)/K | 298.15 | NbC0.702; _alloy: Nb 0.587544_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 5 |  |
+| Heat capacity; _printed: °Cp,298_ | 19.34 J/mol (basis unstated)/K | 298.15 | NbC0.825; _alloy: Nb 0.547945_ | model | [1] Huang 1990 | Table 3, p. 8, row 4 |  |
+| Heat capacity; _printed: °Cp,298_ | 19.28 J/mol (basis unstated)/K | 298.15 | NbC0.825; _alloy: Nb 0.547945_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 3 |  |
+| Heat capacity; _printed: °Cp,298_ | 18.57 J/mol (basis unstated)/K | 298.15 | NbC0.98; _alloy: Nb 0.505051_ | experimental | [1] Huang 1990; _cites SANDENAW 1965_ | Table 3, p. 8, row 1 |  |
+| Heat capacity; _printed: °Cp,298_ | 18.77 J/mol (basis unstated)/K | 298.15 | NbC0.98; _alloy: Nb 0.505051_ | model | [1] Huang 1990 | Table 3, p. 8, row 2 |  |
 
 ### Crystal structure (10)
 

@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Fe3Mo2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 4.037 kJ/mol-atom | Fe3Mo2 (R) | 298 | model | Calphad | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 8 |  |
-| 2.297 kJ/mol-atom | Fe3Mo2 (R) | 298 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
-| 3.773 kJ/mol-atom | Fe3Mo2 (R) | 298 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
+| 4.037 kJ/mol-atom | Fe3Mo2 (R) | 298.15 | model | Calphad | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 8 |  |
+| 2.297 kJ/mol-atom | Fe3Mo2 (R) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
+| 3.773 kJ/mol-atom | Fe3Mo2 (R) | 298.15 | DFT | ab initio | [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.html) | [1] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
 
 ## Sources
 

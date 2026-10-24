@@ -32,27 +32,27 @@ Table: Enthalpies of formation, Au–Er–La system (24)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Au2Er |  | -88.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
 | Au2Er |  | -86 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
-| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -85.9 kJ/mol-atom ± 1.9 | 298 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
-| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -79 kJ/mol-atom | 298 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
+| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -85.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
+| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -79 kJ/mol-atom | 298.15 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
 | Au2La |  | -81.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
 | Au3Er |  | -73 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
 | Au3Er |  | -71.1 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
-| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -66.1 kJ/mol-atom ± 1.9 | 298 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
-| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -65.9 kJ/mol-atom | 298 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
+| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -66.1 kJ/mol-atom ± 1.9 | 298.15 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
+| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -65.9 kJ/mol-atom | 298.15 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
 | Au4Er |  | -60.3 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
 | Au4Er |  | -59.2 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
-| Au51La14 | [Au51La14](https://data.orchid-project.org/compounds/Au51La14.html) | -57.9 kJ/mol-atom ± 1.9 | 298 | experimental | -64.007 (mp-aaacrqeg) |  | [1] Dong 2011 | Table 1, p. 3, row 9 |  |
+| Au51La14 | [Au51La14](https://data.orchid-project.org/compounds/Au51La14.html) | -57.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -64.007 (mp-aaacrqeg) |  | [1] Dong 2011 | Table 1, p. 3, row 9 |  |
 | AuEr2 |  | -67 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
 | AuEr2 |  | -52.2 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 13 |  |
 | AuLa2 |  | -56.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
 | AuLa6 |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 11 |  |
 | αAuEr |  | -90.9 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
-| αAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -90.2 kJ/mol-atom ± 1.9 | 298 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 17 |  |
+| αAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -90.2 kJ/mol-atom ± 1.9 | 298.15 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 17 |  |
 | αAuEr |  | -77 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 16 |  |
 | αAuLa |  | -82 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
 | βAuEr |  | -88.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
 | βAuEr |  | -87.7 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 20 |  |
-| βAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -85.1 kJ/mol-atom | 298 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 21 |  |
+| βAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -85.1 kJ/mol-atom | 298.15 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 21 |  |
 | βAuLa |  | -82.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
 
 ## Other properties

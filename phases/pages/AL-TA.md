@@ -14,7 +14,7 @@ Table: Phases of the Al–Ta system (14)
 |---|---|---|---|---:|---:|
 | [AL2TA](#phase-al-ta-al2ta); _phase:al-ta:al2ta_ |  | unresolved_no_candidates | stable in 1 of 1 calculated diagram(s): 300–1867.6 K, x(Ta) 0.35–0.35 | 0 | 1 |
 | [AL38TA48](#phase-al-ta-al38ta48); _phase:al-ta:al38ta48_ | Al38Ta48 · mP86 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1900 K, x(Ta) 0.5215–0.57235 | 10 | 1 |
-| [AL3TA_D022](#phase-al-ta-al3ta-d022); _phase:al-ta:al3ta-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1901.76 K, x(Ta) 0.24005–0.25 | 17 | 4 |
+| [AL3TA_D022](#phase-al-ta-al3ta-d022); _phase:al-ta:al3ta-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1901.76 K, x(Ta) 0.24005–0.25 | 16 | 4 |
 | [AL3TA2](#phase-al-ta-al3ta2); _phase:al-ta:al3ta2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1498.65 K, x(Ta) 0.4–0.4 | 5 | 1 |
 | [AL3TA2_H](#phase-al-ta-al3ta2-h); _phase:al-ta:al3ta2-h_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1498.13–1835.3 K, x(Ta) 0.4–0.4 | 0 | 1 |
 | [AL3TA2_L](#phase-al-ta-al3ta2-l); _phase:al-ta:al3ta2-l_ |  | unresolved_no_candidates | stable in 1 of 1 calculated diagram(s): 300–1498.13 K, x(Ta) 0.4–0.4 | 0 | 1 |
@@ -83,7 +83,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:al-ta:al3ta-d022`; status `assigned`
 - Structure: Al3Ti · D0_22 · tI8 · I4/mmm (139); type `st:d0-22-al3ti-ti8`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1901.76 K, x(Ta) 0.24005–0.25
-- Literature: 17 values (17 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:al3ta-d022)
 
 Names (8): _corpus: _corpus:phase:al-ta:al3ta-d022  

@@ -67,10 +67,10 @@ Table: Activity / EMF / Gibbs energy, H–Zr system
 | Activity; _printed: aδ-ZrH2-x_ | 0.18 1 | 500 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 3 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.18 1 | 500 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 3 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 550 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 4 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.21 1 | 550 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
+| Activity; _printed: aδ-ZrH2-x_ | 0.21 1 | 550 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.21 1 | 550 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 4 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 600 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 5 |  |
-| Activity; _printed: aδ-ZrH2−x_ | 0.24 1 | 600 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
+| Activity; _printed: aδ-ZrH2-x_ | 0.24 1 | 600 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Activity; _printed: a\_ε-ZrH2_ | 0.24 1 | 600 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 5 |  |
 | Activity; _printed: aγ-ZrH_ | 1 1 | 650 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
 | Activity; _printed: aδ-ZrH2-x_ | 0.27 1 | 650 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
@@ -102,10 +102,10 @@ Table: Activity / EMF / Gibbs energy, H–Zr system
 | Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -112678 unknown | 550 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 4 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -133049 unknown | 550 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 4 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -81758.7 unknown | 600 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 5 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -114873 unknown | 600 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
+| Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -114873 unknown | 600 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 5 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -133218 unknown | 600 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 5 |  |
 | Gibbs energy; _printed: G0(ZrH)_ | -84995.6 unknown | 650 | γ-ZrH; _alloy: Zr 0.5_ | model | [2] Zhong 2012 | Table 6, p. 3, row 6 |  |
-| Gibbs energy; _printed: G0(δ-ZrH2−x)_ | -117152 unknown | 650 | δ-ZrH2−x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
+| Gibbs energy; _printed: G0(δ-ZrH2-x)_ | -117152 unknown | 650 | δ-ZrH2-x | model | [2] Zhong 2012 | Table 5, p. 3, row 6 |  |
 | Gibbs energy; _printed: G0(ε-ZrH2)_ | -132953 unknown | 650 | ε-ZrH2; _alloy: Zr 0.333333_ | model | [2] Zhong 2012 | Table 4, p. 3, row 6 |  |
 
 ## Sources

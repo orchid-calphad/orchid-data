@@ -175,8 +175,8 @@ Table: Formation, La–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: entropy of formation_ | -2.834 J K-1 mol atom-1 | 298 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of a two-phases alloy for xZn = 0.889 is calculated at -2.834 J K-1 mol atom-1 at 298 K which is also very similar to the -2.78 J K-1 mol atom-1 measured by Morishita \[17\].” |
-| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
+| Entropy of formation; _printed: entropy of formation_ | -2.834 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of a two-phases alloy for xZn = 0.889 is calculated at -2.834 J K-1 mol atom-1 at 298 K which is also very similar to the -2.78 J K-1 mol atom-1 measured by Morishita \[17\].” |
+| Entropy of formation; _printed: entropy of formation_ | -1.66 J K-1 mol atom-1 | 298.15 |  | model | [1] Berche 2012 | p. 5 | “The entropy of formation of LaZn13 is calculated at -1.66 J K-1 mol atom-1 at 298 K in agreement with the value of Morishita \[16\] depending to experimental uncertainties.” |
 
 ## Sources
 

@@ -70,24 +70,24 @@ Table: Enthalpies of formation, C–Ti system (27)
 | TiC | [TiC](https://data.orchid-project.org/compounds/TiC.html) | -90 kJ/mol-atom | 298.15 | model | -78.062 (mp-aaaaaayh) | -77.586 (oqmd-1949) | [3] Frisk 2003 | Table 1, p. 2, row 6 |  |
 | TiC | [TiC](https://data.orchid-project.org/compounds/TiC.html) | -78 kJ/mol-atom | 298.15 | model | -78.062 (mp-aaaaaayh) | -77.586 (oqmd-1949) | [3] Frisk 2003; _cites Seifert 1996_ [doi](https://doi.org/10.1007/bf02648366) | Table 1, p. 2, row 3 |  |
 | TiC | [TiC](https://data.orchid-project.org/compounds/TiC.html) | -74 kJ/mol-atom | 298.15 | model | -78.062 (mp-aaaaaayh) | -77.586 (oqmd-1949) | [3] Frisk 2003; _cites Dumitrescu 1999_ | Table 1, p. 2, row 4 |  |
-| TiCx |  | 54 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 2 |  |
-| TiCx |  | 62.5 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Lihrmann 1991_ | Table 2, p. 3, row 6 |  |
-| TiCx |  | 65.2 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 19 |  |
-| TiCx |  | 66 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003 | Table 2, p. 3, row 1 |  |
-| TiCx |  | 67.5 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 3 |  |
-| TiCx |  | 74.3 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 18 |  |
-| TiCx |  | 77 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites F 1988_ | Table 2, p. 3, row 13 |  |
-| TiCx |  | 78.5 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 4 |  |
-| TiCx |  | 79.8 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 17 |  |
-| TiCx |  | 84.4 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 16 |  |
-| TiCx |  | 86.3 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 15 |  |
-| TiCx |  | 86.6 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Kornilov 1981_ | Table 2, p. 3, row 11 |  |
-| TiCx |  | 88 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Lowell 1961_ [doi](https://doi.org/10.1063/1.1717178) | Table 2, p. 3, row 8 |  |
-| TiCx |  | 91.5 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Morozova 1962_ | Table 2, p. 3, row 9 |  |
-| TiCx |  | 92 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 5 |  |
-| TiCx |  | 92 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Humphrey 1951_ [doi](https://doi.org/10.1021/ja01149a100) | Table 2, p. 3, row 7 |  |
-| TiCx |  | 96.4 kJ/mol-atom | 298 | model |  |  | [3] Frisk 2003; _cites Mulokozi 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990058-8) | Table 2, p. 3, row 12 |  |
-| TiCx |  | 103.5 kJ/mol-atom | 298 | experimental |  |  | [3] Frisk 2003; _cites Morozova 1962_ | Table 2, p. 3, row 10 |  |
+| TiCx |  | 54 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 2 |  |
+| TiCx |  | 62.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Lihrmann 1991_ | Table 2, p. 3, row 6 |  |
+| TiCx |  | 65.2 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 19 |  |
+| TiCx |  | 66 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003 | Table 2, p. 3, row 1 |  |
+| TiCx |  | 67.5 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 3 |  |
+| TiCx |  | 74.3 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 18 |  |
+| TiCx |  | 77 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites F 1988_ | Table 2, p. 3, row 13 |  |
+| TiCx |  | 78.5 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 4 |  |
+| TiCx |  | 79.8 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 17 |  |
+| TiCx |  | 84.4 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 16 |  |
+| TiCx |  | 86.3 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Hugosson 2001_ [doi](https://doi.org/10.1103/physrevb.63.165116) | Table 2, p. 3, row 15 |  |
+| TiCx |  | 86.6 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Kornilov 1981_ | Table 2, p. 3, row 11 |  |
+| TiCx |  | 88 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Lowell 1961_ [doi](https://doi.org/10.1063/1.1717178) | Table 2, p. 3, row 8 |  |
+| TiCx |  | 91.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Morozova 1962_ | Table 2, p. 3, row 9 |  |
+| TiCx |  | 92 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Zueva 1999_ | Table 2, p. 3, row 5 |  |
+| TiCx |  | 92 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Humphrey 1951_ [doi](https://doi.org/10.1021/ja01149a100) | Table 2, p. 3, row 7 |  |
+| TiCx |  | 96.4 kJ/mol-atom | 298.15 | model |  |  | [3] Frisk 2003; _cites Mulokozi 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990058-8) | Table 2, p. 3, row 12 |  |
+| TiCx |  | 103.5 kJ/mol-atom | 298.15 | experimental |  |  | [3] Frisk 2003; _cites Morozova 1962_ | Table 2, p. 3, row 10 |  |
 
 ## Other properties
 

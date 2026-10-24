@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AG2GD_C11B",
   "AG51GD14",
   "FCC_A1",
   "LIQUID"
@@ -13,42 +12,12 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1103.15,
    1248.15,
    1048.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "GD"
-    ],
-    [
-     0.35
-    ]
-   ],
-   [
-    "AG51GD14",
-    [
-     "GD"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG2GD_C11B",
-    [
-     "GD"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -106,18 +75,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GJADGE63LD ORC-QHUYKS3XYE ORC-IA7WBJZKMI",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-QHUYKS3XYE ORC-IA7WBJZKMI",
  "bibtex": "kiessler1972_7de51e",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-GJADGE63LD",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2008.09.129",
-    "measured_in": "doi:10.1016/0022-5088(72)90049-5"
-   },
    {
     "id": "ORC-QHUYKS3XYE",
     "reader_agreement": "multi_reader",
@@ -140,15 +103,11 @@
    "10.1016/j.jallcom.2008.09.129"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AgGd-09Wan/zpf-01.json",
-  "values_dropped": 3
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -170,11 +129,6 @@
   "all_values_certified": false,
   "n_certified": 0,
   "values": [
-   {
-    "id": "ORC-GJADGE63LD",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
    {
     "id": "ORC-QHUYKS3XYE",
     "espei_certified": false,

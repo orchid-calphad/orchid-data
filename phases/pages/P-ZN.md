@@ -19,7 +19,7 @@ Table: Phases of the P–Zn system (13)
 | [LIQUID](#phase-p-zn-liquid); _phase:p-zn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 682.98–2500 K, x(P) 0–0.87846 | 36 | 3 |
 | [RED_P](#phase-p-zn-p-red); _phase:p-zn:p-red_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–704.7 K, x(P) 1–1 | 0 | 3 |
 | [WHITE_P](#phase-p-zn-p-white); _phase:p-zn:p-white_ |  | needs_review | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [ZN3P2](#phase-p-zn-zn3p2); _phase:p-zn:zn3p2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1442.76 K, x(P) 0.4–0.4 | 14 | 2 |
+| [ZN3P2](#phase-p-zn-zn3p2); _phase:p-zn:zn3p2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1442.76 K, x(P) 0.4–0.4 | 21 | 2 |
 | [ZN3P2_HT](#phase-p-zn-zn3p2-ht); _phase:p-zn:zn3p2-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1123.02–1436.46 K, x(P) 0.4–0.4 | 15 | 1 |
 | [ZN3P2_LT](#phase-p-zn-zn3p2-lt); _phase:p-zn:zn3p2-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1123.02 K, x(P) 0.4–0.4 | 10 | 1 |
 | [ZNP2](#phase-p-zn-znp2); _phase:p-zn:znp2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1307.66 K, x(P) 0.66667–0.66667 | 10 | 2 |
@@ -357,7 +357,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): Mn2O3 · cI80 · Ia-3, D5_3 — ZnP-16Liu.tdb: 'Prototype Mn2O3 (cI80, Ia-3, D5_3), high T'
 - Stoichiometry: P 0.4000, Zn 0.6000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1442.76 K, x(P) 0.4–0.4
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-zn:zn3p2)
 
 Names (5): _corpus: _corpus:phase:p-zn:zn3p2  
@@ -381,7 +381,7 @@ _tdb: _tdb:ZnP-09Tu.tdb:ZN3P2, tdb:ZnP-16Liu.tdb:ZN3P2
 68: CONST ZN3P2 : ZN : P : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016) Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -390,6 +390,8 @@ _assessment that models this phase; cited as the source of values for this phase
 - [doi:10.1016/j.mtla.2019.100301](https://doi.org/10.1016/j.mtla.2019.100301) Masoomeh Ghasemi, E. Stutz, S. Escobar Steinvall, M. Zamani, A. Fontcuberta i Morral, Thermodynamic re-assessment of the Zn–P binary system, Materialia 6, 100301 (2019).  
 _reports values for this phase_
 - [doi:10.1007/bf02645963](https://doi.org/10.1007/bf02645963) J Dutkiewlcz, The P-Zn (Phosphorus-Zinc) system, JPE 12, 435-438 (1991).  
+_cited as the source of values for this phase_
+- [doi:10.1021/j100867a043](https://doi.org/10.1021/j100867a043) Richard C. Schoonmaker, A. R. Venkitaraman, Peng Kei Lee, The vaporization of zinc phosphide, J. Phys. Chem. 71, 2676-2683 (1967).  
 _cited as the source of values for this phase_
 
 ## ZN3P2_HT (P–Zn)

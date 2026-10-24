@@ -142,19 +142,28 @@
    {
     "id": "ORC-JPMRL3IY5S",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-H4EOR76WBZ",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-08.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1007/s11106-008-9039-x",
-   "doi:10.1007/s11669-017-0522-2"
+   "doi:10.1007/s11669-017-0522-2",
+   "doi:10.1007/bf02647618"
   ],
   "dois": [
+   "10.1007/bf02647618",
    "10.1007/s11106-008-9039-x",
    "10.1007/s11669-017-0522-2"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-07.json",
-  "e3_merged": 1,
+  "e3_merged": 2,
   "values_dropped": 5
  },
  "orchid_uncertainty": {

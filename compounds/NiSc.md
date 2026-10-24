@@ -16,15 +16,15 @@ Table: Enthalpy of formation of NiSc reported in the literature (11)
 |---:|---|---:|---|---|---|---|---|---|
 | -44.7 kJ/mol-atom ± 2.3 | ScNi | 1473 | experimental | DSC | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 15 |  |
 | -44.7 kJ/mol-atom ± 2.3 | NiSc | 1473 | experimental | High T Calorimetry | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 13 |  |
-| -57 kJ/mol-atom | ScNi | 298 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 14 |  |
+| -57 kJ/mol-atom | ScNi | 298.15 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 14 |  |
 | -57 kJ/mol-atom | NiSc | 298.15 | model | Prediction (Miedema model) | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 12 |  |
 | -56 kJ/mol-atom | NiSc | 298.15 | model | Prediction (Miedema model) | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013; _cites Miedema_ | Table 2, p. 3, row 11 |  |
 | -46.532 kJ/mol-atom | NiSc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 14 |  |
-| -46.525 kJ/mol-atom | ScNi | 298 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 16 |  |
+| -46.525 kJ/mol-atom | ScNi | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 16 |  |
 | -45.809 kJ/mol-atom | NiSc | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Kardellass 2013 | Table 2, p. 3, row 15 |  |
-| -45.802 kJ/mol-atom | ScNi | 298 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 17 |  |
+| -45.802 kJ/mol-atom | ScNi | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 17 |  |
 | -45.67 kJ/mol-atom | NiSc | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [3] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 15 |  |
-| -41.992 kJ/mol-atom | ScNi | 298 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015 | Table 2, p. 3, row 18 |  |
+| -41.992 kJ/mol-atom | ScNi | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Zhu 2015 | Table 2, p. 3, row 18 |  |
 
 ## DFT formation energies
 
@@ -32,10 +32,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of NiSc
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaarbd | -48.935 | -0.507177 | Pm-3m | 0 | no |
-| OQMD | oqmd-17795 | -49.771 | -0.51584 | Pm-3m | 0.027 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaarbd | -48.935 | -0.507177 | Pm-3m | 0 | 0 | no |
+| OQMD | oqmd-17795 | -49.771 | -0.51584 | Pm-3m | 0.027 | 3.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

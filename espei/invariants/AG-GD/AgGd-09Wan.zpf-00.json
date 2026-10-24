@@ -246,7 +246,15 @@
    {
     "id": "ORC-VUMSDCJP5W",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2008.09.129"
+    "paper": "doi:10.1016/j.jallcom.2008.09.129",
+    "also_reported_as": [
+     {
+      "id": "ORC-GJADGE63LD",
+      "paper": "doi:10.1016/j.jallcom.2008.09.129",
+      "measured_in": "doi:10.1016/0022-5088(72)90049-5",
+      "dataset": "invariants/AG-GD/AgGd-09Wan.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-VNDG7KNGQF",
@@ -270,7 +278,7 @@
    "10.1016/j.jallcom.2008.09.129"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AgGd-09Wan/zpf-00.json",
-  "e3_merged": 3
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

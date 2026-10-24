@@ -260,8 +260,8 @@ _assessment that models this phase_
 - Literature: 27 values (27 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-ni:liquid)
 
-Names (4): _corpus: _corpus:phase:eu-ni:liquid  
-_paper: _paper:10.1007/s10973-016-5380-3:L, paper:10.1007/s10973-016-5380-3:Liq1#  
+Names (3): _corpus: _corpus:phase:eu-ni:liquid  
+_paper: _paper:10.1007/s10973-016-5380-3:L  
 _tdb: _tdb:EuNi-16Kar.tdb:LIQUID  
 
 

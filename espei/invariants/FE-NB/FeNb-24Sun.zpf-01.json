@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "C14_LAVES",
-  "FCC_A1",
   "LIQUID",
   "MU_D85"
  ],
@@ -16,9 +15,7 @@
   "T": [
    1793.0,
    1773.0,
-   1643.0,
-   1463.0,
-   1223.0
+   1643.0
   ]
  },
  "output": "ZPF",
@@ -109,64 +106,6 @@
      0.32
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.063
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.01
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.32
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.004
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.32
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.007
-    ]
-   ]
   ]
  ],
  "reference": "Sun 2024, doi:10.1016/j.actamat.2024.119747",
@@ -176,7 +115,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BGPLPEQUFU ORC-5DV6GJB43D ORC-YSSQZGZUQX ORC-YJ4YFV6BTH ORC-6SUDM4FQRW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BGPLPEQUFU ORC-5DV6GJB43D ORC-YSSQZGZUQX",
  "bibtex": "sun2024_01fd5f",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -196,16 +135,6 @@
     "id": "ORC-YSSQZGZUQX",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.actamat.2024.119747"
-   },
-   {
-    "id": "ORC-YJ4YFV6BTH",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2024.119747"
-   },
-   {
-    "id": "ORC-6SUDM4FQRW",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.actamat.2024.119747"
    }
   ],
   "papers": [
@@ -216,19 +145,12 @@
    "10.1016/j.actamat.2024.119747",
    "10.1515/ijmr-1993-840305"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeNb-24Sun/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeNb-24Sun/zpf-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -261,16 +183,6 @@
    },
    {
     "id": "ORC-YSSQZGZUQX",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-YJ4YFV6BTH",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-6SUDM4FQRW",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

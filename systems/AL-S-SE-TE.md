@@ -31,26 +31,26 @@ Table: Enthalpies of formation, Al–S–Se–Te system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298.15 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
 | Al2Se3 |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
 | Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
-| Al2Te5 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | -59.1 kJ/mol-atom | 298 | model | -60.423 (mp-aaaaanry) | -31.742 (oqmd-1795930) | [1] Shi 2019 | Table 3, p. 3, row 20 |  |
-| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
-| AlTe | [AlTe](https://data.orchid-project.org/compounds/AlTe.html) | -87.6 kJ/mol-atom | 298 | model |  | -37.082 (oqmd-1374663) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
+| Al2Te5 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | -59.1 kJ/mol-atom | 298.15 | model | -60.423 (mp-aaaaanry) | -31.742 (oqmd-1795930) | [1] Shi 2019 | Table 3, p. 3, row 20 |  |
+| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298.15 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
+| AlTe | [AlTe](https://data.orchid-project.org/compounds/AlTe.html) | -87.6 kJ/mol-atom | 298.15 | model |  | -37.082 (oqmd-1374663) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
 | αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
 | αAl2S3 |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -85.9 kJ/mol-atom | 298 | model | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.8 kJ/mol-atom | 298 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.6 kJ/mol-atom | 298 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -52 kJ/mol-atom | 298 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
+| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -85.9 kJ/mol-atom | 298.15 | model | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
+| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.8 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
+| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.6 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
+| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -52 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
 | γAl2S3 |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
 | γAl2S3 |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
-| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
 
 ## Other properties
 

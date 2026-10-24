@@ -34,17 +34,17 @@ Table: Enthalpies of formation, O–Sr system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| SrO |  | -643 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
-| SrO |  | -604.3 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
-| SrO |  | -595 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
-| SrO |  | -592.15 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
-| SrO |  | -592.15 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
-| SrO |  | -592.04 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
-| SrO |  | -591.01 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
-| SrO2 |  | -636 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
-| SrO2 |  | -635 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1 |  |
-| SrO2 |  | -633 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
-| SrO2 |  | -631 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2 |  |
+| SrO |  | -643 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
+| SrO |  | -604.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
+| SrO |  | -595 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
+| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
+| SrO |  | -592.15 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
+| SrO |  | -592.04 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
+| SrO |  | -591.01 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
+| SrO2 |  | -636 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
+| SrO2 |  | -635 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1 |  |
+| SrO2 |  | -633 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
+| SrO2 |  | -631 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2 |  |
 
 ## Other properties
 
@@ -69,12 +69,12 @@ Table: Heat capacity / entropy / enthalpy, O–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S^298_ | 55.56 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites ref. 94_ | Table 2, p. 4, row 5 |  |
-| Entropy; _printed: S^298_ | 53.63 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Cordfunke_ [doi](https://doi.org/10.1016/0021-9614%2890%2990188-v) | Table 2, p. 4, row 3 |  |
-| Entropy; _printed: S^298_ | 54.4 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Anderson 1935_ [doi](https://doi.org/10.1021/ja01306a012) | Table 2, p. 4, row 1 |  |
-| Entropy; _printed: S^298_ | 53.58 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 2, p. 4, row 6 |  |
-| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites Chase 1985_ | Table 2, p. 4, row 4 |  |
-| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Gmelin 1969_ [doi](https://doi.org/10.1515/zna-1969-1120) | Table 2, p. 4, row 2 |  |
+| Entropy; _printed: S^298_ | 55.56 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites ref. 94_ | Table 2, p. 4, row 5 |  |
+| Entropy; _printed: S^298_ | 53.63 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Cordfunke_ [doi](https://doi.org/10.1016/0021-9614%2890%2990188-v) | Table 2, p. 4, row 3 |  |
+| Entropy; _printed: S^298_ | 54.4 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Anderson 1935_ [doi](https://doi.org/10.1021/ja01306a012) | Table 2, p. 4, row 1 |  |
+| Entropy; _printed: S^298_ | 53.58 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996 | Table 2, p. 4, row 6 |  |
+| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | unspecified | [1] Risold 1996; _cites Chase 1985_ | Table 2, p. 4, row 4 |  |
+| Entropy; _printed: S^298_ | 55.52 J/mol (basis unstated)/K | 298.15 | SrO; _alloy: Sr 0.5_ | experimental | [1] Risold 1996; _cites Gmelin 1969_ [doi](https://doi.org/10.1515/zna-1969-1120) | Table 2, p. 4, row 2 |  |
 
 ## Sources
 

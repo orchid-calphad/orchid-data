@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Au2Er reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
-| -79 kJ/mol-atom | Au2Er | 298 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
+| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
+| -79 kJ/mol-atom | Au2Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
 | -88.4 kJ/mol-atom | Au2Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
 | -86 kJ/mol-atom | Au2Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Au2Er
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadqw | -84.933 | -0.880268 | I4/mmm | 0 | no |
-| OQMD | oqmd-1979285 | -85.367 | -0.884775 | Cmcm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadqw | -84.933 | -0.880268 | I4/mmm | 0 | 0 | no |
+| OQMD | oqmd-1979285 | -85.367 | -0.884775 | Cmcm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

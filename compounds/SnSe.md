@@ -14,12 +14,12 @@ Table: Enthalpy of formation of SnSe reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.5 kJ/mol-atom ± 1 | SnSe | 298 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6 |  |
-| -47 kJ/mol-atom ± 1.5 | SnSe | 298 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9 |  |
-| -45.5 kJ/mol-atom ± 2 | SnSe | 298 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Hajiev 1960_ | Table 9, p. 8, row 1 |  |
-| -45 kJ/mol-atom ± 3.5 | SnSe | 298 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 64Col_ | Table 9, p. 8, row 2 |  |
-| -44.8 kJ/mol-atom ± 0.2 | SnSe | 298 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3 |  |
-| -54.7 kJ/mol-atom | SnSe | 298 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11 |  |
+| -47.5 kJ/mol-atom ± 1 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 71Mel_ | Table 9, p. 8, row 6 |  |
+| -47 kJ/mol-atom ± 1.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Boone 1992_ [doi](https://doi.org/10.1016/0040-6031%2892%2987043-a) | Table 9, p. 8, row 9 |  |
+| -45.5 kJ/mol-atom ± 2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites Hajiev 1960_ | Table 9, p. 8, row 1 |  |
+| -45 kJ/mol-atom ± 3.5 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 64Col_ | Table 9, p. 8, row 2 |  |
+| -44.8 kJ/mol-atom ± 0.2 | SnSe | 298.15 | experimental |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996; _cites ref. 67Kar_ | Table 9, p. 8, row 3 |  |
+| -54.7 kJ/mol-atom | SnSe | 298.15 | model |  | [Se–Sn](https://data.orchid-project.org/systems/SE-SN.html) | [1] Feutelais 1996 | Table 9, p. 8, row 11 |  |
 
 ## DFT formation energies
 
@@ -27,10 +27,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of SnSe
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabap | -64.505 | -0.66855 | Pnma | 0 | no |
-| OQMD | oqmd-3656 | -46.56 | -0.482558 | Pnma | 0.046 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabap | -64.505 | -0.66855 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-3656 | -46.56 | -0.482558 | Pnma | 0.046 | 5.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

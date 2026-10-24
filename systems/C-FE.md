@@ -1,10 +1,10 @@
 # C–Fe system
 
-> C–Fe system: 31 accepted literature values (invariant reaction 16, phase transition 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Fe system: 27 accepted literature values (phase transition 15, invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-FE.html · Markdown: https://data.orchid-project.org/systems/C-FE.md
 
-31 accepted literature values from 4 paper(s) (experimental 10, model 11, unspecified 10); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 4 paper(s) (experimental 10, model 11, unspecified 6); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-FE.json) · [CSV](https://data.orchid-project.org/systems/C-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-FE) · [phases (12)](https://data.orchid-project.org/phases/pages/C-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-FE.html) · [Markdown](https://data.orchid-project.org/systems/C-FE.md)
 
@@ -14,36 +14,32 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 10 |
 | model | 11 |
-| unspecified | 10 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 12 |
 | phase transition | 15 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-FE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-FE.json) · [CALPHAD hull FeC-10Hal](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-10Hal.json) · [CALPHAD hull FeC-14Nar-3g](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-14Nar-3g.json) · [CALPHAD hull FeC-16Goh](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-16Goh.json) · [CALPHAD hull FeC-19Che](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-19Che.json) · [CALPHAD hull FeC-19Mie](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-19Mie.json) · [CALPHAD hull FeC-20Sae](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-20Sae.json) · [CALPHAD hull FeC-23Jac](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-23Jac.json) · [CALPHAD hull FeC-85Gus-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-FE--FeC-85Gus-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Fe system (16)
+Table: Invariant reactions reported in the literature for the C–Fe system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1768.15 | peritectic: L + α -> γ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 2 |  |
 | 1630.15 | peritectic: L + gr -> κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 3 |  |
 | 1601.15 | eutectic: L -> α + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 4 |  |
-| 1591.15 | quasi-peritectic: L + α -> γ + κ |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 5 |  |
-| 1570.15 | quasi-peritectic: L + κ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 6 |  |
-| 1555.15 | quasi-peritectic: L + κ -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 9 |  |
 | 1488.15 | peritectic: L + α -> ε |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 10 |  |
 | 1427.15 | eutectic: L -> γ + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 17 |  |
 | 1421.52 | eutectic |  | model | [2] Hallstedt 2010; _cites Gustafson 1985_ | p. 3 | “The eutectic (γ + liquid + cementite) temperature changed from 1421.52 K to 1421.31 K and the eutectic composition from 4.382 mass-% C to 4.383 mass-% C.” |
 | 1421.31 | eutectic |  | model | [2] Hallstedt 2010 | p. 3 | “The eutectic (γ + liquid + cementite) temperature changed from 1421.52 K to 1421.31 K and the eutectic composition from 4.382 mass-% C to 4.383 mass-% C.” |
 | 1421.15 | eutectic |  | model | [3] Lacaze 1991; _cites Gustafsson 1985_ | p. 3 | “After correction of the constant term in the ~L and T~ relations to find the accepted Fe-C binary metastable eutectic (T\[ = T~ = 1148 ~ and pct C = 4.38), \[4\] one can estimate the locus of the metastable liquid/fcc/ cementite valley by combining the two equations: pct C + 0.1114 pet Si = 4.38” |
 | 1421 | eutectic |  | experimental | [4] Naraghi 2014; _cites Chicco 1982_ [doi](https://doi.org/10.1007/bf02645513) | p. 5 | “The solubility of cementite in fcc by Smith \[63\] in the range 1027 to 1285 K and metastable eutectic temperature 1421 K by Chicco and Thorpe \[64\] give tight conditions to determine the remaining parameter in Gibbs energy of cementite, i.e. the E0 parameter in Eq. (10).” |
-| 1094.15 | quasi-peritectic: κ + γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 22 |  |
 | 1011.15 | other: γ -> α + gr |  | unspecified | [1] Kumar 1991 | Table 7, p. 6, row 23 |  |
 | 999.78 | eutectoid |  | model | [2] Hallstedt 2010; _cites Gustafson 1985_ | p. 3 | “The eutectoid (α + γ + cementite) temperature changed from 999.78 K to 999.68 K and the eutectoid composition from 0.7610 mass-% C to 0.7617 mass-% C.” |
 | 999.68 | eutectoid |  | model | [2] Hallstedt 2010 | p. 3 | “The eutectoid (α + γ + cementite) temperature changed from 999.78 K to 999.68 K and the eutectoid composition from 0.7610 mass-% C to 0.7617 mass-% C.” |

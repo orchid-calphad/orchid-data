@@ -1,10 +1,10 @@
 # Li–Sb system
 
-> Li–Sb system: 410 accepted literature values (mixing / partial 351, invariant reaction 27, formation 17, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sb system: 412 accepted literature values (mixing / partial 351, invariant reaction 27, formation 19, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SB.html · Markdown: https://data.orchid-project.org/systems/LI-SB.md
 
-410 accepted literature values from 2 paper(s) (experimental 390, model 20); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+412 accepted literature values from 2 paper(s) (experimental 392, model 20); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SB.json) · [CSV](https://data.orchid-project.org/systems/LI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SB/LiSb-17Li.json) · [phases (8)](https://data.orchid-project.org/phases/pages/LI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SB.html) · [Markdown](https://data.orchid-project.org/systems/LI-SB.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 390 |
+| experimental | 392 |
 | model | 20 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 27 |
 | phase transition | 9 |
 | phase equilibrium | 6 |
-| formation | 17 |
+| formation | 19 |
 | mixing / partial | 351 |
 
 ## Calculated phase diagrams
@@ -97,7 +97,7 @@ Table: Enthalpies of formation, Li–Sb system (9)
 | Li2Sb | [Li2Sb](https://data.orchid-project.org/compounds/Li2Sb.html) | -66.7 kJ/mol-atom ± 0.5 | 820 | experimental | -61.478 (mp-aaadjyvo) | -56.263 (oqmd-16940) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 3 |  |
 | Li2Sb | [Li2Sb](https://data.orchid-project.org/compounds/Li2Sb.html) | -65.7667 kJ/mol-atom | 700.65 | experimental | -61.478 (mp-aaadjyvo) | -56.263 (oqmd-16940) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 1 |  |
 | Li2Sb | [Li2Sb](https://data.orchid-project.org/compounds/Li2Sb.html) | -65 kJ/mol-atom | 686.65 | experimental | -61.478 (mp-aaadjyvo) | -56.263 (oqmd-16940) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 2 |  |
-| Li3Sb | [Li3Sb](https://data.orchid-project.org/compounds/Li3Sb.html) | -81.5 kJ/mol-atom | 298 | experimental | -65.598 (mp-aaaaadbu) | -61.983 (oqmd-646185) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
+| Li3Sb | [Li3Sb](https://data.orchid-project.org/compounds/Li3Sb.html) | -81.5 kJ/mol-atom | 298.15 | experimental | -65.598 (mp-aaaaadbu) | -61.983 (oqmd-646185) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
 | Li3Sb | [Li3Sb](https://data.orchid-project.org/compounds/Li3Sb.html) | -76.825 kJ/mol-atom | 700.65 | model | -65.598 (mp-aaaaadbu) | -61.983 (oqmd-646185) | [2] Zhang 2017 | Table 5, p. 36, row 6 |  |
 | Li3Sb | [Li3Sb](https://data.orchid-project.org/compounds/Li3Sb.html) | -75.25 kJ/mol-atom | 686.65 | experimental | -65.598 (mp-aaaaadbu) | -61.983 (oqmd-646185) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5 |  |
 | Li3Sb | [Li3Sb](https://data.orchid-project.org/compounds/Li3Sb.html) | -73.325 kJ/mol-atom | 700.65 | experimental | -65.598 (mp-aaaaadbu) | -61.983 (oqmd-646185) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
@@ -134,7 +134,7 @@ Table: Phase equilibrium, Li–Sb system
 | Phase assemblage |  |  | (Sb) + Li2Sb + Eutectic (Sb)+ Li2Sb; _alloy: Li 0.4, Sb 0.6_ | experimental | [2] Zhang 2017 | Table 1, p. 32, row 3 |  |
 | Phase assemblage |  |  | (Sb) + Li2Sb + αLi3Sb + Li3Sb + Eutectic (Sb)+ Li2Sb; _alloy: Li 0.4, Sb 0.6_ | experimental | [2] Zhang 2017 | Table 1, p. 32, row 6 |  |
 
-### Formation (8)
+### Formation (10)
 
 Table: Formation, Li–Sb system
 
@@ -147,7 +147,9 @@ Table: Formation, Li–Sb system
 | Entropy of formation; _printed: ΔSf_ | -16.4375 J/mol-atom/K | 700.65 | Li3Sb; _alloy: Sb 0.25_ | model | [2] Zhang 2017 | Table 5, p. 36, row 6 |  |
 | Entropy of formation; _printed: ΔSf_ | -12.3 J/mol-atom/K | 700.65 | Li3Sb; _alloy: Sb 0.25_ | experimental | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
 | Gibbs energy of formation; _printed: ΔfGLi2Sb_ | 58.9 kJ/mol-atom | 630 | Li2Sb; _alloy: Sb 0.333333_ | experimental | [1] Li 2017; _cites Nikitin 1982_ | Table 1, p. 3, row 4 |  |
+| Gibbs energy of formation; _printed: ΔfGLi3Sb_ | 65.4 kJ/mol-atom | 630 | Li3Sb; _alloy: Sb 0.25_ | experimental | [1] Li 2017; _cites Nikitin 1982_ | Table 1, p. 3, row 6 |  |
 | Gibbs energy of formation; _printed: ΔfGLi2Sb_ | 58.2 kJ/mol-atom | 723 | Li2Sb; _alloy: Sb 0.333333_ | experimental | [1] Li 2017; _cites Nikitin 1982_ | Table 1, p. 3, row 5 |  |
+| Gibbs energy of formation; _printed: ΔfGLi3Sb_ | 64.3 kJ/mol-atom | 723 | Li3Sb; _alloy: Sb 0.25_ | experimental | [1] Li 2017; _cites Nikitin 1982_ | Table 1, p. 3, row 7 |  |
 
 ### Mixing / partial (351)
 
@@ -336,15 +338,15 @@ Table: Mixing / partial, Li–Sb system
 | Partial enthalpy; _printed: ΔmixH_Li_ | -101.936 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.13581, Sb 0.86419_ | experimental | [1] Li 2017 | Table 5, p. 7, row 4 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 5.775 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.51975, Sb 0.48025_ | experimental | [1] Li 2017 | Table 7, p. 9, row 23 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.862 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.56853, Sb 0.43147_ | experimental | [1] Li 2017 | Table 7, p. 9, row 18 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330070 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.90916, Sb 0.09084_ | experimental | [1] Li 2017 | Table 2, p. 5, row 21 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330.07 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.90916, Sb 0.09084_ | experimental | [1] Li 2017 | Table 2, p. 5, row 21 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -105.447 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.55405, Sb 0.44595_ | experimental | [1] Li 2017 | Table 5, p. 7, row 20 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 31.435 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.70319, Sb 0.29681_ | experimental | [1] Li 2017 | Table 7, p. 9, row 6 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -97.403 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.3607, Sb 0.6393_ | experimental | [1] Li 2017 | Table 5, p. 7, row 11 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331936 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.91809, Sb 0.08191_ | experimental | [1] Li 2017 | Table 2, p. 5, row 19 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331.936 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.91809, Sb 0.08191_ | experimental | [1] Li 2017 | Table 2, p. 5, row 19 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 28.445 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.71316, Sb 0.28684_ | experimental | [1] Li 2017 | Table 7, p. 9, row 5 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -106.413 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.5196, Sb 0.4804_ | experimental | [1] Li 2017 | Table 5, p. 7, row 18 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -265721 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.99647, Sb 0.00353_ | experimental | [1] Li 2017 | Table 2, p. 5, row 1 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -291618 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.98906, Sb 0.01094_ | experimental | [1] Li 2017 | Table 2, p. 5, row 3 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -265.721 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.99647, Sb 0.00353_ | experimental | [1] Li 2017 | Table 2, p. 5, row 1 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -291.618 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.98906, Sb 0.01094_ | experimental | [1] Li 2017 | Table 2, p. 5, row 3 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -86.383 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.09782, Sb 0.90218_ | experimental | [1] Li 2017 | Table 5, p. 7, row 3 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -94.805 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.17183, Sb 0.82817_ | experimental | [1] Li 2017 | Table 5, p. 7, row 5 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 28.373 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.58969, Sb 0.41031_ | experimental | [1] Li 2017 | Table 7, p. 9, row 16 |  |
@@ -352,55 +354,55 @@ Table: Mixing / partial, Li–Sb system
 | Partial enthalpy; _printed: ΔmixH_Li_ | -129.377 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.6339, Sb 0.3661_ | experimental | [1] Li 2017 | Table 5, p. 7, row 25 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -98.406 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.27444, Sb 0.72556_ | experimental | [1] Li 2017 | Table 5, p. 7, row 8 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 32.957 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.6116, Sb 0.3884_ | experimental | [1] Li 2017 | Table 7, p. 9, row 14 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331401 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.95653, Sb 0.04347_ | experimental | [1] Li 2017 | Table 2, p. 5, row 11 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331.401 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.95653, Sb 0.04347_ | experimental | [1] Li 2017 | Table 2, p. 5, row 11 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -98.978 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.38682, Sb 0.61318_ | experimental | [1] Li 2017 | Table 5, p. 7, row 12 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -106.331 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.56975, Sb 0.43025_ | experimental | [1] Li 2017 | Table 5, p. 7, row 21 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330611 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.9523, Sb 0.0477_ | experimental | [1] Li 2017 | Table 2, p. 5, row 12 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330.611 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.9523, Sb 0.0477_ | experimental | [1] Li 2017 | Table 2, p. 5, row 12 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 2.981 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.52902, Sb 0.47098_ | experimental | [1] Li 2017 | Table 7, p. 9, row 22 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -324212 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96075, Sb 0.03925_ | experimental | [1] Li 2017 | Table 2, p. 5, row 10 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -324.212 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96075, Sb 0.03925_ | experimental | [1] Li 2017 | Table 2, p. 5, row 10 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -91.192 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.02989, Sb 0.97011_ | experimental | [1] Li 2017 | Table 5, p. 7, row 1 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -124.537 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.60082, Sb 0.39918_ | experimental | [1] Li 2017 | Table 5, p. 7, row 23 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -325412 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96892, Sb 0.03108_ | experimental | [1] Li 2017 | Table 2, p. 5, row 8 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -325.412 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96892, Sb 0.03108_ | experimental | [1] Li 2017 | Table 2, p. 5, row 8 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -101.961 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.50076, Sb 0.49924_ | experimental | [1] Li 2017 | Table 5, p. 7, row 17 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -86.538 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.33276, Sb 0.66724_ | experimental | [1] Li 2017 | Table 5, p. 7, row 10 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330369 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.94806, Sb 0.05194_ | experimental | [1] Li 2017 | Table 2, p. 5, row 13 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330.369 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.94806, Sb 0.05194_ | experimental | [1] Li 2017 | Table 2, p. 5, row 13 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.334 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.69267, Sb 0.30733_ | experimental | [1] Li 2017 | Table 7, p. 9, row 7 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 31.883 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.60055, Sb 0.39945_ | experimental | [1] Li 2017 | Table 7, p. 9, row 15 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331446 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.98125, Sb 0.01875_ | experimental | [1] Li 2017 | Table 2, p. 5, row 5 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -333070 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.91368, Sb 0.08632_ | experimental | [1] Li 2017 | Table 2, p. 5, row 20 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331.446 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.98125, Sb 0.01875_ | experimental | [1] Li 2017 | Table 2, p. 5, row 5 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -333.07 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.91368, Sb 0.08632_ | experimental | [1] Li 2017 | Table 2, p. 5, row 20 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -126.419 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.61559, Sb 0.38441_ | experimental | [1] Li 2017 | Table 5, p. 7, row 24 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 30.936 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.64517, Sb 0.35483_ | experimental | [1] Li 2017 | Table 7, p. 9, row 11 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331535 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.94385, Sb 0.05615_ | experimental | [1] Li 2017 | Table 2, p. 5, row 14 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -331.535 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.94385, Sb 0.05615_ | experimental | [1] Li 2017 | Table 2, p. 5, row 14 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 5.842 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.54823, Sb 0.45177_ | experimental | [1] Li 2017 | Table 7, p. 9, row 20 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -323753 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96482, Sb 0.03518_ | experimental | [1] Li 2017 | Table 2, p. 5, row 9 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -323.753 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.96482, Sb 0.03518_ | experimental | [1] Li 2017 | Table 2, p. 5, row 9 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 4.165 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.51057, Sb 0.48943_ | experimental | [1] Li 2017 | Table 7, p. 9, row 24 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.543 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.74165, Sb 0.25835_ | experimental | [1] Li 2017 | Table 7, p. 9, row 2 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -100.559 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.4805, Sb 0.5195_ | experimental | [1] Li 2017 | Table 5, p. 7, row 16 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -89.342 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.20836, Sb 0.79164_ | experimental | [1] Li 2017 | Table 5, p. 7, row 6 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -334908 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.89506, Sb 0.10494_ | experimental | [1] Li 2017 | Table 2, p. 5, row 24 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -315597 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.9852, Sb 0.0148_ | experimental | [1] Li 2017 | Table 2, p. 5, row 4 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -334172 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93524, Sb 0.06476_ | experimental | [1] Li 2017 | Table 2, p. 5, row 16 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330095 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.90458, Sb 0.09542_ | experimental | [1] Li 2017 | Table 2, p. 5, row 22 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -336929 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.8998, Sb 0.1002_ | experimental | [1] Li 2017 | Table 2, p. 5, row 23 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -334.908 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.89506, Sb 0.10494_ | experimental | [1] Li 2017 | Table 2, p. 5, row 24 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -315.597 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.9852, Sb 0.0148_ | experimental | [1] Li 2017 | Table 2, p. 5, row 4 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -334.172 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93524, Sb 0.06476_ | experimental | [1] Li 2017 | Table 2, p. 5, row 16 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -330.095 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.90458, Sb 0.09542_ | experimental | [1] Li 2017 | Table 2, p. 5, row 22 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -336.929 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.8998, Sb 0.1002_ | experimental | [1] Li 2017 | Table 2, p. 5, row 23 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -105.521 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.53722, Sb 0.46278_ | experimental | [1] Li 2017 | Table 5, p. 7, row 19 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -98.614 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.30413, Sb 0.69587_ | experimental | [1] Li 2017 | Table 5, p. 7, row 9 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.051 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.66854, Sb 0.33146_ | experimental | [1] Li 2017 | Table 7, p. 9, row 9 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -327129 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93095, Sb 0.06905_ | experimental | [1] Li 2017 | Table 2, p. 5, row 17 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -327.129 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93095, Sb 0.06905_ | experimental | [1] Li 2017 | Table 2, p. 5, row 17 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 8.76 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.5582, Sb 0.4418_ | experimental | [1] Li 2017 | Table 7, p. 9, row 19 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -103.397 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.4587, Sb 0.5413_ | experimental | [1] Li 2017 | Table 5, p. 7, row 15 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 29.499 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.7234, Sb 0.2766_ | experimental | [1] Li 2017 | Table 7, p. 9, row 4 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.879 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.62282, Sb 0.37718_ | experimental | [1] Li 2017 | Table 7, p. 9, row 13 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -92.833 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.24245, Sb 0.75755_ | experimental | [1] Li 2017 | Table 5, p. 7, row 7 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -101.519 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.43499, Sb 0.56501_ | experimental | [1] Li 2017 | Table 5, p. 7, row 14 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -283695 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.99287, Sb 0.00713_ | experimental | [1] Li 2017 | Table 2, p. 5, row 2 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -333151 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.92669, Sb 0.07331_ | experimental | [1] Li 2017 | Table 2, p. 5, row 18 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -283.695 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.99287, Sb 0.00713_ | experimental | [1] Li 2017 | Table 2, p. 5, row 2 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -333.151 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.92669, Sb 0.07331_ | experimental | [1] Li 2017 | Table 2, p. 5, row 18 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -103.55 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.41167, Sb 0.58833_ | experimental | [1] Li 2017 | Table 5, p. 7, row 13 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -325746 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.97716, Sb 0.02284_ | experimental | [1] Li 2017 | Table 2, p. 5, row 6 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -325.746 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.97716, Sb 0.02284_ | experimental | [1] Li 2017 | Table 2, p. 5, row 6 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 5.769 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.50104, Sb 0.49896_ | experimental | [1] Li 2017 | Table 7, p. 9, row 25 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -327303 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.97303, Sb 0.02697_ | experimental | [1] Li 2017 | Table 2, p. 5, row 7 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -327.303 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.97303, Sb 0.02697_ | experimental | [1] Li 2017 | Table 2, p. 5, row 7 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 13.941 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.53851, Sb 0.46149_ | experimental | [1] Li 2017 | Table 7, p. 9, row 21 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 25.284 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.65666, Sb 0.34334_ | experimental | [1] Li 2017 | Table 7, p. 9, row 10 |  |
-| Partial enthalpy; _printed: ΔmixH̄Sb_ | -332043 unknown ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93955, Sb 0.06045_ | experimental | [1] Li 2017 | Table 2, p. 5, row 15 |  |
+| Partial enthalpy; _printed: ΔmixH̄Sb_ | -332.043 kJ/mol-atom ± 3724 | 979 | UNKNOWN; _alloy: Li 0.93955, Sb 0.06045_ | experimental | [1] Li 2017 | Table 2, p. 5, row 15 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 27.352 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.63408, Sb 0.36592_ | experimental | [1] Li 2017 | Table 7, p. 9, row 12 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | 32.448 kJ/mol (basis unstated) | 979 | UNKNOWN; _alloy: Li 0.68064, Sb 0.31936_ | experimental | [1] Li 2017 | Table 7, p. 9, row 8 |  |
 | Partial enthalpy; _printed: ΔmixH_Li_ | -114.327 kJ/mol (basis unstated) ± 1.268 | 979 | UNKNOWN; _alloy: Li 0.58518, Sb 0.41482_ | experimental | [1] Li 2017 | Table 5, p. 7, row 22 |  |
@@ -431,31 +433,31 @@ Table: Mixing / partial, Li–Sb system
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | -325.746 kJ/mol (basis unstated) | 979 | liquid; _alloy: Li 0.97716, Sb 0.02284_ | experimental | [1] Li 2017 | Table 2, p. 5, row 6 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | -327.303 kJ/mol (basis unstated) | 979 | liquid; _alloy: Li 0.97303, Sb 0.02697_ | experimental | [1] Li 2017 | Table 2, p. 5, row 7 |  |
 | Partial enthalpy; _printed: ΔmixH̄\_Sb_ | -332.043 kJ/mol (basis unstated) | 979 | liquid; _alloy: Li 0.93955, Sb 0.06045_ | experimental | [1] Li 2017 | Table 2, p. 5, row 15 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.726 unknown | 1080 | UNKNOWN; _alloy: Li 0.57085, Sb 0.42915_ | experimental | [1] Li 2017 | Table 8, p. 9, row 19 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.817 unknown | 1080 | UNKNOWN; _alloy: Li 0.66319, Sb 0.33681_ | experimental | [1] Li 2017 | Table 8, p. 9, row 10 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 36.846 unknown | 1080 | UNKNOWN; _alloy: Li 0.62236, Sb 0.37764_ | experimental | [1] Li 2017 | Table 8, p. 9, row 14 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.936 unknown | 1080 | UNKNOWN; _alloy: Li 0.653, Sb 0.347_ | experimental | [1] Li 2017 | Table 8, p. 9, row 11 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.465 unknown | 1080 | UNKNOWN; _alloy: Li 0.72312, Sb 0.27688_ | experimental | [1] Li 2017 | Table 8, p. 9, row 4 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 34.09 unknown | 1080 | UNKNOWN; _alloy: Li 0.7138, Sb 0.2862_ | experimental | [1] Li 2017 | Table 8, p. 9, row 5 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 39.641 unknown | 1080 | UNKNOWN; _alloy: Li 0.64289, Sb 0.35711_ | experimental | [1] Li 2017 | Table 8, p. 9, row 12 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 7.347 unknown | 1080 | UNKNOWN; _alloy: Li 0.55162, Sb 0.44838_ | experimental | [1] Li 2017 | Table 8, p. 9, row 21 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 20.591 unknown | 1080 | UNKNOWN; _alloy: Li 0.74165, Sb 0.25835_ | experimental | [1] Li 2017 | Table 8, p. 9, row 2 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 6.043 unknown | 1080 | UNKNOWN; _alloy: Li 0.51419, Sb 0.48581_ | experimental | [1] Li 2017 | Table 8, p. 9, row 25 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 7.779 unknown | 1080 | UNKNOWN; _alloy: Li 0.58085, Sb 0.41915_ | experimental | [1] Li 2017 | Table 8, p. 9, row 18 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.274 unknown | 1080 | UNKNOWN; _alloy: Li 0.50513, Sb 0.49487_ | experimental | [1] Li 2017 | Table 8, p. 9, row 26 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.941 unknown | 1080 | UNKNOWN; _alloy: Li 0.56115, Sb 0.43885_ | experimental | [1] Li 2017 | Table 8, p. 9, row 20 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 22.811 unknown | 1080 | UNKNOWN; _alloy: Li 0.60156, Sb 0.39844_ | experimental | [1] Li 2017 | Table 8, p. 9, row 16 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.383 unknown | 1080 | UNKNOWN; _alloy: Li 0.52335, Sb 0.47665_ | experimental | [1] Li 2017 | Table 8, p. 9, row 24 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 42.092 unknown | 1080 | UNKNOWN; _alloy: Li 0.63271, Sb 0.36729_ | experimental | [1] Li 2017 | Table 8, p. 9, row 13 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 36.827 unknown | 1080 | UNKNOWN; _alloy: Li 0.70433, Sb 0.29567_ | experimental | [1] Li 2017 | Table 8, p. 9, row 6 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 44.572 unknown | 1080 | UNKNOWN; _alloy: Li 0.69447, Sb 0.30553_ | experimental | [1] Li 2017 | Table 8, p. 9, row 7 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 50.62 unknown | 1080 | UNKNOWN; _alloy: Li 0.67356, Sb 0.32644_ | experimental | [1] Li 2017 | Table 8, p. 9, row 9 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.235 unknown | 1080 | UNKNOWN; _alloy: Li 0.59114, Sb 0.40886_ | experimental | [1] Li 2017 | Table 8, p. 9, row 17 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 5.752 unknown | 1080 | UNKNOWN; _alloy: Li 0.5327, Sb 0.4673_ | experimental | [1] Li 2017 | Table 8, p. 9, row 23 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.14 unknown | 1080 | UNKNOWN; _alloy: Li 0.54208, Sb 0.45792_ | experimental | [1] Li 2017 | Table 8, p. 9, row 22 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 39.548 unknown | 1080 | UNKNOWN; _alloy: Li 0.61195, Sb 0.38805_ | experimental | [1] Li 2017 | Table 8, p. 9, row 15 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 33.546 unknown | 1080 | UNKNOWN; _alloy: Li 0.73248, Sb 0.26752_ | experimental | [1] Li 2017 | Table 8, p. 9, row 3 |  |
-| Partial enthalpy; _printed: ΔmixH_Sb_ | 40.805 unknown | 1080 | UNKNOWN; _alloy: Li 0.68386, Sb 0.31614_ | experimental | [1] Li 2017 | Table 8, p. 9, row 8 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.726 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.57085, Sb 0.42915_ | experimental | [1] Li 2017 | Table 8, p. 9, row 19 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.817 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.66319, Sb 0.33681_ | experimental | [1] Li 2017 | Table 8, p. 9, row 10 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 36.846 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.62236, Sb 0.37764_ | experimental | [1] Li 2017 | Table 8, p. 9, row 14 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.936 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.653, Sb 0.347_ | experimental | [1] Li 2017 | Table 8, p. 9, row 11 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 30.465 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.72312, Sb 0.27688_ | experimental | [1] Li 2017 | Table 8, p. 9, row 4 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 34.09 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.7138, Sb 0.2862_ | experimental | [1] Li 2017 | Table 8, p. 9, row 5 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 39.641 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.64289, Sb 0.35711_ | experimental | [1] Li 2017 | Table 8, p. 9, row 12 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 7.347 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.55162, Sb 0.44838_ | experimental | [1] Li 2017 | Table 8, p. 9, row 21 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 20.591 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.74165, Sb 0.25835_ | experimental | [1] Li 2017 | Table 8, p. 9, row 2 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 6.043 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.51419, Sb 0.48581_ | experimental | [1] Li 2017 | Table 8, p. 9, row 25 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 7.779 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.58085, Sb 0.41915_ | experimental | [1] Li 2017 | Table 8, p. 9, row 18 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.274 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.50513, Sb 0.49487_ | experimental | [1] Li 2017 | Table 8, p. 9, row 26 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 3.941 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.56115, Sb 0.43885_ | experimental | [1] Li 2017 | Table 8, p. 9, row 20 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 22.811 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.60156, Sb 0.39844_ | experimental | [1] Li 2017 | Table 8, p. 9, row 16 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.383 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.52335, Sb 0.47665_ | experimental | [1] Li 2017 | Table 8, p. 9, row 24 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 42.092 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.63271, Sb 0.36729_ | experimental | [1] Li 2017 | Table 8, p. 9, row 13 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 36.827 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.70433, Sb 0.29567_ | experimental | [1] Li 2017 | Table 8, p. 9, row 6 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 44.572 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.69447, Sb 0.30553_ | experimental | [1] Li 2017 | Table 8, p. 9, row 7 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 50.62 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.67356, Sb 0.32644_ | experimental | [1] Li 2017 | Table 8, p. 9, row 9 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.235 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.59114, Sb 0.40886_ | experimental | [1] Li 2017 | Table 8, p. 9, row 17 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 5.752 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.5327, Sb 0.4673_ | experimental | [1] Li 2017 | Table 8, p. 9, row 23 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 4.14 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.54208, Sb 0.45792_ | experimental | [1] Li 2017 | Table 8, p. 9, row 22 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 39.548 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.61195, Sb 0.38805_ | experimental | [1] Li 2017 | Table 8, p. 9, row 15 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 33.546 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.73248, Sb 0.26752_ | experimental | [1] Li 2017 | Table 8, p. 9, row 3 |  |
+| Partial enthalpy; _printed: ΔmixH_Sb_ | 40.805 kJ/mol-atom | 1080 | UNKNOWN; _alloy: Li 0.68386, Sb 0.31614_ | experimental | [1] Li 2017 | Table 8, p. 9, row 8 |  |
 | Partial enthalpy; _printed: Δmix H̄\_Sb_ | -337.324 kJ/mol (basis unstated) ± 4.562 | 1080 | liquid; _alloy: Li 0.92311, Sb 0.07689_ | experimental | [1] Li 2017 | Table 3, p. 6, row 20 |  |
 | Partial enthalpy; _printed: Δmix H̄\_Sb_ | -333.807 kJ/mol (basis unstated) ± 4.562 | 1080 | liquid; _alloy: Li 0.96895, Sb 0.03105_ | experimental | [1] Li 2017 | Table 3, p. 6, row 9 |  |
 | Partial enthalpy; _printed: Δmix H̄\_Sb_ | -241.516 kJ/mol (basis unstated) ± 4.562 | 1080 | liquid; _alloy: Li 0.99046, Sb 0.00954_ | experimental | [1] Li 2017 | Table 3, p. 6, row 3 |  |

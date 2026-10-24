@@ -45,7 +45,15 @@
   "dois": [
    "10.1016/s0925-8388(01)00931-8"
   ],
-  "source_dataset": "db-v2.1/general/espei/RuSi-01Liu/hmr-03.json"
+  "source_dataset": "db-v2.1/general/espei/RuSi-01Liu/hmr-03.json",
+  "also_reported_as": [
+   {
+    "dataset": "experimental/RU-SI/RuSi-09Lon.hmr-02-RUSI.json",
+    "ids": [
+     "ORC-EWAENUR3FG"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

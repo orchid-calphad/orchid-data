@@ -29,15 +29,6 @@ Table: Phase transition, Ag–Cu–Sn system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 213.9 K | 213.9 | other: Sn 92.70 / Cu 0.90 / Ag 6.40 wt.% - Cooling TB; _alloy: Ag 0.0694434, Cu 0.0165767, Sn 0.91398_ | experimental | [1] Moon 2000 | Table I, p. 4, row 25 |  |
-| Phase transition | 245 K | 245 | other: Sn 93.40 / Cu 1.30 / Ag 5.30 wt.% - Heating TL; _alloy: Ag 0.0573739, Cu 0.0238884, Sn 0.918738_ | experimental | [1] Moon 2000 | Table I, p. 4, row 31 |  |
-| Phase transition | 245 K | 245 | other: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Heating TL; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 36 |  |
-| Phase transition | 264 K | 264 | other: Sn 92.70 / Cu 0.90 / Ag 6.40 wt.% - Heating TL; _alloy: Ag 0.0694434, Cu 0.0165767, Sn 0.91398_ | experimental | [1] Moon 2000 | Table I, p. 4, row 21 |  |
-| Phase transition | 267 K | 267 | other: Sn 92.50 / Cu 0.80 / Ag 6.70 wt.% - Heating TL; _alloy: Ag 0.0727392, Cu 0.0147431, Sn 0.912518_ | experimental | [1] Moon 2000 | Table I, p. 4, row 15 |  |
-| Phase transition | 271 K | 271 | other: Sn 92.20 / Cu 0.60 / Ag 7.20 wt.% - Heating TL; _alloy: Ag 0.0782627, Cu 0.0110708, Sn 0.910667_ | experimental | [1] Moon 2000 | Table I, p. 4, row 9 |  |
-| Phase transition | 271 K | 271 | other: Sn 94.15 / Cu 1.75 / Ag 4.10 wt.% - Heating TL; _alloy: Ag 0.044266, Cu 0.0320723, Sn 0.923662_ | experimental | [1] Moon 2000 | Table I, p. 4, row 47 |  |
-| Phase transition | 287 K | 287 | other: Sn 91.70 / Cu 0.30 / Ag 8.00 wt.% - Heating TL; _alloy: Ag 0.0871134, Cu 0.00554526, Sn 0.907341_ | experimental | [1] Moon 2000 | Table I, p. 4, row 3 |  |
-| Phase transition | 293 K | 293 | other: Sn 95.20 / Cu 2.30 / Ag 2.50 wt.% - Heating TL; _alloy: Ag 0.0269079, Cu 0.0420216, Sn 0.931071_ | experimental | [1] Moon 2000 | Table I, p. 4, row 56 |  |
-| Phase transition | 309 K | 309 | other: Sn 95.80 / Cu 2.70 / Ag 1.50 wt.% - Heating TL; _alloy: Ag 0.0161059, Cu 0.049211, Sn 0.934683_ | experimental | [1] Moon 2000 | Table I, p. 4, row 62 |  |
 | Phase transition | 490.05 K | 490.05 | eutectic: Sn 92.95 / Cu 1.05 / Ag 6.00 wt.% - Cooling TE; _alloy: Ag 0.0650454, Cu 0.0193224, Sn 0.915632_ | experimental | [1] Moon 2000 | Table I, p. 4, row 30 |  |
 | Phase transition | 490.05 K | 490.05 | eutectic: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Cooling TE; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 41 |  |
 | Phase transition | 490.15 K | 490.15 | eutectic: Sn 92.20 / Cu 0.60 / Ag 7.20 wt.% - Cooling TE; _alloy: Ag 0.0782627, Cu 0.0110708, Sn 0.910667_ | experimental | [1] Moon 2000 | Table I, p. 4, row 14 |  |
@@ -93,17 +84,26 @@ Table: Phase transition, Ag–Cu–Sn system
 | Phase transition | 513.15 K | 513.15 | other: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Heating TB; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 37 |  |
 | Phase transition | 514.85 K | 514.85 | other: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Cooling TL; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 39 |  |
 | Phase transition | 516.35 K | 516.35 | other: Sn 93.40 / Cu 1.30 / Ag 5.30 wt.% - Cooling TL; _alloy: Ag 0.0573739, Cu 0.0238884, Sn 0.918738_ | experimental | [1] Moon 2000 | Table I, p. 4, row 33 |  |
+| Phase transition | 518.15 K | 518.15 | other: Sn 93.40 / Cu 1.30 / Ag 5.30 wt.% - Heating TL; _alloy: Ag 0.0573739, Cu 0.0238884, Sn 0.918738_ | experimental | [1] Moon 2000 | Table I, p. 4, row 31 |  |
+| Phase transition | 518.15 K | 518.15 | other: Sn 93.60 / Cu 1.40 / Ag 5.00 wt.% - Heating TL; _alloy: Ag 0.0540962, Cu 0.0257116, Sn 0.920192_ | experimental | [1] Moon 2000 | Table I, p. 4, row 36 |  |
 | Phase transition | 524.85 K | 524.85 | other: Sn 93.80 / Cu 1.50 / Ag 4.70 wt.% - Cooling TL; _alloy: Ag 0.0508221, Cu 0.0275329, Sn 0.921645_ | experimental | [1] Moon 2000 | Table I, p. 4, row 44 |  |
 | Phase transition | 527.05 K | 527.05 | other: Sn 92.95 / Cu 1.05 / Ag 6.00 wt.% - Cooling TL; _alloy: Ag 0.0650454, Cu 0.0193224, Sn 0.915632_ | experimental | [1] Moon 2000 | Table I, p. 4, row 28 |  |
 | Phase transition | 531.35 K | 531.35 | other: Sn 92.20 / Cu 0.60 / Ag 7.20 wt.% - Cooling TL; _alloy: Ag 0.0782627, Cu 0.0110708, Sn 0.910667_ | experimental | [1] Moon 2000 | Table I, p. 4, row 12 |  |
 | Phase transition | 536.05 K | 536.05 | other: Sn 92.50 / Cu 0.80 / Ag 6.70 wt.% - Cooling TL; _alloy: Ag 0.0727392, Cu 0.0147431, Sn 0.912518_ | experimental | [1] Moon 2000 | Table I, p. 4, row 18 |  |
 | Phase transition | 536.05 K | 536.05 | other: Sn 92.70 / Cu 0.90 / Ag 6.40 wt.% - Cooling TL; _alloy: Ag 0.0694434, Cu 0.0165767, Sn 0.91398_ | experimental | [1] Moon 2000 | Table I, p. 4, row 24 |  |
+| Phase transition | 537.15 K | 537.15 | other: Sn 92.70 / Cu 0.90 / Ag 6.40 wt.% - Heating TL; _alloy: Ag 0.0694434, Cu 0.0165767, Sn 0.91398_ | experimental | [1] Moon 2000 | Table I, p. 4, row 21 |  |
+| Phase transition | 540.15 K | 540.15 | other: Sn 92.50 / Cu 0.80 / Ag 6.70 wt.% - Heating TL; _alloy: Ag 0.0727392, Cu 0.0147431, Sn 0.912518_ | experimental | [1] Moon 2000 | Table I, p. 4, row 15 |  |
 | Phase transition | 542.95 K | 542.95 | other: Sn 94.15 / Cu 1.75 / Ag 4.10 wt.% - Cooling TL; _alloy: Ag 0.044266, Cu 0.0320723, Sn 0.923662_ | experimental | [1] Moon 2000 | Table I, p. 4, row 49 |  |
+| Phase transition | 544.15 K | 544.15 | other: Sn 92.20 / Cu 0.60 / Ag 7.20 wt.% - Heating TL; _alloy: Ag 0.0782627, Cu 0.0110708, Sn 0.910667_ | experimental | [1] Moon 2000 | Table I, p. 4, row 9 |  |
+| Phase transition | 544.15 K | 544.15 | other: Sn 94.15 / Cu 1.75 / Ag 4.10 wt.% - Heating TL; _alloy: Ag 0.044266, Cu 0.0320723, Sn 0.923662_ | experimental | [1] Moon 2000 | Table I, p. 4, row 47 |  |
 | Phase transition | 552.05 K | 552.05 | other: Sn 94.50 / Cu 2.00 / Ag 3.50 wt.% - Cooling TL; _alloy: Ag 0.03773, Cu 0.0365978, Sn 0.925672_ | experimental | [1] Moon 2000 | Table I, p. 4, row 54 |  |
 | Phase transition | 553.25 K | 553.25 | other: Sn 91.70 / Cu 0.30 / Ag 8.00 wt.% - Cooling TL; _alloy: Ag 0.0871134, Cu 0.00554526, Sn 0.907341_ | experimental | [1] Moon 2000 | Table I, p. 4, row 6 |  |
+| Phase transition | 560.15 K | 560.15 | other: Sn 91.70 / Cu 0.30 / Ag 8.00 wt.% - Heating TL; _alloy: Ag 0.0871134, Cu 0.00554526, Sn 0.907341_ | experimental | [1] Moon 2000 | Table I, p. 4, row 3 |  |
 | Phase transition | 563.65 K | 563.65 | other: Sn 95.20 / Cu 2.30 / Ag 2.50 wt.% - Cooling TL; _alloy: Ag 0.0269079, Cu 0.0420216, Sn 0.931071_ | experimental | [1] Moon 2000 | Table I, p. 4, row 59 |  |
+| Phase transition | 566.15 K | 566.15 | other: Sn 95.20 / Cu 2.30 / Ag 2.50 wt.% - Heating TL; _alloy: Ag 0.0269079, Cu 0.0420216, Sn 0.931071_ | experimental | [1] Moon 2000 | Table I, p. 4, row 56 |  |
 | Phase transition | 568.15 K | 568.15 | other: Sn 91.10 / Cu 0.00 / Ag 8.90 wt.% - Heating TL; _alloy: Ag 0.097077, Cu 0, Sn 0.902923_ | experimental | [1] Moon 2000 | Table I, p. 4, row 1 |  |
 | Phase transition | 580.45 K | 580.45 | other: Sn 95.80 / Cu 2.70 / Ag 1.50 wt.% - Cooling TL; _alloy: Ag 0.0161059, Cu 0.049211, Sn 0.934683_ | experimental | [1] Moon 2000 | Table I, p. 4, row 65 |  |
+| Phase transition | 582.15 K | 582.15 | other: Sn 95.80 / Cu 2.70 / Ag 1.50 wt.% - Heating TL; _alloy: Ag 0.0161059, Cu 0.049211, Sn 0.934683_ | experimental | [1] Moon 2000 | Table I, p. 4, row 62 |  |
 | Phase transition | 598.15 K | 598.15 | other: Sn 96.73 / Cu 3.27 / Ag 0.00 wt.% - Heating TL; _alloy: Ag 0, Cu 0.0594005, Sn 0.940599_ | experimental | [1] Moon 2000 | Table I, p. 4, row 68 |  |
 
 ## Sources

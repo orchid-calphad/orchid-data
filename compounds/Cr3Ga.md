@@ -24,9 +24,9 @@ Table: Enthalpy of formation of Cr3Ga reported in the literature (15)
 | -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
 | -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
 | -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
-| -12 kJ/mol-atom | Cr3Ga | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
+| -12 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
 | -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| -9.75 kJ/mol-atom | Cr3Ga | 298 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
+| -9.75 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
 | -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
 | -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
 
@@ -36,10 +36,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cr3Ga
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabvj | -4.035 | -0.041815 | Pm-3n | 0.679 | no |
-| OQMD | oqmd-29544 | -5.328 | -0.055225 | Pm-3n | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabvj | -4.035 | -0.041815 | Pm-3n | 0.679 | 0.007 | no |
+| OQMD | oqmd-29544 | -5.328 | -0.055225 | Pm-3n | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

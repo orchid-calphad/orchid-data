@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -53,6 +53,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "shao2004_494bbe",
  "orchid": {
@@ -72,7 +73,15 @@
   "dois": [
    "10.1016/j.intermet.2004.03.011"
   ],
-  "source_dataset": "db-v2.1/general/espei-model/NbSi-04Sha/hmr-model-02.json"
+  "source_dataset": "db-v2.1/general/espei-model/NbSi-04Sha/hmr-model-02.json",
+  "also_reported_as": [
+   {
+    "dataset": "model/NB-SI/NbSi-04Sha.hmr-model-03-NBSI2_C40.json",
+    "ids": [
+     "ORC-T5APMLGDOY.762f19"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

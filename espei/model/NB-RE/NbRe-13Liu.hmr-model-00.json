@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_RE": [
    1.0
   ]
@@ -30,7 +30,7 @@
   "model",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DME4MEHYIB.b0899d",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DME4MEHYIB.58192d",
  "reference_states": {
   "NB": {
    "phase": "BCC_A2",
@@ -69,6 +69,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "liu2013_cb8618",
  "orchid": {
@@ -76,7 +77,7 @@
   "evidence_class": "model",
   "observations": [
    {
-    "id": "ORC-DME4MEHYIB.b0899d",
+    "id": "ORC-DME4MEHYIB.58192d",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2013.02.006",
     "measured_in": "doi:10.1016/j.calphad.2013.02.006"
@@ -121,7 +122,7 @@
   "n_certified": 0,
   "values": [
    {
-    "id": "ORC-DME4MEHYIB.b0899d",
+    "id": "ORC-DME4MEHYIB.58192d",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

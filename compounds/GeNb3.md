@@ -14,8 +14,8 @@ Table: Enthalpy of formation of GeNb3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.41 kJ/mol (basis unstated) | Nb3Ge | 298 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
-| -25 kJ/mol (basis unstated) | Nb3Ge | 298 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
+| -26.41 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
+| -25 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
 | -30.213 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 9 |  |
 | -29.387 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 13 |  |
 

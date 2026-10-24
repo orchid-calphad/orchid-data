@@ -17,13 +17,13 @@ Table: Enthalpy of formation of NbSn2 reported in the literature (10)
 | -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1 |  |
 | -20.143 kJ/mol (basis unstated) | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 6 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 298 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 4 |  |
+| -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 4 |  |
 | -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
 | -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
-| -16 kJ/mol (basis unstated) | NbSn2 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
-| -16 kJ/mol (basis unstated) | NbSn2 | 298 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
-| -15.495 kJ/mol (basis unstated) | NbSn2 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5 |  |
+| -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
+| -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
+| -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
+| -15.495 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5 |  |
 
 ## Sources
 

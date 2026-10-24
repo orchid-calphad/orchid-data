@@ -197,7 +197,7 @@ Table: Enthalpies of formation, Al–Ca system (69)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al14Ca13 | [Al14Ca13](https://data.orchid-project.org/compounds/Al14Ca13.html) | -26.06 kJ/mol-atom | 298 | model | -25.073 (mp-aaacpwwt) | -25.969 (oqmd-20962) | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
+| Al14Ca13 | [Al14Ca13](https://data.orchid-project.org/compounds/Al14Ca13.html) | -26.06 kJ/mol-atom | 298.15 | model | -25.073 (mp-aaacpwwt) | -25.969 (oqmd-20962) | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
 | Al14Ca13 | [Al14Ca13](https://data.orchid-project.org/compounds/Al14Ca13.html) | -22.8 kJ/mol-atom | 800 | model | -25.073 (mp-aaacpwwt) | -25.969 (oqmd-20962) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Al14Ca13 (AlCa) |  | -28.904 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 36 |  |
 | Al14Ca13 (AlCa) |  | -28.386 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 35 |  |
@@ -208,16 +208,16 @@ Table: Enthalpies of formation, Al–Ca system (69)
 | Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -33.4 kJ/mol-atom ± 0.6 | 1038 | experimental | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005; _cites ref. 31_ | Table V, p. 9, row 2 |  |
 | Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -31.28 kJ/mol-atom ± 0.46 | 788 | experimental | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 1 |  |
 | Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -29.7 kJ/mol-atom | 800 | model | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 5 |  |
-| Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -29.4 kJ/mol-atom ± 0.9 | 298 | experimental | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 4 |  |
-| Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -29.28 kJ/mol-atom | 298 | model | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
+| Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -29.4 kJ/mol-atom ± 0.9 | 298.15 | experimental | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 4 |  |
+| Al2Ca | [Al2Ca](https://data.orchid-project.org/compounds/Al2Ca.html) | -29.28 kJ/mol-atom | 298.15 | model | -32.104 (mp-aaaaadom) | -32.307 (oqmd-5774) | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
 | Al3Ca8 |  | -18.705 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 41 |  |
 | Al3Ca8 |  | -18.301 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 40 |  |
 | Al3Ca8 |  | -17.679 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 44 |  |
-| Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -15.63 kJ/mol-atom | 298 | model | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
+| Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -15.63 kJ/mol-atom | 298.15 | model | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
 | Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -14 kJ/mol-atom |  | model | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 43 |  |
 | Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -14 kJ/mol-atom | 800 | model | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 13 |  |
 | Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -13.7 kJ/mol-atom ± 1.3 | 298.15 | experimental | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 45 |  |
-| Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -13.7 kJ/mol-atom ± 1.3 | 298 | experimental | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12 |  |
+| Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -13.7 kJ/mol-atom ± 1.3 | 298.15 | experimental | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 12 |  |
 | Al3Ca8 | [Al3Ca8](https://data.orchid-project.org/compounds/Al3Ca8.html) | -12.83 kJ/mol-atom |  | model | -14.913 (mp-aaacptlo) | -16.15 (oqmd-20963) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 42 |  |
 | Al4Ca | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | -28.968 kJ/mol-atom |  | model | -18.794 (mp-aaaaacph) | -18.472 (oqmd-2168879) | [1] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 4 |  |
 | Al4Ca |  | -21.615 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 3 |  |
@@ -233,7 +233,7 @@ Table: Enthalpies of formation, Al–Ca system (69)
 | Al4Ca |  | -19.208 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 2 |  |
 | Al4Ca | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | -18.7 kJ/mol-atom ± 0.3 | 1038 | experimental | -18.794 (mp-aaaaacph) | -18.472 (oqmd-2168879) | [2] ISLAM 2005; _cites ref. 31_ | Table V, p. 9, row 8 |  |
 | Al4Ca | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | -18.7 kJ/mol-atom ± 0.3 | 298.15 | experimental | -18.794 (mp-aaaaacph) | -18.472 (oqmd-2168879) | [1] Ozturk 2005; _cites Notin 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906001-0) | Table IV, p. 5, row 8 |  |
-| Al4Ca | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | -17.27 kJ/mol-atom | 298 | model | -18.794 (mp-aaaaacph) | -18.472 (oqmd-2168879) | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
+| Al4Ca | [Al4Ca](https://data.orchid-project.org/compounds/Al4Ca.html) | -17.27 kJ/mol-atom | 298.15 | model | -18.794 (mp-aaaaacph) | -18.472 (oqmd-2168879) | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
 | AlCa | [AlCa](https://data.orchid-project.org/compounds/AlCa.html) | -22.8 kJ/mol-atom | 800 | model |  | -25.348 (oqmd-1782653) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Al₄Ca |  | -219.5 kJ/mol (basis unstated) ± 20 | 298.15 | experimental |  |  | [5] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 2 |  |
 | Al₄Ca |  | -209 kJ/mol (basis unstated) ± 30 | 298.15 | experimental |  |  | [5] Anglezio 1994; _cites ref. 59Koc_ | Table II, p. 8, row 1 |  |
@@ -316,10 +316,10 @@ Table: Formation, Al–Ca system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔSf_ | -22.95 J/mol (basis unstated)/K |  | Al₄Ca | model | [5] Anglezio 1994; _cites ref. 88Itk_ | Table II, p. 8, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | -5.63 J/mol-atom/K | 298 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
-| Entropy of formation; _printed: ΔfS_ | -5.38 J/mol-atom/K | 298 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.3 J/mol-atom/K | 298 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.24 J/mol-atom/K | 298 | Al4Ca; _alloy: Ca 0.2_ | model | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
+| Entropy of formation; _printed: ΔfS_ | -5.63 J/mol-atom/K | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
+| Entropy of formation; _printed: ΔfS_ | -5.38 J/mol-atom/K | 298.15 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.3 J/mol-atom/K | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.24 J/mol-atom/K | 298.15 | Al4Ca; _alloy: Ca 0.2_ | model | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
 | Entropy of formation; _printed: ΔSf_ | -21.45 J/mol (basis unstated)/K ± 3.9 | 298.15 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 81Vel_ | Table II, p. 8, row 9 |  |
 | Entropy of formation; _printed: ΔfS_ | -5.67 J/mol-atom/K ± 0.93 | 788 | Al2Ca; _alloy: Ca 0.333333_ | experimental | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -4.29 J/mol-atom/K ± 0.78 | 788 | Al4Ca; _alloy: Ca 0.2_ | experimental | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 7 |  |
@@ -332,10 +332,10 @@ Table: Formation, Al–Ca system
 | Entropy of formation; _printed: ΔfS_ | -2.15 J/mol-atom/K | 800 | AlCa; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Entropy of formation; _printed: ΔSf_ | -5.5 J/mol (basis unstated)/K ± 2.5 | 800 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 82Not2_ | Table II, p. 8, row 6 |  |
 | Entropy of formation; _printed: ΔSf_ | -23.85 J/mol (basis unstated)/K | 800 | Al₄Ca | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -24.38 kJ/mol-atom | 298 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -27.7 kJ/mol-atom | 298 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -14.94 kJ/mol-atom | 298 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
-| Gibbs energy of formation; _printed: ΔfG_ | -16.6 kJ/mol-atom | 298 | Al4Ca; _alloy: Ca 0.2_ | model | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -24.38 kJ/mol-atom | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005 | Table V, p. 9, row 16 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -27.7 kJ/mol-atom | 298.15 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -14.94 kJ/mol-atom | 298.15 | Al3Ca8; _alloy: Ca 0.727273_ | model | [2] ISLAM 2005 | Table V, p. 9, row 14 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -16.6 kJ/mol-atom | 298.15 | Al4Ca; _alloy: Ca 0.2_ | model | [2] ISLAM 2005 | Table V, p. 9, row 11 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -21.1 kJ/mol-atom | 800 | Al14Ca13; _alloy: Ca 0.481481_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 15 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -28.3 kJ/mol-atom ± 0.3 | 800 | Al2Ca; _alloy: Ca 0.333333_ | experimental | [2] ISLAM 2005; _cites ref. 35_ | Table V, p. 9, row 3 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -25.7 kJ/mol-atom | 800 | Al2Ca; _alloy: Ca 0.333333_ | model | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 5 |  |

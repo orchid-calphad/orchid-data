@@ -25,11 +25,11 @@ Table: Phases of the Fe–Ta system (7)
 - Id: `phase:fe-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–3999.95 K, x(Ta) 0–1
-- Literature: 118 values (117 accepted) from 3 papers
+- Literature: 118 values (118 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ta:bcc-a2)
 
-Names (17): _corpus: _corpus:phase:fe-ta:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.12.006:(Ta), paper:10.1016/j.calphad.2014.12.006:(αFe), paper:10.1016/j.calphad.2014.12.006:Laves phase (ε), paper:10.1016/j.calphad.2014.12.006:ε, paper:10.1016/j.intermet.2011.03.018:α, paper:10.1016/j.intermet.2011.03.018:β, paper:10.1016/j.intermet.2011.03.018:δ, paper:10.1016/j.intermet.2011.03.018:λ, ε, TaFe2, paper:10.1016/s0022-3115(03)00196-x:bcc, paper:10.1016/s0022-3115(03)00196-x:α, paper:10.1016/s0022-3115(03)00196-x:δ, paper:10.1016/s0022-3115(03)00196-x:ε, paper:10.1016/s0022-3115(03)00196-x:ε ↔ Liq.  
+Names (16): _corpus: _corpus:phase:fe-ta:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.12.006:(Ta), paper:10.1016/j.calphad.2014.12.006:(αFe), paper:10.1016/j.calphad.2014.12.006:Laves phase (ε), paper:10.1016/j.calphad.2014.12.006:ε, paper:10.1016/j.intermet.2011.03.018:α, paper:10.1016/j.intermet.2011.03.018:β, paper:10.1016/j.intermet.2011.03.018:δ, paper:10.1016/j.intermet.2011.03.018:λ, ε, TaFe2, paper:10.1016/s0022-3115(03)00196-x:bcc, paper:10.1016/s0022-3115(03)00196-x:bcc(δ), paper:10.1016/s0022-3115(03)00196-x:ε, paper:10.1016/s0022-3115(03)00196-x:ε ↔ Liq.  
 _tdb: _tdb:FeTa-03Dan.tdb:BCC_A2, tdb:FeTa-11Wit.tdb:BCC_A2, tdb:FeTa-15Raj.tdb:BCC_A2  
 
 
@@ -198,7 +198,7 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-ta:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 777.33–1742.46 K, x(Ta) 0–0.01061
-- Literature: 38 values (37 accepted) from 3 papers
+- Literature: 38 values (38 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ta:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:fe-ta:fcc-a1  

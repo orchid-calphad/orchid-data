@@ -1,10 +1,10 @@
 # Pd–Zn system
 
-> Pd–Zn system: 77 accepted literature values (crystal structure 29, formation 15, invariant reaction 11, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Zn system: 70 accepted literature values (crystal structure 29, invariant reaction 11, phase transition 10, other property 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-ZN.html · Markdown: https://data.orchid-project.org/systems/PD-ZN.md
 
-77 accepted literature values from 2 paper(s) (experimental 41, model 6, DFT 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+70 accepted literature values from 2 paper(s) (experimental 38, model 6, DFT 26); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PD-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
+| experimental | 38 |
 | model | 6 |
-| DFT | 30 |
+| DFT | 26 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 11 |
 | phase transition | 10 |
 | phase equilibrium | 4 |
-| formation | 15 |
+| formation | 8 |
 | crystal structure | 29 |
 | other property | 8 |
 
@@ -93,25 +93,18 @@ Table: Invariant reactions reported in the literature for the Pd–Zn system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Zn system (15)
+Table: Enthalpies of formation, Pd–Zn system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| β1 |  | -73.9 kJ/mol-atom ± 10 | 1273 | experimental |  |  | [1] Gong 2022; _cites superimposed_ | Table 5, p. 31, row 6 |  |
-| β1 |  | -69.2 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 5 |  |
-| β1 |  | -66.6 kJ/mol-atom | 1273 | experimental |  |  | [1] Gong 2022; _cites ref. 20_ | Table 5, p. 31, row 7 |  |
 | β1 |  | -66.5 kJ/mol-atom | 1273.15 | experimental |  |  | [1] Gong 2022; _cites ref. 20_ | p. 5 | “They also reported the enthalpies of formation of β1 as -66.5 kJ/molatom at 1000°C.” |
-| β1 |  | -53.7 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 4 |  |
 | β1 phase |  | -73.9 kJ/mol-atom ± 10 | 1273 | experimental |  |  | [1] Gong 2022; _cites superimposed_ | Table 5, p. 31, row 6 |  |
 | β1 phase |  | -69.2 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 5 |  |
 | β1 phase |  | -66.6 kJ/mol-atom | 1273 | experimental |  |  | [1] Gong 2022; _cites ref. 20_ | Table 5, p. 31, row 7 |  |
 | β1 phase |  | -53.7 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 4 |  |
-| γ |  | -35.1 kJ/mol-atom | 300 | experimental |  |  | [1] Gong 2022; _cites ref. 10_ | Table 5, p. 31, row 3 |  |
-| γ |  | -33.7 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 2 |  |
 | γ |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 1 |  |
 | γ phase |  | -35.1 kJ/mol-atom | 300 | experimental |  |  | [1] Gong 2022; _cites ref. 10_ | Table 5, p. 31, row 3 |  |
 | γ phase |  | -33.7 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 2 |  |
-| γ phase |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [1] Gong 2022 | Table 5, p. 31, row 1 |  |
 
 ## Other properties
 

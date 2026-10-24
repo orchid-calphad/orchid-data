@@ -96,9 +96,9 @@ Table: Enthalpies of formation, Cr–Ga system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -14500 unspecified ± 1000 | 918.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “We retained the value: -14500 ± 1000 J/mol at 645 ◦ C referred to solid chromium and gallium.” |
-| — |  | -7250 unspecified ± 400 | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “F H( 41 ␤-Cr3 Ga) = -7250 ± 400 J/mol at 1150 ◦ C referred to solid chromium and gallium.” |
-| — |  | -3300 unspecified | 850.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 5 | “mined the enthalpy of formation of this compound at 577 ◦ C by EMF measurement of solid electrolyte pile and give f H( 41 ␣Cr3 Ga) = -3300 J/mol referred to solid chromium and gallium.” |
+| — |  | -14.5 kJ/mol-atom ± 1000 | 918.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “We retained the value: -14500 ± 1000 J/mol at 645 ◦ C referred to solid chromium and gallium.” |
+| — |  | -7.25 kJ/mol-atom ± 400 | 1423.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 3 | “F H( 41 ␤-Cr3 Ga) = -7250 ± 400 J/mol at 1150 ◦ C referred to solid chromium and gallium.” |
+| — |  | -3.3 kJ/mol-atom | 850.15 | experimental |  |  | [1] Belgacem-Bouzida 2005 | p. 5 | “mined the enthalpy of formation of this compound at 577 ◦ C by EMF measurement of solid electrolyte pile and give f H( 41 ␣Cr3 Ga) = -3300 J/mol referred to solid chromium and gallium.” |
 | Cr3Ga (α) |  | -12 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
 | Cr3Ga (α) |  | -9.75 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
 | Cr3Ga (α) |  | -8.24 kJ/mol (basis unstated) |  | model |  |  | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |

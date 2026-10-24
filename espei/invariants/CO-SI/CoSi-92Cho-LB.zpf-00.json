@@ -9,7 +9,6 @@
   "CO3SI_D019",
   "COSI2_C1",
   "COSI_B20",
-  "DIAMOND_A4",
   "FCC_A1",
   "HCP_A3",
   "LIQUID"
@@ -17,7 +16,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1532.15,
    1583.15,
    1559.15,
    1487.15,
@@ -28,35 +26,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.775
-    ]
-   ],
-   [
-    "COSI2_C1",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -240,18 +209,12 @@
   "orchid",
   "calphad_certified"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6DWHMR366U ORC-EECAT2Y6SC ORC-WBRKB7ZNW3 ORC-26UH4G5SW7 ORC-WRXGLUWYOE ORC-MXIUQM5CTU ORC-LVZ4Q5SX2X",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EECAT2Y6SC ORC-WBRKB7ZNW3 ORC-26UH4G5SW7 ORC-WRXGLUWYOE ORC-MXIUQM5CTU ORC-LVZ4Q5SX2X",
  "bibtex": "soondon1992_020931",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-6DWHMR366U",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/0364-5916(92)90003-g",
-    "measured_in": "doi:10.1016/0364-5916(92)90003-g"
-   },
    {
     "id": "ORC-EECAT2Y6SC",
     "reader_agreement": "multi_reader",
@@ -295,15 +258,12 @@
   "dois": [
    "10.1016/0364-5916(92)90003-g"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CoSi-92Cho-LB/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/CoSi-92Cho-LB/zpf-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -339,13 +299,8 @@
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": true,
-  "n_certified": 7,
+  "n_certified": 6,
   "values": [
-   {
-    "id": "ORC-6DWHMR366U",
-    "espei_certified": true,
-    "calphad_check": "agrees"
-   },
    {
     "id": "ORC-EECAT2Y6SC",
     "espei_certified": true,

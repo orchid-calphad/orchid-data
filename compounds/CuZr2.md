@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CuZr2.html · Markdown: https://data.orchid-project.org/compounds/CuZr2.md
 
-14 accepted literature formation-enthalpy value(s) (experimental 7, model 4, DFT 2, unspecified 1); experimental median -17.3 kJ/mol-atom (n = 7); Materials Project -12.941 kJ/mol-atom (mp-aaaaaahl); OQMD -13.274 kJ/mol-atom (oqmd-1895393).
+14 accepted literature formation-enthalpy value(s) (experimental 8, model 4, DFT 2); experimental median -16.95 kJ/mol-atom (n = 8); Materials Project -12.941 kJ/mol-atom (mp-aaaaaahl); OQMD -13.274 kJ/mol-atom (oqmd-1895393).
 
 Systems: [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html)
 
@@ -16,9 +16,10 @@ Table: Enthalpy of formation of CuZr2 reported in the literature (14)
 |---:|---|---:|---|---|---|---|---|---|
 | -19.797 kJ/mol-atom ± 0.357 | CuZr2 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 23 |  |
 | -17.3 kJ/mol-atom | CuZr2-C11b | 0 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 22 |  |
-| -17.3 kJ/mol-atom ± 0.84 | CuZr2 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 44_ | Table 3, p. 10, row 21 |  |
+| -17.3 kJ/mol-atom | CuZr2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 44_ | Table 3, p. 10, row 21 |  |
 | -17.3 kJ/mol-atom | CuZr2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites 1 1982_ | Table 1, p. 1, row 23 |  |
-| -10.95 kJ/mol-atom ± 0.69 | CuZr2 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 22 |  |
+| -16.6 kJ/mol-atom | CuZr2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 24 |  |
+| -10.95 kJ/mol-atom | CuZr2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 22 |  |
 | -10.95 kJ/mol-atom | CuZr2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 22 |  |
 | -10.95 kJ/mol-atom | CuZr2-C11b | 0 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 23 |  |
 | -23.635 kJ/mol-atom | CuZr2 | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 25 |  |
@@ -27,7 +28,6 @@ Table: Enthalpy of formation of CuZr2 reported in the literature (14)
 | -12.7269 kJ/mol-atom | CuZr2 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 20 |  |
 | -14.52 kJ/mol-atom | CuZr2-C11b | 0 | DFT | USPP-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 21 |  |
 | -13.84 kJ/mol-atom | CuZr2-C11b | 0 | DFT | PAW-GGA | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zhou 2010 | Table 2, p. 3, row 20 |  |
-| -16.6 kJ/mol-atom | CuZr2 | 1123 | unspecified |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 24 |  |
 
 ## DFT formation energies
 
@@ -35,10 +35,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of CuZr2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaaahl | -12.941 | -0.134122 | I4/mmm | 0 | no |
-| OQMD | oqmd-1895393 | -13.274 | -0.137572 | P4mm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaaahl | -12.941 | -0.134122 | I4/mmm | 0 | 0 | no |
+| OQMD | oqmd-1895393 | -13.274 | -0.137572 | P4mm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

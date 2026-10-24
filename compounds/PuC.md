@@ -1,21 +1,20 @@
 # PuC: enthalpy of formation
 
-> Enthalpy of formation of PuC: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of PuC: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PuC.html · Markdown: https://data.orchid-project.org/compounds/PuC.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [C–Pu](https://data.orchid-project.org/systems/C-PU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PuC reported in the literature (2)
+Table: Enthalpy of formation of PuC reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -53.67 kJ/mol (basis unstated) | C1Pu | 298.15 | model |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
-| -53.67 kJ/mol (basis unstated) | C₁Pu | 298.15 | model |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008 | Table 1, p. 3, row 15 |  |
 
 ## Sources
 

@@ -20,14 +20,11 @@
    1073.15,
    1073.15,
    1073.15,
-   1073.15,
    1173.15,
    1173.15,
    1173.15,
    1173.15,
    1173.15,
-   1173.15,
-   1273.15,
    1273.15,
    1273.15,
    1273.15,
@@ -105,35 +102,6 @@
     ],
     [
      0.58715
-    ]
-   ]
-  ],
-  [
-   [
-    "COZR_B2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR2_C16",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.58125
     ]
    ]
   ],
@@ -223,35 +191,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "COZR_B2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR2_C16",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.57875
     ]
    ]
   ],
@@ -370,35 +309,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "COZR_B2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR2_C16",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.5797
     ]
    ]
   ],
@@ -917,7 +827,7 @@
   "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-A6ZVGS6MXT ORC-WOWZ2WCPAK ORC-ZSPRPRYPOM ORC-SVGDQRSUUQ ORC-AL2G3GTKBQ ORC-CAMMQ6SIHD ORC-MX63Z6VWTY ORC-HJIV6UQ4NX ORC-ZZUPDYJR7K ORC-PUAMUBXOHR ORC-UUJLG2SQIA ORC-7QDGFNV52J ORC-4C5YRA7SRV ORC-QD2TACZSP2 ORC-UVMC6J4NLF ORC-MBK6DSBSJR ORC-TL2YDDUHDI ORC-MSEZMR75YU ORC-7PBN52LGZN ORC-VMVEGYZXRV ORC-YA6GBMEKDT ORC-Y3NA54NUYH ORC-RKEYQM5WUF ORC-RM65VODUJY ORC-VIFZ5GFBYO ORC-ILUXMFXXRZ ORC-YLF2VFJ6X4 ORC-QTFA2F3WVS ORC-AJUPC2KRLX ORC-2XHR2GVU6Z ORC-HH2AEOQARO ORC-VCCAHLHJ35 ORC-J5HFDCISLH ORC-YSGEJDWACT ORC-7EVMCWAXZO ORC-X54N3N2E4W ORC-6C3ABCZ66P ORC-IUB43GFUIW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-A6ZVGS6MXT ORC-WOWZ2WCPAK ORC-SVGDQRSUUQ ORC-AL2G3GTKBQ ORC-CAMMQ6SIHD ORC-MX63Z6VWTY ORC-ZZUPDYJR7K ORC-PUAMUBXOHR ORC-UUJLG2SQIA ORC-7QDGFNV52J ORC-4C5YRA7SRV ORC-UVMC6J4NLF ORC-MBK6DSBSJR ORC-TL2YDDUHDI ORC-MSEZMR75YU ORC-7PBN52LGZN ORC-VMVEGYZXRV ORC-YA6GBMEKDT ORC-Y3NA54NUYH ORC-RKEYQM5WUF ORC-RM65VODUJY ORC-VIFZ5GFBYO ORC-ILUXMFXXRZ ORC-YLF2VFJ6X4 ORC-QTFA2F3WVS ORC-AJUPC2KRLX ORC-2XHR2GVU6Z ORC-HH2AEOQARO ORC-VCCAHLHJ35 ORC-J5HFDCISLH ORC-YSGEJDWACT ORC-7EVMCWAXZO ORC-X54N3N2E4W ORC-6C3ABCZ66P ORC-IUB43GFUIW",
  "bibtex": "liu2009_077ad7",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -933,13 +843,15 @@
     "id": "ORC-WOWZ2WCPAK",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
-   },
-   {
-    "id": "ORC-ZSPRPRYPOM",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
+    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+    "also_reported_as": [
+     {
+      "id": "ORC-ZSPRPRYPOM",
+      "paper": "doi:10.1016/j.jallcom.2009.04.032",
+      "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+      "dataset": "experimental/CO-ZR/CoZr-09Liu.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-SVGDQRSUUQ",
@@ -957,16 +869,18 @@
     "id": "ORC-CAMMQ6SIHD",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
+    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+    "also_reported_as": [
+     {
+      "id": "ORC-HJIV6UQ4NX",
+      "paper": "doi:10.1016/j.jallcom.2009.04.032",
+      "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+      "dataset": "experimental/CO-ZR/CoZr-09Liu.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-MX63Z6VWTY",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
-   },
-   {
-    "id": "ORC-HJIV6UQ4NX",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.04.032",
     "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
@@ -993,16 +907,18 @@
     "id": "ORC-7QDGFNV52J",
     "reader_agreement": "single_reader_text_layer",
     "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
+    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+    "also_reported_as": [
+     {
+      "id": "ORC-QD2TACZSP2",
+      "paper": "doi:10.1016/j.jallcom.2009.04.032",
+      "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
+      "dataset": "experimental/CO-ZR/CoZr-09Liu.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-4C5YRA7SRV",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2009.04.032",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
-   },
-   {
-    "id": "ORC-QD2TACZSP2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2009.04.032",
     "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
@@ -1158,23 +1074,13 @@
   "dois": [
    "10.1016/j.jallcom.2009.04.032"
   ],
-  "source_dataset": "db-v2.1/general/espei/CoZr-09Liu/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/CoZr-09Liu/zpf-00.json",
+  "e3_merged": 3,
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -1339,11 +1245,6 @@
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-ZSPRPRYPOM",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
     "id": "ORC-SVGDQRSUUQ",
     "espei_certified": false,
     "calphad_check": "not_available"
@@ -1360,11 +1261,6 @@
    },
    {
     "id": "ORC-MX63Z6VWTY",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-HJIV6UQ4NX",
     "espei_certified": false,
     "calphad_check": "not_available"
    },
@@ -1390,11 +1286,6 @@
    },
    {
     "id": "ORC-4C5YRA7SRV",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-QD2TACZSP2",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

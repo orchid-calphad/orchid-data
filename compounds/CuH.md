@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CuH reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 12.08 kJ/mol-atom | CuH bcc | 298 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
+| 12.08 kJ/mol-atom | CuH bcc | 298.15 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
 
 ## Sources
 

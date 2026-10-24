@@ -14,8 +14,8 @@ Table: Enthalpy of formation of GeHf3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.4 kJ/mol-atom ± 8.2 | Hf3Ge | 298 | experimental |  | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 1 |  |
-| -56.392 kJ/mol-atom | Hf3Ge | 298 | model | modeling | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014 | Table 2, p. 3, row 3 |  |
+| -28.4 kJ/mol-atom ± 8.2 | Hf3Ge | 298.15 | experimental |  | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 1 |  |
+| -56.392 kJ/mol-atom | Hf3Ge | 298.15 | model | modeling | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014 | Table 2, p. 3, row 3 |  |
 | -45.435 kJ/mol-atom | Hf3Ge | 0 | DFT | FP | [Ge–Hf](https://data.orchid-project.org/systems/GE-HF.html) | [1] Tang 2014 | Table 2, p. 3, row 2 |  |
 
 ## DFT formation energies
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of GeHf3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacqlam | -45.349 | -0.470011 | P4_2/n | 2.168 | no |
-| OQMD | oqmd-2052547 | -45.623 | -0.472855 | P42/n | 1.782 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacqlam | -45.349 | -0.470011 | P4_2/n | 2.168 | 0.0225 | no |
+| OQMD | oqmd-2052547 | -45.623 | -0.472855 | P42/n | 1.782 | 0.0185 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

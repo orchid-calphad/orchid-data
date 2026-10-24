@@ -75,11 +75,11 @@ Table: Enthalpies of formation, Au–Ce–Sn system (56)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -71.46 kJ/mol-atom | 0 | model | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013 | Table 4, p. 4, row 10 |  |
 | Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -70 kJ/mol-atom | 289 | model | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013 | Table 4, p. 4, row 12 |  |
-| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -57.5 kJ/mol-atom ± 4.7 | 298 | experimental | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 11 |  |
+| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -57.5 kJ/mol-atom ± 4.7 | 298.15 | experimental | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 11 |  |
 | Au4Ce3 | [Au4Ce3](https://data.orchid-project.org/compounds/Au4Ce3.html) | -74.32 kJ/mol-atom | 0 | model |  | -75.24 (oqmd-1484238) | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
 | Au4Ce3 | [Au4Ce3](https://data.orchid-project.org/compounds/Au4Ce3.html) | -73.82 kJ/mol-atom | 289 | model |  | -75.24 (oqmd-1484238) | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
 | Au51Ce14 |  | -57.71 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 14 |  |
-| Au51Ce14 |  | -49.5 kJ/mol-atom ± 2.2 | 298 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 13 |  |
+| Au51Ce14 |  | -49.5 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 13 |  |
 | Au6Ce | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -41.59 kJ/mol-atom | 289 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [1] Dong 2013 | Table 4, p. 4, row 16 |  |
 | Au6Ce | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -39.76 kJ/mol-atom | 0 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [1] Dong 2013 | Table 4, p. 4, row 15 |  |
 | AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -59.39 kJ/mol-atom | 289 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
@@ -107,10 +107,10 @@ Table: Enthalpies of formation, Au–Ce–Sn system (56)
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -58 kJ/mol-atom | 300 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 44 |  |
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -57.62 kJ/mol-atom | 289 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 45 |  |
 | CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -51.64 kJ/mol-atom | 0 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 41 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -49.1 kJ/mol-atom | 298 | experimental | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 4, p. 4, row 43 |  |
+| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -49.1 kJ/mol-atom | 298.15 | experimental | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 4, p. 4, row 43 |  |
 | αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 289 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 7 |  |
 | αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.36 kJ/mol-atom | 0 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 5 |  |
-| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 6 |  |
+| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298.15 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013; _cites Fitzner 1834_ | Table 4, p. 4, row 6 |  |
 | αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -75.3 kJ/mol-atom ± 4.2 | 300 | experimental | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
 | αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -75 kJ/mol-atom | 300 | model | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
 | αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -73.22 kJ/mol-atom ± 4.2 | 300 | experimental | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |

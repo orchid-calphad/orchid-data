@@ -1,10 +1,10 @@
 # Pb–Pd system
 
-> Pb–Pd system: 89 accepted literature values (invariant reaction 46, formation 28, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Pd system: 81 accepted literature values (invariant reaction 46, formation 20, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-PD.html · Markdown: https://data.orchid-project.org/systems/PB-PD.md
 
-89 accepted literature values from 2 paper(s) (experimental 41, model 39, unspecified 9); 2 calculated phase diagram(s).
+81 accepted literature values from 2 paper(s) (experimental 41, model 35, unspecified 5); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-PD.json) · [CSV](https://data.orchid-project.org/systems/PB-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-PD/PbPd-99Gho-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PB-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-PD.html) · [Markdown](https://data.orchid-project.org/systems/PB-PD.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 41 |
-| model | 39 |
-| unspecified | 9 |
+| model | 35 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 46 |
 | phase transition | 15 |
-| formation | 28 |
+| formation | 20 |
 
 ## Calculated phase diagrams
 
@@ -130,7 +130,7 @@ Table: Invariant reactions reported in the literature for the Pb–Pd system (46
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pb–Pd system (28)
+Table: Enthalpies of formation, Pb–Pd system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -146,20 +146,12 @@ Table: Enthalpies of formation, Pb–Pd system (28)
 | PdPb | [PbPd](https://data.orchid-project.org/compounds/PbPd.html) | -46 kJ/mol-atom | 298.15 | model | -25.205 (mp-aaacqwgt) | -24.877 (oqmd-1371741) | [1] Ghosh 1999; _cites F 1999_ | Table 2, p. 5, row 4 |  |
 | PdPb | [PbPd](https://data.orchid-project.org/compounds/PbPd.html) | -36.342 kJ/mol-atom | 298.15 | unspecified | -25.205 (mp-aaacqwgt) | -24.877 (oqmd-1371741) | [2] Ghosh 1999 | Table II, p. 5, row 3 |  |
 | PdPb | [PbPd](https://data.orchid-project.org/compounds/PbPd.html) | -35.326 kJ/mol-atom | 298.15 | model | -25.205 (mp-aaacqwgt) | -24.877 (oqmd-1371741) | [1] Ghosh 1999 | Table 2, p. 5, row 3 |  |
-| PdPb2 | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -34 kJ/mol-atom | 298.15 | model | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 2 |  |
 | PdPb2 | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -34 kJ/mol-atom | 298.15 | model | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [1] Ghosh 1999; _cites F 1999_ | Table 2, p. 5, row 2 |  |
-| PdPb2 | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -27.606 kJ/mol-atom | 298.15 | unspecified | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [2] Ghosh 1999 | Table II, p. 5, row 1 |  |
 | PdPb2 | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -24.836 kJ/mol-atom | 298.15 | model | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [1] Ghosh 1999 | Table 2, p. 5, row 1 |  |
 | PdPb₂ | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -34 kJ/mol-atom | 298.15 | model | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 2 |  |
 | PdPb₂ | [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.html) | -27.606 kJ/mol-atom | 298.15 | unspecified | -19.777 (mp-aaaabemh) | -19.994 (oqmd-17910) | [2] Ghosh 1999 | Table II, p. 5, row 1 |  |
-| Pd₁₃Pb₉ | [Pb9Pd13](https://data.orchid-project.org/compounds/Pb9Pd13.html) | -47 kJ/mol-atom | 298.15 | model | -24.677 (mp-aaaabtpq) | -24.524 (oqmd-2053086) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 6 |  |
-| Pd₁₃Pb₉ | [Pb9Pd13](https://data.orchid-project.org/compounds/Pb9Pd13.html) | -40.957 kJ/mol-atom | 298.15 | unspecified | -24.677 (mp-aaaabtpq) | -24.524 (oqmd-2053086) | [2] Ghosh 1999 | Table II, p. 5, row 5 |  |
-| Pd₃Pb | [PbPd3](https://data.orchid-project.org/compounds/PbPd3.html) | -36.414 kJ/mol-atom | 298.15 | unspecified | -28.939 (mp-aaaabevx) | -28.912 (oqmd-7834) | [2] Ghosh 1999 | Table II, p. 5, row 9 |  |
-| Pd₃Pb | [PbPd3](https://data.orchid-project.org/compounds/PbPd3.html) | -36 kJ/mol-atom | 298.15 | model | -28.939 (mp-aaaabevx) | -28.912 (oqmd-7834) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 10 |  |
-| α-Pd5Pb3 | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -46 kJ/mol-atom | 298.15 | model | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 8 |  |
 | α-Pd5Pb3 | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -40.273 kJ/mol-atom | 298.15 | unspecified | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [2] Ghosh 1999 | Table II, p. 5, row 7 |  |
 | α-Pd₅Pb₃ | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -46 kJ/mol-atom | 298.15 | model | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [2] Ghosh 1999; _cites F 1988_ | Table II, p. 5, row 8 |  |
-| α-Pd₅Pb₃ | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -40.273 kJ/mol-atom | 298.15 | unspecified | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [2] Ghosh 1999 | Table II, p. 5, row 7 |  |
 | αPd5Pb3 | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -46 kJ/mol-atom | 298.15 | model | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [1] Ghosh 1999; _cites F 1999_ | Table 2, p. 5, row 8 |  |
 | αPd5Pb3 | [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.html) | -39.445 kJ/mol-atom | 298.15 | model | -25.801 (mp-aaacpqjv) | -25.789 (oqmd-2028305) | [1] Ghosh 1999 | Table 2, p. 5, row 7 |  |
 

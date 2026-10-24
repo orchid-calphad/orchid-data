@@ -1,10 +1,10 @@
 # O–Pb system
 
-> O–Pb system: 223 accepted literature values (activity / EMF / Gibbs energy 64, invariant reaction 46, formation 40, phase transition 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pb system: 217 accepted literature values (activity / EMF / Gibbs energy 64, invariant reaction 46, phase transition 39, formation 35) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://data.orchid-project.org/systems/O-PB.md
 
-223 accepted literature values from 1 paper(s) (experimental 158, model 41, unspecified 24); 0 calculated phase diagram(s).
+217 accepted literature values from 1 paper(s) (experimental 155, model 40, unspecified 22); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 158 |
-| model | 41 |
-| unspecified | 24 |
+| experimental | 155 |
+| model | 40 |
+| unspecified | 22 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 46 |
 | phase transition | 39 |
-| formation | 40 |
-| heat capacity / entropy / enthalpy | 34 |
+| formation | 35 |
+| heat capacity / entropy / enthalpy | 33 |
 | activity / EMF / Gibbs energy | 64 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PB.json)
@@ -85,13 +85,12 @@ Table: Invariant reactions reported in the literature for the O–Pb system (46)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–Pb system (19)
+Table: Enthalpies of formation, O–Pb system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -718.7 unspecified ± 6.3 | 298 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 10 | “The enthalpy of formation at 298 K has been determined by \[70Esp\] as -718.7 \_+6.3 kJ/mol.” |
-| — |  | -274.5 unspecified ± 3 | 298 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 12 | “The enthalpy of formation at 298 K was determined by \[70Esp\] as -274.5 + 3 kJ/mol.” |
-| — |  | 1648 unspecified ± 300 | 298 | experimental |  |  | [1] Risold 1998; _cites Knacke 1964_ | p. 3 | “The difference in the enthalpies of formation of PbO-L and PbO-M at 298 K has been measured as 1648 \_+300 J/mol by \[64Kna\] using solution calorimetry.” |
+| — |  | -718.7 unspecified ± 6.3 | 298.15 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 10 | “The enthalpy of formation at 298 K has been determined by \[70Esp\] as -718.7 \_+6.3 kJ/mol.” |
+| — |  | -274.5 unspecified ± 3 | 298.15 | experimental |  |  | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | p. 12 | “The enthalpy of formation at 298 K was determined by \[70Esp\] as -274.5 + 3 kJ/mol.” |
 | Pb12O17 |  | -104.58 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
 | Pb12O19 |  | -100.368 kJ/mol-atom | 298.15 | model |  |  | [1] Risold 1998 | Table 1, p. 1, row 18 |  |
 | Pb3O4-T | [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.html) | -104.839 kJ/mol-atom | 298.15 | model | -139.612 (mp-aaaabhmn) | -123.983 (oqmd-669607) | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
@@ -102,9 +101,6 @@ Table: Enthalpies of formation, O–Pb system (19)
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | experimental | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 6 |  |
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -109.031 kJ/mol-atom | 298.15 | unspecified | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 | PbO-M | [PbO](https://data.orchid-project.org/compounds/PbO.html) | -108.721 kJ/mol-atom | 298.15 | model | -141.744 (mp-aaabmglh) | -128.56 (oqmd-2074732) | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
-| PbO2-I | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -93.9067 kJ/mol-atom | 298.15 | model | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
-| PbO2-I | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -91.504 kJ/mol-atom | 298.15 | experimental | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 20 |  |
-| PbO2-I | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -91.49 kJ/mol-atom | 298.15 | unspecified | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
 | PbO2-I. | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -93.9067 kJ/mol-atom | 298.15 | model | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
 | PbO2-I. | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -91.504 kJ/mol-atom | 298.15 | experimental | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998; _cites Espada 1970_ [doi](https://doi.org/10.1016/0021-9614%2870%2990039-x) | Table 1, p. 1, row 20 |  |
 | PbO2-I. | [PbO2](https://data.orchid-project.org/compounds/PbO2.html) | -91.49 kJ/mol-atom | 298.15 | unspecified | -125.396 (mp-aaaaberd) | -107.539 (oqmd-4264) | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
@@ -157,13 +153,13 @@ Table: Phase transition, O–Pb system
 | Phase transition | 1170 K | 1170 | congruent transformation: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12 |  |
 | Phase transition | 1808 K | 1808 | other | experimental | [1] Risold 1998 | p. 13 | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
 
-### Formation (21)
+### Formation (20)
 
 Table: Formation, O–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔS (transformation)_ | 2.39 J/mol (basis unstated)/K | 298 | PbO; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 3, p. 3, row 3 |  |
+| Entropy of formation; _printed: ΔS (transformation)_ | 2.39 J/mol (basis unstated)/K | 298.15 | PbO; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 3, p. 3, row 3 |  |
 | Entropy of formation; _printed: ΔS (transformation)_ | 1.35 J/mol (basis unstated)/K | 762 | PbO; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 3, p. 3, row 4 |  |
 | Entropy of formation; _printed: ΔS (transformation)_ | 0.79 J/mol (basis unstated)/K | 816 | PbO; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites White 1961_ | Table 3, p. 3, row 5 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -86.5045 kJ/mol-atom | 298.15 | Pb12O17; _alloy: Pb 0.413793_ | model | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
@@ -180,12 +176,11 @@ Table: Formation, O–Pb system
 | Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.3555 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 9 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.018 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.3235 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG298 (a)_ | -72.983 kJ/mol-atom | 298.15 | PbO2-I; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -74.2247 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | model | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -72.983 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -71.799 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
 
-### Heat capacity / entropy / enthalpy (34)
+### Heat capacity / entropy / enthalpy (33)
 
 Table: Heat capacity / entropy / enthalpy, O–Pb system
 
@@ -204,9 +199,8 @@ Table: Heat capacity / entropy / enthalpy, O–Pb system
 | Entropy; _printed: ΔS_ | 24.3 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 6, p. 5, row 11 |  |
 | Entropy; _printed: ΔS_ | 24 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 6, p. 5, row 7 |  |
 | Entropy; _printed: ΔS_ | 22.9 J/mol·K |  | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 6, p. 5, row 16 |  |
-| Entropy; _printed: S_ | 76.4 J/mol 9K | 298 |  | experimental | [1] Risold 1998; _cites ref. 29Mil_ | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
-| Entropy; _printed: S_ | 71.8 J/mol. K | 298 |  | experimental | [1] Risold 1998; _cites Duisman 1968_ [doi](https://doi.org/10.1021/j100848a030) | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
-| Entropy; _printed: ΔS_ | 2.39 J/mol · K | 298 | UNKNOWN | model | [1] Risold 1998 | Table 3, p. 3, row 3 |  |
+| Entropy; _printed: S_ | 76.4 J/mol 9K | 298.15 |  | experimental | [1] Risold 1998; _cites ref. 29Mil_ | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
+| Entropy; _printed: S_ | 71.8 J/mol. K | 298.15 |  | experimental | [1] Risold 1998; _cites Duisman 1968_ [doi](https://doi.org/10.1021/j100848a030) | p. 12 | “The data of \[29Mil\] led to the value of 76.4 J/mol 9K for the entropy at 298 K, whereas \[68Dui\] obtained the value 71.8 J/mol. K.” |
 | Entropy; _printed: S298_ | 27.2759 J/mol-atom/K | 298.15 | Pb12O17; _alloy: Pb 0.413793_ | model | [1] Risold 1998 | Table 1, p. 1, row 17 |  |
 | Entropy; _printed: S298_ | 27.6129 J/mol-atom/K | 298.15 | Pb12O19; _alloy: Pb 0.387097_ | model | [1] Risold 1998 | Table 1, p. 1, row 18 |  |
 | Entropy; _printed: S298_ | 29.5714 J/mol-atom/K | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | model | [1] Risold 1998 | Table 1, p. 1, row 14 |  |
@@ -218,11 +212,11 @@ Table: Heat capacity / entropy / enthalpy, O–Pb system
 | Entropy; _printed: S298_ | 33.7 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites King 1958_ [doi](https://doi.org/10.1021/ja01543a014) | Table 1, p. 1, row 10 |  |
 | Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | Entropy; _printed: S298_ | 34.35 J/mol-atom/K | 298.15 | PbO-M; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
-| Entropy; _printed: S298_ | 23.9333 J/mol-atom/K | 298.15 | PbO2-I; _alloy: Pb 0.333333_ | experimental | [1] Risold 1998; _cites Duisman 1968_ [doi](https://doi.org/10.1021/j100848a030) | Table 1, p. 1, row 24 |  |
 | Entropy; _printed: S298_ | 23.9333 J/mol-atom/K | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | model | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
 | Entropy; _printed: S298_ | 23.9333 J/mol-atom/K | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | experimental | [1] Risold 1998; _cites Duisman 1968_ [doi](https://doi.org/10.1021/j100848a030) | Table 1, p. 1, row 24 |  |
 | Entropy; _printed: S298_ | 25.4667 J/mol-atom/K | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 | Entropy; _printed: S298_ | 23.9333 J/mol-atom/K | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 21 |  |
+| Entropy; _printed: ΔS_ | 2.39 J/mol · K | 298.15 | UNKNOWN | model | [1] Risold 1998 | Table 3, p. 3, row 3 |  |
 | Entropy; _printed: ΔS_ | 1.35 J/mol · K | 762 | UNKNOWN | model | [1] Risold 1998 | Table 3, p. 3, row 4 |  |
 | Entropy; _printed: ΔS_ | 0.79 J/mol · K | 816 | UNKNOWN | experimental | [1] Risold 1998; _cites White 1961_ | Table 3, p. 3, row 5 |  |
 

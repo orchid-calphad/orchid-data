@@ -31,7 +31,7 @@ Table: Enthalpy of formation of Al4Ca reported in the literature (22)
 | -21 kJ/mol-atom | Al4Ca | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 10 |  |
 | -21 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 6 |  |
 | -19.248 kJ/mol-atom | Al4Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 5 |  |
-| -17.27 kJ/mol-atom | Al4Ca | 298 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005 | Table V, p. 9, row 11 |  |
+| -17.27 kJ/mol-atom | Al4Ca | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [3] ISLAM 2005 | Table V, p. 9, row 11 |  |
 | -21.615 kJ/mol-atom | Al4Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 3 |  |
 | -20.034 kJ/mol-atom | Al4Ca | 0 | DFT | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 7 |  |
 | -19.56 kJ/mol-atom | Al4Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] Ozturk 2005 | Table IV, p. 5, row 1 |  |
@@ -43,10 +43,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al4Ca
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacph | -18.794 | -0.19479 | I4/mmm | 0.468 | no |
-| OQMD | oqmd-2168879 | -18.472 | -0.191446 | C2/m | 0.953 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacph | -18.794 | -0.19479 | I4/mmm | 0.468 | 0.0049 | no |
+| OQMD | oqmd-2168879 | -18.472 | -0.191446 | C2/m | 0.953 | 0.0099 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

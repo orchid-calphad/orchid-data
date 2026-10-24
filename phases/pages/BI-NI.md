@@ -14,11 +14,11 @@ Table: Phases of the Bi–Ni system (7)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-ni-a7-rhombohedral); _phase:bi-ni:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–544.55 K, x(Ni) 0–0 | 34 | 7 |
 | [BCC_A2](#phase-bi-ni-bcc-a2); _phase:bi-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [BI3NI](#phase-bi-ni-bi3ni); _phase:bi-ni:bi3ni_ | Bi3Ni · oP16 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–745.59 K, x(Ni) 0.25–0.25 | 80 | 7 |
-| [BINI_B81](#phase-bi-ni-bini-b81); _phase:bi-ni:bini-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–924.57 K, x(Ni) 0.47901–0.50003 | 75 | 7 |
-| [FCC_A1](#phase-bi-ni-fcc-a1); _phase:bi-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.49 K, x(Ni) 0.97782–1 | 47 | 7 |
+| [BI3NI](#phase-bi-ni-bi3ni); _phase:bi-ni:bi3ni_ | Bi3Ni · oP16 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–745.59 K, x(Ni) 0.25–0.25 | 70 | 7 |
+| [BINI_B81](#phase-bi-ni-bini-b81); _phase:bi-ni:bini-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–924.57 K, x(Ni) 0.47901–0.50003 | 70 | 7 |
+| [FCC_A1](#phase-bi-ni-fcc-a1); _phase:bi-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.49 K, x(Ni) 0.97782–1 | 37 | 7 |
 | [HCP_A3](#phase-bi-ni-hcp-a3); _phase:bi-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [LIQUID](#phase-bi-ni-liquid); _phase:bi-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 542.82–2500 K, x(Ni) 0–1 | 127 | 7 |
+| [LIQUID](#phase-bi-ni-liquid); _phase:bi-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 542.82–2500 K, x(Ni) 0–1 | 117 | 7 |
 
 ## RHOMBOHEDRAL_A7 (Bi–Ni)
 
@@ -26,7 +26,7 @@ Table: Phases of the Bi–Ni system (7)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 7 of 7 calculated diagram(s): 300–544.55 K, x(Ni) 0–0
-- Literature: 34 values (33 accepted) from 5 papers
+- Literature: 34 values (34 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:a7-rhombohedral)
 
 Names (14): _corpus: _corpus:phase:bi-ni:a7-rhombohedral, corpus:phase:bi-ni:rhombohedral-a7  
@@ -196,7 +196,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.7500, Ni 0.2500
 - Stability: stable in 7 of 7 calculated diagram(s): 300–745.59 K, x(Ni) 0.25–0.25
-- Literature: 80 values (78 accepted) from 5 papers
+- Literature: 70 values (70 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:bi3ni)
 
 Names (13): _corpus: _corpus:phase:bi-ni:bi3ni  
@@ -255,13 +255,13 @@ _tdb: _tdb:BiNi-05Vas.tdb:BI3NI, tdb:BiNi-07Seo.tdb:BI3NI, tdb:BiNi-07Vas.tdb:BI
 49: CONST BI3NI : BI : NI : !
 ~~~~
 
-Example references (10 of 16; assessments first): 
+Example references (10 of 14; assessments first): 
 
-- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/crat.200800391](https://doi.org/10.1002/crat.200800391) G. Vassilev, V. Gandova, P. Docheva, Comments and reconciliation of the Ni–Bi‐system thermodynamic reassessments, Cryst. Res. Technol. 44, 25-30 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1003-6326(11)60690-0](https://doi.org/10.1016/S1003-6326%2811%2960690-0) J. Wang, F.G. Meng, L.B. Liu, Z.P. Jin, Trans. Nonferrous Met. Soc. China, 21, 139-45(2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/15477030523030](https://doi.org/10.1361/15477030523030) G.P. Vassilev, X.J. Liu, K. Ishida, Experimental Studies and Thermodynamic Optimization of the Ni-Bi System, Journal of Phase Equilibria &amp; Diffusion 26, 161-168 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -283,7 +283,7 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-ni:bini-b81`; status `assigned`
 - Structure: NiAs · B8_1 · hP4 · P6_3/mmc (194); type `st:b8-1-nias-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–924.57 K, x(Ni) 0.47901–0.50003
-- Literature: 75 values (74 accepted) from 5 papers
+- Literature: 70 values (70 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:bini-b81)
 
 Names (13): _corpus: _corpus:phase:bi-ni:bini-b81  
@@ -342,13 +342,13 @@ _tdb: _tdb:BiNi-05Vas.tdb:BINI_B81, tdb:BiNi-07Seo.tdb:BINI_B81, tdb:BiNi-07Vas.
 54: CONST BINI_B81 : BI : NI VA : NI VA% : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
-- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/crat.200800391](https://doi.org/10.1002/crat.200800391) G. Vassilev, V. Gandova, P. Docheva, Comments and reconciliation of the Ni–Bi‐system thermodynamic reassessments, Cryst. Res. Technol. 44, 25-30 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1003-6326(11)60690-0](https://doi.org/10.1016/S1003-6326%2811%2960690-0) J. Wang, F.G. Meng, L.B. Liu, Z.P. Jin, Trans. Nonferrous Met. Soc. China, 21, 139-45(2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/15477030523030](https://doi.org/10.1361/15477030523030) G.P. Vassilev, X.J. Liu, K. Ishida, Experimental Studies and Thermodynamic Optimization of the Ni-Bi System, Journal of Phase Equilibria &amp; Diffusion 26, 161-168 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -370,11 +370,11 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2499.49 K, x(Ni) 0.97782–1
-- Literature: 47 values (45 accepted) from 5 papers
+- Literature: 37 values (37 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:fcc-a1)
 
-Names (16): _corpus: _corpus:phase:bi-ni:fcc-a1  
-_paper: _paper:10.1002/crat.200800391:(Ni), paper:10.1007/s11664-007-0256-8:fcc, paper:10.1007/s11664-015-4272-9:fcc(Ag), paper:10.1007/s11664-015-4272-9:fcc(Cu), paper:10.1007/s11664-015-4272-9:fcc(Cu,Ni), paper:10.1007/s11664-015-4272-9:fcc(Ni), paper:10.1016/s1003-6326(11)60690-0:fcc(Ni), paper:10.1361/15477030523030:(Ni)  
+Names (13): _corpus: _corpus:phase:bi-ni:fcc-a1  
+_paper: _paper:10.1002/crat.200800391:(Ni), paper:10.1007/s11664-007-0256-8:fcc, paper:10.1007/s11664-015-4272-9:fcc(Ni), paper:10.1016/s1003-6326(11)60690-0:fcc(Ni), paper:10.1361/15477030523030:(Ni)  
 _tdb: _tdb:BiNi-05Vas.tdb:FCC_A1, tdb:BiNi-07Seo.tdb:FCC_A1, tdb:BiNi-07Vas.tdb:FCC_A1, tdb:BiNi-09Vas.tdb:FCC_A1, tdb:BiNi-11Wan.tdb:FCC_A1, tdb:BiNi-16Liu.tdb:FCC_A1, tdb:BiNi-20Gie.tdb:FCC_A1  
 
 
@@ -429,11 +429,11 @@ _tdb: _tdb:BiNi-05Vas.tdb:FCC_A1, tdb:BiNi-07Seo.tdb:FCC_A1, tdb:BiNi-07Vas.tdb:
 29: CONST FCC_A1 : BI NI% : VA : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
-- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/crat.200800391](https://doi.org/10.1002/crat.200800391) G. Vassilev, V. Gandova, P. Docheva, Comments and reconciliation of the Ni–Bi‐system thermodynamic reassessments, Cryst. Res. Technol. 44, 25-30 (2009).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1003-6326(11)60690-0](https://doi.org/10.1016/S1003-6326%2811%2960690-0) J. Wang, F.G. Meng, L.B. Liu, Z.P. Jin, Trans. Nonferrous Met. Soc. China, 21, 139-45(2011).  
 _assessment that models this phase; reports values for this phase_
@@ -445,11 +445,11 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.101499](https://doi.org/10.3139/146.101499) Gueorgui P. Vassilev, Jolanta Romanowska, Grzegorz Wnuk, Bismuth activity measurements and thermodynamic re-optimization of the Ni–Bi System, International Journal of Materials Research 98, 468-475 (2007).  
 _assessment that models this phase_
-- [doi:10.1557/jmr.2009.0302](https://doi.org/10.1557/jmr.2009.0302) Feng Gao, Cuiping Wang, X.J. Liu, Yoshikazu Takaku, I. Ohnuma, Kiyohito Ishida, Experimental investigation and thermodynamic calculation in the Ag–Bi–Ni and Cu–Bi–Ni systems, J. Mater. Res. 24, 2644-2653 (2009).  
-_cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080570103](https://doi.org/10.1002/zaac.19080570103) G. Voss, Die Legierungen: Nickel‐Zinn, Nickel‐Blei, Nickel‐Thallium, Nickel‐Wismut, Nickel‐Chrom, Nickel‐Magnesium, Nickel‐Zink und Nickel‐Cadmium, Z. Anorg. Chem. 57, 34-71 (1908).  
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-005-0134-0](https://doi.org/10.1007/s11669-005-0134-0) G. P. Vassilev, X. J. Liu, K. Ishida, Experimental studies and thermodynamic optimization of the Ni-Bi system, J Phs Eqil and Diff 26, 161-168 (2005).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(88)90027-6](https://doi.org/10.1016/0022-5088%2888%2990027-6) P Feschotte, J.-M Rosset, Equilibres de phases dans le systeme binaire nickel-bismuth, Journal of the Less Common Metals 143, 31-37 (1988).  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (Bi–Ni)
@@ -537,7 +537,7 @@ _assessment that models this phase_
 - Id: `phase:bi-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 542.82–2500 K, x(Ni) 0–1
-- Literature: 127 values (121 accepted) from 5 papers
+- Literature: 117 values (114 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ni:liquid)
 
 Names (15): _corpus: _corpus:phase:bi-ni:liquid  
@@ -596,15 +596,15 @@ _tdb: _tdb:BiNi-05Vas.tdb:LIQUID, tdb:BiNi-07Seo.tdb:LIQUID, tdb:BiNi-07Vas.tdb:
 24: CONST LIQUID:L : BI NI : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (10 of 13; assessments first): 
 
-- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/crat.200800391](https://doi.org/10.1002/crat.200800391) G. Vassilev, V. Gandova, P. Docheva, Comments and reconciliation of the Ni–Bi‐system thermodynamic reassessments, Cryst. Res. Technol. 44, 25-30 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/15477030523030](https://doi.org/10.1361/15477030523030) G.P. Vassilev, X.J. Liu, K. Ishida, Experimental Studies and Thermodynamic Optimization of the Ni-Bi System, Journal of Phase Equilibria &amp; Diffusion 26, 161-168 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1003-6326(11)60690-0](https://doi.org/10.1016/S1003-6326%2811%2960690-0) J. Wang, F.G. Meng, L.B. Liu, Z.P. Jin, Trans. Nonferrous Met. Soc. China, 21, 139-45(2011).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11664-015-4272-9](https://doi.org/10.1007/s11664-015-4272-9) Yuling Liu, Shuhong Liu, Cong Zhang, Xingxu Lu, Chong Chen, Yong Du et al., Thermodynamic Assessment of the Bi–Ni and Bi–Ni–X (X = Ag, Cu) Systems, Journal of Elec Materi 45, 1041-1056 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-007-0256-8](https://doi.org/10.1007/s11664-007-0256-8) Sun-Kyoung Seo, Moon Gi Cho, Hyuck Mo Lee, Thermodynamic Assessment of the Ni-Bi Binary System and Phase Equilibria of the Sn-Bi-Ni Ternary System, Journal of Elec Materi 36, 1536-1544 (2007).  
 _assessment that models this phase; reports values for this phase_

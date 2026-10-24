@@ -51,10 +51,10 @@ Table: Enthalpies of formation, N–Si system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α |  | -744.752 unknown ± 29.3 | 298 | unspecified |  |  | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 5 |  |
-| α |  | -735.68 unknown ± 25.08 | 298 | experimental |  |  | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
-| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -106.393 kJ/mol-atom ± 29.3 | 298 | unspecified | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 5 |  |
-| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -105.097 kJ/mol-atom ± 25.08 | 298 | experimental | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
+| α |  | -744.752 unknown ± 29.3 | 298.15 | unspecified |  |  | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 5 |  |
+| α |  | -735.68 unknown ± 25.08 | 298.15 | experimental |  |  | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
+| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -106.393 kJ/mol-atom ± 29.3 | 298.15 | unspecified | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 5 |  |
+| α-Si3N4 | [Si3N4](https://data.orchid-project.org/compounds/Si3N4.html) | -105.097 kJ/mol-atom ± 25.08 | 298.15 | experimental | -125.391 (mp-aaaaabma) | -117.182 (oqmd-3591) | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 4 |  |
 
 ## Other properties
 
@@ -74,12 +74,12 @@ Table: Heat capacity / entropy / enthalpy, N–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298 K_ | 9.17143 J/mol-atom/K | 298 | Si3N4; _alloy: Si 0.428571_ | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
-| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298 | UNKNOWN | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
-| Entropy; _printed: S298 K_ | 112.967 unknown ± 16.7 | 298 | α | unspecified | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 2 |  |
-| Entropy; _printed: S298 K_ | 107.008 J/mol (basis unstated)/K | 298 | α | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
-| Entropy; _printed: S298 K_ | 16.1381 J/mol-atom/K ± 16.7 | 298 | α-Si3N4; _alloy: Si 0.428571_ | unspecified | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 2 |  |
-| Entropy; _printed: S298 K_ | 15.2869 J/mol-atom/K | 298 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
+| Entropy; _printed: S298 K_ | 9.17143 J/mol-atom/K | 298.15 | Si3N4; _alloy: Si 0.428571_ | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
+| Entropy; _printed: S298 K_ | 64.2 J/mol (basis unstated)/K | 298.15 | UNKNOWN | model | [1] Ma 2003; _cites Koshchenko 1985_ | Table 2, p. 2, row 3 |  |
+| Entropy; _printed: S298 K_ | 112.967 unknown ± 16.7 | 298.15 | α | unspecified | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 2 |  |
+| Entropy; _printed: S298 K_ | 107.008 J/mol (basis unstated)/K | 298.15 | α | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
+| Entropy; _printed: S298 K_ | 16.1381 J/mol-atom/K ± 16.7 | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | unspecified | [1] Ma 2003; _cites Chase_ | Table 2, p. 2, row 2 |  |
+| Entropy; _printed: S298 K_ | 15.2869 J/mol-atom/K | 298.15 | α-Si3N4; _alloy: Si 0.428571_ | experimental | [1] Ma 2003; _cites Pehlke 1959_ | Table 2, p. 2, row 1 |  |
 
 ### Crystal structure (16)
 

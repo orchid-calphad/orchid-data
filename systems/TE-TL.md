@@ -71,25 +71,25 @@ Table: Enthalpies of formation, Te–Tl system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.99 kJ/mol-atom | 298 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 2 |  |
-| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.99 kJ/mol-atom | 298 | experimental | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 1 |  |
-| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.982 kJ/mol-atom | 298 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [2] Gierlotka 2010 | Table IV, p. 5, row 1 |  |
-| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.91 kJ/mol-atom | 298 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993 | Table 3, p. 6, row 3 |  |
-| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.57 kJ/mol-atom | 298 | experimental | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 2 |  |
-| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -27.157 kJ/mol-atom | 298 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010 | Table IV, p. 5, row 5 |  |
-| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -27.06 kJ/mol-atom | 298 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 7 |  |
-| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -19.53 kJ/mol-atom | 298 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 6 |  |
-| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -22.53 kJ/mol-atom | 298 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993 | Table 3, p. 6, row 6 |  |
-| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.92 kJ/mol-atom | 298 | experimental | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 4 |  |
-| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298 | experimental | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 5 |  |
-| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 4 |  |
-| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.44 kJ/mol-atom | 298 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010 | Table IV, p. 5, row 3 |  |
-| γ |  | -27.06 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 10 |  |
-| γ |  | -26.78 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 9 |  |
-| γ |  | -26.17 kJ/mol-atom | 298 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
-| γ |  | -24.13 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 20_ | Table 3, p. 6, row 11 |  |
-| γ |  | -21.62 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 17_ | Table 3, p. 6, row 8 |  |
-| γ |  | -19.53 kJ/mol-atom | 298 | experimental |  |  | [1] Oh 1993; _cites ref. 25_ | Table 3, p. 6, row 7 |  |
+| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.99 kJ/mol-atom | 298.15 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 2 |  |
+| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.99 kJ/mol-atom | 298.15 | experimental | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 1 |  |
+| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.982 kJ/mol-atom | 298.15 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [2] Gierlotka 2010 | Table IV, p. 5, row 1 |  |
+| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.91 kJ/mol-atom | 298.15 | model | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993 | Table 3, p. 6, row 3 |  |
+| Te3Tl2 | [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.html) | -17.57 kJ/mol-atom | 298.15 | experimental | -43.202 (mp-aaaabryt) | -18.351 (oqmd-25268) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 2 |  |
+| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -27.157 kJ/mol-atom | 298.15 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010 | Table IV, p. 5, row 5 |  |
+| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -27.06 kJ/mol-atom | 298.15 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 7 |  |
+| Te3Tl5 | [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.html) | -19.53 kJ/mol-atom | 298.15 | model | -42.288 (mp-aaaaaags) | -26.55 (oqmd-2028809) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 6 |  |
+| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -22.53 kJ/mol-atom | 298.15 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993 | Table 3, p. 6, row 6 |  |
+| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.92 kJ/mol-atom | 298.15 | experimental | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 4 |  |
+| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298.15 | experimental | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 5 |  |
+| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.76 kJ/mol-atom | 298.15 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010; _cites Landolt-Bornstein 2009_ | Table IV, p. 5, row 4 |  |
+| TeTl | [TlTe](https://data.orchid-project.org/compounds/TlTe.html) | -21.44 kJ/mol-atom | 298.15 | model | -45.734 (mp-aaaaadau) | -22.93 (oqmd-647722) | [2] Gierlotka 2010 | Table IV, p. 5, row 3 |  |
+| γ |  | -27.06 kJ/mol-atom | 298.15 | experimental |  |  | [1] Oh 1993; _cites ref. 27_ | Table 3, p. 6, row 10 |  |
+| γ |  | -26.78 kJ/mol-atom | 298.15 | experimental |  |  | [1] Oh 1993; _cites ref. 26_ | Table 3, p. 6, row 9 |  |
+| γ |  | -26.17 kJ/mol-atom | 298.15 | model |  |  | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
+| γ |  | -24.13 kJ/mol-atom | 298.15 | experimental |  |  | [1] Oh 1993; _cites ref. 20_ | Table 3, p. 6, row 11 |  |
+| γ |  | -21.62 kJ/mol-atom | 298.15 | experimental |  |  | [1] Oh 1993; _cites ref. 17_ | Table 3, p. 6, row 8 |  |
+| γ |  | -19.53 kJ/mol-atom | 298.15 | experimental |  |  | [1] Oh 1993; _cites ref. 25_ | Table 3, p. 6, row 7 |  |
 
 ## Other properties
 
@@ -112,7 +112,7 @@ Table: Formation, Te–Tl system
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfusS_ | 12.3 J/mol-atom/K |  | γ | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
 | Entropy of formation; _printed: ΔfusS_ | 10.8 J/mol-atom/K |  | γ | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
-| Entropy of formation; _printed: ΔfusS_ | 12.8 J/mol-atom/K | 298 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
+| Entropy of formation; _printed: ΔfusS_ | 12.8 J/mol-atom/K | 298.15 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 
 ### Other property (3)
 
@@ -122,7 +122,7 @@ Table: Other property, Te–Tl system
 |---|---:|---:|---|---|---|---|---|
 | Transition enthalpy; _printed: ΔfusH_ | 8670 J/g-atom |  | γ | unspecified | [1] Oh 1993; _cites ref. 28_ | Table 3, p. 6, row 14 |  |
 | Transition enthalpy; _printed: ΔfusH_ | 7810 J/g-atom |  | γ | unspecified | [1] Oh 1993; _cites ref. 24_ | Table 3, p. 6, row 13 |  |
-| Transition enthalpy; _printed: ΔfusH_ | 9241 J/g-atom | 298 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
+| Transition enthalpy; _printed: ΔfusH_ | 9241 J/g-atom | 298.15 | γ | model | [1] Oh 1993 | Table 3, p. 6, row 12 |  |
 
 ## Sources
 

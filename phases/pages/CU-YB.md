@@ -20,7 +20,7 @@ Table: Phases of the Cu–Yb system (9)
 | [CUYB_B27](#phase-cu-yb-cuyb-b27); _phase:cu-yb:cuyb-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–905.19 K, x(Yb) 0.5–0.5 | 4 | 1 |
 | [FCC_A1](#phase-cu-yb-fcc-a1); _phase:cu-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1370 K, x(Yb) 0–1 | 4 | 1 |
 | [HCP_A3](#phase-cu-yb-hcp-a3); _phase:cu-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-cu-yb-liquid); _phase:cu-yb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 747.97–2500 K, x(Yb) 0–1 | 15 | 1 |
+| [LIQUID](#phase-cu-yb-liquid); _phase:cu-yb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 747.97–2500 K, x(Yb) 0–1 | 14 | 1 |
 
 ## BCC_A2 (Cu–Yb)
 
@@ -267,7 +267,7 @@ _assessment that models this phase_
 - Id: `phase:cu-yb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 747.97–2500 K, x(Yb) 0–1
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-yb:liquid)
 
 Names (3): _corpus: _corpus:phase:cu-yb:liquid  

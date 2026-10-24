@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlSb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82 kJ/mol (basis unstated) ± 2.51 | AlSb | 298 | experimental | drop calorimetry | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
-| -96.6 kJ/mol (basis unstated) | AlSb | 298 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| -84 kJ/mol (basis unstated) | AlSb | 298 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
-| -81.27 kJ/mol (basis unstated) | AlSb | 298 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| -73.49 kJ/mol (basis unstated) | AlSb | 298 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| -82 kJ/mol (basis unstated) ± 2.51 | AlSb | 298.15 | experimental | drop calorimetry | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
+| -96.6 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
+| -84 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
+| -81.27 kJ/mol (basis unstated) | AlSb | 298.15 | model |  | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
+| -73.49 kJ/mol (basis unstated) | AlSb | 298.15 | model | associated solution model | [Al–Sb](https://data.orchid-project.org/systems/AL-SB.html) | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
 
 ## Sources
 

@@ -95,9 +95,9 @@ Table: Heat capacity / entropy / enthalpy, Cd–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Standard entropy S298_ | 78.2 J/mol (basis unstated)/K | 298 | CdSe; _alloy: Se 0.5_ | model | [1] Liu 2012 | Table V, p. 6, row 3 |  |
-| Entropy; _printed: Standard entropy S298_ | 97.02 J/mol (basis unstated)/K | 298 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table V, p. 6, row 2 |  |
-| Entropy; _printed: Standard entropy S298_ | 78.12 J/mol (basis unstated)/K | 298 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Wosten 1961_ [doi](https://doi.org/10.1021/j100828a008) | Table V, p. 6, row 1 |  |
+| Entropy; _printed: Standard entropy S298_ | 78.2 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | model | [1] Liu 2012 | Table V, p. 6, row 3 |  |
+| Entropy; _printed: Standard entropy S298_ | 97.02 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Goldfinger 1963_ [doi](https://doi.org/10.1039/tf9635902851) | Table V, p. 6, row 2 |  |
+| Entropy; _printed: Standard entropy S298_ | 78.12 J/mol (basis unstated)/K | 298.15 | CdSe; _alloy: Se 0.5_ | experimental | [1] Liu 2012; _cites Wosten 1961_ [doi](https://doi.org/10.1021/j100828a008) | Table V, p. 6, row 1 |  |
 
 ## Sources
 

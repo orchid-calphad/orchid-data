@@ -1,10 +1,10 @@
 # Al–Mn system
 
-> Al–Mn system: 134 accepted literature values (invariant reaction 86, formation 24, phase transition 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mn system: 131 accepted literature values (invariant reaction 86, phase transition 24, formation 21) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MN.html · Markdown: https://data.orchid-project.org/systems/AL-MN.md
 
-134 accepted literature values from 4 paper(s) (experimental 47, model 76, unspecified 11); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+131 accepted literature values from 4 paper(s) (experimental 46, model 74, unspecified 11); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MN.json) · [CSV](https://data.orchid-project.org/systems/AL-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MN/AlMn-07Du.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 47 |
-| model | 76 |
+| experimental | 46 |
+| model | 74 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 86 |
 | phase transition | 24 |
-| formation | 24 |
+| formation | 21 |
 
 ## Calculated phase diagrams
 
@@ -264,7 +264,7 @@ Table: Invariant reactions reported in the literature for the Al–Mn system (86
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Mn system (24)
+Table: Enthalpies of formation, Al–Mn system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -288,9 +288,6 @@ Table: Enthalpies of formation, Al–Mn system (24)
 | Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 8 |  |
 | Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
 | Al8Mn5 | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [3] Jansson 1992; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table II, p. 4, row 9 |  |
-| Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -25.82 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999 | Table 4, p. 12, row 10 |  |
-| Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -23.74 kJ/mol-atom |  | model | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 4, p. 12, row 11 |  |
-| Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -22.01 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 12 |  |
 | Al8Mn5(b) | [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.html) | -20.71 kJ/mol-atom ± 1.05 | 298.15 | experimental | -19.01 (mp-aaacpyiq) | -18.934 (oqmd-2052217) | [2] Liu 1999; _cites Kubaschewski 1960_ [doi](https://doi.org/10.1039/tf9605600473) | Table 4, p. 12, row 13 |  |
 
 ## Other properties

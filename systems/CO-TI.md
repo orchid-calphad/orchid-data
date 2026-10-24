@@ -1,10 +1,10 @@
 # Co–Ti system
 
-> Co–Ti system: 282 accepted literature values (invariant reaction 129, phase transition 82, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ti system: 283 accepted literature values (invariant reaction 130, phase transition 82, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TI.html · Markdown: https://data.orchid-project.org/systems/CO-TI.md
 
-282 accepted literature values from 6 paper(s) (experimental 146, model 116, unspecified 20); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+283 accepted literature values from 6 paper(s) (experimental 147, model 116, unspecified 20); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TI/CoTi-00Cac.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TI.html) · [Markdown](https://data.orchid-project.org/systems/CO-TI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 146 |
+| experimental | 147 |
 | model | 116 |
 | unspecified | 20 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 129 |
+| invariant reaction | 130 |
 | phase transition | 82 |
 | phase equilibrium | 29 |
 | formation | 24 |
@@ -139,7 +139,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Ti system (129)
+Table: Invariant reactions reported in the literature for the Co–Ti system (130)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -176,6 +176,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (12
 | 1492 | L + CoTi ⇄ C15 | L: Ti 0.298; CoTi: Ti 0.414; C15: Ti 0.325 | model | [3] Turchanin 2024; _cites Cacciamani 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900098-9) | Table 3, p. 9, row 39 |  |
 | 1484 | L + C15 ⇄ C36 | L: Ti 0.281; C15: Ti 0.321; C36: Ti 0.314 | model | [3] Turchanin 2024; _cites Cacciamani 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900098-9) | Table 3, p. 9, row 32 |  |
 | 1484 | Liquid + C15->C36 | Liquid: Ti 0.281; C15: Ti 0.321; C36: Ti 0.314 | model | [5] Cacciamani 2000 | Table 4, p. 7, row 10 |  |
+| 1483.15 | Liquid + A1 -> L12 | L: Co 0.817; A1: Co 0.793; L12: Co 0.855 | experimental | [1] Wu 2020; _cites Petkov 2020_ | Table 8, p. 9, row 3 |  |
 | 1483.15 | Liquid + C15 -> C36 | L: Co 0.725; C15: Co 0.668; C36: Co 0.695 | experimental | [1] Wu 2020; _cites Petkov 2020_ | Table 8, p. 9, row 8 |  |
 | 1483 | Liquid + C15->C36 | Liquid: Ti 0.29; C15: Ti 0.33; C36: Ti 0.312 | experimental | [5] Cacciamani 2000; _cites Murray 1987_ | Table 4, p. 7, row 9 |  |
 | 1483 | liquid + α-Co ↔ Co3Ti | liquid: Ti 0.195; α-Co: Ti 0.144; Co3Ti: Ti 0.191 | experimental | [2] Yang 2022; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02873414) | Table 5, p. 8, row 1 |  |
@@ -202,7 +203,7 @@ Table: Invariant reactions reported in the literature for the Co–Ti system (12
 | 1443 | C36 + liquid = L12 | C36: Ti 0.28; L: Ti 0.228; L12: Ti 0.242 | model | [4] Davydov 2001; _cites Murray 1987_ [doi](https://doi.org/10.1007/bf02873414) | Table VI, p. 11, row 17 |  |
 | 1443 | Liquid->C36 + L12 | Liquid: Ti 0.242; C36: Ti 0.28; L12: Ti 0.228 | experimental | [5] Cacciamani 2000; _cites Murray 1987_ | Table 4, p. 7, row 11 |  |
 | 1443 | liquid ↔ Co3Ti + γ-Co2Ti | liquid: Ti 0.242; Co3Ti: Ti 0.227; γ-Co2Ti: Ti 0.313 | experimental | [2] Yang 2022; _cites Murray 1982_ [doi](https://doi.org/10.1007/bf02873414) | Table 5, p. 8, row 5 |  |
-| 1439.15 | Liquid + A1 -> L12 | L: Co 0.801; A1: Co 0.793; L12: Co 0.847; Al: Co 0.793 | unspecified | [1] Wu 2020 | Table 8, p. 9, row 1 |  |
+| 1439.15 | Liquid + A1 -> L12 | L: Co 0.801; A1: Co 0.793; L12: Co 0.847 | unspecified | [1] Wu 2020 | Table 8, p. 9, row 1 |  |
 | 1439 | L + (αCo) ⇄ Co3Ti | L: Ti 0.207; (αCo): Ti 0.153; Co3Ti: Ti 0.199 | model | [3] Turchanin 2024; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 3, p. 9, row 19 |  |
 | 1437.15 | Liquid -> C36 + L12 | L: Co 0.78; C36: Co 0.707; L12: Co 0.782 | unspecified | [1] Wu 2020 | Table 8, p. 9, row 4 |  |
 | 1437 | L ⇄ Co3Ti + C36 | L: Ti 0.22; Co3Ti: Ti 0.218; C36: Ti 0.293 | model | [3] Turchanin 2024; _cites Wu 2020_ [doi](https://doi.org/10.1016/j.jct.2019.105995) | Table 3, p. 9, row 27 |  |
@@ -286,20 +287,20 @@ Table: Enthalpies of formation, Co–Ti system (19)
 | B2 |  | -43.1256 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 5 |  |
 | B2 |  | -42.2 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table I, p. 2, row 7 |  |
 | B2 |  | -42.2 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Kaufman 1975_ [doi](https://doi.org/10.1007/bf03161838) | Table I, p. 2, row 2 |  |
-| B2 |  | -42.177 kJ/mol-atom | 298 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 4 |  |
+| B2 |  | -42.177 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 4 |  |
 | B2 |  | -41.3 kJ/mol (basis unstated) ± 0.9 | 298.15 | experimental |  |  | [1] Wu 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 7, p. 9, row 7 |  |
 | B2 |  | -40.9 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Cacciamani 2001_ | Table I, p. 2, row 6 |  |
 | B2 |  | -40.5 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Nash 1998_ [doi](https://doi.org/10.1023/a:1004478101233) | Table I, p. 2, row 5 |  |
 | B2 |  | -33.3 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001; _cites Murray 1987_ [doi](https://doi.org/10.1007/bf02873414) | Table I, p. 2, row 1 |  |
-| C15 |  | -28.219 kJ/mol-atom | 298 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 3 |  |
-| C36 |  | -27.246 kJ/mol-atom | 298 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 2 |  |
+| C15 |  | -28.219 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 3 |  |
+| C36 |  | -27.246 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 2 |  |
 | Co2Ti |  | -34.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wu 2020; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 7, p. 9, row 4 |  |
 | Co2Ti |  | -32.2062 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 3 |  |
 | CoTi2 |  | -33.8676 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 9 |  |
-| CoTi2 | [CoTi2](https://data.orchid-project.org/compounds/CoTi2.html) | -33.763 kJ/mol-atom | 298 | model | -27.489 (mp-aaacpuil) | -32.436 (oqmd-1374887) | [4] Davydov 2001 | Table V, p. 10, row 5 |  |
+| CoTi2 | [CoTi2](https://data.orchid-project.org/compounds/CoTi2.html) | -33.763 kJ/mol-atom | 298.15 | model | -27.489 (mp-aaacpuil) | -32.436 (oqmd-1374887) | [4] Davydov 2001 | Table V, p. 10, row 5 |  |
 | L12 |  | -26.1875 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Wu 2020; _cites Balarin 1996_ [doi](https://doi.org/10.1002/zaac.19966220529) | Table 7, p. 9, row 2 |  |
 | L12 |  | -24.8211 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wu 2020 | Table 7, p. 9, row 1 |  |
-| L12 |  | -20.823 kJ/mol-atom | 298 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 1 |  |
+| L12 |  | -20.823 kJ/mol-atom | 298.15 | model |  |  | [4] Davydov 2001 | Table V, p. 10, row 1 |  |
 
 ## Other properties
 
@@ -434,11 +435,11 @@ Table: Formation, Co–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -2.6 J/mol-atom/K | 298 | B2; _alloy: Co 0.5, Ti 0.5_ | model | [4] Davydov 2001 | Table V, p. 10, row 4 |  |
-| Entropy of formation; _printed: ΔfS298_ | 1 J/mol-atom/K | 298 | C15; _alloy: Co 0.67, Ti 0.33_ | model | [4] Davydov 2001 | Table V, p. 10, row 3 |  |
-| Entropy of formation; _printed: ΔfS298_ | 1.3 J/mol-atom/K | 298 | C36; _alloy: Co 0.69, Ti 0.31_ | model | [4] Davydov 2001 | Table V, p. 10, row 2 |  |
-| Entropy of formation; _printed: ΔfS298_ | -4.7 J/mol-atom/K | 298 | CoTi2; _alloy: Co 0.33, Ti 0.67_ | model | [4] Davydov 2001 | Table V, p. 10, row 5 |  |
-| Entropy of formation; _printed: ΔfS298_ | 2.3 J/mol-atom/K | 298 | L12; _alloy: Co 0.76, Ti 0.24_ | model | [4] Davydov 2001 | Table V, p. 10, row 1 |  |
+| Entropy of formation; _printed: ΔfS298_ | -2.6 J/mol-atom/K | 298.15 | B2; _alloy: Co 0.5, Ti 0.5_ | model | [4] Davydov 2001 | Table V, p. 10, row 4 |  |
+| Entropy of formation; _printed: ΔfS298_ | 1 J/mol-atom/K | 298.15 | C15; _alloy: Co 0.67, Ti 0.33_ | model | [4] Davydov 2001 | Table V, p. 10, row 3 |  |
+| Entropy of formation; _printed: ΔfS298_ | 1.3 J/mol-atom/K | 298.15 | C36; _alloy: Co 0.69, Ti 0.31_ | model | [4] Davydov 2001 | Table V, p. 10, row 2 |  |
+| Entropy of formation; _printed: ΔfS298_ | -4.7 J/mol-atom/K | 298.15 | CoTi2; _alloy: Co 0.33, Ti 0.67_ | model | [4] Davydov 2001 | Table V, p. 10, row 5 |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.3 J/mol-atom/K | 298.15 | L12; _alloy: Co 0.76, Ti 0.24_ | model | [4] Davydov 2001 | Table V, p. 10, row 1 |  |
 
 ### Mixing / partial (2)
 

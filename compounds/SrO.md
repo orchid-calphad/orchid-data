@@ -14,13 +14,13 @@ Table: Enthalpy of formation of SrO reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -643 kJ/mol (basis unstated) | SrO | 298 | experimental | activity data 2nd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
-| -604.3 kJ/mol (basis unstated) | SrO | 298 | experimental | combustion cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
-| -595 kJ/mol (basis unstated) | SrO | 298 | experimental | activity data 3rd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
-| -592.15 kJ/mol (basis unstated) | SrO | 298 | experimental | solution cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
-| -592.15 kJ/mol (basis unstated) | SrO | 298 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
-| -592.04 kJ/mol (basis unstated) | SrO | 298 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
-| -591.01 kJ/mol (basis unstated) | SrO | 298 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
+| -643 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 2nd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 3 |  |
+| -604.3 kJ/mol (basis unstated) | SrO | 298.15 | experimental | combustion cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Mah 1963_ | Table 3, p. 4, row 2 |  |
+| -595 kJ/mol (basis unstated) | SrO | 298.15 | experimental | activity data 3rd law | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 93Ono_ | Table 3, p. 4, row 4 |  |
+| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | experimental | solution cal. | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 90Cor_ | Table 3, p. 4, row 1 |  |
+| -592.15 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 3, p. 4, row 7 |  |
+| -592.04 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Chase 1985_ | Table 3, p. 4, row 5 |  |
+| -591.01 kJ/mol (basis unstated) | SrO | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 3, p. 4, row 6 |  |
 
 ## Sources
 

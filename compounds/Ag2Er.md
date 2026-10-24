@@ -17,8 +17,8 @@ Table: Enthalpy of formation of Ag2Er reported in the literature (5)
 | -24 kJ/mol-atom ± 2.3 | Ag2Er | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17 |  |
 | -39 kJ/mol-atom | Ag2Er |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18 |  |
 | -24 kJ/mol-atom ± 2.3 | Ag2Er |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298 | DFT | first-principles (VASP PAW-GGA) | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33 |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16 |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles (VASP PAW-GGA) | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33 |  |
 
 ## DFT formation energies
 
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ag2Er
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabswx | -32.114 | -0.332838 | I4/mmm | 0 | no |
-| OQMD | oqmd-1976497 | -33.095 | -0.343003 | Fmmm | 0.013 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabswx | -32.114 | -0.332838 | I4/mmm | 0 | 0 | no |
+| OQMD | oqmd-1976497 | -33.095 | -0.343003 | Fmmm | 0.013 | 1.000e-4 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

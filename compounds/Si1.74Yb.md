@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Si1.74Yb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.4 kJ/mol-atom ± 0.9 | YbSi1.74 | 298 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
-| -41.1 kJ/mol-atom | YbSi1.74 | 298 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
+| -37.4 kJ/mol-atom ± 0.9 | YbSi1.74 | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 15 |  |
+| -41.1 kJ/mol-atom | YbSi1.74 | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 14 |  |
 
 ## Sources
 

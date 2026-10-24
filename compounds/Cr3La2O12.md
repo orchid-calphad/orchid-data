@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Cr3La2O12 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -3961 kJ/mol (basis unstated) ± 11.7 | La2(CrO4)3 | 298 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20 |  |
-| -3845 kJ/mol (basis unstated) | La2(CrO4)3 | 298 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 19 |  |
-| -372 kJ/mol (basis unstated) | La2(CrO4)3 | 298 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 22 |  |
+| -3961 kJ/mol (basis unstated) ± 11.7 | La2(CrO4)3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20 |  |
+| -3845 kJ/mol (basis unstated) | La2(CrO4)3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 19 |  |
+| -372 kJ/mol (basis unstated) | La2(CrO4)3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 22 |  |
 
 ## Sources
 

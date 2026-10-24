@@ -69,40 +69,40 @@ Table: Enthalpies of formation, Ca–Sn system (34)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -109.2 kJ/mol-atom ± 0.56 | 298 | experimental | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Min 1988_ | Table 3, p. 5, row 2 |  |
-| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -104.6 kJ/mol-atom ± 12.6 | 298 | experimental | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 1 |  |
-| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -92 kJ/mol-atom | 298 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006 | Table 3, p. 5, row 6 |  |
-| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -83.1193 kJ/mol-atom | 298 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 4 |  |
-| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -66.3582 kJ/mol-atom | 298 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006 | Table 3, p. 5, row 5 |  |
-| Ca2Sn |  | -66.3582 kJ/mol-atom | 298 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 3 |  |
-| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -85.4865 kJ/mol-atom | 298 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 16 |  |
-| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -84.941 kJ/mol-atom | 298 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006 | Table 3, p. 5, row 18 |  |
+| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -109.2 kJ/mol-atom ± 0.56 | 298.15 | experimental | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Min 1988_ | Table 3, p. 5, row 2 |  |
+| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -104.6 kJ/mol-atom ± 12.6 | 298.15 | experimental | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 1 |  |
+| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -92 kJ/mol-atom | 298.15 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006 | Table 3, p. 5, row 6 |  |
+| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -83.1193 kJ/mol-atom | 298.15 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 4 |  |
+| Ca2Sn | [Ca2Sn](https://data.orchid-project.org/compounds/Ca2Sn.html) | -66.3582 kJ/mol-atom | 298.15 | model | -62.454 (mp-aaaabhql) | -66.713 (oqmd-11004) | [1] OHNO 2006 | Table 3, p. 5, row 5 |  |
+| Ca2Sn |  | -66.3582 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 3 |  |
+| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -85.4865 kJ/mol-atom | 298.15 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 16 |  |
+| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -84.941 kJ/mol-atom | 298.15 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006 | Table 3, p. 5, row 18 |  |
 | Ca31Sn20 |  | -66.356 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 15 |  |
-| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -66.07 kJ/mol-atom | 298 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006 | Table 3, p. 5, row 17 |  |
-| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -85.7767 kJ/mol-atom | 298 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 12 |  |
-| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -85.22 kJ/mol-atom | 298 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006 | Table 3, p. 5, row 14 |  |
+| Ca31Sn20 | [Ca31Sn20](https://data.orchid-project.org/compounds/Ca31Sn20.html) | -66.07 kJ/mol-atom | 298.15 | model | -63.307 (mp-aaabmsjm) | -67.809 (oqmd-32622) | [1] OHNO 2006 | Table 3, p. 5, row 17 |  |
+| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -85.7767 kJ/mol-atom | 298.15 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 12 |  |
+| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -85.22 kJ/mol-atom | 298.15 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006 | Table 3, p. 5, row 14 |  |
 | Ca36Sn23 |  | -66.2987 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 11 |  |
-| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -66.1 kJ/mol-atom | 298 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006 | Table 3, p. 5, row 13 |  |
-| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -87 kJ/mol-atom | 298 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006 | Table 3, p. 5, row 10 |  |
-| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -86.6079 kJ/mol-atom | 298 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 8 |  |
-| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -66.2 kJ/mol-atom | 298 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006 | Table 3, p. 5, row 9 |  |
-| Ca5Sn3 |  | -65.8414 kJ/mol-atom | 298 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 7 |  |
-| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -76.615 kJ/mol-atom | 298 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006 | Table 3, p. 5, row 22 |  |
-| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -75.6618 kJ/mol-atom | 298 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 20 |  |
+| Ca36Sn23 | [Ca36Sn23](https://data.orchid-project.org/compounds/Ca36Sn23.html) | -66.1 kJ/mol-atom | 298.15 | model | -63.054 (mp-aaabgjjy) |  | [1] OHNO 2006 | Table 3, p. 5, row 13 |  |
+| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -87 kJ/mol-atom | 298.15 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006 | Table 3, p. 5, row 10 |  |
+| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -86.6079 kJ/mol-atom | 298.15 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 8 |  |
+| Ca5Sn3 | [Ca5Sn3](https://data.orchid-project.org/compounds/Ca5Sn3.html) | -66.2 kJ/mol-atom | 298.15 | model | -62.301 (mp-aaacrbwy) | -66.719 (oqmd-1800697) | [1] OHNO 2006 | Table 3, p. 5, row 9 |  |
+| Ca5Sn3 |  | -65.8414 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 7 |  |
+| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -76.615 kJ/mol-atom | 298.15 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006 | Table 3, p. 5, row 22 |  |
+| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -75.6618 kJ/mol-atom | 298.15 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 20 |  |
 | Ca7Sn6 |  | -65.1455 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 19 |  |
-| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -64.7 kJ/mol-atom | 298 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006 | Table 3, p. 5, row 21 |  |
-| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -79.5 kJ/mol-atom ± 10.5 | 298 | experimental | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 23 |  |
-| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -72 kJ/mol-atom | 298 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006 | Table 3, p. 5, row 28 |  |
-| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -70.2455 kJ/mol-atom | 298 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 26 |  |
-| CaSn |  | -66.3191 kJ/mol-atom | 298 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 25 |  |
-| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -63.6393 kJ/mol-atom | 298 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006 | Table 3, p. 5, row 27 |  |
-| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -62 kJ/mol-atom ± 1 | 298 | experimental | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 24 |  |
-| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -44.98 kJ/mol-atom ± 4.2 | 298 | experimental | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 29 |  |
-| CaSn3 |  | -40.9388 kJ/mol-atom | 298 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 31 |  |
-| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -39.3495 kJ/mol-atom | 298 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006 | Table 3, p. 5, row 33 |  |
-| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -38.688 kJ/mol-atom | 298 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006 | Table 3, p. 5, row 34 |  |
-| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -38.6 kJ/mol-atom ± 0.8 | 298 | experimental | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 30 |  |
-| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -37.7225 kJ/mol-atom | 298 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 32 |  |
+| Ca7Sn6 | [Ca7Sn6](https://data.orchid-project.org/compounds/Ca7Sn6.html) | -64.7 kJ/mol-atom | 298.15 | model | -61.718 (mp-aaaabulm) | -66.952 (oqmd-52518) | [1] OHNO 2006 | Table 3, p. 5, row 21 |  |
+| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -79.5 kJ/mol-atom ± 10.5 | 298.15 | experimental | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 23 |  |
+| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -72 kJ/mol-atom | 298.15 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006 | Table 3, p. 5, row 28 |  |
+| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -70.2455 kJ/mol-atom | 298.15 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 26 |  |
+| CaSn |  | -66.3191 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 25 |  |
+| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -63.6393 kJ/mol-atom | 298.15 | model | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006 | Table 3, p. 5, row 27 |  |
+| CaSn | [CaSn](https://data.orchid-project.org/compounds/CaSn.html) | -62 kJ/mol-atom ± 1 | 298.15 | experimental | -62.533 (mp-aaaaadqg) | -67.837 (oqmd-20943) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 24 |  |
+| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -44.98 kJ/mol-atom ± 4.2 | 298.15 | experimental | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Kubaschewski 1949_ | Table 3, p. 5, row 29 |  |
+| CaSn3 |  | -40.9388 kJ/mol-atom | 298.15 | DFT |  |  | [1] OHNO 2006 | Table 3, p. 5, row 31 |  |
+| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -39.3495 kJ/mol-atom | 298.15 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006 | Table 3, p. 5, row 33 |  |
+| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -38.688 kJ/mol-atom | 298.15 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006 | Table 3, p. 5, row 34 |  |
+| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -38.6 kJ/mol-atom ± 0.8 | 298.15 | experimental | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Bouirden 1984_ | Table 3, p. 5, row 30 |  |
+| CaSn3 | [CaSn3](https://data.orchid-project.org/compounds/CaSn3.html) | -37.7225 kJ/mol-atom | 298.15 | model | -39.254 (mp-aaaaaqsg) | -44.752 (oqmd-11003) | [1] OHNO 2006; _cites Cartigny 2005_ | Table 3, p. 5, row 32 |  |
 
 ## Other properties
 

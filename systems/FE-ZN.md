@@ -170,18 +170,18 @@ Table: Enthalpies of formation, Fe–Zn system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Γ1 |  | -11.258 kJ/mol (basis unstated) | 298 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 2 |  |
+| Γ1 |  | -11.258 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 2 |  |
 | Γ1 |  | -11.125 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 3 |  |
-| Γ1 |  | -10.884 kJ/mol (basis unstated) | 298 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 1 |  |
-| Γ2 |  | -11.872 kJ/mol (basis unstated) | 298 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 8 |  |
+| Γ1 |  | -10.884 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 1 |  |
+| Γ2 |  | -11.872 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 8 |  |
 | Γ2 |  | -11.765 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 9 |  |
-| Γ2 |  | -11.764 kJ/mol (basis unstated) | 298 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 7 |  |
-| δ1 |  | -11.479 kJ/mol (basis unstated) | 298 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 13 |  |
+| Γ2 |  | -11.764 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 7 |  |
+| δ1 |  | -11.479 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 13 |  |
 | δ1 |  | -10.358 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 15 |  |
-| δ1 |  | -10.069 kJ/mol (basis unstated) | 298 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 14 |  |
-| ζ |  | -11.672 kJ/mol (basis unstated) | 298 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 19 |  |
+| δ1 |  | -10.069 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 14 |  |
+| ζ |  | -11.672 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 19 |  |
 | ζ |  | -9.031 kJ/mol (basis unstated) | 773 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 21 |  |
-| ζ |  | -9.008 kJ/mol (basis unstated) | 298 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 20 |  |
+| ζ |  | -9.008 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] Reumont 2000 | Table 1, p. 5, row 20 |  |
 
 ## Other properties
 
@@ -201,14 +201,14 @@ Table: Formation, Fe–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.41 J/mol (basis unstated)/K | 298 | Γ1; _alloy: Fe 0.31, Zn 0.69_ | model | [4] Reumont 2000 | Table 1, p. 5, row 5 |  |
-| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.166 J/mol (basis unstated)/K | 298 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 4 |  |
-| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.634 J/mol (basis unstated)/K | 298 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 10 |  |
-| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.47 J/mol (basis unstated)/K | 298 | Γ2; _alloy: Fe 0.21, Zn 0.79_ | model | [4] Reumont 2000 | Table 1, p. 5, row 11 |  |
-| Entropy of formation; _printed: ΔfS(δ1)_ | -9.24 J/mol (basis unstated)/K | 298 | δ1; _alloy: Fe 0.12, Zn 0.88_ | model | [4] Reumont 2000 | Table 1, p. 5, row 17 |  |
-| Entropy of formation; _printed: ΔfS(δ1)_ | -11.08 J/mol (basis unstated)/K | 298 | δ1; _alloy: Fe 0.1, Zn 0.9_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 16 |  |
-| Entropy of formation; _printed: ΔfS(ζ)_ | -9.19 J/mol (basis unstated)/K | 298 | ζ; _alloy: Fe 0.08, Zn 0.92_ | model | [4] Reumont 2000 | Table 1, p. 5, row 23 |  |
-| Entropy of formation; _printed: ΔfS(ζ)_ | -12.22 J/mol (basis unstated)/K | 298 | ζ; _alloy: Fe 0.07, Zn 0.93_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 22 |  |
+| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.41 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.31, Zn 0.69_ | model | [4] Reumont 2000 | Table 1, p. 5, row 5 |  |
+| Entropy of formation; _printed: ΔfS(Γ1)_ | -9.166 J/mol (basis unstated)/K | 298.15 | Γ1; _alloy: Fe 0.25, Zn 0.75_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 4 |  |
+| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.634 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.2, Zn 0.8_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 10 |  |
+| Entropy of formation; _printed: ΔfS(Γ2)_ | -10.47 J/mol (basis unstated)/K | 298.15 | Γ2; _alloy: Fe 0.21, Zn 0.79_ | model | [4] Reumont 2000 | Table 1, p. 5, row 11 |  |
+| Entropy of formation; _printed: ΔfS(δ1)_ | -9.24 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.12, Zn 0.88_ | model | [4] Reumont 2000 | Table 1, p. 5, row 17 |  |
+| Entropy of formation; _printed: ΔfS(δ1)_ | -11.08 J/mol (basis unstated)/K | 298.15 | δ1; _alloy: Fe 0.1, Zn 0.9_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 16 |  |
+| Entropy of formation; _printed: ΔfS(ζ)_ | -9.19 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.08, Zn 0.92_ | model | [4] Reumont 2000 | Table 1, p. 5, row 23 |  |
+| Entropy of formation; _printed: ΔfS(ζ)_ | -12.22 J/mol (basis unstated)/K | 298.15 | ζ; _alloy: Fe 0.07, Zn 0.93_ | experimental | [4] Reumont 2000; _cites Reutner 1980_ [doi](https://doi.org/10.1002/srin.198004874) | Table 1, p. 5, row 22 |  |
 | Entropy of formation; _printed: ΔfS(Γ1)_ | -9.3 J/mol (basis unstated)/K | 773 | Γ1; _alloy: Fe 0.3, Zn 0.7_ | model | [4] Reumont 2000 | Table 1, p. 5, row 6 |  |
 | Entropy of formation; _printed: ΔfS(Γ2)_ | -10.63 J/mol (basis unstated)/K | 773 | Γ2; _alloy: Fe 0.24, Zn 0.76_ | model | [4] Reumont 2000 | Table 1, p. 5, row 12 |  |
 | Entropy of formation; _printed: ΔfS(δ1)_ | -9.65 J/mol (basis unstated)/K | 773 | δ1; _alloy: Fe 0.125, Zn 0.875_ | model | [4] Reumont 2000 | Table 1, p. 5, row 18 |  |

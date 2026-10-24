@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Li7Pb2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.14 kJ/mol-atom ± 2.11 | Li7Pb2 | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 3 |  |
-| -33.48 kJ/mol-atom ± 0.5 | Li7Pb2 | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 4 |  |
+| -35.14 kJ/mol-atom ± 2.11 | Li7Pb2 | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 3 |  |
+| -33.48 kJ/mol-atom ± 0.5 | Li7Pb2 | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 4 |  |
 | -31.03 kJ/mol-atom | Li7Pb2 | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 5 |  |
 
 ## Sources

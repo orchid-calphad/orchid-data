@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Nb0.545Sn0.455 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
+| -22 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
 | -17.983 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 3, p. 3, row 4 |  |
-| -14.814 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 3, p. 3, row 3 |  |
+| -14.814 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 3, p. 3, row 3 |  |
 | -2.653 kJ/mol (basis unstated) | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
 
 ## Sources

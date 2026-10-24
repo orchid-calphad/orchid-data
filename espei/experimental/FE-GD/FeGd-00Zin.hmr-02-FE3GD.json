@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -27,6 +27,7 @@
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C4OO3X3NOB",
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 0.263158,
  "bibtex": "zinkevich2000_a56bc5",
  "orchid": {
@@ -47,7 +48,15 @@
    "10.1007/bf02646931",
    "10.1361/105497100770339923"
   ],
-  "source_dataset": "db-v2.1/general/espei/FeGd-00Zin/hmr-02.json"
+  "source_dataset": "db-v2.1/general/espei/FeGd-00Zin/hmr-02.json",
+  "also_reported_as": [
+   {
+    "dataset": "experimental/FE-GD/FeGd-02Zin-newGd.hmr-00-FE3GD.json",
+    "ids": [
+     "ORC-WP5O6SRVVR.5cb599"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

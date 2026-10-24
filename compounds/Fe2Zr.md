@@ -1,16 +1,16 @@
 # Fe2Zr: enthalpy of formation
 
-> Enthalpy of formation of Fe2Zr: 28 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Fe2Zr: 29 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Fe2Zr.html · Markdown: https://data.orchid-project.org/compounds/Fe2Zr.md
 
-28 accepted literature formation-enthalpy value(s) (experimental 7, model 21); experimental median -30.63 kJ/mol-atom (n = 7); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
+29 accepted literature formation-enthalpy value(s) (experimental 8, model 21); experimental median -30.165 kJ/mol-atom (n = 8); Materials Project -27.082 kJ/mol-atom (mp-aaaaacoc); OQMD -26.998 kJ/mol-atom (oqmd-18350).
 
 Systems: [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Fe2Zr reported in the literature (28)
+Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -21,6 +21,7 @@ Table: Enthalpy of formation of Fe2Zr reported in the literature (28)
 | -29.7 kJ/mol-atom ± 5.1 | Fe2Zr | 1760 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
 | -29.7 kJ/mol-atom ± 1.7 | Fe2Zr | 1760.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 5, row 9 |  |
 | -24.7 kJ/mol-atom ± 3.5 | Fe2Zr | 1023.15 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 5, row 16 |  |
+| -24.7 kJ/mol-atom ± 10.5 | UNKNOWN | 1023 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
 | -40.7 kJ/mol-atom | Fe2Zr | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 15 |  |
 | -37.2667 kJ/mol-atom | Fe2Zr | 1023 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 11 |  |
 | -37 kJ/mol-atom | Fe2Zr | 1760 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 4 |  |
@@ -49,10 +50,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Fe2Zr
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacoc | -27.082 | -0.280683 | Fd-3m | 0 | no |
-| OQMD | oqmd-18350 | -26.998 | -0.279816 | Fd-3m | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacoc | -27.082 | -0.280683 | Fd-3m | 0 | 0 | no |
+| OQMD | oqmd-18350 | -26.998 | -0.279816 | Fd-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

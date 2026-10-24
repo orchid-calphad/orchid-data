@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Li2Sn5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.1 unknown | Li2Sn5 | 298 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 36 |  |
-| -21.8 unknown | Li2Sn5 | 298 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 35 |  |
+| -20.1 unknown | Li2Sn5 | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 36 |  |
+| -21.8 unknown | Li2Sn5 | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 35 |  |
 
 ## Sources
 

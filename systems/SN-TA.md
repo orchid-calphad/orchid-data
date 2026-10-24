@@ -75,33 +75,33 @@ Table: Crystal structure, Sn–Ta system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.641 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice a | 5.652 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice a | 5.939 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
-| Lattice a | 5.93 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
-| Lattice a | 5.83 Å | 298 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
-| Lattice a | 5.959 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
-| Lattice a | 5.954 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
 | Lattice a | 5.319 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 16 |  |
 | Lattice a | 5.304 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 15 |  |
 | Lattice a | 5.29 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | experimental | [1] Marker 2017; _cites ref. 17_ | Table 1, p. 12, row 18 |  |
+| Lattice a | 5.652 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
 | Lattice a | 5.63 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
 | Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 2 |  |
 | Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 1 |  |
 | Lattice a | 3.32 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017; _cites ref. 36_ | Table 1, p. 12, row 5 |  |
 | Lattice a | 3.33 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 3 |  |
 | Lattice a | 3.3 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | experimental | [1] Marker 2017; _cites ref. 35_ | Table 1, p. 12, row 4 |  |
+| Lattice a | 5.939 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
+| Lattice a | 5.93 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
+| Lattice a | 5.83 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
+| Lattice a | 5.959 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
+| Lattice a | 5.954 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
 | Lattice b | 9.766 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice b | 9.785 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice b | 9.786 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12 |  |
+| Lattice b | 9.785 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
+| Lattice b | 9.786 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 12 |  |
 | Lattice b | 9.8 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
 | Lattice c | 19.2 Å | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 11 |  |
-| Lattice c | 19.238 Å | 298 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
-| Lattice c | 3.214 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
-| Lattice c | 3.23 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
-| Lattice c | 3.18 Å | 298 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
-| Lattice c | 3.236 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
-| Lattice c | 3.222 Å | 298 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
+| Lattice c | 19.238 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
 | Lattice c | 19.18 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
+| Lattice c | 3.214 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
+| Lattice c | 3.23 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
+| Lattice c | 3.18 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
+| Lattice c | 3.236 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 7 |  |
+| Lattice c | 3.222 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
 | Molar volume; _printed: V_ | 18.668 Å³/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
 | Molar volume; _printed: V_ | 22.631 Å³/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
 | Molar volume; _printed: V_ | 18.241 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 1 |  |

@@ -1,10 +1,10 @@
 # Bi–Ni system
 
-> Bi–Ni system: 163 accepted literature values (invariant reaction 119, phase equilibrium 23, crystal structure 11, phase transition 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ni system: 156 accepted literature values (invariant reaction 112, phase equilibrium 23, crystal structure 11, phase transition 10) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-NI.html · Markdown: https://data.orchid-project.org/systems/BI-NI.md
 
-163 accepted literature values from 6 paper(s) (experimental 102, model 35, unspecified 26); 7 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+156 accepted literature values from 6 paper(s) (experimental 102, model 28, unspecified 26); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-NI.json) · [CSV](https://data.orchid-project.org/systems/BI-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-NI/BiNi-05Vas.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-NI.html) · [Markdown](https://data.orchid-project.org/systems/BI-NI.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 102 |
-| model | 35 |
+| model | 28 |
 | unspecified | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 119 |
+| invariant reaction | 112 |
 | phase transition | 10 |
 | phase equilibrium | 23 |
 | crystal structure | 11 |
@@ -91,7 +91,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ni system (119)
+Table: Invariant reactions reported in the literature for the Bi–Ni system (112)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 927 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5, Ni 0.5 | experimental | [3] Vassilev 2005; _cites Kuzmin 1969_ | Table 2, p. 2, row 4 |  |
 | 927 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.0079; BiNi: Bi 0.005 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 1 |  |
 | 927 | peritectic |  | experimental | [2] WANG 2011; _cites ref. 14_ | p. 2 | “NASH\[14\] pointed out that the peritectic temperature (911 K) remarked by VOSS\[24\] is too low due to the supercooling effect of liquid alloys compared with the experimental data (927 K) obtained by PORTEVIN\[23\].” |
-| 927 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; L: Bi 0.802; X^M (middle point): Bi 0.5; X^RS (Bi-rich side point): Bi 0.802 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 1 |  |
+| 927 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; L: Bi 0.802 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 1 |  |
 | 927 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5, Ni 0.5 | experimental | [5] Vassilev 2009; _cites ref. 14_ | Table 3, p. 4, row 4 |  |
 | 927 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5; L: Bi 0.802 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 2 |  |
 | 927 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 4 |  |
@@ -111,23 +111,24 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 926 | Liquid + fcc(Ni) -> BiNi | BiNi: Bi 0.5, Ni 0.5 | unspecified | [4] Liu 2016; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table IV, p. 4, row 6 |  |
 | 925.15 | peritectic: L + fcc -> NiBi | L: Bi 0.799; fcc: Bi 0; NiBi: Bi 0.507 | model | [1] Seo 2007 | Table III, p. 5, row 4 |  |
 | 925 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.201; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 19_ | Table 2, p. 4, row 7 |  |
-| 925 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.507; (Ni): Bi 0; L: Bi 0.799; X^LS (Ni-rich side point): Bi 0; X^M (middle point): Bi 0.507; X^RS (Bi-rich side point): Bi 0.799 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 10 |  |
+| 925 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.507; (Ni): Bi 0; L: Bi 0.799 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 10 |  |
 | 921 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.241; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 17_ | Table 2, p. 4, row 6 |  |
-| 920.7 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.515; (Ni): Bi 0.00485; L: Bi 0.759; X^LS (Ni-rich side point): Bi 0.00485; X^M (middle point): Bi 0.515; X^RS (Bi-rich side point): Bi 0.759 | model | [5] Vassilev 2009 | Table 3, p. 4, row 11 |  |
+| 920.7 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.515; (Ni): Bi 0.00485; L: Bi 0.759 | model | [5] Vassilev 2009 | Table 3, p. 4, row 11 |  |
 | 920.4 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.00758; fcc(Ni): Bi 5.700e-5; BiNi: Bi 0.00504 | model | [4] Liu 2016 | Table IV, p. 4, row 7 |  |
 | 919.15 | peritectic: L + fcc -> NiBi | L: Bi 0.82; fcc: Bi 0.01; NiBi: Bi 0.512 | unspecified | [1] Seo 2007; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table III, p. 5, row 3 |  |
 | 919.15 | peritectic: L + fcc -> NiBi | L: Bi 0.75; fcc: Bi 0; NiBi: Bi 0.51 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 2 |  |
-| 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 0.022; L: Bi 0.762; X^LS (Ni-rich side point): Bi 0.022; X^M (middle point): Bi 0.51; X^RS (Bi-rich side point): Bi 0.762 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 9 |  |
+| 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 0.022; L: Bi 0.762 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 9 |  |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.186; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 4 |  |
 | 919 | peritectic: liquid + fcc(Ni) M BiNi |  | experimental | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | p. 4 | “The phase diagram from 50 at.% to 85 at.% Bi was investigated by Feschotte and Rosset21 using differential thermal analysis (DTA), and the peritectic reactions liquid + fcc(Ni) M BiNi and liquid + BiNi M Bi3Ni were reported to occur at 919 K and 738 K, respectively.” |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.238; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites ref. 16_ | Table 2, p. 4, row 5 |  |
 | 919 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.51; (Ni): Bi 7.000e-4 | experimental | [3] Vassilev 2005; _cites Feschotte 1988_ | Table 2, p. 2, row 5 |  |
 | 919 | peritectic: L + fcc(Ni) -> BiNi | L: Ni 0.24; BiNi: Ni 0.5 | experimental | [2] WANG 2011; _cites FESCHOTTE_ | Table 2, p. 4, row 3 |  |
 | 919 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.0076; fcc(Ni): Bi 7.000e-6; BiNi: Bi 0.0051 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 5 |  |
-| 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 7.000e-4; X^LS (Ni-rich side point): Bi 7.000e-4; X^M (middle point): Bi 0.51 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 5 |  |
+| 919 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.51; (Ni): Bi 7.000e-4 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 5 |  |
 | 918.9 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.512; (Ni): Bi 0.0049; L: Bi 0.814 | unspecified | [3] Vassilev 2005 | Table 2, p. 2, row 7 |  |
-| 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.45; (Ni): Bi 0.005; L: Bi 0.68; X^LS (Ni-rich side point): Bi 0.005; X^M (middle point): Bi 0.45; X^RS (Bi-rich side point): Bi 0.68 | experimental | [5] Vassilev 2009; _cites ref. 8_ | Table 3, p. 4, row 3 |  |
-| 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; (Ni): Bi 0.005; L: Bi 0.693; X^LS (Ni-rich side point): Bi 0.005; X^M (middle point): Bi 0.5; X^RS (Bi-rich side point): Bi 0.693 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 2 |  |
+| 918.9 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.512; (Ni): Bi 0.0049; L: Bi 0.814 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 8 |  |
+| 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.45; (Ni): Bi 0.005; L: Bi 0.68 | experimental | [5] Vassilev 2009; _cites ref. 8_ | Table 3, p. 4, row 3 |  |
+| 913 | peritectic: NiBi -> (Ni)+L | NiBi: Bi 0.5; (Ni): Bi 0.005; L: Bi 0.693 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 2 |  |
 | 913 | Liquid + fcc(Ni) -> BiNi | Liquid: Bi 0.0068; fcc(Ni): Bi 5.000e-5; BiNi: Bi 0.0045 | experimental | [4] Liu 2016; _cites Hagg 1930_ | Table IV, p. 4, row 3 |  |
 | 913 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.5; (Ni): Bi 0.005; L: Bi 0.693 | experimental | [3] Vassilev 2005; _cites Voss 1908_ | Table 2, p. 2, row 1 |  |
 | 913 | peritectic: NiBi(f) -> (Ni)(g) + L | NiBi: Bi 0.45; (Ni): Bi 0.005; L: Bi 0.68 | experimental | [3] Vassilev 2005; _cites Hagg 1930_ | Table 2, p. 2, row 3 |  |
@@ -138,11 +139,11 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 780.6 | Liquid + fcc(Ni) -> BiNi + fcc(Ag) | L: Bi 0.391, Ni 0.029; BiNi: Bi 0.5, Ni 0.5 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 1 |  |
 | 753 | Liquid + BiNi -> Bi3Ni | Liquid: Bi 0.00812; BiNi: Bi 0.00463; Bi3Ni: Bi 0.0075 | experimental | [4] Liu 2016; _cites Hagg 1930_ | Table IV, p. 4, row 10 |  |
 | 753 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75; NiBi: Bi 0.463; L: Bi 0.812 | experimental | [3] Vassilev 2005; _cites Hagg 1930_ | Table 2, p. 2, row 10 |  |
-| 753 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.463; L: Bi 0.812; X^LS (Ni-rich side point): Bi 0.463; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.812 | experimental | [5] Vassilev 2009; _cites ref. 8_ | Table 3, p. 4, row 14 |  |
+| 753 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.463; L: Bi 0.812 | experimental | [5] Vassilev 2009; _cites ref. 8_ | Table 3, p. 4, row 14 |  |
 | 748 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.907 | experimental | [3] Vassilev 2005; _cites Voss 1908_ | Table 2, p. 2, row 8 |  |
 | 748 | Liquid + BiNi -> Bi3Ni | BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.0075 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 9 |  |
 | 748 | peritectic: L +BiNi -> Bi3Ni | BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 24_ | Table 2, p. 4, row 10 |  |
-| 748 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.907; X^LS (Ni-rich side point): Bi 0.5; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.907 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 13 |  |
+| 748 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.907 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 13 |  |
 | 744 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.095; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | model | [2] WANG 2011 | Table 2, p. 4, row 16 |  |
 | 743 | Liquid + BiNi -> Bi3Ni | BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 11 |  |
 | 743 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75, Ni 0.25; NiBi: Bi 0.5, Ni 0.5 | experimental | [3] Vassilev 2005; _cites Kuzmin 1969_ | Table 2, p. 2, row 11 |  |
@@ -150,31 +151,26 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 742.15 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.88; NiBi: Bi 0.5; NiBi3: Bi 0.75 | unspecified | [1] Seo 2007; _cites Nash 1985_ [doi](https://doi.org/10.1007/bf02880519) | Table III, p. 5, row 5 |  |
 | 741 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.08; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 18_ | Table 2, p. 4, row 15 |  |
 | 740.75 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.92; NiBi: Bi 0.512; NiBi3: Bi 0.75 | model | [1] Seo 2007 | Table III, p. 5, row 8 |  |
-| 740.6 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.512; L: Bi 0.92; X^LS (Ni-rich side point): Bi 0.512; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.92 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 19 |  |
+| 740.6 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.512; L: Bi 0.92 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 19 |  |
 | 740.15 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.86; NiBi: Bi 0.51; NiBi3: Bi 0.75 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 6 |  |
 | 738.15 | peritectic: L + NiBi -> NiBi3 | L: Bi 0.915; NiBi: Bi 0.52; NiBi3: Bi 0.75 | unspecified | [1] Seo 2007; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table III, p. 5, row 7 |  |
 | 738 | peritectic: liquid + BiNi M Bi3Ni |  | experimental | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | p. 4 | “The phase diagram from 50 at.% to 85 at.% Bi was investigated by Feschotte and Rosset21 using differential thermal analysis (DTA), and the peritectic reactions liquid + fcc(Ni) M BiNi and liquid + BiNi M Bi3Ni were reported to occur at 919 K and 738 K, respectively.” |
 | 738 | Liquid + BiNi -> Bi3Ni | Liquid: Bi 0.0086; BiNi: Bi 0.0051; Bi3Ni: Bi 0.0075 | unspecified | [4] Liu 2016; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table IV, p. 4, row 12 |  |
 | 738 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.087; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 12 |  |
 | 738 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.123; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 16_ | Table 2, p. 4, row 13 |  |
-| 738 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.51; L: Bi 0.86; X^LS (Ni-rich side point): Bi 0.51; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.86 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 16 |  |
-| 738 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.515; L: Bi 0.877; X^LS (Ni-rich side point): Bi 0.515; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.877 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 18 |  |
+| 738 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.51; L: Bi 0.86 | experimental | [5] Vassilev 2009; _cites ref. 9_ | Table 3, p. 4, row 16 |  |
+| 738 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.515; L: Bi 0.877 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 18 |  |
 | 738 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.14; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites FESCHOTTE_ | Table 2, p. 4, row 11 |  |
 | 738 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75; NiBi: Bi 0.51; L: Bi 0.86 | experimental | [3] Vassilev 2005; _cites Feschotte 1988_ | Table 2, p. 2, row 12 |  |
 | 737.9 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75; NiBi: Bi 0.514; L: Bi 0.913 | unspecified | [3] Vassilev 2005 | Table 2, p. 2, row 13 |  |
-| 737.9 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.514; L: Bi 0.913; X^LS (Ni-rich side point): Bi 0.514; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.913 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 17 |  |
+| 737.9 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.514; L: Bi 0.913 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 17 |  |
 | 737.6 | Liquid + BiNi -> Bi3Ni | Liquid: Bi 0.00884; BiNi: Bi 0.00516; Bi3Ni: Bi 0.0075 | model | [4] Liu 2016 | Table IV, p. 4, row 13 |  |
-| 737.2 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.521; L: Bi 0.881; X^LS (Ni-rich side point): Bi 0.521; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.881 | model | [5] Vassilev 2009 | Table 3, p. 4, row 20 |  |
+| 737.2 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.521; L: Bi 0.881 | model | [5] Vassilev 2009 | Table 3, p. 4, row 20 |  |
 | 737 | peritectic: L +BiNi -> Bi3Ni | L: Ni 0.119; BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites ref. 17_ | Table 2, p. 4, row 14 |  |
 | 735 | peritectic: NiBi3 -> NiBi + L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.901 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 9 |  |
 | 735 | peritectic: L +BiNi -> Bi3Ni | BiNi: Ni 0.5; Bi3Ni: Ni 0.25 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 9 |  |
 | 735 | Liquid + BiNi -> Bi3Ni | BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.0075 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 8 |  |
-| 735 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.901; X^LS (Ni-rich side point): Bi 0.5; X^M (middle point): Bi 0.75; X^RS (Bi-rich side point): Bi 0.901 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 12 |  |
-| 703.7 | Liquid + BiNi -> Bi3Ni + fcc(Cu,Ni) | L: Bi 0.891, Ni 0.084; BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Markovic 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.05.004) | Table V, p. 7, row 8 |  |
-| 701.9 | Liquid + BiNi -> Bi3Ni + fcc(Cu,Ni) | L: Bi 0.896, Ni 0.037; BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 7 |  |
-| 698.31 | Liquid + BiNi -> Bi3Ni + fcc(Cu,Ni) | L: Bi 0.9148, Ni 0.0662; BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016 | Table V, p. 7, row 9 |  |
-| 692.7 | Liquid + BiNi -> Bi3Ni + fcc(Ag) | L: Bi 0.552, Ni 0.015; BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 3 |  |
-| 683.28 | Liquid + BiNi -> Bi3Ni + fcc(Ag) | L: Bi 0.5716, Ni 0.0223; BiNi: Bi 0.5, Ni 0.5; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016 | Table V, p. 7, row 4 |  |
+| 735 | peritectic: NiBi3 -> NiBi+L | NiBi3: Bi 0.75; NiBi: Bi 0.5; L: Bi 0.901 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 12 |  |
 | 544.59 | eutectic: L -> NiBi3 + (Bi) | L: Bi 0.995; NiBi3: Bi 0.75; (Bi): Bi 1 | unspecified | [1] Seo 2007; _cites Nash 1985_ [doi](https://doi.org/10.1007/bf02880519) | Table III, p. 5, row 9 |  |
 | 544.15 | eutectic: L -> NiBi3 + (Bi) | NiBi3: Bi 0.75, Ni 0.25 | unspecified | [1] Seo 2007; _cites Feschotte 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990027-6) | Table III, p. 5, row 10 |  |
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 18_ | Table 2, p. 4, row 24 |  |
@@ -184,9 +180,9 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites FESCHOTTE_ | Table 2, p. 4, row 19 |  |
 | 544 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0.003; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | model | [2] WANG 2011 | Table 2, p. 4, row 25 |  |
 | 543.65 | eutectic: L -> NiBi3 + (Bi) | L: Bi 0.996; NiBi3: Bi 0.75; (Bi): Bi 1 | model | [1] Seo 2007 | Table III, p. 5, row 12 |  |
-| 543.5 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.996; X^LS (Ni-rich side point): Bi 0.75; X^M (middle point): Bi 0.996; X^RS (Bi-rich side point): Bi 1 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 28 |  |
+| 543.5 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.996 | model | [5] Vassilev 2009; _cites ref. 5_ | Table 3, p. 4, row 28 |  |
 | 543.35 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9947 | experimental | [3] Vassilev 2005; _cites Shavinski 1979_ | Table 2, p. 2, row 17 |  |
-| 543.35 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9947; X^LS (Ni-rich side point): Bi 0.75; X^M (middle point): Bi 0.9947; X^RS (Bi-rich side point): Bi 1 | experimental | [5] Vassilev 2009; _cites ref. 15_ | Table 3, p. 4, row 24 |  |
+| 543.35 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9947 | experimental | [5] Vassilev 2009; _cites ref. 15_ | Table 3, p. 4, row 24 |  |
 | 543.35 | Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.009947; Bi3Ni: Bi 0.0075; (Bi): Bi 0.01 | experimental | [4] Liu 2016; _cites Shavinskii 1979_ | Table IV, p. 4, row 17 |  |
 | 543.15 | eutectic: L -> NiBi3 + (Bi) | L: Bi 0.996; NiBi3: Bi 0.75; (Bi): Bi 1 | unspecified | [1] Seo 2007; _cites Vassilev 2005_ [doi](https://doi.org/10.1007/s11669-005-0134-0) | Table III, p. 5, row 11 |  |
 | 543 | eutectic: LļBi3Ni+rhombohedral(Bi) |  | experimental | [2] WANG 2011; _cites s739ís743 2005_ | p. 2 | “SHAVINSKI et al\[25\] reported that the composition and temperature of the eutectic reaction, LļBi3Ni+rhombohedral(Bi), are 99.47% Bi (molar fraction) and 543 K, respectively.” |
@@ -196,24 +192,21 @@ Table: Invariant reactions reported in the literature for the Bi–Ni system (11
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Kuzmin 1969_ | Table 2, p. 2, row 16 |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 15_ | Table 2, p. 4, row 21 |  |
 | 543 | eutectic: liquid M Bi3Ni + (Bi) |  | experimental | [4] Liu 2016; _cites Shavinskii 1979_ | p. 4 | “Shavinskii et al.20 employed the directional solidification technique and reported that the eutectic composition and temperature of the reaction liquid M Bi3Ni + (Bi) were 99.47 at.% Bi and 543 K, respectively.” |
-| 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993; X^LS (Ni-rich side point): Bi 0.75; X^M (middle point): Bi 0.993; X^RS (Bi-rich side point): Bi 1 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 27 |  |
+| 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009; _cites ref. 3_ | Table 3, p. 4, row 27 |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 7_ | Table 3, p. 4, row 22 |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 24_ | Table 2, p. 4, row 18 |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.9934 | unspecified | [3] Vassilev 2005 | Table 2, p. 2, row 19 |  |
-| 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993; X^LS (Ni-rich side point): Bi 0.75; X^M (middle point): Bi 0.993; X^RS (Bi-rich side point): Bi 1 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 26 |  |
+| 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009; _cites ref. 1_ | Table 3, p. 4, row 26 |  |
 | 543 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | L: Ni 0.007; Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites ref. 17_ | Table 2, p. 4, row 23 |  |
 | 543 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 14_ | Table 3, p. 4, row 23 |  |
 | 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Kuzmin 1969_ | Table IV, p. 4, row 16 |  |
 | 543 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Voss 1908_ [doi](https://doi.org/10.1002/zaac.19080570103) | Table IV, p. 4, row 15 |  |
+| 542.8 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75; (Bi): Bi 1; L: Bi 0.993 | model | [5] Vassilev 2009 | Table 3, p. 4, row 29 |  |
 | 542.8 | Liquid -> Bi3Ni + (Bi) | Liquid: Bi 0.00992; Bi3Ni: Bi 0.0075; (Bi): Bi 0.01 | model | [4] Liu 2016 | Table IV, p. 4, row 19 |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [5] Vassilev 2009; _cites ref. 6_ | Table 3, p. 4, row 21 |  |
 | 542 | eutectic: NiBi3 + (Bi) -> L | NiBi3: Bi 0.75, Ni 0.25 | experimental | [3] Vassilev 2005; _cites Portevin 1908_ | Table 2, p. 2, row 15 |  |
 | 542 | eutectic: L -> Bi3Ni + rhombohedral (Bi) | Bi3Ni: Ni 0.25; rhombohedral (Bi): Ni 0 | experimental | [2] WANG 2011; _cites PORTEVIN 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table 2, p. 4, row 17 |  |
 | 542 | Liquid -> Bi3Ni + (Bi) | Bi3Ni: Bi 0.75, Ni 0.25 | experimental | [4] Liu 2016; _cites Portevin 1908_ [doi](https://doi.org/10.1051/metal/190805030110) | Table IV, p. 4, row 14 |  |
-| 541.9 | Liquid -> (Bi) + Bi3Ni + fcc(Cu) | L: Bi 0.988, Ni 0.008; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Markovic 2010_ [doi](https://doi.org/10.1016/j.calphad.2010.05.004) | Table V, p. 7, row 11 |  |
-| 541.9 | Liquid -> (Bi) + Bi3Ni + fcc(Cu) | L: Bi 0.988, Ni 0.0078; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016 | Table V, p. 7, row 12 |  |
-| 534.2 | Liquid -> Bi3Ni + fcc(Ag) + (Bi) | L: Bi 0.948, Ni 0.003; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016; _cites Gao 2009_ [doi](https://doi.org/10.1557/jmr.2009.0302) | Table V, p. 7, row 5 |  |
-| 533.9 | Liquid -> Bi3Ni + fcc(Ag) + (Bi) | L: Bi 0.9472, Ni 0.0051; Bi3Ni: Bi 0.75, Ni 0.25 | model | [4] Liu 2016 | Table V, p. 7, row 6 |  |
 
 ## Other properties
 

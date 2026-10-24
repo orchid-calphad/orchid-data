@@ -72,21 +72,21 @@ Table: Invariant reactions reported in the literature for the Cu–Fe system (56
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1764 | δ + liq -> γ | δ: Cu 0.064; γ: Cu 0.076; liq: Cu 0.116 | unspecified | [1] Chen 1995; _cites Chuang 1995_ | Table II, p. 6, row 6 |  |
-| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936; β: Fe 0.924 | model | [2] Turchanin 2003; _cites Chuang 1921_ | Table 2, p. 5, row 7 |  |
+| 1764 | L + δ ↔ γ | L: Fe 0.884; δ: Fe 0.936 | model | [2] Turchanin 2003; _cites Chuang 1921_ | Table 2, p. 5, row 7 |  |
 | 1761 | L + δ ↔ γ |  | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 4 |  |
-| 1760 | L + δ ↔ γ | L: Fe 0.896; δ: Fe 0.942; β: Fe 0.931 | model | [2] Turchanin 2003 | Table 2, p. 5, row 9 |  |
+| 1760 | L + δ ↔ γ | L: Fe 0.896; δ: Fe 0.942 | model | [2] Turchanin 2003 | Table 2, p. 5, row 9 |  |
 | 1759 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites Maddocks 1936_ | Table 2, p. 5, row 1 |  |
 | 1759 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.073; liq: Cu 0.108 | model | [1] Chen 1995 | Table II, p. 6, row 7 |  |
 | 1759 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Maddocks 1936_ | Table II, p. 6, row 1 |  |
-| 1759 | L + δ ↔ γ | L: Fe 0.892; δ: Fe 0.937; β: Fe 0.927 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 8 |  |
+| 1759 | L + δ ↔ γ | L: Fe 0.892; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Chen 1995_ [doi](https://doi.org/10.1007/bf02664678) | Table 2, p. 5, row 8 |  |
 | 1755 | δ + liq -> γ | δ: Cu 0.061; γ: Cu 0.066; liq: Cu 0.1 | experimental | [1] Chen 1995; _cites Oelsen 1961_ | Table II, p. 6, row 3 |  |
-| 1755 | L + δ ↔ γ | L: Fe 0.9; δ: Fe 0.939; β: Fe 0.934 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 3 |  |
+| 1755 | L + δ ↔ γ | L: Fe 0.9; δ: Fe 0.939 | experimental | [2] Turchanin 2003; _cites Oelsen 1961_ | Table 2, p. 5, row 3 |  |
 | 1753 | δ + liq -> γ | liq: Cu 0.098 | experimental | [1] Chen 1995; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table II, p. 6, row 2 |  |
 | 1753 | δ + liq -> γ | δ: Cu 0.066; γ: Cu 0.08; liq: Cu 0.127 | unspecified | [1] Chen 1995; _cites Kubaschewski 1977_ | Table II, p. 6, row 4 |  |
-| 1753 | L + δ ↔ γ | L: Fe 0.873; δ: Fe 0.934; β: Fe 0.92 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 5 |  |
+| 1753 | L + δ ↔ γ | L: Fe 0.873; δ: Fe 0.934 | model | [2] Turchanin 2003; _cites Kubaschewski 1977_ | Table 2, p. 5, row 5 |  |
 | 1753 | L + δ ↔ γ | L: Fe 0.902 | experimental | [2] Turchanin 2003; _cites ref. 1943And_ | Table 2, p. 5, row 2 |  |
 | 1752 | δ + liq -> γ | δ: Cu 0.063; γ: Cu 0.075; liq: Cu 0.124 | unspecified | [1] Chen 1995; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table II, p. 6, row 5 |  |
-| 1752 | L + δ ↔ γ | L: Fe 0.876; δ: Fe 0.937; β: Fe 0.925 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 6 |  |
+| 1752 | L + δ ↔ γ | L: Fe 0.876; δ: Fe 0.937 | model | [2] Turchanin 2003; _cites Hasebe 1980_ [doi](https://doi.org/10.1016/0364-5916%2880%2990026-7) | Table 2, p. 5, row 6 |  |
 | 1698 | monotectic |  | model | [2] Turchanin 2003 | p. 10 | “Our calculated invariant monotectic equilibrium occurs at 1698 K and corresponds to a minimum mol fraction of iron in ␦-phase of 0.91.” |
 | 1698 | L2 ↔ L1 + δ | L2: Fe 0.591; L1: Fe 0.49; δ: Fe 0.912 | model | [2] Turchanin 2003 | Table 2, p. 5, row 30 |  |
 | 1405 | L1 + L2 ↔ ε | L1: Fe 0.22 | experimental | [2] Turchanin 2003; _cites Amara 2003_ | Table 2, p. 5, row 31 |  |

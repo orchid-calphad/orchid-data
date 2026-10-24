@@ -86,12 +86,12 @@ Table: Enthalpies of formation, Pb–Te system (22)
 | PbTe |  | -47.2 kJ/mol (basis unstated) | 737 | experimental |  |  | [2] Gierlotka 2009; _cites Castanet 1972_ | Table 4, p. 5, row 5 |  |
 | PbTe | [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | -36.05 kJ/mol-atom | 298.15 | experimental | -39.148 (mp-aaaabdej) | -39.511 (oqmd-1856648) | [3] Liu 2009; _cites Castanet 1972_ | Table IV, p. 9, row 3 |  |
 | PbTe | [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | -35.15 kJ/mol-atom | 298.15 | experimental | -39.148 (mp-aaaabdej) | -39.511 (oqmd-1856648) | [3] Liu 2009; _cites McAteer 1936_ [doi](https://doi.org/10.1021/ja01302a002) | Table IV, p. 9, row 1 |  |
-| PbTe |  | -35.146 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Gierlotka 2009; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table 4, p. 5, row 2 |  |
+| PbTe |  | -35.146 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Gierlotka 2009; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table 4, p. 5, row 2 |  |
 | PbTe | [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | -34.4 kJ/mol-atom | 298.15 | model | -39.148 (mp-aaaabdej) | -39.511 (oqmd-1856648) | [3] Liu 2009 | Table IV, p. 9, row 4 |  |
 | PbTe | [PbTe](https://data.orchid-project.org/compounds/PbTe.html) | -34.3 kJ/mol-atom | 298.15 | experimental | -39.148 (mp-aaaabdej) | -39.511 (oqmd-1856648) | [3] Liu 2009; _cites Robinson 1966_ | Table IV, p. 9, row 2 |  |
 | PbTe |  | -34.267 kJ/mol (basis unstated) | 273 | experimental |  |  | [2] Gierlotka 2009; _cites Robinson 1966_ | Table 4, p. 5, row 4 |  |
-| PbTe |  | -32.532 kJ/mol (basis unstated) | 298 | model |  |  | [2] Gierlotka 2009 | Table 4, p. 5, row 1 |  |
-| PbTe |  | -32.532 kJ/mol (basis unstated) | 298 | model |  |  | [2] Gierlotka 2009 | p. 5 | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
+| PbTe |  | -32.532 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Gierlotka 2009 | Table 4, p. 5, row 1 |  |
+| PbTe |  | -32.532 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Gierlotka 2009 | p. 5 | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
 | PbTe |  | -23.809 kJ/mol (basis unstated) | 295 | experimental |  |  | [2] Gierlotka 2009; _cites Fabre 1887_ | Table 4, p. 5, row 3 |  |
 | PbTe |  | 0.35 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 7 |  |
 | PbTe |  | 0.72 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 1 |  |

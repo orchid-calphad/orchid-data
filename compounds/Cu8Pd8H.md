@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cu8Pd8H reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -12.52 kJ/mol-atom | Cu8Pd8H B2 | 298 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 5 |  |
+| -12.52 kJ/mol-atom | Cu8Pd8H B2 | 298.15 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 5 |  |
 
 ## Sources
 

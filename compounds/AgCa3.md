@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AgCa3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -12.5 kJ/mol-atom | AgCa3 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 8 |  |
-| -11.6 kJ/mol-atom | AgCa3 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 10 |  |
-| -11.3 kJ/mol-atom | AgCa3 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 9 |  |
+| -12.5 kJ/mol-atom | AgCa3 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 8 |  |
+| -11.6 kJ/mol-atom | AgCa3 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 10 |  |
+| -11.3 kJ/mol-atom | AgCa3 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 9 |  |
 
 ## DFT formation energies
 
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of AgCa3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacpirk | -5.282 | -0.05474 | Pm-3m | 10.986 | yes |
-| OQMD | oqmd-1787095 | -20.024 | -0.207534 | Pnma | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacpirk | -5.282 | -0.05474 | Pm-3m | 10.986 | 0.1139 | yes |
+| OQMD | oqmd-1787095 | -20.024 | -0.207534 | Pnma | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

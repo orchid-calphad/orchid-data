@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Au10Ho7 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -83.7 kJ/mol-atom | Au10Ho7 | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 15 |  |
+| -83.7 kJ/mol-atom | Au10Ho7 | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 15 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Mn–O system
 
-> Mn–O system: 343 accepted literature values (activity / EMF / Gibbs energy 113, formation 90, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O system: 356 accepted literature values (activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O.html · Markdown: https://data.orchid-project.org/systems/MN-O.md
 
-343 accepted literature values from 2 paper(s) (experimental 169, model 160, unspecified 14); 2 calculated phase diagram(s). 24 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+356 accepted literature values from 2 paper(s) (experimental 176, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O.json) · [CSV](https://data.orchid-project.org/systems/MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-O/MnO-03Gru-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/MN-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-O.html) · [Markdown](https://data.orchid-project.org/systems/MN-O.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 169 |
-| model | 160 |
-| unspecified | 14 |
+| experimental | 176 |
+| model | 162 |
+| unspecified | 18 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 53 |
 | phase transition | 17 |
-| formation | 90 |
+| formation | 103 |
 | mixing / partial | 1 |
 | heat capacity / entropy / enthalpy | 69 |
 | activity / EMF / Gibbs energy | 113 |
@@ -129,43 +129,43 @@ Table: Invariant reactions reported in the literature for the Mn–O system (53)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mn–O system (90)
+Table: Enthalpies of formation, Mn–O system (103)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -194.854 kJ/mol-atom | 298 | experimental | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 25 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -194.77 kJ/mol-atom | 298 | experimental | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 26 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -192.518 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003 | Table 11, p. 16, row 33 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.922 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 30 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.922 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 27 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.8 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 31 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.62 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 32 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.504 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 29 |  |
-| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.254 kJ/mol-atom | 298 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 28 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -206.35 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 15 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -201.266 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 16 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -201.206 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 17 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.397 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 21 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.364 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 18 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.216 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 20 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.2 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 23 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.156 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 19 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.014 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 22 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -197.534 kJ/mol-atom | 298 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003 | Table 11, p. 16, row 24 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.78 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 14 |  |
-| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.181 kJ/mol-atom | 298 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 13 |  |
-| Manganosite (Mn1−xO) |  | -411.14 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Guntz 1896_ | Table 11, p. 16, row 2 |  |
-| Manganosite (Mn1−xO) |  | -404.03 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 3 |  |
-| Manganosite (Mn1−xO) |  | -389.79 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 4 |  |
-| Manganosite (Mn1−xO) |  | -389.37 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 5 |  |
-| Manganosite (Mn1−xO) |  | -386.74 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003 | Table 11, p. 16, row 12 |  |
-| Manganosite (Mn1−xO) |  | -385.48 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 9 |  |
-| Manganosite (Mn1−xO) |  | -385.39 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 8 |  |
-| Manganosite (Mn1−xO) |  | -385.35 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Southard 1942_ [doi](https://doi.org/10.1021/ja01260a007) | Table 11, p. 16, row 6 |  |
-| Manganosite (Mn1−xO) |  | -385.19 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003; _cites Rossini 1952_ | Table 11, p. 16, row 7 |  |
-| Manganosite (Mn1−xO) |  | -384.9 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 11 |  |
-| Manganosite (Mn1−xO) |  | -382.5 kJ/mol (basis unstated) | 298 | model |  |  | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 10 |  |
-| Manganosite (Mn1−xO) |  | -380.58 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 1 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -194.854 kJ/mol-atom | 298.15 | experimental | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 25 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -194.77 kJ/mol-atom | 298.15 | experimental | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 26 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -192.518 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003 | Table 11, p. 16, row 33 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.922 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 30 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.922 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 27 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.8 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 31 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.62 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 32 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.504 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 11, p. 16, row 29 |  |
+| Bixbyite (Mn2O3) | [Mn2O3](https://data.orchid-project.org/compounds/Mn2O3.html) | -191.254 kJ/mol-atom | 298.15 | model | -194.313 (mp-aaacotap) | -195.424 (oqmd-33708) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 28 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -206.35 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 15 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -201.266 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 16 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -201.206 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 17 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.397 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 21 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.364 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 18 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.216 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 20 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.2 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 23 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.156 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 19 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -198.014 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 22 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -197.534 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003 | Table 11, p. 16, row 24 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.78 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 14 |  |
+| Hausmannite (Mn3O4) | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.181 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 13 |  |
+| Manganosite (Mn1−xO) |  | -411.14 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Guntz 1896_ | Table 11, p. 16, row 2 |  |
+| Manganosite (Mn1−xO) |  | -404.03 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 3 |  |
+| Manganosite (Mn1−xO) |  | -389.79 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 4 |  |
+| Manganosite (Mn1−xO) |  | -389.37 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 5 |  |
+| Manganosite (Mn1−xO) |  | -386.74 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003 | Table 11, p. 16, row 12 |  |
+| Manganosite (Mn1−xO) |  | -385.48 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 9 |  |
+| Manganosite (Mn1−xO) |  | -385.39 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003; _cites Robie 1968_ | Table 11, p. 16, row 8 |  |
+| Manganosite (Mn1−xO) |  | -385.35 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Southard 1942_ [doi](https://doi.org/10.1021/ja01260a007) | Table 11, p. 16, row 6 |  |
+| Manganosite (Mn1−xO) |  | -385.19 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003; _cites Rossini 1952_ | Table 11, p. 16, row 7 |  |
+| Manganosite (Mn1−xO) |  | -384.9 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 11 |  |
+| Manganosite (Mn1−xO) |  | -382.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 10 |  |
+| Manganosite (Mn1−xO) |  | -380.58 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 1 |  |
 | Mn1-xO |  | -411.14 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Guntz 1896_ | Table 11, p. 16, row 47 |  |
 | Mn1-xO |  | -404.03 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 11, p. 16, row 48 |  |
 | Mn1-xO |  | -389.79 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 49 |  |
@@ -199,6 +199,19 @@ Table: Enthalpies of formation, Mn–O system (90)
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -197.534 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003 | Table 11, p. 16, row 69 |  |
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.78 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 11, p. 16, row 59 |  |
 | Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | -196.181 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 58 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 196.181 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Le 1896_ | Table 1, p. 5, row 1 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 196.78 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Ruff 1913_ [doi](https://doi.org/10.1002/cber.19130460159) | Table 1, p. 5, row 2 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 197.534 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Grundy 2003_ | Table 1, p. 5, row 12 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 197.914 kJ/mol-atom | 298.15 | model | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010 | Table 1, p. 5, row 13 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.014 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Knacke 2010_ | Table 1, p. 5, row 10 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.156 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Mah 1960_ | Table 1, p. 5, row 7 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.2 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Kubaschewski 1993_ | Table 1, p. 5, row 11 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.216 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Robie 1968_ | Table 1, p. 5, row 8 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.364 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 1, p. 5, row 6 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 198.397 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Pankratz 1982_ | Table 1, p. 5, row 9 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 201.206 kJ/mol-atom | 298.15 | unspecified | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Ulich 1940_ | Table 1, p. 5, row 5 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 201.266 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Siemonsen 1939_ | Table 1, p. 5, row 4 |  |
+| Mn3O4 | [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.html) | 206.35 kJ/mol-atom | 298.15 | experimental | -197.834 (mp-aaaabbtn) | -200.053 (oqmd-5975) | [2] Kjellqvist 2010; _cites Roth 1929_ [doi](https://doi.org/10.1002/ange.19290424102) | Table 1, p. 5, row 3 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 82 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 81 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174.73 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 79 |  |
@@ -211,18 +224,18 @@ Table: Enthalpies of formation, Mn–O system (90)
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.46 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 87 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.333 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 85 |  |
 | MnO2 | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -166.913 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Mixter 1910_ [doi](https://doi.org/10.2475/ajs.s4-30.177.193) | Table 11, p. 16, row 80 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 36 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 37 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174.73 kJ/mol-atom | 298 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 34 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 43 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.947 kJ/mol-atom | 298 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 38 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.753 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Rossini 1952_ | Table 11, p. 16, row 39 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.633 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 44 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.613 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 41 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.493 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003 | Table 11, p. 16, row 45 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.46 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 42 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.333 kJ/mol-atom | 298 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 40 |  |
-| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -166.913 kJ/mol-atom | 298 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Mixter 1910_ [doi](https://doi.org/10.2475/ajs.s4-30.177.193) | Table 11, p. 16, row 35 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Siemonsen 1939_ | Table 11, p. 16, row 36 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -175.007 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Ulich 1940_ [doi](https://doi.org/10.1002/srin.194001311) | Table 11, p. 16, row 37 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174.73 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Le 1896_ | Table 11, p. 16, row 34 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -174 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Knacke 1991_ | Table 11, p. 16, row 43 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.947 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Shomate 1943_ [doi](https://doi.org/10.1021/ja01245a016) | Table 11, p. 16, row 38 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.753 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Rossini 1952_ | Table 11, p. 16, row 39 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.633 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 11, p. 16, row 44 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.613 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Mah 1960_ | Table 11, p. 16, row 41 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.493 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003 | Table 11, p. 16, row 45 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.46 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Pankratz 1982_ | Table 11, p. 16, row 42 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -173.333 kJ/mol-atom | 298.15 | model | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Brewer 1953_ [doi](https://doi.org/10.1021/cr60161a001) | Table 11, p. 16, row 40 |  |
+| Pyrolusite (MnO2) | [MnO2](https://data.orchid-project.org/compounds/MnO2.html) | -166.913 kJ/mol-atom | 298.15 | experimental | -174.236 (mp-aaaabcrz) | -168.93 (oqmd-677684) | [1] Grundy 2003; _cites Mixter 1910_ [doi](https://doi.org/10.2475/ajs.s4-30.177.193) | Table 11, p. 16, row 35 |  |
 
 ## Other properties
 
@@ -264,36 +277,28 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S298_ | 22.1 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 20 |  |
-| Entropy; _printed: °S298_ | 22.42 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 10, p. 15, row 22 |  |
-| Entropy; _printed: °S298_ | 22.74 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 19 |  |
-| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites King 1954_ [doi](https://doi.org/10.1021/ja01641a063) | Table 10, p. 15, row 18 |  |
-| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 17 |  |
-| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 21 |  |
-| Entropy; _printed: °S298_ | 22.25 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 9 |  |
-| Entropy; _printed: °S298_ | 24.0486 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003 | Table 10, p. 15, row 16 |  |
-| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 11 |  |
-| Entropy; _printed: °S298_ | 22.1143 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 14 |  |
-| Entropy; _printed: °S298_ | 23.4429 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 12 |  |
-| Entropy; _printed: °S298_ | 22.01 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 15 |  |
-| Entropy; _printed: °S298_ | 23.8 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 10, p. 15, row 10 |  |
-| Entropy; _printed: °S298_ | 23.8714 J/mol-atom/K | 298 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Chhor 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990047-9) | Table 10, p. 15, row 13 |  |
-| Entropy; _printed: °S298_ | 53.17 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 4 |  |
-| Entropy; _printed: °S298_ | 59.8 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 5 |  |
-| Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Todd 1951_ [doi](https://doi.org/10.1021/ja01152a099) | Table 10, p. 15, row 7 |  |
-| Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003 | Table 10, p. 15, row 8 |  |
-| Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Shapiro 1999_ [doi](https://doi.org/10.1006/jcht.1998.0479) | Table 10, p. 15, row 1 |  |
-| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 3 |  |
-| Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 2 |  |
-| Entropy; _printed: °S298_ | 59.87 J/mol (basis unstated)/K | 298 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 6 |  |
-| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 25 |  |
-| Entropy; _printed: °S298_ | 17.7 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 27 |  |
-| Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 29 |  |
-| Entropy; _printed: °S298_ | 17.7233 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 28 |  |
-| Entropy; _printed: °S298_ | 17.5833 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 26 |  |
-| Entropy; _printed: °S298_ | 18.0867 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Moore 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 24 |  |
-| Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 23 |  |
-| Entropy; _printed: °S298_ | 17.9833 J/mol-atom/K | 298 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003 | Table 10, p. 15, row 30 |  |
+| Entropy; _printed: °S298_ | 22.1 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 20 |  |
+| Entropy; _printed: °S298_ | 22.42 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 10, p. 15, row 22 |  |
+| Entropy; _printed: °S298_ | 22.74 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 19 |  |
+| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites King 1954_ [doi](https://doi.org/10.1021/ja01641a063) | Table 10, p. 15, row 18 |  |
+| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 17 |  |
+| Entropy; _printed: °S298_ | 22.106 J/mol-atom/K | 298.15 | Bixbyite (Mn2O3); _alloy: O 0.6_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 21 |  |
+| Entropy; _printed: °S298_ | 22.25 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 9 |  |
+| Entropy; _printed: °S298_ | 24.0486 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003 | Table 10, p. 15, row 16 |  |
+| Entropy; _printed: °S298_ | 21.37 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 11 |  |
+| Entropy; _printed: °S298_ | 22.1143 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 14 |  |
+| Entropy; _printed: °S298_ | 23.4429 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 12 |  |
+| Entropy; _printed: °S298_ | 22.01 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 15 |  |
+| Entropy; _printed: °S298_ | 23.8 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 10, p. 15, row 10 |  |
+| Entropy; _printed: °S298_ | 23.8714 J/mol-atom/K | 298.15 | Hausmannite (Mn3O4); _alloy: O 0.571429_ | model | [1] Grundy 2003; _cites Chhor 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990047-9) | Table 10, p. 15, row 13 |  |
+| Entropy; _printed: °S298_ | 53.17 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 4 |  |
+| Entropy; _printed: °S298_ | 59.8 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 5 |  |
+| Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Todd 1951_ [doi](https://doi.org/10.1021/ja01152a099) | Table 10, p. 15, row 7 |  |
+| Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003 | Table 10, p. 15, row 8 |  |
+| Entropy; _printed: °S298_ | 59.02 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Shapiro 1999_ [doi](https://doi.org/10.1006/jcht.1998.0479) | Table 10, p. 15, row 1 |  |
+| Entropy; _printed: °S298_ | 62.47 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 3 |  |
+| Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 2 |  |
+| Entropy; _printed: °S298_ | 59.87 J/mol (basis unstated)/K | 298.15 | Manganosite (Mn1−xO) | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 6 |  |
 | Entropy; _printed: °S298_ | 59.75 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 32 |  |
 | Entropy; _printed: °S298_ | 59.87 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 36 |  |
 | Entropy; _printed: °S298_ | 53.17 J/mol (basis unstated)/K | 298.15 | Mn1-xO | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 34 |  |
@@ -333,6 +338,14 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 17.7233 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 58 |  |
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 53 |  |
 | Entropy; _printed: °S298_ | 17.7 J/mol-atom/K | 298.15 | MnO2; _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 57 |  |
+| Entropy; _printed: °S298_ | 19.44 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Millar 1875_ | Table 10, p. 15, row 25 |  |
+| Entropy; _printed: °S298_ | 17.7 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kubaschewski 1993_ | Table 10, p. 15, row 27 |  |
+| Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Zordan 1968_ [doi](https://doi.org/10.1021/cr60256a003) | Table 10, p. 15, row 29 |  |
+| Entropy; _printed: °S298_ | 17.7233 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Kelley 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 28 |  |
+| Entropy; _printed: °S298_ | 17.5833 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Robie 1985_ [doi](https://doi.org/10.1016/0021-9614%2885%2990069-2) | Table 10, p. 15, row 26 |  |
+| Entropy; _printed: °S298_ | 18.0867 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Moore 1943_ [doi](https://doi.org/10.1021/ja01245a015) | Table 10, p. 15, row 24 |  |
+| Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 23 |  |
+| Entropy; _printed: °S298_ | 17.9833 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003 | Table 10, p. 15, row 30 |  |
 
 ### Activity / EMF / Gibbs energy (113)
 

@@ -259,8 +259,8 @@ _cited as the source of values for this phase_
 - Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-zn:liquid)
 
-Names (9): _corpus: _corpus:phase:bi-zn:liquid  
-_paper: _paper:10.1016/s0364-5916(00)00011-0:Liquid, paper:10.1088/0965-0393/13/3/006:1 liq, paper:10.1088/0965-0393/13/3/006:liq 1  
+Names (10): _corpus: _corpus:phase:bi-zn:liquid  
+_paper: _paper:10.1016/s0364-5916(00)00011-0:Liquid, paper:10.1088/0965-0393/13/3/006:1 liq, paper:10.1088/0965-0393/13/3/006:liq 1, paper:10.1088/0965-0393/13/3/006:liq 2  
 _tdb: _tdb:BiZn-00Mal-LB.tdb:LIQUID, tdb:BiZn-03Kim.tdb:LIQUID, tdb:BiZn-05Dja.tdb:LIQUID, tdb:BiZn-07Viz.tdb:LIQUID, tdb:BiZn-85Gir.tdb:LIQUID  
 
 

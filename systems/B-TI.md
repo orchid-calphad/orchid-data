@@ -108,17 +108,17 @@ Table: Enthalpies of formation, B–Ti system (25)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ti3B4 |  | -94.3 kJ/mol (basis unstated) |  | model |  |  | [6] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 4 |  |
 | Ti3B4 |  | -85.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 3 |  |
-| TiB |  | -160.247 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
+| TiB |  | -160.247 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
 | TiB |  | -83 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 1 |  |
 | TiB |  | -82.5 kJ/mol (basis unstated) |  | model |  |  | [6] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 2 |  |
-| TiB2 |  | -323.8 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Guzman 1995_ [doi](https://doi.org/10.1016/0042-207x%2895%2900080-1) | Table 3, p. 4, row 8 |  |
-| TiB2 |  | -319.788 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Akhachinskij 1975_ | Table 3, p. 4, row 12 |  |
-| TiB2 |  | -314.754 kJ/mol (basis unstated) ± 17.556 | 298 | experimental |  |  | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 6 |  |
-| TiB2 |  | -305.34 kJ/mol (basis unstated) ± 6.72 | 298 | experimental |  |  | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 7 |  |
-| TiB2 |  | -300.96 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Schissel 1959_ | Table 3, p. 4, row 13 |  |
-| TiB2 |  | -298.2 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Brewer 1955_ [doi](https://doi.org/10.1149/1.2430108) | Table 3, p. 4, row 9 |  |
-| TiB2 |  | -292.6 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Williams 1961_ [doi](https://doi.org/10.1021/j100829a025) | Table 3, p. 4, row 11 |  |
-| TiB2 |  | -217.32 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 10 |  |
+| TiB2 |  | -323.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Guzman 1995_ [doi](https://doi.org/10.1016/0042-207x%2895%2900080-1) | Table 3, p. 4, row 8 |  |
+| TiB2 |  | -319.788 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Akhachinskij 1975_ | Table 3, p. 4, row 12 |  |
+| TiB2 |  | -314.754 kJ/mol (basis unstated) ± 17.556 | 298.15 | experimental |  |  | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 6 |  |
+| TiB2 |  | -305.34 kJ/mol (basis unstated) ± 6.72 | 298.15 | experimental |  |  | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 7 |  |
+| TiB2 |  | -300.96 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Schissel 1959_ | Table 3, p. 4, row 13 |  |
+| TiB2 |  | -298.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Brewer 1955_ [doi](https://doi.org/10.1149/1.2430108) | Table 3, p. 4, row 9 |  |
+| TiB2 |  | -292.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Williams 1961_ [doi](https://doi.org/10.1021/j100829a025) | Table 3, p. 4, row 11 |  |
+| TiB2 |  | -217.32 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 10 |  |
 | TiB2 |  | -109.7 kJ/mol (basis unstated) |  | model |  |  | [6] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 10 |  |
 | TiB2 |  | -105.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 9 |  |
 | TiB2 |  | -83.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Nakama 2009 | Table 3, p. 6, row 8 |  |
@@ -185,10 +185,10 @@ Table: Heat capacity / entropy / enthalpy, B–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298 K_ | 34.7 unknown ± 6.3 | 298 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 1 |  |
-| Entropy; _printed: S298 K_ | 23.1 unknown ± 8.4 | 298 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 2 |  |
-| Entropy; _printed: S298 K_ | 28.48 unknown ± 0.4 | 298 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Chase 1998_ | Table 3, p. 4, row 4 |  |
-| Entropy; _printed: S298 K_ | 28.602 unknown ± 0.42 | 298 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 3 |  |
+| Entropy; _printed: S298 K_ | 34.7 unknown ± 6.3 | 298.15 | TiB; _alloy: Ti 0.5_ | experimental | [3] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 1 |  |
+| Entropy; _printed: S298 K_ | 23.1 unknown ± 8.4 | 298.15 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 2 |  |
+| Entropy; _printed: S298 K_ | 28.48 unknown ± 0.4 | 298.15 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Chase 1998_ | Table 3, p. 4, row 4 |  |
+| Entropy; _printed: S298 K_ | 28.602 unknown ± 0.42 | 298.15 | TiB2; _alloy: Ti 0.333333_ | experimental | [3] Ma 2004; _cites Yurick 1980_ | Table 3, p. 4, row 3 |  |
 
 ### Crystal structure (20)
 

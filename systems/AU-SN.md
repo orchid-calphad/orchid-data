@@ -1,10 +1,10 @@
 # Au–Sn system
 
-> Au–Sn system: 108 accepted literature values (invariant reaction 76, phase transition 20, formation 9, crystal structure 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Sn system: 103 accepted literature values (invariant reaction 76, phase transition 20, formation 7) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SN.html · Markdown: https://data.orchid-project.org/systems/AU-SN.md
 
-108 accepted literature values from 6 paper(s) (experimental 35, model 54, DFT 7, unspecified 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+103 accepted literature values from 6 paper(s) (experimental 35, model 53, DFT 3, unspecified 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SN/AuSn-03Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SN.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 35 |
-| model | 54 |
-| DFT | 7 |
+| model | 53 |
+| DFT | 3 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -23,8 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 76 |
 | phase transition | 20 |
-| formation | 9 |
-| crystal structure | 3 |
+| formation | 7 |
 
 ## Calculated phase diagrams
 
@@ -261,7 +260,7 @@ Table: Invariant reactions reported in the literature for the Au–Sn system (76
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Sn system (9)
+Table: Enthalpies of formation, Au–Sn system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -272,8 +271,6 @@ Table: Enthalpies of formation, Au–Sn system (9)
 | NiAs-type AuSn |  | -18.77 kJ/mol-atom | 0 | DFT |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 2 |  |
 | NiAs-type AuSn |  | -15.75 kJ/mol-atom |  | model |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 3 |  |
 | NiAs-type AuSn |  | -15.69 kJ/mol-atom | 78 | experimental |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 1 |  |
-| PdSn4 type, AuSn4 |  | -7.2 kJ/mol (basis unstated) | 10 | model |  |  | [6] Dong 2009 | Table II, p. 4, row 10 |  |
-| PdSn4 type, AuSn4 |  | -7.19 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Dong 2009 | Table II, p. 4, row 9 |  |
 
 ## Other properties
 
@@ -303,16 +300,6 @@ Table: Phase transition, Au–Sn system
 | Phase transition | 692.6 K | 692.6 | AuSn -> L; _AuSn: Sn 0.5_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 13 |  |
 | Phase transition | 1337.58 K | 1337.58 | Au(fcc) -> Au(liq); _Au(fcc): Sn 0_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 33 |  |
 | Phase transition | 1337.58 K | 1337.58 | Au(fcc) -> Au(liq); _Au(fcc): Sn 0_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 32 |  |
-
-### Crystal structure (3)
-
-Table: Crystal structure, Au–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 6.051 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [6] Dong 2009 | Table II, p. 4, row 9 |  |
-| Lattice b; _printed: b_ | 3.032 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [6] Dong 2009 | Table II, p. 4, row 9 |  |
-| Lattice c; _printed: c_ | 5.98 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [6] Dong 2009 | Table II, p. 4, row 9 |  |
 
 ## Sources
 

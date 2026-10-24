@@ -17,8 +17,6 @@
    1533.15,
    1513.15,
    1467.15,
-   1476.15,
-   1456.15,
    1497.0
   ]
  },
@@ -131,73 +129,6 @@
   ],
   [
    [
-    "CO3SI_D019",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "SI"
-    ],
-    [
-     0.181
-    ]
-   ],
-   [
-    "CO2SI_C37",
-    [
-     "SI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SI"
@@ -243,7 +174,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-SI/CoSi-06Zha.zpf-05.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3A3VIRW6WX ORC-6CNGCWPCXD ORC-J52BXVKOHI ORC-JVCBOUAWLP",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-SI/CoSi-06Zha.zpf-05.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6CNGCWPCXD ORC-J52BXVKOHI ORC-JVCBOUAWLP",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-SI/CoSi-06Zha.zpf-05.json",
@@ -305,44 +236,6 @@
     "phases_below": [
      "CO3SI_D019",
      "BCC_A2"
-    ]
-   },
-   {
-    "source_observation": "ORC-3A3VIRW6WX",
-    "side": "above",
-    "T_invariant_K": 1466.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αCo3Si -> (εCo) + αCo2Si",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "CO3SI_D019"
-    ],
-    "phases_below": [
-     "BCC_A2",
-     "CO2SI_C37"
-    ]
-   },
-   {
-    "source_observation": "ORC-3A3VIRW6WX",
-    "side": "below",
-    "T_invariant_K": 1466.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αCo3Si -> (εCo) + αCo2Si",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "CO3SI_D019"
-    ],
-    "phases_below": [
-     "BCC_A2",
-     "CO2SI_C37"
     ]
    },
    {

@@ -13,7 +13,7 @@
   "P": 101325,
   "T": [
    902.45,
-   793.35
+   793.4
   ]
  },
  "output": "ZPF",
@@ -102,7 +102,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6IK6OR4X2T ORC-YNW3UCH6VA",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6IK6OR4X2T ORC-ICETCEN3MW",
  "bibtex": "feutelais1996_0b2d2a",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -123,18 +123,10 @@
     ]
    },
    {
-    "id": "ORC-YNW3UCH6VA",
+    "id": "ORC-ICETCEN3MW",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02648368",
-    "measured_in": "doi:10.1007/bf02648368",
-    "also_reported_as": [
-     {
-      "id": "ORC-ICETCEN3MW",
-      "paper": "doi:10.1007/bf02648368",
-      "measured_in": "doi:10.1007/bf02648368",
-      "dataset": "invariants/SE-SN/SnSe-96Feu-LB.zpf-00.json"
-     }
-    ]
+    "measured_in": "doi:10.1007/bf02648368"
    }
   ],
   "papers": [
@@ -145,7 +137,7 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/SnSe-96Feu-LB/zpf-00.json",
   "values_dropped": 7,
-  "e3_merged": 2
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -158,9 +150,7 @@
    },
    {
     "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 0.5,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
@@ -181,7 +171,7 @@
     "calphad_check": "not_available"
    },
    {
-    "id": "ORC-YNW3UCH6VA",
+    "id": "ORC-ICETCEN3MW",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

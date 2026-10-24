@@ -53,15 +53,15 @@ Table: Enthalpies of formation, B–Ba–Ca–Sr system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8625 kJ/mol-atom | 298 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8376 kJ/mol-atom | 298 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
-| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.2307 kJ/mol-atom | 298 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.2015 kJ/mol-atom | 298 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.1829 kJ/mol-atom | 298 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
-| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -40.193 kJ/mol-atom | 298 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8599 kJ/mol-atom | 298 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8542 kJ/mol-atom | 298 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
-| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.1235 kJ/mol-atom | 298 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8625 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.8376 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
+| BaB6 | [BaB6](https://data.orchid-project.org/compounds/BaB6.html) | -40.2307 kJ/mol-atom | 298.15 | model | -39.556 (mp-aaaaabks) | -39.486 (oqmd-646731) | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.2015 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -41.1829 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
+| CaB6 | [CaB6](https://data.orchid-project.org/compounds/CaB6.html) | -40.193 kJ/mol-atom | 298.15 | model | -39.347 (mp-aaaaabhh) | -39.822 (oqmd-5116) | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8599 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.8542 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
+| SrB6 | [SrB6](https://data.orchid-project.org/compounds/SrB6.html) | -44.1235 kJ/mol-atom | 298.15 | model | -43.455 (mp-aaaaaaji) | -43.529 (oqmd-646494) | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
 
 ## Other properties
 
@@ -71,15 +71,15 @@ Table: Formation, B–Ba–Ca–Sr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS298_ | -0.168946 J/mol-atom/K | 298 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.68914 J/mol-atom/K | 298 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
-| Entropy of formation; _printed: ΔfS298_ | -1.68956 J/mol-atom/K | 298 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
-| Entropy of formation; _printed: ΔfS298_ | 2.67361 J/mol-atom/K | 298 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.141774 J/mol-atom/K | 298 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.191183 J/mol-atom/K | 298 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
-| Entropy of formation; _printed: ΔfS298_ | -0.654745 J/mol-atom/K | 298 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔfS298_ | 0.794177 J/mol-atom/K | 298 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
-| Entropy of formation; _printed: ΔfS298_ | -0.762673 J/mol-atom/K | 298 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.168946 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.68914 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.68956 J/mol-atom/K | 298.15 | BaB6; _alloy: Ba 0.142857, Ca 0, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.67361 J/mol-atom/K | 298.15 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 4 |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.141774 J/mol-atom/K | 298.15 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 3 |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.191183 J/mol-atom/K | 298.15 | CaB6; _alloy: Ba 0, Ca 0.142857, Sr 0_ | model | [1] Shang 2007 | Table 3, p. 3, row 1 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.654745 J/mol-atom/K | 298.15 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 5 |  |
+| Entropy of formation; _printed: ΔfS298_ | 0.794177 J/mol-atom/K | 298.15 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 8 |  |
+| Entropy of formation; _printed: ΔfS298_ | -0.762673 J/mol-atom/K | 298.15 | SrB6; _alloy: Ba 0, Ca 0, Sr 0.142857_ | model | [1] Shang 2007 | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

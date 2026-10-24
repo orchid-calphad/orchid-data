@@ -217,12 +217,12 @@ Table: Enthalpies of formation, Er–Fe system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe17Er2 | [Er2Fe17](https://data.orchid-project.org/compounds/Er2Fe17.html) | -9.85 kJ/mol-atom | 298 | model | -1.801 (mp-aaaaacoi) | -2.176 (oqmd-91107) | [4] Zhou 2010 | Table 4, p. 3, row 1 |  |
-| Fe23Er6 | [Er6Fe23](https://data.orchid-project.org/compounds/Er6Fe23.html) | -11.1 kJ/mol-atom | 298 | model | -6.997 (mp-aaaaadfe) | -6.957 (oqmd-29960) | [4] Zhou 2010 | Table 4, p. 3, row 2 |  |
-| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298 | model | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010 | Table 4, p. 3, row 6 |  |
-| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298 | experimental | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 5 |  |
-| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -11.6 kJ/mol-atom | 298 | model | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010 | Table 4, p. 3, row 4 |  |
-| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -7.9 kJ/mol-atom | 298 | experimental | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 3 |  |
+| Fe17Er2 | [Er2Fe17](https://data.orchid-project.org/compounds/Er2Fe17.html) | -9.85 kJ/mol-atom | 298.15 | model | -1.801 (mp-aaaaacoi) | -2.176 (oqmd-91107) | [4] Zhou 2010 | Table 4, p. 3, row 1 |  |
+| Fe23Er6 | [Er6Fe23](https://data.orchid-project.org/compounds/Er6Fe23.html) | -11.1 kJ/mol-atom | 298.15 | model | -6.997 (mp-aaaaadfe) | -6.957 (oqmd-29960) | [4] Zhou 2010 | Table 4, p. 3, row 2 |  |
+| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298.15 | model | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010 | Table 4, p. 3, row 6 |  |
+| Fe2Er | [ErFe2](https://data.orchid-project.org/compounds/ErFe2.html) | -12.5 kJ/mol-atom | 298.15 | experimental | -11.663 (mp-aaaaaasg) | -11.54 (oqmd-20826) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 5 |  |
+| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -11.6 kJ/mol-atom | 298.15 | model | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010 | Table 4, p. 3, row 4 |  |
+| Fe3Er | [ErFe3](https://data.orchid-project.org/compounds/ErFe3.html) | -7.9 kJ/mol-atom | 298.15 | experimental | -9.581 (mp-aaabgkwt) | -9.688 (oqmd-29959) | [4] Zhou 2010; _cites Norgren 1998_ [doi](https://doi.org/10.1007/s11661-998-0351-3) | Table 4, p. 3, row 3 |  |
 
 ## Other properties
 

@@ -17,11 +17,11 @@ Table: Phases of the Ni–Ta system (14)
 | [NI3X_D0A](#phase-ni-ta-d0a-ni3x); _phase:ni-ta:d0a-ni3x_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ni-ta-fcc-a1); _phase:ni-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1731.47 K, x(Ta) 0–0.13773 | 36 | 7 |
 | [HCP_A3](#phase-ni-ta-hcp-a3); _phase:ni-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [LIQUID](#phase-ni-ta-liquid); _phase:ni-ta:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1627.39–4000 K, x(Ta) 0–1 | 73 | 7 |
+| [LIQUID](#phase-ni-ta-liquid); _phase:ni-ta:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1627.39–4000 K, x(Ta) 0–1 | 70 | 7 |
 | [NI2TA_C11B](#phase-ni-ta-ni2ta-c11b); _phase:ni-ta:ni2ta-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1678.62 K, x(Ta) 0.32694–0.3749 | 39 | 7 |
 | [NI3TA](#phase-ni-ta-ni3ta); _phase:ni-ta:ni3ta_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1819.32 K, x(Ta) 0.23036–0.27149 | 30 | 5 |
 | [NI3TA_D022](#phase-ni-ta-ni3ta-d022); _phase:ni-ta:ni3ta-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–603.39 K, x(Ta) 0.25–0.25 | 2 | 2 |
-| [NI3TA_KAPPA](#phase-ni-ta-ni3ta-kappa); _phase:ni-ta:ni3ta-kappa_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 600.01–1804.12 K, x(Ta) 0.23751–0.25295 | 29 | 2 |
+| [NI3TA_KAPPA](#phase-ni-ta-ni3ta-kappa); _phase:ni-ta:ni3ta-kappa_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 600.01–1804.12 K, x(Ta) 0.23751–0.25295 | 26 | 2 |
 | [NI8TA](#phase-ni-ta-ni8ta); _phase:ni-ta:ni8ta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1577.5 K, x(Ta) 0.11111–0.11111 | 3 | 1 |
 | [NI8X](#phase-ni-ta-ni8x); _phase:ni-ta:ni8x_ | Pt8Ti · tI18 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1583.35 K, x(Ta) 0.11111–0.11111 | 12 | 3 |
 | [NITA_D85](#phase-ni-ta-nita-d85); _phase:ni-ta:nita-d85_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1895.02 K, x(Ta) 0.5–0.58419 | 38 | 7 |
@@ -333,7 +333,7 @@ _assessment that models this phase_
 - Id: `phase:ni-ta:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1627.39–4000 K, x(Ta) 0–1
-- Literature: 73 values (73 accepted) from 3 papers
+- Literature: 70 values (70 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ta:liquid)
 
 Names (11): _corpus: _corpus:phase:ni-ta:liquid  
@@ -604,7 +604,7 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 600.01–1804.12 K, x(Ta) 0.23751–0.25295
-- Literature: 29 values (29 accepted) from 1 papers
+- Literature: 26 values (26 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ta:ni3ta-kappa)
 
 Names (5): _corpus: _corpus:phase:ni-ta:ni3ta-kappa  

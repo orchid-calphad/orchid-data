@@ -7,15 +7,12 @@
  "phases": [
   "LIQUID",
   "NI10ZR7",
-  "NI21ZR8",
-  "NI3ZR_D019",
-  "NI7ZR2"
+  "NI21ZR8"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1348.0,
-   1193.0
+   1348.0
   ]
  },
  "output": "ZPF",
@@ -48,44 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "NI7ZR2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "NI21ZR8",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "NI3ZR_D019",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.24936133333333332
-    ]
-   ]
   ]
  ],
  "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
@@ -95,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2CD6XBUHWF ORC-HJEDEL7B3G",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2CD6XBUHWF",
  "bibtex": "jana2020_bdc191",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -103,11 +62,6 @@
   "observations": [
    {
     "id": "ORC-2CD6XBUHWF",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.intermet.2019.106640"
-   },
-   {
-    "id": "ORC-HJEDEL7B3G",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2019.106640"
    }
@@ -120,17 +74,12 @@
    "10.1016/0022-5088(79)90241-8",
    "10.1016/j.intermet.2019.106640"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 10.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -152,11 +101,6 @@
   "values": [
    {
     "id": "ORC-2CD6XBUHWF",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-HJEDEL7B3G",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

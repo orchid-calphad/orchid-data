@@ -29,16 +29,16 @@ Table: Phase transition, Dy–Er–Eu–Ho–Lu–O–Sc–Sm–Tb–Tm–Y–Yb
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 298 K | 298 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 8 |  |
-| Phase transition | 298 K | 298 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0.4, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 2.3, p. 10, row 11 |  |
-| Phase transition | 298 K | 298 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 7 |  |
-| Phase transition | 298 K | 298 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0.4, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Atou 1989_ | Table 2.3, p. 10, row 9 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0.4, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Atou 1994_ | Table 2.3, p. 10, row 2 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 5 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0.4, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1992_ | Table 2.3, p. 10, row 10 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Atou 1990_ | Table 2.3, p. 10, row 4 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 6 |  |
-| Phase transition | 298 K | 298 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Meyer 1995_ | Table 2.3, p. 10, row 26 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 8 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0.4, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 2.3, p. 10, row 11 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 7 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0.4, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Atou 1989_ | Table 2.3, p. 10, row 9 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ A; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0.4, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Atou 1994_ | Table 2.3, p. 10, row 2 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Husson 1999_ | Table 2.3, p. 10, row 5 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0.4, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1992_ | Table 2.3, p. 10, row 10 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Atou 1990_ | Table 2.3, p. 10, row 4 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0.4, Yb 0_ | unspecified | [1] ZINKEVICH 2007; _cites Ma 2002_ | Table 2.3, p. 10, row 6 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Meyer 1995_ | Table 2.3, p. 10, row 26 |  |
 | Phase transition | 492 K | 492 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 14 |  |
 | Phase transition | 589 K | 589 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 15 |  |
 | Phase transition | 686 K | 686 | polymorphic: C ⇒ B; _alloy: Er 0, Eu 0, Ho 0, Lu 0, O 0.6, Sc 0, Sm 0, Tb 0, Tm 0, Y 0, Yb 0_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 2.3, p. 10, row 16 |  |

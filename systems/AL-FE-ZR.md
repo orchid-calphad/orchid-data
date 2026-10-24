@@ -1,10 +1,10 @@
 # Al–Fe–Zr system
 
-> Al–Fe–Zr system: 95 accepted literature values (invariant reaction 63, formation 32) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Zr system: 79 accepted literature values (invariant reaction 63, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-FE-ZR.md
 
-95 accepted literature values from 2 paper(s) (experimental 25, model 70); 0 calculated phase diagram(s).
+79 accepted literature values from 2 paper(s) (experimental 19, model 60); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-ZR.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 70 |
+| experimental | 19 |
+| model | 60 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 63 |
-| formation | 32 |
+| formation | 16 |
 
 ## Invariant reactions (literature)
 
@@ -96,26 +96,10 @@ Table: Invariant reactions reported in the literature for the Al–Fe–Zr syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Fe–Zr system (32)
+Table: Enthalpies of formation, Al–Fe–Zr system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zr(AlxFe1−x)2 |  | -232 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 12 |  |
-| Zr(AlxFe1−x)2 |  | -178 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 13 |  |
-| Zr(AlxFe1−x)2 |  | -162 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 10 |  |
-| Zr(AlxFe1−x)2 |  | -157 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 16 |  |
-| Zr(AlxFe1−x)2 |  | -154 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 15 |  |
-| Zr(AlxFe1−x)2 |  | -153 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 14 |  |
-| Zr(AlxFe1−x)2 |  | -140 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 11 |  |
-| Zr(AlxFe1−x)2 |  | -125 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 9 |  |
-| Zr(AlxFe1−x)2 |  | -121 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 7 |  |
-| Zr(AlxFe1−x)2 |  | -105 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 8 |  |
-| Zr(AlxFe1−x)2 |  | -101 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 4 |  |
-| Zr(AlxFe1−x)2 |  | -86 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 5 |  |
-| Zr(AlxFe1−x)2 |  | -83 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 6 |  |
-| Zr(AlxFe1−x)2 |  | -74 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 3 |  |
-| Zr(AlxFe1−x)2 |  | -71 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 1 |  |
-| Zr(AlxFe1−x)2 |  | -71 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009 | Table 2, p. 5, row 2 |  |
 | Zr(AlxFe1−x)2 Laves |  | -232 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rigaud 2009; _cites Klein 1994_ [doi](https://doi.org/10.1006/jcht.1994.1069) | Table 2, p. 5, row 12 |  |
 | Zr(AlxFe1−x)2 Laves |  | -178 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 13 |  |
 | Zr(AlxFe1−x)2 Laves |  | -162 kJ/mol (basis unstated) |  | model |  |  | [2] Rigaud 2009; _cites Goncalves 1996_ [doi](https://doi.org/10.1016/s0921-4526%2896%2900480-2) | Table 2, p. 5, row 10 |  |

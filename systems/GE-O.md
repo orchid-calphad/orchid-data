@@ -1,10 +1,10 @@
 # Ge–O system
 
-> Ge–O system: 43 accepted literature values (formation 19, heat capacity / entropy / enthalpy 9, phase transition 8, invariant reaction 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–O system: 38 accepted literature values (formation 14, heat capacity / entropy / enthalpy 9, phase transition 8, invariant reaction 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-O.html · Markdown: https://data.orchid-project.org/systems/GE-O.md
 
-43 accepted literature values from 1 paper(s) (experimental 28, model 12, unspecified 3); 2 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (experimental 24, model 11, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-O.json) · [CSV](https://data.orchid-project.org/systems/GE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-O/GeO-15Din.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-O.html) · [Markdown](https://data.orchid-project.org/systems/GE-O.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 12 |
+| experimental | 24 |
+| model | 11 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 8 |
-| formation | 19 |
+| formation | 14 |
 | heat capacity / entropy / enthalpy | 9 |
 | other property | 1 |
 
@@ -64,7 +64,7 @@ Table: Invariant reactions reported in the literature for the Ge–O system (6)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–O system (19)
+Table: Enthalpies of formation, Ge–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -82,11 +82,6 @@ Table: Enthalpies of formation, Ge–O system (19)
 | GeO2 hexagonal |  | -540.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Mah 1962_ | Table 4, p. 4, row 6 |  |
 | GeO2 hexagonal |  | -538 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 4, p. 4, row 2 |  |
 | GeO2 hexagonal |  | -536 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Becker 1932_ [doi](https://doi.org/10.1515/zpch-1932-16107) | Table 4, p. 4, row 1 |  |
-| hexagonal |  | -574 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Katayama 1975_ | Table 4, p. 4, row 10 |  |
-| hexagonal |  | -553.82 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dinsdale 2015; _cites Richet 1990_ [doi](https://doi.org/10.1007/bf00209228) | Table 4, p. 4, row 13 |  |
-| hexagonal |  | -540.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Mah 1962_ | Table 4, p. 4, row 6 |  |
-| hexagonal |  | -538 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 4, p. 4, row 2 |  |
-| hexagonal |  | -536 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Dinsdale 2015; _cites Becker 1932_ [doi](https://doi.org/10.1515/zpch-1932-16107) | Table 4, p. 4, row 1 |  |
 
 ## Other properties
 

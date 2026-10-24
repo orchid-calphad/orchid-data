@@ -1,10 +1,10 @@
 # Cs–Te system
 
-> Cs–Te system: 70 accepted literature values (crystal structure 26, invariant reaction 16, phase transition 12, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–Te system: 68 accepted literature values (crystal structure 26, invariant reaction 16, phase transition 12, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-TE.html · Markdown: https://data.orchid-project.org/systems/CS-TE.md
 
-70 accepted literature values from 1 paper(s) (experimental 51, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+68 accepted literature values from 1 paper(s) (experimental 49, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
+| experimental | 49 |
 | model | 15 |
 | unspecified | 4 |
 
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | heat capacity / entropy / enthalpy | 5 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 26 |
-| other property | 4 |
+| other property | 2 |
 
 ## Calculated phase diagrams
 
@@ -98,7 +98,7 @@ Table: Enthalpies of formation, Cs–Te system (5)
 | Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 8.3 | 298.15 (>) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | Cs₂Te |  | -361.4 kJ/mol (basis unstated) ± 3.2 | 298.15 | experimental |  |  | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
 | Cs₅Te₃ |  | -942.2 kJ/mol (basis unstated) ± 8.3 | 298.15 (>) | model |  |  | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
-| UNKNOWN |  | -942200 unknown ± 8300 | 298.15 | experimental |  |  | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8 |  |
+| UNKNOWN |  | -117.775 kJ/mol-atom ± 8300 | 298.15 | experimental |  |  | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8 |  |
 
 ## Other properties
 
@@ -175,15 +175,13 @@ Table: Crystal structure, Cs–Te system
 | lattice c a | 1.3289 not_printed | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
 | lattice gamma | 90 ° |  | β-Cs5Te3; _β-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 4 |  |
 
-### Other property (4)
+### Other property (2)
 
 Table: Other property, Cs–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: Enthalpy of α/β transition_ | 1950 J/mol ± 230 |  | Cs2Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 3, p. 4, row 4 |  |
 | Transition enthalpy; _printed: Enthalpy of α/β transition of Cs2Te_ | 1950 J/mol ± 230 |  | Cs₂Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 3, p. 4, row 4 |  |
-| Transition enthalpy; _printed: Enthalpy of melting_ | 7100 J/mol ± 1000 |  | β-Cs2Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 3, p. 4, row 5 |  |
 | Transition enthalpy; _printed: Enthalpy of melting of β-Cs2Te_ | 7100 J/mol ± 1000 |  | β-Cs₂Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 3, p. 4, row 5 |  |
 
 ## Sources

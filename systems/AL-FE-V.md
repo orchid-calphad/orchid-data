@@ -1,10 +1,10 @@
 # Al–Fe–V system
 
-> Al–Fe–V system: 28 accepted literature values (formation 14, crystal structure 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–V system: 14 accepted literature values (formation 7, crystal structure 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-V.html · Markdown: https://data.orchid-project.org/systems/AL-FE-V.md
 
-28 accepted literature values from 1 paper(s) (DFT 28); 0 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (DFT 14); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-V.md)
 
@@ -12,30 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 28 |
+| DFT | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 14 |
-| crystal structure | 14 |
+| formation | 7 |
+| crystal structure | 7 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Fe–V system (14)
+Table: Enthalpies of formation, Al–Fe–V system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A15 |  | -14.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 3 |  |
-| A15 |  | -13.03 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 5 |  |
-| A2 |  | -14.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 2 |  |
-| A2 |  | -9.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 6 |  |
-| D03 |  | -18.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 1 |  |
-| D03 |  | -9.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 7 |  |
-| D03 |  | 4.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 4 |  |
 | Fe3Al A15 |  | -14.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 3 |  |
 | Fe3Al A2 |  | -14.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 2 |  |
 | Fe3Al D03 |  | -18.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2018 | Table 1, p. 4, row 1 |  |
@@ -46,19 +39,12 @@ Table: Enthalpies of formation, Al–Fe–V system (14)
 
 ## Other properties
 
-### Crystal structure (14)
+### Crystal structure (7)
 
 Table: Crystal structure, Al–Fe–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.5944 Å | 0 | A15; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 4.8086 Å | 0 | A15; _alloy: Fe 0, V 0.75_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 2.8836 Å | 0 | A2; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 3.0336 Å | 0 | A2; _alloy: Fe 0, V 0.75_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 5.6151 Å | 0 | D03; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 6.0539 Å | 0 | D03; _alloy: Fe 0, V 0.75_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 5.7375 Å | 0 | D03; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 1 |  |
 | Lattice a; _printed: a_ | 4.5944 Å | 0 | Fe3Al A15; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 3 |  |
 | Lattice a; _printed: a_ | 2.8836 Å | 0 | Fe3Al A2; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 2 |  |
 | Lattice a; _printed: a_ | 5.6151 Å | 0 | Fe3Al D03; _alloy: Fe 0.75, V 0_ | DFT | [1] Berche 2018 | Table 1, p. 4, row 4 |  |

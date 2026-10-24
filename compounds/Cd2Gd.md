@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Cd2Gd reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.89 kJ/mol-atom | α-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 5 |  |
-| -43.88 kJ/mol-atom | β-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 3 |  |
-| -42.96 kJ/mol-atom | α-Cd2Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 4 |  |
+| -43.89 kJ/mol-atom | α-Cd2Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 5 |  |
+| -43.88 kJ/mol-atom | β-Cd2Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 3 |  |
+| -42.96 kJ/mol-atom | α-Cd2Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 4 |  |
 
 ## DFT formation energies
 
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cd2Gd
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabfaj | -31.052 | -0.321837 | P6/mmm | 0 | no |
-| OQMD | oqmd-11026 | -32.441 | -0.336225 | P-3m1 | 0.145 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabfaj | -31.052 | -0.321837 | P6/mmm | 0 | 0 | no |
+| OQMD | oqmd-11026 | -32.441 | -0.336225 | P-3m1 | 0.145 | 0.0015 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

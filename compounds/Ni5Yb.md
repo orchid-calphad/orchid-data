@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ni5Yb reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22 kJ/mol-atom | Ni5Yb | 298 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 10 |  |
+| -22 kJ/mol-atom | Ni5Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 10 |  |
 | -20.9 kJ/mol-atom ± 4.4 | Ni5Yb | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 8 |  |
 | -20.9 unknown ± 4.4 | YbNi5 | 0 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 13 |  |
 | -20.47 kJ/mol-atom | Ni5Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 9 |  |
@@ -30,9 +30,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ni5Yb
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-17858 | -21.239 | -0.220131 | P6/mmm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-17858 | -21.239 | -0.220131 | P6/mmm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

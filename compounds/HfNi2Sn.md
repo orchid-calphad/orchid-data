@@ -1,16 +1,16 @@
 # HfNi2Sn: enthalpy of formation
 
-> Enthalpy of formation of HfNi2Sn: 8 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of HfNi2Sn: 9 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HfNi2Sn.html · Markdown: https://data.orchid-project.org/compounds/HfNi2Sn.md
 
-8 accepted literature formation-enthalpy value(s) (DFT 8).
+9 accepted literature formation-enthalpy value(s) (DFT 9).
 
 Systems: [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HfNi2Sn reported in the literature (8)
+Table: Enthalpy of formation of HfNi2Sn reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -22,6 +22,7 @@ Table: Enthalpy of formation of HfNi2Sn reported in the literature (8)
 | 201.3 kJ/mol (basis unstated) | HfNi2Sn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
 | 211.7 kJ/mol (basis unstated) | HfNi2Sn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
 | 226.4 kJ/mol (basis unstated) | HfNi2Sn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
+| 270 kJ/mol (basis unstated) | HfNi2Sn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 
 ## Sources
 

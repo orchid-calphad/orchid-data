@@ -104,7 +104,7 @@ Table: Invariant reactions reported in the literature for the Ag–Ga system (49
 | 299 | L = ζ′ + Orthorhombic_GA | ζ′: Ga 0.333333; Orthorhombic_GA: Ga 1 | experimental | [1] Gierlotka 2011; _cites Predel 1972_ [doi](https://doi.org/10.1016/0001-6160%2872%2990097-1) | Table 3, p. 4, row 14 |  |
 | 299 | eutectic: L \<-> AgmGan + Ga | AgmGan: Ga 0.5; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Feschotte 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990272-6) | Table 2, p. 3, row 27 |  |
 | 299 | eutectic |  | experimental | [1] Gierlotka 2011 | p. 2 | “The system shows 3 invariant reactions: eutectic reaction between liquid, solid Ga and intermetallic compound Ag3 Ga2 at temperature 299 K and 2 peritectic reactions: one between Ag, liquid and ␨ phase at 886 K and another between liquid, Ag3 Ga2 and ␨ at 575 K.” |
-| 298 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.974; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | Table 2, p. 3, row 30 |  |
+| 298.15 | eutectic: L \<-> AgmGan + Ga | L: Ga 0.974; Ga: Ga 1 | experimental | [2] Zhang 2006; _cites Weibke 1936_ [doi](https://doi.org/10.1002/zaac.19362260215) | Table 2, p. 3, row 30 |  |
 
 ## Other properties
 

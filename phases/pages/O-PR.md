@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/O-PR.html · Markdown: https:
 
 15 phases (tier A 3, tier C 9, liquid 1, gas 2); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=O-PR) · [full JSON](https://data.orchid-project.org/phases/systems/O-PR.json) · [Markdown](https://data.orchid-project.org/phases/pages/O-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=O-PR) · [full JSON](https://data.orchid-project.org/phases/systems/O-PR.json) · [O–Pr system page](https://data.orchid-project.org/systems/O-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/O-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the O–Pr system (15)
 

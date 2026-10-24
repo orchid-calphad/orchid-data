@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Mo2Zr reported in the literature (3)
 |---:|---|---:|---|---|---|---|---|---|
 | -13.48 kJ/mol-atom | Mo2Zr (Laves_c15) |  | model | FP-LMTO | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
 | -9.3 kJ/mol-atom | Mo2Zr (Laves_c15) |  | model |  | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003; _cites Brewer 1980_ | Table 2, p. 7, row 1 |  |
-| -7.49 kJ/mol-atom | Mo2Zr (Laves_c15) | 298 | model | Miedema’s method | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
+| -7.49 kJ/mol-atom | Mo2Zr (Laves_c15) | 298.15 | model | Miedema’s method | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
 
 ## DFT formation energies
 
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Mo2Zr
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadav | -13.443 | -0.139329 | Fd-3m | 0 | no |
-| OQMD | oqmd-17718 | -13.282 | -0.137657 | Fd-3m | 0.02 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadav | -13.443 | -0.139329 | Fd-3m | 0 | 0 | no |
+| OQMD | oqmd-17718 | -13.282 | -0.137657 | Fd-3m | 0.02 | 2.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Ce–Ga system
 
-> Ce–Ga system: 89 accepted literature values (invariant reaction 50, formation 22, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Ga system: 87 accepted literature values (invariant reaction 50, formation 20, phase transition 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-GA.html · Markdown: https://data.orchid-project.org/systems/CE-GA.md
 
-89 accepted literature values from 2 paper(s) (experimental 29, model 60); 2 calculated phase diagram(s).
+87 accepted literature values from 2 paper(s) (experimental 28, model 59); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-GA.json) · [CSV](https://data.orchid-project.org/systems/CE-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-GA/CeGa-13Idb.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CE-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-GA.html) · [Markdown](https://data.orchid-project.org/systems/CE-GA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 60 |
+| experimental | 28 |
+| model | 59 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 50 |
 | phase transition | 17 |
-| formation | 22 |
+| formation | 20 |
 
 ## Calculated phase diagrams
 
@@ -128,7 +128,7 @@ Table: Invariant reactions reported in the literature for the Ce–Ga system (50
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–Ga system (22)
+Table: Enthalpies of formation, Ce–Ga system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -147,8 +147,6 @@ Table: Enthalpies of formation, Ce–Ga system (22)
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -72.036 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 12 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -66.6 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites Chkhikvadze 1977_ | Table 4, p. 6, row 11 |  |
 | CeGa2 | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -57.382 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 13 |  |
-| CeGa2 with x(Ga) = 0.79 at.% Ga | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -84.1 kJ/mol-atom ± 1.9 | 298.15 | experimental | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 14 |  |
-| CeGa2 with x(Ga) = 0.79 at.% Ga | [CeGa2](https://data.orchid-project.org/compounds/CeGa2.html) | -57.382 kJ/mol-atom | 298.15 | model | -56.989 (mp-aaaaadgz) | -66.477 (oqmd-662528) | [1] Idbenali 2013 | Table 4, p. 6, row 13 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -52.8 kJ/mol-atom ± 3 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 2 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -51.364 kJ/mol-atom | 298.15 | model | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013 | Table 4, p. 6, row 3 |  |
 | CeGa6_HT | [CeGa6](https://data.orchid-project.org/compounds/CeGa6.html) | -48.2 kJ/mol-atom ± 3.7 | 298.15 | experimental | -31.098 (mp-aaaaabbj) | -34.197 (oqmd-19608) | [1] Idbenali 2013; _cites F 1998_ | Table 4, p. 6, row 1 |  |

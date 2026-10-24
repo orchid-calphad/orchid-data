@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 1123.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -28,7 +28,8 @@
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CARTMZD2NZ",
- "weight": 0.520833,
+ "orchid_temperature_note": "temperature from the published records (page-checked correction of the stored temperature)",
+ "weight": 0.057149,
  "bibtex": "turchanin2008_458466",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -60,22 +61,22 @@
   "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
   "values": [
    {
-    "sigma": 960.0,
+    "sigma": 8749.0,
     "sigma_basis": "printed",
     "printed": {
-     "value": 0.96,
+     "value": 8.749,
      "unit": "kJ/mol-atom",
-     "interval": "±x printed; coverage not stated, taken as 1 sigma",
-     "coverage": "1sigma_assumed"
+     "interval": "sample standard deviation of the independent measurements of this compound (page-checked; the printed sigma, kept in the record's uncertainty_stored, is smaller than their scatter)",
+     "coverage": "scatter_between_sources"
     },
-    "weight_per_value_equivalent": 0.520833,
-    "weight_used": 0.520833
+    "weight_per_value_equivalent": 0.057149,
+    "weight_used": 0.057149
    }
   ]
  },
  "orchid_weight_floor": {
-  "suggested_weight": 0.520833,
-  "weight_written": 0.520833,
+  "suggested_weight": 0.057149,
+  "weight_written": 0.057149,
   "changes_weight": false,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",

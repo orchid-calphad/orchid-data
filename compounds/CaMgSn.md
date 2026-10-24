@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CaMgSn reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -56.94 kJ/mol-atom | CaMgSn | 298 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 11 |  |
-| -56.89 kJ/mol-atom | CaMgSn | 298 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 10 |  |
+| -56.94 kJ/mol-atom | CaMgSn | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 11 |  |
+| -56.89 kJ/mol-atom | CaMgSn | 298.15 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 10 |  |
 
 ## Sources
 

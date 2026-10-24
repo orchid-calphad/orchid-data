@@ -14,7 +14,7 @@ Table: Enthalpy of formation of TiB reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -160.247 kJ/mol (basis unstated) | TiB | 298 | experimental |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [1] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
+| -160.247 kJ/mol (basis unstated) | TiB | 298.15 | experimental |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [1] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
 | -82.5 kJ/mol-atom | TiB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29 |  |
 | -82.5 kJ/mol (basis unstated) | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 2 |  |
 | -69.3 kJ/mol-atom | TiB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22 |  |
@@ -32,10 +32,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of TiB
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaalqf | -80.281 | -0.832055 | Pnma | 0 | no |
-| OQMD | oqmd-28621 | -82.177 | -0.851705 | Pnma | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaalqf | -80.281 | -0.832055 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-28621 | -82.177 | -0.851705 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

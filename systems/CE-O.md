@@ -1,10 +1,10 @@
 # Ce–O system
 
-> Ce–O system: 69 accepted literature values (invariant reaction 48, phase equilibrium 12, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–O system: 70 accepted literature values (invariant reaction 48, phase equilibrium 12, phase transition 9, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-O.html · Markdown: https://data.orchid-project.org/systems/CE-O.md
 
-69 accepted literature values from 2 paper(s) (experimental 36, model 23, unspecified 10); 2 calculated phase diagram(s).
+70 accepted literature values from 3 paper(s) (experimental 36, model 24, unspecified 10); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-O.json) · [CSV](https://data.orchid-project.org/systems/CE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-O/CeO-06Zin.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CE-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-O.html) · [Markdown](https://data.orchid-project.org/systems/CE-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 36 |
-| model | 23 |
+| model | 24 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 48 |
 | phase transition | 9 |
 | phase equilibrium | 12 |
+| formation | 1 |
 
 ## Calculated phase diagrams
 
@@ -83,12 +84,12 @@ Table: Invariant reactions reported in the literature for the Ce–O system (48)
 | 2566 | peritectic: F=L+gas (P=1 bar) | F: O 0.649; L: O 0.637 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 3 |  |
 | 2557 | peritectic: CeO2(F)->L+gas (P=1 bar) | L: O 0.637; F: O 0.649 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 3 |  |
 | 2532 | congruent melting: L->Ce2O3(X) | L: O 0.582; X: O 0.582 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 4 |  |
-| 2413 | metatectic/catatectic: L+Ce2O3(X)->Ce2O3(H) | L: O 0.601; X: O 0.593 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 5 |  |
-| 2413 | metatectic/catatectic: L+Ce2O3(X)->Ce2O3(H) | L: O 0.474; X: O 0.574 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 6 |  |
+| 2413 | metatectic/catatectic: L+Ce2O3(X)->Ce2O3(H) | L: O 0.601 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 5 |  |
+| 2413 | metatectic/catatectic: L+Ce2O3(X)->Ce2O3(H) | L: O 0.474 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 6 |  |
 | 2413 | metatectic/catatectic: L+X=H | L: O 0.601; X: O 0.593; H: O 0.593 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 5 |  |
 | 2413 | metatectic/catatectic: L+X=H | L: O 0.52; X: O 0.572; H: O 0.572 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 6 |  |
-| 2338 | metatectic/catatectic: L+Ce2O3(H)->Ce2O3(A) | L: O 0.603; H: O 0.596 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 7 |  |
-| 2338 | metatectic/catatectic: L+Ce2O3(H)->Ce2O3(A) | L: O 0.359; H: O 0.574 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 8 |  |
+| 2338 | metatectic/catatectic: L+Ce2O3(H)->Ce2O3(A) | L: O 0.603 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 7 |  |
+| 2338 | metatectic/catatectic: L+Ce2O3(H)->Ce2O3(A) | L: O 0.359 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 8 |  |
 | 2338 | metatectic/catatectic: L+H=A | L: O 0.603; H: O 0.596; A: O 0.596 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 7 |  |
 | 2338 | metatectic/catatectic: L+H=A | L: O 0.337; H: O 0.569; A: O 0.569 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 8 |  |
 | 2079 | eutectic: L->Ce2O3(A)+CeO2(F) | L: O 0.615; A: O 0.6; F: O 0.623 | unspecified | [1] DJUROVIC 2008 | Table 4, p. 6, row 9 |  |
@@ -126,6 +127,16 @@ Table: Invariant reactions reported in the literature for the Ce–O system (48)
 | 722 | eutectoid: F′=Fʺ+Ce11O20 | F′: O 0.6486; Fʺ: O 0.666 | experimental | [2] ZINKEVICH 2006; _cites Ricken 1984_ [doi](https://doi.org/10.1016/0022-4596%2884%2990135-x) | Table 5, p. 9, row 37 |  |
 | 721 | eutectoid: F′=Fʺ+Ce11O20 | F′: O 0.64802; Fʺ: O 0.66504 | model | [2] ZINKEVICH 2006 | Table 5, p. 9, row 36 |  |
 | 714 | eutectoid: F′=Fʺ+Ce11O20 |  | experimental | [2] ZINKEVICH 2006; _cites Korner 1989_ | Table 5, p. 9, row 38 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ce–O system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| A-Ce2O3 | [Ce2O3](https://data.orchid-project.org/compounds/Ce2O3.html) | -358.476 kJ/mol-atom | 298.15 | model | -363.729 (mp-aaabewgf) | -339.664 (oqmd-16544) | [3] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
 
 ## Other properties
 
@@ -170,6 +181,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008). [doi:10.1016/j.ssi.2008.06.011](https://doi.org/10.1016/j.ssi.2008.06.011)
 2. M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006). [doi:10.1016/j.ssi.2006.02.044](https://doi.org/10.1016/j.ssi.2006.02.044)
+3. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
 
 ## Please cite
 

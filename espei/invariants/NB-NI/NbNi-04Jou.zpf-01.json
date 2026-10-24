@@ -74,29 +74,17 @@
     "id": "ORC-LPWA4XJUSH",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2004.09.004",
-    "measured_in": "ref:db9238b061cef03a",
-    "also_reported_as": [
-     {
-      "id": "ORC-TPSDOQZNVA",
-      "paper": "doi:10.1016/j.calphad.2023.102563",
-      "measured_in": "ref:d5d499d6dd1360b4",
-      "dataset": "invariants/NB-NI/NbNi-23Sun.zpf-02.json"
-     }
-    ]
+    "measured_in": "ref:db9238b061cef03a"
    }
   ],
   "papers": [
    "ref:db9238b061cef03a",
-   "doi:10.1016/j.calphad.2004.09.004",
-   "ref:d5d499d6dd1360b4",
-   "doi:10.1016/j.calphad.2023.102563"
+   "doi:10.1016/j.calphad.2004.09.004"
   ],
   "dois": [
-   "10.1016/j.calphad.2004.09.004",
-   "10.1016/j.calphad.2023.102563"
+   "10.1016/j.calphad.2004.09.004"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NbNi-04Jou/zpf-01.json",
-  "e3_merged": 1
+  "source_dataset": "db-v2.1/invariants/espei/NbNi-04Jou/zpf-01.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

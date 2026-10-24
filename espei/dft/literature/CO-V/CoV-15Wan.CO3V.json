@@ -110,22 +110,22 @@
  "reference": "Wang 2020, doi:10.1016/j.calphad.2019.101729",
  "bibtex": "wang2020_f5bf31",
  "weight": [
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704,
-  0.153704
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965,
+  0.141965
  ],
  "tags": [
   "dft_literature",
@@ -274,7 +274,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -282,16 +282,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 13.9387,
@@ -301,7 +301,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -309,16 +309,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 23.2844,
@@ -328,7 +328,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -336,16 +336,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 8.4967,
@@ -355,7 +355,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -363,16 +363,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 4.5149,
@@ -382,7 +382,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -390,16 +390,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -1.3604,
@@ -409,7 +409,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -417,16 +417,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -7.0055,
@@ -436,7 +436,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -444,16 +444,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -16.3103,
@@ -463,7 +463,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -471,16 +471,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.0006,
@@ -490,7 +490,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -498,16 +498,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 9.8872,
@@ -517,7 +517,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -525,16 +525,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 1.1026,
@@ -544,7 +544,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -552,16 +552,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -7.1374,
@@ -571,7 +571,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -579,16 +579,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -7.2976,
@@ -598,7 +598,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -606,16 +606,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 17.3899,
@@ -625,7 +625,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -633,16 +633,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 4.4217,
@@ -652,7 +652,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -660,16 +660,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 7.0017,
@@ -679,7 +679,7 @@
     "compound": "Co3V"
    },
    {
-    "sigma": 3253.0,
+    "sigma": 3522.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -687,16 +687,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "CO-V",
-     "n": 94,
-     "sigma_robust_kJ": 3.253,
-     "bias_median_kJ_not_applied": 1.415,
+     "n": 90,
+     "sigma_robust_kJ": 3.522,
+     "bias_median_kJ_not_applied": 1.27,
      "ci95_sigma_robust_kJ_full_stratum": [
-      2.494,
-      4.312
+      2.601,
+      4.595
      ],
-     "n_full_stratum": 94
+     "n_full_stratum": 90
     },
-    "weight_used": 0.153704,
+    "weight_used": 0.141965,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": 1.7914,

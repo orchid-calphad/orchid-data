@@ -1,10 +1,10 @@
 # Al–Sr system
 
-> Al–Sr system: 163 accepted literature values (formation 80, invariant reaction 78, phase transition 4, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sr system: 126 accepted literature values (invariant reaction 78, formation 43, phase transition 4, activity / EMF / Gibbs energy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SR.html · Markdown: https://data.orchid-project.org/systems/AL-SR.md
 
-163 accepted literature values from 3 paper(s) (experimental 53, model 30, DFT 80); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+126 accepted literature values from 3 paper(s) (experimental 53, model 30, DFT 43); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SR.json) · [CSV](https://data.orchid-project.org/systems/AL-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SR/AlSr-03Wan-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SR.html) · [Markdown](https://data.orchid-project.org/systems/AL-SR.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 53 |
 | model | 30 |
-| DFT | 80 |
+| DFT | 43 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 78 |
 | phase transition | 4 |
-| formation | 80 |
+| formation | 43 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Calculated phase diagrams
@@ -191,7 +191,7 @@ Table: Invariant reactions reported in the literature for the Al–Sr system (78
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Sr system (80)
+Table: Enthalpies of formation, Al–Sr system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -200,10 +200,7 @@ Table: Enthalpies of formation, Al–Sr system (80)
 | Al10V-type |  | 8.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 24 |  |
 | Al13Ba7-type |  | -27.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 37 |  |
 | Al13Ba7-type |  | -27.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 38 |  |
-| Al13Sr7 Al13Ba7-type |  | -27.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 37 |  |
-| Al13Sr7 Al13Ba7-type |  | -27.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 38 |  |
 | Al14Ca13-type |  | -22.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 19 |  |
-| Al14Sr13 Al14Ca13-type |  | -22.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 19 |  |
 | Al2Sr C14 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 7 |  |
 | Al2Sr C15 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 36 |  |
 | Al2Sr C15 |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17 |  |
@@ -218,18 +215,11 @@ Table: Enthalpies of formation, Al–Sr system (80)
 | Al2Sr CeCu2-type |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 33 |  |
 | Al2Sr CeCu2-type |  | -27.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 32 |  |
 | Al2Sr MoPt2-type |  | -8.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 13 |  |
-| Al2Sr Si2Sr-type |  | -9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 12 |  |
 | Al3Sr L12 |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 4 |  |
-| Al3Sr Ni3Sn-type |  | -18.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 2 |  |
 | Al3Sr “SQS-16” |  | -12.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 30 |  |
 | Al3Sr “SQS-16” |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3 |  |
 | Al3Sr8 Ca8In3-type |  | -10.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 46 |  |
 | Al3Sr8 Ca8In3-type |  | -10.1 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 23 |  |
-| Al4 Sr Al4Ba-type |  | -26.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 29 |  |
-| Al4 Sr Al4Ba-type |  | -25.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 28 |  |
-| Al4 Sr Al4Ba-type |  | -24.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 25 |  |
-| Al4 Sr Al4Ba-type |  | -23.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 26 |  |
-| Al4 Sr Al4Ba-type |  | -22.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 27 |  |
 | Al4Ba-type |  | -26.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 29 |  |
 | Al4Ba-type |  | -25.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 28 |  |
 | Al4Ba-type |  | -24.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 25 |  |
@@ -238,40 +228,13 @@ Table: Enthalpies of formation, Al–Sr system (80)
 | Al5Ba3-type |  | -27.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 41 |  |
 | Al5Ba3-type |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17 |  |
 | Al5Ba4-type |  | -26.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 42 |  |
-| Al5Sr3 Al5Ba3-type |  | -27.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 41 |  |
-| Al5Sr4 Al5Ba4-type |  | -26.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 42 |  |
 | Al7Sr8 |  | -21.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 44 |  |
 | Al7Sr8 |  | -21.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 45 |  |
 | Al7Sr8 |  | -18.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 43 |  |
-| Al7Sr8 Al7Sr8 |  | -21.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 44 |  |
-| Al7Sr8 Al7Sr8 |  | -21.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 45 |  |
-| Al7Sr8 Al7Sr8 |  | -18.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 43 |  |
 | Al9Sr5 |  | -29.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 39 |  |
 | Al9Sr5 |  | -27.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 40 |  |
-| Al9Sr5 Al9Sr5 |  | -29.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 39 |  |
-| Al9Sr5 Al9Sr5 |  | -27.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 40 |  |
 | AlSr B2 |  | -12.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 21 |  |
 | AlSr Bf |  | -17.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 20 |  |
-| AlSr10 Al10V-type |  | 8.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 24 |  |
-| B2 |  | -12.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 21 |  |
-| Bf |  | -17.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 20 |  |
-| C14 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 7 |  |
-| C15 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 36 |  |
-| C15 |  | -27.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 17 |  |
-| C16 |  | 0.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 11 |  |
-| C32 |  | -23 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 9 |  |
-| C36 |  | -29.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 8 |  |
-| Ca8In3-type |  | -10.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 46 |  |
-| Ca8In3-type |  | -10.1 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 23 |  |
-| CaF2-type |  | 55.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 14 |  |
-| CaIn2-type |  | -26 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 10 |  |
-| CeCu2-type |  | -29.7 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 31 |  |
-| CeCu2-type |  | -29 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 34 |  |
-| CeCu2-type |  | -28.8 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 35 |  |
-| CeCu2-type |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 33 |  |
-| CeCu2-type |  | -27.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 32 |  |
-| L12 |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 4 |  |
-| MoPt2-type |  | -8.2 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 13 |  |
 | Ni3Sn-type |  | -18.4 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 2 |  |
 | Si2Sr-type |  | -9 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 12 |  |
 | ‘‘SQS-16’’ |  | -11.6 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2004 | Table 3, p. 6, row 3 |  |

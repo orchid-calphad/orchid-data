@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -53,6 +53,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "oh1993_53fd2d",
  "orchid": {

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of SrO2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -635 kJ/mol (basis unstated) | SrO2 | 298 | experimental |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1 |  |
-| -631 kJ/mol (basis unstated) | SrO2 | 298 | experimental |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2 |  |
-| -636 kJ/mol (basis unstated) | SrO2 | 298 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
-| -633 kJ/mol (basis unstated) | SrO2 | 298 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
+| -635 kJ/mol (basis unstated) | SrO2 | 298.15 | experimental |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites M_ | Table 4, p. 4, row 1 |  |
+| -631 kJ/mol (basis unstated) | SrO2 | 298.15 | experimental |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites Vedeneev_ | Table 4, p. 4, row 2 |  |
+| -636 kJ/mol (basis unstated) | SrO2 | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996 | Table 4, p. 4, row 4 |  |
+| -633 kJ/mol (basis unstated) | SrO2 | 298.15 | unspecified |  | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | [1] Risold 1996; _cites ref. 94_ | Table 4, p. 4, row 3 |  |
 
 ## Sources
 

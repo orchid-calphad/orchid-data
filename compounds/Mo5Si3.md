@@ -14,31 +14,31 @@ Table: Enthalpy of formation of Mo5Si3 reported in the literature (25)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.3 kJ/mol-atom ± 1.1 | Mo5Si3 | 298 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Tomaszkiewicz 1997_ | Table 8, p. 10, row 23 |  |
-| -39.2 kJ/mol-atom ± 1.5 | Mo5Si3 | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 16 |  |
-| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
-| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 11 |  |
-| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 12 |  |
+| -39.3 kJ/mol-atom ± 1.1 | Mo5Si3 | 298.15 | experimental | Combustion calorimetry | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Tomaszkiewicz 1997_ | Table 8, p. 10, row 23 |  |
+| -39.2 kJ/mol-atom ± 1.5 | Mo5Si3 | 298.15 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Fujiwara 2007_ | Table 8, p. 10, row 16 |  |
+| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298.15 | experimental | Exp | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 2 |  |
+| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Chart 1974_ [doi](https://doi.org/10.1179/msc.1974.8.1.344) | Table 2, p. 6, row 11 |  |
+| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Chart 1973_ | Table 2, p. 6, row 12 |  |
 | -38.62 kJ/mol-atom ± 2.09 | Mo5Si3 | 2000 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 6, row 10 |  |
-| -37.813 kJ/mol-atom | Mo5Si3 | 298 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 13 |  |
-| -37.4 kJ/mol-atom ± 0.1 | Mo5Si3 | 298 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
-| -39.1725 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 16 |  |
-| -39.1725 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
-| -39 kJ/mol-atom | Mo5Si3 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Guo 2012_ | Table 8, p. 10, row 10 |  |
-| -39 kJ/mol-atom | Mo5Si3 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 13 |  |
-| -38.983 kJ/mol-atom | Mo5Si3 | 298 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010 | Table 2, p. 6, row 10 |  |
-| -38.98 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000 | Table 2, p. 6, row 18 |  |
-| -38.98 kJ/mol-atom | Mo5Si3 | 298 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
-| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
-| -38.682 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 14 |  |
-| -38.68 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
-| -38.62 kJ/mol-atom ± 2.09 | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
-| -38.2 kJ/mol-atom ± 1.6 | Mo5Si3 | 298 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 2 |  |
-| -37.813 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
-| -37.0884 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
-| -37.0884 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
-| -37.0084 kJ/mol-atom | Mo5Si3 | 298 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 15 |  |
-| -37.0084 kJ/mol-atom | Mo5Si3 | 298 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
+| -37.813 kJ/mol-atom | Mo5Si3 | 298.15 | experimental |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Barin 1989_ | Table 2, p. 6, row 13 |  |
+| -37.4 kJ/mol-atom ± 0.1 | Mo5Si3 | 298.15 | experimental | EMF | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Ohmori 1982_ | Table 8, p. 10, row 32 |  |
+| -39.1725 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Costa 1994_ | Table 2, p. 6, row 16 |  |
+| -39.1725 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Costa 1994_ | Table 2, p. 6, row 7 |  |
+| -39 kJ/mol-atom | Mo5Si3 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Guo 2012_ | Table 8, p. 10, row 10 |  |
+| -39 kJ/mol-atom | Mo5Si3 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024; _cites Geng 2010_ | Table 8, p. 10, row 13 |  |
+| -38.983 kJ/mol-atom | Mo5Si3 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010 | Table 2, p. 6, row 10 |  |
+| -38.98 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000 | Table 2, p. 6, row 18 |  |
+| -38.98 kJ/mol-atom | Mo5Si3 | 298.15 | model | CALPHAD | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 2, p. 6, row 9 |  |
+| -38.7 kJ/mol-atom ± 3 | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Chart 1973_ | Table 2, p. 6, row 3 |  |
+| -38.682 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Kaufman 1997_ | Table 2, p. 6, row 14 |  |
+| -38.68 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Kaufman 1997_ | Table 2, p. 6, row 5 |  |
+| -38.62 kJ/mol-atom ± 2.09 | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Hultgren 1973_ | Table 2, p. 6, row 1 |  |
+| -38.2 kJ/mol-atom ± 1.6 | Mo5Si3 | 298.15 | model | Assessment | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [1] Czerny 2024 | Table 8, p. 10, row 2 |  |
+| -37.813 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Barin 1989_ | Table 2, p. 6, row 4 |  |
+| -37.0884 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Bai 1999_ | Table 2, p. 6, row 17 |  |
+| -37.0884 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Bai_ | Table 2, p. 6, row 8 |  |
+| -37.0084 kJ/mol-atom | Mo5Si3 | 298.15 | model |  | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [3] Liu 2000; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 15 |  |
+| -37.0084 kJ/mol-atom | Mo5Si3 | 298.15 | model | Assessed | [Mo–Si](https://data.orchid-project.org/systems/MO-SI.html) | [2] Geng 2010; _cites Vahlas 1989_ [doi](https://doi.org/10.1016/0364-5916%2889%2990007-2) | Table 2, p. 6, row 6 |  |
 
 ## DFT formation energies
 
@@ -46,10 +46,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Mo5Si3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabzg | -38.65 | -0.400579 | I4/mcm | 0 | no |
-| OQMD | oqmd-6653 | -38.421 | -0.398205 | I4/mcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabzg | -38.65 | -0.400579 | I4/mcm | 0 | 0 | no |
+| OQMD | oqmd-6653 | -38.421 | -0.398205 | I4/mcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

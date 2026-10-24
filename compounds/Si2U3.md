@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Si2U3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.95 kJ/mol-atom ± 3.34 | U3Si2 | 298 | experimental | Activity meas. | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19 |  |
-| -33.86 kJ/mol-atom ± 0.42 | U3Si2 | 298 | experimental | Direct comb. calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18 |  |
-| -34.32 kJ/mol-atom | U3Si2 | 298 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 21 |  |
-| -34.11 kJ/mol-atom | U3Si2 | 298 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20 |  |
+| -35.95 kJ/mol-atom ± 3.34 | U3Si2 | 298.15 | experimental | Activity meas. | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19 |  |
+| -33.86 kJ/mol-atom ± 0.42 | U3Si2 | 298.15 | experimental | Direct comb. calorimetry | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18 |  |
+| -34.32 kJ/mol-atom | U3Si2 | 298.15 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 21 |  |
+| -34.11 kJ/mol-atom | U3Si2 | 298.15 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20 |  |
 
 ## DFT formation energies
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Si2U3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabfpa | -10.03 | -0.103958 | P4/mbm | 14.586 | no |
-| OQMD | oqmd-6055 | -14.346 | -0.148691 | P4/mbm | 12.91 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabfpa | -10.03 | -0.103958 | P4/mbm | 14.586 | 0.1512 | no |
+| OQMD | oqmd-6055 | -14.346 | -0.148691 | P4/mbm | 12.91 | 0.1338 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

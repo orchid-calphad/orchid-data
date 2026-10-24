@@ -25,12 +25,12 @@ Table: Phases of the Ce–O system (19)
 | [DHCP](#phase-ce-o-dhcp-a3); _phase:ce-o:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ce-o-fcc-a1); _phase:ce-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1005.61 K, x(O) 0–0.0055 | 0 | 2 |
 | [GAS](#phase-ce-o-gas); _phase:ce-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 301.14–2500 K, x(O) 1–1 | 6 | 2 |
-| [H_R2O3](#phase-ce-o-h-r2o3); _phase:ce-o:h-r2o3_ | H-La2O3 · hP10 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6 | 2 | 2 |
+| [H_R2O3](#phase-ce-o-h-r2o3); _phase:ce-o:h-r2o3_ | H-La2O3 · hP10 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6 | 0 | 2 |
 | [HCP_A3](#phase-ce-o-hcp-a3); _phase:ce-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [ION](#phase-ce-o-ion); _phase:ce-o:ion_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(O) 0–0.61459 | 0 | 2 |
 | [LIQUID](#phase-ce-o-liquid); _phase:ce-o:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1692.18–2500 K, x(O) 0.05324–0.63936 | 22 | 2 |
 | [O2GAS](#phase-ce-o-o2gas); _phase:ce-o:o2gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–1185 K, x(O) 1–1 | 0 | 2 |
-| [X_R2O3](#phase-ce-o-r2o3-x); _phase:ce-o:r2o3-x_ | Nd2O3 · cI26 · Im-3m (229) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253 | 3 | 2 |
+| [X_R2O3](#phase-ce-o-r2o3-x); _phase:ce-o:r2o3-x_ | Nd2O3 · cI26 · Im-3m (229) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253 | 1 | 2 |
 
 ## BCC_A2 (Ce–O)
 
@@ -545,11 +545,10 @@ _assessment that models this phase; reports values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:H,R2O3, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2417.9 K, x(O) 0.5–0.6
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:h-r2o3)
 
-Names (4): _corpus: _corpus:phase:ce-o:h-r2o3  
-_paper: _paper:10.1016/j.ssi.2008.06.011:H  
+Names (3): _corpus: _corpus:phase:ce-o:h-r2o3  
 _tdb: _tdb:CeO-06Zin.tdb:H_R2O3, tdb:CeO-08Dju.tdb:H_R2O3  
 
 
@@ -571,9 +570,9 @@ _tdb: _tdb:CeO-06Zin.tdb:H_R2O3, tdb:CeO-08Dju.tdb:H_R2O3
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.ssi.2008.06.011](https://doi.org/10.1016/j.ssi.2008.06.011) D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.ssi.2006.02.044](https://doi.org/10.1016/j.ssi.2006.02.044) M ZINKEVICH, D DJUROVIC, F ALDINGER, Thermodynamic modelling of the cerium–oxygen system☆, Solid State Ionics 177, 989-1001 (2006).  
+_assessment that models this phase_
+- [doi:10.1016/j.ssi.2008.06.011](https://doi.org/10.1016/j.ssi.2008.06.011) D DJUROVIC, M ZINKEVICH, F ALDINGER, Thermodynamic modeling of the cerium–yttrium–oxygen system, Solid State Ionics 179, 1902-1911 (2008).  
 _assessment that models this phase_
 
 ## HCP_A3 (Ce–O)
@@ -724,7 +723,7 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:R2O3,X, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2500 K, x(O) 0.5–0.59253
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:r2o3-x)
 
 Names (4): _corpus: _corpus:phase:ce-o:r2o3-x  

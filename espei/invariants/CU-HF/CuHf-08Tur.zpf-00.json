@@ -9,7 +9,6 @@
   "CU51HF14",
   "CU5HF_C15B",
   "CU8HF3",
-  "CUHF2",
   "FCC_A1",
   "LIQUID"
  ],
@@ -20,8 +19,7 @@
    1383.0,
    1263.0,
    1243.0,
-   1288.0,
-   1253.0
+   1288.0
   ]
  },
  "output": "ZPF",
@@ -161,35 +159,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "HF"
-    ],
-    [
-     0.436
-    ]
-   ],
-   [
-    "CU10HF7",
-    [
-     "HF"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUHF2",
-    [
-     "HF"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Turchanin 2008, doi:10.1007/s11106-008-9008-4",
@@ -199,7 +168,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WZJBQK2WSR ORC-7PFNC5LICO ORC-2BMZWDMNQD ORC-G6REIZZ2BE ORC-JHXUZQRXT4 ORC-3GYMD4KJTQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WZJBQK2WSR ORC-7PFNC5LICO ORC-2BMZWDMNQD ORC-G6REIZZ2BE ORC-JHXUZQRXT4",
  "bibtex": "turchanin2008_1ad039",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -229,11 +198,6 @@
     "id": "ORC-JHXUZQRXT4",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9008-4"
-   },
-   {
-    "id": "ORC-3GYMD4KJTQ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9008-4"
    }
   ],
   "papers": [
@@ -243,15 +207,11 @@
    "10.1007/s11106-008-9008-4"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuHf-08Tur/zpf-00.json",
-  "values_dropped": 2
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -307,11 +267,6 @@
    },
    {
     "id": "ORC-JHXUZQRXT4",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-3GYMD4KJTQ",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

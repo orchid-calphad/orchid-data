@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Zn2Zr3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -19.35 kJ/mol-atom | Zn2Zr3 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
-| -20.96 kJ/mol-atom | Zn2Zr3 | 298 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
-| -17.74 kJ/mol-atom | Zn2Zr3 | 298 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
+| -19.35 kJ/mol-atom | Zn2Zr3 | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
+| -20.96 kJ/mol-atom | Zn2Zr3 | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
+| -17.74 kJ/mol-atom | Zn2Zr3 | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
 
 ## DFT formation energies
 
@@ -24,9 +24,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Zn2Zr3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacqsdh | -18.32 | -0.189874 | P4_2/mnm | 3.848 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacqsdh | -18.32 | -0.189874 | P4_2/mnm | 3.848 | 0.0399 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

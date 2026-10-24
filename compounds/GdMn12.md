@@ -14,7 +14,7 @@ Table: Enthalpy of formation of GdMn12 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4 kJ/mol-atom | Mn12Gd | 298 | model |  | [Gd–Mn–Sm–Y](https://data.orchid-project.org/systems/GD-MN-SM-Y.html) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| -4 kJ/mol-atom | Mn12Gd | 298.15 | model |  | [Gd–Mn–Sm–Y](https://data.orchid-project.org/systems/GD-MN-SM-Y.html) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
 
 ## DFT formation energies
 
@@ -22,10 +22,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of GdMn12
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabkkpg | 2.068 | 0.021436 | I4/mmm | 2.068 | no |
-| OQMD | oqmd-5135 | 1.557 | 0.016138 | Immm | 1.557 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabkkpg | 2.068 | 0.021436 | I4/mmm | 2.068 | 0.0214 | no |
+| OQMD | oqmd-5135 | 1.557 | 0.016138 | Immm | 1.557 | 0.0161 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

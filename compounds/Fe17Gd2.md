@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Fe17Gd2 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -2.3 kJ/mol-atom ± 1.6 | Fe17Gd2(R) | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 1 |  |
-| -2.3 kJ/mol-atom ± 1.6 | Fe17Gd2 | 298 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4 |  |
+| -2.3 kJ/mol-atom ± 1.6 | Fe17Gd2 | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 4 |  |
 | -4.34 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 3 |  |
 | -3.65 kJ/mol-atom | Fe17Gd2(R) | 298.15 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Zinkevich 2000_ | Table 12, p. 13, row 2 |  |
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Fe17Gd2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacqckz | -0.552 | -0.005717 | P6_3/mmc | 0 | no |
-| OQMD | oqmd-89232 | -0.034 | -3.540e-4 | P63/mmc | 1.764 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacqckz | -0.552 | -0.005717 | P6_3/mmc | 0 | 0 | no |
+| OQMD | oqmd-89232 | -0.034 | -3.540e-4 | P63/mmc | 1.764 | 0.0183 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

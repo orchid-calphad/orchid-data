@@ -130,9 +130,9 @@ Table: Enthalpies of formation, Bi–K system (16)
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -49.2 kJ/mol-atom | 848 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Petric 1988_ [doi](https://doi.org/10.1088/0305-4608/18/7/015) | Table 3, p. 4, row 18 |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -46.7 kJ/mol-atom | 523 | model | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012 | Table 3, p. 4, row 17 |  |
 | BiK3 | [BiK3](https://data.orchid-project.org/compounds/BiK3.html) | -45.1 kJ/mol-atom ± 2.1 | 523 | experimental | -35.228 (mp-aaaabuhi) | -37.486 (oqmd-24983) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
-| UNKNOWN |  | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
-| UNKNOWN |  | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
-| UNKNOWN |  | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1 |  |
+| UNKNOWN | [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.html) | -39.5 kJ/mol-atom ± 2.2 | 523 | experimental | -31.875 (mp-aaacqqwr) | -33.986 (oqmd-1435539) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 12 |  |
+| UNKNOWN | [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.html) | -38.1 kJ/mol-atom ± 2.2 | 523 | experimental | -33.867 (mp-aaacrqif) | -36.015 (oqmd-1339793) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 7 |  |
+| UNKNOWN | [Bi2K](https://data.orchid-project.org/compounds/Bi2K.html) | -28.7 kJ/mol-atom ± 2.2 | 523 | experimental | -32.149 (mp-aaaabilj) | -30.659 (oqmd-647551) | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 1 |  |
 | UNKNOWN |  | 45.1 kJ/mol-atom ± 2.1 | 523 | experimental |  |  | [1] Niu 2012; _cites Voronin 1971_ | Table 3, p. 4, row 15 |  |
 
 ## Other properties

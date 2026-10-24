@@ -75,15 +75,15 @@ Table: Enthalpies of formation, B–Ni system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni2B |  | -27 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
-| Ni2B |  | -26.7 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
-| Ni2B |  | -22.6 kJ/mol (basis unstated) ± 1.4 | 298 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
-| Ni2B |  | -21.13 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
-| NiB |  | -50.2 kJ/mol (basis unstated) ± 6.3 | 298 | experimental |  |  | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
-| UNKNOWN |  | -33 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
-| UNKNOWN |  | -25.8 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
-| UNKNOWN |  | -23.43 kJ/mol (basis unstated) | 298 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
-| UNKNOWN |  | -20.1 kJ/mol (basis unstated) ± 2.8 | 298 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
+| Ni2B |  | -27 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
+| Ni2B |  | -26.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
+| Ni2B |  | -22.6 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
+| Ni2B |  | -21.13 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
+| NiB |  | -50.2 kJ/mol (basis unstated) ± 6.3 | 298.15 | experimental |  |  | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
+| UNKNOWN |  | -33 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
+| UNKNOWN |  | -25.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
+| UNKNOWN |  | -23.43 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
+| UNKNOWN |  | -20.1 kJ/mol (basis unstated) ± 2.8 | 298.15 | experimental |  |  | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
 
 ## Other properties
 

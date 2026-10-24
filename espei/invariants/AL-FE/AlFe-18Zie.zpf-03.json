@@ -8,7 +8,6 @@
   "AL13FE4",
   "AL2FE",
   "AL5FE2",
-  "B2_BCC",
   "BCC_A2",
   "LIQUID"
  ],
@@ -17,7 +16,6 @@
   "T": [
    1428.1,
    1419.1,
-   1368.1,
    1422.1
   ]
  },
@@ -92,35 +90,6 @@
   ],
   [
    [
-    "BCC_A2",
-    [
-     "FE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "B2_BCC",
-    [
-     "FE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AL2FE",
-    [
-     "FE"
-    ],
-    [
-     0.333333
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "FE"
@@ -165,7 +134,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NYYU546GBE ORC-IJECNXYJQI ORC-EVEZUHUSKG ORC-5MOTCQEP7U",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NYYU546GBE ORC-IJECNXYJQI ORC-5MOTCQEP7U",
  "bibtex": "zienert2018_83e03a",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -178,11 +147,6 @@
    },
    {
     "id": "ORC-IJECNXYJQI",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2018.01.316"
-   },
-   {
-    "id": "ORC-EVEZUHUSKG",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.01.316"
    },
@@ -200,15 +164,12 @@
    "10.1016/j.jallcom.2018.01.316",
    "10.3139/146.101512"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlFe-18Zie/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlFe-18Zie/zpf-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -236,11 +197,6 @@
    },
    {
     "id": "ORC-IJECNXYJQI",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-EVEZUHUSKG",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

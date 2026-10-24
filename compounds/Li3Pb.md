@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Li3Pb reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.02 kJ/mol-atom ± 0.75 | Li3Pb | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 8 |  |
-| -34.56 kJ/mol-atom ± 2.07 | Li3Pb | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 7 |  |
+| -37.02 kJ/mol-atom ± 0.75 | Li3Pb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 8 |  |
+| -34.56 kJ/mol-atom ± 2.07 | Li3Pb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 7 |  |
 | -31.61 kJ/mol-atom | Li3Pb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 9 |  |
 
 ## Sources

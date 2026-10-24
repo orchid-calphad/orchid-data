@@ -1,10 +1,10 @@
 # H–Y system
 
-> H–Y system: 65 accepted literature values (crystal structure 40, formation 14, invariant reaction 10, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Y system: 54 accepted literature values (crystal structure 29, formation 14, invariant reaction 10, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-Y.html · Markdown: https://data.orchid-project.org/systems/H-Y.md
 
-65 accepted literature values from 2 paper(s) (experimental 10, model 10, DFT 20, unspecified 25); 0 calculated phase diagram(s).
+54 accepted literature values from 2 paper(s) (experimental 10, model 10, DFT 14, unspecified 20); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-Y.json) · [CSV](https://data.orchid-project.org/systems/H-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-Y) · [phases (6)](https://data.orchid-project.org/phases/pages/H-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-Y.html) · [Markdown](https://data.orchid-project.org/systems/H-Y.md)
 
@@ -14,8 +14,8 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 10 |
 | model | 10 |
-| DFT | 20 |
-| unspecified | 25 |
+| DFT | 14 |
+| unspecified | 20 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 10 |
 | phase transition | 1 |
 | formation | 14 |
-| crystal structure | 40 |
+| crystal structure | 29 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-Y.json) · [CALPHAD hull YH-18Fu](https://data.orchid-project.org/hulls/calphad-sgte/H/H-Y--YH-18Fu.json)
 
@@ -78,21 +78,14 @@ Table: Phase transition, H–Y system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1751.15 K | 1751.15 |  | model | [2] Fu 2018; _cites Khatamian 1988_ [doi](https://doi.org/10.1007/bf02881276) | p. 1 | “Metallic yttrium has a hexagonal-close-packed (hcp) structure at low temperature and transforms into a body centered cubic (bcc) structure at 1478 °C \[18\].” |
 
-### Crystal structure (40)
+### Crystal structure (29)
 
 Table: Crystal structure, H–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a_ | 6.36 Å | 0 | Trigonal; _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
-| Lattice a; _printed: a_ | 6.33391 Å | 0 | Trigonal; _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
-| Lattice a; _printed: a_ | 3.6631 Å | 0 | Y (hcp); _alloy: Y 1_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 4.95037 Å | 0 | YH (fcc); _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 1 |  |
-| Lattice a; _printed: a_ | 3.64125 Å | 0 | YH (hcp); _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 5 |  |
-| Lattice a; _printed: a_ | 5.20697 Å | 0 | YH2 (fcc); _alloy: Y 0.333333_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 2 |  |
-| Lattice a; _printed: a_ | 3.59237 Å | 0 | YH2 (hcp); _alloy: Y 0.333333_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 6 |  |
 | Lattice a; _printed: a_ | 6.33391 Å | 0 | YH3 (Trigonal); _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
-| Lattice a; _printed: a_ | 5.16199 Å | 0 | YH3 (fcc); _alloy: Y 0.25_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 3 |  |
 | Lattice a; _printed: a_ | 5.20697 Å | 0 | fcc; _alloy: Y 0.333333_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 2 |  |
 | Lattice a; _printed: a_ | 5.20701 Å | 0 | fcc; _alloy: Y 0.333333_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 2 |  |
 | Lattice a; _printed: a_ | 4.95037 Å | 0 | fcc; _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 1 |  |
@@ -106,10 +99,6 @@ Table: Crystal structure, H–Y system
 | Lattice a | 5.207 not_printed | 298.15 | δ-YH2; _alloy: Y 0.333333_ | unspecified | [1] Peng 2020; _cites Weaver 1980_ | Table 1, p. 3, row 4 |  |
 | Lattice a | 6.36 not_printed | 298.15 | ε-YH3; _alloy: Y 0.25_ | experimental | [1] Peng 2020; _cites Mansmann 1964_ | Table 1, p. 3, row 3 |  |
 | Lattice c; _printed: c_ | 6.659 Å | 0 | Trigonal; _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
-| Lattice c; _printed: c_ | 6.59997 Å | 0 | Trigonal; _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
-| Lattice c; _printed: c_ | 5.8147 Å | 0 | Y (hcp); _alloy: Y 1_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 4 |  |
-| Lattice c; _printed: c_ | 5.50043 Å | 0 | YH (hcp); _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 5 |  |
-| Lattice c; _printed: c_ | 6.39469 Å | 0 | YH2 (hcp); _alloy: Y 0.333333_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 6 |  |
 | Lattice c; _printed: c_ | 6.59997 Å | 0 | YH3 (Trigonal); _alloy: Y 0.25_ | unspecified | [1] Peng 2020 | Table 4, p. 5, row 7 |  |
 | Lattice c; _printed: c_ | 5.50043 Å | 0 | hcp; _alloy: Y 0.5_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 5 |  |
 | Lattice c; _printed: c_ | 6.39469 Å | 0 | hcp; _alloy: Y 0.333333_ | DFT | [1] Peng 2020 | Table 4, p. 5, row 6 |  |

@@ -14,8 +14,8 @@ Table: Enthalpy of formation of NbNi8 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.49 kJ/mol (basis unstated) | NbNi8 | 298 | model | Miedema estimation | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
-| -14.488 kJ/mol (basis unstated) | NbNi8 | 298 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004 | Table 4, p. 5, row 1 |  |
+| -14.49 kJ/mol (basis unstated) | NbNi8 | 298.15 | model | Miedema estimation | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004; _cites F 1988_ | Table 4, p. 5, row 2 |  |
+| -14.488 kJ/mol (basis unstated) | NbNi8 | 298.15 | model |  | [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.html) | [1] Joubert 2004 | Table 4, p. 5, row 1 |  |
 
 ## Sources
 

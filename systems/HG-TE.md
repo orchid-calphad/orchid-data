@@ -70,14 +70,14 @@ Table: Enthalpies of formation, Hg–Te system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| HgTe |  | -44.02 kJ/mol (basis unstated) | 298 | model |  |  | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
-| HgTe |  | -43.802 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
-| HgTe |  | -43.69 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
-| HgTe |  | -43.648 kJ/mol (basis unstated) | 298 | model |  |  | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
-| HgTe |  | -41.2 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
-| HgTe |  | -36.5 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5 |  |
-| HgTe |  | -33.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1 |  |
-| HgTe |  | -31.8 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2 |  |
+| HgTe |  | -44.02 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
+| HgTe |  | -43.802 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
+| HgTe |  | -43.69 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
+| HgTe |  | -43.648 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
+| HgTe |  | -41.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
+| HgTe |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5 |  |
+| HgTe |  | -33.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1 |  |
+| HgTe |  | -31.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2 |  |
 
 ## Other properties
 

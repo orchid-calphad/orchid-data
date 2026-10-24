@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Ge3Yb5 reported in the literature (6)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -69.7 kJ/mol-atom ± 8.2 | Yb5Ge3 | 298.15 | experimental | KEWL and KEMS | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018; _cites Balducci 2007_ [doi](https://doi.org/10.1021/jp067889b) | Table 2, p. 5, row 4 |  |
-| -69.2 kJ/mol-atom ± 8.2 | Yb5Ge3 | 298 | experimental | KE technique | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 4 |  |
-| -72.5 kJ/mol-atom | Yb5Ge3 | 298 | model | SCM | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018 | Table 2, p. 4, row 6 |  |
+| -69.2 kJ/mol-atom ± 8.2 | Yb5Ge3 | 298.15 | experimental | KE technique | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Balducci 2007_ | Table 2, p. 4, row 4 |  |
+| -72.5 kJ/mol-atom | Yb5Ge3 | 298.15 | model | SCM | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018 | Table 2, p. 4, row 6 |  |
 | -69.1 kJ/mol-atom | Yb5Ge3 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 5 |  |
 | -68.649 kJ/mol-atom | Yb5Ge3 |  | model | Optimization | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [1] Achgar 2018 | Table 2, p. 5, row 6 |  |
 | -65 kJ/mol-atom | Yb5Ge3 | 0 | DFT | DFT calculation | [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.html) | [2] Dai-man 2018; _cites Saal 2013_ | Table 2, p. 4, row 5 |  |
@@ -27,9 +27,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ge3Yb5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-1437177 | -65.764 | -0.681599 | I4/mcm | 0.877 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-1437177 | -65.764 | -0.681599 | I4/mcm | 0.877 | 0.0091 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

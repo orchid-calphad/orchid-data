@@ -31,7 +31,7 @@ Table: Enthalpies of formation, N–V system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -51.88 unspecified ± 0.2 | 298 | experimental |  |  | [1] Ohtani 1991 | p. 3 | “The enthalpy of formation of \*5Oat.% N) was determined by Mah(l9) as -51.88f0.2kcal/mole of VN at 298K.” |
+| — |  | -51.88 unspecified ± 0.2 | 298.15 | experimental |  |  | [1] Ohtani 1991 | p. 3 | “The enthalpy of formation of \*5Oat.% N) was determined by Mah(l9) as -51.88f0.2kcal/mole of VN at 298K.” |
 
 ## Other properties
 

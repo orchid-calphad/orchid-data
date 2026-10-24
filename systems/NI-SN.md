@@ -1,10 +1,10 @@
 # Ni–Sn system
 
-> Ni–Sn system: 159 accepted literature values (phase transition 64, invariant reaction 54, formation 41) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sn system: 161 accepted literature values (phase transition 64, invariant reaction 54, formation 43) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SN.html · Markdown: https://data.orchid-project.org/systems/NI-SN.md
 
-159 accepted literature values from 4 paper(s) (experimental 56, model 85, unspecified 18); 11 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+161 accepted literature values from 4 paper(s) (experimental 56, model 87, unspecified 18); 11 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SN.json) · [CSV](https://data.orchid-project.org/systems/NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SN/NiSn-03Mie.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/NI-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 56 |
-| model | 85 |
+| model | 87 |
 | unspecified | 18 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 54 |
 | phase transition | 64 |
-| formation | 41 |
+| formation | 43 |
 
 ## Calculated phase diagrams
 
@@ -206,27 +206,29 @@ Table: Invariant reactions reported in the literature for the Ni–Sn system (54
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sn system (41)
+Table: Enthalpies of formation, Ni–Sn system (43)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni3Sn(γ1) |  | -26.66 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 3 |  |
-| Ni3Sn(γ1) |  | -26.4 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 4 |  |
-| Ni3Sn(γ1) |  | -26.31 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 1 |  |
-| Ni3Sn(γ1) |  | -23.43 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Korber 1937_ | Table 5, p. 5, row 2 |  |
-| Ni3Sn2(η) |  | -38.52 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987055-2) | Table 5, p. 5, row 6 |  |
-| Ni3Sn2(η) |  | -31.79 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 9 |  |
-| Ni3Sn2(η) |  | -31.79 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 5 |  |
-| Ni3Sn2(η) |  | -31.38 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Korber 1937_ | Table 5, p. 5, row 7 |  |
-| Ni3Sn2(η) |  | -30.32 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 8 |  |
+| — |  | -32.714 kJ/mol-atom | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
+| — |  | -30.823 kJ/mol-atom | 1023 | model |  |  | [2] Liu 2004 | p. 6 | “However, for Ni3 Sn2 and Ni3 Sn4 at 1023 K, the heats of formation are calculated to be -32 714 and -30 823 J/g atm, respectively, which agree with those in \[1\], but deviate about 10% from the measured values \[11\].” |
+| Ni3Sn(γ1) |  | -26.66 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 3 |  |
+| Ni3Sn(γ1) |  | -26.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 4 |  |
+| Ni3Sn(γ1) |  | -26.31 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 1 |  |
+| Ni3Sn(γ1) |  | -23.43 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Korber 1937_ | Table 5, p. 5, row 2 |  |
+| Ni3Sn2(η) |  | -38.52 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987055-2) | Table 5, p. 5, row 6 |  |
+| Ni3Sn2(η) |  | -31.79 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 9 |  |
+| Ni3Sn2(η) |  | -31.79 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 5 |  |
+| Ni3Sn2(η) |  | -31.38 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Korber 1937_ | Table 5, p. 5, row 7 |  |
+| Ni3Sn2(η) |  | -30.32 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 8 |  |
 | Ni3Sn2_HT |  | -38.644 kJ/mol (basis unstated) | 1023 | experimental |  |  | [2] Liu 2004; _cites Dannohl 1974_ | Table 3, p. 5, row 10 |  |
 | Ni3Sn2_HT |  | -32.871 kJ/mol (basis unstated) | 1023 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 11 |  |
 | Ni3Sn2_HT |  | -32.714 kJ/mol (basis unstated) | 1023 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 12 |  |
-| Ni3Sn2_LT |  | -38.519 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Liu 2004; _cites Predel 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987055-2) | Table 3, p. 5, row 6 |  |
-| Ni3Sn2_LT |  | -31.79 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Liu 2004; _cites Predel 1979_ | Table 3, p. 5, row 7 |  |
+| Ni3Sn2_LT |  | -38.519 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2004; _cites Predel 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987055-2) | Table 3, p. 5, row 6 |  |
+| Ni3Sn2_LT |  | -31.79 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2004; _cites Predel 1979_ | Table 3, p. 5, row 7 |  |
 | Ni3Sn2_LT |  | -31.28 kJ/mol (basis unstated) | 273 | experimental |  |  | [2] Liu 2004; _cites Korber 1937_ | Table 3, p. 5, row 4 |  |
-| Ni3Sn2_LT |  | -30.322 kJ/mol (basis unstated) | 298 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 8 |  |
-| Ni3Sn2_LT |  | -28.868 kJ/mol (basis unstated) | 298 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 9 |  |
+| Ni3Sn2_LT |  | -30.322 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 8 |  |
+| Ni3Sn2_LT |  | -28.868 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 9 |  |
 | Ni3Sn2_LT |  | -28.854 kJ/mol (basis unstated) | 273 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 5 |  |
 | Ni3Sn4 |  | -33.704 kJ/mol (basis unstated) | 1023 | experimental |  |  | [4] Ghosh 1999; _cites Dannohl 1974_ | Table III, p. 12, row 13 |  |
 | Ni3Sn4 |  | -33.704 kJ/mol (basis unstated) | 1023 | experimental |  |  | [2] Liu 2004; _cites Dannohl 1974_ | Table 3, p. 5, row 13 |  |
@@ -235,12 +237,12 @@ Table: Enthalpies of formation, Ni–Sn system (41)
 | Ni3Sn4 |  | -29.359 kJ/mol (basis unstated) | 1023 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 14 |  |
 | Ni3Sn4 |  | -25.409 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [4] Ghosh 1999 | Table III, p. 12, row 12 |  |
 | Ni3Sn4 |  | -25.33 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] Ghosh 1999; _cites Predel 1979_ | Table III, p. 12, row 11 |  |
-| Ni3Sn4(π) |  | -25.68 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 12 |  |
-| Ni3Sn4(π) |  | -25.41 kJ/mol (basis unstated) | 298 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11 |  |
-| Ni3Sn4(π) |  | -25.33 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10 |  |
-| Ni3Sn_LT |  | -26.657 kJ/mol (basis unstated) | 298 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 2 |  |
-| Ni3Sn_LT |  | -26.31 kJ/mol (basis unstated) | 298 | experimental |  |  | [2] Liu 2004; _cites Predel 1979_ | Table 3, p. 5, row 1 |  |
-| Ni3Sn_LT |  | -25.507 kJ/mol (basis unstated) | 298 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 3 |  |
+| Ni3Sn4(π) |  | -25.68 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003 | Table 5, p. 5, row 12 |  |
+| Ni3Sn4(π) |  | -25.41 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Miettinen 2003; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 5, p. 5, row 11 |  |
+| Ni3Sn4(π) |  | -25.33 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Miettinen 2003; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 5, p. 5, row 10 |  |
+| Ni3Sn_LT |  | -26.657 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Liu 2004; _cites Ghosh 1999_ [doi](https://doi.org/10.1007/s11661-999-0085-x) | Table 3, p. 5, row 2 |  |
+| Ni3Sn_LT |  | -26.31 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Liu 2004; _cites Predel 1979_ | Table 3, p. 5, row 1 |  |
+| Ni3Sn_LT |  | -25.507 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Liu 2004 | Table 3, p. 5, row 3 |  |
 | η-Ni3Sn2 |  | -38.644 kJ/mol (basis unstated) | 1023 | experimental |  |  | [4] Ghosh 1999; _cites Dannohl 1974_ | Table III, p. 12, row 9 |  |
 | η-Ni3Sn2 |  | -32.871 kJ/mol (basis unstated) | 1023 | unspecified |  |  | [4] Ghosh 1999 | Table III, p. 12, row 10 |  |
 | λ-Ni3Sn |  | -26.657 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [4] Ghosh 1999 | Table III, p. 12, row 3 |  |

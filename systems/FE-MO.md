@@ -135,18 +135,18 @@ Table: Enthalpies of formation, Fe–Mo system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe2Mo (λ) |  | -1.534 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 1 |  |
-| Fe2Mo (λ) | [Fe2Mo](https://data.orchid-project.org/compounds/Fe2Mo.html) | -0.715 kJ/mol-atom | 298 | model | -0.183 (mp-aaackivq) | -0.609 (oqmd-27164) | [2] Rajkumar 2014 | Table 8, p. 6, row 3 |  |
-| Fe2Mo (λ) |  | -0.714 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 2 |  |
-| Fe3Mo2 (R) |  | 2.297 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
-| Fe3Mo2 (R) |  | 3.773 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
-| Fe3Mo2 (R) |  | 4.037 kJ/mol-atom | 298 | model |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 8 |  |
-| Fe7Mo6 (μ) |  | -1.418 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 11 |  |
-| Fe7Mo6 (μ) | [Fe7Mo6](https://data.orchid-project.org/compounds/Fe7Mo6.html) | -0.352 kJ/mol-atom | 298 | model | 0.281 (mp-aaabgkpm) | -0.13 (oqmd-30226) | [2] Rajkumar 2014 | Table 8, p. 6, row 13 |  |
-| Fe7Mo6 (μ) |  | -0.344 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 12 |  |
-| FeMo (σ) | [FeMo](https://data.orchid-project.org/compounds/FeMo.html) | 4.218 kJ/mol-atom | 298 | model |  | 8.387 (oqmd-2084776) | [2] Rajkumar 2014 | Table 8, p. 6, row 18 |  |
-| FeMo (σ) |  | 4.34 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 17 |  |
-| FeMo (σ) |  | 4.998 kJ/mol-atom | 298 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 16 |  |
+| Fe2Mo (λ) |  | -1.534 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 1 |  |
+| Fe2Mo (λ) | [Fe2Mo](https://data.orchid-project.org/compounds/Fe2Mo.html) | -0.715 kJ/mol-atom | 298.15 | model | -0.183 (mp-aaackivq) | -0.609 (oqmd-27164) | [2] Rajkumar 2014 | Table 8, p. 6, row 3 |  |
+| Fe2Mo (λ) |  | -0.714 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 2 |  |
+| Fe3Mo2 (R) |  | 2.297 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 6 |  |
+| Fe3Mo2 (R) |  | 3.773 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 7 |  |
+| Fe3Mo2 (R) |  | 4.037 kJ/mol-atom | 298.15 | model |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 8 |  |
+| Fe7Mo6 (μ) |  | -1.418 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 11 |  |
+| Fe7Mo6 (μ) | [Fe7Mo6](https://data.orchid-project.org/compounds/Fe7Mo6.html) | -0.352 kJ/mol-atom | 298.15 | model | 0.281 (mp-aaabgkpm) | -0.13 (oqmd-30226) | [2] Rajkumar 2014 | Table 8, p. 6, row 13 |  |
+| Fe7Mo6 (μ) |  | -0.344 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 12 |  |
+| FeMo (σ) | [FeMo](https://data.orchid-project.org/compounds/FeMo.html) | 4.218 kJ/mol-atom | 298.15 | model |  | 8.387 (oqmd-2084776) | [2] Rajkumar 2014 | Table 8, p. 6, row 18 |  |
+| FeMo (σ) |  | 4.34 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014 | Table 8, p. 6, row 17 |  |
+| FeMo (σ) |  | 4.998 kJ/mol-atom | 298.15 | DFT |  |  | [2] Rajkumar 2014; _cites Mihlakovic_ | Table 8, p. 6, row 16 |  |
 
 ## Other properties
 
@@ -206,30 +206,30 @@ Table: Crystal structure, Fe–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.669 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice a; _printed: a_ | 4.744 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice a; _printed: a_ | 10.961 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice a; _printed: a_ | 10.956 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice a; _printed: a_ | 4.766 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice a; _printed: a_ | 4.751 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice a; _printed: a_ | 9.325 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice a; _printed: a_ | 9.218 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
-| Lattice b; _printed: b_ | 4.669 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice b; _printed: b_ | 4.744 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice b; _printed: b_ | 10.961 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice b; _printed: b_ | 10.956 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice b; _printed: b_ | 4.766 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice b; _printed: b_ | 4.751 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice b; _printed: b_ | 9.325 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice b; _printed: b_ | 9.218 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
-| Lattice c; _printed: c_ | 7.793 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
-| Lattice c; _printed: c_ | 7.725 Å | 298 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
-| Lattice c; _printed: c_ | 19.004 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
-| Lattice c; _printed: c_ | 19.353 Å | 298 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
-| Lattice c; _printed: c_ | 25.807 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
-| Lattice c; _printed: c_ | 25.68 Å | 298 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
-| Lattice c; _printed: c_ | 4.905 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
-| Lattice c; _printed: c_ | 4.813 Å | 298 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
+| Lattice a; _printed: a_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
+| Lattice a; _printed: a_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
+| Lattice a; _printed: a_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
+| Lattice a; _printed: a_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
+| Lattice a; _printed: a_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
+| Lattice a; _printed: a_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
+| Lattice a; _printed: a_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
+| Lattice a; _printed: a_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
+| Lattice b; _printed: b_ | 4.669 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
+| Lattice b; _printed: b_ | 4.744 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
+| Lattice b; _printed: b_ | 10.961 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
+| Lattice b; _printed: b_ | 10.956 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
+| Lattice b; _printed: b_ | 4.766 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
+| Lattice b; _printed: b_ | 4.751 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
+| Lattice b; _printed: b_ | 9.325 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
+| Lattice b; _printed: b_ | 9.218 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
+| Lattice c; _printed: c_ | 7.793 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 5 |  |
+| Lattice c; _printed: c_ | 7.725 Å | 298.15 | Fe2Mo (λ); _alloy: Mo 0.333333_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 4 |  |
+| Lattice c; _printed: c_ | 19.004 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 10 |  |
+| Lattice c; _printed: c_ | 19.353 Å | 298.15 | Fe3Mo2 (R); _alloy: Mo 0.4_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 9 |  |
+| Lattice c; _printed: c_ | 25.807 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 15 |  |
+| Lattice c; _printed: c_ | 25.68 Å | 298.15 | Fe7Mo6 (μ); _alloy: Mo 0.461538_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 14 |  |
+| Lattice c; _printed: c_ | 4.905 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | DFT | [2] Rajkumar 2014 | Table 8, p. 6, row 20 |  |
+| Lattice c; _printed: c_ | 4.813 Å | 298.15 | FeMo (σ); _alloy: Mo 0.5_ | unspecified | [2] Rajkumar 2014 | Table 8, p. 6, row 19 |  |
 | site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 14 |  |
 | site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 12 |  |
 | site fractional coordinates |  |  | UNKNOWN | unspecified | [2] Rajkumar 2014 | Table 7, p. 5, row 20 |  |

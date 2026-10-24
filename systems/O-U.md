@@ -1,10 +1,10 @@
 # O–U system
 
-> O–U system: 942 accepted literature values (phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 60, formation 43) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–U system: 947 accepted literature values (phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 62, formation 46) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-U.html · Markdown: https://data.orchid-project.org/systems/O-U.md
 
-942 accepted literature values from 4 paper(s) (experimental 584, model 349, unspecified 9); 0 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+947 accepted literature values from 4 paper(s) (experimental 584, model 354, unspecified 9); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-U.json) · [CSV](https://data.orchid-project.org/systems/O-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-U) · [phases (21)](https://data.orchid-project.org/phases/pages/O-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-U.html) · [Markdown](https://data.orchid-project.org/systems/O-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 584 |
-| model | 349 |
+| model | 354 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 | invariant reaction | 23 |
 | phase transition | 204 |
 | phase equilibrium | 601 |
-| formation | 43 |
-| heat capacity / entropy / enthalpy | 60 |
+| formation | 46 |
+| heat capacity / entropy / enthalpy | 62 |
 | other property | 11 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-U.json) · [CALPHAD hull UO-02Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-02Che.json) · [CALPHAD hull UO-02Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-02Gue.json) · [CALPHAD hull UO-04Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-04Che.json) · [CALPHAD hull UO-08Bar](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-08Bar.json) · [CALPHAD hull UO-11Gue](https://data.orchid-project.org/hulls/calphad-sgte/O/O-U--UO-11Gue.json)
@@ -63,10 +63,12 @@ Table: Invariant reactions reported in the literature for the O–U system (23)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, O–U system (43)
+Table: Enthalpies of formation, O–U system (46)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| U (g) |  | 533 kJ/mol-atom ± 8 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
+| U (g) |  | 534.996 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -327.265 kJ/mol-atom | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 20 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -325.781 kJ/mol-atom ± 12.9704 | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 10, p. 8, row 18 |  |
 | U3O8 | [U3O8](https://data.orchid-project.org/compounds/U3O8.html) | -324.983 kJ/mol-atom ± 2.5104 | 298.15 | experimental | -357.65 (mp-aaaaaalw) | -323.13 (oqmd-5464) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 17 |  |
@@ -85,6 +87,7 @@ Table: Enthalpies of formation, O–U system (43)
 | U4O9 |  | -345.437 kJ/mol-atom | 298.15 | experimental |  |  | [1] Chevalier 2002; _cites Duquesnoy 1964_ | Table 10, p. 8, row 10 |  |
 | U4O9 (s) |  | -347.077 kJ/mol-atom ± 0.523 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 4 |  |
 | U4O9 (s) |  | -346.864 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 3 |  |
+| UNKNOWN |  | -304375 per mol-atom ± 750 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
 | UO (g) |  | 7.954 kJ/mol-atom | 298.15 | model |  |  | [3] Guéneau 2002 | Table 4, p. 9, row 11 |  |
 | UO (g) |  | 15.25 kJ/mol-atom ± 8.5 | 298.15 | model |  |  | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 12 |  |
 | UO2 | [UO2](https://data.orchid-project.org/compounds/UO2.html) | -361.637 kJ/mol-atom | 298.15 | model | -361.862 (mp-aaaaacjl) | -368.505 (oqmd-20358) | [1] Chevalier 2002 | Table 10, p. 8, row 5 |  |
@@ -331,11 +334,11 @@ Table: Phase equilibrium, O–U system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 293 | Φ2; _Φ2: O 0.68954, U 0.31046_ | experimental | [1] Chevalier 2002; _cites Ishii 1970_ [doi](https://doi.org/10.1016/0038-1098%2870%2990194-8) | Table 5, p. 6, row 81 |  |
-| Phase composition |  | 298 | Φ1; _Φ1: O 0.6667, U 0.3333_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 134 |  |
-| Phase composition |  | 298 | Φ1 + U4O9±y; _Φ1: O 0.69231, U 0.30769; U4O9±y: O 0.69231, U 0.30769_ | experimental | [1] Chevalier 2002; _cites Matsui 1975_ | Table 7, p. 7, row 13 |  |
-| Phase composition |  | 298 | Φ1 + U4O9±y; _Φ1: O 0.69183, U 0.30817; U4O9±y: O 0.69183, U 0.30817_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 7, p. 7, row 12 |  |
-| Phase composition |  | 298 | Φ2; _Φ2: O 0.69088, U 0.30912_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 5, p. 6, row 77 |  |
-| Phase composition |  | 298 | Φ2; _Φ2: O 0.69021, U 0.30979_ | experimental | [1] Chevalier 2002; _cites Matsui 1975_ | Table 5, p. 6, row 133 |  |
+| Phase composition |  | 298.15 | Φ1; _Φ1: O 0.6667, U 0.3333_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 134 |  |
+| Phase composition |  | 298.15 | Φ1 + U4O9±y; _Φ1: O 0.69231, U 0.30769; U4O9±y: O 0.69231, U 0.30769_ | experimental | [1] Chevalier 2002; _cites Matsui 1975_ | Table 7, p. 7, row 13 |  |
+| Phase composition |  | 298.15 | Φ1 + U4O9±y; _Φ1: O 0.69183, U 0.30817; U4O9±y: O 0.69183, U 0.30817_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 7, p. 7, row 12 |  |
+| Phase composition |  | 298.15 | Φ2; _Φ2: O 0.69088, U 0.30912_ | experimental | [1] Chevalier 2002; _cites Van 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990157-1) | Table 5, p. 6, row 77 |  |
+| Phase composition |  | 298.15 | Φ2; _Φ2: O 0.69021, U 0.30979_ | experimental | [1] Chevalier 2002; _cites Matsui 1975_ | Table 5, p. 6, row 133 |  |
 | Phase composition |  | 623 | Φ2; _Φ2: O 0.6894, U 0.3106_ | experimental | [1] Chevalier 2002; _cites Ishii 1970_ [doi](https://doi.org/10.1016/0038-1098%2870%2990194-8) | Table 5, p. 6, row 82 |  |
 | Phase composition |  | 630 | Φ1; _Φ1: O 0.6676, U 0.3324_ | experimental | [1] Chevalier 2002; _cites Schaner 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990038-6) | Table 5, p. 6, row 13 |  |
 | Phase composition |  | 630 | Φ1; _Φ1: O 0.668, U 0.332_ | model | [1] Chevalier 2002 | Table 5, p. 6, row 14 |  |
@@ -932,12 +935,14 @@ Table: Phase equilibrium, O–U system
 | Phase composition |  | 3138 | L1; _L1: O 0.6664, U 0.3336_ | experimental | [1] Chevalier 2002; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 4, p. 5, row 95 |  |
 | Phase composition |  | 3138 | other: 1.998; _liquid: O 0.6664, U 0.3336_ | experimental | [4] Barrachin 2008; _cites Latta 1970_ [doi](https://doi.org/10.1016/0022-3115%2870%2990100-5) | Table 1, p. 3, row 3 |  |
 
-### Heat capacity / entropy / enthalpy (60)
+### Heat capacity / entropy / enthalpy (62)
 
 Table: Heat capacity / entropy / enthalpy, O–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S0 (298 K)_ | 199.8 J/mol-atom/K | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002 | Table 4, p. 9, row 9 |  |
+| Entropy; _printed: S0 (298 K)_ | 199.8 J/mol-atom/K ± 0.1 | 298.15 | U (g); _alloy: U 1_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 10 |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6864 J/mol-atom/K ± 0.5 | 298.15 | U3O8; _alloy: U 0.272727_ | experimental | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 21 |  |
 | Entropy; _printed: S°\_f(298.15 K)_ | 25.6746 J/mol-atom/K | 298.15 | U3O8; _alloy: U 0.272727_ | model | [1] Chevalier 2002 | Table 10, p. 8, row 22 |  |
 | Entropy; _printed: S0 (298 K)_ | 25.68 J/mol-atom/K ± 0.05 | 298.15 | U3O8 (s); _alloy: U 0.272727_ | model | [3] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 6 |  |

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of SnTe reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -32.1 kJ/mol-atom | SnTe | 298 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Vecher 1974_ | Table II, p. 7, row 4 |  |
+| -32.1 kJ/mol-atom | SnTe | 298.15 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Vecher 1974_ | Table II, p. 7, row 4 |  |
 | -30.35 kJ/mol-atom | SnTe | 273 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Robinson 1966_ | Table II, p. 7, row 2 |  |
-| -29.7 kJ/mol-atom | SnTe | 298 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table II, p. 7, row 3 |  |
-| -30.05 kJ/mol-atom | SnTe | 298 | model |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010 | Table II, p. 7, row 1 |  |
+| -29.7 kJ/mol-atom | SnTe | 298.15 | experimental |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table II, p. 7, row 3 |  |
+| -30.05 kJ/mol-atom | SnTe | 298.15 | model |  | [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html) | [1] Liu 2010 | Table II, p. 7, row 1 |  |
 
 ## DFT formation energies
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of SnTe
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacul | -47.968 | -0.497159 | Fm-3m | 0 | no |
-| OQMD | oqmd-2170064 | -32.116 | -0.332862 | P4/nmm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacul | -47.968 | -0.497159 | Fm-3m | 0 | 0 | no |
+| OQMD | oqmd-2170064 | -32.116 | -0.332862 | P4/nmm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

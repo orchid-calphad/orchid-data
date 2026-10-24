@@ -45,7 +45,7 @@ Table: Enthalpies of formation, Mg–O system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| MgO |  | -602 kJ/(mol 0) | 298 | experimental |  |  | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
+| MgO |  | -602 kJ/(mol 0) | 298.15 | experimental |  |  | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
 
 ## Other properties
 

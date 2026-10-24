@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ag9Ca2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.2 kJ/mol-atom | Ag9Ca2 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 2 |  |
-| -15.1 kJ/mol-atom | Ag9Ca2 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 5 |  |
-| -14.6 kJ/mol-atom | Ag9Ca2 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 3 |  |
-| -14.5 kJ/mol-atom | Ag9Ca2 | 298 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 4 |  |
+| -15.2 kJ/mol-atom | Ag9Ca2 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 2 |  |
+| -15.1 kJ/mol-atom | Ag9Ca2 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 5 |  |
+| -14.6 kJ/mol-atom | Ag9Ca2 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 3 |  |
+| -14.5 kJ/mol-atom | Ag9Ca2 | 298.15 | experimental |  | [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.html) | [1] Braga 2014 | Table 1, p. 2, row 4 |  |
 
 ## Sources
 

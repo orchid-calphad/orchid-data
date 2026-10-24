@@ -85,7 +85,7 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 | 555 | fcc2 = fcc1 + hcp | fcc2: Zn 0.604; fcc1: Zn 0.166; hcp: Zn 0.965 | model | [2] Chen 1993; _cites ref. 86Mey_ | Table 3, p. 4, row 5 |  |
 | 555 | fcc + fcc' + hcp | fcc: Zn 0.166; fcc': Zn 0.604; hcp: Zn 0.965 | model | [1] Mathon 2000; _cites I W 1950_ | Table 5, p. 16, row 7 |  |
 | 555 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Aragon 1995_ | Table 5, p. 15, row 15 |  |
-| 553 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc': Zn 0.594 | experimental | [1] Mathon 2000; _cites Larsson 1967_ [doi](https://doi.org/10.1016/0001-6160%2867%2990153-8) | Table 5, p. 15, row 18 |  |
+| 553 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Larsson 1967_ [doi](https://doi.org/10.1016/0001-6160%2867%2990153-8) | Table 5, p. 15, row 18 |  |
 | 552 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Jardet 1998_ | Table 5, p. 15, row 16 |  |
 | 551.9 | fcc + fcc' + hcp | fcc: Zn 0.143; fcc': Zn 0.588; hcp: Zn 0.981 | model | [1] Mathon 2000 | Table 5, p. 16, row 3 |  |
 | 550.7 | fcc2 = fcc1 + hcp | fcc2: Zn 0.592; fcc1: Zn 0.145; hcp: Zn 0.985 | model | [2] Chen 1993 | Table 3, p. 4, row 6 |  |
@@ -93,7 +93,7 @@ Table: Invariant reactions reported in the literature for the Al–Zn system (41
 | 550.4 | fcc + fcc' + hcp | fcc: Zn 0.141; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites ref. 7_ | Table 5, p. 16, row 8 |  |
 | 550.4 | monotectic: fcc-A1' -> fcc-A1" + hcp-A3 | fcc-A1': Zn 0.59; fcc-A1": Zn 0.141; hcp-A3: Zn 0.984 | model | [3] Hämäläinen 1998 | Table I, p. 127, row 2 |  |
 | 550 | fcc2 = fcc1 + hcp | fcc2: Zn 0.59; fcc1: Zn 0.165; hcp: Zn 0.984 | model | [2] Chen 1993; _cites ref. 83Mur_ | Table 3, p. 4, row 4 |  |
-| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc': Zn 0.6 | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20 |  |
+| 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Borelius 1948_ | Table 5, p. 15, row 20 |  |
 | 550 | fcc + fcc' + hcp | fcc: Zn 0.165; fcc': Zn 0.59; hcp: Zn 0.984 | model | [1] Mathon 2000; _cites Murray 1996_ | Table 5, p. 16, row 4 |  |
 | 550 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. | fcc: Zn 0.165; fcc': Zn 0.6 | experimental | [1] Mathon 2000; _cites Ellwood 1952_ | Table 5, p. 15, row 19 |  |
 | 548 | monotectoid: fcc sol. \<-> fcc' sol. + hcp sol. |  | experimental | [1] Mathon 2000; _cites Vincent 1982_ | Table 5, p. 15, row 17 |  |

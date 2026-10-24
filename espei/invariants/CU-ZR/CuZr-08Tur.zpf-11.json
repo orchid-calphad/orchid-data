@@ -120,21 +120,38 @@
    {
     "id": "ORC-57SZ7MDEPE",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-RMMUJPQ4HM",
+      "paper": "doi:10.1007/bf02647618",
+      "dataset": "invariants/CU-ZR/CuZr-94Zen-LB.zpf-06.json"
+     }
+    ]
    },
    {
     "id": "ORC-VZ5RH7A7CU",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-3EMIVMGW4E",
+      "paper": "doi:10.1007/bf02647618",
+      "dataset": "invariants/CU-ZR/CuZr-94Zen-LB.zpf-06.json"
+     }
+    ]
    }
   ],
   "papers": [
-   "doi:10.1007/s11106-008-9039-x"
+   "doi:10.1007/s11106-008-9039-x",
+   "doi:10.1007/bf02647618"
   ],
   "dois": [
+   "10.1007/bf02647618",
    "10.1007/s11106-008-9039-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-11.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-11.json",
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

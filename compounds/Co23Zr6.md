@@ -17,7 +17,7 @@ Table: Enthalpy of formation of Co23Zr6 reported in the literature (4)
 | -29.8 kJ/mol-atom ± 1.5 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 7 |  |
 | -29.8 per mol-atom ± 1500 | Co23Zr6 | 1596 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 2 |  |
 | -27.909 kJ/mol-atom | Co23Zr6 | 1596 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 8 |  |
-| -21.641 kJ/mol-atom | Co23Zr6 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 46 |  |
+| -21.641 kJ/mol-atom | Co23Zr6 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 46 |  |
 
 ## DFT formation energies
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Co23Zr6
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabtft | -21.687 | -0.22477 | Fm-3m | 0 | no |
-| OQMD | oqmd-29538 | -13.87 | -0.143752 | Fm-3m | 6.034 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabtft | -21.687 | -0.22477 | Fm-3m | 0 | 0 | no |
+| OQMD | oqmd-29538 | -13.87 | -0.143752 | Fm-3m | 6.034 | 0.0625 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

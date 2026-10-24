@@ -5,7 +5,6 @@
   "ZR"
  ],
  "phases": [
-  "CU51ZR14",
   "CU5ZR_C15B",
   "FCC_A1",
   "LIQUID"
@@ -13,8 +12,7 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1253.0,
-   1311.0
+   1253.0
   ]
  },
  "output": "ZPF",
@@ -47,35 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.125
-    ]
-   ],
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU5ZR_C15B",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Liu 2017, doi:10.1007/s11669-017-0522-2",
@@ -85,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SNSFOQTE7O ORC-H4EOR76WBZ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-SNSFOQTE7O",
  "bibtex": "liu2017_f53fe1",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -102,11 +71,6 @@
       "dataset": "invariants/CU-ZR/CuZr-94Zen-LB.zpf-02.json"
      }
     ]
-   },
-   {
-    "id": "ORC-H4EOR76WBZ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0522-2"
    }
   ],
   "papers": [
@@ -119,15 +83,11 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-17Liu/zpf-08.json",
   "e3_merged": 1,
-  "values_dropped": 6
+  "values_dropped": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -147,11 +107,6 @@
   "values": [
    {
     "id": "ORC-SNSFOQTE7O",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-H4EOR76WBZ",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

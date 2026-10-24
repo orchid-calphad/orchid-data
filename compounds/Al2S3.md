@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Al2S3 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -144.6 kJ/mol-atom | αAl2S3 | 298 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298 | experimental | Solution calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| -107.9 kJ/mol-atom | γAl2S3 | 298 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+| -144.6 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Solution calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
+| -107.9 kJ/mol-atom | γAl2S3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
 | -140.7 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
 | -136.8 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
 | -118.9 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
@@ -29,10 +29,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al2S3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadyc | -131.06 | -1.35834 | P6_1 | 0 | yes |
-| OQMD | oqmd-27954 | -118.658 | -1.22981 | I41/amd | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadyc | -131.06 | -1.35834 | P6_1 | 0 | 0 | yes |
+| OQMD | oqmd-27954 | -118.658 | -1.22981 | I41/amd | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

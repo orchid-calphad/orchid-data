@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Li4Pb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34.06 kJ/mol-atom ± 2.04 | Li4Pb | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 1 |  |
+| -34.06 kJ/mol-atom ± 2.04 | Li4Pb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 1 |  |
 | -26.81 kJ/mol-atom | Li4Pb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 2 |  |
 
 ## Sources

@@ -1,10 +1,10 @@
 # Be–Mo system
 
-> Be–Mo system: 12 accepted literature values (formation 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Be–Mo system: 10 accepted literature values (formation 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BE-MO.html · Markdown: https://data.orchid-project.org/systems/BE-MO.md
 
-12 accepted literature values from 1 paper(s) (model 8, DFT 4); 1 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (model 6, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BE-MO.json) · [CSV](https://data.orchid-project.org/systems/BE-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-MO/BeMo-07Nak.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BE-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-MO.html) · [Markdown](https://data.orchid-project.org/systems/BE-MO.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 8 |
+| model | 6 |
 | DFT | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 12 |
+| formation | 10 |
 
 ## Calculated phase diagrams
 
@@ -52,7 +52,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Be–Mo system (12)
+Table: Enthalpies of formation, Be–Mo system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -62,8 +62,6 @@ Table: Enthalpies of formation, Be–Mo system (12)
 | Be22Mo |  | -3.94 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 9 |  |
 | Be2Mo |  | -31 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 14 |  |
 | Be2Mo |  | -29.3 kJ/mol (basis unstated) |  | DFT |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 13 |  |
-| BeMo |  | -25.2 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
-| BeMo |  | 19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
 | BeMo (CrB) |  | -25.2 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
 | BeMo (CsCl) |  | 19.3 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
 | BeMo3 |  | -13 kJ/mol (basis unstated) |  | model |  |  | [1] Nakashima 2007 | Table 1, p. 2, row 16 |  |

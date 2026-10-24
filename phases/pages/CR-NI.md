@@ -13,15 +13,15 @@ Table: Phases of the Cr–Ni system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cr-ni-bcc-a2); _phase:cr-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 10 calculated diagram(s): 300–2197.48 K, x(Ni) 0–0.3826 | 0 | 10 |
-| [B2_BCC](#phase-cr-ni-bcc-b2); _phase:cr-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273 | 8 | 3 |
+| [B2_BCC](#phase-cr-ni-bcc-b2); _phase:cr-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273 | 3 | 3 |
 | [CRNI2](#phase-cr-ni-crni2); _phase:cr-ni:crni2_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–863.39 K, x(Ni) 0.66179–0.71048 | 4 | 5 |
 | [SIGMA_D8B](#phase-cr-ni-d8b-sigma); _phase:cr-ni:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [DIS_SIG](#phase-cr-ni-dis-sig); _phase:cr-ni:dis-sig_ |  | unresolved_no_candidates | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-cr-ni-fcc-4sl); _phase:cr-ni:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1728.16 K, x(Ni) 0.50323–1 | 0 | 1 |
 | [FCC_A1](#phase-cr-ni-fcc-a1); _phase:cr-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 10 calculated diagram(s): 300–1728.25 K, x(Ni) 0–1 | 0 | 10 |
-| [L12_FCC](#phase-cr-ni-fcc-l12); _phase:cr-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1 | 8 | 2 |
+| [L12_FCC](#phase-cr-ni-fcc-l12); _phase:cr-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1 | 3 | 2 |
 | [HCP_A3](#phase-cr-ni-hcp-a3); _phase:cr-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LIQUID](#phase-cr-ni-liquid); _phase:cr-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1589.63–4000 K, x(Ni) 0–1 | 12 | 7 |
+| [LIQUID](#phase-cr-ni-liquid); _phase:cr-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1589.63–4000 K, x(Ni) 0–1 | 8 | 7 |
 
 ## BCC_A2 (Cr–Ni)
 
@@ -131,7 +131,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrNi-16Tan.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrNi-92Lee-LB.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:bcc-b2)
 
 Names (5): _corpus: _corpus:phase:cr-ni:bcc-b2  
@@ -433,7 +433,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrNi-06Hal.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrNi-92Lee-LB.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:fcc-l12)
 
 Names (5): _corpus: _corpus:phase:cr-ni:fcc-l12  
@@ -529,11 +529,11 @@ _assessment that models this phase_
 - Id: `phase:cr-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1589.63–4000 K, x(Ni) 0–1
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:liquid)
 
-Names (11): _corpus: _corpus:phase:cr-ni:liquid  
-_paper: _paper:10.1016/j.calphad.2021.102268:liquid, paper:10.1016/s0364-5916(01)00049-9:liq, paper:10.1016/s0364-5916(01)00049-9:liq.  
+Names (10): _corpus: _corpus:phase:cr-ni:liquid  
+_paper: _paper:10.1016/j.calphad.2021.102268:liquid, paper:10.1016/s0364-5916(01)00049-9:liq.  
 _tdb: _tdb:CrNi-06Hal.tdb:LIQUID, tdb:CrNi-16Tan.tdb:LIQUID, tdb:CrNi-20Zha.tdb:LIQUID, tdb:CrNi-21Hao-3g.tdb:LIQUID, tdb:CrNi-24Per.tdb:LIQUID, tdb:CrNi-86Din.tdb:LIQUID, tdb:CrNi-92Lee-LB.tdb:LIQUID  
 
 
@@ -600,12 +600,12 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2020.101996](https://doi.org/10.1016/j.calphad.2020.101996) N. Zhao, W. Liu, J.-J. Wang, X.-G. Lu, L. Zhang, Calphad, 71, 101996(2020).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9) N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001).  
-_reports values for this phase_
 - [doi:10.1016/0364-5916(82)90018-9](https://doi.org/10.1016/0364-5916%2882%2990018-9) Staffan Hertzman, Bo Sundman, A thermodynamic analysis of the fe-cr system, Calphad 6, 67-80 (1982).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
+- [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9) N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001).  
+_reports values for this phase_
 
 ## Please cite
 

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ca6.24Mg3.76Sn7 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -57.16 kJ/mol-atom | Ca6.24Mg3.76Sn7 | 298 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 15 |  |
+| -57.16 kJ/mol-atom | Ca6.24Mg3.76Sn7 | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008 | Table 2, p. 5, row 15 |  |
 | -56.9 kJ/mol-atom | Ca6.24Mg3.76Sn7 | 298.15 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 14 |  |
 
 ## Sources

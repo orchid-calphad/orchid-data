@@ -213,18 +213,18 @@ Table: Enthalpies of formation, Cu–Ti system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2Ti |  | -9.871 kJ/mol (basis unstated) | 298 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 11 |  |
+| Cu2Ti |  | -9.871 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 11 |  |
 | Cu3Ti2 |  | -13.927 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 13 |  |
-| Cu3Ti2 |  | -9.35 kJ/mol (basis unstated) ± 1.3 | 298 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12 |  |
-| Cu4Ti |  | -7.346 kJ/mol (basis unstated) | 298 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
-| Cu4Ti |  | -5.53 kJ/mol (basis unstated) ± 1.07 | 298 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 1 |  |
+| Cu3Ti2 |  | -9.35 kJ/mol (basis unstated) ± 1.3 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12 |  |
+| Cu4Ti |  | -7.346 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
+| Cu4Ti |  | -5.53 kJ/mol (basis unstated) ± 1.07 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 1 |  |
 | Cu4Ti3 |  | -14.921 kJ/mol (basis unstated) |  | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 15 |  |
-| Cu4Ti3 |  | -9.65 kJ/mol (basis unstated) ± 0.88 | 298 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 14 |  |
-| CuTi |  | -17.534 kJ/mol (basis unstated) | 298 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
-| CuTi |  | -11.12 kJ/mol (basis unstated) ± 1.72 | 298 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 16 |  |
+| Cu4Ti3 |  | -9.65 kJ/mol (basis unstated) ± 0.88 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 14 |  |
+| CuTi |  | -17.534 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
+| CuTi |  | -11.12 kJ/mol (basis unstated) ± 1.72 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 16 |  |
 | CuTi |  | -9.61 kJ/mol (basis unstated) ± 0.37 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Colinet 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902590-x) | Table 3, p. 8, row 17 |  |
-| CuTi2 |  | -24.22 kJ/mol (basis unstated) | 298 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
-| CuTi2 |  | -8.6 kJ/mol (basis unstated) ± 1.62 | 298 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 27 |  |
+| CuTi2 |  | -24.22 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
+| CuTi2 |  | -8.6 kJ/mol (basis unstated) ± 1.62 | 298.15 | experimental |  |  | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 27 |  |
 
 ## Other properties
 
@@ -246,9 +246,9 @@ Table: Formation, Cu–Ti system
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔfS_ | -2.08 J/mol (basis unstated)/K |  | Cu3Ti2; _alloy: Ti 0.4_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 13 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.32 J/mol (basis unstated)/K |  | Cu4Ti3; _alloy: Ti 0.428571_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.85 J/mol (basis unstated)/K | 298 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.37 J/mol (basis unstated)/K | 298 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
-| Entropy of formation; _printed: ΔfS_ | -8.5 J/mol (basis unstated)/K | 298 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
+| Entropy of formation; _printed: ΔfS_ | -1.85 J/mol (basis unstated)/K | 298.15 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.37 J/mol (basis unstated)/K | 298.15 | CuTi; _alloy: Ti 0.5_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 22 |  |
+| Entropy of formation; _printed: ΔfS_ | -8.5 J/mol (basis unstated)/K | 298.15 | CuTi2; _alloy: Ti 0.666667_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 29 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -6.864 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | model | [1] Turchanin 2008 | Table 3, p. 8, row 7 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -4.627 kJ/mol (basis unstated) | 673 | Cu4Ti; _alloy: Ti 0.2_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 2 |  |
 | Gibbs energy of formation; _printed: ΔfG_ | -9.815 kJ/mol (basis unstated) | 673 | CuTi; _alloy: Ti 0.5_ | experimental | [1] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 8, row 18 |  |

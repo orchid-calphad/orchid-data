@@ -14,12 +14,12 @@ Table: Enthalpy of formation of MgB20 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.8 kJ/mol-atom | MgB20 | 298 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 20 |  |
-| -10.1 kJ/mol-atom | MgB20 | 298 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 21 |  |
-| -8.5 kJ/mol-atom ± 0.6 | MgB20 | 298 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| -8.5 per mol-atom ± 0.6 | MgB20 | 298 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| -7.8 kJ/mol-atom | MgB20 | 298 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
-| -7.8 per mol-atom | MgB20 | 298 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
+| -15.8 kJ/mol-atom | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 20 |  |
+| -10.1 kJ/mol-atom | MgB20 | 298.15 | experimental | calorimetry | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 21 |  |
+| -8.5 kJ/mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
+| -8.5 per mol-atom ± 0.6 | MgB20 | 298.15 | experimental | Vap. p. | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 18 |  |
+| -7.8 kJ/mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
+| -7.8 per mol-atom | MgB20 | 298.15 | model | Ph. diagr. assessment | [B–Mg](https://data.orchid-project.org/systems/B-MG.html) | [1] Balducci 2005 | Table 2, p. 4, row 19 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Sn–Zr system
 
-> Sn–Zr system: 77 accepted literature values (invariant reaction 40, formation 25, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Zr system: 72 accepted literature values (invariant reaction 40, formation 20, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-ZR.html · Markdown: https://data.orchid-project.org/systems/SN-ZR.md
 
-77 accepted literature values from 3 paper(s) (experimental 19, model 34, unspecified 24); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+72 accepted literature values from 3 paper(s) (experimental 19, model 29, unspecified 24); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-08Jer.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SN-ZR.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 34 |
+| model | 29 |
 | unspecified | 24 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 40 |
 | phase transition | 3 |
 | phase equilibrium | 5 |
-| formation | 25 |
+| formation | 20 |
 | mixing / partial | 2 |
 | crystal structure | 2 |
 
@@ -163,15 +163,10 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (40
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sn–Zr system (25)
+Table: Enthalpies of formation, Sn–Zr system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Zr4Sn) |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
-| (Zr4Sn) |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
-| (Zr4Sn) |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
-| (Zr4Sn) |  | -38.292 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
-| (Zr4Sn) |  | -29.94 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
 | (Zr4Sn)a |  | -58.898 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
 | (Zr4Sn)a |  | -48.082 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
 | (Zr4Sn)a |  | -42.667 kJ/mol (basis unstated) |  | model |  |  | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |

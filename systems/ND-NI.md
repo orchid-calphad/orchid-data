@@ -157,7 +157,7 @@ Table: Invariant reactions reported in the literature for the Nd–Ni system (94
 | 1559.15 | Liquid + NdNi5 \<-> Nd2Ni17 | Liquid: Ni 0.9174; NdNi5: Nd 0.166667, Ni 0.833333; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 37 |  |
 | 1558.15 | Liquid \<-> Nd2Ni17 + fcc (Ni) | Liquid: Ni 0.9175; Nd2Ni17: Nd 0.105263, Ni 0.894737 | model | [1] Huang 2005 | Table 2, p. 5, row 39 |  |
 | 1555.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005 | Table 2, p. 5, row 42 |  |
-| 1550.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333; Liquid: Ni 0.8947 | model | [1] Huang 2005 | Table 2, p. 5, row 41 |  |
+| 1550.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | model | [1] Huang 2005 | Table 2, p. 5, row 41 |  |
 | 1523.15 | Nd2Ni17 \<-> NdNi5 + fcc (Ni) | Nd2Ni17: Nd 0.105263, Ni 0.894737; NdNi5: Nd 0.166667, Ni 0.833333 | experimental | [1] Huang 2005; _cites Pan 1991_ | Table 2, p. 5, row 43 |  |
 | 1466.15 | Liquid + NdNi5 \<-> βNd2Ni7 | NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | experimental | [1] Huang 2005 | Table 2, p. 5, row 33 |  |
 | 1464.15 | Liquid + NdNi5 \<-> βNd2Ni7 | Liquid: Ni 0.7213; NdNi5: Nd 0.166667, Ni 0.833333; βNd2Ni7: Nd 0.222222, Ni 0.777778 | model | [1] Huang 2005 | Table 2, p. 5, row 32 |  |

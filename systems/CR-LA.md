@@ -1,10 +1,10 @@
 # Cr–La system
 
-> Cr–La system: 35 accepted literature values (invariant reaction 17, phase transition 16, other property 1, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–La system: 34 accepted literature values (invariant reaction 17, phase transition 16, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-LA.html · Markdown: https://data.orchid-project.org/systems/CR-LA.md
 
-35 accepted literature values from 2 paper(s) (experimental 20, model 15); 2 calculated phase diagram(s).
+34 accepted literature values from 2 paper(s) (experimental 19, model 15); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-LA.json) · [CSV](https://data.orchid-project.org/systems/CR-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-LA/CrLa-09Cha.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-LA.html) · [Markdown](https://data.orchid-project.org/systems/CR-LA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 19 |
 | model | 15 |
 
 Table: Accepted values by property group
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 17 |
 | phase transition | 16 |
-| formation | 1 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -74,16 +73,6 @@ Table: Invariant reactions reported in the literature for the Cr–La system (17
 | 1138 | eutectic |  | experimental | [1] Povoden 2009; _cites Savitskii 1960_ | p. 1 | “The La-Cr system has a eutectic at 1138 K\[12,13\] and 3.4 at.% Cr\[13\] and a monotectic at 1983 K\[12\] or 2103 K\[14\] and 96 at.%\[12\] or 99.1 at.%\[14\] Cr, as well as a large liquidliquid miscibility gap.\[12,13\]” |
 | 978.15 | eutectoid: cLa M Cr + bLa |  | experimental | [2] Chan 2009; _cites Savitskii 1960_ | p. 2 | “Another invariant reaction is reported at around 705 °C by Savitskii et al.\[12\] whose reaction type is presumed to be eutectoid (cLa M Cr + bLa), while Gschneider\[13\] assessed it at 730 °C instead.” |
 | 550.15 | βLa -> Cr + αLa | βLa: La 1; Cr: La 0; αLa: La 1 | model | [2] Chan 2009 | Table 3, p. 7, row 11 |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Cr–La system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -3961 unspecified ± 11.7 | 298 | experimental |  |  | [1] Povoden 2009; _cites Tsyrenova_ | p. 2 | “The enthalpy of formation of La2(CrO4)3 from the elements at 298 K was proposed by Tsyrenova et al.\[29\] to be -3961 ± 11.7 kJ mol-1.” |
 
 ## Other properties
 

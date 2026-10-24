@@ -16,7 +16,7 @@ Table: Phases of the Ru–Si system (10)
 | [BCC_A2](#phase-ru-si-bcc-a2); _phase:ru-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-ru-si-fcc-a1); _phase:ru-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-ru-si-hcp-a3); _phase:ru-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2627.41 K, x(Si) 0–0.05336 | 15 | 4 |
-| [LIQUID](#phase-ru-si-liquid); _phase:ru-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1561.64–4000 K, x(Si) 0–1 | 54 | 4 |
+| [LIQUID](#phase-ru-si-liquid); _phase:ru-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1561.64–4000 K, x(Si) 0–1 | 50 | 4 |
 | [RU2SI_C37](#phase-ru-si-ru2si-c37); _phase:ru-si:ru2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1506.67–1822.42 K, x(Si) 0.33333–0.33333 | 21 | 4 |
 | [RU2SI3](#phase-ru-si-ru2si3); _phase:ru-si:ru2si3_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1985.87 K, x(Si) 0.6–0.6 | 32 | 4 |
 | [RU4SI3](#phase-ru-si-ru4si3); _phase:ru-si:ru4si3_ | Ru4Si3 · oP28 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1948.13 K, x(Si) 0.42857–0.42857 | 26 | 4 |
@@ -238,7 +238,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ru-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1561.64–4000 K, x(Si) 0–1
-- Literature: 54 values (54 accepted) from 2 papers
+- Literature: 50 values (50 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-si:liquid)
 
 Names (7): _corpus: _corpus:phase:ru-si:liquid  
@@ -278,10 +278,10 @@ _tdb: _tdb:RuSi-01Du-LB.tdb:LIQUID, tdb:RuSi-01Liu.tdb:LIQUID, tdb:RuSi-09Lon.td
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2009.01.079](https://doi.org/10.1016/j.jallcom.2009.01.079) Z.H. Long, H.S. Liu, Z.P. Jin, Thermodynamic description of Ru–Ge–Si ternary system, Journal of Alloys and Compounds 479, 262-267 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(01)00931-8](https://doi.org/10.1016/S0925-8388%2801%2900931-8) Y.Q. Liu, G. Shao, K.P. Homewood, J. Alloys Compd., 320, 72-79(2001).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2009.01.079](https://doi.org/10.1016/j.jallcom.2009.01.079) Z.H. Long, H.S. Liu, Z.P. Jin, Thermodynamic description of Ru–Ge–Si ternary system, Journal of Alloys and Compounds 479, 262-267 (2009).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.3139/ijmr-2001-0064](https://doi.org/10.3139/ijmr-2001-0064) Y. Du, K.H. Chen, J.C. Schuster, L. Perring, B.Y. Huang, Z.H. Yuan, J.C. Gachon, Z. Metallkd., 92, 323-27(2001).  
 _assessment that models this phase_
 - [doi:10.1016/s0925-8388(98)00911-6](https://doi.org/10.1016/s0925-8388%2898%2900911-6) L. Perring, F. Bussy, J.C. Gachon, P. Feschotte, The Ruthenium–Silicon system, Journal of Alloys and Compounds 284, 198-205 (1999).  

@@ -323,7 +323,7 @@ _cited as the source of values for this phase_
 - Candidate (dft_oqmd): C2/m (12) — on-hull OQMD Al4 Li9 at x(LI)=0.6923
 - Candidate (literature_printed): NaTl · cF16 — printed with a label mapped to this phase
 - Stability: stable in 4 of 4 calculated diagram(s): 300–974.56 K, x(Li) 0.44522–1
-- Literature: 19 values (18 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:bcc-4sl)
 
 Names (8): _corpus: _corpus:phase:al-li:bcc-4sl  
@@ -619,7 +619,7 @@ _assessment that models this phase_
 - Id: `phase:al-li:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 12 calculated diagram(s): 300–934.11 K, x(Li) 0–0.15499
-- Literature: 8 values (7 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:fcc-a1)
 
 Names (17): _corpus: _corpus:phase:al-li:fcc-a1  
@@ -862,7 +862,7 @@ _assessment that models this phase_
 - Id: `phase:al-li:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 447.76–2500 K, x(Li) 0–1
-- Literature: 33 values (32 accepted) from 2 papers
+- Literature: 33 values (33 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:liquid)
 
 Names (11): _corpus: _corpus:phase:al-li:liquid  

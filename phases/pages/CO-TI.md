@@ -474,7 +474,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 12 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423
-- Literature: 37 values (36 accepted) from 5 papers
+- Literature: 37 values (37 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:fcc-a1)
 
 Names (20): _corpus: _corpus:phase:co-ti:fcc-a1  
@@ -604,7 +604,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in CoTi-22Yan.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CoTi-24Tur.tdb also describes the disordered state
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1885.95 K, x(Ti) 0–0.25
-- Literature: 55 values (54 accepted) from 5 papers
+- Literature: 55 values (55 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:fcc-l12)
 
 Names (13): _corpus: _corpus:phase:co-ti:fcc-l12, corpus:phase:co-ti:l12-fcc  
@@ -754,7 +754,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1
-- Literature: 120 values (119 accepted) from 5 papers
+- Literature: 120 values (120 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:liquid)
 
 Names (14): _corpus: _corpus:phase:co-ti:liquid  

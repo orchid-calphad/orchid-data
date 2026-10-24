@@ -92,20 +92,20 @@ Table: Enthalpies of formation, Li–Pb system (16)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Li10Pb3 |  | -22 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 6 |  |
-| Li3Pb |  | -37.02 kJ/mol-atom ± 0.75 | 298 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 8 |  |
-| Li3Pb |  | -34.56 kJ/mol-atom ± 2.07 | 298 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 7 |  |
+| Li3Pb |  | -37.02 kJ/mol-atom ± 0.75 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 8 |  |
+| Li3Pb |  | -34.56 kJ/mol-atom ± 2.07 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 7 |  |
 | Li3Pb |  | -31.61 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 9 |  |
-| Li4Pb |  | -34.06 kJ/mol-atom ± 2.04 | 298 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 1 |  |
+| Li4Pb |  | -34.06 kJ/mol-atom ± 2.04 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 1 |  |
 | Li4Pb |  | -26.81 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 2 |  |
-| Li5Pb2 |  | -33.34 kJ/mol-atom ± 2 | 298 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 11 |  |
+| Li5Pb2 |  | -33.34 kJ/mol-atom ± 2 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 11 |  |
 | Li5Pb2 |  | -31 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 12 |  |
-| Li7Pb2 |  | -35.14 kJ/mol-atom ± 2.11 | 298 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 3 |  |
-| Li7Pb2 |  | -33.48 kJ/mol-atom ± 0.5 | 298 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 4 |  |
+| Li7Pb2 |  | -35.14 kJ/mol-atom ± 2.11 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 3 |  |
+| Li7Pb2 |  | -33.48 kJ/mol-atom ± 0.5 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 4 |  |
 | Li7Pb2 |  | -31.03 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 5 |  |
 | Li8Pb3 |  | -22.28 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 10 |  |
-| αLiPb |  | -30.3 kJ/mol-atom ± 1.82 | 298 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13 |  |
+| αLiPb |  | -30.3 kJ/mol-atom ± 1.82 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13 |  |
 | αLiPb |  | -26.44 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 15 |  |
-| αLiPb |  | -24.25 kJ/mol-atom ± 0.55 | 298 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
+| αLiPb |  | -24.25 kJ/mol-atom ± 0.55 | 298.15 | DFT |  |  | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
 | βLiPb |  | -1.08 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2016 | Table 2, p. 2, row 16 |  |
 
 ## Other properties

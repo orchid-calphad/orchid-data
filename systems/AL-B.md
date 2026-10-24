@@ -127,16 +127,16 @@ Table: Enthalpies of formation, Al–B system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -27.8 kJ/mol-atom | 298 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
-| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -20.469 kJ/mol-atom | 298 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -15.45 kJ/mol-atom ± 3.2 | 298 | experimental |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -15.253 kJ/mol-atom | 298 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -7.13 kJ/mol-atom | 298 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
-| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -50.332 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -28.603 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -22.3 kJ/mol-atom ± 4.2 | 298 | experimental | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -21.8 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
-| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -19.1 kJ/mol-atom | 298 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
+| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -27.8 kJ/mol-atom | 298.15 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
+| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -20.469 kJ/mol-atom | 298.15 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
+| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -15.45 kJ/mol-atom ± 3.2 | 298.15 | experimental |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
+| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -15.253 kJ/mol-atom | 298.15 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
+| AlB12 | [AlB12](https://data.orchid-project.org/compounds/AlB12.html) | -7.13 kJ/mol-atom | 298.15 | model |  | 16.476 (oqmd-1437941) | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
+| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -50.332 kJ/mol-atom | 298.15 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
+| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -28.603 kJ/mol-atom | 298.15 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
+| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -22.3 kJ/mol-atom ± 4.2 | 298.15 | experimental | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
+| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -21.8 kJ/mol-atom | 298.15 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
+| AlB2 | [AlB2](https://data.orchid-project.org/compounds/AlB2.html) | -19.1 kJ/mol-atom | 298.15 | model | -4.148 (mp-aaaaabki) | -4.243 (oqmd-103360) | [3] Campbell 1999 | Table 7, p. 7, row 5 |  |
 
 ## Other properties
 

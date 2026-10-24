@@ -62,9 +62,9 @@ Table: Enthalpies of formation, Mn–Tb system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -3.19 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
-| — |  | -2.51 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
-| — |  | -1.05 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
+| — |  | -3.19 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
+| — |  | -2.51 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
+| — |  | -1.05 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2017; _cites Kim 2014_ [doi](https://doi.org/10.1007/s11669-014-0345-3) | p. 9 | “Using modified Miedema model, the enthalpies of formation of Mn12Tb, Mn23Tb6 and MnTb2 at 298 K were calculated by Kim and Pailwal \[34\] to be -1.05, -2.51 and -3.19 kJ mol-1.” |
 
 ## Sources
 

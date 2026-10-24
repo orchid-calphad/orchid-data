@@ -21,7 +21,6 @@
   "T": [
    1158.0,
    1168.0,
-   1163.0,
    1201.0,
    1273.0,
    1268.0,
@@ -74,35 +73,6 @@
    ],
    [
     "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.44
-    ]
-   ],
-   [
-    "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUZR_B2",
     [
      "ZR"
     ],
@@ -304,7 +274,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NW2ACW5QNI ORC-PUDDEC5QXK ORC-IBSNZ4DJZN ORC-3TYZUMMZEV ORC-KBFIV5RQL3 ORC-HIGOKJ4S64 ORC-XCJOTJ2GKA ORC-CYBHIOM3CE ORC-SFMHQKTADZ ORC-VMNTYO567G",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NW2ACW5QNI ORC-PUDDEC5QXK ORC-3TYZUMMZEV ORC-KBFIV5RQL3 ORC-HIGOKJ4S64 ORC-XCJOTJ2GKA ORC-CYBHIOM3CE ORC-SFMHQKTADZ ORC-VMNTYO567G",
  "bibtex": "turchanin2008_458466",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -313,17 +283,26 @@
    {
     "id": "ORC-NW2ACW5QNI",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-Q7JZKRB2IY",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-PUDDEC5QXK",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
-   },
-   {
-    "id": "ORC-IBSNZ4DJZN",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-DZVAPYWENR",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-3TYZUMMZEV",
@@ -333,7 +312,14 @@
    {
     "id": "ORC-KBFIV5RQL3",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-S2X35WDT4J",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-HIGOKJ4S64",
@@ -353,7 +339,14 @@
    {
     "id": "ORC-SFMHQKTADZ",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-3RUDYW5FZK",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-VMNTYO567G",
@@ -362,23 +355,22 @@
    }
   ],
   "papers": [
-   "doi:10.1007/s11106-008-9039-x"
+   "doi:10.1007/s11106-008-9039-x",
+   "doi:10.1007/s11669-017-0522-2",
+   "doi:10.1007/bf02647618"
   ],
   "dois": [
-   "10.1007/s11106-008-9039-x"
+   "10.1007/bf02647618",
+   "10.1007/s11106-008-9039-x",
+   "10.1007/s11669-017-0522-2"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-09.json",
-  "values_dropped": 1
+  "values_dropped": 2,
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 10.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -453,11 +445,6 @@
    },
    {
     "id": "ORC-PUDDEC5QXK",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-IBSNZ4DJZN",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

@@ -5,112 +5,18 @@
   "VA"
  ],
  "phases": [
-  "BCT_A5",
   "FCC_A1",
   "LIQUID",
-  "PT2SN3",
-  "PT3SN_L12",
-  "PTSN2_C1",
-  "PTSN4_D1C"
+  "PT3SN_L12"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1021.15,
-   813.15,
-   501.15,
    1643.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.812
-    ]
-   ],
-   [
-    "PT2SN3",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PTSN2_C1",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.95
-    ]
-   ],
-   [
-    "PTSN2_C1",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PTSN4_D1C",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.994
-    ]
-   ],
-   [
-    "PTSN4_D1C",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCT_A5",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -148,27 +54,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3GN3LUI2GF ORC-SGGSEYDCWB ORC-RSN4KDHQYZ ORC-YQJUTZ7VY6",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YQJUTZ7VY6",
  "bibtex": "cui2021_d95982",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-3GN3LUI2GF",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2020.157064"
-   },
-   {
-    "id": "ORC-SGGSEYDCWB",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2020.157064"
-   },
-   {
-    "id": "ORC-RSN4KDHQYZ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2020.157064"
-   },
    {
     "id": "ORC-YQJUTZ7VY6",
     "reader_agreement": "multi_reader",
@@ -184,29 +75,11 @@
    "10.1016/j.jallcom.2020.157064"
   ],
   "source_dataset": "db-v2.1/invariants/espei/PtSn-21Cui/zpf-01.json",
-  "values_dropped": 4
+  "values_dropped": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 2.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 2.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 2.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -226,21 +99,6 @@
   "all_values_certified": false,
   "n_certified": 0,
   "values": [
-   {
-    "id": "ORC-3GN3LUI2GF",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-SGGSEYDCWB",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-RSN4KDHQYZ",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
    {
     "id": "ORC-YQJUTZ7VY6",
     "espei_certified": false,

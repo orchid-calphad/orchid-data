@@ -82,8 +82,8 @@ Table: Enthalpies of formation, In–Ni system (6)
 | ζ(Ni2In) |  | -18.523 kJ/mol (basis unstated) | 850 | model |  |  | [1] Cao 2013 | Table III, p. 7, row 4 |  |
 | ζ(Ni2In) |  | -18.209 kJ/mol (basis unstated) | 1060 | model |  |  | [1] Cao 2013 | Table III, p. 7, row 6 |  |
 | ζ(Ni2In) |  | -17.86 kJ/mol (basis unstated) | 850 | experimental |  |  | [1] Cao 2013; _cites Vinokurova 1973_ | Table III, p. 7, row 3 |  |
-| ζ(Ni2In) |  | -17.3 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Cao 2013; _cites Schmid 1995_ | Table III, p. 7, row 1 |  |
-| ζ(Ni2In) |  | -16.953 kJ/mol (basis unstated) | 298 | model |  |  | [1] Cao 2013 | Table III, p. 7, row 2 |  |
+| ζ(Ni2In) |  | -17.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Cao 2013; _cites Schmid 1995_ | Table III, p. 7, row 1 |  |
+| ζ(Ni2In) |  | -16.953 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Cao 2013 | Table III, p. 7, row 2 |  |
 
 ## Sources
 

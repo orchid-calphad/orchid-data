@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_NI": [
    0.75
   ]
@@ -70,6 +70,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "bolcavage1996_5914ba",
  "orchid": {
@@ -122,7 +123,7 @@
     "id": "ORC-L6HBAFL7TT",
     "phase": "NBNI3_D0A",
     "x": 0.75,
-    "T_K": 298.0
+    "T_K": 298.15
    }
   ]
  },

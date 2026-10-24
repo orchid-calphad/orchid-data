@@ -43,32 +43,32 @@ Table: Enthalpies of formation, B–Ce–Dy–Lu system (39)
 | CeB6 |  | -47.019 kJ/mol-atom |  | DFT |  |  | [1] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 12 |  |
 | CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -46.457 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [1] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 8 |  |
 | CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -30.6 kJ/mol-atom ± 27 | 298.15 | experimental | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [1] Li 2020; _cites ref. 29_ | Table 2, p. 25, row 10 |  |
-| DyB12 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | -24.212 kJ/mol-atom | 298 | model | -24.129 (mp-aaackujk) | -24.171 (oqmd-28341) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
-| DyB12 |  | 24.038 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -58.019 kJ/mol-atom | 298 | model | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -54.44 kJ/mol-atom | 298 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
-| DyB2 |  | -54.135 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
-| DyB2 |  | -54.038 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
-| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -30.2 kJ/mol-atom ± 1.3 | 298 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
-| DyB4 |  | -57.692 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
-| DyB4 |  | -57.596 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
-| DyB4 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | -55.007 kJ/mol-atom | 298 | model | -57.547 (mp-aaaaaeap) | -57.764 (oqmd-12458) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
-| DyB6 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | -38.94 kJ/mol-atom | 298 | model | -38.604 (mp-aaabgisl) | -38.617 (oqmd-19358) | [1] Li 2020 | Table 2, p. 25, row 23 |  |
-| DyB6 |  | -38.558 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 22 |  |
-| DyB66 |  | -4.686 kJ/mol-atom | 298 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 26 |  |
-| LuB12 | [LuB12](https://data.orchid-project.org/compounds/LuB12.html) | -24.605 kJ/mol-atom | 298 | model | -23.771 (mp-aaackvor) | -23.781 (oqmd-28503) | [1] Li 2020 | Table 2, p. 25, row 38 |  |
-| LuB12 |  | -23.7 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 35 |  |
-| LuB12 |  | -23.654 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 37 |  |
-| LuB12 |  | -23.654 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 36 |  |
-| LuB2 |  | -66.9 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 27 |  |
-| LuB2 |  | -66.538 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 28 |  |
-| LuB2 |  | -66.249 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 29 |  |
-| LuB2 | [LuB2](https://data.orchid-project.org/compounds/LuB2.html) | -65.781 kJ/mol-atom | 298 | model | -66.723 (mp-aaaaaqpn) | -66.48 (oqmd-115218) | [1] Li 2020 | Table 2, p. 25, row 30 |  |
-| LuB4 | [LuB4](https://data.orchid-project.org/compounds/LuB4.html) | -56.878 kJ/mol-atom | 298 | model | -53.778 (mp-aaabgnkp) | -53.771 (oqmd-19137) | [1] Li 2020 | Table 2, p. 25, row 34 |  |
-| LuB4 |  | -53.75 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 32 |  |
-| LuB4 |  | -53.7 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 31 |  |
-| LuB4 |  | -53.558 kJ/mol-atom | 298 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 33 |  |
-| LuB66 |  | -6.059 kJ/mol-atom | 298 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 39 |  |
+| DyB12 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | -24.212 kJ/mol-atom | 298.15 | model | -24.129 (mp-aaackujk) | -24.171 (oqmd-28341) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
+| DyB12 |  | 24.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -58.019 kJ/mol-atom | 298.15 | model | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -54.44 kJ/mol-atom | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
+| DyB2 |  | -54.135 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
+| DyB2 |  | -54.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -30.2 kJ/mol-atom ± 1.3 | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
+| DyB4 |  | -57.692 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
+| DyB4 |  | -57.596 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
+| DyB4 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | -55.007 kJ/mol-atom | 298.15 | model | -57.547 (mp-aaaaaeap) | -57.764 (oqmd-12458) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
+| DyB6 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | -38.94 kJ/mol-atom | 298.15 | model | -38.604 (mp-aaabgisl) | -38.617 (oqmd-19358) | [1] Li 2020 | Table 2, p. 25, row 23 |  |
+| DyB6 |  | -38.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 22 |  |
+| DyB66 |  | -4.686 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 26 |  |
+| LuB12 | [LuB12](https://data.orchid-project.org/compounds/LuB12.html) | -24.605 kJ/mol-atom | 298.15 | model | -23.771 (mp-aaackvor) | -23.781 (oqmd-28503) | [1] Li 2020 | Table 2, p. 25, row 38 |  |
+| LuB12 |  | -23.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 35 |  |
+| LuB12 |  | -23.654 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 37 |  |
+| LuB12 |  | -23.654 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 36 |  |
+| LuB2 |  | -66.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 27 |  |
+| LuB2 |  | -66.538 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 28 |  |
+| LuB2 |  | -66.249 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 29 |  |
+| LuB2 | [LuB2](https://data.orchid-project.org/compounds/LuB2.html) | -65.781 kJ/mol-atom | 298.15 | model | -66.723 (mp-aaaaaqpn) | -66.48 (oqmd-115218) | [1] Li 2020 | Table 2, p. 25, row 30 |  |
+| LuB4 | [LuB4](https://data.orchid-project.org/compounds/LuB4.html) | -56.878 kJ/mol-atom | 298.15 | model | -53.778 (mp-aaabgnkp) | -53.771 (oqmd-19137) | [1] Li 2020 | Table 2, p. 25, row 34 |  |
+| LuB4 |  | -53.75 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 32 |  |
+| LuB4 |  | -53.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 31 |  |
+| LuB4 |  | -53.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 33 |  |
+| LuB66 |  | -6.059 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 39 |  |
 
 ## Sources
 

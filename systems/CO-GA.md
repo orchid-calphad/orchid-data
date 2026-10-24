@@ -95,15 +95,15 @@ Table: Enthalpies of formation, Co–Ga system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CoGa3 |  | -32.4 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 8 |  |
-| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -28.666 kJ/mol-atom | 298 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [1] Chari 2010 | Table 2, p. 4, row 9 |  |
-| CoGa3 |  | -25.9 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 7 |  |
-| β (Ga:Co) |  | -39.4 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 2 |  |
-| β (Ga:Co) |  | -37.833 kJ/mol-atom | 298 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 3 |  |
-| β (Ga:Co) |  | -26.9 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1 |  |
-| β (Ga:Va) |  | 7.25 kJ/mol-atom | 298 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 6 |  |
-| β (Ga:Va) |  | 7.7 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 4 |  |
-| β (Ga:Va) |  | 8.6 kJ/mol-atom | 298 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 5 |  |
+| CoGa3 |  | -32.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 8 |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -28.666 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [1] Chari 2010 | Table 2, p. 4, row 9 |  |
+| CoGa3 |  | -25.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 7 |  |
+| β (Ga:Co) |  | -39.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 2 |  |
+| β (Ga:Co) |  | -37.833 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 3 |  |
+| β (Ga:Co) |  | -26.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1 |  |
+| β (Ga:Va) |  | 7.25 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 6 |  |
+| β (Ga:Va) |  | 7.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 4 |  |
+| β (Ga:Va) |  | 8.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 5 |  |
 
 ## Other properties
 

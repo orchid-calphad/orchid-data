@@ -31,7 +31,7 @@ DOIs matched from a printed reference, checked against Crossref (first author, y
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
 printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
 DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
-Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4125.
+Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
 
 | edge type | edges |
 |---|---:|

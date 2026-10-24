@@ -119,8 +119,8 @@ Table: Heat capacity / entropy / enthalpy, Fe–Sm system
 | Heat capacity | 29.9 J/mol (basis unstated)/K | 287 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 9 |  |
 | Heat capacity | 30.2 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 11 |  |
 | Heat capacity | 28 J/mol (basis unstated)/K | 293 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 12 |  |
-| Heat capacity | 28.57 J/mol (basis unstated)/K | 298 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 14 |  |
-| Heat capacity | 30.3 J/mol (basis unstated)/K | 298 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 13 |  |
+| Heat capacity | 28.57 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | model | [1] Zinkevich 2002 | Table 7, p. 13, row 14 |  |
+| Heat capacity | 30.3 J/mol (basis unstated)/K | 298.15 | Fe17Sm2; _alloy: Sm 0.105263_ | experimental | [1] Zinkevich 2002 | Table 7, p. 13, row 13 |  |
 
 ## Sources
 

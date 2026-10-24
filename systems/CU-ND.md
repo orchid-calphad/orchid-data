@@ -131,16 +131,16 @@ Table: Enthalpies of formation, Cu–Nd system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu2Nd |  | -20.488 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 7 |  |
-| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -20.25 kJ/mol-atom | 298 | model | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011 | Table 2, p. 3, row 8 |  |
-| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -16.9 kJ/mol-atom | 298 | experimental | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
-| Cu5Nd |  | -15.846 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 4 |  |
-| Cu5Nd | [Cu5Nd](https://data.orchid-project.org/compounds/Cu5Nd.html) | -15.704 kJ/mol-atom | 298 | model | -15.243 (mp-aaaaabrw) | -15.768 (oqmd-31351) | [3] Wang 2011 | Table 2, p. 3, row 5 |  |
-| Cu6Nd |  | -13.939 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 2 |  |
-| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.58 kJ/mol-atom | 298 | model | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011 | Table 2, p. 3, row 3 |  |
-| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.3 kJ/mol-atom | 298 | experimental | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 1 |  |
-| αCuNd | [CuNd](https://data.orchid-project.org/compounds/CuNd.html) | -18.28 kJ/mol-atom | 298 | model | -17.64 (mp-aaaaatvc) | -18.115 (oqmd-122448) | [3] Wang 2011 | Table 2, p. 3, row 10 |  |
-| αCuNd |  | -18.127 kJ/mol-atom | 298 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 9 |  |
+| Cu2Nd |  | -20.488 kJ/mol-atom | 298.15 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 7 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -20.25 kJ/mol-atom | 298.15 | model | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011 | Table 2, p. 3, row 8 |  |
+| Cu2Nd | [Cu2Nd](https://data.orchid-project.org/compounds/Cu2Nd.html) | -16.9 kJ/mol-atom | 298.15 | experimental | -19.536 (mp-aaaaarnw) | -20.057 (oqmd-1435011) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 6 |  |
+| Cu5Nd |  | -15.846 kJ/mol-atom | 298.15 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 4 |  |
+| Cu5Nd | [Cu5Nd](https://data.orchid-project.org/compounds/Cu5Nd.html) | -15.704 kJ/mol-atom | 298.15 | model | -15.243 (mp-aaaaabrw) | -15.768 (oqmd-31351) | [3] Wang 2011 | Table 2, p. 3, row 5 |  |
+| Cu6Nd |  | -13.939 kJ/mol-atom | 298.15 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 2 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.58 kJ/mol-atom | 298.15 | model | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011 | Table 2, p. 3, row 3 |  |
+| Cu6Nd | [Cu6Nd](https://data.orchid-project.org/compounds/Cu6Nd.html) | -13.3 kJ/mol-atom | 298.15 | experimental | -12.896 (mp-aaacpwxr) | -12.969 (oqmd-18279) | [3] Wang 2011; _cites Qi 1989_ [doi](https://doi.org/10.2320/matertrans1989.30.273) | Table 2, p. 3, row 1 |  |
+| αCuNd | [CuNd](https://data.orchid-project.org/compounds/CuNd.html) | -18.28 kJ/mol-atom | 298.15 | model | -17.64 (mp-aaaaatvc) | -18.115 (oqmd-122448) | [3] Wang 2011 | Table 2, p. 3, row 10 |  |
+| αCuNd |  | -18.127 kJ/mol-atom | 298.15 | DFT |  |  | [3] Wang 2011 | Table 2, p. 3, row 9 |  |
 
 ## Other properties
 

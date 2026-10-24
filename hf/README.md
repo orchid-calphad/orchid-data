@@ -351,8 +351,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 74474
-  download_size: 6235844
+    num_examples: 73538
+  download_size: 6205504
 - config_name: papers
   features:
   - name: id
@@ -388,7 +388,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4880
-  download_size: 529196
+  download_size: 529258
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -557,8 +557,8 @@ dataset_info:
     dtype: bool
   splits:
   - name: full
-    num_examples: 7745
-  download_size: 269641
+    num_examples: 7696
+  download_size: 269912
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -746,7 +746,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10496
-  download_size: 450359
+  download_size: 450361
 - config_name: structure_types
   features:
   - name: id
@@ -860,7 +860,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 23131
-  download_size: 1658324
+  download_size: 1658343
 - config_name: bibliography_papers
   features:
   - name: id
@@ -960,7 +960,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537520
+  download_size: 1537281
 - config_name: bibliography_edges
   features:
   - name: id
@@ -990,7 +990,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 60225
-  download_size: 1081986
+  download_size: 1081875
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1023,10 +1023,10 @@ format.
 
 | config | rows | content |
 |---|---:|---|
-| `literature_values` | 74,474 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
+| `literature_values` | 73,538 | one row per value read from a paper: property, value and unit, temperature, pressure, phases, compositions, reaction, evidence class, origin, flags, method, conditions, paper, cited sources, quote, model TDB link, ML split |
 | `papers` | 4,880 | corpus papers (values were read from them) and cited works (a value was attributed to them) |
 | `experimental_context` | 1,504 | samples, heat treatments and measurements of 225 papers, each with its quote and page |
-| `dft_parity` | 7,745 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
+| `dft_parity` | 7,696 | literature formation enthalpy × lowest-energy DFT entry at the same composition, one row per record and DFT source |
 | `phase_diagram_invariants` | 24,828 | invariant equilibria of 2,720 calculated SGTE binary phase diagrams: T, phases, phase compositions |
 | `phase_diagram_index` | 2,774 | one row per calculated diagram (2,720 `ok`, 54 `failed`), TDB file, SHA-256, citation |
 | `hull_vertices` | 28,143 | binary convex-hull vertices: 12,829 Materials Project (v2026.04.13), 15,314 OQMD (v1.8) |
@@ -1119,28 +1119,28 @@ D. Shin (Oak Ridge National Laboratory), as part of the ORCHID project.
 equilibrium state: a quantity (`property`, e.g. `INVARIANT_TEMPERATURE`, `TRANSITION_TEMPERATURE`,
 `PHASE_COMPOSITION`, `HM_FORM`, `CPM`, `LATTICE_A`) of a chemical `system`, with the phases involved, the
 temperature and pressure at which it holds, phase compositions (`compositions`, a list of
-`{phase, element, value, basis, source}`), and the reaction for invariants. There are 74,474 values from 1,321
-papers covering 1,392 chemical systems (by number of elements: 792 unary, 54,154 binary, 16,389 ternary and
-3,139 higher-order values), after merging 3,550 exact duplicates and 3,066 cosmetic duplicates (an UNKNOWN or
+`{phase, element, value, basis, source}`), and the reaction for invariants. There are 73,538 values from 1,321
+papers covering 1,405 chemical systems (by number of elements: 792 unary, 53,378 binary, 16,342 ternary and
+3,026 higher-order values), after merging 3,550 exact duplicates and 4,002 cosmetic duplicates (an UNKNOWN or
 missing phase beside a named one, the liquid printed as L or liquid, glyph variants; `merged_ids`; see
-`literature/QUALITY_FIXES.md` sections 1 and 7). 73,165 values are accepted. The literature-level consistency gates
-(`literature/QUALITY_FIXES.md` section 7) corrected 1,759 values where the evidence was printed and confirmed on the
-PDF page (table temperature units, J/kJ scales, signs under printed headings, system assignment, property codes;
-the stored value is kept and `corrections` names the rule and the visual check) and demoted or flagged 1,943
+`literature/QUALITY_FIXES.md` sections 1 and 7). 72,359 values are accepted. The literature-level consistency gates
+(`literature/QUALITY_FIXES.md` section 7) corrected 4,060 values (2,303 of them only to the standard reference temperature: a printed 298 K is
+stored as 298.15 K) where the evidence was printed and confirmed on the PDF page (table temperature units, J/kJ scales, signs under printed headings, system assignment, property codes;
+the stored value is kept and `corrections` names the rule and the visual check) and demoted or flagged 1,988
 (`gate_failures`).
 
 **Evidence classes.** Every value carries one `evidence_class`, never mixed or averaged:
-`experimental` (36,421), `model` (26,728: computed from a CALPHAD or other thermodynamic model), `dft` (6,049:
-first-principles), `unspecified` (5,276: the paper does not let the origin be settled). `origin` records how the
+`experimental` (36,268), `model` (26,214: computed from a CALPHAD or other thermodynamic model), `dft` (5,807:
+first-principles), `unspecified` (5,249: the paper does not let the origin be settled). `origin` records how the
 class was decided; `origin_measured_in` the paper the value was measured or calculated in, which is often not the
-paper it was read from (35,369 values are cited from another work; `conditions_kind = cited_source`).
+paper it was read from (34,988 values are cited from another work; `conditions_kind = cited_source`).
 
-**Labels and flags.** `accepted` (73,165 true) means the readers agreed and the deterministic checks passed.
+**Labels and flags.** `accepted` (72,359 true) means the readers agreed and the deterministic checks passed.
 `flag_*` columns are booleans (absent in the source = false; `flag_state_fully_specified` and
 `flag_value_in_quote` are null where not evaluated). `review_flags` and `specification_gaps` list codes.
 `plausibility_*` is a cross-check against a calculated phase diagram where one exists.
 
-**Model links.** 13,060 `model` values are linked unambiguously to a TDB file of the ORCHID catalog
+**Model links.** 12,832 `model` values are linked unambiguously to a TDB file of the ORCHID catalog
 (`model_tdb`, `model_tdb_path`, `model_tdb_sha256`); `model_unlinked_reason` says why the others are not.
 
 **Other tables.** `papers` is the bibliography for `paper_id`, `origin_measured_in` and `cited_dois`.
@@ -1162,8 +1162,8 @@ printed in a value's quote were removed (`flag_has_dropped_fields`) rather than 
 **Readers.** Each table and passage was read independently by machine readers: the PDF text layer, Gemini Flash,
 Claude Opus and, for confirmation or disagreement, Gemini Pro; a judge model chose between disagreeing readers in
 198 cases. `readers` records which readings agree; `reader_tier` is the pipeline status of the table or passage (which reader
-passes ran), not an agreement claim: `preliminary_flash+claude` (60,254),
-`confirmed_pro` (8,166), `preliminary_flash` (5,856, running text, with the second reader's verdict in
+passes ran), not an agreement claim: `preliminary_flash+claude` (59,431),
+`confirmed_pro` (8,053), `preliminary_flash` (5,856 running text, with the second reader's verdict in
 `flag_value_in_quote` / `second_reader`), `preliminary_flash+claude+fable_judge` (198). A value is accepted only
 on reader agreement plus deterministic checks; `review_flags` lists the codes of checks that fired.
 
@@ -1172,7 +1172,7 @@ on reader agreement plus deterministic checks; `review_flags` lists the codes of
 read the row and no second reader has confirmed it yet; the data explorer shows a "single reader" badge) or
 `single_reader_text_layer` (one visual reader, every value also printed in the PDF text layer); the human label is in
 `reader_agreement_label`. A blind, independent second Claude read is listed as `claude-opus-5.5#2` in `readers` and
-counts as a second reader. Treat `single_reader` values as unconfirmed. Where the record builder did not classify a value (invariant tables, running text), `reader_agreement` is derived from `readers` (`reader_agreement_basis = derived_from_readers`, settled rows only): multi_reader 70,185, single_reader_text_layer 2,547, single_reader 1,342, not classified 400.
+counts as a second reader. Treat `single_reader` values as unconfirmed. Where the record builder did not classify a value (invariant tables, running text), `reader_agreement` is derived from `readers` (`reader_agreement_basis = derived_from_readers`, settled rows only): multi_reader 69,249, single_reader_text_layer 2,547, single_reader 1,342, not classified 400.
 
 **Quote verification (running text).** A value read from a sentence is kept only if the sentence is verbatim on
 one page of the PDF and the printed value lies inside it (`link_rule`). The sentence is stored in `quote` with
@@ -1190,8 +1190,8 @@ paper's convention); `flag_sign_pdf_page_verified` marks a sign corrected from t
 or unspecified) to the lowest-energy non-deprecated entry at exactly the same reduced composition in the Materials
 Project and in OQMD, separately; the two are never averaged. `residual = DFT − literature`. `default_subset`
 reproduces the published default (experimental, accepted, not unsigned, no sign loss, not magnitude-suspect):
-MAE 11.0 kJ/mol-atom over 1,204 MP pairs (median 6.3, Spearman 0.83) and 9.6 over 1,258 OQMD pairs (median 5.5,
-Spearman 0.88). Large residuals were classified deterministically (`quality_fix`; `literature/QUALITY_FIXES.md`):
+MAE 10.8 kJ/mol-atom over 1,199 MP pairs (median 6.2, Spearman 0.83) and 9.4 over 1,251 OQMD pairs (median 5.4,
+Spearman 0.89). Large residuals were classified deterministically (`quality_fix`; `literature/QUALITY_FIXES.md`):
 per-formula values labelled per atom were converted (47), unsigned magnitudes flagged and excluded (31), the rest
 flagged `dft_outlier_unexplained` (160) and kept.
 
@@ -1228,8 +1228,8 @@ supervision signal; the source PDFs are not included).
 
 **Recommended ML split.** `literature_values.split` assigns every paper to `train` / `validation` / `test`
 deterministically: `sha256("orchid-split-v1:" + paper_id)`, first 8 bytes as an integer mod 100, `< 80` train,
-`< 90` validation, else test. No paper spans two splits. This release: train 58,680 values (1,052 papers),
-validation 7,197 (124 papers), test 8,597 (145 papers). Because many values are reprinted from earlier work,
+`< 90` validation, else test. No paper spans two splits. This release: train 57,933 values (1,052 papers),
+validation 7,133 (124 papers), test 8,472 (145 papers). Because many values are reprinted from earlier work,
 the same measurement can appear under several papers; for strict leakage control also group by
 `origin_measured_in` (or by `system` for extrapolation to unseen chemistries).
 
@@ -1240,10 +1240,10 @@ structured target (`property`, `value`, `unit`, `temperature_K`, `phases`, `comp
 
 **Uses to avoid.** Do not treat `model` or `unspecified` values as measurements, do not average across evidence
 classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready`
-(11,956 true) means the value can be used in ESPEI: the pipeline's completeness and format checks plus the physical
+(11,919 true) means the value can be used in ESPEI: the pipeline's completeness and format checks plus the physical
 phase rule (printed phase mapped to a model phase, physically possible at its temperature; literature/QUALITY_FIXES.md
-section 6). `flag_espei_certified` (1,912 true) adds agreement with a pycalphad calculation from the linked TDB
-(`calphad_check`: agrees / disagrees / not_available; 315 ready values disagree, 9,729 have no prediction). Neither
+section 6). `flag_espei_certified` (1,917 true) adds agreement with a pycalphad calculation from the linked TDB
+(`calphad_check`: agrees / disagrees / not_available; 323 ready values disagree, 9,679 have no prediction). Neither
 is a review verdict.
 
 ## Distribution

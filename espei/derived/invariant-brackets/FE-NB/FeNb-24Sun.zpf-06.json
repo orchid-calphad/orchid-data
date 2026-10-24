@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "C14_LAVES",
-  "FCC_A1",
   "LIQUID",
   "MU_D85"
  ],
@@ -19,9 +18,7 @@
    1791.0,
    1771.0,
    1656.0,
-   1636.0,
-   1486.0,
-   1426.0
+   1636.0
   ]
  },
  "output": "ZPF",
@@ -226,73 +223,6 @@
      0.092
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.015
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.013
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.017
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.011
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.265
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.013
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.017
-    ]
-   ]
   ]
  ],
  "reference": "Sun 2024, doi:10.1016/j.actamat.2024.119747",
@@ -303,7 +233,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-NB/FeNb-24Sun.zpf-06.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-55A2NR5KOX ORC-GM4JDAPI3A ORC-VYDLG3QV4O ORC-WR5VYTA7OH",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-NB/FeNb-24Sun.zpf-06.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-55A2NR5KOX ORC-VYDLG3QV4O ORC-WR5VYTA7OH",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-NB/FeNb-24Sun.zpf-06.json",
@@ -421,44 +351,6 @@
     ],
     "phases_below": [
      "BCC_A2",
-     "C14_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-GM4JDAPI3A",
-    "side": "above",
-    "T_invariant_K": 1456.0,
-    "offset_K": 30.0,
-    "T_sigma_K": 15.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.015,
-    "hyperplane_delta": 0.002,
-    "reaction_printed": "BCC_A2 ↔ FCC_A1 + C14",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "FCC_A1",
-     "C14_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-GM4JDAPI3A",
-    "side": "below",
-    "T_invariant_K": 1456.0,
-    "offset_K": 30.0,
-    "T_sigma_K": 15.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.015,
-    "hyperplane_delta": 0.002,
-    "reaction_printed": "BCC_A2 ↔ FCC_A1 + C14",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "FCC_A1",
      "C14_LAVES"
     ]
    }

@@ -86,7 +86,7 @@ Table: Enthalpies of formation, In–Mn system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | 0.67 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2015 | p. 6 | “The enthalpy of formation of InMn3 at 298 K was calculated to be 670 J/mol and compared with the experimental data \[31\] as shown in Fig. 10.” |
+| — |  | 0.67 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2015 | p. 6 | “The enthalpy of formation of InMn3 at 298 K was calculated to be 670 J/mol and compared with the experimental data \[31\] as shown in Fig. 10.” |
 
 ## Other properties
 

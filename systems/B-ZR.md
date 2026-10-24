@@ -73,7 +73,7 @@ Table: Enthalpies of formation, B–Zr system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -107.368 kJ/mol (basis unstated) | 298 | model |  |  | [3] Pan 2019 | p. 8 | “The calculated enthalpy of formation of solid phases at 298 K is shown in Fig. 4 and the enthalpy of formation for ZrB2 was optimized to be - 107,368 J/mol, in accordance with the experimental values.\[19,20\]” |
+| — |  | -107.368 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Pan 2019 | p. 8 | “The calculated enthalpy of formation of solid phases at 298 K is shown in Fig. 4 and the enthalpy of formation for ZrB2 was optimized to be - 107,368 J/mol, in accordance with the experimental values.\[19,20\]” |
 | ZrB(FeB-type) |  | -79.3 unknown |  | model |  |  | [4] Tokunaga 2008; _cites Rogl 1988_ [doi](https://doi.org/10.1016/0364-5916%2888%2990021-1) | Table 2, p. 5, row 4 |  |
 | ZrB(FeB-type) |  | -72.6 unknown |  | model |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 3 |  |
 | ZrB(FeB-type) |  | -67.1 unknown | 0 | DFT |  |  | [4] Tokunaga 2008 | Table 2, p. 5, row 2 |  |

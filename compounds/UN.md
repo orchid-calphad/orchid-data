@@ -61,9 +61,9 @@ Table: Enthalpy of formation of UN reported in the literature (85)
 | -296.395 kJ/mol (basis unstated) | UN(fcc_B1) | 1000 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 25 |  |
 | -296.06 kJ/mol (basis unstated) | UN(fcc_B1) | 2500 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 70 |  |
 | -296.05 kJ/mol (basis unstated) | UN(fcc_B1) | 1000 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 26 |  |
-| -295.809 kJ/mol (basis unstated) | UN(fcc_B1) | 298 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 2 |  |
+| -295.809 kJ/mol (basis unstated) | UN(fcc_B1) | 298.15 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 2 |  |
 | -295.809 kJ/mol (basis unstated) | UN(fcc_B1) | 300 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 4 |  |
-| -295.809 kJ/mol (basis unstated) | UN(fcc_B1) | 298 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 1 |  |
+| -295.809 kJ/mol (basis unstated) | UN(fcc_B1) | 298.15 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 1 |  |
 | -295.798 kJ/mol (basis unstated) | UN(fcc_B1) | 300 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 5 |  |
 | -295.136 kJ/mol (basis unstated) | UN(fcc_B1) | 400 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 8 |  |
 | -295.056 kJ/mol (basis unstated) | UN(fcc_B1) | 400 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 7 |  |
@@ -72,7 +72,7 @@ Table: Enthalpy of formation of UN reported in the literature (85)
 | -294.591 kJ/mol (basis unstated) | UN(fcc_B1) | 2600 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000 | Table 7, p. 5, row 74 |  |
 | -294.414 kJ/mol (basis unstated) | UN(fcc_B1) | 500 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Matsui 1987_ | Table 7, p. 5, row 11 |  |
 | -294.354 kJ/mol (basis unstated) | UN(fcc_B1) | 298.15 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites THERMODATA_ | Table 12, p. 10, row 2 |  |
-| -294.353 kJ/mol (basis unstated) | UN(fcc_B1) | 298 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000 | Table 7, p. 5, row 3 |  |
+| -294.353 kJ/mol (basis unstated) | UN(fcc_B1) | 298.15 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000 | Table 7, p. 5, row 3 |  |
 | -294.353 kJ/mol (basis unstated) | UN(fcc_B1) | 300 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000 | Table 7, p. 5, row 6 |  |
 | -294.261 kJ/mol (basis unstated) | UN(fcc_B1) | 500 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 10 |  |
 | -293.842 kJ/mol (basis unstated) | UN(fcc_B1) | 2600 | model |  | [N–U](https://data.orchid-project.org/systems/N-U.html) | [1] Chevalier 2000; _cites Tagawa 1974_ | Table 7, p. 5, row 73 |  |

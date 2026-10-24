@@ -134,8 +134,8 @@ _assessment that models this phase_
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-s:liquid)
 
-Names (5): _corpus: _corpus:phase:pb-s:liquid  
-_paper: _paper:10.1007/s11664-014-3004-x:liq, paper:10.1007/s11664-014-3004-x:liq1, paper:10.1007/s11664-014-3004-x:liq2  
+Names (4): _corpus: _corpus:phase:pb-s:liquid  
+_paper: _paper:10.1007/s11664-014-3004-x:liq, paper:10.1007/s11664-014-3004-x:liq2  
 _tdb: _tdb:PbS-14Hua.tdb:LIQUID  
 
 

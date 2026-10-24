@@ -1,10 +1,10 @@
 # Nd–Zn system
 
-> Nd–Zn system: 155 accepted literature values (invariant reaction 86, formation 48, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Zn system: 156 accepted literature values (invariant reaction 87, formation 48, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-ZN.html · Markdown: https://data.orchid-project.org/systems/ND-ZN.md
 
-155 accepted literature values from 4 paper(s) (experimental 81, model 74); 4 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+156 accepted literature values from 4 paper(s) (experimental 81, model 75); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-ZN.json) · [CSV](https://data.orchid-project.org/systems/ND-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-ZN/NdZn-08Li.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ND-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-ZN.html) · [Markdown](https://data.orchid-project.org/systems/ND-ZN.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 81 |
-| model | 74 |
+| model | 75 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 86 |
+| invariant reaction | 87 |
 | phase transition | 21 |
 | formation | 48 |
 
@@ -139,7 +139,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Nd–Zn system (86)
+Table: Invariant reactions reported in the literature for the Nd–Zn system (87)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -194,6 +194,7 @@ Table: Invariant reactions reported in the literature for the Nd–Zn system (86
 | 1122.15 | eutectoid: NdZn3 -> NdZn2 + Nd3Zn11 | NdZn3: Zn 0.75; NdZn2: Zn 0.667; Nd3Zn11: Zn 0.786 | experimental | [3] Liu 2009; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 7, p. 6, row 15 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [2] Qi 2011; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 3, p. 5, row 11 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | model | [4] Li 2008 | Table 1, p. 2, row 13 |  |
+| 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [1] Qi 2008 | Table 2, p. 3, row 13 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | model | [2] Qi 2011 | Table 3, p. 5, row 12 |  |
 | 1122 | NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Zn 0.666667; Nd3Zn11: Zn 0.785714; NdZn3: Zn 0.75 | experimental | [4] Li 2008; _cites Chiotti 1972_ [doi](https://doi.org/10.1007/bf02652860) | Table 1, p. 2, row 14 |  |
 | 1122 | peritectoid: NdZn2 + Nd3Zn11 -> NdZn3 | NdZn2: Nd 0.333333, Zn 0.666667; Nd3Zn11: Nd 0.214286, Zn 0.785714; NdZn3: Nd 0.25, Zn 0.75 | experimental | [1] Qi 2008; _cites Mason 1972_ [doi](https://doi.org/10.1007/bf02652852) | Table 2, p. 3, row 14 |  |

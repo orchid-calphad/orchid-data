@@ -1,10 +1,10 @@
 # Fe–Mn–Ti system
 
-> Fe–Mn–Ti system: 85 accepted literature values (formation 44, phase equilibrium 41) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mn–Ti system: 63 accepted literature values (phase equilibrium 41, formation 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MN-TI.html · Markdown: https://data.orchid-project.org/systems/FE-MN-TI.md
 
-85 accepted literature values from 1 paper(s) (experimental 38, model 20, DFT 22, unspecified 5); 0 calculated phase diagram(s).
+63 accepted literature values from 1 paper(s) (experimental 37, model 10, DFT 11, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-MN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN-TI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 20 |
-| DFT | 22 |
+| experimental | 37 |
+| model | 10 |
+| DFT | 11 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -22,60 +22,38 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 41 |
-| formation | 44 |
+| formation | 22 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Mn–Ti system (44)
+Table: Enthalpies of formation, Fe–Mn–Ti system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C14 Laves |  | -28.92 kJ/mol-atom | 298 | experimental |  |  | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
-| C14 Laves |  | -28.4 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
-| C14 Laves |  | -27.22 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
-| C14 Laves |  | -26.714 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
-| C14 Laves |  | -26.714 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
-| C14 Laves |  | -26.714 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
-| C14 Laves |  | -6.584 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 10 |  |
-| C14 Laves |  | -4.744 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 9 |  |
-| C14 Laves |  | 7.826 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 20 |  |
-| C14 Laves |  | 7.826 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 22 |  |
-| C14 Laves |  | 10.125 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 21 |  |
-| C14 Laves |  | 10.125 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 19 |  |
-| C14 Laves |  | 18.636 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 11 |  |
-| C14 Laves |  | 18.653 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
-| C14 Laves |  | 21.311 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 13 |  |
-| C14 Laves |  | 25.227 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 17 |  |
-| C14 Laves |  | 25.242 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 15 |  |
-| C14 Laves |  | 25.409 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 14 |  |
-| C14 Laves |  | 27.157 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 16 |  |
-| C14 Laves |  | 27.157 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 18 |  |
-| C14 Laves |  | 36.577 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 8 |  |
-| C14 Laves |  | 43.732 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 7 |  |
 | C14 Laves FeMn2 |  | 18.636 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 11 |  |
-| C14 Laves FeMn2 | [FeMn2](https://data.orchid-project.org/compounds/FeMn2.html) | 18.653 kJ/mol-atom | 298 | model |  | 14.765 (oqmd-1449617) | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
+| C14 Laves FeMn2 | [FeMn2](https://data.orchid-project.org/compounds/FeMn2.html) | 18.653 kJ/mol-atom | 298.15 | model |  | 14.765 (oqmd-1449617) | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
 | C14 Laves Mn2Mn |  | 7.826 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 20 |  |
-| C14 Laves Mn2Mn |  | 7.826 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 22 |  |
-| C14 Laves Mn2Mn |  | 10.125 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 21 |  |
+| C14 Laves Mn2Mn |  | 7.826 kJ/mol-atom | 298.15 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 22 |  |
+| C14 Laves Mn2Mn |  | 10.125 kJ/mol-atom | 298.15 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 21 |  |
 | C14 Laves Mn2Mn |  | 10.125 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 19 |  |
 | C14 Laves MnFe2 |  | 21.311 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 13 |  |
-| C14 Laves MnFe2 | [Fe2Mn](https://data.orchid-project.org/compounds/Fe2Mn.html) | 25.409 kJ/mol-atom | 298 | model |  | 16.64 (oqmd-1449732) | [1] Zheng 2022 | Table 4, p. 6, row 14 |  |
-| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -6.584 kJ/mol-atom | 298 | model |  | -22.881 (oqmd-754888) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 10 |  |
-| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -4.744 kJ/mol-atom | 298 | model |  | -22.881 (oqmd-754888) | [1] Zheng 2022 | Table 4, p. 6, row 9 |  |
+| C14 Laves MnFe2 | [Fe2Mn](https://data.orchid-project.org/compounds/Fe2Mn.html) | 25.409 kJ/mol-atom | 298.15 | model |  | 16.64 (oqmd-1449732) | [1] Zheng 2022 | Table 4, p. 6, row 14 |  |
+| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -6.584 kJ/mol-atom | 298.15 | model |  | -22.881 (oqmd-754888) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 10 |  |
+| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -4.744 kJ/mol-atom | 298.15 | model |  | -22.881 (oqmd-754888) | [1] Zheng 2022 | Table 4, p. 6, row 9 |  |
 | C14 Laves MnTi2 |  | 36.577 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 8 |  |
 | C14 Laves MnTi2 |  | 43.732 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 7 |  |
-| C14 Laves Ti2Ti |  | 25.227 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 17 |  |
+| C14 Laves Ti2Ti |  | 25.227 kJ/mol-atom | 298.15 | model |  |  | [1] Zheng 2022 | Table 4, p. 6, row 17 |  |
 | C14 Laves Ti2Ti |  | 25.242 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 15 |  |
 | C14 Laves Ti2Ti |  | 27.157 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 16 |  |
-| C14 Laves Ti2Ti |  | 27.157 kJ/mol-atom | 298 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 18 |  |
-| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -28.92 kJ/mol-atom | 298 | experimental | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
+| C14 Laves Ti2Ti |  | 27.157 kJ/mol-atom | 298.15 | model |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 18 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -28.92 kJ/mol-atom | 298.15 | experimental | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
 | C14 Laves TiMn2 |  | -28.4 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
 | C14 Laves TiMn2 |  | -27.22 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
-| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298.15 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
 | C14 Laves TiMn2 |  | -26.714 kJ/mol-atom | 0 | DFT |  |  | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
-| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298.15 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
 
 ## Other properties
 

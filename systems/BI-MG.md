@@ -104,16 +104,16 @@ Table: Enthalpies of formation, Bi–Mg system (12)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Bi2Mg3 |  | -71.276 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Acta Metall 2012; _cites Zhou 2010_ | Table 3, p. 9, row 10 |  |
-| Bi2Mg3 |  | -37.181 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Acta Metall 2012; _cites Moser 1974_ | Table 3, p. 9, row 4 |  |
-| Bi2Mg3 |  | -34.08 kJ/mol (basis unstated) | 298 | model |  |  | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 11 |  |
-| Bi2Mg3 |  | -33.884 kJ/mol (basis unstated) | 298 | model |  |  | [1] Acta Metall 2012 | Table 3, p. 9, row 12 |  |
-| Bi2Mg3 |  | -33.255 kJ/mol (basis unstated) | 298 | model |  |  | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 7 |  |
+| Bi2Mg3 |  | -37.181 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Acta Metall 2012; _cites Moser 1974_ | Table 3, p. 9, row 4 |  |
+| Bi2Mg3 |  | -34.08 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 11 |  |
+| Bi2Mg3 |  | -33.884 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Acta Metall 2012 | Table 3, p. 9, row 12 |  |
+| Bi2Mg3 |  | -33.255 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 7 |  |
 | Bi2Mg3 |  | -31.454 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Acta Metall 2012; _cites Zhou 2008_ | Table 3, p. 9, row 9 |  |
-| Bi2Mg3 |  | -31.403 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1939_ | Table 3, p. 9, row 2 |  |
-| Bi2Mg3 |  | -31.403 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1956_ | Table 3, p. 9, row 3 |  |
-| Bi2Mg3 |  | -30.146 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Acta Metall 2012; _cites Seith 1937_ | Table 3, p. 9, row 1 |  |
-| Bi2Mg3 |  | -25.377 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 5 |  |
-| Bi2Mg3 |  | -25.355 kJ/mol (basis unstated) | 298 | model |  |  | [1] Acta Metall 2012; _cites Alcock 1983_ | Table 3, p. 9, row 6 |  |
+| Bi2Mg3 |  | -31.403 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1939_ | Table 3, p. 9, row 2 |  |
+| Bi2Mg3 |  | -31.403 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1956_ | Table 3, p. 9, row 3 |  |
+| Bi2Mg3 |  | -30.146 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Acta Metall 2012; _cites Seith 1937_ | Table 3, p. 9, row 1 |  |
+| Bi2Mg3 |  | -25.377 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 5 |  |
+| Bi2Mg3 |  | -25.355 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Acta Metall 2012; _cites Alcock 1983_ | Table 3, p. 9, row 6 |  |
 | Bi2Mg3 |  | -24.369 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Acta Metall 2012; _cites Curtarolo 2005_ | Table 3, p. 9, row 8 |  |
 
 ## Other properties
@@ -134,10 +134,10 @@ Table: Heat capacity / entropy / enthalpy, Bi–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S298_ | 39.7 J/mol (basis unstated)/K | 298 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 15 |  |
-| Entropy; _printed: °S298_ | 39.2 J/mol (basis unstated)/K | 298 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 14 |  |
-| Entropy; _printed: °S298_ | 39.5 J/mol (basis unstated)/K | 298 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012 | Table 3, p. 9, row 16 |  |
-| Entropy; _printed: °S298_ | 38.4 J/mol (basis unstated)/K | 298 | Bi2Mg3; _alloy: Mg 0.6_ | experimental | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 13 |  |
+| Entropy; _printed: °S298_ | 39.7 J/mol (basis unstated)/K | 298.15 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012; _cites Paliwal 2009_ | Table 3, p. 9, row 15 |  |
+| Entropy; _printed: °S298_ | 39.2 J/mol (basis unstated)/K | 298.15 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012; _cites Oh 1992_ | Table 3, p. 9, row 14 |  |
+| Entropy; _printed: °S298_ | 39.5 J/mol (basis unstated)/K | 298.15 | Bi2Mg3; _alloy: Mg 0.6_ | model | [1] Acta Metall 2012 | Table 3, p. 9, row 16 |  |
+| Entropy; _printed: °S298_ | 38.4 J/mol (basis unstated)/K | 298.15 | Bi2Mg3; _alloy: Mg 0.6_ | experimental | [1] Acta Metall 2012; _cites Kubaschewski 1979_ | Table 3, p. 9, row 13 |  |
 
 ## Sources
 

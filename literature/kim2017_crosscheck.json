@@ -8,12 +8,12 @@
  "inputs": {
   "literature": {
    "path": "data/literature/orchid-literature.jsonl.gz",
-   "sha256": "56ab754e813a424ccc46eaf98e62fbf91bc90e9527bacbbefb907a598eb9800d"
+   "sha256": "8dc622ff5ca85040b8612084ecfab5c9dd29698306ffc6015c531200a442ef32"
   }
  },
  "orchid_candidates": {
-  "formulas": 601,
-  "records": 1461
+  "formulas": 598,
+  "records": 1419
  },
  "reference": {
   "citation": "G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162.",
@@ -239,6 +239,25 @@
     "orchid_median": -42.32
    },
    {
+    "difference": -11.591,
+    "formula": "CuZr",
+    "kim_median": -9.05,
+    "kim_values": [
+     -9.05
+    ],
+    "orchid_ids": [
+     "ORC-6KVB57WVNQ.3bf3a8",
+     "ORC-BOQ5VV67YX.8db5c2",
+     "ORC-CARTMZD2NZ",
+     "ORC-DQ35XUMV5X",
+     "ORC-KHVTE32LGI",
+     "ORC-OXE64SWUWN.758ad3",
+     "ORC-RPTAM6KOJB",
+     "ORC-ZY5COVKYWI"
+    ],
+    "orchid_median": -20.641
+   },
+   {
     "difference": -11.198,
     "formula": "AuCe",
     "kim_median": -62.802,
@@ -283,7 +302,7 @@
     "orchid_median": -50.3
    },
    {
-    "difference": 10.235,
+    "difference": 10.08,
     "formula": "Cu51Zr14",
     "kim_median": -24.305,
     "kim_values": [
@@ -291,18 +310,19 @@
     ],
     "orchid_ids": [
      "ORC-24JPYAVIYR",
+     "ORC-FRYS46X5X3",
      "ORC-IB2ZSUZN3N",
      "ORC-JTZAQ5DB2I.28d5ac",
      "ORC-QFC2QRP2ZY.17b92e",
      "ORC-Z7KH7YPIS3.2fcf39"
     ],
-    "orchid_median": -14.07
+    "orchid_median": -14.225
    }
   ],
-  "mae": 3.874,
-  "median_abs_difference": 1.191,
-  "n_differ_more_than_10": 19,
-  "n_overlap_formulas": 162,
+  "mae": 3.886,
+  "median_abs_difference": 0.985,
+  "n_differ_more_than_10": 20,
+  "n_overlap_formulas": 159,
   "sign_agreement": 1.0
  },
  "schema": "orchid-kim2017-crosscheck-v1",

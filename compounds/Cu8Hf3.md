@@ -15,13 +15,13 @@ Table: Enthalpy of formation of Cu8Hf3 reported in the literature (8)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -192.72 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 8 |  |
-| -13.629 kJ/mol (basis unstated) | Cu8Hf3 | 298 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
+| -13.629 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
 | -13.6 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 9 |  |
 | -13.55 kJ/mol-atom | Cu8Hf3 |  | model |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 10 |  |
 | -17.27 kJ/mol-atom | Cu8Hf3 |  | DFT | USPP-GGA F-P | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 11 |  |
 | -16.74 kJ/mol-atom | Cu8Hf3 | 0 | DFT | USPP-GGA | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 12 |  |
 | -15.22 kJ/mol-atom | Cu8Hf3 | 0 | DFT | PBE | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [1] Zhong 2013 | Table 2, p. 7, row 13 |  |
-| -192.72 kJ/mol (basis unstated) | Cu8Hf3 | 298 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7 |  |
+| -192.72 kJ/mol (basis unstated) | Cu8Hf3 | 298.15 | unspecified |  | [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.html) | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7 |  |
 
 ## DFT formation energies
 
@@ -29,10 +29,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cu8Hf3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaakwv | -16.068 | -0.166531 | Pnma | 0 | no |
-| OQMD | oqmd-32345 | -15.567 | -0.161346 | Pnma | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaakwv | -16.068 | -0.166531 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-32345 | -15.567 | -0.161346 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Ni17Yb2 reported in the literature (9)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -17 kJ/mol-atom ± 0.1 | Ni17Yb2 | 990 | experimental | Effusion and EMF | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Di 2002_ [doi](https://doi.org/10.1021/jp0142785) | Table 2, p. 5, row 5 |  |
-| -14.8 kJ/mol-atom | Ni17Yb2 | 298 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
+| -14.8 kJ/mol-atom | Ni17Yb2 | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 4 |  |
 | -13.9 unknown ± 0.3 | Yb2Ni17 | 0 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 9 |  |
 | -13.9 kJ/mol-atom ± 0.3 | Ni17Yb2 | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 2 |  |
 | -13.15 kJ/mol-atom | Ni17Yb2 | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 3 |  |
@@ -30,9 +30,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ni17Yb2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-30879 | -12.478 | -0.12933 | P63/mmc | 0.977 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-30879 | -12.478 | -0.12933 | P63/mmc | 0.977 | 0.0101 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

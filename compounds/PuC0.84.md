@@ -1,23 +1,21 @@
 # PuC0.84: enthalpy of formation
 
-> Enthalpy of formation of PuC0.84: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of PuC0.84: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PuC0.84.html · Markdown: https://data.orchid-project.org/compounds/PuC0.84.md
 
-4 accepted literature formation-enthalpy value(s) (model 2, unspecified 2).
+2 accepted literature formation-enthalpy value(s) (model 1, unspecified 1).
 
 Systems: [C–Pu](https://data.orchid-project.org/systems/C-PU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PuC0.84 reported in the literature (4)
+Table: Enthalpy of formation of PuC0.84 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -45.03 kJ/mol (basis unstated) | C₀.₈₄Pu | 298.15 | model |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008 | Table 1, p. 3, row 13 |  |
-| -45.03 kJ/mol (basis unstated) | C0.84Pu | 298.15 | model |  | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008 | Table 1, p. 3, row 13 |  |
 | -45.2 kJ/mol (basis unstated) ± 8 | C₀.₈₄Pu | 298.15 | unspecified | Compilation | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lemire 2001_ | Table 1, p. 3, row 11 |  |
-| -45.2 kJ/mol (basis unstated) ± 8 | C0.84Pu | 298.15 | unspecified | Compilation | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lemire 2001_ | Table 1, p. 3, row 11 |  |
 
 ## Sources
 

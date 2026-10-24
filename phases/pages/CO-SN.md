@@ -20,7 +20,7 @@ Table: Phases of the Co–Sn system (13)
 | [COSN_B35](#phase-co-sn-cosn-b35); _phase:co-sn:cosn-b35_ | CoSn · B35 · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1240.16 K, x(Sn) 0.5–0.5 | 24 | 4 |
 | [COSN2_C16](#phase-co-sn-cosn2-c16); _phase:co-sn:cosn2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–848.39 K, x(Sn) 0.66667–0.66667 | 21 | 4 |
 | [COSN3](#phase-co-sn-cosn3); _phase:co-sn:cosn3_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–623.87 K, x(Sn) 0.75–0.75 | 7 | 2 |
-| [COSN3_HT](#phase-co-sn-cosn3-ht); _phase:co-sn:cosn3-ht_ | CoSn3 · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75 | 8 | 1 |
+| [COSN3_HT](#phase-co-sn-cosn3-ht); _phase:co-sn:cosn3-ht_ | CoSn3 · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75 | 6 | 1 |
 | [COSN3_LT](#phase-co-sn-cosn3-lt); _phase:co-sn:cosn3-lt_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–547.79 K, x(Sn) 0.75–0.75 | 4 | 1 |
 | [FCC_A1](#phase-co-sn-fcc-a1); _phase:co-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 370–1775.94 K, x(Sn) 0–0.02715 | 18 | 4 |
 | [HCP_A3](#phase-co-sn-hcp-a3); _phase:co-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–696.99 K, x(Sn) 0–0.00061 | 3 | 4 |
@@ -478,7 +478,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.2500, Sn 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sn:cosn3-ht)
 
 Names (3): _corpus: _corpus:phase:co-sn:cosn3-ht  

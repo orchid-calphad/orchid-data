@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Ni2B reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.6 kJ/mol (basis unstated) ± 1.4 | Ni2B | 298 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
-| -27 kJ/mol (basis unstated) | Ni2B | 298 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
-| -26.7 kJ/mol (basis unstated) | Ni2B | 298 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
-| -21.13 kJ/mol (basis unstated) | Ni2B | 298 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
+| -22.6 kJ/mol (basis unstated) ± 1.4 | Ni2B | 298.15 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Sato 1982_ [doi](https://doi.org/10.1007/bf02664582) | Table 8, p. 8, row 1 |  |
+| -27 kJ/mol (basis unstated) | Ni2B | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 8, p. 8, row 3 |  |
+| -26.7 kJ/mol (basis unstated) | Ni2B | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999 | Table 8, p. 8, row 4 |  |
+| -21.13 kJ/mol (basis unstated) | Ni2B | 298.15 | model |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 8, p. 8, row 5 |  |
 
 ## Sources
 

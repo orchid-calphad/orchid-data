@@ -1,10 +1,10 @@
 # Fe–Mn system
 
-> Fe–Mn system: 25 accepted literature values (invariant reaction 22, formation 2, phase transition 1) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mn system: 27 accepted literature values (invariant reaction 22, mixing / partial 2, formation 2, phase transition 1) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MN.html · Markdown: https://data.orchid-project.org/systems/FE-MN.md
 
-25 accepted literature values from 4 paper(s) (experimental 7, model 18); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 5 paper(s) (experimental 9, model 18); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN.json) · [CSV](https://data.orchid-project.org/systems/FE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MN/FeMn-04Wit.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 9 |
 | model | 18 |
 
 Table: Accepted values by property group
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 22 |
 | phase transition | 1 |
 | formation | 2 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -129,6 +130,15 @@ Table: Phase transition, Fe–Mn system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 577 K | 577 | magnetic | experimental | [4] Kjellqvist 2010 | p. 6 | “The magnetic transition temperature was fixed to the experimental value of 577 K, and the Bohr magneton number, 0b, was used as the optimizing parameter to fit the k-peak in the heat capacity curve.” |
 
+### Mixing / partial (2)
+
+Table: Mixing / partial, Fe–Mn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: heat of mixing_ | -4900 J/m01 | 1400 |  | experimental | [5] Huang 1989; _cites ref. 24_ | p. 2 | “In the 7 phase, a negative heat of mixing at 1400 K with a minimum of -4900 J/m01 was reported by Kendall et al. (24).” |
+| Enthalpy of mixing; _printed: heat of mixing_ | -3 kJ/mol-atom | 1443 |  | experimental | [5] Huang 1989; _cites ref. 4_ | p. 2 | “Recently, Kubitx et al. (4) determined the heat of mixing at 1443. 1073 and 873 K with a minimum of -3000 J/m01 at 1443 K.” |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -137,6 +147,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
 3. Weiming Huang, A Thermodynamic Analysis of the Mn-V And Fe-Mn-V Systems, Calphad 15, 195-208 (1991). [doi:10.1016/0364-5916(91)90018-f](https://doi.org/10.1016/0364-5916%2891%2990018-f)
 4. Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010). [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6)
+5. Weiming Huang, An assessment of the Fe-Mn system, Calphad 13, 243-252 (1989). [doi:10.1016/0364-5916(89)90004-7](https://doi.org/10.1016/0364-5916%2889%2990004-7)
 
 ## Please cite
 

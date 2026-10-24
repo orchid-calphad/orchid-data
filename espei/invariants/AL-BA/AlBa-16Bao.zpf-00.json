@@ -146,7 +146,15 @@
     "id": "ORC-XO4VWFNQX3",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-016-0466-y",
-    "measured_in": "doi:10.1007/bf02679015"
+    "measured_in": "doi:10.1007/bf02679015",
+    "also_reported_as": [
+     {
+      "id": "ORC-VE7ROHS53O",
+      "paper": "doi:10.1007/s11669-016-0466-y",
+      "measured_in": "doi:10.1016/0022-5088(75)90212-x",
+      "dataset": "invariants/AL-BA/AlBa-16Bao.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -160,7 +168,7 @@
    "10.1016/0022-5088(75)90212-x"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AlBa-16Bao/zpf-00.json",
-  "e3_merged": 1
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

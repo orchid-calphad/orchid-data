@@ -1,21 +1,20 @@
 # Lu2O3: enthalpy of formation
 
-> Enthalpy of formation of Lu2O3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Lu2O3: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Lu2O3.html · Markdown: https://data.orchid-project.org/compounds/Lu2O3.md
 
-2 accepted literature formation-enthalpy value(s) (unspecified 2).
+1 accepted literature formation-enthalpy value(s) (unspecified 1).
 
 Systems: [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Lu2O3 reported in the literature (2)
+Table: Enthalpy of formation of Lu2O3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -1877 kJ/mol (basis unstated) | C-Lu2O3 | 298.15 | unspecified |  | [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
-| -1877 kJ/mol (basis unstated) | C-Lu₂O₃ | 298.15 | unspecified |  | [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
 
 ## Sources
 

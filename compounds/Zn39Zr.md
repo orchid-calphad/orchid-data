@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Zn39Zr reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -31.7 kJ/mol-atom ± 0.8 | Zn39Zr | 298 | experimental |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
-| -16.3 kJ/mol-atom | Zn39Zr | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 11 |  |
-| -16.25 kJ/mol-atom | Zn39Zr | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 12 |  |
-| -15.98 kJ/mol-atom | Zn39Zr | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 10 |  |
-| -18.06 kJ/mol-atom | Zn39Zr | 298 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
-| -16.08 kJ/mol-atom | Zn39Zr | 298 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
+| -31.7 kJ/mol-atom ± 0.8 | Zn39Zr | 298.15 | experimental |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
+| -16.3 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 11 |  |
+| -16.25 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 12 |  |
+| -15.98 kJ/mol-atom | Zn39Zr | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 10 |  |
+| -18.06 kJ/mol-atom | Zn39Zr | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
+| -16.08 kJ/mol-atom | Zn39Zr | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
 
 ## Sources
 

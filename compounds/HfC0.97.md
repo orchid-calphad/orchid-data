@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfC0.97 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -238.1 kJ/mol (basis unstated) ± 29.3 | HfC0.97 | 298 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites McClaine 1964_ | Table 3, p. 3, row 3 |  |
+| -238.1 kJ/mol (basis unstated) ± 29.3 | HfC0.97 | 298.15 | experimental | Langmuir method | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites McClaine 1964_ | Table 3, p. 3, row 3 |  |
 
 ## Sources
 

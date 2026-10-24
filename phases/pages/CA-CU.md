@@ -13,7 +13,7 @@ Table: Phases of the Ca–Cu system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ca-cu-bcc-a2); _phase:ca-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 680.6–1124.71 K, x(Cu) 0–1e-05 | 0 | 2 |
-| [CA2CU](#phase-ca-cu-ca2cu); _phase:ca-cu:ca2cu_ | Ca2Cu · oP12 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–785.47 K, x(Cu) 0.33333–0.33333 | 0 | 2 |
+| [CA2CU](#phase-ca-cu-ca2cu); _phase:ca-cu:ca2cu_ | Ca2Cu · oP12 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–785.47 K, x(Cu) 0.33333–0.33333 | 1 | 2 |
 | [CACU](#phase-ca-cu-cacu); _phase:ca-cu:cacu_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–841.26 K, x(Cu) 0.5–0.5 | 1 | 2 |
 | [CACU5_D2D](#phase-ca-cu-cacu5-d2d); _phase:ca-cu:cacu5-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1223.63 K, x(Cu) 0.83333–0.83333 | 0 | 2 |
 | [FCC_A1](#phase-ca-cu-fcc-a1); _phase:ca-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.87 K, x(Cu) 0–1 | 0 | 2 |
@@ -61,10 +61,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.6667, Cu 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–785.47 K, x(Cu) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-cu:ca2cu)
 
-Names (3): _corpus: _corpus:phase:ca-cu:ca2cu  
+Names (4): _corpus: _corpus:phase:ca-cu:ca2cu  
+_paper: _paper:10.1016/s0364-5916(96)00022-3:Ca2Cu  
 _tdb: _tdb:CaCu-96Ris-LB.tdb:CA2CU, tdb:CaCu-97Ais.tdb:CA2CU  
 
 
@@ -87,7 +88,7 @@ _tdb: _tdb:CaCu-96Ris-LB.tdb:CA2CU, tdb:CaCu-97Ais.tdb:CA2CU
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/S0364-5916(96)00022-3](https://doi.org/10.1016/S0364-5916%2896%2900022-3) D. Risold, B. Hallstedt, L.J. Gauckler, H.L. Lukas, S.G. Fries, Calphad, 20, 151-60(1996).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## CACU (Ca–Cu)
 

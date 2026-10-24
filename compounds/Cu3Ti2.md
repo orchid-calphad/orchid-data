@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cu3Ti2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -9.35 kJ/mol (basis unstated) ± 1.3 | Cu3Ti2 | 298 | experimental |  | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12 |  |
+| -9.35 kJ/mol (basis unstated) ± 1.3 | Cu3Ti2 | 298.15 | experimental |  | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | [1] Turchanin 2008; _cites Kaufman 1978_ [doi](https://doi.org/10.1016/0364-5916%2878%2990031-7) | Table 3, p. 8, row 12 |  |
 | -13.927 kJ/mol (basis unstated) | Cu3Ti2 |  | model |  | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | [1] Turchanin 2008 | Table 3, p. 8, row 13 |  |
 
 ## Sources

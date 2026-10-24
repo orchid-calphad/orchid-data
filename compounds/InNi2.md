@@ -16,10 +16,10 @@ Table: Enthalpy of formation of InNi2 reported in the literature (6)
 |---:|---|---:|---|---|---|---|---|---|
 | -18.771 kJ/mol (basis unstated) ± 0.478 | ζ(Ni2In) | 1060 | experimental |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985053-4) | Table III, p. 7, row 5 |  |
 | -17.86 kJ/mol (basis unstated) | ζ(Ni2In) | 850 | experimental |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013; _cites Vinokurova 1973_ | Table III, p. 7, row 3 |  |
-| -17.3 kJ/mol (basis unstated) | ζ(Ni2In) | 298 | experimental |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013; _cites Schmid 1995_ | Table III, p. 7, row 1 |  |
+| -17.3 kJ/mol (basis unstated) | ζ(Ni2In) | 298.15 | experimental |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013; _cites Schmid 1995_ | Table III, p. 7, row 1 |  |
 | -18.523 kJ/mol (basis unstated) | ζ(Ni2In) | 850 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 4 |  |
 | -18.209 kJ/mol (basis unstated) | ζ(Ni2In) | 1060 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 6 |  |
-| -16.953 kJ/mol (basis unstated) | ζ(Ni2In) | 298 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 2 |  |
+| -16.953 kJ/mol (basis unstated) | ζ(Ni2In) | 298.15 | model |  | [In–Ni](https://data.orchid-project.org/systems/IN-NI.html) | [1] Cao 2013 | Table III, p. 7, row 2 |  |
 
 ## Sources
 

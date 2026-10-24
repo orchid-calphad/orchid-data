@@ -131,8 +131,8 @@ Table: Enthalpies of formation, Ge–Ti system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -70.8 kJ/mol-atom ± 2.5 | 298 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
-| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -69.7 kJ/mol-atom ± 2.5 | 298 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -70.8 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| Ti5Ge3 | [Ge3Ti5](https://data.orchid-project.org/compounds/Ge3Ti5.html) | -69.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | -67.135 (mp-aaabgilz) | -70.401 (oqmd-30500) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
 
 ## Other properties
 

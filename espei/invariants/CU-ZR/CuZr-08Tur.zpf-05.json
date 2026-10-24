@@ -7,16 +7,12 @@
  "phases": [
   "CU10ZR7",
   "CU8ZR3",
-  "CUZR2",
-  "CUZR_B2",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1177.0,
-   1163.0,
-   985.0
+   1177.0
   ]
  },
  "output": "ZPF",
@@ -49,73 +45,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     0.475
-    ]
-   ],
-   [
-    "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUZR_B2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "CUZR_B2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU10ZR7",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUZR2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.5311437908
-    ]
-   ]
   ]
  ],
  "reference": "Turchanin 2008, doi:10.1007/s11106-008-9039-x",
@@ -125,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WV34CWISGE ORC-YSZ66KBVMU ORC-3KXW3UX2V5",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WV34CWISGE",
  "bibtex": "turchanin2008_458466",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -133,16 +62,6 @@
   "observations": [
    {
     "id": "ORC-WV34CWISGE",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
-   },
-   {
-    "id": "ORC-YSZ66KBVMU",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
-   },
-   {
-    "id": "ORC-3KXW3UX2V5",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11106-008-9039-x"
    }
@@ -153,19 +72,12 @@
   "dois": [
    "10.1007/s11106-008-9039-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-05.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-05.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -185,16 +97,6 @@
   "values": [
    {
     "id": "ORC-WV34CWISGE",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-YSZ66KBVMU",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-3KXW3UX2V5",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

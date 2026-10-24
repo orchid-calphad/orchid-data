@@ -115,7 +115,7 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 | 1865 | congruent melting: Liquid \<-> Al3Ta | Liquid: Ta 0.25; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 23 |  |
 | 1854 | congruent transformation: σ -> φ | σ: Ta 0.552; φ: Ta 0.552 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 8 |  |
 | 1840 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.39; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.4 | experimental | [2] Du 1996; _cites ref. 85Sch_ | Table 6, p. 7, row 5 |  |
-| 1826.8 | eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4; Al3Ta2-H: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 2 |  |
+| 1826.8 | eutectic: Liquid -> + AlM-D0\*22 + Al3Ta2-II | Liquid: Ta 0.366; AlM-D0\*22: Ta 0.25; Al3Ta2-II: Ta 0.4 | unspecified | [3] Hämäläinen 1998 | Table I, p. 103, row 2 |  |
 | 1824 | peritectic |  | experimental | [1] Witusiewicz 2010; _cites Subramanian 1990_ [doi](https://doi.org/10.1007/bf02671926) | p. 3 | “In the literature there are both variants of melting for the 3-phase, congruent at 1823 \[23\] or 1900 K \[20\] and peritectic at 1773 \[44\] or 1824 K \[14\].” |
 | 1822 | peritectic: L + Ta39Al69 -> ε | Ta39Al69: Ta 0.359; ε: Ta 0.249 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 9 |  |
 | 1821 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.37; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | model | [2] Du 1996 | Table 6, p. 7, row 7 |  |
@@ -124,7 +124,7 @@ Table: Invariant reactions reported in the literature for the Al–Ta system (55
 | 1814 | peritectic: L + Ta39Al69 -> ε | L: Ta 0.237; Ta39Al69: Ta 0.355; ε: Ta 0.244 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 10 |  |
 | 1812 | peritectic: Liquid + Al3Ta \<-> Al69Ta39 | Liquid: Ta 0.42; Al3Ta: Ta 0.25; Al69Ta39: Ta 0.361 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 6 |  |
 | 1776 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.45; Al69Ta39: Ta 0.361; AlTa2: Ta 0.64 | experimental | [2] Du 1996; _cites ref. 95Mah_ | Table 6, p. 7, row 10 |  |
-| 1773 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.42; Al69Ta39: Ta 0.25; AlTa2: Ta 0.667; Al3Ta: Ta 0.25 | experimental | [2] Du 1996; _cites ref. 73Kim_ | Table 6, p. 7, row 8 |  |
+| 1773 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.42; Al69Ta39: Ta 0.25; AlTa2: Ta 0.667 | experimental | [2] Du 1996; _cites ref. 73Kim_ | Table 6, p. 7, row 8 |  |
 | 1772 | eutectic: Liquid \<-> Al69Ta39 + AlTa2 | Liquid: Ta 0.45; Al69Ta39: Ta 0.361; AlTa2: Ta 0.65 | model | [2] Du 1996 | Table 6, p. 7, row 11 |  |
 | 1737 | eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.511; Ta39Al69: Ta 0.376; φ: Ta 0.522 | model | [1] Witusiewicz 2010 | Table 4, p. 10, row 12 |  |
 | 1733 | eutectoid: σ -> Ta39Al69 + φ | σ: Ta 0.51; Ta39Al69: Ta 0.361; φ: Al 0.44186, Ta 0.55814 | experimental | [1] Witusiewicz 2010 | Table 4, p. 10, row 11 |  |

@@ -107,27 +107,27 @@ Table: Enthalpies of formation, Ge–Hf system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -67 unspecified ± 4 | 298 | experimental |  |  | [1] Tang 2014 | p. 1 | “The major experimental results are as follows: (I) the heat contents of the Hf3Ge and HfGe2 phases were measured from 400 to 1050 °C; (II) the enthalpy of formation at 298 K for the HfGe2 phase (-67 ± 4 kJ/mol atoms) was measured; (III) the invariant reaction temperature of Liquid $ (Ge) ? HfGe2 was determined to be at 932.6 ± 2.3 °C; and (IV) the previously reported phases HfGe and Hf3Ge2 were n…” |
-| Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -98.47 kJ/mol-atom ± 10.8 | 298 | experimental | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 4 |  |
+| — |  | -67 unspecified ± 4 | 298.15 | experimental |  |  | [1] Tang 2014 | p. 1 | “The major experimental results are as follows: (I) the heat contents of the Hf3Ge and HfGe2 phases were measured from 400 to 1050 °C; (II) the enthalpy of formation at 298 K for the HfGe2 phase (-67 ± 4 kJ/mol atoms) was measured; (III) the invariant reaction temperature of Liquid $ (Ge) ? HfGe2 was determined to be at 932.6 ± 2.3 °C; and (IV) the previously reported phases HfGe and Hf3Ge2 were n…” |
+| Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -98.47 kJ/mol-atom ± 10.8 | 298.15 | experimental | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 4 |  |
 | Hf2Ge |  | -63.009 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 5 |  |
-| Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -62.62 kJ/mol-atom | 298 | model | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014 | Table 2, p. 3, row 6 |  |
-| Hf3Ge | [GeHf3](https://data.orchid-project.org/compounds/GeHf3.html) | -56.392 kJ/mol-atom | 298 | model | -45.349 (mp-aaacqlam) | -45.623 (oqmd-2052547) | [1] Tang 2014 | Table 2, p. 3, row 3 |  |
+| Hf2Ge | [GeHf2](https://data.orchid-project.org/compounds/GeHf2.html) | -62.62 kJ/mol-atom | 298.15 | model | -63.356 (mp-aaaaaosh) | -63.208 (oqmd-7794) | [1] Tang 2014 | Table 2, p. 3, row 6 |  |
+| Hf3Ge | [GeHf3](https://data.orchid-project.org/compounds/GeHf3.html) | -56.392 kJ/mol-atom | 298.15 | model | -45.349 (mp-aaacqlam) | -45.623 (oqmd-2052547) | [1] Tang 2014 | Table 2, p. 3, row 3 |  |
 | Hf3Ge |  | -45.435 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 2 |  |
-| Hf3Ge | [GeHf3](https://data.orchid-project.org/compounds/GeHf3.html) | -28.4 kJ/mol-atom ± 8.2 | 298 | experimental | -45.349 (mp-aaacqlam) | -45.623 (oqmd-2052547) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 1 |  |
+| Hf3Ge | [GeHf3](https://data.orchid-project.org/compounds/GeHf3.html) | -28.4 kJ/mol-atom ± 8.2 | 298.15 | experimental | -45.349 (mp-aaacqlam) | -45.623 (oqmd-2052547) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 1 |  |
 | Hf3Ge2 | [Ge2Hf3](https://data.orchid-project.org/compounds/Ge2Hf3.html) | -74.6 kJ/mol-atom ± 7.9 | 1473 | unspecified | -67.002 (mp-aaacdoez) | -67.277 (oqmd-30438) | [1] Tang 2014; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 2, p. 3, row 11 |  |
 | Hf3Ge2 |  | -67.105 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 12 |  |
-| Hf3Ge2 | [Ge2Hf3](https://data.orchid-project.org/compounds/Ge2Hf3.html) | -30.16 kJ/mol-atom ± 6.4 | 298 | experimental | -67.002 (mp-aaacdoez) | -67.277 (oqmd-30438) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 10 |  |
+| Hf3Ge2 | [Ge2Hf3](https://data.orchid-project.org/compounds/Ge2Hf3.html) | -30.16 kJ/mol-atom ± 6.4 | 298.15 | experimental | -67.002 (mp-aaacdoez) | -67.277 (oqmd-30438) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 10 |  |
 | Hf5Ge3 |  | -65.588 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 8 |  |
-| Hf5Ge3 | [Ge3Hf5](https://data.orchid-project.org/compounds/Ge3Hf5.html) | -64.448 kJ/mol-atom | 298 | model | -65.411 (mp-aaaaacox) | -65.437 (oqmd-1340141) | [1] Tang 2014 | Table 2, p. 3, row 9 |  |
-| Hf5Ge3 | [Ge3Hf5](https://data.orchid-project.org/compounds/Ge3Hf5.html) | -42.31 kJ/mol-atom ± 4.1 | 298 | experimental | -65.411 (mp-aaaaacox) | -65.437 (oqmd-1340141) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 7 |  |
-| Hf5Ge4 | [Ge4Hf5](https://data.orchid-project.org/compounds/Ge4Hf5.html) | -67.927 kJ/mol-atom | 298 | model | -68.037 (mp-aaaaabcj) | -68.008 (oqmd-13721) | [1] Tang 2014 | Table 2, p. 3, row 15 |  |
+| Hf5Ge3 | [Ge3Hf5](https://data.orchid-project.org/compounds/Ge3Hf5.html) | -64.448 kJ/mol-atom | 298.15 | model | -65.411 (mp-aaaaacox) | -65.437 (oqmd-1340141) | [1] Tang 2014 | Table 2, p. 3, row 9 |  |
+| Hf5Ge3 | [Ge3Hf5](https://data.orchid-project.org/compounds/Ge3Hf5.html) | -42.31 kJ/mol-atom ± 4.1 | 298.15 | experimental | -65.411 (mp-aaaaacox) | -65.437 (oqmd-1340141) | [1] Tang 2014; _cites Golutvin 1979_ | Table 2, p. 3, row 7 |  |
+| Hf5Ge4 | [Ge4Hf5](https://data.orchid-project.org/compounds/Ge4Hf5.html) | -67.927 kJ/mol-atom | 298.15 | model | -68.037 (mp-aaaaabcj) | -68.008 (oqmd-13721) | [1] Tang 2014 | Table 2, p. 3, row 15 |  |
 | Hf5Ge4 |  | -67.91 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014; _cites Ponweiser 2009_ [doi](https://doi.org/10.1016/j.solidstatesciences.2008.09.001) | Table 2, p. 3, row 13 |  |
 | Hf5Ge4 |  | -67.87 kJ/mol-atom | 0 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 14 |  |
-| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -69.666 kJ/mol-atom | 298 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
-| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -67.069 kJ/mol-atom ± 3.37 | 298 | experimental | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014 | Table 2, p. 3, row 17 |  |
-| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -64.907 kJ/mol-atom | 298 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014 | Table 2, p. 3, row 19 |  |
-| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -55.666 kJ/mol-atom | 298 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
-| HfGe2 |  | -46.03 kJ/mol-atom | 298 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 18 |  |
+| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -69.666 kJ/mol-atom | 298.15 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
+| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -67.069 kJ/mol-atom ± 3.37 | 298.15 | experimental | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014 | Table 2, p. 3, row 17 |  |
+| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -64.907 kJ/mol-atom | 298.15 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014 | Table 2, p. 3, row 19 |  |
+| HfGe2 | [Ge2Hf](https://data.orchid-project.org/compounds/Ge2Hf.html) | -55.666 kJ/mol-atom | 298.15 | model | -45.563 (mp-aaaaaugh) | -45.659 (oqmd-3543) | [1] Tang 2014; _cites Smith 1957_ [doi](https://doi.org/10.1107/s0365110x57000985) | Table 2, p. 3, row 16 |  |
+| HfGe2 |  | -46.03 kJ/mol-atom | 298.15 | DFT |  |  | [1] Tang 2014 | Table 2, p. 3, row 18 |  |
 
 ## Other properties
 

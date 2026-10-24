@@ -70,7 +70,7 @@ Table: Heat capacity / entropy / enthalpy, Te–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: heat capacity_ | 24.85 unspecified | 298 |  | experimental | [1] Feutelais 1997; _cites Mills 1974_ | p. 10 | “The calculated heat capacity for Te0.sZn0.5 (T = 298 K) is 25.40 J/mol 9K in agreement with the value 24.85 J/mol 9 K proposed by \[74Mil\].” |
+| Heat capacity; _printed: heat capacity_ | 24.85 unspecified | 298.15 |  | experimental | [1] Feutelais 1997; _cites Mills 1974_ | p. 10 | “The calculated heat capacity for Te0.sZn0.5 (T = 298 K) is 25.40 J/mol 9K in agreement with the value 24.85 J/mol 9 K proposed by \[74Mil\].” |
 
 ## Sources
 

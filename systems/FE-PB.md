@@ -67,9 +67,9 @@ Table: Invariant reactions reported in the literature for the Fe–Pb system (13
 |---:|---|---|---|---|---|---|
 | 4277.13 | critical point: L1 + L2 -> bcc + L2 | L1: Pb 0.496 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 2 |  |
 | 4270 | critical point: L1 + L2 -> bcc + L2 |  | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 1 |  |
-| 1809.7 | monotectic: bcc + L2 -> fcc + L2 | L2: Pb 0.9938; L1: Pb 6.370e-4 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 4 |  |
-| 1809.59 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.9943; L1: Pb 7.100e-4 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 5 |  |
-| 1808.98 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9916; L1: Pb 0.001 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 3 |  |
+| 1809.7 | monotectic: bcc + L2 -> fcc + L2 | L2: Pb 0.9938 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 4 |  |
+| 1809.59 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.9943 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 5 |  |
+| 1808.98 | monotectic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9916 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 3 |  |
 | 1667.7 | polymorphic: bcc + L2 -> fcc + L2 | L2: Pb 0.9965 | model | [1] Vaajamo 2011; _cites Onderka 2004_ | Table 3, p. 5, row 7 |  |
 | 1667.47 | polymorphic: bcc + L2 -> fcc + L2 | bcc: Pb 0; L2: Pb 0.9949 | model | [1] Vaajamo 2011; _cites Hamalainen 1990_ | Table 3, p. 5, row 6 |  |
 | 1667.47 | polymorphic: bcc + L2 -> fcc + L2 | bcc: Pb 1.000e-5; L2: Pb 0.99671 | model | [1] Vaajamo 2011 | Table 3, p. 5, row 8 |  |

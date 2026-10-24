@@ -1,10 +1,10 @@
 # Co–Ge system
 
-> Co–Ge system: 155 accepted literature values (invariant reaction 78, formation 57, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ge system: 153 accepted literature values (invariant reaction 78, formation 55, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GE.html · Markdown: https://data.orchid-project.org/systems/CO-GE.md
 
-155 accepted literature values from 3 paper(s) (experimental 57, model 98); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+153 accepted literature values from 3 paper(s) (experimental 56, model 97); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GE.html) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 57 |
-| model | 98 |
+| experimental | 56 |
+| model | 97 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 78 |
 | phase transition | 3 |
-| formation | 57 |
+| formation | 55 |
 | crystal structure | 17 |
 
 ## Calculated phase diagrams
@@ -195,22 +195,22 @@ Table: Invariant reactions reported in the literature for the Co–Ge system (78
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Ge system (57)
+Table: Enthalpies of formation, Co–Ge system (55)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | CoGe |  | -22.758 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 24 |  |
 | CoGe |  | -21.847 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 23 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.752 kJ/mol-atom | 1060 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 6, p. 5, row 16 |  |
-| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.394 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -20.991 kJ/mol-atom | 298 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -21.394 kJ/mol-atom | 298.15 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -20.991 kJ/mol-atom | 298.15 | model | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
 | CoGe | [CoGe](https://data.orchid-project.org/compounds/CoGe.html) | -15.943 kJ/mol-atom | 1060 | experimental | -20.979 (mp-aaaabfkv) | -22.291 (oqmd-1790918) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 15 |  |
 | CoGe |  | -15.943 per mol-atom ± 946 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 22 |  |
 | CoGe2 |  | -16.579 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 27 |  |
 | CoGe2 |  | -16.241 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 26 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.836 kJ/mol-atom | 1060 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 6, p. 5, row 18 |  |
-| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.343 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -14.874 kJ/mol-atom | 298 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -15.343 kJ/mol-atom | 298.15 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -14.874 kJ/mol-atom | 298.15 | model | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
 | CoGe2 |  | -11.8 per mol-atom ± 1274 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 25 |  |
 | CoGe2 | [CoGe2](https://data.orchid-project.org/compounds/CoGe2.html) | -11.8 kJ/mol-atom | 1060 | experimental | -14.777 (mp-aaaabslp) | -15.207 (oqmd-647051) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 17 |  |
 | α(Co) |  | -4.022 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 8 |  |
@@ -236,15 +236,13 @@ Table: Enthalpies of formation, Co–Ge system (57)
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -15.844 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [2] Zeng 2019 | Table 4, p. 9, row 12 |  |
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.797 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [2] Zeng 2019 | Table 4, p. 9, row 11 |  |
 | α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.697 kJ/mol-atom ± 0.87 | 1060 | experimental |  | -16.532 (oqmd-1437178) | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 10 |  |
-| α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.697 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 7 |  |
-| α(Co)+βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -13.161 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 8 |  |
 | βCo5Ge3 |  | -20.136 per mol-atom ± 1179 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 19 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -20.136 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 13 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19.6 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Kleppa 1990_ | Table 5, p. 4, row 6 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19 kJ/mol-atom | 298 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 4, row 7 |  |
+| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19.6 kJ/mol-atom | 298.15 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Kleppa 1990_ | Table 5, p. 4, row 6 |  |
+| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -19 kJ/mol-atom | 298.15 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 5, p. 4, row 7 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.665 kJ/mol-atom | 1060 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 6, p. 5, row 14 |  |
 | βCo5Ge3 |  | -18.381 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 18 |  |
-| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.279 kJ/mol-atom | 298 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 5, p. 4, row 8 |  |
+| βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -18.279 kJ/mol-atom | 298.15 | model |  | -16.532 (oqmd-1437178) | [3] Dong 2013 | Table 5, p. 4, row 8 |  |
 | βCo5Ge3 |  | -18.16 per mol-atom | 1060 | model |  |  | [2] Zeng 2019 | Table 4, p. 9, row 20 |  |
 | βCo5Ge3 |  | -17.237 per mol-atom ± 845 | 1060 | experimental |  |  | [2] Zeng 2019; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 4, p. 9, row 16 |  |
 | βCo5Ge3 | [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.html) | -17.237 kJ/mol-atom | 1060 | experimental |  | -16.532 (oqmd-1437178) | [3] Dong 2013; _cites Predel 1979_ [doi](https://doi.org/10.1016/0040-6031%2879%2985054-6) | Table 6, p. 5, row 11 |  |
@@ -275,23 +273,23 @@ Table: Crystal structure, Co–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 1.157 nm | 298 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 1.1684 nm | 298 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 0.565 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 0.5684 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 0.567 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
-| Lattice b; _printed: b_ | 0.3766 nm | 298 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice b; _printed: b_ | 0.3807 nm | 298 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice b; _printed: b_ | 0.565 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice b; _printed: b_ | 0.5682 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice b; _printed: b_ | 0.567 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
-| Lattice c; _printed: c_ | 0.4934 nm | 298 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 0.4945 nm | 298 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 1.08 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 1.094 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 1.0796 nm | 298 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: β_ | 99.6 ° | 298 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
-| lattice unspecified axis; _printed: β_ | 101.1 ° | 298 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice a; _printed: a_ | 1.157 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice a; _printed: a_ | 1.1684 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice a; _printed: a_ | 0.565 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice a; _printed: a_ | 0.5684 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice a; _printed: a_ | 0.567 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| Lattice b; _printed: b_ | 0.3766 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice b; _printed: b_ | 0.3807 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice b; _printed: b_ | 0.565 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice b; _printed: b_ | 0.5682 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice b; _printed: b_ | 0.567 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| Lattice c; _printed: c_ | 0.4934 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| Lattice c; _printed: c_ | 0.4945 nm | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
+| Lattice c; _printed: c_ | 1.08 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 2 |  |
+| Lattice c; _printed: c_ | 1.094 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | model | [3] Dong 2013 | Table 5, p. 4, row 3 |  |
+| Lattice c; _printed: c_ | 1.0796 nm | 298.15 | CoGe2; _alloy: Ge 0.666667_ | experimental | [3] Dong 2013; _cites Schubert 1950_ | Table 5, p. 4, row 1 |  |
+| lattice unspecified axis; _printed: β_ | 99.6 ° | 298.15 | CoGe; _alloy: Ge 0.5_ | model | [3] Dong 2013 | Table 5, p. 4, row 5 |  |
+| lattice unspecified axis; _printed: β_ | 101.1 ° | 298.15 | CoGe; _alloy: Ge 0.5_ | experimental | [3] Dong 2013; _cites Bhan 1960_ | Table 5, p. 4, row 4 |  |
 
 ## Sources
 

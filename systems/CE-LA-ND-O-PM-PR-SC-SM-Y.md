@@ -1,10 +1,10 @@
 # Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y system
 
-> Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y system: 18 accepted literature values (formation 9, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y system: 9 accepted literature values (heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html · Markdown: https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.md
 
-18 accepted literature values from 1 paper(s) (model 18); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (model 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.json) · [CSV](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-LA-ND-O-PM-PR-SC-SM-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) · [Markdown](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.md)
 
@@ -12,32 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 18 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 9 |
 | heat capacity / entropy / enthalpy | 9 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y system (9)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| A-Ce2O3 |  | -1792.38 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 19 |  |
-| A-La2O3 |  | -1791.6 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
-| A-Nd2O3 |  | -1806.9 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
-| A-Pr2O3 |  | -1809.9 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
-| B-Sm2O3 |  | -1823 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
-| C-Pm2O3 |  | -1811 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
-| C-Sc2O3 |  | -1908.57 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
-| C-Sm2O3 |  | -1826.8 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| C-Y2O3 |  | -1932.8 unknown | 298.15 | model |  |  | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 7 |  |
 
 ## Other properties
 

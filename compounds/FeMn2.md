@@ -14,7 +14,7 @@ Table: Enthalpy of formation of FeMn2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 18.653 kJ/mol-atom | C14 Laves FeMn2 | 298 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
+| 18.653 kJ/mol-atom | C14 Laves FeMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 12 |  |
 | 18.636 kJ/mol-atom | C14 Laves FeMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 11 |  |
 
 ## DFT formation energies
@@ -23,9 +23,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of FeMn2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-1449617 | 14.765 | 0.153027 | P63/mmc | 15.687 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-1449617 | 14.765 | 0.153027 | P63/mmc | 15.687 | 0.1626 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

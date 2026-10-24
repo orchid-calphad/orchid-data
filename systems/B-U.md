@@ -1,10 +1,10 @@
 # B–U system
 
-> B–U system: 146 accepted literature values (heat capacity / entropy / enthalpy 110, crystal structure 21, phase transition 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–U system: 149 accepted literature values (heat capacity / entropy / enthalpy 110, crystal structure 21, phase transition 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-U.html · Markdown: https://data.orchid-project.org/systems/B-U.md
 
-146 accepted literature values from 1 paper(s) (experimental 111, model 35); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+149 accepted literature values from 1 paper(s) (experimental 114, model 35); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-U.json) · [CSV](https://data.orchid-project.org/systems/B-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-U) · [phases (10)](https://data.orchid-project.org/phases/pages/B-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-U.html) · [Markdown](https://data.orchid-project.org/systems/B-U.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 111 |
+| experimental | 114 |
 | model | 35 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 15 |
+| phase transition | 18 |
 | heat capacity / entropy / enthalpy | 110 |
 | crystal structure | 21 |
 
@@ -27,12 +27,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (18)
 
 Table: Phase transition, B–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1380 K | 1380 | eutectic | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 1 |  |
 | Phase transition | 1933 K | 1933 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 2 |  |
 | Phase transition | 2048 K | 2048 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 3 |  |
 | Phase transition | 2273 K | 2273 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 4 |  |
@@ -45,6 +46,8 @@ Table: Phase transition, B–U system
 | Phase transition | 2508 K | 2508 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 12 |  |
 | Phase transition | 2533 K | 2533 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 5 |  |
 | Phase transition | 2548 K | 2548 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 11 |  |
+| Phase transition | 2613 K | 2613 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 8 |  |
+| Phase transition | 2658 K | 2658 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 6 |  |
 | Phase transition | 2663 K | 2663 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 9 |  |
 | Phase transition | 2703 K | 2703 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 7 |  |
 | Phase transition | 2768 K | 2768 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 10 |  |

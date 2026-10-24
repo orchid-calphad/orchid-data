@@ -1,10 +1,10 @@
 # Si–Ta system
 
-> Si–Ta system: 113 accepted literature values (formation 45, invariant reaction 45, phase transition 22, heat capacity / entropy / enthalpy 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta system: 114 accepted literature values (formation 45, invariant reaction 45, phase transition 22, heat capacity / entropy / enthalpy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA.html · Markdown: https://data.orchid-project.org/systems/SI-TA.md
 
-113 accepted literature values from 3 paper(s) (experimental 54, model 53, DFT 1, unspecified 5); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+114 accepted literature values from 3 paper(s) (experimental 54, model 54, DFT 1, unspecified 5); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 54 |
-| model | 53 |
+| model | 54 |
 | DFT | 1 |
 | unspecified | 5 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 45 |
 | phase transition | 22 |
 | formation | 45 |
-| heat capacity / entropy / enthalpy | 1 |
+| heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
 
@@ -245,12 +245,13 @@ Table: Formation, Si–Ta system
 | Entropy of formation; _printed: s_ | -1.6 J/mol-atom/K | 2045 | Si0.3333Ta0.6667; _alloy: Ta 0.6667_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
 | Entropy of formation; _printed: s_ | -2.17 J/mol-atom/K | 2087.5 | Si0.25Ta0.75; _alloy: Ta 0.75_ | experimental | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
 
-### Heat capacity / entropy / enthalpy (1)
+### Heat capacity / entropy / enthalpy (2)
 
 Table: Heat capacity / entropy / enthalpy, Si–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: s = b_ | -0.776768 J/mol-atom/K | 298.15 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
 | Entropy; _printed: s = b_ | 0.024162 J/mol-atom/K | 298.15 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
 
 ## Sources

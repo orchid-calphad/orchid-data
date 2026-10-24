@@ -1,10 +1,10 @@
 # Hf–Ni system
 
-> Hf–Ni system: 92 accepted literature values (mixing / partial 30, formation 28, phase transition 12, heat capacity / entropy / enthalpy 11) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni system: 61 accepted literature values (formation 17, mixing / partial 15, phase transition 12, invariant reaction 7) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI.html · Markdown: https://data.orchid-project.org/systems/HF-NI.md
 
-92 accepted literature values from 3 paper(s) (experimental 11, model 81); 5 calculated phase diagram(s).
+61 accepted literature values from 3 paper(s) (experimental 11, model 50); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI.json) · [CSV](https://data.orchid-project.org/systems/HF-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NI/HfNi-01Wan-LB.json) · [phases (19)](https://data.orchid-project.org/phases/pages/HF-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 81 |
+| model | 50 |
 
 Table: Accepted values by property group
 
@@ -22,9 +22,9 @@ Table: Accepted values by property group
 | invariant reaction | 7 |
 | phase transition | 12 |
 | phase equilibrium | 4 |
-| formation | 28 |
-| mixing / partial | 30 |
-| heat capacity / entropy / enthalpy | 11 |
+| formation | 17 |
+| mixing / partial | 15 |
+| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -207,37 +207,26 @@ Table: Invariant reactions reported in the literature for the Hf–Ni system (7)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Ni system (28)
+Table: Enthalpies of formation, Hf–Ni system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Hf (fcc-A1) |  | 6.92 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 13 |  |
-| Hf (hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 14 |  |
-| Hf (hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 15 |  |
 | Hf(fcc-A1) |  | 6.92 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 13 |  |
 | Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 14 |  |
 | Hf(hcp-A3) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 15 |  |
-| Ni (fcc-A1) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 1 |  |
 | Ni(fcc-A1) |  | 0 kJ/mol-atom | 298.15 | model |  |  | [3] Ross 2018 | Table 1, p. 4, row 1 |  |
-| Ni3Hf (L12) | [HfNi3](https://data.orchid-project.org/compounds/HfNi3.html) | -51.41 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaaaasag) | -52.511 (oqmd-33142) | [3] Ross 2018 | Table 1, p. 4, row 16 |  |
 | Ni3Hf(L12) | [HfNi3](https://data.orchid-project.org/compounds/HfNi3.html) | -51.41 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaaaasag) | -52.511 (oqmd-33142) | [3] Ross 2018 | Table 1, p. 4, row 16 |  |
-| Ni5Hf (C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.67 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [3] Ross 2018 | Table 1, p. 4, row 2 |  |
-| Ni5Hf (C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.65 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 3 |  |
 | Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.67 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [3] Ross 2018 | Table 1, p. 4, row 2 |  |
 | Ni5Hf(C15b) | [HfNi5](https://data.orchid-project.org/compounds/HfNi5.html) | -33.65 kJ/mol-atom | 298.15 | model | -33.322 (mp-aaabgkmm) | -33.745 (oqmd-19424) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 3 |  |
 | Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.18 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [3] Ross 2018 | Table 1, p. 4, row 4 |  |
 | Ni7Hf2 | [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.html) | -45.1 kJ/mol-atom | 298.15 | model | -44.758 (mp-aaacqpve) | -45.225 (oqmd-1437798) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 5 |  |
 | Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.88 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [3] Ross 2018 | Table 1, p. 4, row 6 |  |
 | Ni7Hf3 | [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.html) | -48.71 kJ/mol-atom | 298.15 | model | -48.429 (mp-aaaaboew) | -48.931 (oqmd-2175) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 7 |  |
-| NiHf (B2) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -41.77 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018 | Table 1, p. 4, row 10 |  |
-| NiHf (B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50.06 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9 |  |
-| NiHf (B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018 | Table 1, p. 4, row 8 |  |
 | NiHf(B2) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -41.77 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018 | Table 1, p. 4, row 10 |  |
 | NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50.06 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9 |  |
 | NiHf(B33) | [HfNi](https://data.orchid-project.org/compounds/HfNi.html) | -50 kJ/mol-atom | 298.15 | model | -50.09 (mp-aaacfyaa) | -50.079 (oqmd-30515) | [3] Ross 2018 | Table 1, p. 4, row 8 |  |
 | NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.88 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [3] Ross 2018 | Table 1, p. 4, row 11 |  |
 | NiHf2 | [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.html) | -32.85 kJ/mol-atom | 298.15 | model | -32.839 (mp-aaaaabhd) | -32.982 (oqmd-88683) | [3] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 12 |  |
-| NiHf3 (L12) | [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.html) | -1.6 kJ/mol-atom | 298.15 | model | 3.481 (mp-aaacpkik) | -24.055 (oqmd-1912905) | [3] Ross 2018 | Table 1, p. 4, row 17 |  |
 | NiHf3(L12) | [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.html) | -1.6 kJ/mol-atom | 298.15 | model | 3.481 (mp-aaacpkik) | -24.055 (oqmd-1912905) | [3] Ross 2018 | Table 1, p. 4, row 17 |  |
 
 ## Other properties
@@ -272,30 +261,15 @@ Table: Phase equilibrium, Hf–Ni system
 | Phase assemblage |  | 1173 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [3] Ross 2018; _cites Wang 2001_ | Table 3, p. 5, row 2 |  |
 | Phase assemblage |  | 1373 | Ni + HfNi5 + Hf2Ni7 + HfNi3 + Hf3Ni7 + Hf7Ni10 + Hf9Ni11 + HfNi; _alloy: Ni 1_ | experimental | [3] Ross 2018 | Table 3, p. 5, row 4 |  |
 
-### Mixing / partial (30)
+### Mixing / partial (15)
 
 Table: Mixing / partial, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Enthalpy of mixing; _printed: ΔH_ | -55.15 kJ/mol-atom |  | B2; _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -10.22 kJ/mol-atom |  | Hf0.5(Hf0.5Ni0.5)0.5 (bcc-B2) | model | [3] Ross 2018 | Table 2, p. 4, row 8 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -49.68 kJ/mol-atom |  | L12; _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 2, p. 4, row 14 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 3.59 kJ/mol-atom |  | L12; _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 15 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -8.06 kJ/mol-atom |  | Ni0.25Hf0.75 (bcc-A2); _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 3.65 kJ/mol-atom |  | Ni0.25Hf0.75 (fcc-A1); _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -29.94 kJ/mol-atom |  | Ni0.5(Hf0.5Ni0.5)0.5 (bcc-B2) | model | [3] Ross 2018 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -8.81 kJ/mol-atom |  | Ni0.5Hf0.5 (bcc-A2); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 2, p. 4, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.46 kJ/mol-atom |  | Ni0.5Hf0.5 (fcc-A1); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 2, p. 4, row 11 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -17.06 kJ/mol-atom |  | Ni0.75Hf0.25 (bcc-A2); _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 2, p. 4, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.45 kJ/mol-atom |  | Ni0.75Hf0.25 (fcc-A1); _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -1.3 kJ/mol-atom |  | Ni1Hf32 (bcc-A2); _alloy: Ni 0.030303_ | model | [3] Ross 2018 | Table 2, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.24 kJ/mol-atom |  | Ni1Hf32 (fcc-A1); _alloy: Ni 0.030303_ | model | [3] Ross 2018 | Table 2, p. 4, row 13 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -9.13 kJ/mol-atom |  | Ni32Hf1 (bcc-A2); _alloy: Ni 0.969697_ | model | [3] Ross 2018 | Table 2, p. 4, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -6.75 kJ/mol-atom |  | Ni32Hf1 (fcc-A1); _alloy: Ni 0.969697_ | model | [3] Ross 2018 | Table 2, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -49.68 kJ/mol-atom |  | Ni3Hf (L12); _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 2, p. 4, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH_ | -55.15 kJ/mol-atom |  | NiHf (B2); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 2, p. 4, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 3.59 kJ/mol-atom |  | NiHf3 (L12); _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 15 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -8.06 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 4 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -9.13 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.969697_ | model | [3] Ross 2018 | Table 2, p. 4, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -1.3 kJ/mol-atom |  | bcc-A2; _alloy: Ni 0.030303_ | model | [3] Ross 2018 | Table 2, p. 4, row 5 |  |
@@ -309,20 +283,15 @@ Table: Mixing / partial, Hf–Ni system
 | Enthalpy of mixing; _printed: ΔH_ | -6.46 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 2, p. 4, row 11 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 3.65 kJ/mol-atom |  | fcc-A1; _alloy: Ni 0.25_ | model | [3] Ross 2018 | Table 2, p. 4, row 12 |  |
 
-### Heat capacity / entropy / enthalpy (11)
+### Heat capacity / entropy / enthalpy (6)
 
 Table: Heat capacity / entropy / enthalpy, Hf–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298.15_ | 38.8683 J/mol-atom/K | 298.15 | Hf (hcp-A3); _alloy: Ni 0_ | model | [3] Ross 2018 | Table 1, p. 4, row 14 |  |
 | Entropy; _printed: S298.15_ | 38.8683 J/mol-atom/K | 298.15 | Hf(hcp-A3); _alloy: Ni 0_ | model | [3] Ross 2018 | Table 1, p. 4, row 14 |  |
-| Entropy; _printed: S298.15_ | 29.0286 J/mol-atom/K | 298.15 | Ni3Hf (L12); _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 1, p. 4, row 16 |  |
 | Entropy; _printed: S298.15_ | 29.0286 J/mol-atom/K | 298.15 | Ni3Hf(L12); _alloy: Ni 0.75_ | model | [3] Ross 2018 | Table 1, p. 4, row 16 |  |
-| Entropy; _printed: S298.15_ | 27.4825 J/mol-atom/K | 298.15 | Ni5Hf (C15b); _alloy: Ni 0.833333_ | model | [3] Ross 2018 | Table 1, p. 4, row 2 |  |
 | Entropy; _printed: S298.15_ | 27.4825 J/mol-atom/K | 298.15 | Ni5Hf(C15b); _alloy: Ni 0.833333_ | model | [3] Ross 2018 | Table 1, p. 4, row 2 |  |
-| Entropy; _printed: S298.15_ | 40.29 J/mol-atom/K | 298.15 | NiHf (B2); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 1, p. 4, row 10 |  |
-| Entropy; _printed: S298.15_ | 38.8575 J/mol-atom/K | 298.15 | NiHf (B33); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 1, p. 4, row 8 |  |
 | Entropy; _printed: S298.15_ | 40.29 J/mol-atom/K | 298.15 | NiHf(B2); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 1, p. 4, row 10 |  |
 | Entropy; _printed: S298.15_ | 38.8575 J/mol-atom/K | 298.15 | NiHf(B33); _alloy: Ni 0.5_ | model | [3] Ross 2018 | Table 1, p. 4, row 8 |  |
 | Entropy; _printed: S298.15_ | 51.5817 J/mol-atom/K | 298.15 | NiHf2; _alloy: Ni 0.333333_ | model | [3] Ross 2018 | Table 1, p. 4, row 11 |  |

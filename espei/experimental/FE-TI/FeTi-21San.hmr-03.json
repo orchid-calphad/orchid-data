@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_TI": [
    0.5
   ]
@@ -44,6 +44,7 @@
    }
   }
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "bibtex": "santhy2021_5962cb",
  "orchid": {
   "status": "Version 1, machine-extracted",

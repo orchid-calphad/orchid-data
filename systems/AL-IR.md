@@ -1,10 +1,10 @@
 # Al–Ir system
 
-> Al–Ir system: 127 accepted literature values (crystal structure 66, formation 28, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ir system: 128 accepted literature values (crystal structure 66, formation 29, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-IR.html · Markdown: https://data.orchid-project.org/systems/AL-IR.md
 
-127 accepted literature values from 3 paper(s) (experimental 47, model 44, DFT 32, unspecified 4); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+128 accepted literature values from 3 paper(s) (experimental 47, model 45, DFT 32, unspecified 4); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IR.json) · [CSV](https://data.orchid-project.org/systems/AL-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IR/AlIr-06Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-IR.html) · [Markdown](https://data.orchid-project.org/systems/AL-IR.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 47 |
-| model | 44 |
+| model | 45 |
 | DFT | 32 |
 | unspecified | 4 |
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 17 |
 | phase transition | 1 |
 | phase equilibrium | 15 |
-| formation | 28 |
+| formation | 29 |
 | crystal structure | 66 |
 
 ## Calculated phase diagrams
@@ -138,12 +138,13 @@ Table: Invariant reactions reported in the literature for the Al–Ir system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ir system (28)
+Table: Enthalpies of formation, Al–Ir system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A1-Al |  | 0 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 21 |  |
 | A1-Ir |  | 0 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 21 |  |
+| A2-Al |  | 60.2 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 23 |  |
 | A2-Ir |  | 8.8 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 24 |  |
 | Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.4 kJ/mol-atom |  | model |  | -57.448 (oqmd-1782493) | [2] Abe 2008 | Table 2, p. 3, row 8 |  |
 | Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.1 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2 |  |

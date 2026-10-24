@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Au10Tm7 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87.6 kJ/mol-atom | Au10Tm7 | 298 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 47 |  |
+| -87.6 kJ/mol-atom | Au10Tm7 | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 47 |  |
 
 ## Sources
 

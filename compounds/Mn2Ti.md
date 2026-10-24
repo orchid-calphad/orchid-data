@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Mn2Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298 | experimental |  | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
+| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | experimental |  | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
 | -28.4 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
 | -27.22 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
 | -26.714 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
@@ -27,10 +27,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Mn2Ti
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacwz | -26.259 | -0.272158 | P6_3/mmc | 0 | no |
-| OQMD | oqmd-17696 | -27.684 | -0.286924 | P63/mmc | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacwz | -26.259 | -0.272158 | P6_3/mmc | 0 | 0 | no |
+| OQMD | oqmd-17696 | -27.684 | -0.286924 | P63/mmc | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

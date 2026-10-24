@@ -2,6 +2,59 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Targeted cleanup of flagged records (2026-10-24, PI-approved).** Every remaining flagged invariant table and
+value group was checked on the rendered PDF page (642 new page checks in `tools/literature_visual_checks.json`, one
+per table group or record: page, image hash, verdict, what was seen; no images published). Invariant phase lists:
+column headers and composition labels read as phases ('Phase 2', 'X^M', 'φ1', 'reactive phase', 'sample
+(nominal)', a liquid taken from a 'composition of liquid' header) dropped on the checked rows, phases the printed
+reaction names but the reading missed added, reaction types set to the printed one (e.g. EO -> eutectoid,
+'Peretectic'), rows of ternary systems moved to the system the page names (Al-Mg-Zn, Cr-Ni-Ti, Al-C-Fe, Ag-Bi-Ni,
+Bi-Cu-Ni, Fe-Ni-W, Al-Cr-Ni); compositions printed under a dropped label move to `phase_compositions_dropped`,
+the stored list stays in `phases_stored`. Phase repeats are now found with a spelling-independent key (subscripts,
+LaTeX and spelled Greek letters, ″ = two primes, separators); numbered liquids (L1, L2, Liquid#2) count as liquids
+(this also restores 98 second liquids that the earlier repeat rule had dropped). Binary invariants with four or more
+phases 279 -> 25 (20 of them degenerate reactions printed so: accepted, not ESPEI-ready); reaction phase / liquid
+count flags 418 -> 164, of which 140 are printed so by the paper (`*_as_printed`) and 24 remain unsettled (all not
+ESPEI-ready). Values (`page_fix:<id>`, applied before the other gates, stored values kept): J vs kJ and
+per-formula-unit headers (Li-Sb partial enthalpies, rare-earth sesquioxides Ln2O3 per 5 atoms, U-O 'J/mol of atom',
+Zn3P2, Cs5Te3, LaFe12O19 printed -5745 kJ/mol, Nb2N printed -293 kJ/mol, Nb-Re per-atom column, Ge-P entropy header
+misprint, ...), Ag-Cu-Sn Table I starred rows °C -> K, binary oxide / phosphide rows of multi-element tables moved
+to their binary system; values found not to be what is printed (Cp polynomial coefficients, lattice parameters
+read as enthalpies, compositions read as temperatures, a transformation enthalpy stored as a formation enthalpy) not
+accepted; values printed as stored but outside the physical range stay accepted and are not ESPEI-ready
+(`value_outside_typical_range_as_printed`); unsigned magnitudes printed without a minus sign (Mn3O4 block, Li3Sb
+ΔfG) flagged `unsigned_magnitude_in_print`. Evidence class on 'Calculated ...' tables: 199 rows confirmed as cited
+or own measurements in separate experimental columns, 1 set to model, 14 values read from Okamoto-assessed
+diagrams set to unspecified; the UO3 'S°_f' entropies are standard absolute entropies (unchanged).
+Standard reference temperature (PI rule '298 K is 298.15 K'): 2,349 values stored at 298 K are stored at 298.15 K
+(printed string kept, `standard_reference_temperature`). Duplicates: labels compared by spelling key, contained
+words and formula composition; 4,002 cosmetic duplicates merged in all (936 more), two readings of one printed
+value with different phases flagged `phase_label_readings_disagree` (541). Compositions printed far from a label's
+formula are flag-only (`composition_label_mismatch`, 183; real solubilities as printed). Liquid / amorphous
+properties at room temperature (CaO(liq-am) Cp, S) are not ESPEI-ready. Records 74,474 -> 73,538; accepted
+73,165 -> 72,359; espei_ready 11,956 -> 11,919; espei_certified 1,912 -> 1,917. ESPEI bundle: every value the
+release marks not ESPEI-ready is now excluded (`not_espei_ready:literature_gate`; 57 ZPF values before); dataset
+temperatures of 298 K are written as 298.15 K, so ESPEI's `filter_temperatures` drops nothing (251 compound-formation
+datasets contributed nothing before); one observation supplies one value per folder; ZPF duplicates are removed
+again after E2; printed sigmas below 0.1 x ESPEI's default use the default in the weight (Li-Sb +-0.011 kJ);
+`experimental/MG-O/MgO-18Lia.zpf-00.json` left out (pycalphad evaluation not reproducible). Datasets / values:
+experimental 1,012 / 3,012 -> 975 / 2,932, model 542 / 845 -> 526 / 828, invariants 1,673 / 5,576 -> 1,656 /
+5,486, assessed 654 -> 650, DFT literature 441, MP 1,218, OQMD 1,218; ESPEI 0.9.1 likelihood of all 8,256 datasets
+finite, none empty; `invariants/PD-TI/PdTi-11Guo.zpf-00.json` and `invariants/AL-S/AlS-19Shi.zpf-01.json` also left
+out (NaN / -inf in one of several repeated full evaluations);
+a temperature corrected on the page is written into the dataset. Dataset 6: item B034 of the blind expert sample (AU-LI p123 field 15) corrected to the expert's
+name β’+δ2 (`expert_reviewed`, machine name in `name_history`). Cu-Zr compound formation enthalpies (Zeng 1994 Table 1, Turchanin
+2008 Table 3 and text p. 435, checked on the page): the calorimetric values are at 298 K (stored 1123 K corrected),
+[46] values are derived at 1123 K from fcc-Cu and bcc-Zr (reference state corrected, not ESPEI-ready), values measured
+at another stoichiometry (Cu3Zr, Cu3Zr2, Cu4Zr, Cu9Zr2) flagged `stoichiometry_mismatch`, Zeng's 'measured' columns
+flagged as the same measurements Turchanin lists with printed sigmas (`related_records` both ways), CuZr and CuZr2
+flagged `mutually_inconsistent` (spread 15 kJ/mol-atom; scatter-aware sigma 8.7 / 3.5 kJ/mol-atom, never
+certified), 'T. p.' values `temperature_not_printed`, melting entropies recoded SM_FUSION at the printed melting
+temperatures. Compound pages: the energy-above-hull column is kJ/mol-atom (it was labelled eV/atom; an eV/atom column
+is added); the MCP server's `e_above_hull_eV` is converted. Merged duplicate readings keep the other spellings of a
+single phase (`label_variants`, used by the DFT parity match). DFT parity 7,696 points (MAE MP 10.8, OQMD 9.4
+kJ/mol-atom); Kim et al. 2017: 159 formulas, MAE 3.89.
+
 **Literature-level consistency gates (2026-10-23).** Every literature value was checked against its table, its
 paper, the physics of its quantity and the calculated SGTE diagrams of its system (12 gates, `tools/literature_gates.py`,
 literature/QUALITY_FIXES.md section 7). Corrections were made only where the evidence is printed (header, caption,

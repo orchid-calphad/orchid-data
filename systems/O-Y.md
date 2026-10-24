@@ -1,10 +1,10 @@
 # O–Y system
 
-> O–Y system: 20 accepted literature values (invariant reaction 12, phase transition 6, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Y system: 21 accepted literature values (invariant reaction 12, phase transition 6, other property 2, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-Y.html · Markdown: https://data.orchid-project.org/systems/O-Y.md
 
-20 accepted literature values from 2 paper(s) (experimental 10, model 10); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+21 accepted literature values from 3 paper(s) (experimental 10, model 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-Y.json) · [CSV](https://data.orchid-project.org/systems/O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-Y) · [phases (10)](https://data.orchid-project.org/phases/pages/O-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-Y.html) · [Markdown](https://data.orchid-project.org/systems/O-Y.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
-| model | 10 |
+| model | 11 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 6 |
+| formation | 1 |
 | other property | 2 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-Y.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-Y.json) · [CALPHAD hull YO-04Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-04Che.json) · [CALPHAD hull YO-05Che](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-05Che.json) · [CALPHAD hull YO-07Dju](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-07Dju.json) · [CALPHAD hull YO-96Gro](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-96Gro.json) · [CALPHAD hull YO-98Swa-LB](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-98Swa-LB.json) · [CALPHAD hull YO-98Swa-orig](https://data.orchid-project.org/hulls/calphad-sgte/O/O-Y--YO-98Swa-orig.json)
@@ -43,6 +44,16 @@ Table: Invariant reactions reported in the literature for the O–Y system (12)
 | 1453 | eutectoid: b-Y -> a-Y + a-Y2O3 |  | model | [2] Swamy 1998 | p. 2 | “A eutectoid reaction b-Y5a-Y1a-Y 2 O 3 at 18.060.5 at.% oxygen and 1453 K, and a eutectic reaction liquid5b-Y1a-Y 2 O 3 at 37.461.0 at.% oxygen and 1833 K have been established \[11,12\].” |
 | 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | model | [1] Djurovic 2007 | Table 2, p. 6, row 1 |  |
 | 1453 | eutectoid: β-Y\* -> α-Y + gα-Y2O3 | β-Y: O 0.18; gα-Y2O3: O 0.6, Y 0.4 | experimental | [1] Djurovic 2007; _cites Tucker 1964_ | Table 2, p. 6, row 2 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, O–Y system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| C-Y2O3 | [Y2O3](https://data.orchid-project.org/compounds/Y2O3.html) | -386.56 kJ/mol-atom | 298.15 | model | -383.134 (mp-aaaaadya) | -367.434 (oqmd-3427) | [3] ZINKEVICH 2007 | Table 6.1, p. 24, row 7 |  |
 
 ## Other properties
 
@@ -74,6 +85,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Dejan Djurovic, Matvei Zinkevich, Fritz Aldinger, Thermodynamic modeling of the yttrium–oxygen system, Calphad 31, 560-566 (2007). [doi:10.1016/j.calphad.2007.01.010](https://doi.org/10.1016/j.calphad.2007.01.010)
 2. Varghese Swamy, Hans J. Seifert, Fritz Aldinger, Thermodynamic properties of Y2O3 phases and the yttrium–oxygen phase diagram, Journal of Alloys and Compounds 269, 201-207 (1998). [doi:10.1016/s0925-8388(98)00245-x](https://doi.org/10.1016/s0925-8388%2898%2900245-x)
+3. M ZINKEVICH, Thermodynamics of rare earth sesquioxides, Progress in Materials Science 52, 597-647 (2007). [doi:10.1016/j.pmatsci.2006.09.002](https://doi.org/10.1016/j.pmatsci.2006.09.002)
 
 ## Please cite
 

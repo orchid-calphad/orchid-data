@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Nb6Sn5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22 kJ/mol (basis unstated) | Nb6Sn5 | 298 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
+| -22 kJ/mol (basis unstated) | Nb6Sn5 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
 | -2.653 kJ/mol (basis unstated) | Nb6Sn5 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 2, p. 1, row 2 |  |
 
 ## Sources

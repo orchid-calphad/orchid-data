@@ -150,7 +150,15 @@
     "id": "ORC-KDZLFFSARW",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157373",
-    "measured_in": "doi:10.1016/j.jallcom.2020.157373"
+    "measured_in": "doi:10.1016/j.jallcom.2020.157373",
+    "also_reported_as": [
+     {
+      "id": "ORC-CCHTTBCJDT",
+      "paper": "doi:10.1007/s11669-022-00950-z",
+      "measured_in": "doi:10.1016/j.jallcom.2020.157373",
+      "dataset": "invariants/CU-TE/CuTe-22Yu.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-LK3I3DYKIP",
@@ -160,13 +168,18 @@
    }
   ],
   "papers": [
-   "doi:10.1016/j.jallcom.2020.157373"
+   "doi:10.1016/j.jallcom.2020.157373",
+   "doi:10.1007/s11669-022-00950-z",
+   "doi:10.1023/a:1024003932461"
   ],
   "dois": [
-   "10.1016/j.jallcom.2020.157373"
+   "10.1007/s11669-022-00950-z",
+   "10.1016/j.jallcom.2020.157373",
+   "10.1023/a:1024003932461"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuTe-21Hua/zpf-01.json",
-  "values_dropped": 3
+  "values_dropped": 3,
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

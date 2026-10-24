@@ -354,7 +354,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr system (20
 | 1145.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 47 |  |
 | 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 46 |  |
 | 1143.15 | eutectoid: bcc_A2 = γ\_L + AlCr2 | γ\_L: Al 0.615385, Cr 0.384615; AlCr2: Al 0.333333, Cr 0.666667 | experimental | [2] Cui 2017 | Table 1, p. 3, row 51 |  |
-| 1139.3 | eutectic: bcc-A2 -> Al8Cr5-L + AlCr2 | bcc-A2: Cr 0.633; Al8Cr5-L: Cr 0.385; AlCr2: Cr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 9 |  |
+| 1139.3 | eutectoid: bcc-A2 -> Al8Cr5-L + AlCr2 | bcc-A2: Cr 0.633; Al8Cr5-L: Cr 0.385; AlCr2: Cr 0.667 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 9 |  |
 | 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 11 |  |
 | 1108.15 | peritectic: Liquid + Al11Cr2 = Al7Cr | Al11Cr2: Al 0.846154, Cr 0.153846; Al7Cr: Al 0.875, Cr 0.125 | experimental | [2] Cui 2017; _cites Du 2005_ [doi](https://doi.org/10.1007/s10853-005-6525-0) | Table 1, p. 3, row 14 |  |
 | 1108 | peritectic: L + Cr2Al11 ⇄ CrAl7 | L: Cr 0.031; Cr2Al11: Cr 0.127; CrAl7: Cr 0.124 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 51 |  |

@@ -16,13 +16,13 @@ Table: Enthalpy of formation of NiSc2 reported in the literature (9)
 |---:|---|---:|---|---|---|---|---|---|
 | -20 kJ/mol-atom | NiSc2 | 298.15 | experimental | Thermal analysis | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 20 |  |
 | -20 kJ/mol-atom | Sc2Ni | 298.15 | experimental | TA | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 19 |  |
-| -41 kJ/mol-atom | Sc2Ni | 298 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 20 |  |
+| -41 kJ/mol-atom | Sc2Ni | 298.15 | model | Miedema model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites F 1988_ | Table 2, p. 3, row 20 |  |
 | -41 kJ/mol-atom | NiSc2 | 298.15 | model | Prediction (Miedema model) | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 17 |  |
 | -27.429 kJ/mol-atom | NiSc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 18 |  |
-| -26.817 kJ/mol-atom | Sc2Ni | 298 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 21 |  |
+| -26.817 kJ/mol-atom | Sc2Ni | 298.15 | model | Redich–Kister model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 21 |  |
 | -26.5 kJ/mol-atom | NiSc2 | 298.15 | model | Optimization | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [1] Kardellass 2013 | Table 2, p. 3, row 19 |  |
-| -25.888 kJ/mol-atom | Sc2Ni | 298 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 22 |  |
-| -24.976 kJ/mol-atom | Sc2Ni | 298 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015 | Table 2, p. 3, row 23 |  |
+| -25.888 kJ/mol-atom | Sc2Ni | 298.15 | model | Kaptay model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 2, p. 3, row 22 |  |
+| -24.976 kJ/mol-atom | Sc2Ni | 298.15 | model | Associate model | [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.html) | [2] Zhu 2015 | Table 2, p. 3, row 23 |  |
 
 ## DFT formation energies
 
@@ -30,10 +30,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of NiSc2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabxjhl | -34.396 | -0.356487 | Fd-3m | 0 | no |
-| OQMD | oqmd-1369418 | -36.147 | -0.374638 | Pnma | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabxjhl | -34.396 | -0.356487 | Fd-3m | 0 | 0 | no |
+| OQMD | oqmd-1369418 | -36.147 | -0.374638 | Pnma | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

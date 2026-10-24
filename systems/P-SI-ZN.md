@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/P-SI-ZN.html · Markdown: https://data.orchid-project.org/systems/P-SI-ZN.md
 
-36 accepted literature values from 1 paper(s) (experimental 22, model 8, DFT 2, unspecified 4); 0 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 1 paper(s) (experimental 22, model 8, DFT 2, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-SI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-SI-ZN.md)
 
@@ -33,14 +33,14 @@ Table: Enthalpies of formation, P–Si–Zn system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -30.3678 kJ/mol-atom | 298 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| ZnP2 |  | -127.4 kJ/mol (basis unstated) ± 7.5 | 298 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
-| ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| ZnP2 |  | -92.9282 kJ/mol (basis unstated) | 298 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
-| ZnSiP2 |  | -171.658 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
-| ZnSiP2 |  | -153.168 kJ/mol (basis unstated) | 298 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
-| ZnSiP2 |  | -108.618 kJ/mol (basis unstated) | 298 | DFT |  |  | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
-| ZnSiP2 |  | -75.165 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -30.3678 kJ/mol-atom | 298.15 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
+| ZnP2 |  | -127.4 kJ/mol (basis unstated) ± 7.5 | 298.15 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
+| ZnP2 |  | -92.9282 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
+| ZnSiP2 |  | -171.658 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
+| ZnSiP2 |  | -153.168 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
+| ZnSiP2 |  | -108.618 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
+| ZnSiP2 |  | -75.165 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Korb 1976_ [doi](https://doi.org/10.1002/zaac.19764250313) | Table 4, p. 6, row 11 |  |
 
 ## Other properties
 
@@ -62,13 +62,13 @@ Table: Formation, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔfG298_ | -31.7414 kJ/mol-atom | 298 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -122.9 kJ/mol (basis unstated) ± 5.5 | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -126.2 kJ/mol (basis unstated) | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -118.032 kJ/mol (basis unstated) | 298 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -129.89 kJ/mol (basis unstated) | 298 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | experimental | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -176.593 kJ/mol (basis unstated) | 298 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | model | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -168.87 kJ/mol (basis unstated) | 298 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | DFT | [1] Liu 2016; _cites Kumar 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.08.025) | Table 4, p. 6, row 14 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -31.7414 kJ/mol-atom | 298.15 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -122.9 kJ/mol (basis unstated) ± 5.5 | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -126.2 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -118.032 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -129.89 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | experimental | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -176.593 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | model | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -168.87 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | DFT | [1] Liu 2016; _cites Kumar 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.08.025) | Table 4, p. 6, row 14 |  |
 
 ### Crystal structure (16)
 

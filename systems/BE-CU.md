@@ -94,7 +94,7 @@ Table: Enthalpies of formation, Be–Cu system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -9.29 kJ/mol-atom | 298 | model |  |  | [1] Liu 2018 | p. 9 | “The calculated enthalpy of formation for c (bcc_B2) phase at 298 K using the present thermodynamic parameters is - 9.29 kJ/mol of atom, which is in a good agreement with the DFT calculated value, - 9.88 kJ/mol of atom.” |
+| — |  | -9.29 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2018 | p. 9 | “The calculated enthalpy of formation for c (bcc_B2) phase at 298 K using the present thermodynamic parameters is - 9.29 kJ/mol of atom, which is in a good agreement with the DFT calculated value, - 9.88 kJ/mol of atom.” |
 
 ## Other properties
 

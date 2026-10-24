@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NiB reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -50.2 kJ/mol (basis unstated) ± 6.3 | NiB | 298 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
+| -50.2 kJ/mol (basis unstated) ± 6.3 | NiB | 298.15 | experimental |  | [B–Ni](https://data.orchid-project.org/systems/B-NI.html) | [1] Campbell 1999; _cites Gorelkin 1972_ | Table 8, p. 8, row 2 |  |
 
 ## Sources
 

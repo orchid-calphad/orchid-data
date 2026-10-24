@@ -7,7 +7,6 @@
  "phases": [
   "CU10ZR7",
   "CU51ZR14",
-  "CU5ZR_C15B",
   "CU8ZR3",
   "LIQUID"
  ],
@@ -15,7 +14,6 @@
   "P": 101325,
   "T": [
    1185.0,
-   1277.0,
    1240.0
   ]
  },
@@ -38,44 +36,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU5ZR_C15B",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.191026
     ]
    ]
   ],
@@ -125,7 +85,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3QG5VGDKV ORC-BXTPTL5YXZ ORC-YVEONHASBD",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3QG5VGDKV ORC-YVEONHASBD",
  "bibtex": "liu2017_f53fe1",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -133,11 +93,6 @@
   "observations": [
    {
     "id": "ORC-C3QG5VGDKV",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0522-2"
-   },
-   {
-    "id": "ORC-BXTPTL5YXZ",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0522-2"
    },
@@ -156,7 +111,7 @@
    "10.1016/j.jallcom.2007.01.173"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-17Liu/zpf-01.json",
-  "values_dropped": 4
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -166,10 +121,6 @@
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
     "temperature_sigma_K": 3.0,
     "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    },
    {
     "sigma": null,
@@ -190,11 +141,6 @@
   "values": [
    {
     "id": "ORC-C3QG5VGDKV",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-BXTPTL5YXZ",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

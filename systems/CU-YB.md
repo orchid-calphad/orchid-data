@@ -72,7 +72,7 @@ Table: Invariant reactions reported in the literature for the Cu–Yb system (16
 | 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.6839; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | model | [1] Zhang 2007 | Table 4, p. 5, row 9 |  |
 | 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.7; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 10 |  |
 | 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | unspecified | [1] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2 |  |
-| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) | L: Cu 0 | model | [1] Zhang 2007 | Table 4, p. 5, row 1 |  |
+| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | model | [1] Zhang 2007 | Table 4, p. 5, row 1 |  |
 | 1030 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.64; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 8 |  |
 | 1028 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.6208; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | model | [1] Zhang 2007 | Table 4, p. 5, row 7 |  |
 | 901 | peritectic: L + Cu2Yb -> CuYb | L: Cu 0.49; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 6 |  |

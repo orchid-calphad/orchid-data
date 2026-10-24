@@ -1,10 +1,10 @@
 # Ni–W system
 
-> Ni–W system: 28 accepted literature values (heat capacity / entropy / enthalpy 12, invariant reaction 12, formation 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–W system: 26 accepted literature values (heat capacity / entropy / enthalpy 12, invariant reaction 10, formation 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-W.html · Markdown: https://data.orchid-project.org/systems/NI-W.md
 
-28 accepted literature values from 2 paper(s) (experimental 13, model 15); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+26 accepted literature values from 2 paper(s) (experimental 12, model 14); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-W.json) · [CSV](https://data.orchid-project.org/systems/NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-W/NiW-08Pop.json) · [phases (9)](https://data.orchid-project.org/phases/pages/NI-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-W.html) · [Markdown](https://data.orchid-project.org/systems/NI-W.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 15 |
+| experimental | 12 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 10 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 12 |
 
@@ -73,14 +73,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–W system (12)
+Table: Invariant reactions reported in the literature for the Ni–W system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1773 | eutectic |  | experimental | [1] Kaufman 1975 | p. 6 | “By contrast, the experimental reaction at I773K is reported to be a eutectic with the liquid composition at 79.3 a/o Ni.” |
 | 1770 | peritectic |  | model | [1] Kaufman 1975 | p. 3 | “In particular, the calculated diagram shows a peritectic at 1770K between the liquid, bcc and fcc phases at nickel concentrations of 84, 1 and 82 atomic per cent respectively.” |
-| 1748 | bcc/fcc/liq./μ-phase | bcc: W 5.97 (basis unresolved); fcc: W 21.82 (basis unresolved); L: W 26.32 (basis unresolved); μ-phase: W 67.71 (basis unresolved) | model | [2] Guillermet 1986 | Table Xll, p. 13, row 2 |  |
-| 1728 | bcc(W)/fcc/liq./μ-phase | bcc(W): W 27.5 (basis unresolved); fcc: W 25.5 (basis unresolved); L: W 30 (basis unresolved); μ-phase: W 42.5 (basis unresolved) | experimental | [2] Guillermet 1986; _cites Winkler 1932_ [doi](https://doi.org/10.1002/srin.193200334) | Table Xll, p. 13, row 3 |  |
 | 1340.7 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | model | [2] Guillermet 1986 | Table X, p. 9, row 3 |  |
 | 1325 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Hofmann 1983_ | Table X, p. 9, row 2 |  |
 | 1303 | NiW -> fcc + bcc(W) | NiW: Ni 0.5, W 0.5 | experimental | [2] Guillermet 1986; _cites Walsh 1973_ [doi](https://doi.org/10.1007/bf02644589) | Table X, p. 9, row 1 |  |

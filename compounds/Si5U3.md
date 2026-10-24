@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Si5U3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.26 kJ/mol-atom | U3Si5 | 298 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
-| -42.9 kJ/mol-atom | U3Si5 | 298 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
+| -44.26 kJ/mol-atom | U3Si5 | 298.15 | model | Estimation | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
+| -42.9 kJ/mol-atom | U3Si5 | 298.15 | model | Modelling | [Si–U](https://data.orchid-project.org/systems/SI-U.html) | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
 
 ## Sources
 

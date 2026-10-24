@@ -1,10 +1,10 @@
 # Al–Cr–Ni system
 
-> Al–Cr–Ni system: 30 accepted literature values (formation 18, activity / EMF / Gibbs energy 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Ni system: 29 accepted literature values (activity / EMF / Gibbs energy 12, formation 12, invariant reaction 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-NI.html · Markdown: https://data.orchid-project.org/systems/AL-CR-NI.md
 
-30 accepted literature values from 1 paper(s) (experimental 9, model 21); 0 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 11, model 18); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-NI.md)
 
@@ -12,21 +12,34 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 21 |
+| experimental | 11 |
+| model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 18 |
+| invariant reaction | 5 |
+| formation | 12 |
 | activity / EMF / Gibbs energy | 12 |
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Al–Cr–Ni system (5)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1622 | liq. + γ' -> γ + β | liq.: Cr 0.045, Ni 0.719; γ': Cr 0.029, Ni 0.737; γ: Cr 0.042, Ni 0.754; β: Cr 0.024, Ni 0.692 | model | [1] Dupin 2001 | Table 2, p. 10, row 1 |  |
+| 1593 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 4 |  |
+| 1573 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 55Kor_ | Table 2, p. 10, row 5 |  |
+| 1556 | liq -> γ + β + α | γ: Cr 0.362, Ni 0.509; β: Cr 0.145, Ni 0.552; α: Cr 0.799, Ni 0.169; liq.: Cr 0.325, Ni 0.501 | model | [1] Dupin 2001 | Table 2, p. 10, row 3 |  |
+| 1269 | γ + β -> γ' + α | γ: Cr 0.281, Ni 0.602; β: Cr 0.096, Ni 0.598; γ': Cr 0.108, Ni 0.68; α: Cr 0.963, Ni 0.035 | model | [1] Dupin 2001 | Table 2, p. 10, row 6 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Cr–Ni system (18)
+Table: Enthalpies of formation, Al–Cr–Ni system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -37,16 +50,10 @@ Table: Enthalpies of formation, Al–Cr–Ni system (18)
 | γ' |  | -34.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 5 |  |
 | γ' |  | -32.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 9 |  |
 | γ' + γ |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 2 |  |
-| γ' + γ |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 2 |  |
-| γ' + γ |  | -35 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 6 |  |
 | γ' + γ |  | -35 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 6 |  |
 | γ' + γ |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 10 |  |
-| γ' + γ |  | -32.8 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 10 |  |
-| γ' + γ + α |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 3 |  |
 | γ' + γ + α |  | -36.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 3 |  |
 | γ' + γ + α |  | -35.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 7 |  |
-| γ' + γ + α |  | -35.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 7 |  |
-| γ' + γ + α |  | -34 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 11 |  |
 | γ' + γ + α |  | -34 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Dupin 2001 | Table 4, p. 17, row 11 |  |
 
 ## Other properties

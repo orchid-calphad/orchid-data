@@ -1,22 +1,20 @@
 # Hf3Nb: enthalpy of formation
 
-> Enthalpy of formation of Hf3Nb: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Hf3Nb: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Hf3Nb.html · Markdown: https://data.orchid-project.org/compounds/Hf3Nb.md
 
-5 accepted literature formation-enthalpy value(s) (DFT 5).
+3 accepted literature formation-enthalpy value(s) (DFT 3).
 
 Systems: [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Hf3Nb reported in the literature (5)
+Table: Enthalpy of formation of Hf3Nb reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 4.04 kJ/mol (basis unstated) | Hf3Nb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| 4.04 kJ/mol (basis unstated) | Hf₃Nb (DO₁₉) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| 11.499 kJ/mol (basis unstated) | Hf₃Nb (DO₁₉) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | 11.499 kJ/mol (basis unstated) | Hf3Nb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | 13.243 kJ/mol (basis unstated) | Hf3Nb (DO3) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
 

@@ -108,7 +108,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-na:liquid)
 
 Names (5): _corpus: _corpus:phase:al-na:liquid  
-_paper: _paper:10.1016/j.jallcom.2005.10.002:Liquid1, paper:10.1016/j.jallcom.2005.10.002:Liquid2, paper:10.1016/j.jallcom.2005.10.002:liquid1  
+_paper: _paper:10.1016/j.jallcom.2005.10.002:Liquid1, paper:10.1016/j.jallcom.2005.10.002:Liquid2, paper:10.1016/j.jallcom.2005.10.002:liquid2  
 _tdb: _tdb:AlNa-06Zha.tdb:LIQUID  
 
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/O-TM.html · Markdown: https:
 
 5 phases (tier A 1, tier C 2, liquid 1, gas 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=O-TM) · [full JSON](https://data.orchid-project.org/phases/systems/O-TM.json) · [Markdown](https://data.orchid-project.org/phases/pages/O-TM.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=O-TM) · [full JSON](https://data.orchid-project.org/phases/systems/O-TM.json) · [O–Tm system page](https://data.orchid-project.org/systems/O-TM.html) · [Markdown](https://data.orchid-project.org/phases/pages/O-TM.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the O–Tm system (5)
 

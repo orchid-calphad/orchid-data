@@ -13,7 +13,7 @@ Table: Phases of the Al–Zn system (4)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-al-zn-bcc-a2); _phase:al-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 4 calculated diagram(s): 2473.75–2500 K, x(Zn) 0–0.01517 | 0 | 4 |
-| [FCC_A1](#phase-al-zn-fcc-a1); _phase:al-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–933.47 K, x(Zn) 0–0.74215 | 48 | 5 |
+| [FCC_A1](#phase-al-zn-fcc-a1); _phase:al-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–933.47 K, x(Zn) 0–0.74215 | 46 | 5 |
 | [HCP_A3](#phase-al-zn-hcp-a3); _phase:al-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1467.6 K, x(Zn) 0.94777–1 | 39 | 5 |
 | [LIQUID](#phase-al-zn-liquid); _phase:al-zn:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 653.07–2500 K, x(Zn) 0–1 | 17 | 5 |
 
@@ -71,7 +71,7 @@ _assessment that models this phase_
 - Id: `phase:al-zn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–933.47 K, x(Zn) 0–0.74215
-- Literature: 48 values (42 accepted) from 2 papers
+- Literature: 46 values (40 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zn:fcc-a1)
 
 Names (11): _corpus: _corpus:phase:al-zn:fcc-a1  
@@ -116,7 +116,7 @@ _tdb: _tdb:AlZn-00Mat.tdb:FCC_A1, tdb:AlZn-20Din-3g.tdb:FCC_A1, tdb:AlZn-86Mey.t
 26: CONST FCC_A1 : AL ZN : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0364-5916(01)00004-9](https://doi.org/10.1016/S0364-5916%2801%2900004-9) M. Mathon, K. Jardet, E. Aragon, P. Satre, A. Sebaoun, Calphad, 24, 253-84(2000).  
 _assessment that models this phase; reports values for this phase_
@@ -124,8 +124,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101723](https://doi.org/10.1016/j.calphad.2019.101723) Alan Dinsdale, Ondrej Zobac, Ales Kroupa, Alexandra Khvan, Use of third generation data for the elements to model the thermodynamics of binary alloy systems: Part 1 – The critical assessment of data for the Al-Zn system, Calphad 68, 101723 (2020).  
 _assessment that models this phase_
-- [doi:10.1016/0001-6160(67)90153-8](https://doi.org/10.1016/0001-6160%2867%2990153-8) L.E Larsson, Pre-precipitation and precipitation phenomena in the Al-Zn system, Acta Metallurgica 15, 35-44 (1967).  
-_cited as the source of values for this phase_
 - [doi:10.1039/ct8977100383](https://doi.org/10.1039/ct8977100383) Charles Thomas Heycock, Francis Henry Neville, XXXIX.—The freezing points of alloys containing zinc and another metal, J. Chem. Soc., Trans. 71, 383-422 (1897).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1936-281-1269](https://doi.org/10.1515/ijmr-1936-281-1269) Hermann Auer, Karl Ernst Mann, Magnetische Untersuchung des Systems Zink-Aluminium, International Journal of Materials Research 28, 323-328 (1936).  

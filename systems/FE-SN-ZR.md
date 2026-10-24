@@ -1,10 +1,10 @@
 # Fe–Sn–Zr system
 
-> Fe–Sn–Zr system: 45 accepted literature values (mixing / partial 25, formation 16, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sn–Zr system: 43 accepted literature values (mixing / partial 25, formation 14, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SN-ZR.html · Markdown: https://data.orchid-project.org/systems/FE-SN-ZR.md
 
-45 accepted literature values from 1 paper(s) (model 40, DFT 1, unspecified 4); 0 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (model 38, DFT 1, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-SN-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 40 |
+| model | 38 |
 | DFT | 1 |
 | unspecified | 4 |
 
@@ -21,20 +21,18 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 4 |
-| formation | 16 |
+| formation | 14 |
 | mixing / partial | 25 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Sn–Zr system (16)
+Table: Enthalpies of formation, Fe–Sn–Zr system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Fe17.39Sn43.47Zr39.13 (X'') |  | -41.28 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 12 |  |
-| Fe17.39Sn43.47Zr39.13 (X'') |  | -39.86 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 5 |  |
-| Fe17.39Sn43.47Zr39.13 (X″) |  | -41.28 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 12 |  |
 | Fe17.39Sn43.47Zr39.13 (X″) |  | -39.86 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 5 |  |
 | Fe17.65Sn39.22Zr43.13 (X') |  | -47.605 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 6 |  |
 | Fe36.36Sn36.36Zr27.27 (N) |  | -28.97 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 1 |  |

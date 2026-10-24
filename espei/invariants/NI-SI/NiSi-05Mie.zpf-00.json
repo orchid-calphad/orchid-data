@@ -16,7 +16,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1416.15,
    1443.15,
    1488.15,
    1515.15,
@@ -26,35 +25,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.214
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "SI"
-    ],
-    [
-     0.158
-    ]
-   ],
-   [
-    "NI3SI_H",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -209,18 +179,12 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZECPSOTC7X ORC-4IMCJWZSCL ORC-FDVSBDUJAH ORC-KEKSFMSMLG ORC-AXUYKKNWXW ORC-OG7TST7KZC",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4IMCJWZSCL ORC-FDVSBDUJAH ORC-KEKSFMSMLG ORC-AXUYKKNWXW ORC-OG7TST7KZC",
  "bibtex": "oyand_ebdcbf",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-ZECPSOTC7X",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2005.08.001",
-    "measured_in": "doi:10.1515/ijmr-1983-740105"
-   },
    {
     "id": "ORC-4IMCJWZSCL",
     "reader_agreement": "multi_reader",
@@ -264,15 +228,11 @@
    "10.1515/ijmr-1983-740105"
   ],
   "source_dataset": "db-v2.1/invariants/espei/NiSi-05Mie/zpf-00.json",
-  "values_dropped": 1
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -304,13 +264,8 @@
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": false,
-  "n_certified": 4,
+  "n_certified": 3,
   "values": [
-   {
-    "id": "ORC-ZECPSOTC7X",
-    "espei_certified": true,
-    "calphad_check": "agrees"
-   },
    {
     "id": "ORC-4IMCJWZSCL",
     "espei_certified": true,

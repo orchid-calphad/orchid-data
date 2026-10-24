@@ -1,10 +1,10 @@
 # Cr–Ni system
 
-> Cr–Ni system: 23 accepted literature values (phase transition 12, invariant reaction 11) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ni system: 18 accepted literature values (phase transition 12, invariant reaction 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NI.html · Markdown: https://data.orchid-project.org/systems/CR-NI.md
 
-23 accepted literature values from 2 paper(s) (experimental 11, model 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+18 accepted literature values from 2 paper(s) (experimental 9, model 9); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NI.json) · [CSV](https://data.orchid-project.org/systems/CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NI/CrNi-06Hal.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NI.html) · [Markdown](https://data.orchid-project.org/systems/CR-NI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 12 |
+| experimental | 9 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 11 |
+| invariant reaction | 6 |
 | phase transition | 12 |
 
 ## Calculated phase diagrams
@@ -67,21 +67,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ni system (11)
+Table: Invariant reactions reported in the literature for the Cr–Ni system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1622 | liq. + γ' -> γ + β | liq.: Cr 0.045, Ni 0.719; γ': Cr 0.029, Ni 0.737; γ: Cr 0.042, Ni 0.754; β: Cr 0.024, Ni 0.692 | model | [1] Dupin 2001 | Table 2, p. 10, row 1 |  |
-| 1618 | eutectic |  | model | [2] Hao 2021 | p. 18 | “The calculated eutectic temperature is 1618 K, which agrees with the reported value in literature \[158,159\].” |
-| 1618 | eutectic |  | experimental | [2] Hao 2021; _cites Jenkins 1937_ | p. 13 | “From Fig. 12, it is obvious that the Cr-Ni phase diagram is characterized by a eutectic reaction that occurs at 1618 K \[158,159\]. The equilibrium composition for the liquid, bcc, and fcc phases are 0.46, 0.38, and 0.50 at.% Ni, respectively \[12\].” |
-| 1613 | liq. + γ' -> γ + β |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 2 |  |
-| 1593 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 4 |  |
-| 1573 | liq -> γ + β + α |  | experimental | [1] Dupin 2001; _cites ref. 55Kor_ | Table 2, p. 10, row 5 |  |
-| 1556 | liq -> γ + β + α | γ: Cr 0.362, Ni 0.509; β: Cr 0.145, Ni 0.552; α: Cr 0.799, Ni 0.169; liq.: Cr 0.325, Ni 0.501 | model | [1] Dupin 2001 | Table 2, p. 10, row 3 |  |
-| 1273 | γ + β -> γ' + α |  | experimental | [1] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 7 |  |
-| 1269 | γ + β -> γ' + α | γ: Cr 0.281, Ni 0.602; β: Cr 0.096, Ni 0.598; γ': Cr 0.108, Ni 0.68; α: Cr 0.963, Ni 0.035 | model | [1] Dupin 2001 | Table 2, p. 10, row 6 |  |
-| 1263 | γ + β -> γ' + α |  | experimental | [1] Dupin 2001; _cites ref. 82Tu_ | Table 2, p. 10, row 8 |  |
-| 611 | peritectic |  | model | [2] Hao 2021 | p. 13 | “The predicted peritectic temperature (611 K) is in accordance with that evaluated by Nash \[156\].” |
+| 1618 | eutectic |  | model | [1] Hao 2021 | p. 18 | “The calculated eutectic temperature is 1618 K, which agrees with the reported value in literature \[158,159\].” |
+| 1618 | eutectic |  | experimental | [1] Hao 2021; _cites Jenkins 1937_ | p. 13 | “From Fig. 12, it is obvious that the Cr-Ni phase diagram is characterized by a eutectic reaction that occurs at 1618 K \[158,159\]. The equilibrium composition for the liquid, bcc, and fcc phases are 0.46, 0.38, and 0.50 at.% Ni, respectively \[12\].” |
+| 1613 | liq. + γ' -> γ + β |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 2 |  |
+| 1273 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 52Tay_ | Table 2, p. 10, row 7 |  |
+| 1263 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 82Tu_ | Table 2, p. 10, row 8 |  |
+| 611 | peritectic |  | model | [1] Hao 2021 | p. 13 | “The predicted peritectic temperature (611 K) is in accordance with that evaluated by Nash \[156\].” |
 
 ## Other properties
 
@@ -91,25 +86,25 @@ Table: Phase transition, Cr–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 257 K | 257 | magnetic | model | [2] Hao 2021 | p. 13 | “Meanwhile, because of the magnetic transition, a Nishizawa horn \[157\] appears at 257 K in Fig. 12.” |
-| Phase transition | 633 K | 633 | magnetic | experimental | [2] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | p. 11 | “From the magnetization vs. T curve, Crangle and Hallam \[114\] extrapolated the Curie temperature of fcc Ni as 633 K.” |
-| Phase transition | 807 K | 807 | CrNi2 | model | [2] Hao 2021; _cites Turchi 2005_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
-| Phase transition | 820 K | 820 | CrNi2 | model | [2] Hao 2021; _cites Chan 2039_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
-| Phase transition | 863 K | 863 | other | model | [2] Hao 2021 | p. 18 | “According to our calculation, the CrNi2 phase forms from a peritectoid reaction at 863 K.” |
-| Phase transition | 1873 K | 1873 |  | experimental | [2] Hao 2021; _cites Umino 1926_ | p. 10 | “The heat capacity data above 1873 K in the study of Umino \[97\] are less reliable since the purity of the sample is low (95.39 wt.%), and the melting point of bcc Cr is highly underestimated (1873 K).” |
-| Phase transition | 1873 K | 1873 | bcc + liquid | experimental | [2] Hao 2021; _cites Umino 1926_ | p. 16 | “These two data points from the work of Umino \[97\] are not reliable since the melting point of Cr was highly underestimated as 1873 K.” |
-| Phase transition | 2136 K | 2136 | bcc + liquid | model | [2] Hao 2021 | p. 8 | “To better reproduce experimental phase equilibria data in Cr-containing binary or even high-order systems during future thermodynamic assessments, the value 2136 K was adopted as the melting point for bcc Cr in this work.” |
-| Phase transition | 2136 K | 2136 | liquid | model | [2] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
-| Phase transition | 2136 K | 2136 | liquid | experimental | [2] Hao 2021; _cites Hultgren 1973_ | p. 8 | “Therefore, they suggested to adopt a lower value, 2136 K \[37,52\], for the melting point of Cr.” |
-| Phase transition | 2180 K | 2180 | liquid | model | [2] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
-| Phase transition | 2180 K | 2180 | liquid | experimental | [2] Hao 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “The SGTE database \[9\] accepted the melting point of Cr to be 2180 K, as recommended by Gurvich et al. \[47\].” |
+| Phase transition | 257 K | 257 | magnetic | model | [1] Hao 2021 | p. 13 | “Meanwhile, because of the magnetic transition, a Nishizawa horn \[157\] appears at 257 K in Fig. 12.” |
+| Phase transition | 633 K | 633 | magnetic | experimental | [1] Hao 2021; _cites Crangle 1963_ [doi](https://doi.org/10.1098/rspa.1963.0045) | p. 11 | “From the magnetization vs. T curve, Crangle and Hallam \[114\] extrapolated the Curie temperature of fcc Ni as 633 K.” |
+| Phase transition | 807 K | 807 | CrNi2 | model | [1] Hao 2021; _cites Turchi 2005_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
+| Phase transition | 820 K | 820 | CrNi2 | model | [1] Hao 2021; _cites Chan 2039_ | p. 12 | “However, the predicted formation temperatures of the CrNi2 phase (807 K and 820 K in the work \[150\] and \[151\], respectively) are inconsistent due to the difference in the calculated formation energy.” |
+| Phase transition | 863 K | 863 | other | model | [1] Hao 2021 | p. 18 | “According to our calculation, the CrNi2 phase forms from a peritectoid reaction at 863 K.” |
+| Phase transition | 1873 K | 1873 |  | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 10 | “The heat capacity data above 1873 K in the study of Umino \[97\] are less reliable since the purity of the sample is low (95.39 wt.%), and the melting point of bcc Cr is highly underestimated (1873 K).” |
+| Phase transition | 1873 K | 1873 | bcc + liquid | experimental | [1] Hao 2021; _cites Umino 1926_ | p. 16 | “These two data points from the work of Umino \[97\] are not reliable since the melting point of Cr was highly underestimated as 1873 K.” |
+| Phase transition | 2136 K | 2136 | bcc + liquid | model | [1] Hao 2021 | p. 8 | “To better reproduce experimental phase equilibria data in Cr-containing binary or even high-order systems during future thermodynamic assessments, the value 2136 K was adopted as the melting point for bcc Cr in this work.” |
+| Phase transition | 2136 K | 2136 | liquid | model | [1] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
+| Phase transition | 2136 K | 2136 | liquid | experimental | [1] Hao 2021; _cites Hultgren 1973_ | p. 8 | “Therefore, they suggested to adopt a lower value, 2136 K \[37,52\], for the melting point of Cr.” |
+| Phase transition | 2180 K | 2180 | liquid | model | [1] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
+| Phase transition | 2180 K | 2180 | liquid | experimental | [1] Hao 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “The SGTE database \[9\] accepted the melting point of Cr to be 2180 K, as recommended by Gurvich et al. \[47\].” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001). [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9)
-2. Liangyan Hao, Andrei Ruban, Wei Xiong, CALPHAD modeling based on Gibbs energy functions from zero kevin and improved magnetic model: A case study on the Cr–Ni system, Calphad 73, 102268 (2021). [doi:10.1016/j.calphad.2021.102268](https://doi.org/10.1016/j.calphad.2021.102268)
+1. Liangyan Hao, Andrei Ruban, Wei Xiong, CALPHAD modeling based on Gibbs energy functions from zero kevin and improved magnetic model: A case study on the Cr–Ni system, Calphad 73, 102268 (2021). [doi:10.1016/j.calphad.2021.102268](https://doi.org/10.1016/j.calphad.2021.102268)
+2. N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001). [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9)
 
 ## Please cite
 

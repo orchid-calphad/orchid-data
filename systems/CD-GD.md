@@ -190,21 +190,21 @@ Table: Enthalpies of formation, Cd–Gd system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cd3Gd | [Cd3Gd](https://data.orchid-project.org/compounds/Cd3Gd.html) | -37.17 kJ/mol-atom | 298 | model | -27.075 (mp-aaaabgtm) | -29.172 (oqmd-11027) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 6 |  |
-| Cd3Gd | [Cd3Gd](https://data.orchid-project.org/compounds/Cd3Gd.html) | -36.07 kJ/mol-atom | 298 | model | -27.075 (mp-aaaabgtm) | -29.172 (oqmd-11027) | [1] Azza 2024 | Table 4, p. 7, row 7 |  |
-| Cd45Gd11 |  | -33.1 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 8 |  |
-| Cd45Gd11 |  | -30.41 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 9 |  |
-| Cd58Gd13 |  | -31.92 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 10 |  |
+| Cd3Gd | [Cd3Gd](https://data.orchid-project.org/compounds/Cd3Gd.html) | -37.17 kJ/mol-atom | 298.15 | model | -27.075 (mp-aaaabgtm) | -29.172 (oqmd-11027) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 6 |  |
+| Cd3Gd | [Cd3Gd](https://data.orchid-project.org/compounds/Cd3Gd.html) | -36.07 kJ/mol-atom | 298.15 | model | -27.075 (mp-aaaabgtm) | -29.172 (oqmd-11027) | [1] Azza 2024 | Table 4, p. 7, row 7 |  |
+| Cd45Gd11 |  | -33.1 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 8 |  |
+| Cd45Gd11 |  | -30.41 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 9 |  |
+| Cd58Gd13 |  | -31.92 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 10 |  |
 | Cd6Gd |  | -28.2 kJ/mol-atom | 728 | experimental |  |  | [1] Azza 2024; _cites Roshchina 1981_ | Table 4, p. 7, row 11 |  |
-| Cd6Gd |  | -26.78 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 13 |  |
-| Cd6Gd |  | -24.73 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 14 |  |
-| Cd6Gd |  | -22.9 kJ/mol-atom | 298 | unspecified |  |  | [1] Azza 2024 | Table 4, p. 7, row 12 |  |
-| Cd8Gd |  | -19.56 kJ/mol-atom | 298 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 15 |  |
-| CdGd | [CdGd](https://data.orchid-project.org/compounds/CdGd.html) | -60.83 kJ/mol-atom | 298 | model | -33.296 (mp-aaaaabnr) | -31.478 (oqmd-55278) | [1] Azza 2024 | Table 4, p. 7, row 2 |  |
-| CdGd | [CdGd](https://data.orchid-project.org/compounds/CdGd.html) | -55.65 kJ/mol-atom | 298 | model | -33.296 (mp-aaaaabnr) | -31.478 (oqmd-55278) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 1 |  |
-| α-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -43.89 kJ/mol-atom | 298 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024 | Table 4, p. 7, row 5 |  |
-| α-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -42.96 kJ/mol-atom | 298 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 4 |  |
-| β-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -43.88 kJ/mol-atom | 298 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024 | Table 4, p. 7, row 3 |  |
+| Cd6Gd |  | -26.78 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 13 |  |
+| Cd6Gd |  | -24.73 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 14 |  |
+| Cd6Gd |  | -22.9 kJ/mol-atom | 298.15 | unspecified |  |  | [1] Azza 2024 | Table 4, p. 7, row 12 |  |
+| Cd8Gd |  | -19.56 kJ/mol-atom | 298.15 | model |  |  | [1] Azza 2024 | Table 4, p. 7, row 15 |  |
+| CdGd | [CdGd](https://data.orchid-project.org/compounds/CdGd.html) | -60.83 kJ/mol-atom | 298.15 | model | -33.296 (mp-aaaaabnr) | -31.478 (oqmd-55278) | [1] Azza 2024 | Table 4, p. 7, row 2 |  |
+| CdGd | [CdGd](https://data.orchid-project.org/compounds/CdGd.html) | -55.65 kJ/mol-atom | 298.15 | model | -33.296 (mp-aaaaabnr) | -31.478 (oqmd-55278) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 1 |  |
+| α-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -43.89 kJ/mol-atom | 298.15 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024 | Table 4, p. 7, row 5 |  |
+| α-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -42.96 kJ/mol-atom | 298.15 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 4 |  |
+| β-Cd2Gd | [Cd2Gd](https://data.orchid-project.org/compounds/Cd2Gd.html) | -43.88 kJ/mol-atom | 298.15 | model | -31.052 (mp-aaaabfaj) | -32.441 (oqmd-11026) | [1] Azza 2024 | Table 4, p. 7, row 3 |  |
 
 ## Other properties
 

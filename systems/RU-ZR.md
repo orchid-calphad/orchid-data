@@ -95,8 +95,8 @@ Table: Enthalpies of formation, Ru–Zr system (14)
 | Ru2Zr |  | -31.97 kJ/mol (basis unstated) | 1743 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 14 |  |
 | RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7 |  |
 | RuZr |  | -88 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5 |  |
-| RuZr |  | -68.7 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
-| RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
+| RuZr |  | -68.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
+| RuZr |  | -68.65 kJ/mol (basis unstated) ± 2.5 | 298.15 | experimental |  |  | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
 | RuZr |  | -61 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Watson 1988_ [doi](https://doi.org/10.1016/s0036-9748%2888%2980148-0) | Table 1, p. 2, row 4 |  |
 | RuZr |  | -55.95 kJ/mol (basis unstated) | 1753 | model |  |  | [1] Idbenali 2007 | Table 1, p. 2, row 9 |  |
 | RuZr |  | -55.8 kJ/mol (basis unstated) |  | model |  |  | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 8 |  |

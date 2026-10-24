@@ -1,10 +1,10 @@
 # Al–Ni–Pr system
 
-> Al–Ni–Pr system: 94 accepted literature values (formation 53, invariant reaction 37, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–Pr system: 70 accepted literature values (invariant reaction 37, formation 29, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-PR.html · Markdown: https://data.orchid-project.org/systems/AL-NI-PR.md
 
-94 accepted literature values from 1 paper(s) (experimental 2, model 70, DFT 22); 0 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 2, model 56, DFT 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-PR.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 70 |
-| DFT | 22 |
+| model | 56 |
+| DFT | 12 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 37 |
 | phase transition | 4 |
-| formation | 53 |
+| formation | 29 |
 
 ## Invariant reactions (literature)
 
@@ -72,31 +72,22 @@ Table: Invariant reactions reported in the literature for the Al–Ni–Pr syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ni–Pr system (53)
+Table: Enthalpies of formation, Al–Ni–Pr system (29)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ni2Al3Pr |  | -62.41 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 14 |  |
 | Ni2Al3Pr |  | -61.34 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 11 |  |
 | Ni2Al3Pr |  | -58.17 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 12 |  |
 | Ni2Al3Pr |  | -57.21 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 13 |  |
 | Ni2Al5Pr |  | -57.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 4 |  |
-| Ni2Al5Pr |  | -56.44 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 5 |  |
 | Ni2Al5Pr |  | -52.5 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 6 |  |
 | Ni2Al5Pr |  | -49.56 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 3 |  |
-| Ni2Al7Pr |  | -40.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 2 |  |
 | Ni2Al7Pr |  | -40.61 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 1 |  |
 | Ni2AlPr2 |  | -56.01 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 29 |  |
 | Ni2AlPr2 |  | -54.19 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 26 |  |
 | Ni2AlPr2 |  | -40.48 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27 |  |
-| Ni2AlPr2 |  | -38.37 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28 |  |
-| Ni8AlPr3 |  | -38.59 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 20 |  |
-| Ni8AlPr3 |  | -37.18 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 18 |  |
 | Ni8AlPr3 |  | -30.96 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 19 |  |
-| NiAl2Pr |  | -66.32 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 15 |  |
-| NiAl2Pr |  | -66.21 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 17 |  |
 | NiAl2Pr |  | -55.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16 |  |
-| NiAl4Pr |  | -52.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 8 |  |
 | NiAl4Pr |  | -51.83 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 9 |  |
 | NiAl4Pr |  | -49.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 10 |  |
 | NiAl4Pr |  | -49.71 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 7 |  |
@@ -107,28 +98,13 @@ Table: Enthalpies of formation, Al–Ni–Pr system (53)
 | NiAlPr |  | -46.54 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 24 |  |
 | NiAl₂Pr |  | -66.32 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 15 |  |
 | NiAl₂Pr |  | -66.21 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 17 |  |
-| NiAl₂Pr |  | -55.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16 |  |
 | NiAl₄Pr |  | -52.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 8 |  |
-| NiAl₄Pr |  | -51.83 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 9 |  |
-| NiAl₄Pr |  | -49.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 10 |  |
-| NiAl₄Pr |  | -49.71 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 7 |  |
-| Ni₂AlPr₂ |  | -56.01 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 29 |  |
-| Ni₂AlPr₂ |  | -54.19 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 26 |  |
-| Ni₂AlPr₂ |  | -40.48 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 27 |  |
 | Ni₂AlPr₂ |  | -38.37 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 28 |  |
 | Ni₂Al₃Pr |  | -62.41 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 14 |  |
-| Ni₂Al₃Pr |  | -61.34 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 11 |  |
-| Ni₂Al₃Pr |  | -58.17 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 12 |  |
-| Ni₂Al₃Pr |  | -57.21 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 13 |  |
-| Ni₂Al₅Pr |  | -57.02 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Kirklin 2015_ | Table 4, p. 6, row 4 |  |
 | Ni₂Al₅Pr |  | -56.44 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 5 |  |
-| Ni₂Al₅Pr |  | -52.5 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 6 |  |
-| Ni₂Al₅Pr |  | -49.56 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 3 |  |
 | Ni₂Al₇Pr |  | -40.91 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 2 |  |
-| Ni₂Al₇Pr |  | -40.61 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 1 |  |
 | Ni₈AlPr₃ |  | -38.59 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 20 |  |
 | Ni₈AlPr₃ |  | -37.18 kJ/mol-atom |  | model |  |  | [1] Liao 2019 | Table 4, p. 6, row 18 |  |
-| Ni₈AlPr₃ |  | -30.96 kJ/mol-atom |  | DFT |  |  | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 19 |  |
 
 ## Other properties
 

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfC0.6 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -140.9 kJ/mol (basis unstated) | HfC0.6 | 298 | experimental | Combustion calorimetry of Hf oxycarbides | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| -140.9 kJ/mol (basis unstated) | HfC0.6 | 298.15 | experimental | Combustion calorimetry of Hf oxycarbides | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
 
 ## Sources
 

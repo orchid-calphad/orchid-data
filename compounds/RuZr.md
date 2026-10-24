@@ -14,8 +14,8 @@ Table: Enthalpy of formation of RuZr reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -68.7 kJ/mol (basis unstated) | RuZr | 298 | experimental | Calorimetry | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
-| -68.65 kJ/mol (basis unstated) ± 2.5 | RuZr | 298 | experimental | Calorimetry | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
+| -68.7 kJ/mol (basis unstated) | RuZr | 298.15 | experimental | Calorimetry | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Topor 1988_ [doi](https://doi.org/10.1007/bf02628390) | Table 1, p. 2, row 6 |  |
+| -68.65 kJ/mol (basis unstated) ± 2.5 | RuZr | 298.15 | experimental | Calorimetry | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Topor 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990449-9) | Table 1, p. 2, row 2 |  |
 | -55.8 kJ/mol (basis unstated) ± 2.3 | RuZr | 1753 | experimental | Calorimetry | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Mahdouk 1997_ [doi](https://doi.org/10.1016/s0966-9795%2896%2900069-6) | Table 1, p. 2, row 1 |  |
 | -88 kJ/mol (basis unstated) | RuZr |  | model | Calculation | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites Guo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900956-2) | Table 1, p. 2, row 7 |  |
 | -88 kJ/mol (basis unstated) | RuZr |  | model | Calculation | [Ru–Zr](https://data.orchid-project.org/systems/RU-ZR.html) | [1] Idbenali 2007; _cites F 1988_ | Table 1, p. 2, row 5 |  |

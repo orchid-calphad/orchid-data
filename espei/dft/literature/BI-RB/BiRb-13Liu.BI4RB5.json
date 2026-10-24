@@ -40,8 +40,8 @@
  "reference": "Dziri 2022, doi:10.1007/s11669-022-00968-3",
  "bibtex": "dziri2022_7a1c7b",
  "weight": [
-  0.072443,
-  0.072443
+  0.074019,
+  0.074019
  ],
  "tags": [
   "dft_literature",
@@ -92,7 +92,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 6902.0,
+    "sigma": 6755.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -100,16 +100,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "BI-RB",
-     "n": 90,
-     "sigma_robust_kJ": 6.902,
-     "bias_median_kJ_not_applied": 0.577,
+     "n": 83,
+     "sigma_robust_kJ": 6.755,
+     "bias_median_kJ_not_applied": 0.302,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.381,
-      8.734
+      4.683,
+      9.095
      ],
-     "n_full_stratum": 100
+     "n_full_stratum": 93
     },
-    "weight_used": 0.072443,
+    "weight_used": 0.074019,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -37.795,
@@ -119,7 +119,7 @@
     "compound": "Bi4Rb5"
    },
    {
-    "sigma": 6902.0,
+    "sigma": 6755.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -127,16 +127,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "BI-RB",
-     "n": 90,
-     "sigma_robust_kJ": 6.902,
-     "bias_median_kJ_not_applied": 0.577,
+     "n": 83,
+     "sigma_robust_kJ": 6.755,
+     "bias_median_kJ_not_applied": 0.302,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.381,
-      8.734
+      4.683,
+      9.095
      ],
-     "n_full_stratum": 100
+     "n_full_stratum": 93
     },
-    "weight_used": 0.072443,
+    "weight_used": 0.074019,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -34.693,

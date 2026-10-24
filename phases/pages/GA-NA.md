@@ -202,7 +202,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-na:liquid)
 
 Names (4): _corpus: _corpus:phase:ga-na:liquid  
-_paper: _paper:10.1016/j.jcrysgro.2007.05.044:Liquid, paper:10.1016/j.jcrysgro.2007.05.044:Liquid1  
+_paper: _paper:10.1016/j.jcrysgro.2007.05.044:Liquid, paper:10.1016/j.jcrysgro.2007.05.044:Liquid2  
 _tdb: _tdb:GaNa-07Wan.tdb:LIQUID  
 
 

@@ -105,8 +105,8 @@ _assessment that models this phase_
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-na:liquid)
 
-Names (5): _corpus: _corpus:phase:ca-na:liquid  
-_paper: _paper:10.1016/j.calphad.2003.09.001:Liquid1, paper:10.1016/j.calphad.2003.09.001:Liquid2, paper:10.1016/j.calphad.2003.09.001:liquid2  
+Names (4): _corpus: _corpus:phase:ca-na:liquid  
+_paper: _paper:10.1016/j.calphad.2003.09.001:Liquid2, paper:10.1016/j.calphad.2003.09.001:liquid2  
 _tdb: _tdb:CaNa-03Zha.tdb:LIQUID  
 
 

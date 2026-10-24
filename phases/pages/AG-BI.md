@@ -14,9 +14,9 @@ Table: Phases of the Ag–Bi system (5)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-ag-bi-a7-rhombohedral); _phase:ag-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 1–1 | 2 | 3 |
 | [BCC_A2](#phase-ag-bi-bcc-a2); _phase:ag-bi:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 4 | 3 |
-| [FCC_A1](#phase-ag-bi-fcc-a1); _phase:ag-bi:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1243.59 K, x(Bi) 0–0.0287 | 11 | 3 |
+| [FCC_A1](#phase-ag-bi-fcc-a1); _phase:ag-bi:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1243.59 K, x(Bi) 0–0.0287 | 0 | 3 |
 | [HCP_A3](#phase-ag-bi-hcp-a3); _phase:ag-bi:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LIQUID](#phase-ag-bi-liquid); _phase:ag-bi:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 534.75–2500 K, x(Bi) 0–1 | 11 | 3 |
+| [LIQUID](#phase-ag-bi-liquid); _phase:ag-bi:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 534.75–2500 K, x(Bi) 0–1 | 0 | 3 |
 
 ## RHOMBOHEDRAL_A7 (Ag–Bi)
 
@@ -114,11 +114,10 @@ _reports values for this phase_
 - Id: `phase:ag-bi:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1243.59 K, x(Bi) 0–0.0287
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-bi:fcc-a1)
 
-Names (5): _corpus: _corpus:phase:ag-bi:fcc-a1  
-_paper: _paper:10.1111/j.1151-2916.1999.tb01821.x:(Ag)  
+Names (4): _corpus: _corpus:phase:ag-bi:fcc-a1  
 _tdb: _tdb:AgBi-94Kat.tdb:FCC_A1, tdb:AgBi-98Luk-LB.tdb:FCC_A1, tdb:AgBi-99Ass.tdb:FCC_A1  
 
 
@@ -147,9 +146,9 @@ _tdb: _tdb:AgBi-94Kat.tdb:FCC_A1, tdb:AgBi-98Luk-LB.tdb:FCC_A1, tdb:AgBi-99Ass.t
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02653345](https://doi.org/10.1007/BF02653345) U.R. Kattner, W.J. Boettinger, J. Electron. Mater., 23, 603-10(1994).  
+_assessment that models this phase_
+- [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
 _assessment that models this phase_
 
 ## HCP_A3 (Ag–Bi)
@@ -199,11 +198,10 @@ _assessment that models this phase_
 - Id: `phase:ag-bi:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 534.75–2500 K, x(Bi) 0–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-bi:liquid)
 
-Names (5): _corpus: _corpus:phase:ag-bi:liquid  
-_paper: _paper:10.1111/j.1151-2916.1999.tb01821.x:L2  
+Names (4): _corpus: _corpus:phase:ag-bi:liquid  
 _tdb: _tdb:AgBi-94Kat.tdb:LIQUID, tdb:AgBi-98Luk-LB.tdb:LIQUID, tdb:AgBi-99Ass.tdb:LIQUID  
 
 
@@ -232,9 +230,9 @@ _tdb: _tdb:AgBi-94Kat.tdb:LIQUID, tdb:AgBi-98Luk-LB.tdb:LIQUID, tdb:AgBi-99Ass.t
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02653345](https://doi.org/10.1007/BF02653345) U.R. Kattner, W.J. Boettinger, J. Electron. Mater., 23, 603-10(1994).  
+_assessment that models this phase_
+- [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
 _assessment that models this phase_
 
 ## Please cite

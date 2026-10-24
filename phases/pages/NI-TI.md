@@ -14,18 +14,18 @@ Table: Phases of the Ni–Ti system (14)
 |---|---|---|---|---:|---:|
 | [BCC_4SL](#phase-ni-ti-bcc-4sl); _phase:ni-ti:bcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2499.72 K, x(Ti) 0.4478–1 | 0 | 1 |
 | [BCC_A2](#phase-ni-ti-bcc-a2); _phase:ni-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 13 of 22 calculated diagram(s): 1036.31–2499.91 K, x(Ti) 0.88033–1 | 8 | 22 |
-| [B2_BCC](#phase-ni-ti-bcc-b2); _phase:ni-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.93 K, x(Ti) 0.42452–1 | 37 | 9 |
+| [B2_BCC](#phase-ni-ti-bcc-b2); _phase:ni-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.93 K, x(Ti) 0.42452–1 | 28 | 9 |
 | [FCC_4SL](#phase-ni-ti-fcc-4sl); _phase:ni-ti:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1728.24 K, x(Ti) 0–0.15079 | 0 | 2 |
-| [FCC_A1](#phase-ni-ti-fcc-a1); _phase:ni-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 15 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698 | 3 | 15 |
+| [FCC_A1](#phase-ni-ti-fcc-a1); _phase:ni-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 15 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698 | 2 | 15 |
 | [HCP_A3](#phase-ni-ti-hcp-a3); _phase:ni-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1939.99 K, x(Ti) 0.9976–1 | 4 | 13 |
-| [LIQUID](#phase-ni-ti-liquid); _phase:ni-ti:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 1212.05–2500 K, x(Ti) 0–1 | 34 | 13 |
-| [NI3TI_D024](#phase-ni-ti-ni3ti-d024); _phase:ni-ti:ni3ti-d024_ | Ni3Ti · D0_24 · hP16 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–2500 K, x(Ti) 0.0776–0.262 | 24 | 13 |
+| [LIQUID](#phase-ni-ti-liquid); _phase:ni-ti:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 1212.05–2500 K, x(Ti) 0–1 | 23 | 13 |
+| [NI3TI_D024](#phase-ni-ti-ni3ti-d024); _phase:ni-ti:ni3ti-d024_ | Ni3Ti · D0_24 · hP16 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–2500 K, x(Ti) 0.0776–0.262 | 20 | 13 |
 | [NI3TI2](#phase-ni-ti-ni3ti2); _phase:ni-ti:ni3ti2_ | Ni8Ti5 · hR52 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [NI4TI3](#phase-ni-ti-ni4ti3); _phase:ni-ti:ni4ti3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [NITI_B19](#phase-ni-ti-niti-b19); _phase:ni-ti:niti-b19_ | AuCd · B19 · oP4 · Pmma (51) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–366.4 K, x(Ti) 0.5–0.50028 | 0 | 1 |
 | [NITI_B19P](#phase-ni-ti-niti-b19p); _phase:ni-ti:niti-b19p_ | NiTi · B19' · mP4 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–351.3 K, x(Ti) 0.5–0.50001 | 0 | 2 |
 | [NITI_B2](#phase-ni-ti-niti-b2); _phase:ni-ti:niti-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1584.59 K, x(Ti) 0.43263–0.53215 | 0 | 3 |
-| [NITI2](#phase-ni-ti-niti2); _phase:ni-ti:niti2_ |  | needs_review | stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704 | 23 | 13 |
+| [NITI2](#phase-ni-ti-niti2); _phase:ni-ti:niti2_ |  | needs_review | stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704 | 20 | 13 |
 
 ## BCC_4SL (Ni–Ti)
 
@@ -268,11 +268,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in NiTi-96Bel-LB.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiTi-99Tan.tdb also describes the disordered state
 - Stability: stable in 9 of 9 calculated diagram(s): 300–2499.93 K, x(Ti) 0.42452–1
-- Literature: 37 values (36 accepted) from 2 papers
+- Literature: 28 values (28 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:bcc-b2)
 
-Names (13): _corpus: _corpus:phase:ni-ti:bcc-b2, corpus:phase:ni-ti:b2-bcc  
-_paper: _paper:10.1007/s11669-018-0650-3:NiTi, paper:10.1016/j.jallcom.2014.08.200:NiTi  
+Names (12): _corpus: _corpus:phase:ni-ti:bcc-b2, corpus:phase:ni-ti:b2-bcc  
+_paper: _paper:10.1016/j.jallcom.2014.08.200:NiTi  
 _tdb: _tdb:NiTi-09Key.tdb:B2_BCC, tdb:NiTi-13Pov.tdb:B2_BCC, tdb:NiTi-15San.tdb:B2_BCC, tdb:NiTi-18Hua.tdb:B2_BCC, tdb:NiTi-21Jin.tdb:B2_BCC, tdb:NiTi-22Sun.tdb:B2_BCC, tdb:NiTi-92Sau.tdb:B2_BCC, tdb:NiTi-96Bel-LB.tdb:B2_BCC, tdb:NiTi-99Tan.tdb:B2_BCC  
 
 
@@ -346,7 +346,7 @@ Example references (10 of 11; assessments first):
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004) E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102256](https://doi.org/10.1016/j.calphad.2021.102256) B. Jin, X. Lu, S. Liu, K. Xu, Y. Du, S. Zhang, M. Chu, Calphad, 73, 102256(2021).  
@@ -400,11 +400,11 @@ _tdb: _tdb:NiTi-09Key.tdb:FCC_4SL, tdb:NiTi-14Hu.tdb:FCC_4SL
 - Id: `phase:ni-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 13 of 15 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:fcc-a1)
 
-Names (18): _corpus: _corpus:phase:ni-ti:fcc-a1  
-_paper: _paper:10.1007/s11669-018-0650-3:fcc, paper:10.1016/j.jallcom.2014.08.200:(γ-Ni)  
+Names (17): _corpus: _corpus:phase:ni-ti:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2014.08.200:(γ-Ni)  
 _tdb: _tdb:NiTi-04Tok.tdb:FCC_A1, tdb:NiTi-09Key.tdb:A1_FCC, tdb:NiTi-09Key.tdb:FCC_A1, tdb:NiTi-13Pov.tdb:FCC_A1, tdb:NiTi-14Hu.tdb:A1_FCC, tdb:NiTi-14Hu.tdb:FCC_A1, tdb:NiTi-15San.tdb:FCC_A1, tdb:NiTi-16Ber.tdb:FCC_A1, tdb:NiTi-18Hua.tdb:FCC_A1, tdb:NiTi-21Jin.tdb:FCC_A1, tdb:NiTi-22Sun.tdb:FCC_A1, tdb:NiTi-92Sau.tdb:FCC_A1, tdb:NiTi-95Oh.tdb:FCC_A1, tdb:NiTi-96Bel-LB.tdb:FCC_A1, tdb:NiTi-99Tan.tdb:FCC_A1  
 
 
@@ -520,7 +520,7 @@ Example references (9 of 9; assessments first):
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004) E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.06.002](https://doi.org/10.1016/j.calphad.2016.06.002) A. Berche, Calphad assessment of the Ni–Sn–Ti system, Calphad (2016).  
@@ -668,11 +668,11 @@ _assessment that models this phase_
 - Id: `phase:ni-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 13 of 13 calculated diagram(s): 1212.05–2500 K, x(Ti) 0–1
-- Literature: 34 values (33 accepted) from 4 papers
+- Literature: 23 values (23 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:liquid)
 
-Names (18): _corpus: _corpus:phase:ni-ti:liquid  
-_paper: _paper:10.1007/s11669-018-0650-3:L, paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/j.jallcom.2014.08.200:L, paper:10.1016/s1359-6454(99)00193-7:liquid  
+Names (17): _corpus: _corpus:phase:ni-ti:liquid  
+_paper: _paper:10.1016/j.calphad.2011.10.003:L, paper:10.1016/j.jallcom.2014.08.200:L, paper:10.1016/s1359-6454(99)00193-7:liquid  
 _tdb: _tdb:NiTi-04Tok.tdb:LIQUID, tdb:NiTi-09Key.tdb:LIQUID, tdb:NiTi-13Pov.tdb:LIQUID, tdb:NiTi-14Hu.tdb:LIQUID, tdb:NiTi-15San.tdb:LIQUID, tdb:NiTi-16Ber.tdb:LIQUID, tdb:NiTi-18Hua.tdb:LIQUID, tdb:NiTi-21Jin.tdb:LIQUID, tdb:NiTi-22Sun.tdb:LIQUID, tdb:NiTi-92Sau.tdb:LIQUID, tdb:NiTi-95Oh.tdb:LIQUID, tdb:NiTi-96Bel-LB.tdb:LIQUID, tdb:NiTi-99Tan.tdb:LIQUID  
 
 
@@ -773,10 +773,10 @@ Example references (10 of 10; assessments first):
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S1359-6454(99)00193-7](https://doi.org/10.1016/S1359-6454%2899%2900193-7) W. Tang, B. Sundman, R. Sandstrom, C. Qiu, Acta Mater., 47, 3457-68(1999).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004) E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.06.002](https://doi.org/10.1016/j.calphad.2016.06.002) A. Berche, Calphad assessment of the Ni–Sn–Ti system, Calphad (2016).  
@@ -808,11 +808,11 @@ _reports values for this phase_
 - Caveat: partitioned order/disorder model in NiTi-92Sau.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiTi-99Tan.tdb also describes the disordered state
 - Stability: stable in 13 of 13 calculated diagram(s): 300–2500 K, x(Ti) 0.0776–0.262
-- Literature: 24 values (24 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:ni3ti-d024)
 
-Names (16): _corpus: _corpus:phase:ni-ti:ni3ti-d024  
-_paper: _paper:10.1007/s11669-018-0650-3:Ni3Ti, paper:10.1016/j.jallcom.2014.08.200:Ni3Ti  
+Names (15): _corpus: _corpus:phase:ni-ti:ni3ti-d024  
+_paper: _paper:10.1016/j.jallcom.2014.08.200:Ni3Ti  
 _tdb: _tdb:NiTi-04Tok.tdb:NI3TI_D024, tdb:NiTi-09Key.tdb:NI3TI_D024, tdb:NiTi-13Pov.tdb:NI3TI_D024, tdb:NiTi-14Hu.tdb:NI3TI_D024, tdb:NiTi-15San.tdb:NI3TI_D024, tdb:NiTi-16Ber.tdb:NI3TI_D024, tdb:NiTi-18Hua.tdb:NI3TI_D024, tdb:NiTi-21Jin.tdb:NI3TI_D024, tdb:NiTi-22Sun.tdb:NI3TI_D024, tdb:NiTi-92Sau.tdb:NI3TI_D024, tdb:NiTi-95Oh.tdb:NI3TI_D024, tdb:NiTi-96Bel-LB.tdb:NI3TI_D024, tdb:NiTi-99Tan.tdb:NI3TI_D024  
 
 
@@ -914,7 +914,7 @@ Example references (10 of 13; assessments first):
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004) E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.06.002](https://doi.org/10.1016/j.calphad.2016.06.002) A. Berche, Calphad assessment of the Ni–Sn–Ti system, Calphad (2016).  
@@ -1108,11 +1108,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): NiTi2 · cF96 · Fd-3m — NiTi-15San.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'
 - Candidate (tdb_comment): NiTi2 · cF96 · Fd-3m — NiTi-16Ber.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'
 - Stability: stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704
-- Literature: 23 values (23 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:niti2)
 
-Names (16): _corpus: _corpus:phase:ni-ti:niti2  
-_paper: _paper:10.1007/s11669-018-0650-3:NiTi2, paper:10.1016/j.jallcom.2014.08.200:NiTi2  
+Names (15): _corpus: _corpus:phase:ni-ti:niti2  
+_paper: _paper:10.1016/j.jallcom.2014.08.200:NiTi2  
 _tdb: _tdb:NiTi-04Tok.tdb:NITI2, tdb:NiTi-09Key.tdb:NITI2, tdb:NiTi-13Pov.tdb:NITI2, tdb:NiTi-14Hu.tdb:NITI2, tdb:NiTi-15San.tdb:NITI2, tdb:NiTi-16Ber.tdb:NITI2, tdb:NiTi-18Hua.tdb:NITI2, tdb:NiTi-21Jin.tdb:NITI2, tdb:NiTi-22Sun.tdb:NITI2, tdb:NiTi-92Sau.tdb:NITI2, tdb:NiTi-95Oh.tdb:NITI2, tdb:NiTi-96Bel-LB.tdb:NITI2, tdb:NiTi-99Tan.tdb:NITI2  
 
 
@@ -1214,7 +1214,7 @@ Example references (10 of 12; assessments first):
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3) Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004) E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.06.002](https://doi.org/10.1016/j.calphad.2016.06.002) A. Berche, Calphad assessment of the Ni–Sn–Ti system, Calphad (2016).  

@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Si3Ta5 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.8 kJ/mol-atom ± 7.8 | Ta5Si3 (α) | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
-| -39.7 kJ/mol-atom | Ta5Si3 (α) | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
-| -38.1 kJ/mol-atom ± 1.7 | Ta5Si3 (α) | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
-| -37.7 kJ/mol-atom ± 4.7 | Ta5Si3 (α) | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
+| -41.8 kJ/mol-atom ± 7.8 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
+| -39.7 kJ/mol-atom | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
+| -38.1 kJ/mol-atom ± 1.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
+| -37.7 kJ/mol-atom ± 4.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
 | -56.2 kJ/mol-atom | Ta5Si3 (α) |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
 | -52.4 kJ/mol-atom | Ta5Si3 (β) |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
 | -52.3 kJ/mol-atom | Ta5Si3 (α) | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
@@ -32,10 +32,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Si3Ta5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacyn | -57.039 | -0.591172 | I4/mcm | 0 | no |
-| OQMD | oqmd-3573 | -59.481 | -0.616476 | I4/mcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacyn | -57.039 | -0.591172 | I4/mcm | 0 | 0 | no |
+| OQMD | oqmd-3573 | -59.481 | -0.616476 | I4/mcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

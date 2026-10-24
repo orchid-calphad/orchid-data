@@ -35,7 +35,7 @@
  "reference": "OQMD (Saal et al. 2013; Kirklin et al. 2015), doi:10.1007/s11837-013-0755-4, release qmdb_v1_8_022026",
  "bibtex": "saal2013_oqmd kirklin2015_oqmd",
  "weight": [
-  0.044464
+  0.046918
  ],
  "tags": [
   "dft_oqmd",
@@ -77,7 +77,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 11245.0,
+    "sigma": 10657.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "oqmd",
@@ -85,16 +85,16 @@
      "used": "stratum",
      "leave_system_out": true,
      "system_left_out": "RE-TI",
-     "n": 36,
-     "sigma_robust_kJ": 11.245,
-     "bias_median_kJ_not_applied": 5.135,
+     "n": 39,
+     "sigma_robust_kJ": 10.657,
+     "bias_median_kJ_not_applied": 5.307,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.908,
-      13.654
+      5.948,
+      13.112
      ],
-     "n_full_stratum": 36
+     "n_full_stratum": 39
     },
-    "weight_used": 0.044464,
+    "weight_used": 0.046918,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.231803820307977,

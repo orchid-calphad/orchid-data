@@ -373,7 +373,14 @@
    {
     "id": "ORC-DFSDS3PVTP",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-021-00906-9"
+    "paper": "doi:10.1007/s11669-021-00906-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-ODLM7TOJ7F",
+      "paper": "doi:10.1007/s11669-021-00906-9",
+      "dataset": "invariants/NI-SE/NiSe-21Zob.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -385,7 +392,7 @@
    "10.1007/s11669-021-00906-9"
   ],
   "source_dataset": "db-v2.1/invariants/espei/NiSe-21Zob/zpf-00.json",
-  "e3_merged": 1
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

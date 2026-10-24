@@ -25,7 +25,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ag–B](https://data.orchid-project.org/systems/AG-B.md): 5 values (experimental 3, model 2); invariant reaction 4, phase transition 1; 2 calculated diagram(s)
 - [Ag–Ba](https://data.orchid-project.org/systems/AG-BA.md): 0 values; 1 calculated diagram(s)
 - [Ag–Be](https://data.orchid-project.org/systems/AG-BE.md): 0 values; 1 calculated diagram(s)
-- [Ag–Bi](https://data.orchid-project.org/systems/AG-BI.md): 54 values (experimental 21, model 3, unspecified 30); crystal structure 29, invariant reaction 17, phase transition 8; 3 calculated diagram(s)
+- [Ag–Bi](https://data.orchid-project.org/systems/AG-BI.md): 33 values (experimental 3, unspecified 30); crystal structure 29, invariant reaction 2, phase transition 2; 3 calculated diagram(s)
 - [Ag–C](https://data.orchid-project.org/systems/AG-C.md): 0 values; 1 calculated diagram(s)
 - [Ag–Ca](https://data.orchid-project.org/systems/AG-CA.md): 95 values (experimental 65, model 21, unspecified 9); invariant reaction 46, phase transition 38, formation 7; 3 calculated diagram(s)
 - [Ag–Cd](https://data.orchid-project.org/systems/AG-CD.md): 0 values; 2 calculated diagram(s)
@@ -71,7 +71,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ag–Sn](https://data.orchid-project.org/systems/AG-SN.md): 19 values (experimental 10, model 9); invariant reaction 8, phase transition 7, formation 4; 10 calculated diagram(s)
 - [Ag–Sr](https://data.orchid-project.org/systems/AG-SR.md): 12 values (experimental 6, model 6); invariant reaction 8, phase transition 4; 1 calculated diagram(s)
 - [Ag–Tb](https://data.orchid-project.org/systems/AG-TB.md): 30 values (experimental 23, model 7); invariant reaction 27, phase transition 3; 1 calculated diagram(s)
-- [Ag–Te](https://data.orchid-project.org/systems/AG-TE.md): 25 values (experimental 11, model 14); invariant reaction 14, formation 10, phase transition 1; 4 calculated diagram(s)
+- [Ag–Te](https://data.orchid-project.org/systems/AG-TE.md): 26 values (experimental 12, model 14); invariant reaction 15, formation 10, phase transition 1; 4 calculated diagram(s)
 - [Ag–Ti](https://data.orchid-project.org/systems/AG-TI.md): 93 values (experimental 31, model 16, unspecified 46); crystal structure 44, invariant reaction 39, phase equilibrium 7; 4 calculated diagram(s)
 - [Ag–Tl](https://data.orchid-project.org/systems/AG-TL.md): 0 values; 1 calculated diagram(s)
 - [Ag–V](https://data.orchid-project.org/systems/AG-V.md): 0 values; 2 calculated diagram(s)
@@ -87,7 +87,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Ba](https://data.orchid-project.org/systems/AL-BA.md): 124 values (experimental 64, model 38, DFT 16, unspecified 6); invariant reaction 66, crystal structure 32, phase transition 17; 3 calculated diagram(s)
 - [Al–Be](https://data.orchid-project.org/systems/AL-BE.md): 5 values (experimental 4, model 1); activity / EMF / Gibbs energy 3, invariant reaction 2; 1 calculated diagram(s)
 - [Al–Bi](https://data.orchid-project.org/systems/AL-BI.md): 147 values (experimental 143, model 2, unspecified 2); phase equilibrium 113, activity / EMF / Gibbs energy 16, mixing / partial 14; 3 calculated diagram(s)
-- [Al–C](https://data.orchid-project.org/systems/AL-C.md): 75 values (experimental 39, model 33, DFT 3); formation 39, phase transition 26, invariant reaction 6; 6 calculated diagram(s)
+- [Al–C](https://data.orchid-project.org/systems/AL-C.md): 74 values (experimental 39, model 32, DFT 3); formation 39, phase transition 26, invariant reaction 5; 6 calculated diagram(s)
 - [Al–Ca](https://data.orchid-project.org/systems/AL-CA.md): 290 values (experimental 76, model 84, DFT 100, unspecified 30); formation 100, crystal structure 95, invariant reaction 62; 7 calculated diagram(s)
 - [Al–Cd](https://data.orchid-project.org/systems/AL-CD.md): 74 values (experimental 67, model 3, unspecified 4); phase equilibrium 32, phase transition 30, activity / EMF / Gibbs energy 7; 1 calculated diagram(s)
 - [Al–Ce](https://data.orchid-project.org/systems/AL-CE.md): 45 values (experimental 18, model 27); invariant reaction 24, phase transition 21; 4 calculated diagram(s)
@@ -105,16 +105,16 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Hg](https://data.orchid-project.org/systems/AL-HG.md): 49 values (experimental 49); phase equilibrium 48, phase transition 1; 1 calculated diagram(s)
 - [Al–Ho](https://data.orchid-project.org/systems/AL-HO.md): 0 values; 2 calculated diagram(s)
 - [Al–In](https://data.orchid-project.org/systems/AL-IN.md): 7 values (model 7); phase transition 4, invariant reaction 3; 3 calculated diagram(s)
-- [Al–Ir](https://data.orchid-project.org/systems/AL-IR.md): 127 values (experimental 47, model 44, DFT 32, unspecified 4); crystal structure 66, formation 28, invariant reaction 17; 4 calculated diagram(s)
+- [Al–Ir](https://data.orchid-project.org/systems/AL-IR.md): 128 values (experimental 47, model 45, DFT 32, unspecified 4); crystal structure 66, formation 29, invariant reaction 17; 4 calculated diagram(s)
 - [Al–K](https://data.orchid-project.org/systems/AL-K.md): 0 values; 1 calculated diagram(s)
 - [Al–La](https://data.orchid-project.org/systems/AL-LA.md): 78 values (experimental 33, model 43, DFT 2); invariant reaction 64, phase transition 10, formation 4; 4 calculated diagram(s)
-- [Al–Li](https://data.orchid-project.org/systems/AL-LI.md): 36 values (experimental 14, model 18, unspecified 4); invariant reaction 30, phase transition 6; 7 calculated diagram(s)
+- [Al–Li](https://data.orchid-project.org/systems/AL-LI.md): 37 values (experimental 14, model 18, unspecified 5); invariant reaction 31, phase transition 6; 7 calculated diagram(s)
 - [Al–Mg](https://data.orchid-project.org/systems/AL-MG.md): 162 values (experimental 10, model 26, DFT 110, unspecified 16); crystal structure 80, invariant reaction 31, mixing / partial 28; 10 calculated diagram(s)
-- [Al–Mn](https://data.orchid-project.org/systems/AL-MN.md): 134 values (experimental 47, model 76, unspecified 11); invariant reaction 86, formation 24, phase transition 24; 6 calculated diagram(s)
+- [Al–Mn](https://data.orchid-project.org/systems/AL-MN.md): 131 values (experimental 46, model 74, unspecified 11); invariant reaction 86, phase transition 24, formation 21; 6 calculated diagram(s)
 - [Al–Mo](https://data.orchid-project.org/systems/AL-MO.md): 239 values (experimental 100, model 72, unspecified 67); invariant reaction 117, crystal structure 38, formation 29; 6 calculated diagram(s)
 - [Al–N](https://data.orchid-project.org/systems/AL-N.md): 27 values (experimental 16, model 11); phase equilibrium 14, phase transition 10, activity / EMF / Gibbs energy 2; 4 calculated diagram(s)
 - [Al–Na](https://data.orchid-project.org/systems/AL-NA.md): 8 values (experimental 4, model 4); invariant reaction 8; 1 calculated diagram(s)
-- [Al–Nb](https://data.orchid-project.org/systems/AL-NB.md): 94 values (experimental 42, model 41, DFT 1, unspecified 10); invariant reaction 71, phase transition 18, phase equilibrium 3; 6 calculated diagram(s)
+- [Al–Nb](https://data.orchid-project.org/systems/AL-NB.md): 97 values (experimental 42, model 44, DFT 1, unspecified 10); invariant reaction 74, phase transition 18, phase equilibrium 3; 6 calculated diagram(s)
 - [Al–Nd](https://data.orchid-project.org/systems/AL-ND.md): 26 values (experimental 14, model 2, unspecified 10); invariant reaction 17, phase transition 5, other property 4; 7 calculated diagram(s)
 - [Al–Ni](https://data.orchid-project.org/systems/AL-NI.md): 194 values (experimental 86, model 98, DFT 3, unspecified 7); invariant reaction 110, formation 43, phase transition 23; 13 calculated diagram(s)
 - [Al–Np](https://data.orchid-project.org/systems/AL-NP.md): 0 values; 1 calculated diagram(s)
@@ -134,7 +134,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Si](https://data.orchid-project.org/systems/AL-SI.md): 11 values (experimental 4, model 7); invariant reaction 7, phase transition 4; 5 calculated diagram(s)
 - [Al–Sm](https://data.orchid-project.org/systems/AL-SM.md): 102 values (experimental 42, model 30, unspecified 30); invariant reaction 55, crystal structure 30, phase transition 12; 3 calculated diagram(s)
 - [Al–Sn](https://data.orchid-project.org/systems/AL-SN.md): 2 values (experimental 1, unspecified 1); invariant reaction 2; 3 calculated diagram(s)
-- [Al–Sr](https://data.orchid-project.org/systems/AL-SR.md): 163 values (experimental 53, model 30, DFT 80); formation 80, invariant reaction 78, phase transition 4; 4 calculated diagram(s)
+- [Al–Sr](https://data.orchid-project.org/systems/AL-SR.md): 126 values (experimental 53, model 30, DFT 43); invariant reaction 78, formation 43, phase transition 4; 4 calculated diagram(s)
 - [Al–Ta](https://data.orchid-project.org/systems/AL-TA.md): 236 values (experimental 147, model 54, DFT 1, unspecified 34); phase transition 72, invariant reaction 55, crystal structure 53; 4 calculated diagram(s)
 - [Al–Te](https://data.orchid-project.org/systems/AL-TE.md): 23 values (experimental 14, model 9); invariant reaction 17, formation 3, phase transition 3; 2 calculated diagram(s)
 - [Al–Th](https://data.orchid-project.org/systems/AL-TH.md): 30 values (experimental 2, model 14, unspecified 14); invariant reaction 30; 1 calculated diagram(s)
@@ -196,7 +196,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Au–Sb](https://data.orchid-project.org/systems/AU-SB.md): 56 values (experimental 36, model 20); invariant reaction 37, formation 18, phase transition 1; 5 calculated diagram(s)
 - [Au–Sc](https://data.orchid-project.org/systems/AU-SC.md): 0 values; 1 calculated diagram(s)
 - [Au–Si](https://data.orchid-project.org/systems/AU-SI.md): 17 values (experimental 15, model 2); phase transition 12, invariant reaction 5; 4 calculated diagram(s)
-- [Au–Sn](https://data.orchid-project.org/systems/AU-SN.md): 108 values (experimental 35, model 54, DFT 7, unspecified 12); invariant reaction 76, phase transition 20, formation 9; 7 calculated diagram(s)
+- [Au–Sn](https://data.orchid-project.org/systems/AU-SN.md): 103 values (experimental 35, model 53, DFT 3, unspecified 12); invariant reaction 76, phase transition 20, formation 7; 7 calculated diagram(s)
 - [Au–Tb](https://data.orchid-project.org/systems/AU-TB.md): 83 values (experimental 53, model 30); invariant reaction 68, phase transition 15; 2 calculated diagram(s)
 - [Au–Te](https://data.orchid-project.org/systems/AU-TE.md): 49 values (experimental 46, model 3); phase transition 22, crystal structure 12, invariant reaction 10; 2 calculated diagram(s)
 - [Au–Th](https://data.orchid-project.org/systems/AU-TH.md): 25 values (experimental 13, model 12); invariant reaction 25; 1 calculated diagram(s)
@@ -204,7 +204,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Au–Tl](https://data.orchid-project.org/systems/AU-TL.md): 5 values (experimental 3, model 2); invariant reaction 5; 1 calculated diagram(s)
 - [Au–Tm](https://data.orchid-project.org/systems/AU-TM.md): 22 values (experimental 11, model 11); invariant reaction 22; 1 calculated diagram(s)
 - [Au–Yb](https://data.orchid-project.org/systems/AU-YB.md): 0 values; 1 calculated diagram(s)
-- [Au–Zn](https://data.orchid-project.org/systems/AU-ZN.md): 46 values (experimental 24, model 22); invariant reaction 24, formation 14, phase transition 8; 1 calculated diagram(s)
+- [Au–Zn](https://data.orchid-project.org/systems/AU-ZN.md): 42 values (experimental 22, model 20); invariant reaction 24, formation 10, phase transition 8; 1 calculated diagram(s)
 - [Au–Zr](https://data.orchid-project.org/systems/AU-ZR.md): 0 values; 1 calculated diagram(s)
 - [B–C](https://data.orchid-project.org/systems/B-C.md): 15 values (experimental 6, model 5, DFT 1, unspecified 3); phase transition 9, invariant reaction 6; 5 calculated diagram(s)
 - [B–Ce](https://data.orchid-project.org/systems/B-CE.md): 117 values (experimental 63, model 39, DFT 4, unspecified 11); invariant reaction 76, phase transition 20, phase equilibrium 13
@@ -229,7 +229,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [B–Si](https://data.orchid-project.org/systems/B-SI.md): 56 values (experimental 33, model 16, unspecified 7); invariant reaction 31, activity / EMF / Gibbs energy 14, formation 11
 - [B–Ta](https://data.orchid-project.org/systems/B-TA.md): 82 values (experimental 36, model 32, DFT 7, unspecified 7); invariant reaction 65, formation 14, phase transition 3
 - [B–Ti](https://data.orchid-project.org/systems/B-TI.md): 141 values (experimental 70, model 50, DFT 13, unspecified 8); invariant reaction 61, formation 25, phase transition 21
-- [B–U](https://data.orchid-project.org/systems/B-U.md): 146 values (experimental 111, model 35); heat capacity / entropy / enthalpy 110, crystal structure 21, phase transition 15
+- [B–U](https://data.orchid-project.org/systems/B-U.md): 149 values (experimental 114, model 35); heat capacity / entropy / enthalpy 110, crystal structure 21, phase transition 18
 - [B–V](https://data.orchid-project.org/systems/B-V.md): 24 values (experimental 8, model 14, unspecified 2); phase transition 16, formation 6, other property 2
 - [B–W](https://data.orchid-project.org/systems/B-W.md): 197 values (experimental 105, model 39, unspecified 53); crystal structure 133, invariant reaction 24, formation 21
 - [B–Zn](https://data.orchid-project.org/systems/B-ZN.md): 1 values (model 1); phase transition 1
@@ -257,7 +257,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Be–Cu](https://data.orchid-project.org/systems/BE-CU.md): 37 values (experimental 19, model 11, unspecified 7); invariant reaction 27, crystal structure 7, phase transition 2; 1 calculated diagram(s)
 - [Be–Fe](https://data.orchid-project.org/systems/BE-FE.md): 1 values (unspecified 1); formation 1; 1 calculated diagram(s)
 - [Be–Hf](https://data.orchid-project.org/systems/BE-HF.md): 0 values; 1 calculated diagram(s)
-- [Be–Mo](https://data.orchid-project.org/systems/BE-MO.md): 12 values (model 8, DFT 4); formation 12; 1 calculated diagram(s)
+- [Be–Mo](https://data.orchid-project.org/systems/BE-MO.md): 10 values (model 6, DFT 4); formation 10; 1 calculated diagram(s)
 - [Be–Pu](https://data.orchid-project.org/systems/BE-PU.md): 0 values; 1 calculated diagram(s)
 - [Be–Si](https://data.orchid-project.org/systems/BE-SI.md): 0 values; 2 calculated diagram(s)
 - [Be–Ti](https://data.orchid-project.org/systems/BE-TI.md): 46 values (experimental 3, model 43); formation 33, crystal structure 10, phase transition 2; 1 calculated diagram(s)
@@ -270,7 +270,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.md): 27 values (experimental 18, model 9); invariant reaction 26, phase transition 1; 1 calculated diagram(s)
 - [Bi–Cu](https://data.orchid-project.org/systems/BI-CU.md): 1 values (model 1); phase transition 1; 2 calculated diagram(s)
 - [Bi–Dy](https://data.orchid-project.org/systems/BI-DY.md): 14 values (experimental 8, model 6); invariant reaction 12, phase transition 2; 1 calculated diagram(s)
-- [Bi–Er](https://data.orchid-project.org/systems/BI-ER.md): 120 values (experimental 35, model 76, DFT 2, unspecified 7); formation 56, invariant reaction 47, activity / EMF / Gibbs energy 12; 3 calculated diagram(s)
+- [Bi–Er](https://data.orchid-project.org/systems/BI-ER.md): 101 values (experimental 35, model 57, DFT 2, unspecified 7); invariant reaction 47, formation 37, activity / EMF / Gibbs energy 12; 3 calculated diagram(s)
 - [Bi–Fe](https://data.orchid-project.org/systems/BI-FE.md): 15 values (experimental 8, model 7); phase transition 8, invariant reaction 7; 1 calculated diagram(s)
 - [Bi–Ga](https://data.orchid-project.org/systems/BI-GA.md): 0 values; 1 calculated diagram(s)
 - [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.md): 26 values (experimental 6, model 13, DFT 1, unspecified 6); invariant reaction 22, formation 2, phase transition 2; 1 calculated diagram(s)
@@ -286,7 +286,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi–Mn](https://data.orchid-project.org/systems/BI-MN.md): 31 values (experimental 19, model 12); invariant reaction 26, phase transition 4, other property 1; 2 calculated diagram(s)
 - [Bi–Na](https://data.orchid-project.org/systems/BI-NA.md): 45 values (experimental 36, model 9); phase transition 19, formation 13, invariant reaction 12; 1 calculated diagram(s)
 - [Bi–Nd](https://data.orchid-project.org/systems/BI-ND.md): 23 values (experimental 14, model 9); invariant reaction 19, phase transition 3, activity / EMF / Gibbs energy 1; 2 calculated diagram(s)
-- [Bi–Ni](https://data.orchid-project.org/systems/BI-NI.md): 163 values (experimental 102, model 35, unspecified 26); invariant reaction 119, phase equilibrium 23, crystal structure 11; 7 calculated diagram(s)
+- [Bi–Ni](https://data.orchid-project.org/systems/BI-NI.md): 156 values (experimental 102, model 28, unspecified 26); invariant reaction 112, phase equilibrium 23, crystal structure 11; 7 calculated diagram(s)
 - [Bi–O](https://data.orchid-project.org/systems/BI-O.md): 86 values (experimental 77, model 8, unspecified 1); activity / EMF / Gibbs energy 38, invariant reaction 21, formation 13; 1 calculated diagram(s)
 - [Bi–Pb](https://data.orchid-project.org/systems/BI-PB.md): 26 values (experimental 17, model 9); invariant reaction 24, phase transition 2; 4 calculated diagram(s)
 - [Bi–Pd](https://data.orchid-project.org/systems/BI-PD.md): 2 values (experimental 2); invariant reaction 1, phase transition 1; 1 calculated diagram(s)
@@ -310,10 +310,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi–Yb](https://data.orchid-project.org/systems/BI-YB.md): 0 values; 2 calculated diagram(s)
 - [Bi–Zn](https://data.orchid-project.org/systems/BI-ZN.md): 31 values (experimental 13, model 13, unspecified 5); phase transition 16, invariant reaction 15; 5 calculated diagram(s)
 - [Bi–Zr](https://data.orchid-project.org/systems/BI-ZR.md): 0 values; 1 calculated diagram(s)
-- [C–Cr](https://data.orchid-project.org/systems/C-CR.md): 127 values (experimental 82, model 45); heat capacity / entropy / enthalpy 40, invariant reaction 32, activity / EMF / Gibbs energy 25
-- [C–Fe](https://data.orchid-project.org/systems/C-FE.md): 31 values (experimental 10, model 11, unspecified 10); invariant reaction 16, phase transition 15
+- [C–Cr](https://data.orchid-project.org/systems/C-CR.md): 123 values (experimental 80, model 43); heat capacity / entropy / enthalpy 36, invariant reaction 32, activity / EMF / Gibbs energy 25
+- [C–Fe](https://data.orchid-project.org/systems/C-FE.md): 27 values (experimental 10, model 11, unspecified 6); phase transition 15, invariant reaction 12
 - [C–H](https://data.orchid-project.org/systems/C-H.md): 0 values; 1 calculated diagram(s)
-- [C–Hf](https://data.orchid-project.org/systems/C-HF.md): 59 values (experimental 31, model 16, unspecified 12); invariant reaction 23, formation 19, crystal structure 7
+- [C–Hf](https://data.orchid-project.org/systems/C-HF.md): 53 values (experimental 25, model 16, unspecified 12); invariant reaction 23, formation 13, crystal structure 7
 - [C–Li](https://data.orchid-project.org/systems/C-LI.md): 2 values (model 1, unspecified 1); heat capacity / entropy / enthalpy 2
 - [C–Mn](https://data.orchid-project.org/systems/C-MN.md): 106 values (experimental 41, model 44, DFT 21); invariant reaction 49, formation 31, crystal structure 23
 - [C–N](https://data.orchid-project.org/systems/C-N.md): 0 values; 1 calculated diagram(s)
@@ -323,13 +323,13 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [C–P](https://data.orchid-project.org/systems/C-P.md): 0 values; 1 calculated diagram(s)
 - [C–Pd](https://data.orchid-project.org/systems/C-PD.md): 2 values (experimental 1, model 1); invariant reaction 2
 - [C–Pr](https://data.orchid-project.org/systems/C-PR.md): 3 values (model 3); invariant reaction 3
-- [C–Pu](https://data.orchid-project.org/systems/C-PU.md): 92 values (experimental 42, model 32, unspecified 18); heat capacity / entropy / enthalpy 58, formation 34
+- [C–Pu](https://data.orchid-project.org/systems/C-PU.md): 59 values (experimental 29, model 18, unspecified 12); heat capacity / entropy / enthalpy 36, formation 23
 - [C–Si](https://data.orchid-project.org/systems/C-SI.md): 13 values (experimental 4, model 6, unspecified 3); heat capacity / entropy / enthalpy 9, invariant reaction 4
 - [C–Ta](https://data.orchid-project.org/systems/C-TA.md): 9 values (experimental 5, model 4); invariant reaction 6, phase transition 3
 - [C–Ti](https://data.orchid-project.org/systems/C-TI.md): 57 values (experimental 23, model 30, unspecified 4); formation 27, invariant reaction 19, phase transition 6
-- [C–U](https://data.orchid-project.org/systems/C-U.md): 1514 values (experimental 921, model 591, unspecified 2); heat capacity / entropy / enthalpy 1095, phase equilibrium 223, formation 96
+- [C–U](https://data.orchid-project.org/systems/C-U.md): 1327 values (experimental 854, model 471, unspecified 2); heat capacity / entropy / enthalpy 937, phase equilibrium 223, activity / EMF / Gibbs energy 76
 - [C–V](https://data.orchid-project.org/systems/C-V.md): 44 values (experimental 22, model 19, unspecified 3); invariant reaction 25, phase transition 14, phase equilibrium 4
-- [C–W](https://data.orchid-project.org/systems/C-W.md): 39 values (experimental 17, model 22); invariant reaction 26, phase transition 7, heat capacity / entropy / enthalpy 4
+- [C–W](https://data.orchid-project.org/systems/C-W.md): 40 values (experimental 18, model 22); invariant reaction 26, phase transition 7, heat capacity / entropy / enthalpy 4
 - [C–Y](https://data.orchid-project.org/systems/C-Y.md): 13 values (experimental 10, model 3); formation 13
 - [C–Zn](https://data.orchid-project.org/systems/C-ZN.md): 3 values (model 3); phase transition 2, phase equilibrium 1
 - [C–Zr](https://data.orchid-project.org/systems/C-ZR.md): 47 values (experimental 32, model 12, unspecified 3); phase transition 17, invariant reaction 16, phase equilibrium 8
@@ -399,7 +399,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ce–Cr](https://data.orchid-project.org/systems/CE-CR.md): 17 values (experimental 7, model 7, unspecified 3); invariant reaction 16, phase transition 1; 1 calculated diagram(s)
 - [Ce–Cu](https://data.orchid-project.org/systems/CE-CU.md): 37 values (experimental 9, model 28); invariant reaction 30, phase transition 7; 2 calculated diagram(s)
 - [Ce–Fe](https://data.orchid-project.org/systems/CE-FE.md): 20 values (experimental 14, model 6); invariant reaction 18, phase transition 2; 3 calculated diagram(s)
-- [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.md): 89 values (experimental 29, model 60); invariant reaction 50, formation 22, phase transition 17; 2 calculated diagram(s)
+- [Ce–Ga](https://data.orchid-project.org/systems/CE-GA.md): 87 values (experimental 28, model 59); invariant reaction 50, formation 20, phase transition 17; 2 calculated diagram(s)
 - [Ce–Gd](https://data.orchid-project.org/systems/CE-GD.md): 0 values; 1 calculated diagram(s)
 - [Ce–H](https://data.orchid-project.org/systems/CE-H.md): 1 values (experimental 1); invariant reaction 1; 2 calculated diagram(s)
 - [Ce–La](https://data.orchid-project.org/systems/CE-LA.md): 0 values; 1 calculated diagram(s)
@@ -408,7 +408,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ce–Mo](https://data.orchid-project.org/systems/CE-MO.md): 22 values (experimental 7, model 9, unspecified 6); invariant reaction 12, phase equilibrium 10; 1 calculated diagram(s)
 - [Ce–Nd](https://data.orchid-project.org/systems/CE-ND.md): 0 values; 2 calculated diagram(s)
 - [Ce–Ni](https://data.orchid-project.org/systems/CE-NI.md): 178 values (experimental 124, model 46, unspecified 8); invariant reaction 128, phase transition 19, formation 16; 4 calculated diagram(s)
-- [Ce–O](https://data.orchid-project.org/systems/CE-O.md): 69 values (experimental 36, model 23, unspecified 10); invariant reaction 48, phase equilibrium 12, phase transition 9; 2 calculated diagram(s)
+- [Ce–O](https://data.orchid-project.org/systems/CE-O.md): 70 values (experimental 36, model 24, unspecified 10); invariant reaction 48, phase equilibrium 12, phase transition 9; 2 calculated diagram(s)
 - [Ce–Pr](https://data.orchid-project.org/systems/CE-PR.md): 0 values; 1 calculated diagram(s)
 - [Ce–Pt](https://data.orchid-project.org/systems/CE-PT.md): 30 values (experimental 15, model 15); invariant reaction 30; 1 calculated diagram(s)
 - [Ce–Rh](https://data.orchid-project.org/systems/CE-RH.md): 0 values; 1 calculated diagram(s)
@@ -426,13 +426,13 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Co–B](https://data.orchid-project.org/systems/CO-B.md): 0 values; 1 calculated diagram(s)
 - [Co–C](https://data.orchid-project.org/systems/CO-C.md): 0 values; 1 calculated diagram(s)
 - [Co–Cr](https://data.orchid-project.org/systems/CO-CR.md): 15 values (experimental 9, model 6); phase equilibrium 7, formation 6, activity / EMF / Gibbs energy 2; 10 calculated diagram(s)
-- [Co–Cu](https://data.orchid-project.org/systems/CO-CU.md): 81 values (experimental 69, model 12); mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 11; 4 calculated diagram(s)
+- [Co–Cu](https://data.orchid-project.org/systems/CO-CU.md): 82 values (experimental 69, model 13); mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 12; 4 calculated diagram(s)
 - [Co–Dy](https://data.orchid-project.org/systems/CO-DY.md): 0 values; 2 calculated diagram(s)
 - [Co–Er](https://data.orchid-project.org/systems/CO-ER.md): 26 values (experimental 14, model 12); invariant reaction 18, phase transition 8; 1 calculated diagram(s)
 - [Co–Fe](https://data.orchid-project.org/systems/CO-FE.md): 16 values (experimental 13, model 3); phase equilibrium 9, phase transition 7; 4 calculated diagram(s)
 - [Co–Ga](https://data.orchid-project.org/systems/CO-GA.md): 50 values (experimental 25, model 13, DFT 12); invariant reaction 27, crystal structure 9, formation 9; 3 calculated diagram(s)
 - [Co–Gd](https://data.orchid-project.org/systems/CO-GD.md): 43 values (experimental 31, model 12); invariant reaction 24, phase transition 18, heat capacity / entropy / enthalpy 1; 2 calculated diagram(s)
-- [Co–Ge](https://data.orchid-project.org/systems/CO-GE.md): 155 values (experimental 57, model 98); invariant reaction 78, formation 57, crystal structure 17; 4 calculated diagram(s)
+- [Co–Ge](https://data.orchid-project.org/systems/CO-GE.md): 153 values (experimental 56, model 97); invariant reaction 78, formation 55, crystal structure 17; 4 calculated diagram(s)
 - [Co–H](https://data.orchid-project.org/systems/CO-H.md): 1 values (model 1); other property 1; 1 calculated diagram(s)
 - [Co–Hf](https://data.orchid-project.org/systems/CO-HF.md): 62 values (experimental 50, model 12); invariant reaction 33, heat capacity / entropy / enthalpy 20, phase transition 8; 3 calculated diagram(s)
 - [Co–Ho](https://data.orchid-project.org/systems/CO-HO.md): 35 values (experimental 17, model 18); invariant reaction 21, phase transition 11, activity / EMF / Gibbs energy 2; 1 calculated diagram(s)
@@ -455,17 +455,17 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Co–Sc](https://data.orchid-project.org/systems/CO-SC.md): 22 values (experimental 11, model 11); invariant reaction 22; 1 calculated diagram(s)
 - [Co–Si](https://data.orchid-project.org/systems/CO-SI.md): 89 values (experimental 64, model 13, unspecified 12); invariant reaction 55, phase transition 28, formation 5; 2 calculated diagram(s)
 - [Co–Sm](https://data.orchid-project.org/systems/CO-SM.md): 83 values (experimental 54, model 29); invariant reaction 62, phase transition 20, mixing / partial 1; 2 calculated diagram(s)
-- [Co–Sn](https://data.orchid-project.org/systems/CO-SN.md): 80 values (experimental 39, model 25, unspecified 16); invariant reaction 62, phase transition 15, mixing / partial 2; 4 calculated diagram(s)
+- [Co–Sn](https://data.orchid-project.org/systems/CO-SN.md): 85 values (experimental 39, model 26, DFT 4, unspecified 16); invariant reaction 62, phase transition 15, crystal structure 3; 4 calculated diagram(s)
 - [Co–Sr](https://data.orchid-project.org/systems/CO-SR.md): 0 values; 1 calculated diagram(s)
 - [Co–Ta](https://data.orchid-project.org/systems/CO-TA.md): 165 values (experimental 83, model 35, DFT 39, unspecified 8); invariant reaction 76, formation 39, phase transition 26; 6 calculated diagram(s)
 - [Co–Te](https://data.orchid-project.org/systems/CO-TE.md): 0 values; 1 calculated diagram(s)
 - [Co–Th](https://data.orchid-project.org/systems/CO-TH.md): 47 values (experimental 31, model 16); invariant reaction 45, phase transition 2; 1 calculated diagram(s)
-- [Co–Ti](https://data.orchid-project.org/systems/CO-TI.md): 282 values (experimental 146, model 116, unspecified 20); invariant reaction 129, phase transition 82, phase equilibrium 29; 6 calculated diagram(s)
+- [Co–Ti](https://data.orchid-project.org/systems/CO-TI.md): 283 values (experimental 147, model 116, unspecified 20); invariant reaction 130, phase transition 82, phase equilibrium 29; 6 calculated diagram(s)
 - [Co–U](https://data.orchid-project.org/systems/CO-U.md): 22 values (experimental 11, model 11); invariant reaction 22; 1 calculated diagram(s)
 - [Co–V](https://data.orchid-project.org/systems/CO-V.md): 129 values (experimental 69, model 29, DFT 25, unspecified 6); formation 75, invariant reaction 35, phase transition 11; 6 calculated diagram(s)
 - [Co–W](https://data.orchid-project.org/systems/CO-W.md): 117 values (experimental 22, model 31, DFT 64); formation 64, invariant reaction 19, mixing / partial 12; 10 calculated diagram(s)
 - [Co–Y](https://data.orchid-project.org/systems/CO-Y.md): 93 values (experimental 33, model 36, DFT 8, unspecified 16); invariant reaction 66, phase transition 15, formation 12; 4 calculated diagram(s)
-- [Co–Zn](https://data.orchid-project.org/systems/CO-ZN.md): 165 values (experimental 26, model 135, unspecified 4); heat capacity / entropy / enthalpy 72, invariant reaction 54, activity / EMF / Gibbs energy 31; 2 calculated diagram(s)
+- [Co–Zn](https://data.orchid-project.org/systems/CO-ZN.md): 166 values (experimental 27, model 135, unspecified 4); heat capacity / entropy / enthalpy 72, invariant reaction 55, activity / EMF / Gibbs energy 31; 2 calculated diagram(s)
 - [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.md): 289 values (experimental 194, model 95); invariant reaction 161, phase equilibrium 50, formation 42; 7 calculated diagram(s)
 - [Cr–B](https://data.orchid-project.org/systems/CR-B.md): 0 values; 3 calculated diagram(s)
 - [Cr–C](https://data.orchid-project.org/systems/CR-C.md): 0 values; 5 calculated diagram(s)
@@ -475,29 +475,29 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.md): 100 values (experimental 63, model 37); invariant reaction 60, formation 26, heat capacity / entropy / enthalpy 9; 3 calculated diagram(s)
 - [Cr–H](https://data.orchid-project.org/systems/CR-H.md): 1 values (experimental 1); other property 1; 1 calculated diagram(s)
 - [Cr–Hf](https://data.orchid-project.org/systems/CR-HF.md): 0 values; 2 calculated diagram(s)
-- [Cr–Ir](https://data.orchid-project.org/systems/CR-IR.md): 5 values (experimental 3, model 2); invariant reaction 5; 1 calculated diagram(s)
-- [Cr–La](https://data.orchid-project.org/systems/CR-LA.md): 35 values (experimental 20, model 15); invariant reaction 17, phase transition 16, formation 1; 2 calculated diagram(s)
+- [Cr–Ir](https://data.orchid-project.org/systems/CR-IR.md): 6 values (experimental 3, model 3); invariant reaction 6; 1 calculated diagram(s)
+- [Cr–La](https://data.orchid-project.org/systems/CR-LA.md): 34 values (experimental 19, model 15); invariant reaction 17, phase transition 16, other property 1; 2 calculated diagram(s)
 - [Cr–Lu](https://data.orchid-project.org/systems/CR-LU.md): 0 values; 1 calculated diagram(s)
 - [Cr–Mg](https://data.orchid-project.org/systems/CR-MG.md): 0 values; 1 calculated diagram(s)
 - [Cr–Mn](https://data.orchid-project.org/systems/CR-MN.md): 15 values (experimental 7, unspecified 8); invariant reaction 8, activity / EMF / Gibbs energy 5, phase transition 2; 3 calculated diagram(s)
 - [Cr–Mo](https://data.orchid-project.org/systems/CR-MO.md): 0 values; 1 calculated diagram(s)
 - [Cr–N](https://data.orchid-project.org/systems/CR-N.md): 0 values; 1 calculated diagram(s)
 - [Cr–Na](https://data.orchid-project.org/systems/CR-NA.md): 1 values (model 1); phase transition 1; 1 calculated diagram(s)
-- [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.md): 249 values (experimental 192, model 23, DFT 30, unspecified 4); phase transition 114, phase equilibrium 77, formation 21; 7 calculated diagram(s)
-- [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.md): 23 values (experimental 11, model 12); phase transition 12, invariant reaction 11; 7 calculated diagram(s)
+- [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.md): 250 values (experimental 190, model 23, DFT 33, unspecified 4); phase transition 114, phase equilibrium 77, formation 24; 7 calculated diagram(s)
+- [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.md): 18 values (experimental 9, model 9); phase transition 12, invariant reaction 6; 7 calculated diagram(s)
 - [Cr–O](https://data.orchid-project.org/systems/CR-O.md): 9 values (experimental 3, model 6); phase transition 7, invariant reaction 2; 3 calculated diagram(s)
 - [Cr–P](https://data.orchid-project.org/systems/CR-P.md): 3 values (model 3); activity / EMF / Gibbs energy 2, invariant reaction 1; 2 calculated diagram(s)
 - [Cr–Pb](https://data.orchid-project.org/systems/CR-PB.md): 2 values (model 2); invariant reaction 1, phase transition 1; 1 calculated diagram(s)
 - [Cr–Pd](https://data.orchid-project.org/systems/CR-PD.md): 10 values (experimental 7, model 3); invariant reaction 9, phase transition 1; 1 calculated diagram(s)
 - [Cr–Pt](https://data.orchid-project.org/systems/CR-PT.md): 27 values (experimental 20, model 7); phase transition 14, invariant reaction 12, phase equilibrium 1; 3 calculated diagram(s)
-- [Cr–Re](https://data.orchid-project.org/systems/CR-RE.md): 206 values (experimental 9, model 6, DFT 191); crystal structure 127, formation 64, invariant reaction 12; 4 calculated diagram(s)
+- [Cr–Re](https://data.orchid-project.org/systems/CR-RE.md): 111 values (experimental 9, model 6, DFT 96); crystal structure 64, formation 32, invariant reaction 12; 4 calculated diagram(s)
 - [Cr–Ru](https://data.orchid-project.org/systems/CR-RU.md): 17 values (experimental 1, model 5, unspecified 11); invariant reaction 17; 2 calculated diagram(s)
 - [Cr–S](https://data.orchid-project.org/systems/CR-S.md): 0 values; 2 calculated diagram(s)
 - [Cr–Sc](https://data.orchid-project.org/systems/CR-SC.md): 6 values (experimental 4, model 2); invariant reaction 5, phase transition 1; 2 calculated diagram(s)
 - [Cr–Si](https://data.orchid-project.org/systems/CR-SI.md): 110 values (experimental 45, model 38, unspecified 27); invariant reaction 53, formation 29, phase transition 28; 7 calculated diagram(s)
 - [Cr–Sn](https://data.orchid-project.org/systems/CR-SN.md): 6 values (experimental 1, model 1, unspecified 4); invariant reaction 4, phase transition 2; 3 calculated diagram(s)
 - [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.md): 4 values (experimental 1, model 3); formation 4; 2 calculated diagram(s)
-- [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.md): 120 values (experimental 58, model 55, unspecified 7); invariant reaction 83, phase equilibrium 15, phase transition 12; 8 calculated diagram(s)
+- [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.md): 115 values (experimental 58, model 50, unspecified 7); invariant reaction 83, phase equilibrium 15, phase transition 12; 8 calculated diagram(s)
 - [Cr–U](https://data.orchid-project.org/systems/CR-U.md): 6 values (experimental 3, model 3); invariant reaction 6; 1 calculated diagram(s)
 - [Cr–V](https://data.orchid-project.org/systems/CR-V.md): 15 values (experimental 15); heat capacity / entropy / enthalpy 12, phase transition 3; 4 calculated diagram(s)
 - [Cr–W](https://data.orchid-project.org/systems/CR-W.md): 4 values (experimental 2, model 2); phase transition 3, invariant reaction 1; 1 calculated diagram(s)
@@ -510,7 +510,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cs–Na](https://data.orchid-project.org/systems/CS-NA.md): 0 values; 2 calculated diagram(s)
 - [Cs–O](https://data.orchid-project.org/systems/CS-O.md): 175 values (experimental 53, model 37, DFT 73, unspecified 12); crystal structure 68, heat capacity / entropy / enthalpy 54, formation 39; 1 calculated diagram(s)
 - [Cs–Rb](https://data.orchid-project.org/systems/CS-RB.md): 0 values; 2 calculated diagram(s)
-- [Cs–Te](https://data.orchid-project.org/systems/CS-TE.md): 70 values (experimental 51, model 15, unspecified 4); crystal structure 26, invariant reaction 16, phase transition 12; 1 calculated diagram(s)
+- [Cs–Te](https://data.orchid-project.org/systems/CS-TE.md): 68 values (experimental 49, model 15, unspecified 4); crystal structure 26, invariant reaction 16, phase transition 12; 1 calculated diagram(s)
 - [Cu–As](https://data.orchid-project.org/systems/CU-AS.md): 0 values; 2 calculated diagram(s)
 - [Cu–B](https://data.orchid-project.org/systems/CU-B.md): 0 values; 2 calculated diagram(s)
 - [Cu–C](https://data.orchid-project.org/systems/CU-C.md): 0 values; 2 calculated diagram(s)
@@ -522,13 +522,13 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cu–Gd](https://data.orchid-project.org/systems/CU-GD.md): 32 values (experimental 13, model 13, unspecified 6); invariant reaction 32; 1 calculated diagram(s)
 - [Cu–Ge](https://data.orchid-project.org/systems/CU-GE.md): 21 values (experimental 11, model 10); invariant reaction 14, phase transition 4, formation 3; 2 calculated diagram(s)
 - [Cu–H](https://data.orchid-project.org/systems/CU-H.md): 2 values (experimental 1, model 1); invariant reaction 1, phase transition 1; 2 calculated diagram(s)
-- [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.md): 160 values (experimental 60, model 58, DFT 17, unspecified 25); invariant reaction 64, formation 52, crystal structure 29; 3 calculated diagram(s)
+- [Cu–Hf](https://data.orchid-project.org/systems/CU-HF.md): 162 values (experimental 62, model 58, DFT 17, unspecified 25); invariant reaction 64, formation 54, crystal structure 29; 3 calculated diagram(s)
 - [Cu–Hg](https://data.orchid-project.org/systems/CU-HG.md): 5 values (experimental 2, model 3); invariant reaction 5; 1 calculated diagram(s)
 - [Cu–Ho](https://data.orchid-project.org/systems/CU-HO.md): 23 values (experimental 12, model 11); invariant reaction 23; 2 calculated diagram(s)
-- [Cu–In](https://data.orchid-project.org/systems/CU-IN.md): 142 values (experimental 70, model 47, unspecified 25); formation 97, invariant reaction 16, activity / EMF / Gibbs energy 13; 5 calculated diagram(s)
+- [Cu–In](https://data.orchid-project.org/systems/CU-IN.md): 140 values (experimental 70, model 45, unspecified 25); formation 95, invariant reaction 16, activity / EMF / Gibbs energy 13; 5 calculated diagram(s)
 - [Cu–Ir](https://data.orchid-project.org/systems/CU-IR.md): 35 values (experimental 9, model 15, unspecified 11); phase equilibrium 24, crystal structure 10, activity / EMF / Gibbs energy 1; 2 calculated diagram(s)
 - [Cu–La](https://data.orchid-project.org/systems/CU-LA.md): 28 values (experimental 17, model 11); invariant reaction 19, phase transition 9; 3 calculated diagram(s)
-- [Cu–Li](https://data.orchid-project.org/systems/CU-LI.md): 73 values (experimental 69, model 4); activity / EMF / Gibbs energy 32, phase transition 18, phase equilibrium 17; 3 calculated diagram(s)
+- [Cu–Li](https://data.orchid-project.org/systems/CU-LI.md): 77 values (experimental 73, model 4); activity / EMF / Gibbs energy 32, phase transition 18, phase equilibrium 17; 3 calculated diagram(s)
 - [Cu–Mg](https://data.orchid-project.org/systems/CU-MG.md): 38 values (experimental 16, model 15, DFT 2, unspecified 5); invariant reaction 22, phase transition 14, formation 2; 6 calculated diagram(s)
 - [Cu–Mn](https://data.orchid-project.org/systems/CU-MN.md): 44 values (experimental 25, model 19); invariant reaction 20, phase transition 16, phase equilibrium 8; 3 calculated diagram(s)
 - [Cu–Mo](https://data.orchid-project.org/systems/CU-MO.md): 4 values (experimental 2, unspecified 2); invariant reaction 4; 1 calculated diagram(s)
@@ -564,7 +564,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cu–Y](https://data.orchid-project.org/systems/CU-Y.md): 72 values (experimental 51, model 10, unspecified 11); invariant reaction 37, crystal structure 18, phase transition 17; 1 calculated diagram(s)
 - [Cu–Yb](https://data.orchid-project.org/systems/CU-YB.md): 22 values (experimental 13, model 8, unspecified 1); invariant reaction 16, phase transition 6; 1 calculated diagram(s)
 - [Cu–Zn](https://data.orchid-project.org/systems/CU-ZN.md): 69 values (experimental 13, model 50, unspecified 6); invariant reaction 66, phase transition 2, activity / EMF / Gibbs energy 1; 6 calculated diagram(s)
-- [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.md): 694 values (experimental 350, model 274, DFT 24, unspecified 46); invariant reaction 420, formation 92, activity / EMF / Gibbs energy 84; 11 calculated diagram(s)
+- [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.md): 685 values (experimental 357, model 274, DFT 17, unspecified 37); invariant reaction 420, activity / EMF / Gibbs energy 84, formation 83; 11 calculated diagram(s)
 - [Dy–B](https://data.orchid-project.org/systems/DY-B.md): 0 values; 1 calculated diagram(s)
 - [Dy–C](https://data.orchid-project.org/systems/DY-C.md): 0 values; 1 calculated diagram(s)
 - [Dy–Er](https://data.orchid-project.org/systems/DY-ER.md): 0 values; 1 calculated diagram(s)
@@ -575,7 +575,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Dy–Mg](https://data.orchid-project.org/systems/DY-MG.md): 0 values; 2 calculated diagram(s)
 - [Dy–Mn](https://data.orchid-project.org/systems/DY-MN.md): 15 values (experimental 7, model 8); invariant reaction 13, phase transition 2; 2 calculated diagram(s)
 - [Dy–Ni](https://data.orchid-project.org/systems/DY-NI.md): 39 values (experimental 25, model 14); invariant reaction 32, phase transition 7; 2 calculated diagram(s)
-- [Dy–O](https://data.orchid-project.org/systems/DY-O.md): 0 values; 1 calculated diagram(s)
+- [Dy–O](https://data.orchid-project.org/systems/DY-O.md): 1 values (model 1); formation 1; 1 calculated diagram(s)
 - [Dy–Pb](https://data.orchid-project.org/systems/DY-PB.md): 5 values (experimental 5); invariant reaction 4, phase transition 1; 1 calculated diagram(s)
 - [Dy–Pd](https://data.orchid-project.org/systems/DY-PD.md): 34 values (experimental 17, model 17); invariant reaction 24, phase transition 10; 1 calculated diagram(s)
 - [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.md): 8 values (experimental 6, model 2); invariant reaction 7, phase transition 1; 1 calculated diagram(s)
@@ -597,7 +597,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Er–Mg](https://data.orchid-project.org/systems/ER-MG.md): 8 values (unspecified 8); invariant reaction 6, phase transition 2; 1 calculated diagram(s)
 - [Er–Mn](https://data.orchid-project.org/systems/ER-MN.md): 0 values; 1 calculated diagram(s)
 - [Er–Ni](https://data.orchid-project.org/systems/ER-NI.md): 28 values (experimental 14, model 14); invariant reaction 24, phase transition 4; 1 calculated diagram(s)
-- [Er–O](https://data.orchid-project.org/systems/ER-O.md): 0 values; 1 calculated diagram(s)
+- [Er–O](https://data.orchid-project.org/systems/ER-O.md): 1 values (model 1); formation 1; 1 calculated diagram(s)
 - [Er–Pd](https://data.orchid-project.org/systems/ER-PD.md): 31 values (experimental 15, model 16); invariant reaction 21, phase transition 10; 1 calculated diagram(s)
 - [Er–Sb](https://data.orchid-project.org/systems/ER-SB.md): 46 values (experimental 27, model 19); invariant reaction 30, formation 11, phase transition 4; 1 calculated diagram(s)
 - [Er–Sc](https://data.orchid-project.org/systems/ER-SC.md): 0 values; 1 calculated diagram(s)
@@ -613,7 +613,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Eu–In](https://data.orchid-project.org/systems/EU-IN.md): 25 values (experimental 11, model 12, unspecified 2); invariant reaction 15, phase transition 10; 1 calculated diagram(s)
 - [Eu–Mg](https://data.orchid-project.org/systems/EU-MG.md): 55 values (experimental 9, model 9, DFT 37); crystal structure 37, invariant reaction 14, phase transition 4
 - [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.md): 47 values (experimental 18, model 29); invariant reaction 27, formation 20; 1 calculated diagram(s)
-- [Eu–O](https://data.orchid-project.org/systems/EU-O.md): 0 values; 1 calculated diagram(s)
+- [Eu–O](https://data.orchid-project.org/systems/EU-O.md): 2 values (model 2); formation 2; 1 calculated diagram(s)
 - [Eu–Pb](https://data.orchid-project.org/systems/EU-PB.md): 18 values (experimental 9, model 9); invariant reaction 12, phase transition 6; 1 calculated diagram(s)
 - [Eu–Pd](https://data.orchid-project.org/systems/EU-PD.md): 21 values (experimental 10, model 11); invariant reaction 16, phase transition 5; 1 calculated diagram(s)
 - [Eu–Sn](https://data.orchid-project.org/systems/EU-SN.md): 30 values (experimental 15, model 15); invariant reaction 24, phase transition 6; 1 calculated diagram(s)
@@ -621,7 +621,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Eu–W](https://data.orchid-project.org/systems/EU-W.md): 0 values; 1 calculated diagram(s)
 - [F–K](https://data.orchid-project.org/systems/F-K.md): 7 values (experimental 3, model 4); invariant reaction 6, phase transition 1
 - [F–Na](https://data.orchid-project.org/systems/F-NA.md): 7 values (experimental 3, model 4); invariant reaction 5, phase transition 2
-- [F–Nb](https://data.orchid-project.org/systems/F-NB.md): 34 values (experimental 7, model 19, unspecified 8); formation 11, heat capacity / entropy / enthalpy 11, phase transition 11
+- [F–Nb](https://data.orchid-project.org/systems/F-NB.md): 34 values (experimental 6, model 20, unspecified 8); formation 11, heat capacity / entropy / enthalpy 11, phase transition 11
 - [F–O](https://data.orchid-project.org/systems/F-O.md): 0 values; 1 calculated diagram(s)
 - [Fe–As](https://data.orchid-project.org/systems/FE-AS.md): 0 values; 2 calculated diagram(s)
 - [Fe–B](https://data.orchid-project.org/systems/FE-B.md): 0 values; 7 calculated diagram(s)
@@ -630,19 +630,19 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.md): 147 values (experimental 94, model 53); invariant reaction 69, phase transition 33, formation 32; 6 calculated diagram(s)
 - [Fe–H](https://data.orchid-project.org/systems/FE-H.md): 0 values; 1 calculated diagram(s)
 - [Fe–Hf](https://data.orchid-project.org/systems/FE-HF.md): 38 values (experimental 14, model 24); formation 16, invariant reaction 14, phase transition 7; 1 calculated diagram(s)
-- [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.md): 88 values (experimental 46, model 39, DFT 1, unspecified 2); phase transition 31, formation 29, invariant reaction 22; 2 calculated diagram(s)
+- [Fe–Ho](https://data.orchid-project.org/systems/FE-HO.md): 88 values (experimental 36, model 39, DFT 1, unspecified 12); phase transition 31, formation 29, invariant reaction 22; 2 calculated diagram(s)
 - [Fe–In](https://data.orchid-project.org/systems/FE-IN.md): 5 values (model 5); invariant reaction 5; 1 calculated diagram(s)
 - [Fe–La](https://data.orchid-project.org/systems/FE-LA.md): 5 values (model 5); phase transition 3, invariant reaction 2; 2 calculated diagram(s)
 - [Fe–Lu](https://data.orchid-project.org/systems/FE-LU.md): 90 values (experimental 29, model 61); invariant reaction 40, formation 22, phase transition 19; 2 calculated diagram(s)
 - [Fe–Mg](https://data.orchid-project.org/systems/FE-MG.md): 6 values (experimental 2, model 4); invariant reaction 4, phase transition 2; 1 calculated diagram(s)
-- [Fe–Mn](https://data.orchid-project.org/systems/FE-MN.md): 25 values (experimental 7, model 18); invariant reaction 22, formation 2, phase transition 1; 7 calculated diagram(s)
+- [Fe–Mn](https://data.orchid-project.org/systems/FE-MN.md): 27 values (experimental 9, model 18); invariant reaction 22, formation 2, mixing / partial 2; 7 calculated diagram(s)
 - [Fe–Mo](https://data.orchid-project.org/systems/FE-MO.md): 119 values (experimental 48, model 21, DFT 20, unspecified 30); invariant reaction 36, crystal structure 35, heat capacity / entropy / enthalpy 28; 4 calculated diagram(s)
 - [Fe–N](https://data.orchid-project.org/systems/FE-N.md): 4 values (experimental 1, model 3); phase transition 3, invariant reaction 1; 6 calculated diagram(s)
 - [Fe–Nb](https://data.orchid-project.org/systems/FE-NB.md): 127 values (experimental 62, model 65); invariant reaction 101, phase transition 11, formation 9; 16 calculated diagram(s)
 - [Fe–Nd](https://data.orchid-project.org/systems/FE-ND.md): 0 values; 3 calculated diagram(s)
 - [Fe–Ni](https://data.orchid-project.org/systems/FE-NI.md): 83 values (experimental 13, model 18, DFT 44, unspecified 8); crystal structure 36, phase transition 24, formation 14; 12 calculated diagram(s)
 - [Fe–Np](https://data.orchid-project.org/systems/FE-NP.md): 0 values; 1 calculated diagram(s)
-- [Fe–O](https://data.orchid-project.org/systems/FE-O.md): 473 values (experimental 4, model 469); heat capacity / entropy / enthalpy 336, activity / EMF / Gibbs energy 131, phase transition 4; 2 calculated diagram(s)
+- [Fe–O](https://data.orchid-project.org/systems/FE-O.md): 337 values (experimental 4, model 333); heat capacity / entropy / enthalpy 234, activity / EMF / Gibbs energy 97, phase transition 4; 2 calculated diagram(s)
 - [Fe–Os](https://data.orchid-project.org/systems/FE-OS.md): 5 values (unspecified 5); crystal structure 5; 1 calculated diagram(s)
 - [Fe–P](https://data.orchid-project.org/systems/FE-P.md): 0 values; 4 calculated diagram(s)
 - [Fe–Pb](https://data.orchid-project.org/systems/FE-PB.md): 28 values (experimental 6, model 22); phase transition 15, invariant reaction 13; 2 calculated diagram(s)
@@ -653,24 +653,24 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe–Rh](https://data.orchid-project.org/systems/FE-RH.md): 6 values (experimental 6); phase transition 6; 1 calculated diagram(s)
 - [Fe–Ru](https://data.orchid-project.org/systems/FE-RU.md): 0 values; 1 calculated diagram(s)
 - [Fe–S](https://data.orchid-project.org/systems/FE-S.md): 17 values (experimental 7, model 10); invariant reaction 15, phase transition 2; 4 calculated diagram(s)
-- [Fe–Sb](https://data.orchid-project.org/systems/FE-SB.md): 101 values (experimental 75, model 17, unspecified 9); invariant reaction 69, phase transition 21, phase equilibrium 6; 3 calculated diagram(s)
+- [Fe–Sb](https://data.orchid-project.org/systems/FE-SB.md): 101 values (experimental 71, model 17, unspecified 13); invariant reaction 69, phase transition 21, phase equilibrium 6; 3 calculated diagram(s)
 - [Fe–Sc](https://data.orchid-project.org/systems/FE-SC.md): 28 values (experimental 13, model 15); invariant reaction 27, phase transition 1; 3 calculated diagram(s)
 - [Fe–Si](https://data.orchid-project.org/systems/FE-SI.md): 36 values (experimental 17, model 7, unspecified 12); invariant reaction 20, phase equilibrium 9, phase transition 7; 3 calculated diagram(s)
 - [Fe–Sm](https://data.orchid-project.org/systems/FE-SM.md): 22 values (experimental 11, model 7, unspecified 4); heat capacity / entropy / enthalpy 13, invariant reaction 8, phase transition 1; 2 calculated diagram(s)
 - [Fe–Sn](https://data.orchid-project.org/systems/FE-SN.md): 57 values (experimental 45, model 12); invariant reaction 45, activity / EMF / Gibbs energy 12; 3 calculated diagram(s)
 - [Fe–Sr](https://data.orchid-project.org/systems/FE-SR.md): 0 values; 1 calculated diagram(s)
-- [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.md): 263 values (experimental 146, model 89, DFT 8, unspecified 20); invariant reaction 95, phase transition 80, formation 47; 3 calculated diagram(s)
+- [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.md): 249 values (experimental 142, model 86, DFT 7, unspecified 14); invariant reaction 96, phase transition 80, formation 32; 3 calculated diagram(s)
 - [Fe–Tb](https://data.orchid-project.org/systems/FE-TB.md): 45 values (experimental 15, model 30); invariant reaction 38, phase transition 7; 3 calculated diagram(s)
 - [Fe–Te](https://data.orchid-project.org/systems/FE-TE.md): 61 values (experimental 15, model 8, DFT 34, unspecified 4); crystal structure 44, formation 16, phase transition 1; 2 calculated diagram(s)
 - [Fe–Th](https://data.orchid-project.org/systems/FE-TH.md): 59 values (experimental 28, model 31); formation 33, invariant reaction 26; 1 calculated diagram(s)
 - [Fe–Ti](https://data.orchid-project.org/systems/FE-TI.md): 506 values (experimental 108, model 306, DFT 42, unspecified 50); invariant reaction 189, formation 129, mixing / partial 96; 16 calculated diagram(s)
 - [Fe–Tm](https://data.orchid-project.org/systems/FE-TM.md): 85 values (experimental 24, model 60, DFT 1); formation 41, invariant reaction 21, phase transition 13; 2 calculated diagram(s)
-- [Fe–U](https://data.orchid-project.org/systems/FE-U.md): 104 values (experimental 39, model 51, unspecified 14); formation 51, invariant reaction 34, crystal structure 12; 4 calculated diagram(s)
+- [Fe–U](https://data.orchid-project.org/systems/FE-U.md): 87 values (experimental 39, model 34, unspecified 14); formation 34, invariant reaction 34, crystal structure 12; 4 calculated diagram(s)
 - [Fe–V](https://data.orchid-project.org/systems/FE-V.md): 6 values (experimental 4, model 2); phase transition 4, formation 2; 5 calculated diagram(s)
 - [Fe–W](https://data.orchid-project.org/systems/FE-W.md): 6 values (experimental 6); phase transition 5, invariant reaction 1; 3 calculated diagram(s)
 - [Fe–Y](https://data.orchid-project.org/systems/FE-Y.md): 512 values (experimental 169, model 306, DFT 29, unspecified 8); invariant reaction 229, formation 165, phase transition 52; 5 calculated diagram(s)
 - [Fe–Zn](https://data.orchid-project.org/systems/FE-ZN.md): 138 values (experimental 59, model 63, unspecified 16); invariant reaction 78, formation 42, crystal structure 14; 5 calculated diagram(s)
-- [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.md): 298 values (experimental 153, model 128, unspecified 17); invariant reaction 175, formation 58, phase transition 41; 12 calculated diagram(s)
+- [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.md): 296 values (experimental 151, model 128, unspecified 17); invariant reaction 175, formation 56, phase transition 41; 12 calculated diagram(s)
 - [Ga–As](https://data.orchid-project.org/systems/GA-AS.md): 0 values; 1 calculated diagram(s)
 - [Ga–B](https://data.orchid-project.org/systems/GA-B.md): 0 values; 1 calculated diagram(s)
 - [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.md): 84 values (experimental 49, model 35); invariant reaction 52, formation 18, phase transition 14; 3 calculated diagram(s)
@@ -717,7 +717,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Gd–Mo](https://data.orchid-project.org/systems/GD-MO.md): 20 values (experimental 12, model 7, unspecified 1); invariant reaction 11, phase equilibrium 5, phase transition 4; 2 calculated diagram(s)
 - [Gd–Nb](https://data.orchid-project.org/systems/GD-NB.md): 0 values; 1 calculated diagram(s)
 - [Gd–Ni](https://data.orchid-project.org/systems/GD-NI.md): 56 values (experimental 41, model 12, unspecified 3); invariant reaction 41, phase transition 15; 3 calculated diagram(s)
-- [Gd–O](https://data.orchid-project.org/systems/GD-O.md): 5 values (experimental 1, model 1, DFT 3); crystal structure 4, phase transition 1; 2 calculated diagram(s)
+- [Gd–O](https://data.orchid-project.org/systems/GD-O.md): 7 values (experimental 1, model 3, DFT 3); crystal structure 4, formation 2, phase transition 1; 2 calculated diagram(s)
 - [Gd–Pb](https://data.orchid-project.org/systems/GD-PB.md): 40 values (experimental 20, model 20); invariant reaction 27, phase transition 13; 2 calculated diagram(s)
 - [Gd–Pd](https://data.orchid-project.org/systems/GD-PD.md): 34 values (experimental 17, model 17); invariant reaction 26, phase transition 8; 1 calculated diagram(s)
 - [Gd–Ru](https://data.orchid-project.org/systems/GD-RU.md): 5 values (experimental 5); invariant reaction 4, phase transition 1; 1 calculated diagram(s)
@@ -745,8 +745,8 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ge–Na](https://data.orchid-project.org/systems/GE-NA.md): 5 values (experimental 5); invariant reaction 3, phase transition 2; 1 calculated diagram(s)
 - [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.md): 41 values (experimental 25, model 16); invariant reaction 33, phase equilibrium 5, phase transition 3; 2 calculated diagram(s)
 - [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.md): 112 values (experimental 62, model 44, DFT 6); invariant reaction 95, formation 10, phase transition 6; 2 calculated diagram(s)
-- [Ge–O](https://data.orchid-project.org/systems/GE-O.md): 43 values (experimental 28, model 12, unspecified 3); formation 19, heat capacity / entropy / enthalpy 9, phase transition 8; 2 calculated diagram(s)
-- [Ge–P](https://data.orchid-project.org/systems/GE-P.md): 32 values (experimental 10, model 5, DFT 17); crystal structure 15, formation 13, heat capacity / entropy / enthalpy 2; 2 calculated diagram(s)
+- [Ge–O](https://data.orchid-project.org/systems/GE-O.md): 38 values (experimental 24, model 11, unspecified 3); formation 14, heat capacity / entropy / enthalpy 9, phase transition 8; 2 calculated diagram(s)
+- [Ge–P](https://data.orchid-project.org/systems/GE-P.md): 35 values (experimental 11, model 7, DFT 17); crystal structure 15, formation 13, heat capacity / entropy / enthalpy 5; 2 calculated diagram(s)
 - [Ge–Pb](https://data.orchid-project.org/systems/GE-PB.md): 2 values (model 2); invariant reaction 2; 1 calculated diagram(s)
 - [Ge–Pt](https://data.orchid-project.org/systems/GE-PT.md): 25 values (experimental 17, model 8); invariant reaction 21, phase transition 4; 1 calculated diagram(s)
 - [Ge–Ru](https://data.orchid-project.org/systems/GE-RU.md): 32 values (experimental 16, model 16); invariant reaction 13, mixing / partial 9, formation 7; 1 calculated diagram(s)
@@ -761,7 +761,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ge–Te](https://data.orchid-project.org/systems/GE-TE.md): 66 values (experimental 47, model 6, unspecified 13); invariant reaction 34, phase equilibrium 27, phase transition 5; 1 calculated diagram(s)
 - [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.md): 56 values (experimental 33, model 11, unspecified 12); invariant reaction 48, phase transition 6, formation 2; 2 calculated diagram(s)
 - [Ge–Tl](https://data.orchid-project.org/systems/GE-TL.md): 1 values (experimental 1); mixing / partial 1; 1 calculated diagram(s)
-- [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.md): 59 values (experimental 19, model 40); invariant reaction 29, formation 28, phase transition 2; 1 calculated diagram(s)
+- [Ge–Tm](https://data.orchid-project.org/systems/GE-TM.md): 62 values (experimental 20, model 42); invariant reaction 32, formation 28, phase transition 2; 1 calculated diagram(s)
 - [Ge–V](https://data.orchid-project.org/systems/GE-V.md): 61 values (experimental 29, model 29, unspecified 3); invariant reaction 35, formation 24, phase transition 2; 2 calculated diagram(s)
 - [Ge–Y](https://data.orchid-project.org/systems/GE-Y.md): 62 values (experimental 28, model 34); invariant reaction 30, formation 23, phase transition 9; 1 calculated diagram(s)
 - [Ge–Yb](https://data.orchid-project.org/systems/GE-YB.md): 128 values (experimental 51, model 69, DFT 8); invariant reaction 57, formation 56, phase transition 13; 2 calculated diagram(s)
@@ -778,7 +778,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [H–Sr](https://data.orchid-project.org/systems/H-SR.md): 5 values (experimental 5); formation 5
 - [H–Ti](https://data.orchid-project.org/systems/H-TI.md): 35 values (experimental 9, model 15, unspecified 11); formation 14, invariant reaction 10, heat capacity / entropy / enthalpy 9
 - [H–V](https://data.orchid-project.org/systems/H-V.md): 3 values (experimental 1, model 2); crystal structure 1, formation 1, phase transition 1
-- [H–Y](https://data.orchid-project.org/systems/H-Y.md): 65 values (experimental 10, model 10, DFT 20, unspecified 25); crystal structure 40, formation 14, invariant reaction 10
+- [H–Y](https://data.orchid-project.org/systems/H-Y.md): 54 values (experimental 10, model 10, DFT 14, unspecified 20); crystal structure 29, formation 14, invariant reaction 10
 - [H–Zr](https://data.orchid-project.org/systems/H-ZR.md): 57 values (experimental 1, model 53, DFT 3); activity / EMF / Gibbs energy 50, formation 5, invariant reaction 2
 - [Hf–B](https://data.orchid-project.org/systems/HF-B.md): 0 values; 4 calculated diagram(s)
 - [Hf–C](https://data.orchid-project.org/systems/HF-C.md): 0 values; 2 calculated diagram(s)
@@ -786,9 +786,9 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Hf–Mn](https://data.orchid-project.org/systems/HF-MN.md): 51 values (experimental 11, model 19, unspecified 21); crystal structure 21, phase transition 15, invariant reaction 14; 2 calculated diagram(s)
 - [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.md): 0 values; 2 calculated diagram(s)
 - [Hf–N](https://data.orchid-project.org/systems/HF-N.md): 7 values (experimental 5, model 2); phase transition 3, formation 2, invariant reaction 2; 1 calculated diagram(s)
-- [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.md): 46 values (experimental 8, model 2, DFT 36); crystal structure 22, formation 20, phase transition 4; 2 calculated diagram(s)
-- [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.md): 92 values (experimental 11, model 81); mixing / partial 30, formation 28, phase transition 12; 5 calculated diagram(s)
-- [Hf–O](https://data.orchid-project.org/systems/HF-O.md): 16 values (experimental 5, DFT 11); mixing / partial 11, phase transition 3, invariant reaction 2; 2 calculated diagram(s)
+- [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.md): 38 values (experimental 8, model 2, DFT 28); crystal structure 22, formation 12, phase transition 4; 2 calculated diagram(s)
+- [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.md): 61 values (experimental 11, model 50); formation 17, mixing / partial 15, phase transition 12; 5 calculated diagram(s)
+- [Hf–O](https://data.orchid-project.org/systems/HF-O.md): 23 values (experimental 5, DFT 18); mixing / partial 18, phase transition 3, invariant reaction 2; 2 calculated diagram(s)
 - [Hf–Os](https://data.orchid-project.org/systems/HF-OS.md): 14 values (experimental 7, model 7); invariant reaction 10, phase transition 4; 1 calculated diagram(s)
 - [Hf–Pt](https://data.orchid-project.org/systems/HF-PT.md): 0 values; 1 calculated diagram(s)
 - [Hf–Ru](https://data.orchid-project.org/systems/HF-RU.md): 0 values; 1 calculated diagram(s)
@@ -810,8 +810,8 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ho–Mg](https://data.orchid-project.org/systems/HO-MG.md): 0 values; 2 calculated diagram(s)
 - [Ho–Mn](https://data.orchid-project.org/systems/HO-MN.md): 16 values (experimental 9, model 7); invariant reaction 16; 2 calculated diagram(s)
 - [Ho–Mo](https://data.orchid-project.org/systems/HO-MO.md): 4 values (experimental 2, model 2); invariant reaction 4; 2 calculated diagram(s)
-- [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.md): 146 values (experimental 44, model 88, unspecified 14); invariant reaction 71, formation 42, phase transition 24; 2 calculated diagram(s)
-- [Ho–O](https://data.orchid-project.org/systems/HO-O.md): 0 values; 1 calculated diagram(s)
+- [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.md): 147 values (experimental 44, model 89, unspecified 14); invariant reaction 71, formation 43, phase transition 24; 2 calculated diagram(s)
+- [Ho–O](https://data.orchid-project.org/systems/HO-O.md): 1 values (model 1); formation 1; 1 calculated diagram(s)
 - [Ho–Pd](https://data.orchid-project.org/systems/HO-PD.md): 0 values; 1 calculated diagram(s)
 - [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.md): 59 values (experimental 18, model 30, unspecified 11); invariant reaction 47, phase transition 10, formation 2; 2 calculated diagram(s)
 - [Ho–Sn](https://data.orchid-project.org/systems/HO-SN.md): 23 values (experimental 11, model 12); invariant reaction 20, phase transition 3; 1 calculated diagram(s)
@@ -821,7 +821,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ho–W](https://data.orchid-project.org/systems/HO-W.md): 0 values; 1 calculated diagram(s)
 - [Ho–Zn](https://data.orchid-project.org/systems/HO-ZN.md): 0 values; 1 calculated diagram(s)
 - [In–As](https://data.orchid-project.org/systems/IN-AS.md): 0 values; 1 calculated diagram(s)
-- [In–Ir](https://data.orchid-project.org/systems/IN-IR.md): 41 values (experimental 19, model 15, unspecified 7); invariant reaction 32, phase transition 8, mixing / partial 1; 1 calculated diagram(s)
+- [In–Ir](https://data.orchid-project.org/systems/IN-IR.md): 42 values (experimental 19, model 15, unspecified 8); invariant reaction 33, phase transition 8, mixing / partial 1; 1 calculated diagram(s)
 - [In–La](https://data.orchid-project.org/systems/IN-LA.md): 28 values (experimental 15, model 13); invariant reaction 20, phase transition 8; 1 calculated diagram(s)
 - [In–Li](https://data.orchid-project.org/systems/IN-LI.md): 26 values (experimental 17, model 9); invariant reaction 20, phase transition 5, phase equilibrium 1; 2 calculated diagram(s)
 - [In–Mn](https://data.orchid-project.org/systems/IN-MN.md): 76 values (experimental 68, model 8); phase transition 39, invariant reaction 22, phase equilibrium 14; 1 calculated diagram(s)
@@ -871,7 +871,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [La–Mo](https://data.orchid-project.org/systems/LA-MO.md): 4 values (experimental 2, model 2); invariant reaction 4; 1 calculated diagram(s)
 - [La–Nd](https://data.orchid-project.org/systems/LA-ND.md): 0 values; 1 calculated diagram(s)
 - [La–Ni](https://data.orchid-project.org/systems/LA-NI.md): 269 values (experimental 190, model 70, unspecified 9); phase transition 132, invariant reaction 119, activity / EMF / Gibbs energy 9; 5 calculated diagram(s)
-- [La–O](https://data.orchid-project.org/systems/LA-O.md): 36 values (experimental 24, model 10, unspecified 2); formation 16, phase transition 13, heat capacity / entropy / enthalpy 7; 2 calculated diagram(s)
+- [La–O](https://data.orchid-project.org/systems/LA-O.md): 37 values (experimental 24, model 11, unspecified 2); formation 17, phase transition 13, heat capacity / entropy / enthalpy 7; 2 calculated diagram(s)
 - [La–Pb](https://data.orchid-project.org/systems/LA-PB.md): 0 values; 1 calculated diagram(s)
 - [La–Pr](https://data.orchid-project.org/systems/LA-PR.md): 0 values; 1 calculated diagram(s)
 - [La–Pt](https://data.orchid-project.org/systems/LA-PT.md): 131 values (experimental 101, model 30); activity / EMF / Gibbs energy 64, phase transition 29, formation 23; 1 calculated diagram(s)
@@ -896,7 +896,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Li–Ni](https://data.orchid-project.org/systems/LI-NI.md): 0 values; 1 calculated diagram(s)
 - [Li–O](https://data.orchid-project.org/systems/LI-O.md): 24 values (experimental 12, model 12); formation 9, invariant reaction 9, heat capacity / entropy / enthalpy 4; 1 calculated diagram(s)
 - [Li–Pb](https://data.orchid-project.org/systems/LI-PB.md): 79 values (experimental 41, DFT 38); crystal structure 36, invariant reaction 22, formation 16; 1 calculated diagram(s)
-- [Li–Sb](https://data.orchid-project.org/systems/LI-SB.md): 410 values (experimental 390, model 20); mixing / partial 351, invariant reaction 27, formation 17; 2 calculated diagram(s)
+- [Li–Sb](https://data.orchid-project.org/systems/LI-SB.md): 412 values (experimental 392, model 20); mixing / partial 351, invariant reaction 27, formation 19; 2 calculated diagram(s)
 - [Li–Sc](https://data.orchid-project.org/systems/LI-SC.md): 1 values (experimental 1); phase transition 1; 1 calculated diagram(s)
 - [Li–Si](https://data.orchid-project.org/systems/LI-SI.md): 136 values (experimental 87, model 49); invariant reaction 78, mixing / partial 24, crystal structure 23; 3 calculated diagram(s)
 - [Li–Sn](https://data.orchid-project.org/systems/LI-SN.md): 218 values (experimental 157, model 57, unspecified 4); invariant reaction 81, phase transition 43, formation 36; 3 calculated diagram(s)
@@ -922,7 +922,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mg–Nd](https://data.orchid-project.org/systems/MG-ND.md): 57 values (experimental 17, model 31, unspecified 9); invariant reaction 48, phase transition 9; 7 calculated diagram(s)
 - [Mg–Ni](https://data.orchid-project.org/systems/MG-NI.md): 99 values (experimental 61, model 38); formation 53, invariant reaction 29, crystal structure 10; 3 calculated diagram(s)
 - [Mg–O](https://data.orchid-project.org/systems/MG-O.md): 29 values (experimental 8, model 17, unspecified 4); phase equilibrium 26, phase transition 2, formation 1; 2 calculated diagram(s)
-- [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.md): 108 values (experimental 61, model 7, DFT 40); invariant reaction 34, mixing / partial 34, crystal structure 20; 3 calculated diagram(s)
+- [Mg–Pb](https://data.orchid-project.org/systems/MG-PB.md): 113 values (experimental 65, model 8, DFT 40); invariant reaction 39, mixing / partial 34, crystal structure 20; 3 calculated diagram(s)
 - [Mg–Pd](https://data.orchid-project.org/systems/MG-PD.md): 0 values; 1 calculated diagram(s)
 - [Mg–Pr](https://data.orchid-project.org/systems/MG-PR.md): 109 values (experimental 44, model 50, unspecified 15); invariant reaction 79, crystal structure 15, phase transition 15; 3 calculated diagram(s)
 - [Mg–Pu](https://data.orchid-project.org/systems/MG-PU.md): 13 values (experimental 7, model 6); invariant reaction 13; 1 calculated diagram(s)
@@ -940,7 +940,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mg–V](https://data.orchid-project.org/systems/MG-V.md): 0 values; 2 calculated diagram(s)
 - [Mg–Y](https://data.orchid-project.org/systems/MG-Y.md): 50 values (experimental 22, model 23, unspecified 5); invariant reaction 27, formation 10, crystal structure 7; 4 calculated diagram(s)
 - [Mg–Yb](https://data.orchid-project.org/systems/MG-YB.md): 8 values (experimental 4, model 4); invariant reaction 6, phase transition 2; 1 calculated diagram(s)
-- [Mg–Zn](https://data.orchid-project.org/systems/MG-ZN.md): 46 values (experimental 8, model 30, unspecified 8); invariant reaction 43, phase transition 3; 6 calculated diagram(s)
+- [Mg–Zn](https://data.orchid-project.org/systems/MG-ZN.md): 36 values (experimental 4, model 24, unspecified 8); invariant reaction 33, phase transition 3; 6 calculated diagram(s)
 - [Mg–Zr](https://data.orchid-project.org/systems/MG-ZR.md): 33 values (experimental 3, model 17, DFT 13); mixing / partial 19, invariant reaction 12, phase transition 2; 3 calculated diagram(s)
 - [Mn–B](https://data.orchid-project.org/systems/MN-B.md): 0 values; 1 calculated diagram(s)
 - [Mn–C](https://data.orchid-project.org/systems/MN-C.md): 0 values; 5 calculated diagram(s)
@@ -950,7 +950,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mn–Nb](https://data.orchid-project.org/systems/MN-NB.md): 34 values (experimental 34); phase equilibrium 19, crystal structure 15; 3 calculated diagram(s)
 - [Mn–Nd](https://data.orchid-project.org/systems/MN-ND.md): 97 values (experimental 77, model 15, unspecified 5); invariant reaction 45, phase transition 40, phase equilibrium 12; 1 calculated diagram(s)
 - [Mn–Ni](https://data.orchid-project.org/systems/MN-NI.md): 0 values; 7 calculated diagram(s)
-- [Mn–O](https://data.orchid-project.org/systems/MN-O.md): 343 values (experimental 169, model 160, unspecified 14); activity / EMF / Gibbs energy 113, formation 90, heat capacity / entropy / enthalpy 69; 2 calculated diagram(s)
+- [Mn–O](https://data.orchid-project.org/systems/MN-O.md): 356 values (experimental 176, model 162, unspecified 18); activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69; 2 calculated diagram(s)
 - [Mn–P](https://data.orchid-project.org/systems/MN-P.md): 1 values (model 1); phase transition 1; 3 calculated diagram(s)
 - [Mn–Pb](https://data.orchid-project.org/systems/MN-PB.md): 0 values; 2 calculated diagram(s)
 - [Mn–Pd](https://data.orchid-project.org/systems/MN-PD.md): 0 values; 1 calculated diagram(s)
@@ -982,7 +982,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mo–P](https://data.orchid-project.org/systems/MO-P.md): 0 values; 1 calculated diagram(s)
 - [Mo–Pd](https://data.orchid-project.org/systems/MO-PD.md): 49 values (experimental 34, model 15); activity / EMF / Gibbs energy 33, invariant reaction 9, phase transition 4; 1 calculated diagram(s)
 - [Mo–Pt](https://data.orchid-project.org/systems/MO-PT.md): 84 values (experimental 45, model 26, DFT 13); formation 32, phase equilibrium 30, invariant reaction 17; 1 calculated diagram(s)
-- [Mo–Re](https://data.orchid-project.org/systems/MO-RE.md): 238 values (experimental 54, model 56, DFT 128); formation 135, invariant reaction 82, phase equilibrium 13; 4 calculated diagram(s)
+- [Mo–Re](https://data.orchid-project.org/systems/MO-RE.md): 207 values (experimental 54, model 56, DFT 97); formation 104, invariant reaction 82, phase equilibrium 13; 4 calculated diagram(s)
 - [Mo–Ru](https://data.orchid-project.org/systems/MO-RU.md): 13 values (experimental 6, model 7); invariant reaction 12, other property 1; 3 calculated diagram(s)
 - [Mo–S](https://data.orchid-project.org/systems/MO-S.md): 60 values (experimental 37, model 19, unspecified 4); invariant reaction 56, phase transition 3, other property 1; 1 calculated diagram(s)
 - [Mo–Sc](https://data.orchid-project.org/systems/MO-SC.md): 2 values (model 2); invariant reaction 2; 1 calculated diagram(s)
@@ -1003,10 +1003,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [N–Ti](https://data.orchid-project.org/systems/N-TI.md): 25 values (experimental 6, model 19); phase transition 13, invariant reaction 10, formation 1
 - [N–U](https://data.orchid-project.org/systems/N-U.md): 543 values (experimental 192, model 351); heat capacity / entropy / enthalpy 385, formation 101, invariant reaction 29
 - [N–V](https://data.orchid-project.org/systems/N-V.md): 2 values (experimental 2); formation 1, phase transition 1
-- [N–Zr](https://data.orchid-project.org/systems/N-ZR.md): 39 values (experimental 26, model 1, DFT 12); formation 28, crystal structure 6, heat capacity / entropy / enthalpy 3
+- [N–Zr](https://data.orchid-project.org/systems/N-ZR.md): 37 values (experimental 24, model 1, DFT 12); formation 26, crystal structure 6, heat capacity / entropy / enthalpy 3
 - [Na–F](https://data.orchid-project.org/systems/NA-F.md): 0 values; 1 calculated diagram(s)
 - [Na–H](https://data.orchid-project.org/systems/NA-H.md): 0 values; 2 calculated diagram(s)
-- [Na–O](https://data.orchid-project.org/systems/NA-O.md): 62 values (experimental 20, model 15, unspecified 27); invariant reaction 20, phase transition 19, crystal structure 15; 1 calculated diagram(s)
+- [Na–O](https://data.orchid-project.org/systems/NA-O.md): 64 values (experimental 20, model 17, unspecified 27); invariant reaction 22, phase transition 19, crystal structure 15; 1 calculated diagram(s)
 - [Na–Rb](https://data.orchid-project.org/systems/NA-RB.md): 0 values; 2 calculated diagram(s)
 - [Na–Sb](https://data.orchid-project.org/systems/NA-SB.md): 61 values (experimental 32, model 29); formation 30, phase transition 14, heat capacity / entropy / enthalpy 12; 2 calculated diagram(s)
 - [Na–Si](https://data.orchid-project.org/systems/NA-SI.md): 3 values (experimental 2, model 1); phase transition 3; 1 calculated diagram(s)
@@ -1022,10 +1022,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Nb–F](https://data.orchid-project.org/systems/NB-F.md): 0 values; 1 calculated diagram(s)
 - [Nb–H](https://data.orchid-project.org/systems/NB-H.md): 0 values; 2 calculated diagram(s)
 - [Nb–N](https://data.orchid-project.org/systems/NB-N.md): 0 values; 3 calculated diagram(s)
-- [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.md): 130 values (experimental 65, model 51, DFT 14); invariant reaction 77, formation 35, phase transition 13; 7 calculated diagram(s)
+- [Nb–Ni](https://data.orchid-project.org/systems/NB-NI.md): 125 values (experimental 64, model 51, DFT 10); invariant reaction 77, formation 30, phase transition 13; 7 calculated diagram(s)
 - [Nb–O](https://data.orchid-project.org/systems/NB-O.md): 7 values (experimental 6, model 1); phase transition 6, invariant reaction 1; 2 calculated diagram(s)
 - [Nb–P](https://data.orchid-project.org/systems/NB-P.md): 0 values; 1 calculated diagram(s)
-- [Nb–Re](https://data.orchid-project.org/systems/NB-RE.md): 62 values (experimental 20, model 29, DFT 13); invariant reaction 26, formation 20, crystal structure 15; 2 calculated diagram(s)
+- [Nb–Re](https://data.orchid-project.org/systems/NB-RE.md): 62 values (experimental 20, model 29, DFT 13); invariant reaction 27, formation 19, crystal structure 15; 2 calculated diagram(s)
 - [Nb–Sb](https://data.orchid-project.org/systems/NB-SB.md): 3 values (experimental 3); phase transition 3; 1 calculated diagram(s)
 - [Nb–Si](https://data.orchid-project.org/systems/NB-SI.md): 208 values (experimental 34, model 170, unspecified 4); invariant reaction 106, formation 73, phase transition 29; 11 calculated diagram(s)
 - [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.md): 116 values (experimental 56, model 59, unspecified 1); invariant reaction 59, formation 42, heat capacity / entropy / enthalpy 13; 3 calculated diagram(s)
@@ -1041,7 +1041,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Nd–C](https://data.orchid-project.org/systems/ND-C.md): 0 values; 1 calculated diagram(s)
 - [Nd–H](https://data.orchid-project.org/systems/ND-H.md): 0 values; 1 calculated diagram(s)
 - [Nd–Ni](https://data.orchid-project.org/systems/ND-NI.md): 101 values (experimental 50, model 51); invariant reaction 94, phase transition 7; 4 calculated diagram(s)
-- [Nd–O](https://data.orchid-project.org/systems/ND-O.md): 0 values; 2 calculated diagram(s)
+- [Nd–O](https://data.orchid-project.org/systems/ND-O.md): 1 values (model 1); formation 1; 2 calculated diagram(s)
 - [Nd–Pr](https://data.orchid-project.org/systems/ND-PR.md): 0 values; 1 calculated diagram(s)
 - [Nd–Ru](https://data.orchid-project.org/systems/ND-RU.md): 5 values (experimental 1, model 4); invariant reaction 3, phase transition 2
 - [Nd–Sb](https://data.orchid-project.org/systems/ND-SB.md): 0 values; 2 calculated diagram(s)
@@ -1052,7 +1052,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Nd–U](https://data.orchid-project.org/systems/ND-U.md): 0 values; 1 calculated diagram(s)
 - [Nd–W](https://data.orchid-project.org/systems/ND-W.md): 0 values; 1 calculated diagram(s)
 - [Nd–Y](https://data.orchid-project.org/systems/ND-Y.md): 0 values; 1 calculated diagram(s)
-- [Nd–Zn](https://data.orchid-project.org/systems/ND-ZN.md): 155 values (experimental 81, model 74); invariant reaction 86, formation 48, phase transition 21; 4 calculated diagram(s)
+- [Nd–Zn](https://data.orchid-project.org/systems/ND-ZN.md): 156 values (experimental 81, model 75); invariant reaction 87, formation 48, phase transition 21; 4 calculated diagram(s)
 - [Nd–Zr](https://data.orchid-project.org/systems/ND-ZR.md): 38 values (experimental 32, model 3, unspecified 3); phase transition 26, invariant reaction 9, phase equilibrium 3; 2 calculated diagram(s)
 - [Ni–As](https://data.orchid-project.org/systems/NI-AS.md): 0 values; 1 calculated diagram(s)
 - [Ni–B](https://data.orchid-project.org/systems/NI-B.md): 0 values; 6 calculated diagram(s)
@@ -1072,18 +1072,18 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ni–Sb](https://data.orchid-project.org/systems/NI-SB.md): 120 values (experimental 96, model 24); invariant reaction 114, formation 4, phase transition 2; 4 calculated diagram(s)
 - [Ni–Sc](https://data.orchid-project.org/systems/NI-SC.md): 222 values (experimental 108, model 101, unspecified 13); invariant reaction 96, phase transition 45, formation 42; 3 calculated diagram(s)
 - [Ni–Se](https://data.orchid-project.org/systems/NI-SE.md): 43 values (experimental 22, model 12, unspecified 9); invariant reaction 29, formation 12, phase transition 2; 1 calculated diagram(s)
-- [Ni–Si](https://data.orchid-project.org/systems/NI-SI.md): 222 values (experimental 117, model 70, DFT 1, unspecified 34); invariant reaction 135, formation 56, phase transition 25; 10 calculated diagram(s)
+- [Ni–Si](https://data.orchid-project.org/systems/NI-SI.md): 216 values (experimental 115, model 70, DFT 1, unspecified 30); invariant reaction 135, formation 50, phase transition 25; 10 calculated diagram(s)
 - [Ni–Sm](https://data.orchid-project.org/systems/NI-SM.md): 95 values (experimental 40, model 55); invariant reaction 51, formation 27, phase transition 17; 2 calculated diagram(s)
-- [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.md): 159 values (experimental 56, model 85, unspecified 18); phase transition 64, invariant reaction 54, formation 41; 11 calculated diagram(s)
+- [Ni–Sn](https://data.orchid-project.org/systems/NI-SN.md): 161 values (experimental 56, model 87, unspecified 18); phase transition 64, invariant reaction 54, formation 43; 11 calculated diagram(s)
 - [Ni–Sr](https://data.orchid-project.org/systems/NI-SR.md): 1 values (experimental 1); invariant reaction 1; 1 calculated diagram(s)
 - [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.md): 133 values (experimental 80, model 38, unspecified 15); invariant reaction 87, phase equilibrium 24, phase transition 22; 7 calculated diagram(s)
 - [Ni–Tb](https://data.orchid-project.org/systems/NI-TB.md): 316 values (experimental 196, model 81, DFT 30, unspecified 9); invariant reaction 99, phase transition 87, crystal structure 44; 3 calculated diagram(s)
 - [Ni–Te](https://data.orchid-project.org/systems/NI-TE.md): 51 values (experimental 21, model 22, DFT 6, unspecified 2); crystal structure 28, invariant reaction 16, phase transition 7; 1 calculated diagram(s)
 - [Ni–Th](https://data.orchid-project.org/systems/NI-TH.md): 32 values (experimental 19, model 13); invariant reaction 32; 1 calculated diagram(s)
-- [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.md): 257 values (experimental 36, model 159, DFT 49, unspecified 13); formation 109, phase transition 52, crystal structure 37; 13 calculated diagram(s)
+- [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.md): 250 values (experimental 39, model 149, DFT 49, unspecified 13); formation 112, phase transition 52, crystal structure 37; 13 calculated diagram(s)
 - [Ni–U](https://data.orchid-project.org/systems/NI-U.md): 20 values (experimental 9, model 11); invariant reaction 17, phase transition 3; 1 calculated diagram(s)
 - [Ni–V](https://data.orchid-project.org/systems/NI-V.md): 34 values (experimental 16, model 18); invariant reaction 26, phase transition 8; 6 calculated diagram(s)
-- [Ni–W](https://data.orchid-project.org/systems/NI-W.md): 28 values (experimental 13, model 15); heat capacity / entropy / enthalpy 12, invariant reaction 12, formation 4; 3 calculated diagram(s)
+- [Ni–W](https://data.orchid-project.org/systems/NI-W.md): 26 values (experimental 12, model 14); heat capacity / entropy / enthalpy 12, invariant reaction 10, formation 4; 3 calculated diagram(s)
 - [Ni–Y](https://data.orchid-project.org/systems/NI-Y.md): 0 values; 5 calculated diagram(s)
 - [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.md): 141 values (experimental 65, model 56, DFT 20); formation 50, invariant reaction 50, crystal structure 30; 2 calculated diagram(s)
 - [Ni–Zn](https://data.orchid-project.org/systems/NI-ZN.md): 106 values (experimental 57, model 43, unspecified 6); invariant reaction 91, phase transition 15; 4 calculated diagram(s)
@@ -1092,29 +1092,35 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Np–Pu](https://data.orchid-project.org/systems/NP-PU.md): 0 values; 1 calculated diagram(s)
 - [Np–U](https://data.orchid-project.org/systems/NP-U.md): 0 values; 2 calculated diagram(s)
 - [Np–Zr](https://data.orchid-project.org/systems/NP-ZR.md): 18 values (experimental 11, model 7); invariant reaction 14, phase transition 4; 4 calculated diagram(s)
-- [O–Pb](https://data.orchid-project.org/systems/O-PB.md): 223 values (experimental 158, model 41, unspecified 24); activity / EMF / Gibbs energy 64, invariant reaction 46, formation 40
+- [O–Pb](https://data.orchid-project.org/systems/O-PB.md): 217 values (experimental 155, model 40, unspecified 22); activity / EMF / Gibbs energy 64, invariant reaction 46, phase transition 39
 - [O–Pd](https://data.orchid-project.org/systems/O-PD.md): 7 values (model 7); heat capacity / entropy / enthalpy 7
+- [O–Pm](https://data.orchid-project.org/systems/O-PM.md): 1 values (model 1); formation 1
+- [O–Pr](https://data.orchid-project.org/systems/O-PR.md): 1 values (model 1); formation 1
 - [O–Pu](https://data.orchid-project.org/systems/O-PU.md): 113 values (experimental 45, model 59, unspecified 9); invariant reaction 45, heat capacity / entropy / enthalpy 22, crystal structure 20
 - [O–Rh](https://data.orchid-project.org/systems/O-RH.md): 12 values (experimental 9, model 3); formation 7, invariant reaction 5
 - [O–Ru](https://data.orchid-project.org/systems/O-RU.md): 10 values (experimental 7, model 2, DFT 1); formation 7, invariant reaction 3
+- [O–Sc](https://data.orchid-project.org/systems/O-SC.md): 1 values (model 1); formation 1
 - [O–Si](https://data.orchid-project.org/systems/O-SI.md): 38 values (experimental 3, model 4, unspecified 31); crystal structure 28, invariant reaction 5, phase transition 3
+- [O–Sm](https://data.orchid-project.org/systems/O-SM.md): 2 values (model 2); formation 2
 - [O–Sr](https://data.orchid-project.org/systems/O-SR.md): 25 values (experimental 14, model 2, unspecified 9); formation 11, phase transition 8, heat capacity / entropy / enthalpy 6
 - [O–Ta](https://data.orchid-project.org/systems/O-TA.md): 50 values (experimental 28, model 10, DFT 12); crystal structure 30, invariant reaction 14, phase transition 6
+- [O–Tb](https://data.orchid-project.org/systems/O-TB.md): 1 values (model 1); formation 1
 - [O–Th](https://data.orchid-project.org/systems/O-TH.md): 21 values (experimental 21); phase transition 14, phase equilibrium 6, invariant reaction 1
 - [O–Ti](https://data.orchid-project.org/systems/O-TI.md): 44 values (experimental 21, model 23); invariant reaction 41, phase transition 3
-- [O–U](https://data.orchid-project.org/systems/O-U.md): 942 values (experimental 584, model 349, unspecified 9); phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 60
-- [O–Y](https://data.orchid-project.org/systems/O-Y.md): 20 values (experimental 10, model 10); invariant reaction 12, phase transition 6, other property 2
+- [O–Tm](https://data.orchid-project.org/systems/O-TM.md): 1 values (model 1); formation 1
+- [O–U](https://data.orchid-project.org/systems/O-U.md): 947 values (experimental 584, model 354, unspecified 9); phase equilibrium 601, phase transition 204, heat capacity / entropy / enthalpy 62
+- [O–Y](https://data.orchid-project.org/systems/O-Y.md): 21 values (experimental 10, model 11); invariant reaction 12, phase transition 6, other property 2
 - [O–Zr](https://data.orchid-project.org/systems/O-ZR.md): 221 values (experimental 120, model 98, unspecified 3); phase transition 68, phase equilibrium 61, formation 26
 - [Os–C](https://data.orchid-project.org/systems/OS-C.md): 0 values; 1 calculated diagram(s)
 - [Os–Pt](https://data.orchid-project.org/systems/OS-PT.md): 3 values (experimental 1, model 2); phase transition 3; 1 calculated diagram(s)
 - [Os–Si](https://data.orchid-project.org/systems/OS-SI.md): 18 values (experimental 13, model 5); invariant reaction 17, phase equilibrium 1; 1 calculated diagram(s)
-- [P–Si](https://data.orchid-project.org/systems/P-SI.md): 75 values (experimental 34, model 31, unspecified 10); invariant reaction 26, formation 17, heat capacity / entropy / enthalpy 12
+- [P–Si](https://data.orchid-project.org/systems/P-SI.md): 72 values (experimental 34, model 28, unspecified 10); invariant reaction 26, formation 14, heat capacity / entropy / enthalpy 12
 - [P–Sn](https://data.orchid-project.org/systems/P-SN.md): 1 values (experimental 1); phase transition 1
-- [P–Zn](https://data.orchid-project.org/systems/P-ZN.md): 58 values (experimental 26, model 24, unspecified 8); phase transition 30, invariant reaction 20, formation 8
+- [P–Zn](https://data.orchid-project.org/systems/P-ZN.md): 65 values (experimental 28, model 26, unspecified 11); phase transition 30, invariant reaction 20, formation 15
 - [Pb–As](https://data.orchid-project.org/systems/PB-AS.md): 0 values; 1 calculated diagram(s)
 - [Pb–C](https://data.orchid-project.org/systems/PB-C.md): 0 values; 1 calculated diagram(s)
 - [Pb–O](https://data.orchid-project.org/systems/PB-O.md): 0 values; 1 calculated diagram(s)
-- [Pb–Pd](https://data.orchid-project.org/systems/PB-PD.md): 89 values (experimental 41, model 39, unspecified 9); invariant reaction 46, formation 28, phase transition 15; 2 calculated diagram(s)
+- [Pb–Pd](https://data.orchid-project.org/systems/PB-PD.md): 81 values (experimental 41, model 35, unspecified 5); invariant reaction 46, formation 20, phase transition 15; 2 calculated diagram(s)
 - [Pb–Pt](https://data.orchid-project.org/systems/PB-PT.md): 23 values (model 14, DFT 5, unspecified 4); crystal structure 12, invariant reaction 8, phase transition 3; 1 calculated diagram(s)
 - [Pb–Pu](https://data.orchid-project.org/systems/PB-PU.md): 19 values (experimental 11, model 8); invariant reaction 17, phase transition 2; 1 calculated diagram(s)
 - [Pb–S](https://data.orchid-project.org/systems/PB-S.md): 12 values (experimental 6, model 5, unspecified 1); phase transition 8, invariant reaction 4; 1 calculated diagram(s)
@@ -1147,7 +1153,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Pd–Ti](https://data.orchid-project.org/systems/PD-TI.md): 28 values (experimental 13, model 15); invariant reaction 28; 1 calculated diagram(s)
 - [Pd–Y](https://data.orchid-project.org/systems/PD-Y.md): 36 values (experimental 18, model 18); invariant reaction 26, phase transition 10; 1 calculated diagram(s)
 - [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.md): 28 values (experimental 22, model 6); invariant reaction 18, phase transition 10; 1 calculated diagram(s)
-- [Pd–Zn](https://data.orchid-project.org/systems/PD-ZN.md): 77 values (experimental 41, model 6, DFT 30); crystal structure 29, formation 15, invariant reaction 11; 2 calculated diagram(s)
+- [Pd–Zn](https://data.orchid-project.org/systems/PD-ZN.md): 70 values (experimental 38, model 6, DFT 26); crystal structure 29, invariant reaction 11, phase transition 10; 2 calculated diagram(s)
 - [Pd–Zr](https://data.orchid-project.org/systems/PD-ZR.md): 0 values; 1 calculated diagram(s)
 - [Pr–B](https://data.orchid-project.org/systems/PR-B.md): 0 values; 2 calculated diagram(s)
 - [Pr–C](https://data.orchid-project.org/systems/PR-C.md): 0 values; 1 calculated diagram(s)
@@ -1238,7 +1244,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Si–P](https://data.orchid-project.org/systems/SI-P.md): 0 values; 4 calculated diagram(s)
 - [Si–Sn](https://data.orchid-project.org/systems/SI-SN.md): 4 values (experimental 2, model 2); invariant reaction 2, phase transition 2; 4 calculated diagram(s)
 - [Si–Sr](https://data.orchid-project.org/systems/SI-SR.md): 172 values (experimental 64, model 68, DFT 37, unspecified 3); invariant reaction 67, crystal structure 44, formation 41; 5 calculated diagram(s)
-- [Si–Ta](https://data.orchid-project.org/systems/SI-TA.md): 113 values (experimental 54, model 53, DFT 1, unspecified 5); formation 45, invariant reaction 45, phase transition 22; 4 calculated diagram(s)
+- [Si–Ta](https://data.orchid-project.org/systems/SI-TA.md): 114 values (experimental 54, model 54, DFT 1, unspecified 5); formation 45, invariant reaction 45, phase transition 22; 4 calculated diagram(s)
 - [Si–Te](https://data.orchid-project.org/systems/SI-TE.md): 24 values (experimental 17, model 7); phase transition 18, formation 5, invariant reaction 1; 2 calculated diagram(s)
 - [Si–Th](https://data.orchid-project.org/systems/SI-TH.md): 1 values (experimental 1); invariant reaction 1
 - [Si–Ti](https://data.orchid-project.org/systems/SI-TI.md): 9 values (model 9); invariant reaction 7, phase transition 2; 6 calculated diagram(s)
@@ -1254,7 +1260,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Sm–H](https://data.orchid-project.org/systems/SM-H.md): 0 values; 1 calculated diagram(s)
 - [Sm–O](https://data.orchid-project.org/systems/SM-O.md): 0 values; 1 calculated diagram(s)
 - [Sm–Sn](https://data.orchid-project.org/systems/SM-SN.md): 23 values (experimental 11, model 12); invariant reaction 23; 1 calculated diagram(s)
-- [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.md): 30 values (experimental 1, model 5, DFT 17, unspecified 7); formation 24, invariant reaction 5, phase transition 1; 1 calculated diagram(s)
+- [Sm–Ti](https://data.orchid-project.org/systems/SM-TI.md): 34 values (experimental 1, model 5, DFT 21, unspecified 7); formation 28, invariant reaction 5, phase transition 1; 1 calculated diagram(s)
 - [Sm–W](https://data.orchid-project.org/systems/SM-W.md): 0 values; 1 calculated diagram(s)
 - [Sm–Zn](https://data.orchid-project.org/systems/SM-ZN.md): 100 values (experimental 48, model 52); formation 45, invariant reaction 39, phase transition 16; 2 calculated diagram(s)
 - [Sn–As](https://data.orchid-project.org/systems/SN-AS.md): 0 values; 1 calculated diagram(s)
@@ -1272,7 +1278,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Sn–Y](https://data.orchid-project.org/systems/SN-Y.md): 25 values (experimental 16, model 9); invariant reaction 16, formation 7, phase transition 2; 2 calculated diagram(s)
 - [Sn–Yb](https://data.orchid-project.org/systems/SN-YB.md): 73 values (experimental 46, model 27); invariant reaction 59, phase transition 14; 2 calculated diagram(s)
 - [Sn–Zn](https://data.orchid-project.org/systems/SN-ZN.md): 9 values (experimental 6, model 3); invariant reaction 9; 4 calculated diagram(s)
-- [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.md): 77 values (experimental 19, model 34, unspecified 24); invariant reaction 40, formation 25, phase equilibrium 5; 7 calculated diagram(s)
+- [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.md): 72 values (experimental 19, model 29, unspecified 24); invariant reaction 40, formation 20, phase equilibrium 5; 7 calculated diagram(s)
 - [Sr–B](https://data.orchid-project.org/systems/SR-B.md): 0 values; 1 calculated diagram(s)
 - [Sr–H](https://data.orchid-project.org/systems/SR-H.md): 0 values; 1 calculated diagram(s)
 - [Sr–O](https://data.orchid-project.org/systems/SR-O.md): 0 values; 1 calculated diagram(s)
@@ -1367,7 +1373,8 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ag–Au–Pb](https://data.orchid-project.org/systems/AG-AU-PB.md): 9 values (experimental 6, model 3); invariant reaction 9
 - [Ag–Au–Sb](https://data.orchid-project.org/systems/AG-AU-SB.md): 6 values (experimental 3, model 3); invariant reaction 6
 - [Ag–Au–Sn](https://data.orchid-project.org/systems/AG-AU-SN.md): 85 values (experimental 73, model 12); phase transition 40, invariant reaction 27, phase equilibrium 18
-- [Ag–Bi–O](https://data.orchid-project.org/systems/AG-BI-O.md): 5 values (model 5); invariant reaction 5
+- [Ag–Bi–Ni](https://data.orchid-project.org/systems/AG-BI-NI.md): 4 values (model 4); invariant reaction 4
+- [Ag–Bi–O](https://data.orchid-project.org/systems/AG-BI-O.md): 26 values (experimental 18, model 8); invariant reaction 20, phase transition 6
 - [Ag–Bi–Sn](https://data.orchid-project.org/systems/AG-BI-SN.md): 18 values (experimental 3, model 15); invariant reaction 17, phase transition 1
 - [Ag–Cd–In](https://data.orchid-project.org/systems/AG-CD-IN.md): 33 values (experimental 33); phase transition 33
 - [Ag–Co–Ni](https://data.orchid-project.org/systems/AG-CO-NI.md): 19 values (experimental 19); phase equilibrium 19
@@ -1388,7 +1395,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–B–Ni](https://data.orchid-project.org/systems/AL-B-NI.md): 8 values (model 8); invariant reaction 8
 - [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.md): 46 values (experimental 7, model 30, DFT 9); formation 46
 - [Al–C–Co](https://data.orchid-project.org/systems/AL-C-CO.md): 1 values (model 1); phase transition 1
-- [Al–C–Fe](https://data.orchid-project.org/systems/AL-C-FE.md): 33 values (model 6, unspecified 27); invariant reaction 33
+- [Al–C–Fe](https://data.orchid-project.org/systems/AL-C-FE.md): 38 values (model 7, unspecified 31); invariant reaction 38
 - [Al–C–Y](https://data.orchid-project.org/systems/AL-C-Y.md): 2 values (experimental 2); phase transition 2
 - [Al–Ca–Mg](https://data.orchid-project.org/systems/AL-CA-MG.md): 55 values (experimental 12, model 22, unspecified 21); invariant reaction 34, phase transition 21
 - [Al–Ca–O](https://data.orchid-project.org/systems/AL-CA-O.md): 7 values (experimental 6, model 1); phase equilibrium 7
@@ -1403,9 +1410,9 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Co–Ni](https://data.orchid-project.org/systems/AL-CO-NI.md): 1 values (model 1); phase transition 1
 - [Al–Co–Pd](https://data.orchid-project.org/systems/AL-CO-PD.md): 38 values (experimental 38); phase equilibrium 38
 - [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.md): 21 values (DFT 21); formation 21
-- [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.md): 26 values (experimental 16, model 4, DFT 4, unspecified 2); phase equilibrium 16, crystal structure 6, formation 4
+- [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.md): 21 values (experimental 16, model 2, DFT 2, unspecified 1); phase equilibrium 16, crystal structure 3, formation 2
 - [Al–Cr–Mn](https://data.orchid-project.org/systems/AL-CR-MN.md): 6 values (model 6); invariant reaction 5, phase transition 1
-- [Al–Cr–Ni](https://data.orchid-project.org/systems/AL-CR-NI.md): 30 values (experimental 9, model 21); formation 18, activity / EMF / Gibbs energy 12
+- [Al–Cr–Ni](https://data.orchid-project.org/systems/AL-CR-NI.md): 29 values (experimental 11, model 18); activity / EMF / Gibbs energy 12, formation 12, invariant reaction 5
 - [Al–Cr–Si](https://data.orchid-project.org/systems/AL-CR-SI.md): 88 values (experimental 31, model 57); invariant reaction 54, crystal structure 34
 - [Al–Cr–Ti](https://data.orchid-project.org/systems/AL-CR-TI.md): 135 values (experimental 76, model 15, unspecified 44); phase transition 120, invariant reaction 15
 - [Al–Cr–Zr](https://data.orchid-project.org/systems/AL-CR-ZR.md): 32 values (model 32); formation 32
@@ -1421,8 +1428,8 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Fe–P](https://data.orchid-project.org/systems/AL-FE-P.md): 9 values (experimental 2, model 7); invariant reaction 9
 - [Al–Fe–Si](https://data.orchid-project.org/systems/AL-FE-SI.md): 24 values (unspecified 24); phase equilibrium 24
 - [Al–Fe–Ti](https://data.orchid-project.org/systems/AL-FE-TI.md): 62 values (experimental 17, model 32, DFT 13); phase transition 34, formation 28
-- [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.md): 28 values (DFT 28); crystal structure 14, formation 14
-- [Al–Fe–Zr](https://data.orchid-project.org/systems/AL-FE-ZR.md): 95 values (experimental 25, model 70); invariant reaction 63, formation 32
+- [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.md): 14 values (DFT 14); crystal structure 7, formation 7
+- [Al–Fe–Zr](https://data.orchid-project.org/systems/AL-FE-ZR.md): 79 values (experimental 19, model 60); invariant reaction 63, formation 16
 - [Al–Ga–Ge](https://data.orchid-project.org/systems/AL-GA-GE.md): 60 values (experimental 30, model 30); phase equilibrium 60
 - [Al–Ga–U](https://data.orchid-project.org/systems/AL-GA-U.md): 65 values (experimental 49, model 16); crystal structure 33, phase equilibrium 28, invariant reaction 4
 - [Al–Ga–Zn](https://data.orchid-project.org/systems/AL-GA-ZN.md): 12 values (experimental 2, model 10); invariant reaction 12
@@ -1439,7 +1446,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Mg–Si](https://data.orchid-project.org/systems/AL-MG-SI.md): 59 values (experimental 22, model 37); invariant reaction 59
 - [Al–Mg–Sm](https://data.orchid-project.org/systems/AL-MG-SM.md): 26 values (experimental 13, model 13); phase equilibrium 26
 - [Al–Mg–Y](https://data.orchid-project.org/systems/AL-MG-Y.md): 31 values (model 31); invariant reaction 31
-- [Al–Mg–Zn](https://data.orchid-project.org/systems/AL-MG-ZN.md): 171 values (experimental 111, model 38, unspecified 22); phase equilibrium 78, invariant reaction 71, phase transition 22
+- [Al–Mg–Zn](https://data.orchid-project.org/systems/AL-MG-ZN.md): 183 values (experimental 115, model 46, unspecified 22); invariant reaction 83, phase equilibrium 78, phase transition 22
 - [Al–Mo–Ni](https://data.orchid-project.org/systems/AL-MO-NI.md): 40 values (experimental 19, model 7, DFT 6, unspecified 8); invariant reaction 27, phase transition 9, phase equilibrium 4
 - [Al–Mo–Si](https://data.orchid-project.org/systems/AL-MO-SI.md): 33 values (experimental 15, model 18); invariant reaction 33
 - [Al–Mo–Ti](https://data.orchid-project.org/systems/AL-MO-TI.md): 29 values (experimental 11, model 18); invariant reaction 16, phase equilibrium 13
@@ -1447,7 +1454,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–Nb–O](https://data.orchid-project.org/systems/AL-NB-O.md): 6 values (experimental 3, model 3); invariant reaction 6
 - [Al–Nb–Si](https://data.orchid-project.org/systems/AL-NB-SI.md): 22 values (model 22); crystal structure 22
 - [Al–Nb–Ti](https://data.orchid-project.org/systems/AL-NB-TI.md): 291 values (experimental 179, model 98, unspecified 14); phase transition 223, phase equilibrium 40, invariant reaction 28
-- [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.md): 94 values (experimental 2, model 70, DFT 22); formation 53, invariant reaction 37, phase transition 4
+- [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.md): 70 values (experimental 2, model 56, DFT 12); invariant reaction 37, formation 29, phase transition 4
 - [Al–Ni–Pt](https://data.orchid-project.org/systems/AL-NI-PT.md): 24 values (experimental 6, DFT 18); crystal structure 18, formation 6
 - [Al–Ni–Re](https://data.orchid-project.org/systems/AL-NI-RE.md): 1 values (model 1); invariant reaction 1
 - [Al–Ni–W](https://data.orchid-project.org/systems/AL-NI-W.md): 24 values (experimental 12, model 12); phase equilibrium 23, invariant reaction 1
@@ -1516,6 +1523,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi–Ce–Fe](https://data.orchid-project.org/systems/BI-CE-FE.md): 14 values (model 14); invariant reaction 14
 - [Bi–Co–Sn](https://data.orchid-project.org/systems/BI-CO-SN.md): 33 values (experimental 18, model 6, unspecified 9); crystal structure 18, phase equilibrium 9, invariant reaction 6
 - [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.md): 92 values (experimental 13, model 58, DFT 9, unspecified 12); crystal structure 69, formation 23
+- [Bi–Cu–Ni](https://data.orchid-project.org/systems/BI-CU-NI.md): 6 values (model 6); invariant reaction 6
 - [Bi–Dy–Er](https://data.orchid-project.org/systems/BI-DY-ER.md): 28 values (experimental 14, model 2, DFT 12); crystal structure 28
 - [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.md): 113 values (experimental 36, model 14, DFT 63); crystal structure 69, formation 44
 - [Bi–Fe–Sb](https://data.orchid-project.org/systems/BI-FE-SB.md): 50 values (experimental 47, model 3); phase transition 38, invariant reaction 6, phase equilibrium 6
@@ -1592,13 +1600,13 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cr–Fe–Zr](https://data.orchid-project.org/systems/CR-FE-ZR.md): 40 values (experimental 19, model 21); invariant reaction 36, phase equilibrium 4
 - [Cr–Hf–Ni](https://data.orchid-project.org/systems/CR-HF-NI.md): 8 values (experimental 1, model 7); invariant reaction 8
 - [Cr–Hf–Ti](https://data.orchid-project.org/systems/CR-HF-TI.md): 265 values (experimental 36, DFT 168, unspecified 61); crystal structure 265
-- [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.md): 56 values (experimental 33, model 23); phase transition 26, heat capacity / entropy / enthalpy 12, formation 11
+- [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.md): 53 values (experimental 34, model 19); phase transition 26, heat capacity / entropy / enthalpy 11, formation 9
 - [Cr–Mn–O](https://data.orchid-project.org/systems/CR-MN-O.md): 10 values (experimental 7, model 3); invariant reaction 10
 - [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.md): 56 values (experimental 24, model 32); heat capacity / entropy / enthalpy 48, formation 8
 - [Cr–Mo–Ni](https://data.orchid-project.org/systems/CR-MO-NI.md): 2 values (experimental 2); phase transition 2
 - [Cr–Nb–Si](https://data.orchid-project.org/systems/CR-NB-SI.md): 24 values (experimental 1, model 2, unspecified 21); phase equilibrium 18, formation 3, invariant reaction 3
-- [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.md): 117 values (experimental 15, model 8, DFT 91, unspecified 3); crystal structure 72, formation 45
-- [Cr–Ni–Ti](https://data.orchid-project.org/systems/CR-NI-TI.md): 20 values (experimental 11, model 9); invariant reaction 20
+- [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.md): 111 values (experimental 15, model 8, DFT 85, unspecified 3); crystal structure 72, formation 39
+- [Cr–Ni–Ti](https://data.orchid-project.org/systems/CR-NI-TI.md): 31 values (experimental 11, model 20); invariant reaction 31
 - [Cr–Ni–V](https://data.orchid-project.org/systems/CR-NI-V.md): 27 values (DFT 27); formation 27
 - [Cr–Pt–Ru](https://data.orchid-project.org/systems/CR-PT-RU.md): 16 values (unspecified 16); invariant reaction 16
 - [Cr–Ti–Zr](https://data.orchid-project.org/systems/CR-TI-ZR.md): 3 values (unspecified 3); invariant reaction 3
@@ -1609,7 +1617,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cu–Fe–Si](https://data.orchid-project.org/systems/CU-FE-SI.md): 31 values (experimental 31); phase transition 31
 - [Cu–Fe–Ta](https://data.orchid-project.org/systems/CU-FE-TA.md): 28 values (experimental 21, model 7); phase equilibrium 21, invariant reaction 7
 - [Cu–Fe–V](https://data.orchid-project.org/systems/CU-FE-V.md): 21 values (experimental 21); phase equilibrium 21
-- [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.md): 12 values (DFT 12); formation 12
+- [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.md): 6 values (DFT 6); formation 6
 - [Cu–He–Te](https://data.orchid-project.org/systems/CU-HE-TE.md): 2 values (experimental 2); invariant reaction 1, phase transition 1
 - [Cu–La–Ni](https://data.orchid-project.org/systems/CU-LA-NI.md): 37 values (unspecified 37); crystal structure 37
 - [Cu–Li–Mg](https://data.orchid-project.org/systems/CU-LI-MG.md): 50 values (experimental 50); phase equilibrium 50
@@ -1632,7 +1640,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe–Mn–Nb](https://data.orchid-project.org/systems/FE-MN-NB.md): 277 values (experimental 31, model 38, DFT 208); crystal structure 222, invariant reaction 55
 - [Fe–Mn–P](https://data.orchid-project.org/systems/FE-MN-P.md): 8 values (experimental 4, model 4); invariant reaction 8
 - [Fe–Mn–Si](https://data.orchid-project.org/systems/FE-MN-SI.md): 4 values (model 4); phase transition 4
-- [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.md): 85 values (experimental 38, model 20, DFT 22, unspecified 5); formation 44, phase equilibrium 41
+- [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.md): 63 values (experimental 37, model 10, DFT 11, unspecified 5); phase equilibrium 41, formation 22
 - [Fe–Mo–P](https://data.orchid-project.org/systems/FE-MO-P.md): 15 values (experimental 3, model 12); invariant reaction 15
 - [Fe–Mo–Ti](https://data.orchid-project.org/systems/FE-MO-TI.md): 7 values (experimental 7); phase equilibrium 7
 - [Fe–Nb–Ni](https://data.orchid-project.org/systems/FE-NB-NI.md): 75 values (experimental 1, model 37, unspecified 37); formation 72, invariant reaction 3
@@ -1644,11 +1652,11 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe–Ni–Si](https://data.orchid-project.org/systems/FE-NI-SI.md): 32 values (experimental 14, unspecified 18); invariant reaction 32
 - [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.md): 74 values (experimental 69, model 5); phase equilibrium 53, mixing / partial 9, formation 7
 - [Fe–Ni–Ti](https://data.orchid-project.org/systems/FE-NI-TI.md): 33 values (model 33); crystal structure 33
-- [Fe–Ni–W](https://data.orchid-project.org/systems/FE-NI-W.md): 118 values (experimental 118); phase equilibrium 118
+- [Fe–Ni–W](https://data.orchid-project.org/systems/FE-NI-W.md): 122 values (experimental 120, model 2); phase equilibrium 118, invariant reaction 4
 - [Fe–Pa–Sm](https://data.orchid-project.org/systems/FE-PA-SM.md): 1 values (experimental 1); phase transition 1
 - [Fe–Pu–U](https://data.orchid-project.org/systems/FE-PU-U.md): 6 values (experimental 6); phase equilibrium 6
 - [Fe–Si–Zn](https://data.orchid-project.org/systems/FE-SI-ZN.md): 35 values (experimental 7, model 28); invariant reaction 35
-- [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.md): 45 values (model 40, DFT 1, unspecified 4); mixing / partial 25, formation 16, phase equilibrium 4
+- [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.md): 43 values (model 38, DFT 1, unspecified 4); mixing / partial 25, formation 14, phase equilibrium 4
 - [Fe–Ti–V](https://data.orchid-project.org/systems/FE-TI-V.md): 2 values (experimental 1, model 1); invariant reaction 2
 - [Fe–Ti–Zr](https://data.orchid-project.org/systems/FE-TI-ZR.md): 6 values (model 6); invariant reaction 6
 - [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.md): 62 values (experimental 23, model 38, DFT 1); invariant reaction 34, formation 28
@@ -1677,7 +1685,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Hf–O–Si](https://data.orchid-project.org/systems/HF-O-SI.md): 23 values (experimental 1, DFT 22); crystal structure 22, invariant reaction 1
 - [Hf–Sn–Y](https://data.orchid-project.org/systems/HF-SN-Y.md): 71 values (experimental 41, model 19, unspecified 11); crystal structure 43, invariant reaction 28
 - [Hf–Ti–Zr](https://data.orchid-project.org/systems/HF-TI-ZR.md): 2 values (experimental 1, model 1); phase transition 2
-- [Hf–V–Zr](https://data.orchid-project.org/systems/HF-V-ZR.md): 24 values (model 24); formation 16, mixing / partial 8
+- [Hf–V–Zr](https://data.orchid-project.org/systems/HF-V-ZR.md): 16 values (model 16); formation 8, mixing / partial 8
 - [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.md): 20 values (experimental 7, model 5, DFT 8); formation 20
 - [In–Ni–Sb](https://data.orchid-project.org/systems/IN-NI-SB.md): 25 values (experimental 10, model 15); invariant reaction 25
 - [In–Sb–Sn](https://data.orchid-project.org/systems/IN-SB-SN.md): 19 values (experimental 8, model 11); invariant reaction 15, phase transition 4
@@ -1692,7 +1700,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [La–Pr–Si](https://data.orchid-project.org/systems/LA-PR-SI.md): 58 values (model 15, unspecified 43); invariant reaction 58
 - [Li–Mg–Si](https://data.orchid-project.org/systems/LI-MG-SI.md): 132 values (experimental 90, model 38, unspecified 4); phase transition 95, invariant reaction 19, phase equilibrium 10
 - [Li–Mn–Si](https://data.orchid-project.org/systems/LI-MN-SI.md): 33 values (experimental 11, model 10, unspecified 12); crystal structure 24, phase equilibrium 9
-- [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.md): 28 values (model 14, unspecified 14); heat capacity / entropy / enthalpy 14, other property 10, formation 4
+- [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.md): 24 values (model 14, unspecified 10); heat capacity / entropy / enthalpy 12, other property 10, formation 2
 - [Mg–Nd–Sr](https://data.orchid-project.org/systems/MG-ND-SR.md): 2 values (experimental 2); invariant reaction 1, phase equilibrium 1
 - [Mg–Nd–Y](https://data.orchid-project.org/systems/MG-ND-Y.md): 10 values (experimental 10); phase equilibrium 10
 - [Mg–Nd–Zn](https://data.orchid-project.org/systems/MG-ND-ZN.md): 40 values (experimental 4, model 36); invariant reaction 40
@@ -1704,7 +1712,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mg–Y–Zn](https://data.orchid-project.org/systems/MG-Y-ZN.md): 45 values (unspecified 45); crystal structure 45
 - [Mn–O–Ta](https://data.orchid-project.org/systems/MN-O-TA.md): 16 values (experimental 16); phase equilibrium 16
 - [Mn–O–W](https://data.orchid-project.org/systems/MN-O-W.md): 11 values (experimental 11); phase equilibrium 11
-- [Mo–Nb–Re](https://data.orchid-project.org/systems/MO-NB-RE.md): 25 values (experimental 3, model 3, DFT 16, unspecified 3); formation 16, phase equilibrium 6, invariant reaction 3
+- [Mo–Nb–Re](https://data.orchid-project.org/systems/MO-NB-RE.md): 27 values (experimental 3, model 3, DFT 18, unspecified 3); formation 18, phase equilibrium 6, invariant reaction 3
 - [Mo–Nb–Si](https://data.orchid-project.org/systems/MO-NB-SI.md): 7 values (unspecified 7); invariant reaction 7
 - [Mo–Nb–Ta](https://data.orchid-project.org/systems/MO-NB-TA.md): 0 values
 - [Mo–Nb–V](https://data.orchid-project.org/systems/MO-NB-V.md): 18 values (experimental 18); phase equilibrium 18
@@ -1746,7 +1754,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al–As–Ga–Ge](https://data.orchid-project.org/systems/AL-AS-GA-GE.md): 5 values (unspecified 5); heat capacity / entropy / enthalpy 4, activity / EMF / Gibbs energy 1
 - [Al–B–Cr–Ni](https://data.orchid-project.org/systems/AL-B-CR-NI.md): 51 values (experimental 51); crystal structure 51
 - [Al–C–Co–Fe](https://data.orchid-project.org/systems/AL-C-CO-FE.md): 1 values (model 1); invariant reaction 1
-- [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.md): 341 values (experimental 43, model 118, DFT 180); formation 221, mixing / partial 98, crystal structure 22
+- [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.md): 264 values (experimental 22, model 62, DFT 180); formation 144, mixing / partial 98, crystal structure 22
 - [Al–Co–Cr–Y](https://data.orchid-project.org/systems/AL-CO-CR-Y.md): 7 values (experimental 7); phase equilibrium 7
 - [Al–Fe–Ti–V](https://data.orchid-project.org/systems/AL-FE-TI-V.md): 7 values (experimental 7); phase transition 7
 - [Al–Gd–La–Ni](https://data.orchid-project.org/systems/AL-GD-LA-NI.md): 9 values (experimental 6, unspecified 3); activity / EMF / Gibbs energy 9
@@ -1778,7 +1786,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe–O–U–Zr](https://data.orchid-project.org/systems/FE-O-U-ZR.md): 8 values (model 8); phase transition 8
 - [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.md): 23 values (experimental 4, model 5, DFT 14); formation 23
 - [Gd–Mn–Sm–Y](https://data.orchid-project.org/systems/GD-MN-SM-Y.md): 8 values (experimental 2, model 6); formation 8
-- [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.md): 40 values (experimental 2, model 6, DFT 32); formation 40
+- [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.md): 62 values (experimental 2, model 6, DFT 54); formation 62
 - [La–Np–O–Y](https://data.orchid-project.org/systems/LA-NP-O-Y.md): 8 values (model 8); formation 8
 - [Mn–Nb–O–Ta](https://data.orchid-project.org/systems/MN-NB-O-TA.md): 10 values (experimental 10); crystal structure 10
 - [Mo–Nb–Ta–W](https://data.orchid-project.org/systems/MO-NB-TA-W.md): 32 values (model 32); phase transition 32
@@ -1812,9 +1820,9 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Dy–Er–Eu–Gd–Pd–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-Y-YB.md): 33 values (model 32, DFT 1); formation 23, mixing / partial 10
 - [Au–Dy–Gd–Nd–Pm–Pr–Sm–Tb](https://data.orchid-project.org/systems/AU-DY-GD-ND-PM-PR-SM-TB.md): 13 values (experimental 13); invariant reaction 13
 - [Ce–Dy–Gd–La–Nd–Pr–Sm–Ti](https://data.orchid-project.org/systems/CE-DY-GD-LA-ND-PR-SM-TI.md): 7 values (unspecified 7); phase transition 7
-- [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md): 108 values (model 108); heat capacity / entropy / enthalpy 55, other property 35, formation 18
+- [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.md): 81 values (model 81); heat capacity / entropy / enthalpy 46, other property 35
 - [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.md): 215 values (experimental 5, model 203, DFT 7); formation 215
-- [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.md): 18 values (model 18); formation 9, heat capacity / entropy / enthalpy 9
+- [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.md): 9 values (model 9); heat capacity / entropy / enthalpy 9
 - [Ce–Dy–Er–Gd–Ho–La–Nd–Pr–Sm–Tb](https://data.orchid-project.org/systems/CE-DY-ER-GD-HO-LA-ND-PR-SM-TB.md): 19 values (model 19); phase transition 19
 - [Ce–Eu–Gd–La–Nd–O–Pr–Sm–Tb–Y](https://data.orchid-project.org/systems/CE-EU-GD-LA-ND-O-PR-SM-TB-Y.md): 84 values (experimental 84); phase transition 84
 - [Dy–Er–Eu–Ho–Lu–O–Sc–Sm–Tb–Tm–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-HO-LU-O-SC-SM-TB-TM-Y-YB.md): 27 values (experimental 21, unspecified 6); phase transition 27
@@ -1857,9 +1865,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al13Fe4](https://data.orchid-project.org/compounds/Al13Fe4.md): 2 literature value(s); DFT kJ/mol-atom MP -31.526, OQMD -31.902
 - [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.md): 5 literature value(s); DFT kJ/mol-atom OQMD -57.448
 - [Al13Ru4](https://data.orchid-project.org/compounds/Al13Ru4.md): 2 literature value(s); DFT kJ/mol-atom MP -51.776, OQMD -51.227
-- [Al13Sr7](https://data.orchid-project.org/compounds/Al13Sr7.md): 2 literature value(s)
 - [Al14Ca13](https://data.orchid-project.org/compounds/Al14Ca13.md): 7 literature value(s); DFT kJ/mol-atom MP -25.073, OQMD -25.969
-- [Al14Sr13](https://data.orchid-project.org/compounds/Al14Sr13.md): 1 literature value(s)
 - [Al18Cr2Mg3](https://data.orchid-project.org/compounds/Al18Cr2Mg3.md): 2 literature value(s)
 - [Al2.7Ir](https://data.orchid-project.org/compounds/Al2.7Ir.md): 5 literature value(s)
 - [Al23Ni6Y4](https://data.orchid-project.org/compounds/Al23Ni6Y4.md): 3 literature value(s)
@@ -1874,7 +1880,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al2Mg](https://data.orchid-project.org/compounds/Al2Mg.md): 3 literature value(s)
 - [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.md): 10 literature value(s); DFT kJ/mol-atom OQMD -2.255
 - [Al2Ni6Y3](https://data.orchid-project.org/compounds/Al2Ni6Y3.md): 3 literature value(s)
-- [Al2NiPr](https://data.orchid-project.org/compounds/Al2NiPr.md): 6 literature value(s)
+- [Al2NiPr](https://data.orchid-project.org/compounds/Al2NiPr.md): 3 literature value(s)
 - [Al2NiPt](https://data.orchid-project.org/compounds/Al2NiPt.md): 1 literature value(s)
 - [Al2NiY](https://data.orchid-project.org/compounds/Al2NiY.md): 3 literature value(s)
 - [Al2Np](https://data.orchid-project.org/compounds/Al2Np.md): 1 literature value(s)
@@ -1883,7 +1889,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al2Ru](https://data.orchid-project.org/compounds/Al2Ru.md): 2 literature value(s); DFT kJ/mol-atom MP -69.357, OQMD -68.722
 - [Al2S3](https://data.orchid-project.org/compounds/Al2S3.md): 8 literature value(s); DFT kJ/mol-atom MP -131.06, OQMD -118.658
 - [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.md): 5 literature value(s); DFT kJ/mol-atom MP -108.385, OQMD -82.526
-- [Al2Sr](https://data.orchid-project.org/compounds/Al2Sr.md): 15 literature value(s)
+- [Al2Sr](https://data.orchid-project.org/compounds/Al2Sr.md): 14 literature value(s)
 - [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.md): 4 literature value(s); DFT kJ/mol-atom MP -67.973, OQMD -43.474
 - [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.md): 1 literature value(s); DFT kJ/mol-atom MP -60.423, OQMD -31.742
 - [Al2Ti](https://data.orchid-project.org/compounds/Al2Ti.md): 6 literature value(s); DFT kJ/mol-atom MP -41.623, OQMD -43.383
@@ -1905,13 +1911,13 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al3Li](https://data.orchid-project.org/compounds/Al3Li.md): 9 literature value(s); DFT kJ/mol-atom MP -9.552, OQMD -9.616
 - [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.md): 5 literature value(s); DFT kJ/mol-atom OQMD 0.223
 - [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.md): 11 literature value(s); DFT kJ/mol-atom MP -39.068, OQMD -39.608
-- [Al3Ni2Pr](https://data.orchid-project.org/compounds/Al3Ni2Pr.md): 8 literature value(s)
+- [Al3Ni2Pr](https://data.orchid-project.org/compounds/Al3Ni2Pr.md): 4 literature value(s)
 - [Al3Ni2Y](https://data.orchid-project.org/compounds/Al3Ni2Y.md): 3 literature value(s)
 - [Al3NiY](https://data.orchid-project.org/compounds/Al3NiY.md): 1 literature value(s)
 - [Al3Np](https://data.orchid-project.org/compounds/Al3Np.md): 1 literature value(s)
 - [Al3Pu](https://data.orchid-project.org/compounds/Al3Pu.md): 3 literature value(s)
 - [Al3Ru2](https://data.orchid-project.org/compounds/Al3Ru2.md): 2 literature value(s); DFT kJ/mol-atom MP -68.423, OQMD -67.533
-- [Al3Sr](https://data.orchid-project.org/compounds/Al3Sr.md): 4 literature value(s)
+- [Al3Sr](https://data.orchid-project.org/compounds/Al3Sr.md): 3 literature value(s)
 - [Al3Sr8](https://data.orchid-project.org/compounds/Al3Sr8.md): 2 literature value(s)
 - [Al3Ti](https://data.orchid-project.org/compounds/Al3Ti.md): 6 literature value(s); DFT kJ/mol-atom MP -38.428, OQMD -40.324
 - [Al3U](https://data.orchid-project.org/compounds/Al3U.md): 1 literature value(s)
@@ -1930,11 +1936,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al4Cr](https://data.orchid-project.org/compounds/Al4Cr.md): 4 literature value(s); DFT kJ/mol-atom OQMD -6.536
 - [Al4Li9](https://data.orchid-project.org/compounds/Al4Li9.md): 5 literature value(s); DFT kJ/mol-atom MP -13.974, OQMD -15.411
 - [Al4Mn](https://data.orchid-project.org/compounds/Al4Mn.md): 5 literature value(s)
-- [Al4NiPr](https://data.orchid-project.org/compounds/Al4NiPr.md): 8 literature value(s)
+- [Al4NiPr](https://data.orchid-project.org/compounds/Al4NiPr.md): 4 literature value(s)
 - [Al4NiY](https://data.orchid-project.org/compounds/Al4NiY.md): 3 literature value(s)
 - [Al4Np](https://data.orchid-project.org/compounds/Al4Np.md): 1 literature value(s)
 - [Al4Pu](https://data.orchid-project.org/compounds/Al4Pu.md): 1 literature value(s)
-- [Al4Sr](https://data.orchid-project.org/compounds/Al4Sr.md): 5 literature value(s)
 - [Al4U](https://data.orchid-project.org/compounds/Al4U.md): 1 literature value(s)
 - [Al4W](https://data.orchid-project.org/compounds/Al4W.md): 1 literature value(s)
 - [Al4Zr5](https://data.orchid-project.org/compounds/Al4Zr5.md): 39 literature value(s); DFT kJ/mol-atom MP -40.375, OQMD -40.389
@@ -1942,19 +1947,17 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.md): 6 literature value(s); DFT kJ/mol-atom MP -21.401, OQMD -21.61
 - [Al5Co2](https://data.orchid-project.org/compounds/Al5Co2.md): 7 literature value(s)
 - [Al5Fe2](https://data.orchid-project.org/compounds/Al5Fe2.md): 3 literature value(s)
-- [Al5Ni2Pr](https://data.orchid-project.org/compounds/Al5Ni2Pr.md): 8 literature value(s)
-- [Al5Sr3](https://data.orchid-project.org/compounds/Al5Sr3.md): 1 literature value(s)
-- [Al5Sr4](https://data.orchid-project.org/compounds/Al5Sr4.md): 1 literature value(s)
+- [Al5Ni2Pr](https://data.orchid-project.org/compounds/Al5Ni2Pr.md): 4 literature value(s)
 - [Al5Ti3](https://data.orchid-project.org/compounds/Al5Ti3.md): 3 literature value(s); DFT kJ/mol-atom MP -39.557, OQMD -42.592
 - [Al5W](https://data.orchid-project.org/compounds/Al5W.md): 3 literature value(s)
 - [Al6Mn](https://data.orchid-project.org/compounds/Al6Mn.md): 3 literature value(s); DFT kJ/mol-atom MP -16.759, OQMD -16.648
 - [Al6Ru](https://data.orchid-project.org/compounds/Al6Ru.md): 2 literature value(s); DFT kJ/mol-atom MP -31.78, OQMD -31.352
 - [Al7Cr](https://data.orchid-project.org/compounds/Al7Cr.md): 1 literature value(s); DFT kJ/mol-atom OQMD 2.914
-- [Al7Ni2Pr](https://data.orchid-project.org/compounds/Al7Ni2Pr.md): 4 literature value(s)
+- [Al7Ni2Pr](https://data.orchid-project.org/compounds/Al7Ni2Pr.md): 2 literature value(s)
 - [Al7Ni3Y2](https://data.orchid-project.org/compounds/Al7Ni3Y2.md): 1 literature value(s)
 - [Al7Sr8](https://data.orchid-project.org/compounds/Al7Sr8.md): 3 literature value(s)
 - [Al8Cr5](https://data.orchid-project.org/compounds/Al8Cr5.md): 2 literature value(s); DFT kJ/mol-atom MP -5.217, OQMD -9.087
-- [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.md): 11 literature value(s); DFT kJ/mol-atom MP -19.01, OQMD -18.934
+- [Al8Mn5](https://data.orchid-project.org/compounds/Al8Mn5.md): 8 literature value(s); DFT kJ/mol-atom MP -19.01, OQMD -18.934
 - [Al8Mo3](https://data.orchid-project.org/compounds/Al8Mo3.md): 2 literature value(s); DFT kJ/mol-atom MP -32.395, OQMD -32.317
 - [Al8V5](https://data.orchid-project.org/compounds/Al8V5.md): 8 literature value(s); DFT kJ/mol-atom MP -21.333, OQMD -6.349
 - [Al9Co2](https://data.orchid-project.org/compounds/Al9Co2.md): 6 literature value(s)
@@ -1986,12 +1989,12 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [AlMo](https://data.orchid-project.org/compounds/AlMo.md): 2 literature value(s); DFT kJ/mol-atom OQMD -18.854
 - [AlMo3](https://data.orchid-project.org/compounds/AlMo3.md): 2 literature value(s); DFT kJ/mol-atom MP -23.552, OQMD -22.704
 - [AlNi](https://data.orchid-project.org/compounds/AlNi.md): 11 literature value(s); DFT kJ/mol-atom MP -63.568, OQMD -64.592
-- [AlNi2Pr2](https://data.orchid-project.org/compounds/AlNi2Pr2.md): 8 literature value(s)
+- [AlNi2Pr2](https://data.orchid-project.org/compounds/AlNi2Pr2.md): 4 literature value(s)
 - [AlNi2Pt](https://data.orchid-project.org/compounds/AlNi2Pt.md): 1 literature value(s)
 - [AlNi2Y2](https://data.orchid-project.org/compounds/AlNi2Y2.md): 3 literature value(s)
 - [AlNi3](https://data.orchid-project.org/compounds/AlNi3.md): 30 literature value(s); DFT kJ/mol-atom MP -41.884, OQMD -42.323
 - [AlNi3Y2](https://data.orchid-project.org/compounds/AlNi3Y2.md): 1 literature value(s)
-- [AlNi8Pr3](https://data.orchid-project.org/compounds/AlNi8Pr3.md): 6 literature value(s)
+- [AlNi8Pr3](https://data.orchid-project.org/compounds/AlNi8Pr3.md): 3 literature value(s)
 - [AlNi8Y3](https://data.orchid-project.org/compounds/AlNi8Y3.md): 3 literature value(s)
 - [AlNiPr](https://data.orchid-project.org/compounds/AlNiPr.md): 5 literature value(s)
 - [AlNiPt2](https://data.orchid-project.org/compounds/AlNiPt2.md): 1 literature value(s)
@@ -2001,7 +2004,6 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [AlS](https://data.orchid-project.org/compounds/AlS.md): 1 literature value(s); DFT kJ/mol-atom OQMD -98.741
 - [AlSb](https://data.orchid-project.org/compounds/AlSb.md): 5 literature value(s)
 - [AlSr](https://data.orchid-project.org/compounds/AlSr.md): 2 literature value(s)
-- [AlSr10](https://data.orchid-project.org/compounds/AlSr10.md): 1 literature value(s)
 - [AlTe](https://data.orchid-project.org/compounds/AlTe.md): 1 literature value(s); DFT kJ/mol-atom OQMD -37.082
 - [AlTi](https://data.orchid-project.org/compounds/AlTi.md): 3 literature value(s); DFT kJ/mol-atom MP -39.264, OQMD -42.07
 - [AlTi3](https://data.orchid-project.org/compounds/AlTi3.md): 6 literature value(s); DFT kJ/mol-atom MP -26.934, OQMD -31.691
@@ -2092,7 +2094,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Be3Ti](https://data.orchid-project.org/compounds/Be3Ti.md): 7 literature value(s); DFT kJ/mol-atom MP -19.76, OQMD -20.401
 - [Be3Zr](https://data.orchid-project.org/compounds/Be3Zr.md): 1 literature value(s)
 - [Be5Zr](https://data.orchid-project.org/compounds/Be5Zr.md): 4 literature value(s); DFT kJ/mol-atom MP -23.262, OQMD -22.858
-- [BeMo](https://data.orchid-project.org/compounds/BeMo.md): 4 literature value(s)
+- [BeMo](https://data.orchid-project.org/compounds/BeMo.md): 2 literature value(s)
 - [BeMo3](https://data.orchid-project.org/compounds/BeMo3.md): 2 literature value(s)
 - [BeTi](https://data.orchid-project.org/compounds/BeTi.md): 6 literature value(s); DFT kJ/mol-atom MP -13.537, OQMD -15.798
 - [BeTi3](https://data.orchid-project.org/compounds/BeTi3.md): 2 literature value(s); DFT kJ/mol-atom MP -0.057, OQMD -6.723
@@ -2102,11 +2104,11 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi2Ce](https://data.orchid-project.org/compounds/Bi2Ce.md): 3 literature value(s); DFT kJ/mol-atom OQMD -65.432
 - [Bi2Cs](https://data.orchid-project.org/compounds/Bi2Cs.md): 4 literature value(s); DFT kJ/mol-atom MP -29.714, OQMD -29.789
 - [Bi2Cs3](https://data.orchid-project.org/compounds/Bi2Cs3.md): 4 literature value(s); DFT kJ/mol-atom MP -31.375, OQMD -34.17
-- [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.md): 41 literature value(s); DFT kJ/mol-atom OQMD -46.37
+- [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.md): 22 literature value(s); DFT kJ/mol-atom OQMD -46.37
 - [Bi2FeTi4](https://data.orchid-project.org/compounds/Bi2FeTi4.md): 1 literature value(s)
 - [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.md): 10 literature value(s); DFT kJ/mol-atom OQMD -55.782
-- [Bi2K](https://data.orchid-project.org/compounds/Bi2K.md): 4 literature value(s); DFT kJ/mol-atom MP -32.149, OQMD -30.659
-- [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.md): 1 literature value(s); DFT kJ/mol-atom MP -31.875, OQMD -33.986
+- [Bi2K](https://data.orchid-project.org/compounds/Bi2K.md): 5 literature value(s); DFT kJ/mol-atom MP -32.149, OQMD -30.659
+- [Bi2K3](https://data.orchid-project.org/compounds/Bi2K3.md): 2 literature value(s); DFT kJ/mol-atom MP -31.875, OQMD -33.986
 - [Bi2Lu](https://data.orchid-project.org/compounds/Bi2Lu.md): 2 literature value(s); DFT kJ/mol-atom OQMD -38.291
 - [Bi2Mg3](https://data.orchid-project.org/compounds/Bi2Mg3.md): 12 literature value(s)
 - [Bi2O3](https://data.orchid-project.org/compounds/Bi2O3.md): 11 literature value(s)
@@ -2131,7 +2133,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.md): 4 literature value(s); DFT kJ/mol-atom MP -84.259, OQMD -85.527
 - [Bi3Tm5](https://data.orchid-project.org/compounds/Bi3Tm5.md): 4 literature value(s); DFT kJ/mol-atom MP -59.592, OQMD -60.919
 - [Bi4Cs5](https://data.orchid-project.org/compounds/Bi4Cs5.md): 3 literature value(s); DFT kJ/mol-atom OQMD -37.814
-- [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.md): 3 literature value(s); DFT kJ/mol-atom MP -33.867, OQMD -36.015
+- [Bi4K5](https://data.orchid-project.org/compounds/Bi4K5.md): 4 literature value(s); DFT kJ/mol-atom MP -33.867, OQMD -36.015
 - [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.md): 9 literature value(s); DFT kJ/mol-atom MP -32.389, OQMD -34.447
 - [Bi4Se3](https://data.orchid-project.org/compounds/Bi4Se3.md): 5 literature value(s); DFT kJ/mol-atom MP -45.563, OQMD -26.325
 - [Bi4Te3](https://data.orchid-project.org/compounds/Bi4Te3.md): 1 literature value(s); DFT kJ/mol-atom MP -34.084, OQMD -16.486
@@ -2237,7 +2239,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ce16Ru9](https://data.orchid-project.org/compounds/Ce16Ru9.md): 10 literature value(s); DFT kJ/mol-atom MP -31.702, OQMD -7.886
 - [Ce2C3](https://data.orchid-project.org/compounds/Ce2C3.md): 1 literature value(s); DFT kJ/mol-atom MP -24.666, OQMD -11.083
 - [Ce2Cu9Sn3](https://data.orchid-project.org/compounds/Ce2Cu9Sn3.md): 1 literature value(s)
-- [Ce2O3](https://data.orchid-project.org/compounds/Ce2O3.md): 1 literature value(s)
+- [Ce2O3](https://data.orchid-project.org/compounds/Ce2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -363.729, OQMD -339.664
 - [Ce2Sn5](https://data.orchid-project.org/compounds/Ce2Sn5.md): 3 literature value(s); DFT kJ/mol-atom MP -53.715, OQMD -61.94
 - [Ce3Cu4Sn4](https://data.orchid-project.org/compounds/Ce3Cu4Sn4.md): 1 literature value(s)
 - [Ce3Ga](https://data.orchid-project.org/compounds/Ce3Ga.md): 1 literature value(s); DFT kJ/mol-atom MP -24.233, OQMD -21.97
@@ -2262,7 +2264,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [CeCuSn](https://data.orchid-project.org/compounds/CeCuSn.md): 1 literature value(s)
 - [CeCuSn2](https://data.orchid-project.org/compounds/CeCuSn2.md): 1 literature value(s)
 - [CeGa](https://data.orchid-project.org/compounds/CeGa.md): 3 literature value(s); DFT kJ/mol-atom MP -45.635, OQMD -55.036
-- [CeGa2](https://data.orchid-project.org/compounds/CeGa2.md): 8 literature value(s); DFT kJ/mol-atom MP -56.989, OQMD -66.477
+- [CeGa2](https://data.orchid-project.org/compounds/CeGa2.md): 6 literature value(s); DFT kJ/mol-atom MP -56.989, OQMD -66.477
 - [CeGa6](https://data.orchid-project.org/compounds/CeGa6.md): 5 literature value(s); DFT kJ/mol-atom MP -31.098, OQMD -34.197
 - [CeMg](https://data.orchid-project.org/compounds/CeMg.md): 1 literature value(s); DFT kJ/mol-atom MP 0.742, OQMD -11.851
 - [CeMg3](https://data.orchid-project.org/compounds/CeMg3.md): 2 literature value(s); DFT kJ/mol-atom MP -2.733, OQMD -12.911
@@ -2283,7 +2285,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Co3V](https://data.orchid-project.org/compounds/Co3V.md): 16 literature value(s)
 - [Co3W](https://data.orchid-project.org/compounds/Co3W.md): 3 literature value(s)
 - [Co4Y](https://data.orchid-project.org/compounds/Co4Y.md): 2 literature value(s)
-- [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.md): 28 literature value(s); DFT kJ/mol-atom OQMD -16.532
+- [Co5Ge3](https://data.orchid-project.org/compounds/Co5Ge3.md): 26 literature value(s); DFT kJ/mol-atom OQMD -16.532
 - [CoCr](https://data.orchid-project.org/compounds/CoCr.md): 1 literature value(s); DFT kJ/mol-atom MP 14.816, OQMD 2.922
 - [CoCr3](https://data.orchid-project.org/compounds/CoCr3.md): 1 literature value(s); DFT kJ/mol-atom MP 24.326, OQMD 3.465
 - [CoGa](https://data.orchid-project.org/compounds/CoGa.md): 5 literature value(s); DFT kJ/mol-atom MP -27.209, OQMD -27.73
@@ -2304,7 +2306,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [CoZr](https://data.orchid-project.org/compounds/CoZr.md): 10 literature value(s); DFT kJ/mol-atom MP -28.143, OQMD -32.068
 - [CoZr2](https://data.orchid-project.org/compounds/CoZr2.md): 12 literature value(s); DFT kJ/mol-atom MP -24.825, OQMD -25.161
 - [CoZr3](https://data.orchid-project.org/compounds/CoZr3.md): 3 literature value(s); DFT kJ/mol-atom MP -20.331, OQMD -20.793
-- [Cr0.667Ti0.333](https://data.orchid-project.org/compounds/Cr0.667Ti0.333.md): 10 literature value(s)
+- [Cr0.667Ti0.333](https://data.orchid-project.org/compounds/Cr0.667Ti0.333.md): 5 literature value(s)
 - [Cr11Ge19](https://data.orchid-project.org/compounds/Cr11Ge19.md): 2 literature value(s); DFT kJ/mol-atom MP -1.079
 - [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.md): 4 literature value(s); DFT kJ/mol-atom MP 0.724
 - [Cr2B](https://data.orchid-project.org/compounds/Cr2B.md): 4 literature value(s); DFT kJ/mol-atom MP -35.874, OQMD -36.091
@@ -2327,7 +2329,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [CrGa4](https://data.orchid-project.org/compounds/CrGa4.md): 8 literature value(s); DFT kJ/mol-atom MP -15.083, OQMD -14.848
 - [CrGe](https://data.orchid-project.org/compounds/CrGe.md): 2 literature value(s); DFT kJ/mol-atom MP 1.407, OQMD -1.042
 - [CrLa2O6](https://data.orchid-project.org/compounds/CrLa2O6.md): 1 literature value(s)
-- [CrLaO3](https://data.orchid-project.org/compounds/CrLaO3.md): 7 literature value(s)
+- [CrLaO3](https://data.orchid-project.org/compounds/CrLaO3.md): 4 literature value(s)
 - [CrN](https://data.orchid-project.org/compounds/CrN.md): 2 literature value(s); DFT kJ/mol-atom MP -66.723, OQMD -59.652
 - [CrNb2](https://data.orchid-project.org/compounds/CrNb2.md): 3 literature value(s)
 - [CrNi](https://data.orchid-project.org/compounds/CrNi.md): 1 literature value(s); DFT kJ/mol-atom MP 14.647, OQMD 3.285
@@ -2354,7 +2356,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cu0.75Ge0.25](https://data.orchid-project.org/compounds/Cu0.75Ge0.25.md): 3 literature value(s)
 - [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.md): 10 literature value(s); DFT kJ/mol-atom MP -17.211, OQMD -16.705
 - [Cu10Sb3](https://data.orchid-project.org/compounds/Cu10Sb3.md): 1 literature value(s); DFT kJ/mol-atom MP 2.094, OQMD 5.616
-- [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.md): 12 literature value(s); DFT kJ/mol-atom MP -15.275, OQMD -15.415
+- [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.md): 10 literature value(s); DFT kJ/mol-atom MP -15.275, OQMD -15.415
 - [Cu17Sb3](https://data.orchid-project.org/compounds/Cu17Sb3.md): 2 literature value(s)
 - [Cu27Hf7](https://data.orchid-project.org/compounds/Cu27Hf7.md): 2 literature value(s)
 - [Cu2Dy](https://data.orchid-project.org/compounds/Cu2Dy.md): 4 literature value(s); DFT kJ/mol-atom MP -26.052, OQMD -26.104
@@ -2371,7 +2373,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Cu4Sb](https://data.orchid-project.org/compounds/Cu4Sb.md): 1 literature value(s)
 - [Cu4Ti](https://data.orchid-project.org/compounds/Cu4Ti.md): 2 literature value(s)
 - [Cu4Ti3](https://data.orchid-project.org/compounds/Cu4Ti3.md): 2 literature value(s)
-- [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.md): 9 literature value(s); DFT kJ/mol-atom MP -15.029
+- [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.md): 11 literature value(s); DFT kJ/mol-atom MP -15.029
 - [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.md): 12 literature value(s); DFT kJ/mol-atom MP -15.74
 - [Cu5Dy](https://data.orchid-project.org/compounds/Cu5Dy.md): 3 literature value(s); DFT kJ/mol-atom MP -18.422, OQMD -18.593
 - [Cu5Er](https://data.orchid-project.org/compounds/Cu5Er.md): 3 literature value(s); DFT kJ/mol-atom MP -18.819, OQMD -18.957
@@ -2397,10 +2399,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [CuPt3](https://data.orchid-project.org/compounds/CuPt3.md): 5 literature value(s); DFT kJ/mol-atom MP 232.783, OQMD -11.337
 - [CuTi](https://data.orchid-project.org/compounds/CuTi.md): 3 literature value(s)
 - [CuTi2](https://data.orchid-project.org/compounds/CuTi2.md): 2 literature value(s)
-- [CuZr](https://data.orchid-project.org/compounds/CuZr.md): 24 literature value(s); DFT kJ/mol-atom MP -12.296, OQMD -12.626
+- [CuZr](https://data.orchid-project.org/compounds/CuZr.md): 17 literature value(s); DFT kJ/mol-atom MP -12.296, OQMD -12.626
 - [CuZr2](https://data.orchid-project.org/compounds/CuZr2.md): 14 literature value(s); DFT kJ/mol-atom MP -12.941, OQMD -13.274
 - [Dy11Sn10](https://data.orchid-project.org/compounds/Dy11Sn10.md): 1 literature value(s); DFT kJ/mol-atom MP -70.873, OQMD -75.232
-- [Dy2O3](https://data.orchid-project.org/compounds/Dy2O3.md): 2 literature value(s)
+- [Dy2O3](https://data.orchid-project.org/compounds/Dy2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -386.874, OQMD -371.47
 - [Dy3Pd4](https://data.orchid-project.org/compounds/Dy3Pd4.md): 1 literature value(s); DFT kJ/mol-atom MP -90.676, OQMD -90.926
 - [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.md): 7 literature value(s); DFT kJ/mol-atom MP -31.247, OQMD -30.961
 - [Dy4Sn5](https://data.orchid-project.org/compounds/Dy4Sn5.md): 1 literature value(s)
@@ -2424,7 +2426,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Er2Fe17](https://data.orchid-project.org/compounds/Er2Fe17.md): 1 literature value(s); DFT kJ/mol-atom MP -1.801, OQMD -2.176
 - [Er2Ge3](https://data.orchid-project.org/compounds/Er2Ge3.md): 6 literature value(s); DFT kJ/mol-atom MP -44.391
 - [Er2Ge5](https://data.orchid-project.org/compounds/Er2Ge5.md): 3 literature value(s); DFT kJ/mol-atom MP -49.089, OQMD -49.307
-- [Er2O3](https://data.orchid-project.org/compounds/Er2O3.md): 2 literature value(s)
+- [Er2O3](https://data.orchid-project.org/compounds/Er2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -391.449, OQMD -375.968
 - [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.md): 7 literature value(s); DFT kJ/mol-atom MP -158.255, OQMD -134.147
 - [Er3Ge4](https://data.orchid-project.org/compounds/Er3Ge4.md): 3 literature value(s); DFT kJ/mol-atom MP -74.125, OQMD -74.277
 - [Er3Pd4](https://data.orchid-project.org/compounds/Er3Pd4.md): 1 literature value(s); DFT kJ/mol-atom MP -93.36, OQMD -93.559
@@ -2445,7 +2447,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [ErTe2](https://data.orchid-project.org/compounds/ErTe2.md): 3 literature value(s)
 - [ErTe3](https://data.orchid-project.org/compounds/ErTe3.md): 5 literature value(s); DFT kJ/mol-atom MP -116.416, OQMD -85.055
 - [Eu2Ni17](https://data.orchid-project.org/compounds/Eu2Ni17.md): 4 literature value(s); DFT kJ/mol-atom MP -6.408, OQMD -12.136
-- [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.md): 4 literature value(s)
+- [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.md): 2 literature value(s); DFT kJ/mol-atom MP -307.248, OQMD -276.415
 - [Eu5Pd2](https://data.orchid-project.org/compounds/Eu5Pd2.md): 1 literature value(s); DFT kJ/mol-atom MP -47.438, OQMD -59.161
 - [EuNi](https://data.orchid-project.org/compounds/EuNi.md): 3 literature value(s); DFT kJ/mol-atom OQMD -30.347
 - [EuNi2](https://data.orchid-project.org/compounds/EuNi2.md): 4 literature value(s); DFT kJ/mol-atom OQMD -37.69
@@ -2454,17 +2456,17 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [EuPd2](https://data.orchid-project.org/compounds/EuPd2.md): 1 literature value(s); DFT kJ/mol-atom MP -69.372, OQMD -85.545
 - [EuPd3](https://data.orchid-project.org/compounds/EuPd3.md): 2 literature value(s); DFT kJ/mol-atom MP -51.853, OQMD -64.877
 - [EuPd7](https://data.orchid-project.org/compounds/EuPd7.md): 1 literature value(s)
-- [Fe0.143U0.857](https://data.orchid-project.org/compounds/Fe0.143U0.857.md): 6 literature value(s)
+- [Fe0.143U0.857](https://data.orchid-project.org/compounds/Fe0.143U0.857.md): 3 literature value(s)
 - [Fe0.359Ta0.641](https://data.orchid-project.org/compounds/Fe0.359Ta0.641.md): 1 literature value(s)
 - [Fe0.477Ta0.523](https://data.orchid-project.org/compounds/Fe0.477Ta0.523.md): 1 literature value(s)
 - [Fe0.638Ta0.362](https://data.orchid-project.org/compounds/Fe0.638Ta0.362.md): 1 literature value(s)
 - [Fe0.6667Nb0.3333](https://data.orchid-project.org/compounds/Fe0.6667Nb0.3333.md): 9 literature value(s)
-- [Fe0.66U0.33](https://data.orchid-project.org/compounds/Fe0.66U0.33.md): 11 literature value(s)
+- [Fe0.66U0.33](https://data.orchid-project.org/compounds/Fe0.66U0.33.md): 6 literature value(s)
 - [Fe0.678Ta0.322](https://data.orchid-project.org/compounds/Fe0.678Ta0.322.md): 1 literature value(s)
 - [Fe0.7Sn2.3Zr5](https://data.orchid-project.org/compounds/Fe0.7Sn2.3Zr5.md): 2 literature value(s)
 - [Fe0.844Ta0.156](https://data.orchid-project.org/compounds/Fe0.844Ta0.156.md): 1 literature value(s)
 - [Fe0.947O](https://data.orchid-project.org/compounds/Fe0.947O.md): 1 literature value(s)
-- [Fe17.39Sn43.47Zr39.13](https://data.orchid-project.org/compounds/Fe17.39Sn43.47Zr39.13.md): 4 literature value(s)
+- [Fe17.39Sn43.47Zr39.13](https://data.orchid-project.org/compounds/Fe17.39Sn43.47Zr39.13.md): 2 literature value(s)
 - [Fe17.65Sn39.22Zr43.13](https://data.orchid-project.org/compounds/Fe17.65Sn39.22Zr43.13.md): 1 literature value(s)
 - [Fe17Gd2](https://data.orchid-project.org/compounds/Fe17Gd2.md): 4 literature value(s); DFT kJ/mol-atom MP -0.552, OQMD -0.034
 - [Fe17Ho2](https://data.orchid-project.org/compounds/Fe17Ho2.md): 4 literature value(s)
@@ -2474,7 +2476,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe23Ho6](https://data.orchid-project.org/compounds/Fe23Ho6.md): 4 literature value(s)
 - [Fe23Tm6](https://data.orchid-project.org/compounds/Fe23Tm6.md): 4 literature value(s); DFT kJ/mol-atom MP -8.309, OQMD -7.986
 - [Fe23Y6](https://data.orchid-project.org/compounds/Fe23Y6.md): 24 literature value(s); DFT kJ/mol-atom MP -4.013, OQMD -4.022
-- [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.md): 14 literature value(s); DFT kJ/mol-atom MP -16.072, OQMD -16.029
+- [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.md): 12 literature value(s); DFT kJ/mol-atom MP -16.072, OQMD -16.029
 - [Fe2Gd](https://data.orchid-project.org/compounds/Fe2Gd.md): 8 literature value(s); DFT kJ/mol-atom MP 1.566, OQMD -3.181
 - [Fe2Hf](https://data.orchid-project.org/compounds/Fe2Hf.md): 8 literature value(s); DFT kJ/mol-atom MP -33.396, OQMD -33.317
 - [Fe2Ho](https://data.orchid-project.org/compounds/Fe2Ho.md): 10 literature value(s)
@@ -2484,9 +2486,9 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Fe2Ta11](https://data.orchid-project.org/compounds/Fe2Ta11.md): 1 literature value(s)
 - [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.md): 39 literature value(s); DFT kJ/mol-atom MP -27.342, OQMD -29.56
 - [Fe2Tm](https://data.orchid-project.org/compounds/Fe2Tm.md): 10 literature value(s); DFT kJ/mol-atom MP -13.808, OQMD -13.506
-- [Fe2U](https://data.orchid-project.org/compounds/Fe2U.md): 14 literature value(s); DFT kJ/mol-atom MP -9.82, OQMD -8.017
+- [Fe2U](https://data.orchid-project.org/compounds/Fe2U.md): 8 literature value(s); DFT kJ/mol-atom MP -9.82, OQMD -8.017
 - [Fe2Y](https://data.orchid-project.org/compounds/Fe2Y.md): 27 literature value(s); DFT kJ/mol-atom MP -6.024, OQMD -6.077
-- [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.md): 28 literature value(s); DFT kJ/mol-atom MP -27.082, OQMD -26.998
+- [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.md): 29 literature value(s); DFT kJ/mol-atom MP -27.082, OQMD -26.998
 - [Fe36.36Sn36.36Zr27.27](https://data.orchid-project.org/compounds/Fe36.36Sn36.36Zr27.27.md): 2 literature value(s)
 - [Fe3Gd](https://data.orchid-project.org/compounds/Fe3Gd.md): 4 literature value(s); DFT kJ/mol-atom OQMD -3.613
 - [Fe3Ho](https://data.orchid-project.org/compounds/Fe3Ho.md): 2 literature value(s)
@@ -2517,10 +2519,10 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [FeSn2Zr6](https://data.orchid-project.org/compounds/FeSn2Zr6.md): 2 literature value(s)
 - [FeTa12](https://data.orchid-project.org/compounds/FeTa12.md): 1 literature value(s)
 - [FeTi](https://data.orchid-project.org/compounds/FeTi.md): 50 literature value(s); DFT kJ/mol-atom MP -40.604, OQMD -43.468
-- [FeU6](https://data.orchid-project.org/compounds/FeU6.md): 6 literature value(s)
+- [FeU6](https://data.orchid-project.org/compounds/FeU6.md): 3 literature value(s)
 - [FeY](https://data.orchid-project.org/compounds/FeY.md): 9 literature value(s); DFT kJ/mol-atom OQMD 0.618
 - [FeZr2](https://data.orchid-project.org/compounds/FeZr2.md): 12 literature value(s); DFT kJ/mol-atom MP -13.424, OQMD -13.55
-- [FeZr3](https://data.orchid-project.org/compounds/FeZr3.md): 11 literature value(s); DFT kJ/mol-atom MP -10.562, OQMD -11.724
+- [FeZr3](https://data.orchid-project.org/compounds/FeZr3.md): 13 literature value(s); DFT kJ/mol-atom MP -10.562, OQMD -11.724
 - [Ga13Nb5](https://data.orchid-project.org/compounds/Ga13Nb5.md): 2 literature value(s); DFT kJ/mol-atom MP -23.383, OQMD -30.729
 - [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.md): 8 literature value(s); DFT kJ/mol-atom MP -63.164, OQMD -64.461
 - [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.md): 4 literature value(s); DFT kJ/mol-atom MP -49.123, OQMD -50.779
@@ -2578,7 +2580,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [GaSe](https://data.orchid-project.org/compounds/GaSe.md): 7 literature value(s); DFT kJ/mol-atom MP -79.831, OQMD -57.465
 - [GaTe](https://data.orchid-project.org/compounds/GaTe.md): 5 literature value(s); DFT kJ/mol-atom MP -55.488, OQMD -35.037
 - [GaY](https://data.orchid-project.org/compounds/GaY.md): 6 literature value(s); DFT kJ/mol-atom MP -64.449, OQMD -64.338
-- [Gd2O3](https://data.orchid-project.org/compounds/Gd2O3.md): 4 literature value(s)
+- [Gd2O3](https://data.orchid-project.org/compounds/Gd2O3.md): 2 literature value(s); DFT kJ/mol-atom MP -375.849, OQMD -365.932
 - [Gd2Tl](https://data.orchid-project.org/compounds/Gd2Tl.md): 1 literature value(s); DFT kJ/mol-atom MP -29.904, OQMD -26.624
 - [Gd3Pd4](https://data.orchid-project.org/compounds/Gd3Pd4.md): 1 literature value(s); DFT kJ/mol-atom OQMD -87.901
 - [Gd3Ru](https://data.orchid-project.org/compounds/Gd3Ru.md): 6 literature value(s); DFT kJ/mol-atom OQMD -27.234
@@ -2664,8 +2666,8 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Hf2Ni](https://data.orchid-project.org/compounds/Hf2Ni.md): 3 literature value(s); DFT kJ/mol-atom MP -32.839, OQMD -32.982
 - [Hf2Ni7](https://data.orchid-project.org/compounds/Hf2Ni7.md): 3 literature value(s); DFT kJ/mol-atom MP -44.758, OQMD -45.225
 - [Hf2Si](https://data.orchid-project.org/compounds/Hf2Si.md): 1 literature value(s); DFT kJ/mol-atom MP -69.475, OQMD -71.646
-- [Hf3Nb](https://data.orchid-project.org/compounds/Hf3Nb.md): 5 literature value(s)
-- [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.md): 2 literature value(s); DFT kJ/mol-atom MP 3.481, OQMD -24.055
+- [Hf3Nb](https://data.orchid-project.org/compounds/Hf3Nb.md): 3 literature value(s)
+- [Hf3Ni](https://data.orchid-project.org/compounds/Hf3Ni.md): 1 literature value(s); DFT kJ/mol-atom MP 3.481, OQMD -24.055
 - [Hf3Ni7](https://data.orchid-project.org/compounds/Hf3Ni7.md): 3 literature value(s); DFT kJ/mol-atom MP -48.429, OQMD -48.931
 - [Hf3Si2](https://data.orchid-project.org/compounds/Hf3Si2.md): 1 literature value(s); DFT kJ/mol-atom MP -74.298, OQMD -77.301
 - [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.md): 2 literature value(s); DFT kJ/mol-atom MP -69.268, OQMD -71.886
@@ -2685,14 +2687,14 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [HfC0.97](https://data.orchid-project.org/compounds/HfC0.97.md): 1 literature value(s)
 - [HfC0.98](https://data.orchid-project.org/compounds/HfC0.98.md): 1 literature value(s)
 - [HfMo2](https://data.orchid-project.org/compounds/HfMo2.md): 4 literature value(s); DFT kJ/mol-atom MP -16.577, OQMD -16.409
-- [HfNb](https://data.orchid-project.org/compounds/HfNb.md): 10 literature value(s)
-- [HfNb3](https://data.orchid-project.org/compounds/HfNb3.md): 5 literature value(s)
-- [HfNi](https://data.orchid-project.org/compounds/HfNi.md): 7 literature value(s); DFT kJ/mol-atom MP -50.09, OQMD -50.079
+- [HfNb](https://data.orchid-project.org/compounds/HfNb.md): 6 literature value(s)
+- [HfNb3](https://data.orchid-project.org/compounds/HfNb3.md): 3 literature value(s)
+- [HfNi](https://data.orchid-project.org/compounds/HfNi.md): 4 literature value(s); DFT kJ/mol-atom MP -50.09, OQMD -50.079
 - [HfNi2](https://data.orchid-project.org/compounds/HfNi2.md): 1 literature value(s)
-- [HfNi2Sn](https://data.orchid-project.org/compounds/HfNi2Sn.md): 8 literature value(s)
-- [HfNi3](https://data.orchid-project.org/compounds/HfNi3.md): 3 literature value(s); DFT kJ/mol-atom MP -51.918, OQMD -52.511
-- [HfNi5](https://data.orchid-project.org/compounds/HfNi5.md): 5 literature value(s); DFT kJ/mol-atom MP -33.322, OQMD -33.745
-- [HfNiSn](https://data.orchid-project.org/compounds/HfNiSn.md): 2 literature value(s)
+- [HfNi2Sn](https://data.orchid-project.org/compounds/HfNi2Sn.md): 9 literature value(s)
+- [HfNi3](https://data.orchid-project.org/compounds/HfNi3.md): 2 literature value(s); DFT kJ/mol-atom MP -51.918, OQMD -52.511
+- [HfNi5](https://data.orchid-project.org/compounds/HfNi5.md): 3 literature value(s); DFT kJ/mol-atom MP -33.322, OQMD -33.745
+- [HfNiSn](https://data.orchid-project.org/compounds/HfNiSn.md): 12 literature value(s)
 - [HfSi](https://data.orchid-project.org/compounds/HfSi.md): 3 literature value(s); DFT kJ/mol-atom MP -75.502, OQMD -79.13
 - [HfSn](https://data.orchid-project.org/compounds/HfSn.md): 9 literature value(s)
 - [HfSn2](https://data.orchid-project.org/compounds/HfSn2.md): 1 literature value(s)
@@ -2700,7 +2702,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [HgTe](https://data.orchid-project.org/compounds/HgTe.md): 10 literature value(s)
 - [Ho2Ni17](https://data.orchid-project.org/compounds/Ho2Ni17.md): 5 literature value(s); DFT kJ/mol-atom MP -19.799, OQMD -20.143
 - [Ho2Ni7](https://data.orchid-project.org/compounds/Ho2Ni7.md): 4 literature value(s); DFT kJ/mol-atom MP -38.648, OQMD -39.098
-- [Ho2O3](https://data.orchid-project.org/compounds/Ho2O3.md): 2 literature value(s)
+- [Ho2O3](https://data.orchid-project.org/compounds/Ho2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -389.188, OQMD -373.796
 - [Ho2Te5](https://data.orchid-project.org/compounds/Ho2Te5.md): 2 literature value(s); DFT kJ/mol-atom MP -122.227, OQMD -96.625
 - [Ho3Ni](https://data.orchid-project.org/compounds/Ho3Ni.md): 4 literature value(s); DFT kJ/mol-atom MP -24.74, OQMD -25.183
 - [Ho3Ni2](https://data.orchid-project.org/compounds/Ho3Ni2.md): 5 literature value(s); DFT kJ/mol-atom MP -36.512, OQMD -37.585
@@ -2735,7 +2737,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [KF](https://data.orchid-project.org/compounds/KF.md): 2 literature value(s); DFT kJ/mol-atom MP -283.123, OQMD -281.083
 - [KNa2](https://data.orchid-project.org/compounds/KNa2.md): 2 literature value(s); DFT kJ/mol-atom MP 0.954, OQMD -7.272
 - [La2C3](https://data.orchid-project.org/compounds/La2C3.md): 1 literature value(s); DFT kJ/mol-atom MP -15.983, OQMD -16.43
-- [La2O3](https://data.orchid-project.org/compounds/La2O3.md): 17 literature value(s)
+- [La2O3](https://data.orchid-project.org/compounds/La2O3.md): 17 literature value(s); DFT kJ/mol-atom MP -373.797, OQMD -358.204
 - [La2Pt7](https://data.orchid-project.org/compounds/La2Pt7.md): 2 literature value(s)
 - [La2Sb](https://data.orchid-project.org/compounds/La2Sb.md): 4 literature value(s)
 - [La3Pt2](https://data.orchid-project.org/compounds/La3Pt2.md): 2 literature value(s); DFT kJ/mol-atom MP -93.829, OQMD -94.305
@@ -2770,7 +2772,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [LiO](https://data.orchid-project.org/compounds/LiO.md): 4 literature value(s); DFT kJ/mol-atom MP -159.217, OQMD -156.379
 - [LiPb](https://data.orchid-project.org/compounds/LiPb.md): 4 literature value(s)
 - [LiSn](https://data.orchid-project.org/compounds/LiSn.md): 6 literature value(s)
-- [Lu2O3](https://data.orchid-project.org/compounds/Lu2O3.md): 2 literature value(s)
+- [Lu2O3](https://data.orchid-project.org/compounds/Lu2O3.md): 1 literature value(s)
 - [Lu3Sb](https://data.orchid-project.org/compounds/Lu3Sb.md): 2 literature value(s); DFT kJ/mol-atom OQMD -41.323
 - [Lu5Sb3](https://data.orchid-project.org/compounds/Lu5Sb3.md): 2 literature value(s); DFT kJ/mol-atom MP -86.011, OQMD -79.175
 - [LuB12](https://data.orchid-project.org/compounds/LuB12.md): 4 literature value(s); DFT kJ/mol-atom MP -23.771, OQMD -23.781
@@ -2813,7 +2815,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.md): 6 literature value(s); DFT kJ/mol-atom MP -26.259, OQMD -27.684
 - [Mn3C](https://data.orchid-project.org/compounds/Mn3C.md): 4 literature value(s); DFT kJ/mol-atom MP -6.985, OQMD -7.433
 - [Mn3H](https://data.orchid-project.org/compounds/Mn3H.md): 4 literature value(s)
-- [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.md): 24 literature value(s); DFT kJ/mol-atom MP -197.834, OQMD -200.053
+- [Mn3O4](https://data.orchid-project.org/compounds/Mn3O4.md): 37 literature value(s); DFT kJ/mol-atom MP -197.834, OQMD -200.053
 - [Mn5C2](https://data.orchid-project.org/compounds/Mn5C2.md): 5 literature value(s); DFT kJ/mol-atom MP -6.465, OQMD -6.859
 - [Mn7C3](https://data.orchid-project.org/compounds/Mn7C3.md): 5 literature value(s); DFT kJ/mol-atom MP -6.564, OQMD -7.122
 - [MnC](https://data.orchid-project.org/compounds/MnC.md): 3 literature value(s); DFT kJ/mol-atom OQMD 6.813
@@ -2875,7 +2877,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Nb6Ni7](https://data.orchid-project.org/compounds/Nb6Ni7.md): 2 literature value(s); DFT kJ/mol-atom MP -20.338, OQMD -20.518
 - [Nb6Sn5](https://data.orchid-project.org/compounds/Nb6Sn5.md): 2 literature value(s)
 - [Nb7C3](https://data.orchid-project.org/compounds/Nb7C3.md): 1 literature value(s)
-- [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.md): 15 literature value(s); DFT kJ/mol-atom MP -19.894, OQMD -19.955
+- [Nb7Ni6](https://data.orchid-project.org/compounds/Nb7Ni6.md): 10 literature value(s); DFT kJ/mol-atom MP -19.894, OQMD -19.955
 - [NbB](https://data.orchid-project.org/compounds/NbB.md): 8 literature value(s); DFT kJ/mol-atom MP -74.259, OQMD -74.633
 - [NbF3](https://data.orchid-project.org/compounds/NbF3.md): 1 literature value(s); DFT kJ/mol-atom MP -283.574, OQMD -279.161
 - [NbF4](https://data.orchid-project.org/compounds/NbF4.md): 1 literature value(s); DFT kJ/mol-atom MP -307.535, OQMD -301.623
@@ -2887,7 +2889,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [NbZn15](https://data.orchid-project.org/compounds/NbZn15.md): 2 literature value(s)
 - [NbZn2](https://data.orchid-project.org/compounds/NbZn2.md): 2 literature value(s)
 - [NbZn3](https://data.orchid-project.org/compounds/NbZn3.md): 2 literature value(s)
-- [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.md): 1 literature value(s)
+- [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -364.863, OQMD -349.317
 - [Nd3Ru](https://data.orchid-project.org/compounds/Nd3Ru.md): 8 literature value(s); DFT kJ/mol-atom MP -18.787, OQMD -18.159
 - [Nd7Ru3](https://data.orchid-project.org/compounds/Nd7Ru3.md): 6 literature value(s); DFT kJ/mol-atom OQMD -20.935
 - [NdRu2](https://data.orchid-project.org/compounds/NdRu2.md): 3 literature value(s); DFT kJ/mol-atom MP -15.122, OQMD -13.816
@@ -2904,7 +2906,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ni2Si](https://data.orchid-project.org/compounds/Ni2Si.md): 4 literature value(s); DFT kJ/mol-atom MP -53.015, OQMD -53.941
 - [Ni2Sm](https://data.orchid-project.org/compounds/Ni2Sm.md): 4 literature value(s); DFT kJ/mol-atom MP -35.037, OQMD -35.32
 - [Ni2Sm3](https://data.orchid-project.org/compounds/Ni2Sm3.md): 1 literature value(s); DFT kJ/mol-atom OQMD -28.208
-- [Ni2SnTi](https://data.orchid-project.org/compounds/Ni2SnTi.md): 8 literature value(s)
+- [Ni2SnTi](https://data.orchid-project.org/compounds/Ni2SnTi.md): 9 literature value(s)
 - [Ni2Ta](https://data.orchid-project.org/compounds/Ni2Ta.md): 2 literature value(s)
 - [Ni2Tb](https://data.orchid-project.org/compounds/Ni2Tb.md): 5 literature value(s); DFT kJ/mol-atom MP -41.721, OQMD -20.948
 - [Ni2Tb3](https://data.orchid-project.org/compounds/Ni2Tb3.md): 4 literature value(s); DFT kJ/mol-atom MP -33.392, OQMD 3.407
@@ -2922,7 +2924,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Ni3Sn4](https://data.orchid-project.org/compounds/Ni3Sn4.md): 10 literature value(s)
 - [Ni3Ta](https://data.orchid-project.org/compounds/Ni3Ta.md): 3 literature value(s)
 - [Ni3Tb](https://data.orchid-project.org/compounds/Ni3Tb.md): 4 literature value(s); DFT kJ/mol-atom MP -38.902, OQMD -23.453
-- [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.md): 29 literature value(s); DFT kJ/mol-atom MP -46.582, OQMD -47.751
+- [Ni3Ti](https://data.orchid-project.org/compounds/Ni3Ti.md): 32 literature value(s); DFT kJ/mol-atom MP -46.582, OQMD -47.751
 - [Ni3Yb](https://data.orchid-project.org/compounds/Ni3Yb.md): 8 literature value(s); DFT kJ/mol-atom OQMD -31.135
 - [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.md): 7 literature value(s); DFT kJ/mol-atom MP -44.234, OQMD -45.036
 - [Ni4Si7Ti4](https://data.orchid-project.org/compounds/Ni4Si7Ti4.md): 1 literature value(s)
@@ -2956,12 +2958,12 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [NiSe0.565](https://data.orchid-project.org/compounds/NiSe0.565.md): 1 literature value(s)
 - [NiSe0.566](https://data.orchid-project.org/compounds/NiSe0.566.md): 1 literature value(s)
 - [NiSi](https://data.orchid-project.org/compounds/NiSi.md): 12 literature value(s); DFT kJ/mol-atom MP -48.213, OQMD -48.61
-- [NiSi2](https://data.orchid-project.org/compounds/NiSi2.md): 5 literature value(s); DFT kJ/mol-atom MP -34.03, OQMD -33.712
+- [NiSi2](https://data.orchid-project.org/compounds/NiSi2.md): 3 literature value(s); DFT kJ/mol-atom MP -34.03, OQMD -33.712
 - [NiSi3](https://data.orchid-project.org/compounds/NiSi3.md): 4 literature value(s); DFT kJ/mol-atom OQMD 19.223
 - [NiSiTi](https://data.orchid-project.org/compounds/NiSiTi.md): 1 literature value(s)
 - [NiSm](https://data.orchid-project.org/compounds/NiSm.md): 4 literature value(s); DFT kJ/mol-atom MP -35.514, OQMD -36.107
 - [NiSm3](https://data.orchid-project.org/compounds/NiSm3.md): 3 literature value(s); DFT kJ/mol-atom MP -18.685, OQMD -19.412
-- [NiSnTi](https://data.orchid-project.org/compounds/NiSnTi.md): 2 literature value(s)
+- [NiSnTi](https://data.orchid-project.org/compounds/NiSnTi.md): 12 literature value(s)
 - [NiTa2](https://data.orchid-project.org/compounds/NiTa2.md): 2 literature value(s)
 - [NiTa3](https://data.orchid-project.org/compounds/NiTa3.md): 2 literature value(s)
 - [NiTb](https://data.orchid-project.org/compounds/NiTb.md): 5 literature value(s); DFT kJ/mol-atom MP -42.212, OQMD -11.216
@@ -2976,16 +2978,16 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [NpO2](https://data.orchid-project.org/compounds/NpO2.md): 3 literature value(s); DFT kJ/mol-atom MP -347.462, OQMD -358.161
 - [Pb12O17](https://data.orchid-project.org/compounds/Pb12O17.md): 1 literature value(s)
 - [Pb12O19](https://data.orchid-project.org/compounds/Pb12O19.md): 1 literature value(s)
-- [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.md): 6 literature value(s); DFT kJ/mol-atom MP -19.777, OQMD -19.994
+- [Pb2Pd](https://data.orchid-project.org/compounds/Pb2Pd.md): 4 literature value(s); DFT kJ/mol-atom MP -19.777, OQMD -19.994
 - [Pb3O4](https://data.orchid-project.org/compounds/Pb3O4.md): 3 literature value(s); DFT kJ/mol-atom MP -139.612, OQMD -123.983
-- [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.md): 6 literature value(s); DFT kJ/mol-atom MP -25.801, OQMD -25.789
+- [Pb3Pd5](https://data.orchid-project.org/compounds/Pb3Pd5.md): 4 literature value(s); DFT kJ/mol-atom MP -25.801, OQMD -25.789
 - [Pb3Yb](https://data.orchid-project.org/compounds/Pb3Yb.md): 5 literature value(s); DFT kJ/mol-atom OQMD -35.07
 - [Pb3Yb5](https://data.orchid-project.org/compounds/Pb3Yb5.md): 4 literature value(s); DFT kJ/mol-atom OQMD -50.708
-- [Pb9Pd13](https://data.orchid-project.org/compounds/Pb9Pd13.md): 6 literature value(s); DFT kJ/mol-atom MP -24.677, OQMD -24.524
+- [Pb9Pd13](https://data.orchid-project.org/compounds/Pb9Pd13.md): 4 literature value(s); DFT kJ/mol-atom MP -24.677, OQMD -24.524
 - [PbO](https://data.orchid-project.org/compounds/PbO.md): 5 literature value(s); DFT kJ/mol-atom MP -141.744, OQMD -128.56
-- [PbO2](https://data.orchid-project.org/compounds/PbO2.md): 6 literature value(s); DFT kJ/mol-atom MP -125.396, OQMD -107.539
+- [PbO2](https://data.orchid-project.org/compounds/PbO2.md): 3 literature value(s); DFT kJ/mol-atom MP -125.396, OQMD -107.539
 - [PbPd](https://data.orchid-project.org/compounds/PbPd.md): 4 literature value(s); DFT kJ/mol-atom MP -25.205, OQMD -24.877
-- [PbPd3](https://data.orchid-project.org/compounds/PbPd3.md): 6 literature value(s); DFT kJ/mol-atom MP -28.939, OQMD -28.912
+- [PbPd3](https://data.orchid-project.org/compounds/PbPd3.md): 4 literature value(s); DFT kJ/mol-atom MP -28.939, OQMD -28.912
 - [PbSe](https://data.orchid-project.org/compounds/PbSe.md): 7 literature value(s)
 - [PbTe](https://data.orchid-project.org/compounds/PbTe.md): 22 literature value(s); DFT kJ/mol-atom MP -39.148, OQMD -39.511
 - [PbYb](https://data.orchid-project.org/compounds/PbYb.md): 5 literature value(s); DFT kJ/mol-atom OQMD -54.442
@@ -3034,9 +3036,9 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [PdY3](https://data.orchid-project.org/compounds/PdY3.md): 1 literature value(s); DFT kJ/mol-atom MP -45.639, OQMD -45.911
 - [PdYb](https://data.orchid-project.org/compounds/PdYb.md): 8 literature value(s); DFT kJ/mol-atom OQMD -83.728
 - [PdYb3](https://data.orchid-project.org/compounds/PdYb3.md): 4 literature value(s); DFT kJ/mol-atom OQMD -53.678
-- [Pm2O3](https://data.orchid-project.org/compounds/Pm2O3.md): 1 literature value(s)
+- [Pm2O3](https://data.orchid-project.org/compounds/Pm2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -370.126, OQMD -354.74
 - [Pr2C3](https://data.orchid-project.org/compounds/Pr2C3.md): 1 literature value(s); DFT kJ/mol-atom MP -13.558, OQMD -14.229
-- [Pr2O3](https://data.orchid-project.org/compounds/Pr2O3.md): 1 literature value(s)
+- [Pr2O3](https://data.orchid-project.org/compounds/Pr2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -360.381, OQMD -345.037
 - [PrC2](https://data.orchid-project.org/compounds/PrC2.md): 2 literature value(s); DFT kJ/mol-atom MP -9.857, OQMD -10.23
 - [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.md): 6 literature value(s); DFT kJ/mol-atom MP -48.526, OQMD -54.42
 - [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.md): 7 literature value(s); DFT kJ/mol-atom MP -36.358, OQMD -39.531
@@ -3045,14 +3047,14 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [PtSn4](https://data.orchid-project.org/compounds/PtSn4.md): 6 literature value(s); DFT kJ/mol-atom MP -27.109, OQMD -34.107
 - [Pu2C3](https://data.orchid-project.org/compounds/Pu2C3.md): 12 literature value(s)
 - [Pu2O3](https://data.orchid-project.org/compounds/Pu2O3.md): 6 literature value(s); DFT kJ/mol-atom MP -337.031, OQMD -350.52
-- [PuC](https://data.orchid-project.org/compounds/PuC.md): 2 literature value(s)
-- [PuC0.81](https://data.orchid-project.org/compounds/PuC0.81.md): 2 literature value(s)
-- [PuC0.84](https://data.orchid-project.org/compounds/PuC0.84.md): 4 literature value(s)
-- [PuC0.87](https://data.orchid-project.org/compounds/PuC0.87.md): 2 literature value(s)
-- [PuC0.878](https://data.orchid-project.org/compounds/PuC0.878.md): 2 literature value(s)
-- [PuC0.88](https://data.orchid-project.org/compounds/PuC0.88.md): 2 literature value(s)
-- [PuC0.9](https://data.orchid-project.org/compounds/PuC0.9.md): 4 literature value(s)
-- [PuC0.91](https://data.orchid-project.org/compounds/PuC0.91.md): 4 literature value(s)
+- [PuC](https://data.orchid-project.org/compounds/PuC.md): 1 literature value(s)
+- [PuC0.81](https://data.orchid-project.org/compounds/PuC0.81.md): 1 literature value(s)
+- [PuC0.84](https://data.orchid-project.org/compounds/PuC0.84.md): 2 literature value(s)
+- [PuC0.87](https://data.orchid-project.org/compounds/PuC0.87.md): 1 literature value(s)
+- [PuC0.878](https://data.orchid-project.org/compounds/PuC0.878.md): 1 literature value(s)
+- [PuC0.88](https://data.orchid-project.org/compounds/PuC0.88.md): 1 literature value(s)
+- [PuC0.9](https://data.orchid-project.org/compounds/PuC0.9.md): 2 literature value(s)
+- [PuC0.91](https://data.orchid-project.org/compounds/PuC0.91.md): 2 literature value(s)
 - [PuO](https://data.orchid-project.org/compounds/PuO.md): 6 literature value(s); DFT kJ/mol-atom MP -270.318, OQMD -276.45
 - [PuO2](https://data.orchid-project.org/compounds/PuO2.md): 6 literature value(s); DFT kJ/mol-atom MP -352.148, OQMD -328.016
 - [Re2Si](https://data.orchid-project.org/compounds/Re2Si.md): 10 literature value(s); DFT kJ/mol-atom MP 12.813, OQMD -21.934
@@ -3100,7 +3102,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [SbYb](https://data.orchid-project.org/compounds/SbYb.md): 2 literature value(s); DFT kJ/mol-atom OQMD -77.662
 - [SbZn](https://data.orchid-project.org/compounds/SbZn.md): 27 literature value(s); DFT kJ/mol-atom MP -11.964, OQMD -3.464
 - [Sc11Sn10](https://data.orchid-project.org/compounds/Sc11Sn10.md): 2 literature value(s)
-- [Sc2O3](https://data.orchid-project.org/compounds/Sc2O3.md): 1 literature value(s)
+- [Sc2O3](https://data.orchid-project.org/compounds/Sc2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -382.923, OQMD -367.356
 - [Sc3Si5](https://data.orchid-project.org/compounds/Sc3Si5.md): 2 literature value(s)
 - [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.md): 5 literature value(s); DFT kJ/mol-atom MP -71.535, OQMD -74.229
 - [Sc5Sn3](https://data.orchid-project.org/compounds/Sc5Sn3.md): 4 literature value(s); DFT kJ/mol-atom MP -65.964, OQMD -69.463
@@ -3167,15 +3169,15 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [SiZr2](https://data.orchid-project.org/compounds/SiZr2.md): 3 literature value(s); DFT kJ/mol-atom MP -72.863, OQMD -75.334
 - [SiZr3](https://data.orchid-project.org/compounds/SiZr3.md): 2 literature value(s); DFT kJ/mol-atom MP -52.992, OQMD -54.922
 - [Sm11Ti8](https://data.orchid-project.org/compounds/Sm11Ti8.md): 1 literature value(s)
-- [Sm2O3](https://data.orchid-project.org/compounds/Sm2O3.md): 2 literature value(s)
-- [Sm2Ti](https://data.orchid-project.org/compounds/Sm2Ti.md): 1 literature value(s)
-- [Sm2Ti3](https://data.orchid-project.org/compounds/Sm2Ti3.md): 1 literature value(s); DFT kJ/mol-atom OQMD 65.771
+- [Sm2O3](https://data.orchid-project.org/compounds/Sm2O3.md): 2 literature value(s); DFT kJ/mol-atom MP -372.62, OQMD -357.094
+- [Sm2Ti](https://data.orchid-project.org/compounds/Sm2Ti.md): 2 literature value(s)
+- [Sm2Ti3](https://data.orchid-project.org/compounds/Sm2Ti3.md): 2 literature value(s); DFT kJ/mol-atom OQMD 65.771
 - [Sm3Ti](https://data.orchid-project.org/compounds/Sm3Ti.md): 6 literature value(s); DFT kJ/mol-atom MP 23.099, OQMD 19.47
 - [Sm3Ti2](https://data.orchid-project.org/compounds/Sm3Ti2.md): 1 literature value(s)
 - [Sm4Ti15](https://data.orchid-project.org/compounds/Sm4Ti15.md): 1 literature value(s)
 - [Sm6Ti13](https://data.orchid-project.org/compounds/Sm6Ti13.md): 1 literature value(s)
-- [SmTi](https://data.orchid-project.org/compounds/SmTi.md): 5 literature value(s); DFT kJ/mol-atom OQMD 8.737
-- [SmTi2](https://data.orchid-project.org/compounds/SmTi2.md): 1 literature value(s)
+- [SmTi](https://data.orchid-project.org/compounds/SmTi.md): 6 literature value(s); DFT kJ/mol-atom OQMD 8.737
+- [SmTi2](https://data.orchid-project.org/compounds/SmTi2.md): 2 literature value(s)
 - [SmTi3](https://data.orchid-project.org/compounds/SmTi3.md): 5 literature value(s)
 - [SmTi6](https://data.orchid-project.org/compounds/SmTi6.md): 1 literature value(s)
 - [Sn2U](https://data.orchid-project.org/compounds/Sn2U.md): 1 literature value(s); DFT kJ/mol-atom MP -9.73
@@ -3210,7 +3212,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [SnU](https://data.orchid-project.org/compounds/SnU.md): 1 literature value(s); DFT kJ/mol-atom MP 4.115, OQMD -2.203
 - [SnYb](https://data.orchid-project.org/compounds/SnYb.md): 3 literature value(s); DFT kJ/mol-atom OQMD -69.504
 - [SnYb2](https://data.orchid-project.org/compounds/SnYb2.md): 4 literature value(s); DFT kJ/mol-atom OQMD -67.458
-- [SnZr4](https://data.orchid-project.org/compounds/SnZr4.md): 10 literature value(s)
+- [SnZr4](https://data.orchid-project.org/compounds/SnZr4.md): 5 literature value(s)
 - [SrB6](https://data.orchid-project.org/compounds/SrB6.md): 3 literature value(s); DFT kJ/mol-atom MP -43.455, OQMD -43.529
 - [SrH2](https://data.orchid-project.org/compounds/SrH2.md): 5 literature value(s)
 - [SrO](https://data.orchid-project.org/compounds/SrO.md): 7 literature value(s)
@@ -3224,7 +3226,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [TaN3](https://data.orchid-project.org/compounds/TaN3.md): 2 literature value(s); DFT kJ/mol-atom OQMD 75.777
 - [TaV2](https://data.orchid-project.org/compounds/TaV2.md): 5 literature value(s); DFT kJ/mol-atom MP -10.061, OQMD -12.128
 - [TaW](https://data.orchid-project.org/compounds/TaW.md): 2 literature value(s)
-- [Tb2O3](https://data.orchid-project.org/compounds/Tb2O3.md): 2 literature value(s)
+- [Tb2O3](https://data.orchid-project.org/compounds/Tb2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -384.356, OQMD -343.512
 - [Ti2C](https://data.orchid-project.org/compounds/Ti2C.md): 3 literature value(s); DFT kJ/mol-atom MP -62.057, OQMD -63.158
 - [Ti2CS](https://data.orchid-project.org/compounds/Ti2CS.md): 3 literature value(s)
 - [Ti3B4](https://data.orchid-project.org/compounds/Ti3B4.md): 2 literature value(s)
@@ -3238,22 +3240,22 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Tl2Te3](https://data.orchid-project.org/compounds/Tl2Te3.md): 5 literature value(s); DFT kJ/mol-atom MP -43.202, OQMD -18.351
 - [Tl5Te3](https://data.orchid-project.org/compounds/Tl5Te3.md): 3 literature value(s); DFT kJ/mol-atom MP -42.288, OQMD -26.55
 - [TlTe](https://data.orchid-project.org/compounds/TlTe.md): 5 literature value(s); DFT kJ/mol-atom MP -45.734, OQMD -22.93
-- [Tm2O3](https://data.orchid-project.org/compounds/Tm2O3.md): 2 literature value(s)
+- [Tm2O3](https://data.orchid-project.org/compounds/Tm2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -394.888, OQMD -379.364
 - [U0.077B0.923](https://data.orchid-project.org/compounds/U0.077B0.923.md): 1 literature value(s)
 - [U0.2B0.8](https://data.orchid-project.org/compounds/U0.2B0.8.md): 1 literature value(s); DFT kJ/mol-atom MP -49.016, OQMD -49.041
 - [U0.333B0.667](https://data.orchid-project.org/compounds/U0.333B0.667.md): 1 literature value(s)
-- [U0.345C0.655](https://data.orchid-project.org/compounds/U0.345C0.655.md): 16 literature value(s)
+- [U0.345C0.655](https://data.orchid-project.org/compounds/U0.345C0.655.md): 9 literature value(s)
 - [U0.345C0.665](https://data.orchid-project.org/compounds/U0.345C0.665.md): 1 literature value(s)
 - [U0.413N0.587](https://data.orchid-project.org/compounds/U0.413N0.587.md): 2 literature value(s)
-- [U0.4C0.6](https://data.orchid-project.org/compounds/U0.4C0.6.md): 4 literature value(s); DFT kJ/mol-atom MP -11.927, OQMD -12.269
-- [U0.5C0.5](https://data.orchid-project.org/compounds/U0.5C0.5.md): 11 literature value(s); DFT kJ/mol-atom MP -11.946, OQMD -12.247
+- [U0.4C0.6](https://data.orchid-project.org/compounds/U0.4C0.6.md): 1 literature value(s); DFT kJ/mol-atom MP -11.927, OQMD -12.269
+- [U0.5C0.5](https://data.orchid-project.org/compounds/U0.5C0.5.md): 7 literature value(s); DFT kJ/mol-atom MP -11.946, OQMD -12.247
 - [U0.5N0.5](https://data.orchid-project.org/compounds/U0.5N0.5.md): 9 literature value(s); DFT kJ/mol-atom MP -143.768, OQMD -136.591
 - [U2C3](https://data.orchid-project.org/compounds/U2C3.md): 3 literature value(s); DFT kJ/mol-atom MP -11.927, OQMD -12.269
 - [U2N3](https://data.orchid-project.org/compounds/U2N3.md): 5 literature value(s); DFT kJ/mol-atom MP -154.818, OQMD -145.953
 - [U3O8](https://data.orchid-project.org/compounds/U3O8.md): 10 literature value(s); DFT kJ/mol-atom MP -357.65, OQMD -323.13
 - [U4O9](https://data.orchid-project.org/compounds/U4O9.md): 8 literature value(s)
-- [UC](https://data.orchid-project.org/compounds/UC.md): 10 literature value(s); DFT kJ/mol-atom MP -11.946, OQMD -12.247
-- [UC1.9](https://data.orchid-project.org/compounds/UC1.9.md): 16 literature value(s)
+- [UC](https://data.orchid-project.org/compounds/UC.md): 4 literature value(s); DFT kJ/mol-atom MP -11.946, OQMD -12.247
+- [UC1.9](https://data.orchid-project.org/compounds/UC1.9.md): 7 literature value(s)
 - [UN](https://data.orchid-project.org/compounds/UN.md): 85 literature value(s)
 - [UO2](https://data.orchid-project.org/compounds/UO2.md): 7 literature value(s); DFT kJ/mol-atom MP -361.862, OQMD -368.505
 - [UO3](https://data.orchid-project.org/compounds/UO3.md): 12 literature value(s); DFT kJ/mol-atom MP -348.521, OQMD -302.1
@@ -3262,15 +3264,15 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [W2B](https://data.orchid-project.org/compounds/W2B.md): 7 literature value(s)
 - [W2B5](https://data.orchid-project.org/compounds/W2B5.md): 5 literature value(s)
 - [WB](https://data.orchid-project.org/compounds/WB.md): 7 literature value(s)
-- [WC](https://data.orchid-project.org/compounds/WC.md): 2 literature value(s); DFT kJ/mol-atom MP -11.742, OQMD -12.124
+- [WC](https://data.orchid-project.org/compounds/WC.md): 3 literature value(s); DFT kJ/mol-atom MP -11.742, OQMD -12.124
 - [Y13Zn58](https://data.orchid-project.org/compounds/Y13Zn58.md): 3 literature value(s)
 - [Y15C19](https://data.orchid-project.org/compounds/Y15C19.md): 2 literature value(s); DFT kJ/mol-atom MP -29.637
-- [Y2C](https://data.orchid-project.org/compounds/Y2C.md): 4 literature value(s); DFT kJ/mol-atom MP -28.155, OQMD -28.729
+- [Y2C](https://data.orchid-project.org/compounds/Y2C.md): 5 literature value(s); DFT kJ/mol-atom MP -28.155, OQMD -28.729
 - [Y2C3](https://data.orchid-project.org/compounds/Y2C3.md): 3 literature value(s); DFT kJ/mol-atom MP -24.654, OQMD -25.199
-- [Y2O3](https://data.orchid-project.org/compounds/Y2O3.md): 1 literature value(s)
+- [Y2O3](https://data.orchid-project.org/compounds/Y2O3.md): 1 literature value(s); DFT kJ/mol-atom MP -383.134, OQMD -367.434
 - [Y2Zn17](https://data.orchid-project.org/compounds/Y2Zn17.md): 3 literature value(s); DFT kJ/mol-atom MP -24.053, OQMD -23.192
 - [Y3Zn11](https://data.orchid-project.org/compounds/Y3Zn11.md): 3 literature value(s); DFT kJ/mol-atom MP -33.683, OQMD -33.029
-- [Yb2O3](https://data.orchid-project.org/compounds/Yb2O3.md): 2 literature value(s)
+- [Yb2O3](https://data.orchid-project.org/compounds/Yb2O3.md): 1 literature value(s)
 - [YC](https://data.orchid-project.org/compounds/YC.md): 1 literature value(s); DFT kJ/mol-atom MP 4.285, OQMD -23.935
 - [YC2](https://data.orchid-project.org/compounds/YC2.md): 13 literature value(s); DFT kJ/mol-atom MP -18.127, OQMD -24.068
 - [YH](https://data.orchid-project.org/compounds/YH.md): 2 literature value(s)
@@ -3285,7 +3287,7 @@ Release: orchid-literature 2026-10-23 (record store db-v2.1: invariant/general v
 - [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.md): 6 literature value(s); DFT kJ/mol-atom MP -29.192, OQMD -28.719
 - [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.md): 3 literature value(s); DFT kJ/mol-atom MP -18.32
 - [Zn39Zr](https://data.orchid-project.org/compounds/Zn39Zr.md): 6 literature value(s)
-- [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.md): 8 literature value(s); DFT kJ/mol-atom MP -18.169, OQMD -27.768
+- [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.md): 13 literature value(s); DFT kJ/mol-atom MP -18.169, OQMD -27.768
 - [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.md): 10 literature value(s); DFT kJ/mol-atom MP -27.958, OQMD -26.626
 - [ZnP2](https://data.orchid-project.org/compounds/ZnP2.md): 7 literature value(s); DFT kJ/mol-atom MP -23.975, OQMD -40.016
 - [ZnSe](https://data.orchid-project.org/compounds/ZnSe.md): 5 literature value(s)
@@ -4588,7 +4590,7 @@ DOIs matched from a printed reference, checked against Crossref (first author, y
 DOIs (22 matches) were dropped: those works are kept as no-DOI records with the
 printed reference (`DOI_MISMATCHES.md`). The same scoped corrections are applied by every ORCHID exporter that emits
 DOIs, from one versioned table (`doi_corrections.json`, v1.0.0).
-Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4125.
+Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
 
 | edge type | edges |
 |---|---:|

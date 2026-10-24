@@ -26,8 +26,8 @@ Table: Phases of the Cu–Fe system (5)
 - Literature: 55 values (55 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:bcc-a2)
 
-Names (14): _corpus: _corpus:phase:cu-fe:bcc-a2  
-_paper: _paper:10.1007/bf02664678:α, paper:10.1007/bf02664678:δ, paper:10.1007/bf02664678:ε, paper:10.1361/105497103770330280:α, paper:10.1361/105497103770330280:β, paper:10.1361/105497103770330280:δ, paper:10.1361/105497103770330280:ε  
+Names (13): _corpus: _corpus:phase:cu-fe:bcc-a2  
+_paper: _paper:10.1007/bf02664678:α, paper:10.1007/bf02664678:δ, paper:10.1007/bf02664678:ε, paper:10.1361/105497103770330280:α, paper:10.1361/105497103770330280:δ, paper:10.1361/105497103770330280:ε  
 _tdb: _tdb:CuFe-03Tur.tdb:BCC_A2, tdb:CuFe-15Ste.tdb:BCC_A2, tdb:CuFe-87Jan.tdb:BCC_A2, tdb:CuFe-93Ans-LB.tdb:BCC_A2, tdb:CuFe-93Swa.tdb:BCC_A2, tdb:CuFe-95Che.tdb:BCC_A2  
 
 

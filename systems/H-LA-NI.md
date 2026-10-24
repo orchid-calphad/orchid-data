@@ -35,16 +35,16 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | LaHx |  | -63.7 kJ/mol-atom | 917 | experimental |  |  | [1] Palumbo 2009; _cites Dantzer 1980_ [doi](https://doi.org/10.1016/0022-4596%2880%2990460-0) | Table 1, p. 2, row 2 |  |
 | LaHx |  | -63.6 kJ/mol-atom | 917 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 1 |  |
-| LaNi5Hx |  | -21 kJ/mol-atom | 298 | DFT |  |  | [1] Palumbo 2009; _cites Hector 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901324-5) | Table 1, p. 2, row 20 |  |
+| LaNi5Hx |  | -21 kJ/mol-atom | 298.15 | DFT |  |  | [1] Palumbo 2009; _cites Hector 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2901324-5) | Table 1, p. 2, row 20 |  |
 | LaNi5Hx |  | -20.1 kJ/mol-atom | 223.5 | model |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 10 |  |
 | LaNi5Hx |  | -20 kJ/mol-atom | 285 | experimental |  |  | [1] Palumbo 2009; _cites Murray 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990093-x) | Table 1, p. 2, row 18 |  |
 | LaNi5Hx |  | -19.9 kJ/mol-atom | 320.5 | model |  |  | [1] Palumbo 2009 | Table 1, p. 2, row 11 |  |
-| LaNi5Hx |  | -19.7 kJ/mol-atom | 298 | experimental |  |  | [1] Palumbo 2009; _cites Hubbard 1980_ | Table 1, p. 2, row 19 |  |
+| LaNi5Hx |  | -19.7 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Hubbard 1980_ | Table 1, p. 2, row 19 |  |
 | LaNi5Hx |  | -19.6 kJ/mol-atom | 296.5 | experimental |  |  | [1] Palumbo 2009; _cites Biris 2009_ | Table 1, p. 2, row 13 |  |
 | LaNi5Hx |  | -19.6 kJ/mol-atom | 273.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 15 |  |
 | LaNi5Hx |  | -19.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 14 |  |
 | LaNi5Hx |  | -19.3 kJ/mol-atom | 296 | experimental |  |  | [1] Palumbo 2009; _cites Pedziwiatr 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990158-5) | Table 1, p. 2, row 17 |  |
-| LaNi5Hx |  | -19.2 kJ/mol-atom | 298 | experimental |  |  | [1] Palumbo 2009; _cites Bowerman 1979_ [doi](https://doi.org/10.1524/zpch.1979.116.116.197) | Table 1, p. 2, row 7 |  |
+| LaNi5Hx |  | -19.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Palumbo 2009; _cites Bowerman 1979_ [doi](https://doi.org/10.1524/zpch.1979.116.116.197) | Table 1, p. 2, row 7 |  |
 | LaNi5Hx |  | -19.1 kJ/mol-atom | 195 | experimental |  |  | [1] Palumbo 2009; _cites Ohlendorf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990339-2) | Table 1, p. 2, row 16 |  |
 | LaNi5Hx |  | -19 kJ/mol-atom | 324 | experimental |  |  | [1] Palumbo 2009; _cites J 1970_ | Table 1, p. 2, row 9 |  |
 | LaNi5Hx |  | -18.8 kJ/mol-atom | 363 | experimental |  |  | [1] Palumbo 2009; _cites H 1976_ | Table 1, p. 2, row 8 |  |

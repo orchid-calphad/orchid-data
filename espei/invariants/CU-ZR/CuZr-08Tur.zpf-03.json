@@ -79,6 +79,11 @@
       "paper": "doi:10.1016/j.actamat.2009.12.004",
       "measured_in": "doi:10.1007/bf00551811",
       "dataset": "invariants/CU-ZR/CuZr-10Zho.zpf-00.json"
+     },
+     {
+      "id": "ORC-3KXW3UX2V5",
+      "paper": "doi:10.1007/s11106-008-9039-x",
+      "dataset": "invariants/CU-ZR/CuZr-08Tur.zpf-05.json"
      }
     ]
    }
@@ -94,7 +99,7 @@
    "10.1016/j.actamat.2009.12.004"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-03.json",
-  "e3_merged": 1
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

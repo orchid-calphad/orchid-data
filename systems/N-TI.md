@@ -51,7 +51,7 @@ Table: Enthalpies of formation, N–Ti system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -35.91 kcal/mole | 298 | model |  |  | [3] Ohtani 1990 | p. 6 | “With the aid of the third law of thermodynamics, they derived the standard heat of formation of the alloy as -35.91kcal/mole at 298K.” |
+| — |  | -35.91 kcal/mole | 298.15 | model |  |  | [3] Ohtani 1990 | p. 6 | “With the aid of the third law of thermodynamics, they derived the standard heat of formation of the alloy as -35.91kcal/mole at 298K.” |
 
 ## Other properties
 
@@ -81,7 +81,7 @@ Table: Other property, N–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Other; _printed: heat of combustion_ | -40.235 kcal/mole | 298 |  | experimental | [3] Ohtani 1990 | p. 6 | “The heat of combustion of stoichiometric TiN was determined by Neumann et a1.(26) and Humphrey(27) who gave the values of -4O.l5kcal/mole and -40.235kcal/mole at 298K, respectively.” |
+| Other; _printed: heat of combustion_ | -40.235 kcal/mole | 298.15 |  | experimental | [3] Ohtani 1990 | p. 6 | “The heat of combustion of stoichiometric TiN was determined by Neumann et a1.(26) and Humphrey(27) who gave the values of -4O.l5kcal/mole and -40.235kcal/mole at 298K, respectively.” |
 
 ## Sources
 

@@ -63,7 +63,14 @@
    {
     "id": "ORC-CVGVSMCO43",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-003-0004-6"
+    "paper": "doi:10.1007/s11669-003-0004-6",
+    "also_reported_as": [
+     {
+      "id": "ORC-TE3YJ62T6A",
+      "paper": "doi:10.1007/s11669-003-0004-6",
+      "dataset": "invariants/MN-O/MnO-03Gru-LB.zpf-10.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -74,7 +81,8 @@
    "10.1002/srin.196904332",
    "10.1007/s11669-003-0004-6"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MnO-03Gru-LB/zpf-03.json"
+  "source_dataset": "db-v2.1/invariants/espei/MnO-03Gru-LB/zpf-03.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

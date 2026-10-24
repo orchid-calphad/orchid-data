@@ -13,7 +13,7 @@ Table: Phases of the Ni–Sb system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-ni-sb-a7-rhombohedral); _phase:ni-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–903.56 K, x(Sb) 1–1 | 10 | 4 |
-| [BCC_A2](#phase-ni-sb-bcc-a2); _phase:ni-sb:bcc-a2_ |  | needs_review | stable in 1 of 4 calculated diagram(s): 803.04–1413.04 K, x(Sb) 0.24453–0.29057 | 54 | 4 |
+| [BCC_A2](#phase-ni-sb-bcc-a2); _phase:ni-sb:bcc-a2_ |  | needs_review | stable in 1 of 4 calculated diagram(s): 803.04–1413.04 K, x(Sb) 0.24453–0.29057 | 52 | 4 |
 | [FCC_A1](#phase-ni-sb-fcc-a1); _phase:ni-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1730.24 K, x(Sb) 0–0.10338 | 27 | 4 |
 | [HCP_A3](#phase-ni-sb-hcp-a3); _phase:ni-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-ni-sb-liquid); _phase:ni-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 890.32–2500 K, x(Sb) 0–1 | 73 | 4 |
@@ -96,11 +96,11 @@ _cited as the source of values for this phase_
 - Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word 'A2' in the TDB name
 - Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)
 - Stability: stable in 1 of 4 calculated diagram(s): 803.04–1413.04 K, x(Sb) 0.24453–0.29057
-- Literature: 54 values (53 accepted) from 1 papers
+- Literature: 52 values (52 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sb:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:ni-sb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.02.001:(β'Ni5Sb2), paper:10.1016/j.calphad.2008.02.001:(βNi3Sb), paper:10.1016/j.calphad.2008.02.001:(βNi5Sb2), paper:10.1016/j.calphad.2008.02.001:(εSb)  
+Names (8): _corpus: _corpus:phase:ni-sb:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2008.02.001:(β'Ni5Sb2), paper:10.1016/j.calphad.2008.02.001:(βNi3Sb), paper:10.1016/j.calphad.2008.02.001:(βNi5Sb2)  
 _tdb: _tdb:NiSb-08Cao.tdb:BCC_A2, tdb:NiSb-08Zha.tdb:BCC_A2, tdb:NiSb-13Cao.tdb:BCC_A2, tdb:NiSb-14Kro.tdb:BCC_A2  
 
 

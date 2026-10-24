@@ -1,10 +1,10 @@
 # Al–Mg–Zn system
 
-> Al–Mg–Zn system: 171 accepted literature values (phase equilibrium 78, invariant reaction 71, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Zn system: 183 accepted literature values (invariant reaction 83, phase equilibrium 78, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-MG-ZN.md
 
-171 accepted literature values from 3 paper(s) (experimental 111, model 38, unspecified 22); 0 calculated phase diagram(s).
+183 accepted literature values from 3 paper(s) (experimental 115, model 46, unspecified 22); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-ZN.md)
 
@@ -12,21 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 111 |
-| model | 38 |
+| experimental | 115 |
+| model | 46 |
 | unspecified | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 71 |
+| invariant reaction | 83 |
 | phase transition | 22 |
 | phase equilibrium | 78 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (71)
+Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (83)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -92,15 +92,27 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 | 626.5 | L+AlMgZn\_τ+Mg2Zn3->MgZn | L: Al 0.046, Mg 0.686, Zn 0.268; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 15 |  |
 | 625.8 | L+AlMgZn\_τ+Mg2Zn3->MgZn | L: Al 0.046, Mg 0.683, Zn 0.271; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014 | Table 3, p. 6, row 16 |  |
 | 617.82 | eutectic: L -> (Mg) + Mg12Zn13 + Mg51Zn20 | L: Mg 0.7145, Zn 0.2852 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 2 |  |
+| 617.15 | eutectic: L \<-> (Al) + (Zn) + Mg2Zn11 | L: Zn 0.0869; (Al): Zn 0.3478; (Zn): Zn 0.0593; Mg2Zn11: Zn 0.8538 | model | [1] Liang 1998 | Table 8, p. 19, row 2 |  |
 | 616.6 | L->(Al)+Mg2Zn11+(Zn) | L: Al 0.087, Mg 0.06, Zn 0.854; Mg2Zn11: Al 0, Mg 0.153846, Zn 0.846154 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 17 |  |
 | 616.5 | L->(Al)+Mg2Zn11+(Zn) | L: Al 0.087, Mg 0.06, Zn 0.853; Mg2Zn11: Al 0, Mg 0.153846, Zn 0.846154 | model | [3] Yuan 2014 | Table 3, p. 6, row 18 |  |
+| 616 | other: L + Φ -> (Mg) + τ |  | experimental | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 5 |  |
+| 616 | eutectic: L -> (Al) + (Zn) + Mg2Zn11 |  | experimental | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 1 |  |
 | 615.28 | eutectic: L -> (Al) + (Zn) + Mg2Zn11 | L: Mg 0.0589, Zn 0.8471; Mg2Zn11: Al 0, Mg 0.153846, Zn 0.846154 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 3 |  |
+| 613.62 | other: L + Mg7Zn3 \<-> (Mg) + MgZn | L: Zn 0.001; (Mg): Zn 5.000e-4; Mg7Zn3: Zn 0.7099; MgZn: Zn 0.2891 | model | [1] Liang 1998 | Table 8, p. 19, row 4 |  |
 | 613.6 | L+Mg7Zn3->(Mg)+MgZn | L: Al 0.001, Mg 0.71, Zn 0.289; Mg7Zn3: Al 0, Mg 0.71831, Zn 0.28169; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 19 |  |
+| 612.84 | other: L + Φ \<-> (Mg) + τ | L: Zn 0.0566; Φ: Zn 0.1741; (Mg): Zn 0.6994; τ: Zn 0.244 | model | [1] Liang 1998 | Table 8, p. 19, row 6 |  |
 | 612.8 | L+ϕ->(Mg)+AlMgZn\_τ | L: Al 0.057, Mg 0.699, Zn 0.244; ϕ: Al 0.222222, Mg 0.555556, Zn 0.222222 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 21 |  |
+| 612 | other: L + Mg7Zn3 -> (Mg) + MgZn |  | experimental | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 3 |  |
 | 611.6 | L+Mg7Zn3->(Mg)+MgZn | L: Al 0.001, Mg 0.707, Zn 0.293; Mg7Zn3: Al 0, Mg 0.71831, Zn 0.28169; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014 | Table 3, p. 6, row 20 |  |
+| 611.23 | eutectic: L \<-> (Mg) + MgZn + τ | L: Zn 0.0511; (Mg): Zn 0.0238; MgZn: Zn 0.6995; τ: Zn 0.2494 | model | [1] Liang 1998 | Table 8, p. 19, row 8 |  |
 | 611.2 | L->(Mg)+AlMgZn\_τ+MgZn | L: Al 0.051, Mg 0.7, Zn 0.249; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 23 |  |
 | 611.1 | L+ϕ->(Mg)+AlMgZn\_τ | L: Al 0.055, Mg 0.697, Zn 0.248; ϕ: Al 0.222222, Mg 0.555556, Zn 0.222222 | model | [3] Yuan 2014 | Table 3, p. 6, row 22 |  |
+| 611 | eutectic: L -> (Mg) + MgZn + τ |  | experimental | [1] Liang 1998; _cites Petrov 1993_ | Table 8, p. 19, row 7 |  |
 | 609.6 | L->(Mg)+AlMgZn\_τ+MgZn | L: Al 0.051, Mg 0.697, Zn 0.253; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014 | Table 3, p. 6, row 24 |  |
+| 606.75 | other: (Al-1) + MgZn2 \<-> (Al-2) + Mg2Zn11 | (Al-1): Zn 0.5317; MgZn2: Zn 0.0213; (Al-2): Zn 0.002; Mg2Zn11: Zn 0.4663 | model | [1] Liang 1998 | Table 8, p. 19, row 9 |  |
+| 598.99 | other: (Mg) + τ \<-> MgZn + Φ | (Mg): Zn 0.0235; τ: Zn 0.1461; MgZn: Zn 0.9525; Φ: Zn 0.024 | model | [1] Liang 1998 | Table 8, p. 19, row 10 |  |
+| 550.48 | other: (Al - 1) + Mg2Zn11 \<-> (Al - 2) + (Zn) | (Al-1): Zn 0.4099; (Zn): Zn 0.0161; (Al-2): Zn 6.000e-4; Mg2Zn11: Zn 0.5895 | model | [1] Liang 1998 | Table 8, p. 19, row 11 |  |
+| 496.36 | other: MgZn + τ \<-> Mg2Zn3 + Φ | MgZn: Zn 0.0648; τ: Zn 0.1632; Mg2Zn3: Zn 0.48; Φ: Zn 0.4552 | model | [1] Liang 1998 | Table 8, p. 19, row 12 |  |
 
 ## Other properties
 

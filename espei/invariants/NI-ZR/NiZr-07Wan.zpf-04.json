@@ -271,7 +271,15 @@
    {
     "id": "ORC-TWEN6DM2IB",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2007.07.001"
+    "paper": "doi:10.1016/j.calphad.2007.07.001",
+    "also_reported_as": [
+     {
+      "id": "ORC-4UZGRDTK6L",
+      "paper": "doi:10.1016/j.intermet.2019.106640",
+      "measured_in": "doi:10.1007/bf03398286",
+      "dataset": "invariants/NI-ZR/NiZr-20Jan.zpf-05.json"
+     }
+    ]
    },
    {
     "id": "ORC-UKSMTXWLA3",
@@ -287,13 +295,17 @@
    }
   ],
   "papers": [
-   "doi:10.1016/j.calphad.2007.07.001"
+   "doi:10.1016/j.calphad.2007.07.001",
+   "doi:10.1007/bf03398286",
+   "doi:10.1016/j.intermet.2019.106640"
   ],
   "dois": [
-   "10.1016/j.calphad.2007.07.001"
+   "10.1007/bf03398286",
+   "10.1016/j.calphad.2007.07.001",
+   "10.1016/j.intermet.2019.106640"
   ],
   "source_dataset": "db-v2.1/invariants/espei/NiZr-07Wan/zpf-04.json",
-  "e3_merged": 2
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

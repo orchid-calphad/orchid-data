@@ -149,8 +149,8 @@ Table: Heat capacity / entropy / enthalpy, Al–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Cp_ | 25 unspecified ± 2 | 298 |  | model | [2] Huang 1998 | p. 5 | “Therefore, a heat capacity value estimated by the Neumann-Kopp rule for 1 mole of atoms ofA1Re 2 at 298 K, Cp = 25 + 2 J/K. mol, was used in the optimization.” |
-| Heat capacity; _printed: Cp_ | 24.5 unspecified ± 2 | 298 |  | model | [2] Huang 1998 | p. 5 | “The thermodynamic property of A111Re4 was obtained from similar experimental data, with an estimated Cp = 24.5 + 2 J/K. mol at 298 K.” |
+| Heat capacity; _printed: Cp_ | 25 unspecified ± 2 | 298.15 |  | model | [2] Huang 1998 | p. 5 | “Therefore, a heat capacity value estimated by the Neumann-Kopp rule for 1 mole of atoms ofA1Re 2 at 298 K, Cp = 25 + 2 J/K. mol, was used in the optimization.” |
+| Heat capacity; _printed: Cp_ | 24.5 unspecified ± 2 | 298.15 |  | model | [2] Huang 1998 | p. 5 | “The thermodynamic property of A111Re4 was obtained from similar experimental data, with an estimated Cp = 24.5 + 2 J/K. mol at 298 K.” |
 | Heat content; _printed: heat content_ | 34.16 kJ/mol atoms | 1473 |  | model | [2] Huang 1998 | p. 4 | “However, the calculated heat content of AlllRe 4 (34.95 kJ/mol of atoms) at 1473 K, that is, enthalpy of change from Eq 2, would be larger than that for AIRe 2 (34.16 kJ/mol atoms), while the experimental data show the opposite as given in Table 3.” |
 | Heat content; _printed: heat content_ | 34.95 kJ/mol of atoms | 1473 |  | model | [2] Huang 1998 | p. 4 | “However, the calculated heat content of AlllRe 4 (34.95 kJ/mol of atoms) at 1473 K, that is, enthalpy of change from Eq 2, would be larger than that for AIRe 2 (34.16 kJ/mol atoms), while the experimental data show the opposite as given in Table 3.” |
 

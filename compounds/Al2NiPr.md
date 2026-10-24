@@ -1,25 +1,22 @@
 # Al2NiPr: enthalpy of formation
 
-> Enthalpy of formation of Al2NiPr: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al2NiPr: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al2NiPr.html · Markdown: https://data.orchid-project.org/compounds/Al2NiPr.md
 
-6 accepted literature formation-enthalpy value(s) (model 4, DFT 2).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1).
 
 Systems: [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al2NiPr reported in the literature (6)
+Table: Enthalpy of formation of Al2NiPr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -66.32 kJ/mol-atom | NiAl₂Pr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 15 |  |
-| -66.32 kJ/mol-atom | NiAl2Pr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 15 |  |
 | -66.21 kJ/mol-atom | NiAl₂Pr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 17 |  |
-| -66.21 kJ/mol-atom | NiAl2Pr |  | model |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019 | Table 4, p. 6, row 17 |  |
 | -55.02 kJ/mol-atom | NiAl2Pr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16 |  |
-| -55.02 kJ/mol-atom | NiAl₂Pr |  | DFT |  | [Al–Ni–Pr](https://data.orchid-project.org/systems/AL-NI-PR.html) | [1] Liao 2019; _cites Jain 2013_ | Table 4, p. 6, row 16 |  |
 
 ## Sources
 

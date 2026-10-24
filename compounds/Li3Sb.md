@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Li3Sb reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.5 kJ/mol-atom | Li3Sb | 298 | experimental | acid solution calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
+| -81.5 kJ/mol-atom | Li3Sb | 298.15 | experimental | acid solution calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Shchukarev 1954_ | Table 1, p. 3, row 1 |  |
 | -75.25 kJ/mol-atom | Li3Sb | 686.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 14_ | Table 5, p. 36, row 5 |  |
 | -73.325 kJ/mol-atom | Li3Sb | 700.65 | experimental |  | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [2] Zhang 2017; _cites ref. 10_ | Table 5, p. 36, row 4 |  |
 | -70.03 kJ/mol-atom ± 0.3 | Li3Sb | 942 | experimental | direct reaction calorimetry | [Li–Sb](https://data.orchid-project.org/systems/LI-SB.html) | [1] Li 2017; _cites Terlicka 2016_ [doi](https://doi.org/10.1016/j.jallcom.2016.02.235) | Table 1, p. 3, row 2 |  |
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Li3Sb
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadbu | -65.598 | -0.679877 | Fm-3m | 0 | no |
-| OQMD | oqmd-646185 | -61.983 | -0.64241 | Fm-3m | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadbu | -65.598 | -0.679877 | Fm-3m | 0 | 0 | no |
+| OQMD | oqmd-646185 | -61.983 | -0.64241 | Fm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

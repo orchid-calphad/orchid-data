@@ -1,29 +1,24 @@
 # Cr0.667Ti0.333: enthalpy of formation
 
-> Enthalpy of formation of Cr0.667Ti0.333: 10 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Cr0.667Ti0.333: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Cr0.667Ti0.333.html · Markdown: https://data.orchid-project.org/compounds/Cr0.667Ti0.333.md
 
-10 accepted literature formation-enthalpy value(s) (model 10).
+5 accepted literature formation-enthalpy value(s) (model 5).
 
 Systems: [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Cr0.667Ti0.333 reported in the literature (10)
+Table: Enthalpy of formation of Cr0.667Ti0.333 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298 | model | semi-empirical model | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
-| -10 kJ/mol (basis unstated) | α-Cr0.667 Ti0.333 | 298 | model | semi-empirical model | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
-| -9.856 kJ/mol (basis unstated) | α-Cr0.667 Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002 | Table 2, p. 6, row 5 |  |
-| -9.856 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002 | Table 2, p. 6, row 5 |  |
-| -6.835 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
-| -6.835 kJ/mol (basis unstated) | α-Cr0.667 Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
-| -6.754 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
-| -6.754 kJ/mol (basis unstated) | α-Cr0.667 Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
-| -0.593 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
-| -0.593 kJ/mol (basis unstated) | α-Cr0.667 Ti0.333 | 298 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
+| -10 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | semi-empirical model | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
+| -9.856 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002 | Table 2, p. 6, row 5 |  |
+| -6.835 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
+| -6.754 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
+| -0.593 kJ/mol (basis unstated) | α-Cr0.667Ti0.333 | 298.15 | model | phase diagram modeling | [Cr–Ti](https://data.orchid-project.org/systems/CR-TI.html) | [1] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
 
 ## Sources
 

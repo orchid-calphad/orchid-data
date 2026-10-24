@@ -1,23 +1,34 @@
 # Gd2O3: enthalpy of formation
 
-> Enthalpy of formation of Gd2O3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Gd2O3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Gd2O3.html · Markdown: https://data.orchid-project.org/compounds/Gd2O3.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -375.849 kJ/mol-atom (mp-aaabcsws); OQMD -365.932 kJ/mol-atom (oqmd-7281).
 
-Systems: [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html)
+Systems: [Gd–O](https://data.orchid-project.org/systems/GD-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Gd2O3 reported in the literature (4)
+Table: Enthalpy of formation of Gd2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1827.53 unknown | C-Gd₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
-| -1827.53 unknown | C-Gd2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
-| -1819.7 unknown | B-Gd2O3 | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
-| -1819.7 unknown | B-Gd₂O₃ | 298.15 | model |  | [Dy–Er–Eu–Gd–Ho–O–Tb–Tm](https://data.orchid-project.org/systems/DY-ER-EU-GD-HO-O-TB-TM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| -365.506 kJ/mol-atom | C-Gd₂O₃ | 298.15 | model |  | [Gd–O](https://data.orchid-project.org/systems/GD-O.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
+| -363.94 kJ/mol-atom | B-Gd2O3 | 298.15 | model |  | [Gd–O](https://data.orchid-project.org/systems/GD-O.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Gd2O3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabcsws | -375.849 | -3.89541 | Ia-3 | 0 | 0 | no |
+| OQMD | oqmd-7281 | -365.932 | -3.79263 | Ia-3 | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 

@@ -16,16 +16,16 @@ Table: Enthalpy of formation of CoZr2 reported in the literature (12)
 |---:|---|---:|---|---|---|---|---|---|
 | -33 kJ/mol-atom ± 2 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 5, p. 5, row 33 |  |
 | -33 per mol-atom ± 2000 | CoZr2 | 1290 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 19 |  |
-| -26.4 per mol-atom ± 1000 | CoZr2 | 298 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
-| -26.4 kJ/mol-atom | CoZr2 | 298 | experimental |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
+| -26.4 per mol-atom ± 1000 | CoZr2 | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 20 |  |
+| -26.4 kJ/mol-atom | CoZr2 | 298.15 | experimental |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
 | -26.3 per mol-atom | CoZr2 | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 21 |  |
-| -44 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006 | Table 6, p. 5, row 9 |  |
-| -44 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
+| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006 | Table 6, p. 5, row 9 |  |
+| -44 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [3] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
 | -32.547 per mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 23 |  |
 | -31.166 kJ/mol-atom | CoZr2 | 1290 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 34 |  |
-| -30.745 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
-| -28.946 per mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 24 |  |
-| -27.564 kJ/mol-atom | CoZr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 59 |  |
+| -30.745 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 22 |  |
+| -28.946 per mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Zhou 2021 | Table 3, p. 5, row 24 |  |
+| -27.564 kJ/mol-atom | CoZr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Durga 2010 | Table 5, p. 5, row 59 |  |
 
 ## DFT formation energies
 
@@ -33,10 +33,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of CoZr2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaaaye | -24.825 | -0.257295 | I4/mcm | 0 | no |
-| OQMD | oqmd-29534 | -25.161 | -0.260781 | I4/mcm | 0.412 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaaaye | -24.825 | -0.257295 | I4/mcm | 0 | 0 | no |
+| OQMD | oqmd-29534 | -25.161 | -0.260781 | I4/mcm | 0.412 | 0.0043 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

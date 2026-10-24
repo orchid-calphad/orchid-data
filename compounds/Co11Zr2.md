@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Co11Zr2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -23.944 kJ/mol-atom | Co11Zr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 1 |  |
-| -15.846 kJ/mol-atom | Co11Zr2 | 298 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
+| -23.944 kJ/mol-atom | Co11Zr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 1 |  |
+| -15.846 kJ/mol-atom | Co11Zr2 | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Durga 2010 | Table 5, p. 5, row 44 |  |
 
 ## Sources
 

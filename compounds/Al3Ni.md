@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Al3Ni reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41 kJ/mol-atom | Al3Ni | 298 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Chrifi-Alaoui 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900493-6) | Table 1, p. 4, row 1 |  |
-| -38.5 kJ/mol-atom | Al3Ni | 298 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Oelsen 1937_ | Table 1, p. 4, row 2 |  |
-| -37.7 kJ/mol-atom | Al3Ni | 298 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 1, p. 4, row 3 |  |
-| -48 kJ/mol-atom | Al3Ni | 298 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 1, p. 4, row 6 |  |
-| -42.1 kJ/mol-atom | Al3Ni | 298 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Shi 2009_ [doi](https://doi.org/10.1016/j.jssc.2009.07.026) | Table 1, p. 4, row 5 |  |
-| -40.7 kJ/mol-atom | Al3Ni | 298 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011 | Table 1, p. 4, row 7 |  |
-| -39.6 kJ/mol-atom | Al3Ni | 298 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Wang 2009_ | Table 1, p. 4, row 4 |  |
-| -22.9 kJ/mol-atom | Al3Ni (γ'-L12) | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19 |  |
+| -41 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Chrifi-Alaoui 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900493-6) | Table 1, p. 4, row 1 |  |
+| -38.5 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Oelsen 1937_ | Table 1, p. 4, row 2 |  |
+| -37.7 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 1, p. 4, row 3 |  |
+| -48 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 1, p. 4, row 6 |  |
+| -42.1 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Shi 2009_ [doi](https://doi.org/10.1016/j.jssc.2009.07.026) | Table 1, p. 4, row 5 |  |
+| -40.7 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011 | Table 1, p. 4, row 7 |  |
+| -39.6 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Wang 2009_ | Table 1, p. 4, row 4 |  |
+| -22.9 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19 |  |
 | -21.6 kJ/mol (basis unstated) | L12-Al3Ni |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 1 |  |
-| -21.175 kJ/mol-atom | Al3Ni (γ'-L12) | 298 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 18 |  |
+| -21.175 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 18 |  |
 | -21.919 kJ/mol (basis unstated) | L12-Al3Ni |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 2 |  |
 
 ## DFT formation energies
@@ -32,10 +32,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al3Ni
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabjkld | -39.068 | -0.404916 | Pnma | 0 | no |
-| OQMD | oqmd-10517 | -39.608 | -0.410514 | Pnma | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabjkld | -39.068 | -0.404916 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-10517 | -39.608 | -0.410514 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

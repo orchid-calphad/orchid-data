@@ -71,7 +71,7 @@ Table: Enthalpies of formation, Bi–Na system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| BiNa |  | -78.3 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Liu 2013; _cites Seith 1937_ | p. 2 | “The enthalpies of formation of BiNa at 298 K were reported to be -78.3 kJ/mol, relative to pure liquids, from direct reaction calorimetry by Seith and Kubaschewski \[43\] and Kubaschewski and Catterall \[44\].” |
+| BiNa |  | -78.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2013; _cites Seith 1937_ | p. 2 | “The enthalpies of formation of BiNa at 298 K were reported to be -78.3 kJ/mol, relative to pure liquids, from direct reaction calorimetry by Seith and Kubaschewski \[43\] and Kubaschewski and Catterall \[44\].” |
 | BiNa(s) | [BiNa](https://data.orchid-project.org/compounds/BiNa.html) | -42.45 kJ/mol-atom |  | model | -28.197 (mp-aaaabhxs) | -35.373 (oqmd-28744) | [1] Liu 2013 | Table 5, p. 7, row 1 |  |
 | BiNa(s) | [BiNa](https://data.orchid-project.org/compounds/BiNa.html) | -41.6 kJ/mol-atom | 298.15 | experimental | -28.197 (mp-aaaabhxs) | -35.373 (oqmd-28744) | [1] Liu 2013; _cites Iwase 1984_ | Table 5, p. 7, row 3 |  |
 | BiNa(s) | [BiNa](https://data.orchid-project.org/compounds/BiNa.html) | -39.75 kJ/mol-atom | 298.15 | experimental | -28.197 (mp-aaaabhxs) | -35.373 (oqmd-28744) | [1] Liu 2013; _cites Foster 1967_ | Table 5, p. 7, row 2 |  |

@@ -15,8 +15,8 @@ Table: Enthalpy of formation of PdS2 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -69.24 per mol-atom | PdS2 | 716.5 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 18 |  |
-| -29.24 per mol-atom | PdS2 | 298 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
-| -26.067 per mol-atom ± 4.2 | PdS2 | 298 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |
+| -29.24 per mol-atom | PdS2 | 298.15 | experimental |  | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
+| -26.067 per mol-atom ± 4.2 | PdS2 | 298.15 | experimental | calorimetry | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |
 | -30.8 per mol-atom | PdS2 | 0 | DFT | first principles (PBEsol) | [Pd–S](https://data.orchid-project.org/systems/PD-S.html) | [1] Hu 2010 | Table 2, p. 2, row 20 |  |
 
 ## Sources

@@ -201,6 +201,11 @@
       "paper": "doi:10.1016/j.jallcom.2011.04.141",
       "measured_in": "doi:10.1515/ijmr-1986-770109",
       "dataset": "invariants/CU-ZR/CuZr-11Gie.zpf-01.json"
+     },
+     {
+      "id": "ORC-YSZ66KBVMU",
+      "paper": "doi:10.1007/s11106-008-9039-x",
+      "dataset": "invariants/CU-ZR/CuZr-08Tur.zpf-05.json"
      }
     ]
    },
@@ -227,9 +232,11 @@
    "doi:10.1515/ijmr-1986-770109",
    "doi:10.1016/j.calphad.2006.06.002",
    "doi:10.1016/j.actamat.2009.12.004",
-   "doi:10.1016/j.jallcom.2011.04.141"
+   "doi:10.1016/j.jallcom.2011.04.141",
+   "doi:10.1007/s11106-008-9039-x"
   ],
   "dois": [
+   "10.1007/s11106-008-9039-x",
    "10.1016/j.actamat.2009.12.004",
    "10.1016/j.calphad.2006.06.002",
    "10.1016/j.jallcom.2011.04.141",
@@ -237,7 +244,7 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-06Wan/zpf-02.json",
   "values_dropped": 1,
-  "e3_merged": 2
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

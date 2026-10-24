@@ -15,10 +15,10 @@ Table: Enthalpy of formation of Li5Sn2 reported in the literature (6)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -45.4 unknown | Li5Sn2 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 20 |  |
-| -38.9 unknown | Li5Sn2 | 298 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 24 |  |
+| -38.9 unknown | Li5Sn2 | 298.15 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 24 |  |
 | -35.7 unknown | Li5Sn2 | 688 | experimental |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 22 |  |
 | -43.8 unknown | Li5Sn2 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 19 |  |
-| -39.7 unknown | Li5Sn2 | 298 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 23 |  |
+| -39.7 unknown | Li5Sn2 | 298.15 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 23 |  |
 | -35.2 unknown | Li5Sn2 | 688 | model |  | [Li–Sn](https://data.orchid-project.org/systems/LI-SN.html) | [1] Yin 2005 | Table 3, p. 3, row 21 |  |
 
 ## Sources

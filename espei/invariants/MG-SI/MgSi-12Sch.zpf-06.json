@@ -5,48 +5,17 @@
   "VA"
  ],
  "phases": [
-  "DIAMOND_A4",
   "LIQUID",
   "MG2SI_C1"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1218.8,
    1358.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     0.53
-    ]
-   ],
-   [
-    "MG2SI_C1",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -75,17 +44,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UVZQPISW4Q ORC-AXYT2A55J3",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AXYT2A55J3",
  "bibtex": "schick2012_730b66",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-UVZQPISW4Q",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2012.02.001"
-   },
    {
     "id": "ORC-AXYT2A55J3",
     "reader_agreement": "multi_reader",
@@ -99,15 +63,11 @@
    "10.1016/j.calphad.2012.02.001"
   ],
   "source_dataset": "db-v2.1/invariants/espei/MgSi-12Sch/zpf-06.json",
-  "values_dropped": 1
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -125,11 +85,6 @@
   "all_values_certified": false,
   "n_certified": 0,
   "values": [
-   {
-    "id": "ORC-UVZQPISW4Q",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
    {
     "id": "ORC-AXYT2A55J3",
     "espei_certified": false,

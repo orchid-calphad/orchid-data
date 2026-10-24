@@ -58,7 +58,7 @@ Table: Enthalpies of formation, Mn–Tm system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -1.384 kJ/mol-atom | 298 | model |  |  | [1] Ye 2024 | p. 20 | “Figure 23 depicts the calculated enthalpy of formation of the Mn-Tm intermetallic compounds at 298 K in comparison with Kim et al.'s assessment\[19\] and the DFT results.\[93,94\] The calculated enthalpies of formation of Mn12Tm, Mn23Tm6, and Mn2Tm are -1.384, -3.310, and -3.10 kJ/ mol-atom, respectively, which are less negative than those from Kim et al.,\[19\] but closer to the average values of the…” |
+| — |  | -1.384 kJ/mol-atom | 298.15 | model |  |  | [1] Ye 2024 | p. 20 | “Figure 23 depicts the calculated enthalpy of formation of the Mn-Tm intermetallic compounds at 298 K in comparison with Kim et al.'s assessment\[19\] and the DFT results.\[93,94\] The calculated enthalpies of formation of Mn12Tm, Mn23Tm6, and Mn2Tm are -1.384, -3.310, and -3.10 kJ/ mol-atom, respectively, which are less negative than those from Kim et al.,\[19\] but closer to the average values of the…” |
 
 ## Sources
 

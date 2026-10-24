@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Al18Cr2Mg3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -246.5 kJ/mol (basis unstated) | T (Al18Mg3Cr2) | 298 | model | CALPHAD type of assessment | [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.html) | [1] Cui 2017 | Table 3, p. 4, row 4 |  |
-| -238.5 kJ/mol (basis unstated) | T (Al18Mg3Cr2) | 298 | DFT | First principles calculation | [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.html) | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
+| -246.5 kJ/mol (basis unstated) | T (Al18Mg3Cr2) | 298.15 | model | CALPHAD type of assessment | [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.html) | [1] Cui 2017 | Table 3, p. 4, row 4 |  |
+| -238.5 kJ/mol (basis unstated) | T (Al18Mg3Cr2) | 298.15 | DFT | First principles calculation | [Al–Cr–Mg](https://data.orchid-project.org/systems/AL-CR-MG.html) | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
 
 ## Sources
 

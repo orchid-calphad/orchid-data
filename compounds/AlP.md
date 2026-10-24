@@ -22,10 +22,10 @@ Table: Enthalpy of formation of AlP reported in the literature (25)
 | -81.6 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 4, p. 6, row 7 |  |
 | -69.4 per mol-atom ± 4 | AlP | 298.15 | experimental | Measured | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 3, row 1 |  |
 | -69.4 kJ/mol (basis unstated) | AlP | 298.15 | experimental |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 4, p. 6, row 5 |  |
-| -41.3 kJ/mol-atom ± 1.1 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2 |  |
-| -34.77 kJ/mol-atom ± 4.6 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1 |  |
-| -29.5 kJ/mol-atom ± 6.7 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3 |  |
-| -28.8 kJ/mol-atom ± 17.7 | AlP | 298 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4 |  |
+| -41.3 kJ/mol-atom ± 1.1 | AlP | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Kischio 1965_ [doi](https://doi.org/10.1016/0022-1902%2865%2980287-1) | Table 3, p. 4, row 2 |  |
+| -34.77 kJ/mol-atom ± 4.6 | AlP | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Wang 1963_ [doi](https://doi.org/10.1016/0022-1902%2863%2980071-8) | Table 3, p. 4, row 1 |  |
+| -29.5 kJ/mol-atom ± 6.7 | AlP | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites G 1968_ | Table 3, p. 4, row 3 |  |
+| -28.8 kJ/mol-atom ± 17.7 | AlP | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009; _cites Martosudirdjo 1974_ [doi](https://doi.org/10.1016/0040-6031%2874%2985019-7) | Table 3, p. 4, row 4 |  |
 | -91.5 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Kaufman 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990020-1) | Table 3, p. 3, row 5 |  |
 | -82.2 per mol-atom | AlP | 298.15 | model | Reviewed | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Barin 1977_ | Table 3, p. 3, row 12 |  |
 | -82.2 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Wu 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.03.005) | Table 3, p. 3, row 9 |  |
@@ -38,7 +38,7 @@ Table: Enthalpy of formation of AlP reported in the literature (25)
 | -67.7 per mol-atom ± 6.7 | AlP | 298.15 | model | Derived | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites De 1968_ | Table 3, p. 3, row 13 |  |
 | -51 kJ/mol (basis unstated) | AlP | 298.15 | model |  | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [1] Miettinen 2015; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 2 |  |
 | -51 per mol-atom | AlP | 298.15 | model | Calculated | [Al–P](https://data.orchid-project.org/systems/AL-P.html) | [2] Liang 2013; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 3, p. 3, row 8 |  |
-| -25.5 kJ/mol-atom | AlP | 298 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009 | Table 3, p. 4, row 5 |  |
+| -25.5 kJ/mol-atom | AlP | 298.15 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [3] Tu 2009 | Table 3, p. 4, row 5 |  |
 
 ## DFT formation energies
 
@@ -46,10 +46,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of AlP
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaachq | -58.834 | -0.609772 | F-43m | 0 | no |
-| OQMD | oqmd-4641 | -71.088 | -0.736775 | F-43m | 0.003 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaachq | -58.834 | -0.609772 | F-43m | 0 | 0 | no |
+| OQMD | oqmd-4641 | -71.088 | -0.736775 | F-43m | 0.003 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

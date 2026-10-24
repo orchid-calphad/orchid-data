@@ -85,13 +85,13 @@ Table: Enthalpies of formation, O–Zr system (26)
 | ZrO2 | [ZrO2](https://data.orchid-project.org/compounds/ZrO2.html) | -366 kJ/mol-atom | 298.15 | experimental | -367.957 (mp-aaaaaefy) | -350.528 (oqmd-3278) | [2] Arroyave 2002 | Table 2, p. 17, row 2 |  |
 | ZrO3 | [ZrO3](https://data.orchid-project.org/compounds/ZrO3.html) | -644 kJ/mol-atom |  | model |  | -239.971 (oqmd-825016) | [2] Arroyave 2002 | Table 2, p. 17, row 3 |  |
 | ZrO3 | [ZrO3](https://data.orchid-project.org/compounds/ZrO3.html) | -411 kJ/mol-atom |  | model |  | -239.971 (oqmd-825016) | [2] Arroyave 2002 | Table 2, p. 17, row 4 |  |
-| monoclinic ZrO2 |  | -1100.97 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
-| monoclinic ZrO2 |  | -1100.92 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Wang 2004; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 3, p. 6, row 3 |  |
-| monoclinic ZrO2 |  | -1100.69 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
-| monoclinic ZrO2 |  | -1100.57 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
-| monoclinic ZrO2 |  | -1100.57 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
-| monoclinic ZrO2 |  | -1100.56 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Wang 2004; _cites Kornilov 1967_ | Table 3, p. 6, row 4 |  |
-| monoclinic ZrO2 |  | -1100.31 kJ/mol (basis unstated) | 298 | model |  |  | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
+| monoclinic ZrO2 |  | -1100.97 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
+| monoclinic ZrO2 |  | -1100.92 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2004; _cites Huber 1964_ [doi](https://doi.org/10.1021/j100792a052) | Table 3, p. 6, row 3 |  |
+| monoclinic ZrO2 |  | -1100.69 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
+| monoclinic ZrO2 |  | -1100.57 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
+| monoclinic ZrO2 |  | -1100.57 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
+| monoclinic ZrO2 |  | -1100.56 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2004; _cites Kornilov 1967_ | Table 3, p. 6, row 4 |  |
+| monoclinic ZrO2 |  | -1100.31 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
 
 ## Other properties
 
@@ -244,32 +244,32 @@ Table: Heat capacity / entropy / enthalpy, O–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy | 50.71 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Kelly 1961_ | Table 3, p. 6, row 2 |  |
-| Entropy | 49.79 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6 |  |
-| Entropy | 49.8 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
-| Entropy | 50.73 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
-| Entropy | 50.36 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
-| Entropy | 50.35 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
-| Entropy | 50.35 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | unspecified | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
 | Entropy; _printed: S(ZrO2)_ | 50.72 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6 |  |
 | Entropy; _printed: S(ZrO2)_ | 50.33 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Kelley 1944_ | Table 1, p. 3, row 1 |  |
 | Entropy; _printed: S(ZrO2)_ | 50.359 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5 |  |
 | Entropy; _printed: S(ZrO2)_ | 49.79 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3 |  |
 | Entropy; _printed: S(ZrO2)_ | 50.71 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4 |  |
 | Entropy; _printed: S(ZrO2)_ | 49.8 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004 | Table 1, p. 3, row 7 |  |
-| Heat capacity | 56.14 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6 |  |
-| Heat capacity | 57.21 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
-| Heat capacity | 63.43 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
-| Heat capacity | 56.5 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Nevitt 1990_ [doi](https://doi.org/10.1111/j.1151-2916.1990.tb07619.x) | Table 3, p. 6, row 5 |  |
-| Heat capacity | 55.9 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
-| Heat capacity | 56.12 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
-| Heat capacity | 56.04 J/mol (basis unstated)/K | 298 | monoclinic ZrO2; _alloy: Zr 0.333333_ | unspecified | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
+| Entropy | 50.71 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Kelly 1961_ | Table 3, p. 6, row 2 |  |
+| Entropy | 49.79 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6 |  |
+| Entropy | 49.8 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
+| Entropy | 50.73 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
+| Entropy | 50.36 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
+| Entropy | 50.35 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
+| Entropy | 50.35 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | unspecified | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 56.5 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Nevitt 1990_ | Table 1, p. 3, row 2 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 63.43 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Liang 2001_ | Table 1, p. 3, row 6 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 56.191 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Chase 1985_ | Table 1, p. 3, row 5 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 56.14 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | experimental | [4] CHEN 2004; _cites Tojo 1999_ | Table 1, p. 3, row 3 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 56.02 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004; _cites Ackermann 1975_ | Table 1, p. 3, row 4 |  |
 | Heat capacity; _printed: Cp(ZrO2)_ | 57.21 J/mol (basis unstated)/K | 298.15 | ZrO2; _alloy: Zr 0.333333_ | model | [4] CHEN 2004 | Table 1, p. 3, row 7 |  |
+| Heat capacity | 56.14 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Tojo 1999_ [doi](https://doi.org/10.1006/jcht.1998.0481) | Table 3, p. 6, row 6 |  |
+| Heat capacity | 57.21 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Chen 2004_ | Table 3, p. 6, row 10 |  |
+| Heat capacity | 63.43 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Liang 2001_ | Table 3, p. 6, row 8 |  |
+| Heat capacity | 56.5 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | experimental | [1] Wang 2004; _cites Nevitt 1990_ [doi](https://doi.org/10.1111/j.1151-2916.1990.tb07619.x) | Table 3, p. 6, row 5 |  |
+| Heat capacity | 55.9 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Arroyave 2002_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900027-5) | Table 3, p. 6, row 9 |  |
+| Heat capacity | 56.12 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | model | [1] Wang 2004; _cites Du 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb04384.x) | Table 3, p. 6, row 7 |  |
+| Heat capacity | 56.04 J/mol (basis unstated)/K | 298.15 | monoclinic ZrO2; _alloy: Zr 0.333333_ | unspecified | [1] Wang 2004; _cites Dinsdale 2003_ | Table 3, p. 6, row 11 |  |
 
 ### Activity / EMF / Gibbs energy (14)
 

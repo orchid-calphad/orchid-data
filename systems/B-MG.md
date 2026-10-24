@@ -48,57 +48,57 @@ Table: Enthalpies of formation, B–Mg system (53)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Mg2B | [Mg2B](https://data.orchid-project.org/compounds/Mg2B.html) | -0.01423 kJ/mol-atom ± 8.400e-4 | 298.15 | experimental |  | 24.127 (oqmd-751629) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 11 |  |
 | Mg4B |  | -0.01953 kJ/mol-atom ± 0.00139 | 298.15 | experimental |  |  | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 12 |  |
-| MgB12 |  | -15.8 per mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 20 |  |
-| MgB12 |  | -10.1 per mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 21 |  |
+| MgB12 |  | -15.8 per mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 20 |  |
+| MgB12 |  | -10.1 per mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 21 |  |
 | MgB12 | [MgB12](https://data.orchid-project.org/compounds/MgB12.html) | -0.01007 kJ/mol-atom ± 9.000e-4 | 298.15 | experimental |  | -0.392 (oqmd-1454219) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 10 |  |
-| MgB2 |  | -41.1 per mol-atom ± 2.2 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 1 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -41.1 kJ/mol-atom ± 2.2 | 298 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 1 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -35.9 kJ/mol-atom | 298 | model | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 2 |  |
-| MgB2 |  | -35.9 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 2 |  |
-| MgB2 |  | -26.6 per mol-atom ± 10 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 4 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -26.6 kJ/mol-atom ± 10 | 298 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 4 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -24 kJ/mol-atom | 298 | model | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 3 |  |
-| MgB2 |  | -24 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 3 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -18.6 kJ/mol-atom | 298 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 6 |  |
-| MgB2 |  | -18.6 per mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 6 |  |
-| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -17.2 kJ/mol-atom ± 1.4 | 298 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 5 |  |
-| MgB2 |  | -17.2 per mol-atom ± 1.4 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 5 |  |
+| MgB2 |  | -41.1 per mol-atom ± 2.2 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 1 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -41.1 kJ/mol-atom ± 2.2 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 1 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -35.9 kJ/mol-atom | 298.15 | model | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 2 |  |
+| MgB2 |  | -35.9 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 2 |  |
+| MgB2 |  | -26.6 per mol-atom ± 10 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 4 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -26.6 kJ/mol-atom ± 10 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 4 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -24 kJ/mol-atom | 298.15 | model | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 3 |  |
+| MgB2 |  | -24 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 3 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -18.6 kJ/mol-atom | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 6 |  |
+| MgB2 |  | -18.6 per mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 6 |  |
+| MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -17.2 kJ/mol-atom ± 1.4 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [2] Balducci 2005 | Table 2, p. 4, row 5 |  |
+| MgB2 |  | -17.2 per mol-atom ± 1.4 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 5 |  |
 | MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -0.02666 kJ/mol-atom ± 0.01 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [1] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 1 |  |
 | MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -0.01855 kJ/mol-atom ± 0.00112 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 7 |  |
 | MgB2 | [MgB2](https://data.orchid-project.org/compounds/MgB2.html) | -0.01717 kJ/mol-atom ± 0.00139 | 298.15 | experimental | -12.577 (mp-aaaaabdj) | -13.509 (oqmd-98302) | [1] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 4 |  |
-| MgB20 |  | -15.8 kJ/mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 20 |  |
-| MgB20 |  | -10.1 kJ/mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 21 |  |
-| MgB20 |  | -8.5 kJ/mol-atom ± 0.6 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| MgB20 |  | -8.5 per mol-atom ± 0.6 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 18 |  |
-| MgB20 |  | -7.8 kJ/mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 19 |  |
-| MgB20 |  | -7.8 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 19 |  |
-| MgB4 |  | -29.9 per mol-atom ± 2 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 7 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -29.9 kJ/mol-atom ± 2 | 298 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 7 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -25.5 kJ/mol-atom | 298 | model | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 8 |  |
-| MgB4 |  | -25.5 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 8 |  |
-| MgB4 |  | -18.4 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 9 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -18.4 kJ/mol-atom | 298 | model | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 9 |  |
-| MgB4 |  | -17.6 per mol-atom ± 3.8 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 10 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -17.6 kJ/mol-atom ± 3.8 | 298 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 10 |  |
-| MgB4 |  | -14.7 per mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 12 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -14.7 kJ/mol-atom | 298 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 12 |  |
-| MgB4 |  | -14.4 per mol-atom ± 0.8 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 11 |  |
-| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -14.4 kJ/mol-atom ± 0.8 | 298 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 11 |  |
+| MgB20 |  | -15.8 kJ/mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 20 |  |
+| MgB20 |  | -10.1 kJ/mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 21 |  |
+| MgB20 |  | -8.5 kJ/mol-atom ± 0.6 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 18 |  |
+| MgB20 |  | -8.5 per mol-atom ± 0.6 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 18 |  |
+| MgB20 |  | -7.8 kJ/mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 19 |  |
+| MgB20 |  | -7.8 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 19 |  |
+| MgB4 |  | -29.9 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 7 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -29.9 kJ/mol-atom ± 2 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 7 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -25.5 kJ/mol-atom | 298.15 | model | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 8 |  |
+| MgB4 |  | -25.5 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 8 |  |
+| MgB4 |  | -18.4 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 9 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -18.4 kJ/mol-atom | 298.15 | model | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 9 |  |
+| MgB4 |  | -17.6 per mol-atom ± 3.8 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 10 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -17.6 kJ/mol-atom ± 3.8 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 10 |  |
+| MgB4 |  | -14.7 per mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 12 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -14.7 kJ/mol-atom | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 12 |  |
+| MgB4 |  | -14.4 per mol-atom ± 0.8 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 11 |  |
+| MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -14.4 kJ/mol-atom ± 0.8 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [2] Balducci 2005 | Table 2, p. 4, row 11 |  |
 | MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -0.01757 kJ/mol-atom ± 0.00385 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [1] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 2 |  |
 | MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -0.01473 kJ/mol-atom ± 5.000e-4 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 8 |  |
 | MgB4 | [MgB4](https://data.orchid-project.org/compounds/MgB4.html) | -0.01439 kJ/mol-atom ± 7.500e-4 | 298.15 | experimental | -13.395 (mp-aaaaaaob) | -13.876 (oqmd-4315) | [1] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 5 |  |
-| MgB6 |  | -15.5 per mol-atom ± 2.1 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 15 |  |
-| MgB6 |  | -13.4 per mol-atom | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 17 |  |
-| MgB6 |  | -13.4 per mol-atom ± 0.6 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 16 |  |
+| MgB6 |  | -15.5 per mol-atom ± 2.1 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 15 |  |
+| MgB6 |  | -13.4 per mol-atom | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 17 |  |
+| MgB6 |  | -13.4 per mol-atom ± 0.6 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 16 |  |
 | MgB6 | [MgB6](https://data.orchid-project.org/compounds/MgB6.html) | -0.01339 kJ/mol-atom ± 6.000e-4 | 298.15 | experimental |  | 0.227 (oqmd-1454656) | [1] Liu 2001; _cites Jansson 1984_ | Table 2, p. 2, row 6 |  |
 | MgB6 | [MgB6](https://data.orchid-project.org/compounds/MgB6.html) | -0.01339 kJ/mol-atom ± 3.000e-4 | 298.15 | experimental |  | 0.227 (oqmd-1454656) | [1] Liu 2001; _cites Sundman 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990021-5) | Table 2, p. 2, row 9 |  |
-| MgB7 |  | -20.3 per mol-atom ± 1.5 | 298 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 13 |  |
-| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -20.3 kJ/mol-atom ± 1.5 | 298 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 13 |  |
-| MgB7 |  | -18.9 per mol-atom | 298 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 14 |  |
-| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -18.9 kJ/mol-atom | 298 | model | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 14 |  |
-| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -15.5 kJ/mol-atom ± 2.1 | 298 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 15 |  |
-| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -13.4 kJ/mol-atom | 298 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 17 |  |
-| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -13.4 kJ/mol-atom ± 0.6 | 298 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 16 |  |
+| MgB7 |  | -20.3 per mol-atom ± 1.5 | 298.15 | experimental |  |  | [2] Balducci 2005 | Table 2, p. 4, row 13 |  |
+| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -20.3 kJ/mol-atom ± 1.5 | 298.15 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 13 |  |
+| MgB7 |  | -18.9 per mol-atom | 298.15 | model |  |  | [2] Balducci 2005 | Table 2, p. 4, row 14 |  |
+| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -18.9 kJ/mol-atom | 298.15 | model | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 14 |  |
+| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -15.5 kJ/mol-atom ± 2.1 | 298.15 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 15 |  |
+| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -13.4 kJ/mol-atom | 298.15 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 17 |  |
+| MgB7 | [MgB7](https://data.orchid-project.org/compounds/MgB7.html) | -13.4 kJ/mol-atom ± 0.6 | 298.15 | experimental | -12.598 (mp-aaacdrdz) | -13.076 (oqmd-23820) | [2] Balducci 2005 | Table 2, p. 4, row 16 |  |
 
 ## Other properties
 
@@ -133,23 +133,23 @@ Table: Formation, B–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS0298_ | -2.8 per mol-atom ± 0.1 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -2.86 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 2 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -4.25 per mol-atom ± 0.5 | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.343 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 3 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -2.82 J/mol-atom/K | 298 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.03 per mol-atom ± 0.01 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.04 J/mol-atom/K | 298 | MgB20; _alloy: Mg 0.047619_ | model | [2] Balducci 2005 | Table 3, p. 4, row 16 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.47 per mol-atom ± 0.1 | 298 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 17 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.655 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.18 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 7 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.32 J/mol-atom/K | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -3.04 per mol-atom ± 0.5 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 6 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.84 per mol-atom ± 0.1 | 298 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -0.1 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 13 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.02 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS0298_ | 0.94 per mol-atom ± 0.5 | 298 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔfS0298_ | -1.21 J/mol-atom/K | 298 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 12 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -2.8 per mol-atom ± 0.1 | 298.15 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 4 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -2.86 J/mol-atom/K | 298.15 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 2 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -4.25 per mol-atom ± 0.5 | 298.15 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 1 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.343 J/mol-atom/K | 298.15 | MgB2; _alloy: Mg 0.333333_ | model | [2] Balducci 2005 | Table 3, p. 4, row 3 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -2.82 J/mol-atom/K | 298.15 | MgB2; _alloy: Mg 0.333333_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 5 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.03 per mol-atom ± 0.01 | 298.15 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 15 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.04 J/mol-atom/K | 298.15 | MgB20; _alloy: Mg 0.047619_ | model | [2] Balducci 2005 | Table 3, p. 4, row 16 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -0.47 per mol-atom ± 0.1 | 298.15 | MgB20; _alloy: Mg 0.047619_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 17 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.655 J/mol-atom/K | 298.15 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 8 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -1.18 J/mol-atom/K | 298.15 | MgB4; _alloy: Mg 0.2_ | model | [2] Balducci 2005 | Table 3, p. 4, row 7 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -1.32 J/mol-atom/K | 298.15 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 10 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -3.04 per mol-atom ± 0.5 | 298.15 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 6 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -0.84 per mol-atom ± 0.1 | 298.15 | MgB4; _alloy: Mg 0.2_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 9 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -0.1 J/mol-atom/K | 298.15 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 13 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.02 J/mol-atom/K | 298.15 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005; _cites Pan 1989_ [doi](https://doi.org/10.1007/bf02057252) | Table 3, p. 4, row 14 |  |
+| Entropy of formation; _printed: ΔfS0298_ | 0.94 per mol-atom ± 0.5 | 298.15 | MgB7; _alloy: Mg 0.125_ | experimental | [2] Balducci 2005 | Table 3, p. 4, row 11 |  |
+| Entropy of formation; _printed: ΔfS0298_ | -1.21 J/mol-atom/K | 298.15 | MgB7; _alloy: Mg 0.125_ | model | [2] Balducci 2005 | Table 3, p. 4, row 12 |  |
 
 ## Sources
 

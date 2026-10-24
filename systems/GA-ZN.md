@@ -46,9 +46,9 @@ Table: Invariant reactions reported in the literature for the Ga–Zn system (7)
 |---:|---|---|---|---|---|---|
 | 298.55 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 58Heu_ | Table I, p. 1, row 2 |  |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.053; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 32Pus_ | Table I, p. 1, row 1 |  |
+| 298.15 | eutectic |  | experimental | [2] Ghasemi 2015 | p. 2 | “The eutectic reaction occurs at 298 K and about 4.0 at.% Zn.” |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites Shurai 1976_ | Table I, p. 1, row 4 |  |
 | 298.15 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.037; (Ga): Zn 0 | experimental | [1] Dutkiewicz 1990; _cites ref. 63Del_ | Table I, p. 1, row 3 |  |
-| 298 | eutectic |  | experimental | [2] Ghasemi 2015 | p. 2 | “The eutectic reaction occurs at 298 K and about 4.0 at.% Zn.” |
 | 297.82 | eutectic: L -> (Ga) + (Zn) | L: Zn 0.0387; (Ga): Zn 0 | model | [1] Dutkiewicz 1990 | Table I, p. 1, row 5 |  |
 | 297.3 | eutectic |  | experimental | [3] Mathon 2000 | p. 6 | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
 

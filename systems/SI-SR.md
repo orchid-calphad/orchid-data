@@ -185,47 +185,47 @@ Table: Enthalpies of formation, Si–Sr system (41)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -44.3 kJ/mol-atom | 298 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 6 |  |
-| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -43.8 kJ/mol-atom ± 3.6 | 298 | experimental | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
-| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -40.3 kJ/mol-atom | 298 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 5 |  |
-| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -53.1 kJ/mol-atom | 298 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9 |  |
-| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -51.7 kJ/mol-atom ± 4.1 | 298 | experimental | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
-| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -46.9 kJ/mol-atom | 298 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8 |  |
-| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -41.3 kJ/mol-atom | 298 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3 |  |
-| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom ± 3.2 | 298 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
-| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -37.9 kJ/mol-atom | 298 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2 |  |
-| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -66.3 kJ/mol-atom | 298 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1 |  |
-| Sr2Si |  | -41.3 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 3 |  |
-| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom | 298 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6 |  |
-| Sr2Si |  | -37.9 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 4 |  |
-| Sr2Si |  | -37.6 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5 |  |
-| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -35.3 kJ/mol-atom | 298 | unspecified | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2 |  |
-| Sr5Si3 |  | -44.3 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 7 |  |
-| Sr5Si3 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -43.8 kJ/mol-atom | 298 | experimental | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 10 |  |
-| Sr5Si3 |  | -40.3 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 8 |  |
-| Sr5Si3 |  | -40.2 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 9 |  |
-| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -67 kJ/mol-atom | 298 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 11 |  |
-| SrSi |  | -53.1 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 13 |  |
-| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -51.7 kJ/mol-atom | 298 | experimental | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 16 |  |
-| SrSi |  | -46.9 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 14 |  |
-| SrSi |  | -46.7 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 15 |  |
-| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -43.5 kJ/mol-atom | 298 | unspecified | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 12 |  |
+| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -44.3 kJ/mol-atom | 298.15 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 6 |  |
+| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -43.8 kJ/mol-atom ± 3.6 | 298.15 | experimental | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
+| Si3Sr5 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -40.3 kJ/mol-atom | 298.15 | model | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 5 |  |
+| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -53.1 kJ/mol-atom | 298.15 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 9 |  |
+| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -51.7 kJ/mol-atom ± 4.1 | 298.15 | experimental | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| SiSr | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -46.9 kJ/mol-atom | 298.15 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 8 |  |
+| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -41.3 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3 |  |
+| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom ± 3.2 | 298.15 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
+| SiSr2 | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -37.9 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2 |  |
+| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -66.3 kJ/mol-atom | 298.15 | model | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1 |  |
+| Sr2Si |  | -41.3 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 3 |  |
+| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6 |  |
+| Sr2Si |  | -37.9 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 4 |  |
+| Sr2Si |  | -37.6 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5 |  |
+| Sr2Si | [SiSr2](https://data.orchid-project.org/compounds/SiSr2.html) | -35.3 kJ/mol-atom | 298.15 | unspecified | -32.784 (mp-aaaaabqo) | -35.542 (oqmd-1713) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2 |  |
+| Sr5Si3 |  | -44.3 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 7 |  |
+| Sr5Si3 | [Si3Sr5](https://data.orchid-project.org/compounds/Si3Sr5.html) | -43.8 kJ/mol-atom | 298.15 | experimental | -35.254 (mp-aaaaabcs) | -38.219 (oqmd-24997) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 10 |  |
+| Sr5Si3 |  | -40.3 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 8 |  |
+| Sr5Si3 |  | -40.2 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 9 |  |
+| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -67 kJ/mol-atom | 298.15 | model | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 11 |  |
+| SrSi |  | -53.1 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 13 |  |
+| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -51.7 kJ/mol-atom | 298.15 | experimental | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 16 |  |
+| SrSi |  | -46.9 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 14 |  |
+| SrSi |  | -46.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 15 |  |
+| SrSi | [SiSr](https://data.orchid-project.org/compounds/SiSr.html) | -43.5 kJ/mol-atom | 298.15 | unspecified | -41.601 (mp-aaaaadyj) | -45.381 (oqmd-14241) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 12 |  |
 | α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42.7 kJ/mol-atom ± 4.3 | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13 |  |
 | α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42 kJ/mol-atom |  | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 15 |  |
 | α-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -35.7 kJ/mol-atom |  | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 14 |  |
-| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -67.3 kJ/mol-atom | 298 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 17 |  |
-| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42.7 kJ/mol-atom | 298 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 22 |  |
-| α-SrSi2 |  | -42 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 19 |  |
-| α-SrSi2 |  | -35.8 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 21 |  |
-| α-SrSi2 |  | -35.7 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 20 |  |
-| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -34.6 kJ/mol-atom | 298 | unspecified | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 18 |  |
-| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -44.7 kJ/mol-atom | 298 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 12 |  |
-| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom ± 3.7 | 298 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
-| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -35.9 kJ/mol-atom | 298 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 11 |  |
-| β-SrSi2 |  | -44.7 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 23 |  |
-| β-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom | 298 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 26 |  |
-| β-SrSi2 |  | -35.9 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 24 |  |
-| β-SrSi2 |  | -35.7 kJ/mol-atom | 298 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 25 |  |
+| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -67.3 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 17 |  |
+| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -42.7 kJ/mol-atom | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 22 |  |
+| α-SrSi2 |  | -42 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 19 |  |
+| α-SrSi2 |  | -35.8 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 21 |  |
+| α-SrSi2 |  | -35.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 20 |  |
+| α-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -34.6 kJ/mol-atom | 298.15 | unspecified | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 18 |  |
+| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -44.7 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 12 |  |
+| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom ± 3.7 | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
+| β-Si2Sr | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -35.9 kJ/mol-atom | 298.15 | model | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 11 |  |
+| β-SrSi2 |  | -44.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 23 |  |
+| β-SrSi2 | [Si2Sr](https://data.orchid-project.org/compounds/Si2Sr.html) | -40.3 kJ/mol-atom | 298.15 | experimental | -30.715 (mp-aaaaacol) | -35.357 (oqmd-6867) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 26 |  |
+| β-SrSi2 |  | -35.9 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009 | Table 2, p. 4, row 24 |  |
+| β-SrSi2 |  | -35.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 25 |  |
 
 ## Other properties
 
@@ -278,10 +278,10 @@ Table: Crystal structure, Si–Sr system
 | Lattice a | 4.429 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10 |  |
 | Lattice a | 4.346 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12 |  |
 | Lattice a; _printed: a_ | 6.536 unknown ± 0.002 |  | α-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 13 |  |
-| Lattice a; _printed: lattice parameter a (printed 8.100(1))_ | 8.1 unknown ± 0.001 | 298 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
-| Lattice a; _printed: lattice parameter a (printed 4.814(1))_ | 4.814 unknown ± 0.001 | 298 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
-| Lattice a; _printed: a_ | 8.111 unknown ± 0.002 | 298 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
-| Lattice a; _printed: lattice parameter a (printed 4.439(1))_ | 4.439 unknown ± 0.001 | 298 | β-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
+| Lattice a; _printed: lattice parameter a (printed 8.100(1))_ | 8.1 unknown ± 0.001 | 298.15 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
+| Lattice a; _printed: lattice parameter a (printed 4.814(1))_ | 4.814 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| Lattice a; _printed: a_ | 8.111 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
+| Lattice a; _printed: lattice parameter a (printed 4.439(1))_ | 4.439 unknown ± 0.001 | 298.15 | β-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
 | Lattice b | 11.288 Å | 0 | SrSi; _alloy: Sr 0.5_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 7 |  |
 | Lattice b | 11.154 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 9 |  |
 | Lattice b | 11.39 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 8 |  |
@@ -294,18 +294,18 @@ Table: Crystal structure, Si–Sr system
 | Lattice b | 5.132 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1 |  |
 | Lattice b | 13.842 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 10 |  |
 | Lattice b | 13.62 Å | 0 | UNKNOWN; _alloy: Sr 0.333333_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 12 |  |
-| Lattice b; _printed: lattice parameter b (printed 11.288(1))_ | 11.288 unknown ± 0.001 | 298 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
-| Lattice b; _printed: lattice parameter b (printed 5.132(2))_ | 5.132 unknown ± 0.002 | 298 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
+| Lattice b; _printed: lattice parameter b (printed 11.288(1))_ | 11.288 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| Lattice b; _printed: lattice parameter b (printed 5.132(2))_ | 5.132 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
 | Lattice c | 4.04 Å | 0 | SrSi; _alloy: Sr 0.5_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 7 |  |
 | Lattice c | 3.962 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 9 |  |
 | Lattice c | 4.049 Å | 0 | SrSi; _alloy: Sr 0.5_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 8 |  |
 | Lattice c | 9.611 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 2 |  |
 | Lattice c | 9.379 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | DFT | [2] Garay 2009 | Table 1, p. 4, row 3 |  |
 | Lattice c | 9.545 Å | 0 | UNKNOWN; _alloy: Sr 0.666667_ | experimental | [2] Garay 2009; _cites Palenzona 2004_ [doi](https://doi.org/10.1016/j.jallcom.2003.11.003) | Table 1, p. 4, row 1 |  |
-| Lattice c; _printed: lattice parameter c (printed 15.728(2))_ | 15.728 unknown ± 0.002 | 298 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
-| Lattice c; _printed: c_ | 4.04 unknown ± 0.001 | 298 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
-| Lattice c; _printed: lattice parameter c (printed 9.545(2))_ | 9.545 unknown ± 0.002 | 298 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
-| Lattice c; _printed: lattice parameter c (printed 13.838(2))_ | 13.838 unknown ± 0.002 | 298 | β-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
+| Lattice c; _printed: lattice parameter c (printed 15.728(2))_ | 15.728 unknown ± 0.002 | 298.15 | Si3Sr5; _alloy: Sr 0.625_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 4 |  |
+| Lattice c; _printed: c_ | 4.04 unknown ± 0.001 | 298.15 | SiSr; _alloy: Sr 0.5_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 7 |  |
+| Lattice c; _printed: lattice parameter c (printed 9.545(2))_ | 9.545 unknown ± 0.002 | 298.15 | SiSr2; _alloy: Sr 0.666667_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
+| Lattice c; _printed: lattice parameter c (printed 13.838(2))_ | 13.838 unknown ± 0.002 | 298.15 | β-Si2Sr; _alloy: Sr 0.333333_ | experimental | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 10 |  |
 
 ## Sources
 

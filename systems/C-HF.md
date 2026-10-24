@@ -1,10 +1,10 @@
 # C–Hf system
 
-> C–Hf system: 59 accepted literature values (invariant reaction 23, formation 19, crystal structure 7, heat capacity / entropy / enthalpy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Hf system: 53 accepted literature values (invariant reaction 23, formation 13, crystal structure 7, heat capacity / entropy / enthalpy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-HF.html · Markdown: https://data.orchid-project.org/systems/C-HF.md
 
-59 accepted literature values from 2 paper(s) (experimental 31, model 16, unspecified 12); 0 calculated phase diagram(s).
+53 accepted literature values from 2 paper(s) (experimental 25, model 16, unspecified 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-HF.json) · [CSV](https://data.orchid-project.org/systems/C-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-HF) · [phases (6)](https://data.orchid-project.org/phases/pages/C-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-HF.html) · [Markdown](https://data.orchid-project.org/systems/C-HF.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
+| experimental | 25 |
 | model | 16 |
 | unspecified | 12 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 23 |
 | phase transition | 3 |
-| formation | 19 |
+| formation | 13 |
 | heat capacity / entropy / enthalpy | 7 |
 | crystal structure | 7 |
 
@@ -62,29 +62,23 @@ Table: Invariant reactions reported in the literature for the C–Hf system (23)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, C–Hf system (19)
+Table: Enthalpies of formation, C–Hf system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | p. 7 | “Thus, the value Ae/-/(HfC, 298 K) = -209.4 kJ/mol from \[77Kor\] was selected in the present assessment, which was also confirmed by the calculation of the phase relations in the ternary Hf-B-C system \[97Bit\].” |
-| HfC |  | -262.7 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites Coffman 1963_ | Table 3, p. 3, row 1 |  |
-| HfC |  | -210.5 kJ/mol (basis unstated) ± 20.9 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5 |  |
-| HfC |  | -209.4 kJ/mol (basis unstated) | 298 | model |  |  | [1] Bittermann 1997 | Table 3, p. 3, row 9 |  |
-| HfC0.6 |  | -140.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
-| HfC0.6 tos HfC1.0 |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
-| HfC0.6 tos HfC1.0 |  | -140.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| — |  | -209.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | p. 7 | “Thus, the value Ae/-/(HfC, 298 K) = -209.4 kJ/mol from \[77Kor\] was selected in the present assessment, which was also confirmed by the calculation of the phase relations in the ternary Hf-B-C system \[97Bit\].” |
+| HfC |  | -262.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Coffman 1963_ | Table 3, p. 3, row 1 |  |
+| HfC |  | -210.5 kJ/mol (basis unstated) ± 20.9 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Fesenko 1966_ | Table 3, p. 3, row 5 |  |
+| HfC |  | -209.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Bittermann 1997 | Table 3, p. 3, row 9 |  |
+| HfC0.6 |  | -140.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
 | HfC0.621 |  | -133.1 kJ/mol (basis unstated) | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
-| HfC0.621 to HfC0.980 |  | -209.7 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
-| HfC0.621 to HfC0.980 |  | -133.1 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
-| HfC0.67 |  | -220.9 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
-| HfC0.67 to HfC1.00 |  | -231.1 kJ/mol (basis unstated) ± 2.1 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
-| HfC0.67 to HfC1.00 |  | -220.9 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
-| HfC0.93 |  | -197.5 kJ/mol (basis unstated) ± 3.8 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 3, row 7 |  |
-| HfC0.958 |  | -218.4 kJ/mol (basis unstated) ± 1.7 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Mah 1964_ | Table 3, p. 3, row 2 |  |
-| HfC0.97 |  | -238.1 kJ/mol (basis unstated) ± 29.3 | 298 | experimental |  |  | [1] Bittermann 1997; _cites McClaine 1964_ | Table 3, p. 3, row 3 |  |
+| HfC0.67 |  | -220.9 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| HfC0.93 |  | -197.5 kJ/mol (basis unstated) ± 3.8 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 3, row 7 |  |
+| HfC0.958 |  | -218.4 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Mah 1964_ | Table 3, p. 3, row 2 |  |
+| HfC0.97 |  | -238.1 kJ/mol (basis unstated) ± 29.3 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites McClaine 1964_ | Table 3, p. 3, row 3 |  |
 | HfC0.980 |  | -209.7 kJ/mol (basis unstated) ± 13.5 | 1780 | experimental |  |  | [1] Bittermann 1997; _cites ref. 89Ber_ | Table 3, p. 3, row 8 |  |
-| HfC1.0 |  | -209.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
-| HfC1.00 |  | -231.1 kJ/mol (basis unstated) ± 2.1 | 298 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| HfC1.0 |  | -209.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites ref. 77Kor_ | Table 3, p. 3, row 6 |  |
+| HfC1.00 |  | -231.1 kJ/mol (basis unstated) ± 2.1 | 298.15 | experimental |  |  | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
 
 ## Other properties
 

@@ -146,26 +146,26 @@ Table: Phase equilibrium, Al–Sc–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 298 | Al2Y + AlSc; _Al2Y: Al 0.666, Sc 0.148, Y 0.186; AlSc: Al 0.505, Sc 0.405, Y 0.09_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 9 |  |
-| Phase composition |  | 298 | Al2Y + AlSc; _Al2Y: Al 0.65, Sc 0.151, Y 0.199; AlSc: Al 0.493, Sc 0.384, Y 0.123_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 11 |  |
-| Phase composition |  | 298 | Al2Y + AlY; _Al2Y: Al 0.655, Sc 0.091, Y 0.254; AlY: Al 0.495, Sc 0.16, Y 0.345_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 12 |  |
-| Phase composition |  | 298 | Al2Y + AlY; _Al2Y: Al 0.65, Sc 0.033, Y 0.317; AlY: Al 0.495, Sc 0.11, Y 0.395_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 10 |  |
-| Phase composition |  | 298 | Al2Y + AlY; _Al2Y: Al 0.654, Sc 0.072, Y 0.274; AlY: Al 0.496, Sc 0.141, Y 0.363_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 13 |  |
-| Phase composition |  | 298 | Al2Y3 + Al3Y5; _Al2Y3: Al 0.397, Sc 0.14, Y 0.463; Al3Y5: Al 0.386, Sc 0.054, Y 0.56_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 16 |  |
-| Phase composition |  | 298 | Al3Sc + Al2Sc + Al2Y; _Al3Sc: Al 0.753, Sc 0.211, Y 0.036; Al2Sc: Al 0.67, Sc 0.268, Y 0.062; Al2Y: Al 0.673, Sc 0.195, Y 0.132_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 5 |  |
-| Phase composition |  | 298 | Al3Sc + τ1 + Al2Y; _Al3Sc: Al 0.761, Sc 0.201, Y 0.038; τ1: Al 0.754, Sc 0.167, Y 0.079; Al2Y: Al 0.674, Sc 0.199, Y 0.127_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 6 |  |
-| Phase composition |  | 298 | Al3Y5 + AlY2; _Al3Y5: Al 0.365, Sc 0.105, Y 0.53; AlY2: Al 0.322, Sc 0.076, Y 0.602_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 18 |  |
-| Phase composition |  | 298 | AlY + Al3Y5; _AlY: Al 0.491, Sc 0.205, Y 0.304; Al3Y5: Al 0.378, Sc 0.247, Y 0.375_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 14 |  |
-| Phase composition |  | 298 | AlY + Al3Y5; _AlY: Al 0.49, Sc 0.164, Y 0.346; Al3Y5: Al 0.373, Sc 0.213, Y 0.414_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 15 |  |
-| Phase composition |  | 298 | AlY2 + hcp\_(Sc,Y); _AlY2: Al 0.333, Sc 0.237, Y 0.43; hcp\_(Sc,Y): Al 0.052, Sc 0.344, Y 0.604_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 17 |  |
-| Phase composition |  | 298 | AlY2 + hcp_Y; _AlY2: Al 0.323, Sc 0.085, Y 0.592; hcp_Y: Al 0.028, Sc 0.031, Y 0.941_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 20 |  |
-| Phase composition |  | 298 | AlY2 + hcp_Y; _AlY2: Al 0.322, Sc 0.072, Y 0.606; hcp_Y: Al 0.054, Sc 0.024, Y 0.922_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 19 |  |
-| Phase composition |  | 298 | fcc_Al + αAl3Y; _fcc_Al: Al 0.993, Sc 0.004, Y 0.003; αAl3Y: Al 0.745, Sc 0.047, Y 0.208_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 3 |  |
-| Phase composition |  | 298 | fcc_Al + τ1 + αAl3Y; _fcc_Al: Al 0.994, Sc 0.005, Y 0.001; τ1: Al 0.762, Sc 0.174, Y 0.064; αAl3Y: Al 0.75, Sc 0.037, Y 0.213_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 1 |  |
-| Phase composition |  | 298 | fcc_Al + τ1 + αAl3Y; _fcc_Al: Al 0.978, Sc 0.015, Y 0.007; τ1: Al 0.76, Sc 0.167, Y 0.073; αAl3Y: Al 0.739, Sc 0.047, Y 0.214_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 2 |  |
-| Phase composition |  | 298 | τ1 + Al2Y; _τ1: Al 0.744, Sc 0.171, Y 0.085; Al2Y: Al 0.678, Sc 0.078, Y 0.244_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 7 |  |
-| Phase composition |  | 298 | τ1 + αAl3Y; _τ1: Al 0.759, Sc 0.159, Y 0.082; αAl3Y: Al 0.746, Sc 0.053, Y 0.201_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 4 |  |
-| Phase composition |  | 298 | τ1 + αAl3Y + Al2Y; _τ1: Al 0.762, Sc 0.143, Y 0.095; αAl3Y: Al 0.746, Sc 0.057, Y 0.197; Al2Y: Al 0.672, Sc 0.059, Y 0.269_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 8 |  |
+| Phase composition |  | 298.15 | Al2Y + AlSc; _Al2Y: Al 0.666, Sc 0.148, Y 0.186; AlSc: Al 0.505, Sc 0.405, Y 0.09_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 9 |  |
+| Phase composition |  | 298.15 | Al2Y + AlSc; _Al2Y: Al 0.65, Sc 0.151, Y 0.199; AlSc: Al 0.493, Sc 0.384, Y 0.123_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 11 |  |
+| Phase composition |  | 298.15 | Al2Y + AlY; _Al2Y: Al 0.655, Sc 0.091, Y 0.254; AlY: Al 0.495, Sc 0.16, Y 0.345_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 12 |  |
+| Phase composition |  | 298.15 | Al2Y + AlY; _Al2Y: Al 0.65, Sc 0.033, Y 0.317; AlY: Al 0.495, Sc 0.11, Y 0.395_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 10 |  |
+| Phase composition |  | 298.15 | Al2Y + AlY; _Al2Y: Al 0.654, Sc 0.072, Y 0.274; AlY: Al 0.496, Sc 0.141, Y 0.363_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 13 |  |
+| Phase composition |  | 298.15 | Al2Y3 + Al3Y5; _Al2Y3: Al 0.397, Sc 0.14, Y 0.463; Al3Y5: Al 0.386, Sc 0.054, Y 0.56_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 16 |  |
+| Phase composition |  | 298.15 | Al3Sc + Al2Sc + Al2Y; _Al3Sc: Al 0.753, Sc 0.211, Y 0.036; Al2Sc: Al 0.67, Sc 0.268, Y 0.062; Al2Y: Al 0.673, Sc 0.195, Y 0.132_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 5 |  |
+| Phase composition |  | 298.15 | Al3Sc + τ1 + Al2Y; _Al3Sc: Al 0.761, Sc 0.201, Y 0.038; τ1: Al 0.754, Sc 0.167, Y 0.079; Al2Y: Al 0.674, Sc 0.199, Y 0.127_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 6 |  |
+| Phase composition |  | 298.15 | Al3Y5 + AlY2; _Al3Y5: Al 0.365, Sc 0.105, Y 0.53; AlY2: Al 0.322, Sc 0.076, Y 0.602_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 18 |  |
+| Phase composition |  | 298.15 | AlY + Al3Y5; _AlY: Al 0.491, Sc 0.205, Y 0.304; Al3Y5: Al 0.378, Sc 0.247, Y 0.375_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 14 |  |
+| Phase composition |  | 298.15 | AlY + Al3Y5; _AlY: Al 0.49, Sc 0.164, Y 0.346; Al3Y5: Al 0.373, Sc 0.213, Y 0.414_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 15 |  |
+| Phase composition |  | 298.15 | AlY2 + hcp\_(Sc,Y); _AlY2: Al 0.333, Sc 0.237, Y 0.43; hcp\_(Sc,Y): Al 0.052, Sc 0.344, Y 0.604_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 17 |  |
+| Phase composition |  | 298.15 | AlY2 + hcp_Y; _AlY2: Al 0.323, Sc 0.085, Y 0.592; hcp_Y: Al 0.028, Sc 0.031, Y 0.941_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 20 |  |
+| Phase composition |  | 298.15 | AlY2 + hcp_Y; _AlY2: Al 0.322, Sc 0.072, Y 0.606; hcp_Y: Al 0.054, Sc 0.024, Y 0.922_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 19 |  |
+| Phase composition |  | 298.15 | fcc_Al + αAl3Y; _fcc_Al: Al 0.993, Sc 0.004, Y 0.003; αAl3Y: Al 0.745, Sc 0.047, Y 0.208_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 3 |  |
+| Phase composition |  | 298.15 | fcc_Al + τ1 + αAl3Y; _fcc_Al: Al 0.994, Sc 0.005, Y 0.001; τ1: Al 0.762, Sc 0.174, Y 0.064; αAl3Y: Al 0.75, Sc 0.037, Y 0.213_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 1 |  |
+| Phase composition |  | 298.15 | fcc_Al + τ1 + αAl3Y; _fcc_Al: Al 0.978, Sc 0.015, Y 0.007; τ1: Al 0.76, Sc 0.167, Y 0.073; αAl3Y: Al 0.739, Sc 0.047, Y 0.214_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 2 |  |
+| Phase composition |  | 298.15 | τ1 + Al2Y; _τ1: Al 0.744, Sc 0.171, Y 0.085; Al2Y: Al 0.678, Sc 0.078, Y 0.244_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 7 |  |
+| Phase composition |  | 298.15 | τ1 + αAl3Y; _τ1: Al 0.759, Sc 0.159, Y 0.082; αAl3Y: Al 0.746, Sc 0.053, Y 0.201_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 4 |  |
+| Phase composition |  | 298.15 | τ1 + αAl3Y + Al2Y; _τ1: Al 0.762, Sc 0.143, Y 0.095; αAl3Y: Al 0.746, Sc 0.057, Y 0.197; Al2Y: Al 0.672, Sc 0.059, Y 0.269_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 8 |  |
 
 ### Crystal structure (45)
 

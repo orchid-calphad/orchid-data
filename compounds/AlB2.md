@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AlB2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.3 kJ/mol-atom ± 4.2 | AlB2 | 298 | experimental |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
-| -50.332 kJ/mol-atom | AlB2 | 298 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
-| -28.603 kJ/mol-atom | AlB2 | 298 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
-| -21.8 kJ/mol-atom | AlB2 | 298 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
-| -19.1 kJ/mol-atom | AlB2 | 298 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999 | Table 7, p. 7, row 5 |  |
+| -22.3 kJ/mol-atom ± 4.2 | AlB2 | 298.15 | experimental |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Domalski 1967_ [doi](https://doi.org/10.6028/jres.071a.037) | Table 7, p. 7, row 1 |  |
+| -50.332 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Barin 1989_ | Table 7, p. 7, row 3 |  |
+| -28.603 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Fries_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900478-4) | Table 7, p. 7, row 2 |  |
+| -21.8 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999; _cites Batzner 1994_ | Table 7, p. 7, row 4 |  |
+| -19.1 kJ/mol-atom | AlB2 | 298.15 | model |  | [Al–B](https://data.orchid-project.org/systems/AL-B.html) | [1] Campbell 1999 | Table 7, p. 7, row 5 |  |
 
 ## DFT formation energies
 
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of AlB2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabki | -4.148 | -0.042988 | P6/mmm | 0.978 | no |
-| OQMD | oqmd-103360 | -4.243 | -0.043977 | P6/mmm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabki | -4.148 | -0.042988 | P6/mmm | 0.978 | 0.0101 | no |
+| OQMD | oqmd-103360 | -4.243 | -0.043977 | P6/mmm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

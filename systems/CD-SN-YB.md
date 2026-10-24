@@ -53,7 +53,7 @@ Table: Enthalpies of formation, Cd–Sn–Yb system (40)
 | YbSn |  | -64.074 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 29 |  |
 | YbSn | [SnYb](https://data.orchid-project.org/compounds/SnYb.html) | -63.99 kJ/mol-atom |  | model |  | -69.504 (oqmd-31091) | [1] Kali-Ali 2017 | Table 2, p. 4, row 30 |  |
 | YbSn | [SnYb](https://data.orchid-project.org/compounds/SnYb.html) | -55.077 kJ/mol-atom |  | model |  | -69.504 (oqmd-31091) | [1] Kali-Ali 2017; _cites Idbenali 2011_ [doi](https://doi.org/10.1007/s10973-010-1082-4) | Table 2, p. 4, row 31 |  |
-| YbSn3 | [Sn3Yb](https://data.orchid-project.org/compounds/Sn3Yb.html) | -48.002 kJ/mol-atom | 298 | experimental |  | -49.687 (oqmd-18138) | [1] Kali-Ali 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 2, p. 4, row 38 |  |
+| YbSn3 | [Sn3Yb](https://data.orchid-project.org/compounds/Sn3Yb.html) | -48.002 kJ/mol-atom | 298.15 | experimental |  | -49.687 (oqmd-18138) | [1] Kali-Ali 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 2, p. 4, row 38 |  |
 | YbSn3 | [Sn3Yb](https://data.orchid-project.org/compounds/Sn3Yb.html) | -44.066 kJ/mol-atom | 294 | experimental |  | -49.687 (oqmd-18138) | [1] Kali-Ali 2017; _cites Colinet 1970_ | Table 2, p. 4, row 37 |  |
 | YbSn3 |  | -42.219 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 34 |  |
 | YbSn3 | [Sn3Yb](https://data.orchid-project.org/compounds/Sn3Yb.html) | -42.2 kJ/mol-atom |  | model |  | -49.687 (oqmd-18138) | [1] Kali-Ali 2017 | Table 2, p. 4, row 35 |  |

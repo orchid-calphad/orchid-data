@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -30,6 +30,7 @@
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2VNCCCYMWG ORC-IWL4BI4Y4N ORC-BBFV5NQPZQ",
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "bibtex": "braga2014_8ee375",
  "orchid": {
   "status": "Version 1, machine-extracted",

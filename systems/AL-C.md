@@ -1,10 +1,10 @@
 # Al–C system
 
-> Al–C system: 75 accepted literature values (formation 39, phase transition 26, invariant reaction 6, activity / EMF / Gibbs energy 4) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–C system: 74 accepted literature values (formation 39, phase transition 26, invariant reaction 5, activity / EMF / Gibbs energy 4) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-C.html · Markdown: https://data.orchid-project.org/systems/AL-C.md
 
-75 accepted literature values from 5 paper(s) (experimental 39, model 33, DFT 3); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+74 accepted literature values from 5 paper(s) (experimental 39, model 32, DFT 3); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-C.json) · [CSV](https://data.orchid-project.org/systems/AL-C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-C) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-C/AlC-04Oht.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-C.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-C.html) · [Markdown](https://data.orchid-project.org/systems/AL-C.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 39 |
-| model | 33 |
+| model | 32 |
 | DFT | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 | phase transition | 26 |
 | formation | 39 |
 | activity / EMF / Gibbs energy | 4 |
@@ -78,7 +78,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–C system (6)
+Table: Invariant reactions reported in the literature for the Al–C system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -87,7 +87,6 @@ Table: Invariant reactions reported in the literature for the Al–C system (6)
 | 2425 | peritectic |  | model | [2] He 2021 | p. 4 | “The peritectic decomposition temperature of Al4 C3 was determined to 2425 ± 15 K.” |
 | 2425 | peritectic |  | experimental | [3] Deffrennes 2019 | p. 1 | “The data on the solubility of carbon in liquid Al and on the thermodynamic properties of Al4C3 were assessed, and the peritectic decomposition temperature of Al4C3 was confirmed at 2425±15 K by thermal analysis.” |
 | 2408 | peritectic |  | experimental | [3] Deffrennes 2019; _cites ref. 19_ | p. 1 | “Regarding its peritectic decomposition temperature, the debate was left open by Schuster \[18\] who called into question the value of 2408 K measured by Gitelsen et al. \[19\], suggesting a decomposition temperature roughly 150 K lower.” |
-| 1563 | eutectic: liquid -> bcc (a) + A14C3 + graphite |  | model | [4] Kumar 1991 | p. 7 | “In addition to the above invariant reactions, the computed results predict a ternary eutectic reaction, Eb at 1563 K (1290 "C) with the liquid composition at 39.6 at.% AI and 4.8 at.% C, which yields bcc (a) of 39.8 at.% Al and 0.66 at.% C, A14C3 and graphite.” |
 
 ## Formation enthalpies
 
@@ -132,12 +131,12 @@ Table: Phase transition, Al–C system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 933.473 K | 933.473 |  | experimental | [2] He 2021; _cites Preston-Thomas 1990_ [doi](https://doi.org/10.1088/0026-1394/27/1/002) | p. 3 | “The melting temperature of Al, 933.473 K, is a primary fixed point in ITS-90 \[27\] and was accepted in the present work.” |
-| Phase transition | 1461 K | 1461 | L ⇔ γ + κ + (C) | model | [5] Ohtani 2004 | p. 11 | “The following four phases are in equilibrium at these points E 1 : L ⇔ γ + κ + (C) at 1461 K, 8.23 mol% Al, and 9.73 mol% C.” |
-| Phase transition | 1567 K | 1567 | other | model | [4] Kumar 1991 | p. 7 | “Atemperature maximum (e2 in Fig. 6) at 1567 K (1294 \*C) is also predicted on the (L + A14C3 + a) liquidus line at 44.0 at.% AI and 0.35 at.% C.” |
-| Phase transition | 1601 K | 1601 | other | model | [4] Kumar 1991 | p. 7 | “A temperature maximum (el in Fig. 6) at 1601 K (1328 "C) corresponds to the three-phase equilibrium oflc, liquid of 24.1 at. % AI and 6.6 at. % C, and bcc (a) of 26.2 at.% Aland 1.0 at.% C.” |
-| Phase transition | 1658 K | 1658 | L + (C) ⇔ β + κ | model | [5] Ohtani 2004 | p. 11 | “and U : L + (C) ⇔ β + κ at 1658 K, 25.32 mol% Al, and 9.35 mol% C.” |
-| Phase transition | 1782 K | 1782 | L ⇔ β + (C) + Al4 C3 | model | [5] Ohtani 2004 | p. 11 | “E 3 : L ⇔ β + (C) + Al4 C3 at 1782 K, 56.63 mol% Al, and 4.78 mol% C.” |
-| Phase transition | 1911 K | 1911 | congruent transformation | experimental | [5] Ohtani 2004 | p. 6 | “The B2 phase has an ordered structure, with a wide homogeneity range extending from about 31% Al to 58% Al, and it melts congruently at T = 1911 K.” |
+| Phase transition | 1461 K | 1461 | L ⇔ γ + κ + (C) | model | [4] Ohtani 2004 | p. 11 | “The following four phases are in equilibrium at these points E 1 : L ⇔ γ + κ + (C) at 1461 K, 8.23 mol% Al, and 9.73 mol% C.” |
+| Phase transition | 1567 K | 1567 | other | model | [5] Kumar 1991 | p. 7 | “Atemperature maximum (e2 in Fig. 6) at 1567 K (1294 \*C) is also predicted on the (L + A14C3 + a) liquidus line at 44.0 at.% AI and 0.35 at.% C.” |
+| Phase transition | 1601 K | 1601 | other | model | [5] Kumar 1991 | p. 7 | “A temperature maximum (el in Fig. 6) at 1601 K (1328 "C) corresponds to the three-phase equilibrium oflc, liquid of 24.1 at. % AI and 6.6 at. % C, and bcc (a) of 26.2 at.% Aland 1.0 at.% C.” |
+| Phase transition | 1658 K | 1658 | L + (C) ⇔ β + κ | model | [4] Ohtani 2004 | p. 11 | “and U : L + (C) ⇔ β + κ at 1658 K, 25.32 mol% Al, and 9.35 mol% C.” |
+| Phase transition | 1782 K | 1782 | L ⇔ β + (C) + Al4 C3 | model | [4] Ohtani 2004 | p. 11 | “E 3 : L ⇔ β + (C) + Al4 C3 at 1782 K, 56.63 mol% Al, and 4.78 mol% C.” |
+| Phase transition | 1911 K | 1911 | congruent transformation | experimental | [4] Ohtani 2004 | p. 6 | “The B2 phase has an ordered structure, with a wide homogeneity range extending from about 31% Al to 58% Al, and it melts congruently at T = 1911 K.” |
 | Phase transition | 2253 K | 2253 | peritectic: Long as reported by \[2\] 64Str; _alloy: C 0.428571_ | experimental | [3] Deffrennes 2019; _cites ref. 64Str_ | Table 4, p. 6, row 2 |  |
 | Phase transition | 2263 K | 2263 | peritectic: \[18\] 91Sch; _alloy: C 0.428571_ | experimental | [3] Deffrennes 2019; _cites ref. 91Sch_ | Table 4, p. 6, row 6 |  |
 | Phase transition | 2273 K | 2273 | other | experimental | [3] Deffrennes 2019; _cites ref. 18_ | p. 6 | “There are two distinct slope breaks reported in the literature: the one occurring around 2273 K that Schuster \[18\] attribute to the decomposition of the Al4C3 phase, and the one occurring around 2423 K accounted by the same author for the vaporization of liquid aluminum \[18\].” |
@@ -164,8 +163,8 @@ Table: Formation, Al–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: entropy of formation_ | 88.97 J.K-1.mol-1 | 298 |  | model | [3] Deffrennes 2019; _cites Pisch 2019_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
-| Entropy of formation; _printed: entropy of formation_ | 89.12 J.K-1.mol-1 | 298 |  | experimental | [3] Deffrennes 2019; _cites Saba 1962_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
+| Entropy of formation; _printed: entropy of formation_ | 88.97 J.K-1.mol-1 | 298.15 |  | model | [3] Deffrennes 2019; _cites Pisch 2019_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
+| Entropy of formation; _printed: entropy of formation_ | 89.12 J.K-1.mol-1 | 298.15 |  | experimental | [3] Deffrennes 2019; _cites Saba 1962_ | p. 7 | “In fact, the entropy of formation of Al4C3 at 298 K that was found to be 88.97 J.K-1.mol-1 from integrating the ab-initio heat capacity \[30\] is in excellent agreement with the experimental value of 89.12 J.K-1.mol-1 proposed by Saba and Furukawa \[31\] and with their fitted value of 88.97 J.K-1.mol-1 \[28\].” |
 | Entropy of formation; _printed: ΔfS°298.15 K_ | 89.1 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [3] Deffrennes 2019 | Table 7, p. 14, row 6 |  |
 | Entropy of formation; _printed: Standard entropy of formation at 298.15 K_ | 89.1 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [2] He 2021; _cites Deffrennes 2019_ [doi](https://doi.org/10.1016/j.calphad.2019.101648) | Table 5, p. 12, row 5 |  |
 | Entropy of formation; _printed: ΔfS°298.15 K_ | 87.4 J/mol (basis unstated)/K | 298.15 | Al4C3; _alloy: C 0.428571_ | model | [3] Deffrennes 2019; _cites ref. 14_ | Table 7, p. 14, row 3 |  |
@@ -185,8 +184,8 @@ Table: Activity / EMF / Gibbs energy, Al–C system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gibbs energy of formation_ | -88 kJ per formula unit | 1873 |  | model | [4] Kumar 1991 | p. 7 | “The value of-88.0 kJ per formula unit obtained for the Gibbs energy of formation of Al,tC3 at 1873 K agrees well with the value-88.8 • 11.2 kJ obtained by \[77Cho\].” |
-| Gibbs energy; _printed: Gibbs energy of formation_ | -88.8 unspecified ± 11.2 | 1873 |  | experimental | [4] Kumar 1991; _cites Choudary 1977_ [doi](https://doi.org/10.1007/bf02669326) | p. 7 | “The value of-88.0 kJ per formula unit obtained for the Gibbs energy of formation of Al,tC3 at 1873 K agrees well with the value-88.8 • 11.2 kJ obtained by \[77Cho\].” |
+| Gibbs energy; _printed: Gibbs energy of formation_ | -88 kJ per formula unit | 1873 |  | model | [5] Kumar 1991 | p. 7 | “The value of-88.0 kJ per formula unit obtained for the Gibbs energy of formation of Al,tC3 at 1873 K agrees well with the value-88.8 • 11.2 kJ obtained by \[77Cho\].” |
+| Gibbs energy; _printed: Gibbs energy of formation_ | -88.8 unspecified ± 11.2 | 1873 |  | experimental | [5] Kumar 1991; _cites Choudary 1977_ [doi](https://doi.org/10.1007/bf02669326) | p. 7 | “The value of-88.0 kJ per formula unit obtained for the Gibbs energy of formation of Al,tC3 at 1873 K agrees well with the value-88.8 • 11.2 kJ obtained by \[77Cho\].” |
 | Gibbs energy; _printed: standard Gibbs energy of formation_ | -88.8 kJ mo1-1 | 1873 |  | experimental | [1] Qiu 1994; _cites Choudary 1977_ [doi](https://doi.org/10.1007/bf02669326) | p. 4 | “The calculated value at 1873 K is - 72.919 kJ mol- 1 which is less negative than the value -88.8 kJ mo1-1 derived from A1 activity measured in the Fe-AI melt at the same temperature by Choudary and Belton \[25\].” |
 | Gibbs energy; _printed: standard Gibbs energy of formation_ | -72.919 kJ mol- 1 | 1873 |  | model | [1] Qiu 1994 | p. 4 | “The calculated value at 1873 K is - 72.919 kJ mol- 1 which is less negative than the value -88.8 kJ mo1-1 derived from A1 activity measured in the Fe-AI melt at the same temperature by Choudary and Belton \[25\].” |
 
@@ -197,8 +196,8 @@ Reporting papers the values were read from (a value cited from another work name
 1. Caian Qiu, Rudi Metselaar, Solubility of carbon in liquid Al and stability of Al4C3, Journal of Alloys and Compounds 216, 55-60 (1994). [doi:10.1016/0925-8388(94)91042-1](https://doi.org/10.1016/0925-8388%2894%2991042-1)
 2. Zhangting He, Bartek Kaplan, Huahai Mao, Malin Selleby, The third generation Calphad description of Al–C including revisions of pure Al and C, Calphad 72, 102250 (2021). [doi:10.1016/j.calphad.2021.102250](https://doi.org/10.1016/j.calphad.2021.102250)
 3. G. Deffrennes, B. Gardiola, M. Allam, D. Chaussende, A. Pisch, J. Andrieux et al., Critical assessment and thermodynamic modeling of the Al–C system, Calphad 66, 101648 (2019). [doi:10.1016/j.calphad.2019.101648](https://doi.org/10.1016/j.calphad.2019.101648)
-4. K. C. Hari Kumar, V. Raghavan, A Thermodynamic Analysis of the Al-C-Fe System, JPE 12, 275-286 (1991). [doi:10.1007/bf02649916](https://doi.org/10.1007/bf02649916)
-5. Hiroshi Ohtani, Maki Yamano, Mitsuhiro Hasebe, Thermodynamic analysis of the Co–Al–C and Ni–Al–C systems by incorporating ab initio energetic calculations into the CALPHAD approach, Calphad 28, 177-190 (2004). [doi:10.1016/j.calphad.2004.08.003](https://doi.org/10.1016/j.calphad.2004.08.003)
+4. Hiroshi Ohtani, Maki Yamano, Mitsuhiro Hasebe, Thermodynamic analysis of the Co–Al–C and Ni–Al–C systems by incorporating ab initio energetic calculations into the CALPHAD approach, Calphad 28, 177-190 (2004). [doi:10.1016/j.calphad.2004.08.003](https://doi.org/10.1016/j.calphad.2004.08.003)
+5. K. C. Hari Kumar, V. Raghavan, A Thermodynamic Analysis of the Al-C-Fe System, JPE 12, 275-286 (1991). [doi:10.1007/bf02649916](https://doi.org/10.1007/bf02649916)
 
 ## Please cite
 

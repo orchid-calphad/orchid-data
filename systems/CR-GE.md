@@ -147,22 +147,22 @@ Table: Enthalpies of formation, Cr–Ge system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cr11Ge19 | [Cr11Ge19](https://data.orchid-project.org/compounds/Cr11Ge19.html) | -10.16 kJ/mol-atom | 298 | model | -1.079 (mp-aaabgzyh) |  | [1] Liu 2010 | Table 4, p. 7, row 12 |  |
-| Cr11Ge19 | [Cr11Ge19](https://data.orchid-project.org/compounds/Cr11Ge19.html) | -7.28 kJ/mol-atom | 298 | experimental | -1.079 (mp-aaabgzyh) |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 11 |  |
+| Cr11Ge19 | [Cr11Ge19](https://data.orchid-project.org/compounds/Cr11Ge19.html) | -10.16 kJ/mol-atom | 298.15 | model | -1.079 (mp-aaabgzyh) |  | [1] Liu 2010 | Table 4, p. 7, row 12 |  |
+| Cr11Ge19 | [Cr11Ge19](https://data.orchid-project.org/compounds/Cr11Ge19.html) | -7.28 kJ/mol-atom | 298.15 | experimental | -1.079 (mp-aaabgzyh) |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 11 |  |
 | Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -30.7 kJ/mol-atom | 1273 | experimental | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010; _cites Yassin 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900011-9) | p. 2 | “The deduced enthalpies of formation for Cr11 Ge8 at 1305 K and 1273 K relative to both liquid components are about -28.6 kJ/mol-atom and -30.7 kJ/mol-atom, respectively.” |
 | Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -28.6 kJ/mol-atom | 1305 | experimental | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010; _cites Yassin 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900011-9) | p. 2 | “The deduced enthalpies of formation for Cr11 Ge8 at 1305 K and 1273 K relative to both liquid components are about -28.6 kJ/mol-atom and -30.7 kJ/mol-atom, respectively.” |
-| Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -16.19 kJ/mol-atom | 298 | model | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
-| Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -10.92 kJ/mol-atom | 298 | experimental | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
-| Cr3Ge |  | -19.3 unspecified ± 2.5 | 298 | model |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
-| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -19.3 kJ/mol-atom ± 2.5 | 298 | experimental | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 1 |  |
-| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -19.12 kJ/mol-atom | 298 | experimental | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 2 |  |
-| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -15.33 kJ/mol-atom | 298 | model | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010 | Table 4, p. 7, row 3 |  |
-| Cr5Ge3 |  | -12.3 unspecified ± 2.5 | 298 | model |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
-| CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -13.85 kJ/mol-atom | 298 | model | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010 | Table 4, p. 7, row 10 |  |
-| CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -10.25 kJ/mol-atom | 298 | experimental | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 9 |  |
-| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -16.3 kJ/mol-atom | 298 | model | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010 | Table 4, p. 7, row 6 |  |
-| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -15.7 kJ/mol-atom ± 1 | 298 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Kleppa 1990_ | Table 4, p. 7, row 5 |  |
-| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -12.3 kJ/mol-atom ± 2.5 | 298 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 4 |  |
+| Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -16.19 kJ/mol-atom | 298.15 | model | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
+| Cr11Ge8 | [Cr11Ge8](https://data.orchid-project.org/compounds/Cr11Ge8.html) | -10.92 kJ/mol-atom | 298.15 | experimental | 0.724 (mp-aaabgmwh) |  | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
+| Cr3Ge |  | -19.3 unspecified ± 2.5 | 298.15 | model |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
+| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -19.3 kJ/mol-atom ± 2.5 | 298.15 | experimental | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 1 |  |
+| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -19.12 kJ/mol-atom | 298.15 | experimental | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 2 |  |
+| Cr3Ge | [Cr3Ge](https://data.orchid-project.org/compounds/Cr3Ge.html) | -15.33 kJ/mol-atom | 298.15 | model | -10.8 (mp-aaaabepp) | -12.732 (oqmd-647110) | [1] Liu 2010 | Table 4, p. 7, row 3 |  |
+| Cr5Ge3 |  | -12.3 unspecified ± 2.5 | 298.15 | model |  |  | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
+| CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -13.85 kJ/mol-atom | 298.15 | model | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010 | Table 4, p. 7, row 10 |  |
+| CrGe | [CrGe](https://data.orchid-project.org/compounds/CrGe.html) | -10.25 kJ/mol-atom | 298.15 | experimental | 1.407 (mp-aaaabewj) | -1.042 (oqmd-1790912) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 9 |  |
+| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -16.3 kJ/mol-atom | 298.15 | model | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010 | Table 4, p. 7, row 6 |  |
+| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -15.7 kJ/mol-atom ± 1 | 298.15 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Kleppa 1990_ | Table 4, p. 7, row 5 |  |
+| αCr5Ge3 | [Cr5Ge3](https://data.orchid-project.org/compounds/Cr5Ge3.html) | -12.3 kJ/mol-atom ± 2.5 | 298.15 | experimental | 1.856 (mp-aaabgisq) | 1.106 (oqmd-13726) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 4 |  |
 
 ## Other properties
 
@@ -201,15 +201,15 @@ Table: Heat capacity / entropy / enthalpy, Cr–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0 298_ | 31.7 J/mol-atom/K | 298 | Cr11Ge19; _alloy: Ge 0.633333_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 20 |  |
-| Entropy; _printed: S0 298_ | 29.83 J/mol-atom/K | 298 | Cr11Ge19; _alloy: Ge 0.633333_ | model | [1] Liu 2010 | Table 4, p. 7, row 21 |  |
-| Entropy; _printed: S0 298_ | 26.07 J/mol-atom/K | 298 | Cr11Ge8; _alloy: Ge 0.421053_ | model | [1] Liu 2010 | Table 4, p. 7, row 17 |  |
-| Entropy; _printed: S0 298_ | 27.07 J/mol-atom/K | 298 | Cr3Ge; _alloy: Ge 0.25_ | model | [1] Liu 2010 | Table 4, p. 7, row 14 |  |
-| Entropy; _printed: S0 298_ | 26 J/mol-atom/K | 298 | Cr3Ge; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 13 |  |
-| Entropy; _printed: S0 298_ | 30.6 J/mol-atom/K | 298 | CrGe; _alloy: Ge 0.5_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 18 |  |
-| Entropy; _printed: S0 298_ | 29.03 J/mol-atom/K | 298 | CrGe; _alloy: Ge 0.5_ | model | [1] Liu 2010 | Table 4, p. 7, row 19 |  |
-| Entropy; _printed: S0 298_ | 29.6 J/mol-atom/K | 298 | αCr5Ge3; _alloy: Ge 0.375_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 15 |  |
-| Entropy; _printed: S0 298_ | 26.87 J/mol-atom/K | 298 | αCr5Ge3; _alloy: Ge 0.375_ | model | [1] Liu 2010 | Table 4, p. 7, row 16 |  |
+| Entropy; _printed: S0 298_ | 31.7 J/mol-atom/K | 298.15 | Cr11Ge19; _alloy: Ge 0.633333_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 20 |  |
+| Entropy; _printed: S0 298_ | 29.83 J/mol-atom/K | 298.15 | Cr11Ge19; _alloy: Ge 0.633333_ | model | [1] Liu 2010 | Table 4, p. 7, row 21 |  |
+| Entropy; _printed: S0 298_ | 26.07 J/mol-atom/K | 298.15 | Cr11Ge8; _alloy: Ge 0.421053_ | model | [1] Liu 2010 | Table 4, p. 7, row 17 |  |
+| Entropy; _printed: S0 298_ | 27.07 J/mol-atom/K | 298.15 | Cr3Ge; _alloy: Ge 0.25_ | model | [1] Liu 2010 | Table 4, p. 7, row 14 |  |
+| Entropy; _printed: S0 298_ | 26 J/mol-atom/K | 298.15 | Cr3Ge; _alloy: Ge 0.25_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 13 |  |
+| Entropy; _printed: S0 298_ | 30.6 J/mol-atom/K | 298.15 | CrGe; _alloy: Ge 0.5_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 18 |  |
+| Entropy; _printed: S0 298_ | 29.03 J/mol-atom/K | 298.15 | CrGe; _alloy: Ge 0.5_ | model | [1] Liu 2010 | Table 4, p. 7, row 19 |  |
+| Entropy; _printed: S0 298_ | 29.6 J/mol-atom/K | 298.15 | αCr5Ge3; _alloy: Ge 0.375_ | experimental | [1] Liu 2010; _cites Gokhale 1986_ [doi](https://doi.org/10.1007/bf02867813) | Table 4, p. 7, row 15 |  |
+| Entropy; _printed: S0 298_ | 26.87 J/mol-atom/K | 298.15 | αCr5Ge3; _alloy: Ge 0.375_ | model | [1] Liu 2010 | Table 4, p. 7, row 16 |  |
 
 ## Sources
 

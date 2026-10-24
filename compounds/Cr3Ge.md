@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Cr3Ge reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -19.3 kJ/mol-atom ± 2.5 | Cr3Ge | 298 | experimental | Knudsen effusion mass spectrometry | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 1 |  |
-| -19.12 kJ/mol-atom | Cr3Ge | 298 | experimental | Potentiometric method | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 2 |  |
-| -19.3 unspecified ± 2.5 | Cr3Ge | 298 | model |  | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
-| -15.33 kJ/mol-atom | Cr3Ge | 298 | model | Thermodynamic optimization | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010 | Table 4, p. 7, row 3 |  |
+| -19.3 kJ/mol-atom ± 2.5 | Cr3Ge | 298.15 | experimental | Knudsen effusion mass spectrometry | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | Table 4, p. 7, row 1 |  |
+| -19.12 kJ/mol-atom | Cr3Ge | 298.15 | experimental | Potentiometric method | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 2 |  |
+| -19.3 unspecified ± 2.5 | Cr3Ge | 298.15 | model |  | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Zarembo 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901551-1) | p. 3 | “The reported standard enthalpies of formation at 298 K are -19.3 ± 2.5 kJ/mol atom for Cr0.75 Ge0.25 (Cr3 Ge) and -12.3 ± 2.5 kJ/mol-atom for Cr0.63 Ge0.37 (Cr5 Ge3 ).” |
+| -15.33 kJ/mol-atom | Cr3Ge | 298.15 | model | Thermodynamic optimization | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010 | Table 4, p. 7, row 3 |  |
 
 ## DFT formation energies
 
@@ -25,10 +25,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cr3Ge
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabepp | -10.8 | -0.111936 | Pm-3n | 0 | no |
-| OQMD | oqmd-647110 | -12.732 | -0.131958 | Pm-3n | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabepp | -10.8 | -0.111936 | Pm-3n | 0 | 0 | no |
+| OQMD | oqmd-647110 | -12.732 | -0.131958 | Pm-3n | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

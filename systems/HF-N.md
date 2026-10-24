@@ -63,8 +63,8 @@ Table: Enthalpies of formation, Hf–N system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -187.23 unspecified | 298 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3 | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
-| — |  | 184.6 unspecified ± 0.7 | 298 | experimental |  |  | [1] Pang 2018; _cites Humphrey 1953_ | p. 3 | “Humphrey \[38\] determined the heat of formation for hafnium mononitride at 298 K to be 184.6±0.7 kJ/mol-atoms by combustion calorimetry.” |
+| — |  | -187.23 unspecified | 298.15 | model |  |  | [1] Pang 2018; _cites Mulokozi 1981_ | p. 3 | “The enthalpy of formation for HfN1.0 at 298 K calculated by Mulokozi \[39\] was -187.23 kJ/mol-atoms.” |
+| — |  | 184.6 unspecified ± 0.7 | 298.15 | experimental |  |  | [1] Pang 2018; _cites Humphrey 1953_ | p. 3 | “Humphrey \[38\] determined the heat of formation for hafnium mononitride at 298 K to be 184.6±0.7 kJ/mol-atoms by combustion calorimetry.” |
 
 ## Other properties
 

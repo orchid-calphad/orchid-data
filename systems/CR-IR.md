@@ -1,10 +1,10 @@
 # Cr–Ir system
 
-> Cr–Ir system: 5 accepted literature values (invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ir system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-IR.html · Markdown: https://data.orchid-project.org/systems/CR-IR.md
 
-5 accepted literature values from 1 paper(s) (experimental 3, model 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 3, model 3); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-IR.json) · [CSV](https://data.orchid-project.org/systems/CR-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-IR/CrIr-09Zha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CR-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-IR.html) · [Markdown](https://data.orchid-project.org/systems/CR-IR.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 2 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
+| invariant reaction | 6 |
 
 ## Calculated phase diagrams
 
@@ -43,13 +43,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ir system (5)
+Table: Invariant reactions reported in the literature for the Cr–Ir system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2479.15 | other: Liquid + (Ir) = ε | Liquid: Cr 0.3951; (Ir): Cr 0.2655; ε: Cr 0.3179 | model | [1] Zhang 2009 | Table 2, p. 4, row 5 |  |
 | 2473.15 | other: Liquid + (Ir) = ε | (Ir): Cr 0.27; ε: Cr 0.3 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 6 |  |
-| 2023.15 | other: Liquid + ε = Cr3Ir | Cr3Ir: Cr 0.68; (Ir): Cr 0.74 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 4 |  |
+| 2023.15 | peritectic: Liquid + ε = Cr3Ir | Cr3Ir: Cr 0.68 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 4 |  |
+| 2015.15 | peritectic: Liquid + ε = Cr3Ir | Liquid: Cr 0.7437; Cr3Ir: Cr 0.6649 | model | [1] Zhang 2009 | Table 2, p. 4, row 3 |  |
 | 1961.15 | eutectic: Liquid = (Cr) + Cr3Ir | Liquid: Cr 0.8484; (Cr): Cr 0.8889; Cr3Ir: Cr 0.8139 | model | [1] Zhang 2009 | Table 2, p. 4, row 1 |  |
 | 1953.15 | eutectic: Liquid = (Cr) + Cr3Ir | (Cr): Cr 0.88; Cr3Ir: Cr 0.83 | experimental | [1] Zhang 2009; _cites Waterstrat 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990073-8) | Table 2, p. 4, row 2 |  |
 

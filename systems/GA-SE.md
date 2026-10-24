@@ -108,22 +108,22 @@ Table: Enthalpies of formation, Ga–Se system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 4 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 3 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 5 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -78.9705 kJ/mol-atom | 298 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008 | Table 3, p. 6, row 7 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -78.85 kJ/mol-atom | 298 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 3, p. 6, row 6 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -73.22 kJ/mol-atom | 298 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 1 |  |
-| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -71.75 kJ/mol-atom | 298 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Kh 1968_ | Table 3, p. 6, row 2 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -92.048 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Gadzhiev 1961_ | Table 3, p. 6, row 9 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -87.864 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 8 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 14 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 13 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.002 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -79.7396 kJ/mol-atom | 298 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008 | Table 3, p. 6, row 15 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -75.312 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Effendiev 1965_ | Table 3, p. 6, row 10 |  |
-| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -73.722 kJ/mol-atom | 298 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Sharifov 1967_ | Table 3, p. 6, row 11 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298.15 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 4 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298.15 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 3 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -79.496 kJ/mol-atom | 298.15 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 5 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -78.9705 kJ/mol-atom | 298.15 | model | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008 | Table 3, p. 6, row 7 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -78.85 kJ/mol-atom | 298.15 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 3, p. 6, row 6 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -73.22 kJ/mol-atom | 298.15 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 1 |  |
+| GaSe | [GaSe](https://data.orchid-project.org/compounds/GaSe.html) | -71.75 kJ/mol-atom | 298.15 | experimental | -79.831 (mp-aaaaaqug) | -57.465 (oqmd-1971260) | [1] Zheng 2008; _cites Kh 1968_ | Table 3, p. 6, row 2 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -92.048 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Gadzhiev 1961_ | Table 3, p. 6, row 9 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -87.864 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Hahn 1956_ [doi](https://doi.org/10.1002/ange.19560681616) | Table 3, p. 6, row 8 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298.15 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 3, p. 6, row 14 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.7554 kJ/mol-atom | 298.15 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mills 1974_ | Table 3, p. 6, row 13 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -81.002 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Mamedov 1969_ | Table 3, p. 6, row 12 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -79.7396 kJ/mol-atom | 298.15 | model | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008 | Table 3, p. 6, row 15 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -75.312 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Effendiev 1965_ | Table 3, p. 6, row 10 |  |
+| β-Ga2Se3 | [Ga2Se3](https://data.orchid-project.org/compounds/Ga2Se3.html) | -73.722 kJ/mol-atom | 298.15 | experimental | -83.763 (mp-aaaaabzo) | -57.081 (oqmd-2169176) | [1] Zheng 2008; _cites Sharifov 1967_ | Table 3, p. 6, row 11 |  |
 
 ## Other properties
 
@@ -133,20 +133,20 @@ Table: Heat capacity / entropy / enthalpy, Ga–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298_ | 35.085 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008 | Table 4, p. 6, row 9 |  |
-| Entropy; _printed: S°298_ | 35.145 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Mamedov 1967_ | Table 4, p. 6, row 1 |  |
-| Entropy; _printed: S°298_ | 35.125 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Mamedov 1970_ | Table 4, p. 6, row 3 |  |
-| Entropy; _printed: S°298_ | 35.115 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008; _cites Rymkevich 1975_ | Table 4, p. 6, row 6 |  |
-| Entropy; _printed: S°298_ | 35.085 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Tyurin 2004_ | Table 4, p. 6, row 8 |  |
-| Entropy; _printed: S°298_ | 35.125 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Kerimov 1971_ | Table 4, p. 6, row 4 |  |
-| Entropy; _printed: S°298_ | 34.45 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Abbasov 1969_ | Table 4, p. 6, row 2 |  |
-| Entropy; _printed: S°298_ | 33.95 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 4, p. 6, row 7 |  |
-| Entropy; _printed: S°298_ | 35.1455 J/mol-atom/K | 298 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008; _cites Mills 1974_ | Table 4, p. 6, row 5 |  |
-| Entropy; _printed: S°298_ | 36.14 J/mol-atom/K | 298 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008 | Table 4, p. 6, row 14 |  |
-| Entropy; _printed: S°298_ | 36.652 J/mol-atom/K | 298 | β-Ga2Se3; _alloy: Se 0.6_ | experimental | [1] Zheng 2008; _cites Mamedov 1969_ | Table 4, p. 6, row 10 |  |
-| Entropy; _printed: S°298_ | 36.08 J/mol-atom/K | 298 | β-Ga2Se3; _alloy: Se 0.6_ | experimental | [1] Zheng 2008; _cites Tyurin 2005_ [doi](https://doi.org/10.1007/s10789-005-0275-x) | Table 4, p. 6, row 13 |  |
-| Entropy; _printed: S°298_ | 35.9824 J/mol-atom/K | 298 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008; _cites Mills 1974_ | Table 4, p. 6, row 11 |  |
-| Entropy; _printed: S°298_ | 35.9824 J/mol-atom/K | 298 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 4, p. 6, row 12 |  |
+| Entropy; _printed: S°298_ | 35.085 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008 | Table 4, p. 6, row 9 |  |
+| Entropy; _printed: S°298_ | 35.145 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Mamedov 1967_ | Table 4, p. 6, row 1 |  |
+| Entropy; _printed: S°298_ | 35.125 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Mamedov 1970_ | Table 4, p. 6, row 3 |  |
+| Entropy; _printed: S°298_ | 35.115 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008; _cites Rymkevich 1975_ | Table 4, p. 6, row 6 |  |
+| Entropy; _printed: S°298_ | 35.085 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Tyurin 2004_ | Table 4, p. 6, row 8 |  |
+| Entropy; _printed: S°298_ | 35.125 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Kerimov 1971_ | Table 4, p. 6, row 4 |  |
+| Entropy; _printed: S°298_ | 34.45 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Abbasov 1969_ | Table 4, p. 6, row 2 |  |
+| Entropy; _printed: S°298_ | 33.95 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Zavrazhnov 2003_ | Table 4, p. 6, row 7 |  |
+| Entropy; _printed: S°298_ | 35.1455 J/mol-atom/K | 298.15 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008; _cites Mills 1974_ | Table 4, p. 6, row 5 |  |
+| Entropy; _printed: S°298_ | 36.14 J/mol-atom/K | 298.15 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008 | Table 4, p. 6, row 14 |  |
+| Entropy; _printed: S°298_ | 36.652 J/mol-atom/K | 298.15 | β-Ga2Se3; _alloy: Se 0.6_ | experimental | [1] Zheng 2008; _cites Mamedov 1969_ | Table 4, p. 6, row 10 |  |
+| Entropy; _printed: S°298_ | 36.08 J/mol-atom/K | 298.15 | β-Ga2Se3; _alloy: Se 0.6_ | experimental | [1] Zheng 2008; _cites Tyurin 2005_ [doi](https://doi.org/10.1007/s10789-005-0275-x) | Table 4, p. 6, row 13 |  |
+| Entropy; _printed: S°298_ | 35.9824 J/mol-atom/K | 298.15 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008; _cites Mills 1974_ | Table 4, p. 6, row 11 |  |
+| Entropy; _printed: S°298_ | 35.9824 J/mol-atom/K | 298.15 | β-Ga2Se3; _alloy: Se 0.6_ | model | [1] Zheng 2008; _cites Barin 1995_ [doi](https://doi.org/10.1002/9783527619825) | Table 4, p. 6, row 12 |  |
 | Heat capacity; _printed: Cp°298_ | 48.32 J/mol (basis unstated)/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Zavrazhnov 2004_ [doi](https://doi.org/10.1023/b:inma.0000016082.33860.43) | Table 5, p. 7, row 6 |  |
 | Heat capacity; _printed: Cp°298_ | 47.89 J/mol (basis unstated)/K | 298.15 | GaSe; _alloy: Se 0.5_ | model | [1] Zheng 2008 | Table 5, p. 7, row 7 |  |
 | Heat capacity; _printed: Cp°298_ | 48.49 J/mol (basis unstated)/K | 298.15 | GaSe; _alloy: Se 0.5_ | experimental | [1] Zheng 2008; _cites Mamedov 1967_ | Table 5, p. 7, row 1 |  |

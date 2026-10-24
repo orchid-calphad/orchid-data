@@ -91,7 +91,16 @@
    "10.1016/j.calphad.2013.07.003"
   ],
   "source_dataset": "db-v2.1/general/espei-model/NiSc-13Kar/hmr-model-00.json",
-  "values_dropped": 4
+  "values_dropped": 4,
+  "also_reported_as": [
+   {
+    "dataset": "model/NI-SC/NiSc-13Kar.hmr-model-01-C15_LAVES.json",
+    "ids": [
+     "ORC-5PWE35EFJX",
+     "ORC-VYLH3PZZZ7"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

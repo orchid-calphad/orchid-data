@@ -14,21 +14,21 @@ Table: Enthalpy of formation of SiV3 reported in the literature (16)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -46.4 kJ/mol-atom ± 1 | V3Si | 298 | experimental | Direct synthesis calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 12 |  |
-| -46.4 kJ/mol-atom ± 1 | V3Si | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
-| -45.1 kJ/mol-atom ± 2 | V3Si | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
-| -45.1 kJ/mol-atom ± 2 | V3Si | 298 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 7 |  |
-| -41.8 kJ/mol-atom ± 1 | V3Si | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
-| -41.75 kJ/mol-atom ± 1 | V3Si | 298 | experimental | Fluorine bomb calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites OHare 2000_ [doi](https://doi.org/10.1006/jcht.1999.0612) | Table 2, p. 3, row 14 |  |
-| -38.8 kJ/mol-atom ± 1 | V3Si | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
-| -38.75 kJ/mol-atom ± 1 | V3Si | 298 | experimental | Knudsen cell mass spectrometry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 10 |  |
-| -35.3 kJ/mol-atom ± 3 | V3Si | 298 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
-| -35.25 kJ/mol-atom ± 3 | V3Si | 298 | experimental | Direct reaction calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 3 |  |
+| -46.4 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Direct synthesis calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 12 |  |
+| -46.4 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
+| -45.1 kJ/mol-atom ± 2 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
+| -45.1 kJ/mol-atom ± 2 | V3Si | 298.15 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 7 |  |
+| -41.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
+| -41.75 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Fluorine bomb calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites OHare 2000_ [doi](https://doi.org/10.1006/jcht.1999.0612) | Table 2, p. 3, row 14 |  |
+| -38.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
+| -38.75 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Knudsen cell mass spectrometry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 10 |  |
+| -35.3 kJ/mol-atom ± 3 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
+| -35.25 kJ/mol-atom ± 3 | V3Si | 298.15 | experimental | Direct reaction calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 3 |  |
 | -45.2 kJ/mol-atom | V3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
 | -44.3 kJ/mol-atom | V3Si | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
 | -33.9 kJ/mol-atom | V3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
-| -33.88 kJ/mol-atom | V3Si | 298 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 18 |  |
-| -45.23 kJ/mol-atom | V3Si | 298 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 22 |  |
+| -33.88 kJ/mol-atom | V3Si | 298.15 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 18 |  |
+| -45.23 kJ/mol-atom | V3Si | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 22 |  |
 | -44.5 kJ/mol-atom | V3Si | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013 | Table 2, p. 6, row 8 |  |
 
 ## DFT formation energies
@@ -37,10 +37,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of SiV3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadut | -42.956 | -0.445208 | Pm-3n | 0 | no |
-| OQMD | oqmd-4182 | -45.324 | -0.469756 | Pm-3n | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadut | -42.956 | -0.445208 | Pm-3n | 0 | 0 | no |
+| OQMD | oqmd-4182 | -45.324 | -0.469756 | Pm-3n | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

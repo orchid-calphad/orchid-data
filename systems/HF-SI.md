@@ -166,12 +166,12 @@ Table: Enthalpies of formation, Hf–Si system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Hf2Si | [Hf2Si](https://data.orchid-project.org/compounds/Hf2Si.html) | -62.7 kJ/mol-atom | 298 | unspecified | -69.475 (mp-aaaaaosg) | -71.646 (oqmd-7793) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 1 |  |
+| Hf2Si | [Hf2Si](https://data.orchid-project.org/compounds/Hf2Si.html) | -62.7 kJ/mol-atom | 298.15 | unspecified | -69.475 (mp-aaaaaosg) | -71.646 (oqmd-7793) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 1 |  |
 | Hf3Si2 | [Hf3Si2](https://data.orchid-project.org/compounds/Hf3Si2.html) | -80 kJ/mol-atom ± 4.7 | 1473 | experimental | -74.298 (mp-aaaaadcz) | -77.301 (oqmd-647083) | [2] Zhao 2000; _cites Topor 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990292-r) | Table 3, p. 3, row 9 |  |
-| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom | 298 | unspecified | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 5 |  |
-| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom ± 3.3 | 298 | experimental | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 4 |  |
-| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom | 298 | unspecified | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 13 |  |
-| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom ± 4.6 | 298 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12 |  |
+| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom | 298.15 | unspecified | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 5 |  |
+| Hf5Si3 | [Hf5Si3](https://data.orchid-project.org/compounds/Hf5Si3.html) | -70.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -69.268 (mp-aaaaaxqb) | -71.886 (oqmd-647084) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 4 |  |
+| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom | 298.15 | unspecified | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Samsonov 1980_ [doi](https://doi.org/10.1007/978-1-4684-6099-5) | Table 3, p. 3, row 13 |  |
+| HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -71.1 kJ/mol-atom ± 4.6 | 298.15 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Golutvin 1971_ | Table 3, p. 3, row 12 |  |
 | HfSi | [HfSi](https://data.orchid-project.org/compounds/HfSi.html) | -70.9 kJ/mol-atom ± 2 | 1473 | experimental | -75.502 (mp-aaaaaboc) | -79.13 (oqmd-647082) | [2] Zhao 2000; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 3, p. 3, row 15 |  |
 
 ## Other properties

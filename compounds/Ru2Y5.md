@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ru2Y5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.3 kJ/mol-atom ± 3.1 | Ru2Y5 | 298 | experimental | High temperature drop calorimetry | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8 |  |
+| -27.3 kJ/mol-atom ± 3.1 | Ru2Y5 | 298.15 | experimental | High temperature drop calorimetry | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1993_ [doi](https://doi.org/10.1051/jcp/1993900435) | Table 4, p. 4, row 8 |  |
 | -27.288 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011; _cites Selhaoui 1998_ [doi](https://doi.org/10.1006/jssc.1998.7795) | Table 4, p. 4, row 9 |  |
 | -26.844 kJ/mol-atom | Ru2Y5 | 300 | model | Optimization | [Ru–Y](https://data.orchid-project.org/systems/RU-Y.html) | [1] Amar 2011 | Table 4, p. 4, row 10 |  |
 
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ru2Y5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaackwmc | -32.176 | -0.333479 | C2/c | 0 | no |
-| OQMD | oqmd-1437125 | -31.792 | -0.329501 | C2/c | 0.043 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaackwmc | -32.176 | -0.333479 | C2/c | 0 | 0 | no |
+| OQMD | oqmd-1437125 | -31.792 | -0.329501 | C2/c | 0.043 | 4.000e-4 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

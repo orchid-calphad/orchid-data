@@ -1,48 +1,51 @@
 # Ni3Ti: enthalpy of formation
 
-> Enthalpy of formation of Ni3Ti: 29 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ni3Ti: 32 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ni3Ti.html · Markdown: https://data.orchid-project.org/compounds/Ni3Ti.md
 
-29 accepted literature formation-enthalpy value(s) (experimental 4, model 16, DFT 9); experimental median -42.2 kJ/mol-atom (n = 1); Materials Project -46.582 kJ/mol-atom (mp-aaaaaccf); OQMD -47.751 kJ/mol-atom (oqmd-5776).
+32 accepted literature formation-enthalpy value(s) (experimental 7, model 16, DFT 9); experimental median -42.2 kJ/mol-atom (n = 2); Materials Project -46.582 kJ/mol-atom (mp-aaaaaccf); OQMD -47.751 kJ/mol-atom (oqmd-5776).
 
 Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) · [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ni3Ti reported in the literature (29)
+Table: Enthalpy of formation of Ni3Ti reported in the literature (32)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.9 per mol-atom ± 1000 | Ni3Ti | 1513.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3 |  |
-| -42.2 kJ/mol-atom ± 1.2 | Ni3Ti(D024) | 298.15 | experimental |  | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 12 |  |
-| -42.2 per mol-atom ± 1200 | Ni3Ti | 1477.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5 |  |
-| -34.852 per mol-atom ± 2000 | Ni3Ti | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1 |  |
-| -48.73 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 11 |  |
-| -47.6 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10 |  |
-| -47.6 kJ/mol-atom | TiNi3 | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
-| -47.1 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9 |  |
-| -47.1 kJ/mol-atom | TiNi3 | 0 | model | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
+| -43800 per mol-atom ± 1600 | TiNi3 | 298.15 | experimental | Solution calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Moser 2006_ | Table 6, p. 8, row 5 |  |
+| -34700 per mol-atom | TiNi3 | 298.15 | experimental | Direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 7 |  |
+| -42.9 per mol-atom ± 1000 | Ni3Ti | 1513.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 9, p. 6, row 3 |  |
+| -42.2 kJ/mol-atom ± 1.2 | Ni3Ti(D024) | 298.15 | experimental |  | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 2, p. 3, row 12 |  |
+| -42.2 kJ/mol-atom ± 1200 | TiNi3 | 298.15 | experimental | Direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 8, row 6 |  |
+| -42.2 per mol-atom ± 1200 | Ni3Ti | 1477.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 9, p. 6, row 5 |  |
+| -34.852 per mol-atom ± 2000 | Ni3Ti | 298.15 | experimental |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015; _cites Kubaschewski 1956_ [doi](https://doi.org/10.1039/tf9565200214) | Table 9, p. 6, row 1 |  |
+| -48.73 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 9, p. 6, row 11 |  |
+| -47.6 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 10 |  |
+| -47.6 kJ/mol-atom | TiNi3 | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 12 |  |
+| -47.1 per mol-atom | Ni3Ti |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 9 |  |
+| -47.1 kJ/mol-atom | TiNi3 | 0 | model | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 11 |  |
 | -46.8 kJ/mol-atom | Ni3Ti(D03) |  | model | LMTO | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 13 |  |
 | -44.4 kJ/mol-atom | Ni3Ti(D03) |  | model | TBB | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [4] Hu 2014; _cites Colinet 1993_ [doi](https://doi.org/10.1016/0921-4526%2893%2990026-3) | Table 1, p. 5, row 12 |  |
-| -42.132 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
-| -40.067 per mol-atom | Ni3Ti | 1513.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 4 |  |
-| -40.043 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
-| -39.92 per mol-atom | Ni3Ti | 1477.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 6 |  |
-| -36.978 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
-| -36.871 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
-| -33.369 per mol-atom | Ni3Ti | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 2 |  |
-| -32.5 per mol-atom | Ni3Ti | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 12 |  |
+| -42.132 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013 | Table 6, p. 8, row 1 |  |
+| -40.067 per mol-atom | Ni3Ti | 1513.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 9, p. 6, row 4 |  |
+| -40.043 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Matsumoto 2005_ [doi](https://doi.org/10.2320/matertrans.46.2920) | Table 6, p. 8, row 3 |  |
+| -39.92 per mol-atom | Ni3Ti | 1477.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 9, p. 6, row 6 |  |
+| -36.978 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 6, p. 8, row 4 |  |
+| -36.871 kJ/mol-atom | TiNi3 | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 2 |  |
+| -33.369 per mol-atom | Ni3Ti | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 9, p. 6, row 2 |  |
+| -32.5 per mol-atom | Ni3Ti | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 9, p. 6, row 12 |  |
 | -30.68 kJ/mol-atom | Ni3Ti(D03) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [4] Hu 2014 | Table 1, p. 5, row 15 |  |
-| -48.73 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 5, p. 4, row 8 |  |
-| -46.313 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ. (PBE GGA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
-| -45.99 kJ/mol-atom | Ni3Ti(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
-| -45.928 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ., GGA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [3] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10 |  |
-| -45.1 kJ/mol-atom | Ni3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
+| -48.73 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 8 |  |
+| -46.313 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ. (PBE GGA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013; _cites Stott 2010_ [doi](https://doi.org/10.1021/jp103552s) | Table 6, p. 8, row 13 |  |
+| -45.99 kJ/mol-atom | Ni3Ti(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 11 |  |
+| -45.928 kJ/mol-atom | TiNi3 | 0 | DFT | 1st-princ., GGA | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Povoden-Karadeniz 2013 | Table 6, p. 8, row 10 |  |
+| -45.1 kJ/mol-atom | Ni3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [3] Tokunaga 2004 | Table 2, p. 3, row 6 |  |
 | -29.5 kJ/mol-atom | Ni3Ti(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [4] Hu 2014 | Table 1, p. 5, row 14 |  |
-| -8.72 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 5, p. 4, row 9 |  |
-| 4.77 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 5, p. 4, row 11 |  |
-| 7.08 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 5, p. 4, row 10 |  |
+| -8.72 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 9 |  |
+| 4.77 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 11 |  |
+| 7.08 kJ/mol-atom | Ni3Ti | 0 | DFT | first-principle | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Santhy 2015 | Table 5, p. 4, row 10 |  |
 
 ## DFT formation energies
 
@@ -50,18 +53,18 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ni3Ti
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaaccf | -46.582 | -0.482795 | P6_3/mmc | 0 | no |
-| OQMD | oqmd-5776 | -47.751 | -0.494909 | P63/mmc | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaaccf | -46.582 | -0.482795 | P6_3/mmc | 0 | 0 | no |
+| OQMD | oqmd-5776 | -47.751 | -0.494909 | P63/mmc | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 
-1. K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015). [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200)
-2. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
-3. E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013). [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004)
+1. E. Povoden-Karadeniz, D.C. Cirstea, P. Lang, T. Wojcik, E. Kozeschnik, Thermodynamics of Ti–Ni shape memory alloys, Calphad 41, 128-139 (2013). [doi:10.1016/j.calphad.2013.02.004](https://doi.org/10.1016/j.calphad.2013.02.004)
+2. K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015). [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200)
+3. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
 4. Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014). [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002)
 
 ## Please cite

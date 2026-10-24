@@ -241,7 +241,15 @@
     "id": "ORC-AWQYTSLJY5",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2006.06.002",
-    "measured_in": "doi:10.1515/ijmr-1986-770109"
+    "measured_in": "doi:10.1515/ijmr-1986-770109",
+    "also_reported_as": [
+     {
+      "id": "ORC-EZPWOD3GVM",
+      "paper": "doi:10.1016/j.actamat.2009.12.004",
+      "measured_in": "doi:10.1515/ijmr-1986-770109",
+      "dataset": "invariants/CU-ZR/CuZr-10Zho.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-KE3TEQUJB3",
@@ -261,15 +269,19 @@
   "papers": [
    "doi:10.1515/ijmr-1986-770109",
    "doi:10.1016/j.calphad.2006.06.002",
-   "doi:10.1016/j.jallcom.2011.04.141"
+   "doi:10.1016/j.jallcom.2011.04.141",
+   "doi:10.1016/j.actamat.2009.12.004",
+   "doi:10.1007/s11669-017-0522-2"
   ],
   "dois": [
+   "10.1007/s11669-017-0522-2",
+   "10.1016/j.actamat.2009.12.004",
    "10.1016/j.calphad.2006.06.002",
    "10.1016/j.jallcom.2011.04.141",
    "10.1515/ijmr-1986-770109"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-06Wan/zpf-05.json",
-  "e3_merged": 1
+  "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -1,10 +1,10 @@
 # Al–Cr–Mg system
 
-> Al–Cr–Mg system: 26 accepted literature values (phase equilibrium 16, crystal structure 6, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Mg system: 21 accepted literature values (phase equilibrium 16, crystal structure 3, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-MG.html · Markdown: https://data.orchid-project.org/systems/AL-CR-MG.md
 
-26 accepted literature values from 1 paper(s) (experimental 16, model 4, DFT 4, unspecified 2); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 16, model 2, DFT 2, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-MG.md)
 
@@ -13,30 +13,28 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 16 |
-| model | 4 |
-| DFT | 4 |
-| unspecified | 2 |
+| model | 2 |
+| DFT | 2 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 16 |
-| formation | 4 |
-| crystal structure | 6 |
+| formation | 2 |
+| crystal structure | 3 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Cr–Mg system (4)
+Table: Enthalpies of formation, Al–Cr–Mg system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| T |  | -246.5 kJ/mol (basis unstated) | 298 | model |  |  | [1] Cui 2017 | Table 3, p. 4, row 4 |  |
-| T |  | -238.5 kJ/mol (basis unstated) | 298 | DFT |  |  | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
-| T (Al18Mg3Cr2) |  | -246.5 kJ/mol (basis unstated) | 298 | model |  |  | [1] Cui 2017 | Table 3, p. 4, row 4 |  |
-| T (Al18Mg3Cr2) |  | -238.5 kJ/mol (basis unstated) | 298 | DFT |  |  | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
+| T (Al18Mg3Cr2) |  | -246.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Cui 2017 | Table 3, p. 4, row 4 |  |
+| T (Al18Mg3Cr2) |  | -238.5 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
 
 ## Other properties
 
@@ -63,18 +61,15 @@ Table: Phase equilibrium, Al–Cr–Mg system
 | Phase composition |  | 773.15 | T + Liquid + Al3Mg2; _T: Al 0.773, Cr 0.086, Mg 0.141_ | experimental | [1] Cui 2017 | Table 5, p. 11, row 12 |  |
 | Phase composition |  | 773.15 | T + fcc_A1 + Liquid + Al3Mg2; _T: Al 0.773, Cr 0.087, Mg 0.14; fcc_A1: Al 0.863, Cr 4.500e-4, Mg 0.136_ | experimental | [1] Cui 2017 | Table 5, p. 11, row 13 |  |
 
-### Crystal structure (6)
+### Crystal structure (3)
 
 Table: Crystal structure, Al–Cr–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T; _alloy: Cr 0.086957, Mg 0.130435_ | model | [1] Cui 2017; _cites Kerimov 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990240-2) | Table 3, p. 4, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T; _alloy: Cr 0.086957, Mg 0.130435_ | unspecified | [1] Cui 2017; _cites Ohnishi 2017_ | Table 3, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T; _alloy: Cr 0.086957, Mg 0.130435_ | DFT | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | model | [1] Cui 2017; _cites Kerimov 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990240-2) | Table 3, p. 4, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | unspecified | [1] Cui 2017; _cites Ohnishi 2017_ | Table 3, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | DFT | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | model | [1] Cui 2017; _cites Kerimov 1987_ [doi](https://doi.org/10.1016/0022-5088%2887%2990240-2) | Table 3, p. 4, row 2 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | unspecified | [1] Cui 2017; _cites Ohnishi 2017_ | Table 3, p. 4, row 1 |  |
+| lattice unspecified axis; _printed: Lattice parameters_ | 1.45 nm | 298.15 | T (Al18Mg3Cr2); _alloy: Cr 0.086957, Mg 0.130435_ | DFT | [1] Cui 2017 | Table 3, p. 4, row 3 |  |
 
 ## Sources
 

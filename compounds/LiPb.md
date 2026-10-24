@@ -14,9 +14,9 @@ Table: Enthalpy of formation of LiPb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -30.3 kJ/mol-atom ± 1.82 | αLiPb | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13 |  |
+| -30.3 kJ/mol-atom ± 1.82 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Seith 1937_ | Table 2, p. 2, row 13 |  |
 | -26.44 kJ/mol-atom | αLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 15 |  |
-| -24.25 kJ/mol-atom ± 0.55 | αLiPb | 298 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
+| -24.25 kJ/mol-atom ± 0.55 | αLiPb | 298.15 | DFT |  | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016; _cites Kalyanaraman 1982_ | Table 2, p. 2, row 14 |  |
 | -1.08 kJ/mol-atom | βLiPb | 0 | DFT | first-principles calculations | [Li–Pb](https://data.orchid-project.org/systems/LI-PB.html) | [1] Zhou 2016 | Table 2, p. 2, row 16 |  |
 
 ## Sources

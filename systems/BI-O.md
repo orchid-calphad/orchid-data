@@ -82,19 +82,19 @@ Table: Enthalpies of formation, Bi–O system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -573.2 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | p. 5 | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
-| — |  | -570.2 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | p. 5 | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
-| α-Bi2O3 |  | -590.2 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8 |  |
-| α-Bi2O3 |  | -587.5 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4 |  |
-| α-Bi2O3 |  | -581.6 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Cahen 1979_ | Table 6, p. 5, row 7 |  |
-| α-Bi2O3 |  | -576.6 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1 |  |
-| α-Bi2O3 |  | -573.9 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3 |  |
-| α-Bi2O3 |  | -570.3 kJ/mol (basis unstated) | 298 | unspecified |  |  | [1] Risold 1995 | Table 6, p. 5, row 11 |  |
-| α-Bi2O3 |  | -569 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Mixter 1909_ [doi](https://doi.org/10.2475/ajs.s4-28.164.103) | Table 6, p. 5, row 2 |  |
-| α-Bi2O3 |  | -567.8 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Schaefer 1985_ | Table 6, p. 5, row 10 |  |
-| α-Bi2O3 |  | -567.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 6, p. 5, row 5 |  |
-| α-Bi2O3 |  | -563.4 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 9 |  |
-| α-Bi2O3 |  | -550.6 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 6, p. 5, row 6 |  |
+| — |  | -573.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | p. 5 | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
+| — |  | -570.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | p. 5 | “The enthalpy of formation of t~-Bi20 3 at 298 K was determined by solution calorimetry \[1892Dit, 09Mix\] and more recently by combustion calorimetry \[61Mah\]. It also was derived from emf measurements \[71Rao, 73Cha, 78Cah, 84Ito, 84Sch\] and mass spectrometry data \[80Sid\]. These results are listed in Table 6. The values from measurements at higher temperatures are relatively scattered, but they are…” |
+| α-Bi2O3 |  | -590.2 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 8 |  |
+| α-Bi2O3 |  | -587.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Sidorov 1980_ | Table 6, p. 5, row 4 |  |
+| α-Bi2O3 |  | -581.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Cahen 1979_ | Table 6, p. 5, row 7 |  |
+| α-Bi2O3 |  | -576.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Ditte 1892_ | Table 6, p. 5, row 1 |  |
+| α-Bi2O3 |  | -573.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Mah 1961_ | Table 6, p. 5, row 3 |  |
+| α-Bi2O3 |  | -570.3 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Risold 1995 | Table 6, p. 5, row 11 |  |
+| α-Bi2O3 |  | -569 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Mixter 1909_ [doi](https://doi.org/10.2475/ajs.s4-28.164.103) | Table 6, p. 5, row 2 |  |
+| α-Bi2O3 |  | -567.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Schaefer 1985_ | Table 6, p. 5, row 10 |  |
+| α-Bi2O3 |  | -567.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 6, p. 5, row 5 |  |
+| α-Bi2O3 |  | -563.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites S 1984_ | Table 6, p. 5, row 9 |  |
+| α-Bi2O3 |  | -550.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 6, p. 5, row 6 |  |
 
 ## Other properties
 
@@ -119,12 +119,12 @@ Table: Heat capacity / entropy / enthalpy, Bi–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298_ | 30 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 81Gor_ | Table 3, p. 4, row 2 |  |
-| Entropy; _printed: S298_ | 30.2 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites C 1937_ | Table 3, p. 4, row 1 |  |
-| Entropy; _printed: S298_ | 29.7 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | model | [1] Risold 1995 | Table 3, p. 4, row 3 |  |
-| Heat capacity; _printed: Cp_ | 22.68 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 81Gor_ | Table 3, p. 4, row 2 |  |
-| Heat capacity; _printed: Cp_ | 22.4 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites C 1937_ | Table 3, p. 4, row 1 |  |
-| Heat capacity; _printed: Cp_ | 22.42 J/mol-atom/K | 298 | α-Bi2O3; _alloy: O 0.6_ | model | [1] Risold 1995 | Table 3, p. 4, row 3 |  |
+| Entropy; _printed: S298_ | 30 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 81Gor_ | Table 3, p. 4, row 2 |  |
+| Entropy; _printed: S298_ | 30.2 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites C 1937_ | Table 3, p. 4, row 1 |  |
+| Entropy; _printed: S298_ | 29.7 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | model | [1] Risold 1995 | Table 3, p. 4, row 3 |  |
+| Heat capacity; _printed: Cp_ | 22.68 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites ref. 81Gor_ | Table 3, p. 4, row 2 |  |
+| Heat capacity; _printed: Cp_ | 22.4 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites C 1937_ | Table 3, p. 4, row 1 |  |
+| Heat capacity; _printed: Cp_ | 22.42 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | model | [1] Risold 1995 | Table 3, p. 4, row 3 |  |
 
 ### Activity / EMF / Gibbs energy (38)
 

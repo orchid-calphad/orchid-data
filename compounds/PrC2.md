@@ -14,8 +14,8 @@ Table: Enthalpy of formation of PrC2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.4 kJ/mol-atom ± 1.6 | PrC2 | 298 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
-| -28.2 kJ/mol-atom ± 3.5 | PrC2 | 298 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
+| -29.4 kJ/mol-atom ± 1.6 | PrC2 | 298.15 | experimental | Synthesis calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
+| -28.2 kJ/mol-atom ± 3.5 | PrC2 | 298.15 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
 
 ## DFT formation energies
 
@@ -23,10 +23,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of PrC2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaacyt | -9.857 | -0.102165 | I4/mmm | 1.441 | no |
-| OQMD | oqmd-3666 | -10.23 | -0.106024 | I4/mmm | 1.628 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaacyt | -9.857 | -0.102165 | I4/mmm | 1.441 | 0.0149 | no |
+| OQMD | oqmd-3666 | -10.23 | -0.106024 | I4/mmm | 1.628 | 0.0169 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

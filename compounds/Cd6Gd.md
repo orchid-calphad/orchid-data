@@ -15,9 +15,9 @@ Table: Enthalpy of formation of Cd6Gd reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -28.2 kJ/mol-atom | Cd6Gd | 728 | experimental | Electromotive Force (E.M.F) | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Roshchina 1981_ | Table 4, p. 7, row 11 |  |
-| -26.78 kJ/mol-atom | Cd6Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 13 |  |
-| -24.73 kJ/mol-atom | Cd6Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 14 |  |
-| -22.9 kJ/mol-atom | Cd6Gd | 298 | unspecified |  | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 12 |  |
+| -26.78 kJ/mol-atom | Cd6Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024; _cites Kurata 2001_ [doi](https://doi.org/10.1361/105497101770338707) | Table 4, p. 7, row 13 |  |
+| -24.73 kJ/mol-atom | Cd6Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 14 |  |
+| -22.9 kJ/mol-atom | Cd6Gd | 298.15 | unspecified |  | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 12 |  |
 
 ## Sources
 

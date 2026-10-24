@@ -1,21 +1,20 @@
 # PuC0.81: enthalpy of formation
 
-> Enthalpy of formation of PuC0.81: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of PuC0.81: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PuC0.81.html · Markdown: https://data.orchid-project.org/compounds/PuC0.81.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 2).
+1 accepted literature formation-enthalpy value(s) (experimental 1).
 
 Systems: [C–Pu](https://data.orchid-project.org/systems/C-PU.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PuC0.81 reported in the literature (2)
+Table: Enthalpy of formation of PuC0.81 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -21.76 kJ/mol (basis unstated) | C0.81Pu | 298.15 | experimental | Calorimetric bomb | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lorenzelli 1971_ [doi](https://doi.org/10.1016/0022-1902%2871%2980650-4) | Table 1, p. 3, row 6 |  |
-| -21.76 kJ/mol (basis unstated) | C₀.₈₁Pu | 298.15 | experimental | Calorimetric bomb | [C–Pu](https://data.orchid-project.org/systems/C-PU.html) | [1] Fischer 2008; _cites Lorenzelli 1971_ [doi](https://doi.org/10.1016/0022-1902%2871%2980650-4) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

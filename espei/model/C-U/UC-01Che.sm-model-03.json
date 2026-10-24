@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_U": [
    0.4
   ]
@@ -55,6 +55,7 @@
   },
   "model_reproduction": null
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 1.0,
  "bibtex": "chevalier2001_2713c9",
  "orchid": {
@@ -67,7 +68,7 @@
     "paper": "doi:10.1016/s0022-3115(00)00713-3",
     "measured_in": "doi:10.1016/s0022-3115(00)00713-3",
     "also_read_as": [
-     "ORC-UNF7OOFKO7.757506"
+     "ORC-UNF7OOFKO7.c8876c"
     ]
    }
   ],

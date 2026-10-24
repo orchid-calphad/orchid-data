@@ -52929,7 +52929,7 @@
      "detail": "MgZn-92Aga.tdb: 'Prototype Mg51Zn20 (oI158, Immm)'"
     }
    ],
-   "literature_values": 3
+   "literature_values": 0
   },
   {
    "id": "phase:mg-zn:mgzn",
@@ -52960,7 +52960,7 @@
      "detail": "MgZn-92Aga.tdb: 'Prototype Re25Zr21 (hR92, R-3c)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 0
   },
   {
    "id": "phase:mn-ni:fcc-4sl",
@@ -56203,7 +56203,7 @@
      "detail": "Hallstedt 2025 mmc2 row for NA2O2_II: Na2O2-II"
     }
    ],
-   "literature_values": 6
+   "literature_values": 5
   },
   {
    "id": "phase:na-si:nasi-ht",
@@ -56392,7 +56392,7 @@
      "pearson": "?",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 17
+     "count": 8
     },
     {
      "source": "sgte_mmc2",
@@ -56404,7 +56404,7 @@
      "detail": "Hallstedt 2025 mmc2 row for NASN_HT: NaSn (high T)"
     }
    ],
-   "literature_values": 17
+   "literature_values": 8
   },
   {
    "id": "phase:na-sn:nasn4",
@@ -58152,7 +58152,7 @@
      "pearson": "cF16",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 54
+     "count": 52
     },
     {
      "source": "name_token",
@@ -58179,7 +58179,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)"
     }
    ],
-   "literature_values": 54
+   "literature_values": 52
   },
   {
    "id": "phase:ni-sb:ni5sb2",
@@ -60553,7 +60553,7 @@
      "pearson": "cF96",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 15
+     "count": 12
     },
     {
      "source": "sgte_mmc2",
@@ -60724,7 +60724,7 @@
      "detail": "NiTi-99Tan.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'"
     }
    ],
-   "literature_values": 23
+   "literature_values": 20
   },
   {
    "id": "phase:ni-u:ni3u",
@@ -61452,7 +61452,7 @@
      "detail": "Hallstedt 2025 mmc2 row for NIYB_HT: NiYb (high T)"
     }
    ],
-   "literature_values": 2
+   "literature_values": 3
   },
   {
    "id": "phase:ni-zn:ni2zn15",
@@ -65111,7 +65111,7 @@
      "detail": "ZnP-16Liu.tdb: 'prototype Zn3P2 (tP40, P4_2/nmc, D5_9), low T'"
     }
    ],
-   "literature_values": 14
+   "literature_values": 21
   },
   {
    "id": "phase:p-zn:zn3p2-ht",

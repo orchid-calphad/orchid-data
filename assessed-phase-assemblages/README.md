@@ -25,11 +25,11 @@ Points by basis:
 | basis | points |
 |---|---|
 | deterministic_adjacency | 8,035 |
-| reader_consensus | 6,795 |
+| reader_consensus | 6,794 |
 | deterministic_printed_label | 3,206 |
 | adjudicator | 2,803 |
 | deterministic_phase_rules | 2,186 |
-| expert_reviewed | 86 |
+| expert_reviewed | 87 |
 | dft_hull_corroborated | 20 |
 
 Fields without a point, by reason:

@@ -1,10 +1,10 @@
 # Fe–U system
 
-> Fe–U system: 104 accepted literature values (formation 51, invariant reaction 34, crystal structure 12, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–U system: 87 accepted literature values (formation 34, invariant reaction 34, crystal structure 12, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-U.html · Markdown: https://data.orchid-project.org/systems/FE-U.md
 
-104 accepted literature values from 2 paper(s) (experimental 39, model 51, unspecified 14); 4 calculated phase diagram(s).
+87 accepted literature values from 2 paper(s) (experimental 39, model 34, unspecified 14); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-U.json) · [CSV](https://data.orchid-project.org/systems/FE-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-U/FeU-03Cha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-U.html) · [Markdown](https://data.orchid-project.org/systems/FE-U.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 39 |
-| model | 51 |
+| model | 34 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | phase transition | 5 |
-| formation | 51 |
+| formation | 34 |
 | activity / EMF / Gibbs energy | 2 |
 | crystal structure | 12 |
 
@@ -139,49 +139,32 @@ Table: Invariant reactions reported in the literature for the Fe–U system (34)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–U system (39)
+Table: Enthalpies of formation, Fe–U system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -10.739 kJ/mol (basis unstated) | 298 | experimental |  |  | [1] Chatain 2003 | p. 3 | “The enthalpy values calculated from Kanno's (or Yoshihara) and Gardie's Gibbs energies are much more negative than the value of Akhachinsky (or Ivanov), ⌬H 0 f(298 K) ⳱ -10.739 kJ/mol, with respectively, ⌬H0f(298 K) ⳱ -23.54 kJ/mol and -15.025 kJ/mol.” |
-| — |  | -6.75 unspecified ± 1.3 | 298 | experimental |  |  | [1] Chatain 2003; _cites Labroche 2000_ | p. 3 | “For 1 mol Fe0.143U0.857, ⌬H0f (298 K) ⳱ (-6.75 ± 1.3) kJ/mol.” |
-| Fe0.143U0.857 |  | -26.438 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
-| Fe0.143U0.857 |  | -21.343 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
+| — |  | -10.739 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Chatain 2003 | p. 3 | “The enthalpy values calculated from Kanno's (or Yoshihara) and Gardie's Gibbs energies are much more negative than the value of Akhachinsky (or Ivanov), ⌬H 0 f(298 K) ⳱ -10.739 kJ/mol, with respectively, ⌬H0f(298 K) ⳱ -23.54 kJ/mol and -15.025 kJ/mol.” |
+| — |  | -6.75 unspecified ± 1.3 | 298.15 | experimental |  |  | [1] Chatain 2003; _cites Labroche 2000_ | p. 3 | “For 1 mol Fe0.143U0.857, ⌬H0f (298 K) ⳱ (-6.75 ± 1.3) kJ/mol.” |
 | Fe0.143U0.857 |  | -20.931 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
 | Fe0.143U0.857 |  | -7.312 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
-| Fe0.143U0.857 |  | -6.75 kJ/mol (basis unstated) ± 1.3 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
 | Fe0.143U0.857 |  | -2.33 kJ/mol (basis unstated) ± 0.72 | 298.15 | model |  |  | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
-| Fe0.66U0.33 |  | -34.112 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 14 |  |
 | Fe0.66U0.33 |  | -30.08 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 15 |  |
-| Fe0.66U0.33 |  | -25.314 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 13 |  |
-| Fe0.66U0.33 |  | -23.54 kJ/mol (basis unstated) ± 0.45 | 298.15 | model |  |  | [1] Chatain 2003; _cites Kanno 1974_ | Table 7, p. 8, row 10 |  |
 | Fe0.66U0.33 |  | -20.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Campbell 1977_ [doi](https://doi.org/10.1007/bf02642864) | Table 7, p. 8, row 8 |  |
-| Fe0.66U0.33 |  | -16.922 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 11 |  |
 | Fe0.66U0.33 |  | -16.3 kJ/mol (basis unstated) ± 0.6 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 5 |  |
 | Fe0.66U0.33 |  | -15.886 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 6 |  |
-| Fe0.66U0.33 |  | -15.025 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 7, p. 8, row 12 |  |
 | Fe0.66U0.33 |  | -14.01 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 7, p. 8, row 7 |  |
 | Fe0.66U0.33 |  | -10.739 kJ/mol (basis unstated) ± 0.42 | 298.15 | model |  |  | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 7, p. 8, row 9 |  |
 | Fe2U |  | -34.112 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 14 |  |
-| Fe2U |  | -30.08 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 15 |  |
 | Fe2U |  | -25.314 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 13 |  |
 | Fe2U |  | -23.54 kJ/mol (basis unstated) ± 0.45 | 298.15 | model |  |  | [1] Chatain 2003; _cites Kanno 1974_ | Table 7, p. 8, row 10 |  |
-| Fe2U |  | -20.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Campbell 1977_ [doi](https://doi.org/10.1007/bf02642864) | Table 7, p. 8, row 8 |  |
 | Fe2U |  | -16.922 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 11 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3 |  |
-| Fe2U |  | -16.3 kJ/mol (basis unstated) ± 0.6 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 5 |  |
-| Fe2U |  | -15.886 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 6 |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -16.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Labroche 2000_ | Table 3, p. 3, row 3 |  |
 | Fe2U |  | -15.025 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Gardie 1992_ [doi](https://doi.org/10.1016/0022-3115%2892%2990422-h) | Table 7, p. 8, row 12 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2 |  |
-| Fe2U |  | -14.01 kJ/mol (basis unstated) ± 1.8 | 298.15 | model |  |  | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 7, p. 8, row 7 |  |
-| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1 |  |
-| Fe2U |  | -10.739 kJ/mol (basis unstated) ± 0.42 | 298.15 | model |  |  | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 7, p. 8, row 9 |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -14.01 kJ/mol-atom ± 1.8 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Antony 1996_ [doi](https://doi.org/10.1016/0022-3115%2895%2900164-6) | Table 3, p. 3, row 2 |  |
+| Fe2U | [Fe2U](https://data.orchid-project.org/compounds/Fe2U.html) | -10.74 kJ/mol-atom ± 0.42 | 298.15 | experimental | -9.82 (mp-aaaabfdq) | -8.017 (oqmd-19298) | [1] Chatain 2003; _cites Akhachinskiy 1962_ | Table 3, p. 3, row 1 |  |
 | FeU6 |  | -26.438 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
 | FeU6 |  | -21.343 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
-| FeU6 |  | -20.931 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
-| FeU6 |  | -7.312 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
 | FeU6 |  | -6.75 kJ/mol (basis unstated) ± 1.3 | 298.15 | model |  |  | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
-| FeU6 |  | -2.33 kJ/mol (basis unstated) ± 0.72 | 298.15 | model |  |  | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
 
 ## Other properties
 

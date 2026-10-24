@@ -1,10 +1,10 @@
 # Cr–Nb–Ta system
 
-> Cr–Nb–Ta system: 117 accepted literature values (crystal structure 72, formation 45) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb–Ta system: 111 accepted literature values (crystal structure 72, formation 39) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB-TA.html · Markdown: https://data.orchid-project.org/systems/CR-NB-TA.md
 
-117 accepted literature values from 1 paper(s) (experimental 15, model 8, DFT 91, unspecified 3); 0 calculated phase diagram(s).
+111 accepted literature values from 1 paper(s) (experimental 15, model 8, DFT 85, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB-TA.json) · [CSV](https://data.orchid-project.org/systems/CR-NB-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB-TA.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB-TA.md)
 
@@ -14,21 +14,21 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 15 |
 | model | 8 |
-| DFT | 91 |
+| DFT | 85 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 45 |
+| formation | 39 |
 | crystal structure | 72 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Nb–Ta system (45)
+Table: Enthalpies of formation, Cr–Nb–Ta system (39)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -46,8 +46,6 @@ Table: Enthalpies of formation, Cr–Nb–Ta system (45)
 | C14 |  | 15.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 4 |  |
 | C14 |  | 27.8 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 2 |  |
 | C14 |  | 28.63 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 1 |  |
-| C14 |  | 76.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 2 |  |
-| C14 |  | 76.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 1 |  |
 | C15 |  | -33.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 9, p. 6, row 12 |  |
 | C15 |  | -31.646 kJ/mol (basis unstated) | 2000 | model |  |  | [1] Pavlů 2009 | Table 9, p. 6, row 11 |  |
 | C15 |  | -26.903 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 9, p. 6, row 10 |  |
@@ -62,13 +60,9 @@ Table: Enthalpies of formation, Cr–Nb–Ta system (45)
 | C15 |  | 16.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 10 |  |
 | C15 |  | 26.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 3, p. 3, row 8 |  |
 | C15 |  | 27.29 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 7 |  |
-| C15 |  | 74.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 4 |  |
-| C15 |  | 75.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 3 |  |
 | C36 |  | 10.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 15 |  |
 | C36 |  | 15.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 14 |  |
 | C36 |  | 27.75 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 3, p. 3, row 13 |  |
-| C36 |  | 75.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 6 |  |
-| C36 |  | 76.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 5 |  |
 | Cr2Nb C14 |  | -7 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Pavlů 2009; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 4, p. 4, row 4 |  |
 | Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 0 | experimental |  |  | [1] Pavlů 2009; _cites Feschotte 1941_ | Table 4, p. 4, row 5 |  |
 | CrNb2 (C14) |  | 76.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Pavlů 2009 | Table 5, p. 4, row 1 |  |

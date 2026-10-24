@@ -16,10 +16,10 @@ Table: Enthalpy of formation of Bi2Rb3 reported in the literature (9)
 |---:|---|---:|---|---|---|---|---|---|
 | -40.5 kJ/mol-atom | Bi2Rb3 | 298.15 | experimental | EMF | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 20 |  |
 | -36.4 kJ/mol-atom ± 2 | Bi2Rb3 | 298.15 | experimental | Vapor Pressure Measurements | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 17 |  |
-| -36.4 per mol-atom ± 2 | Bi2Rb3 | 298 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
+| -36.4 per mol-atom ± 2 | Bi2Rb3 | 298.15 | experimental |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
 | -41.735 kJ/mol-atom | Bi2Rb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 4, p. 7, row 18 |  |
 | -41.6 kJ/mol-atom | Bi2Rb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 19 |  |
-| -41.6 per mol-atom | Bi2Rb3 | 298 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
+| -41.6 per mol-atom | Bi2Rb3 | 298.15 | model |  | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
 | -36.598 kJ/mol-atom | Bi2Rb3 |  | model | Calphad | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 21 |  |
 | -35.709 kJ/mol-atom | Bi2Rb3 | 0 | DFT | Ab-initio LDA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 23 |  |
 | -34.913 kJ/mol-atom | Bi2Rb3 | 0 | DFT | Ab-initio GGA | [Bi–Rb](https://data.orchid-project.org/systems/BI-RB.html) | [1] Dziri 2022 | Table 4, p. 7, row 22 |  |
@@ -30,10 +30,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Bi2Rb3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacqrwt | -29.396 | -0.304667 | C2/c | 2.688 | yes |
-| OQMD | oqmd-1435540 | -31.006 | -0.321351 | C2/c | 3.281 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacqrwt | -29.396 | -0.304667 | C2/c | 2.688 | 0.0279 | yes |
+| OQMD | oqmd-1435540 | -31.006 | -0.321351 | C2/c | 3.281 | 0.034 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

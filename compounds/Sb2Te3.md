@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Sb2Te3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.9 kJ/mol-atom | Sb2Te3 | 298 | experimental |  | [Sb–Te](https://data.orchid-project.org/systems/SB-TE.html) | [1] Guo 2014; _cites Ya 1961_ | Table III, p. 7, row 4 |  |
-| -12.33 kJ/mol-atom | Sb2Te3 | 298 | experimental |  | [Sb–Te](https://data.orchid-project.org/systems/SB-TE.html) | [1] Guo 2014; _cites Vecher 1974_ | Table III, p. 7, row 5 |  |
+| -14.9 kJ/mol-atom | Sb2Te3 | 298.15 | experimental |  | [Sb–Te](https://data.orchid-project.org/systems/SB-TE.html) | [1] Guo 2014; _cites Ya 1961_ | Table III, p. 7, row 4 |  |
+| -12.33 kJ/mol-atom | Sb2Te3 | 298.15 | experimental |  | [Sb–Te](https://data.orchid-project.org/systems/SB-TE.html) | [1] Guo 2014; _cites Vecher 1974_ | Table III, p. 7, row 5 |  |
 
 ## DFT formation energies
 
@@ -23,10 +23,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Sb2Te3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabuf | -36.973 | -0.3832 | R-3m | 0 | no |
-| OQMD | oqmd-643311 | -12.393 | -0.128448 | R-3m | 0.158 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabuf | -36.973 | -0.3832 | R-3m | 0 | 0 | no |
+| OQMD | oqmd-643311 | -12.393 | -0.128448 | R-3m | 0.158 | 0.0016 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

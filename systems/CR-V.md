@@ -54,18 +54,18 @@ Table: Heat capacity / entropy / enthalpy, Cr–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S'298_ | 24.5 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
-| Entropy; _printed: S'298_ | 24.1 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
-| Entropy; _printed: S'298_ | 23.3 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
-| Entropy; _printed: S'298_ | 21.8 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
-| Entropy; _printed: S'298_ | 30.6 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
-| Entropy; _printed: S'298_ | 26.7 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.58 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.35 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.56 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
-| Heat capacity; _printed: Cp, 298_ | 23.11 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
-| Heat capacity; _printed: Cp, 298_ | 25.13 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
-| Heat capacity; _printed: Cp, 298_ | 24.48 J/mol-atom/K | 298 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
+| Entropy; _printed: S'298_ | 24.5 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
+| Entropy; _printed: S'298_ | 24.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
+| Entropy; _printed: S'298_ | 23.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
+| Entropy; _printed: S'298_ | 21.8 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
+| Entropy; _printed: S'298_ | 30.6 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
+| Entropy; _printed: S'298_ | 26.7 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
+| Heat capacity; _printed: Cp, 298_ | 23.58 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.95, V 0.05_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 6 |  |
+| Heat capacity; _printed: Cp, 298_ | 23.35 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.74, V 0.26_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 3 |  |
+| Heat capacity; _printed: Cp, 298_ | 23.56 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.8, V 0.2_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 4 |  |
+| Heat capacity; _printed: Cp, 298_ | 23.11 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.9, V 0.1_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 5 |  |
+| Heat capacity; _printed: Cp, 298_ | 25.13 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.23, V 0.77_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 1 |  |
+| Heat capacity; _printed: Cp, 298_ | 24.48 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Cr 0.5, V 0.5_ | experimental | [1] Smith 1982; _cites ref. 66Sch_ | Table I, p. 4, row 2 |  |
 
 ## Sources
 

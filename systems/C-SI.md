@@ -44,15 +44,15 @@ Table: Heat capacity / entropy / enthalpy, C–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017 | Table 5, p. 8, row 28 |  |
-| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.2 | 298 | SiC; _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24 |  |
-| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27 |  |
-| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25 |  |
-| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26 |  |
-| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.08 | 298 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15 |  |
-| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.13 | 298 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22 |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.08 | 298 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16 |  |
-| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.13 | 298 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23 |  |
+| Entropy; _printed: S°298K_ | 8.5 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017 | Table 5, p. 8, row 28 |  |
+| Entropy; _printed: S°298K_ | 8.25 J/mol-atom/K ± 0.2 | 298.15 | SiC; _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Kubaschewski 1993_ | Table 5, p. 8, row 24 |  |
+| Entropy; _printed: S°298K_ | 8.35 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Paek 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.02.007) | Table 5, p. 8, row 27 |  |
+| Entropy; _printed: S°298K_ | 8.3 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Lacaze 1991_ [doi](https://doi.org/10.1007/bf02664987) | Table 5, p. 8, row 25 |  |
+| Entropy; _printed: S°298K_ | 8.45 J/mol-atom/K | 298.15 | SiC; _alloy: Si 0.5_ | model | [3] Liang 2017; _cites Gro 1996_ | Table 5, p. 8, row 26 |  |
+| Entropy; _printed: S°298K_ | 8.24 J/mol-atom/K ± 0.08 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 15 |  |
+| Entropy; _printed: S°298K_ | 8.2425 J/mol-atom/K ± 0.13 | 298.15 | αSiC(Hex); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 22 |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.08 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | experimental | [3] Liang 2017; _cites Humphrey 1952_ | Table 5, p. 8, row 16 |  |
+| Entropy; _printed: S°298K_ | 8.305 J/mol-atom/K ± 0.13 | 298.15 | βSiC(Cubic); _alloy: Si 0.5_ | unspecified | [3] Liang 2017; _cites Chase 1998_ | Table 5, p. 8, row 23 |  |
 
 ## Sources
 

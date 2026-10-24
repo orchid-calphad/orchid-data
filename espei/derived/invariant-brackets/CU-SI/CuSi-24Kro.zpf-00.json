@@ -15,8 +15,6 @@
   "P": 101325,
   "T": [
    1132.15,
-   1122.15,
-   1102.15,
    1064.15,
    1044.15,
    1018.15
@@ -59,73 +57,6 @@
     ],
     [
      0.151
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "SI"
-    ],
-    [
-     0.145
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.115
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.135
-    ]
-   ]
-  ],
-  [
-   [
-    "HCP_A3",
-    [
-     "SI"
-    ],
-    [
-     0.125
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.115
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.135
     ]
    ]
   ],
@@ -234,7 +165,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SI/CuSi-24Kro.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-55GXGDRP4P ORC-CY3HAK6FIQ ORC-FHNJB36QZN ORC-OYSMCQJ6TG",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SI/CuSi-24Kro.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-55GXGDRP4P ORC-CY3HAK6FIQ ORC-OYSMCQJ6TG",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-SI/CuSi-24Kro.zpf-00.json",
@@ -258,44 +189,6 @@
     ],
     "phases_below": [
      "BCC_A2"
-    ]
-   },
-   {
-    "source_observation": "ORC-FHNJB36QZN",
-    "side": "above",
-    "T_invariant_K": 1112.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.125,
-    "hyperplane_delta": 0.009999999999999995,
-    "reaction_printed": "(Cu) + β(CuSi) -> κ(CuSi)",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "FCC_A1",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "HCP_A3"
-    ]
-   },
-   {
-    "source_observation": "ORC-FHNJB36QZN",
-    "side": "below",
-    "T_invariant_K": 1112.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.125,
-    "hyperplane_delta": 0.009999999999999995,
-    "reaction_printed": "(Cu) + β(CuSi) -> κ(CuSi)",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "FCC_A1",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "HCP_A3"
     ]
    },
    {

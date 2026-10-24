@@ -15,9 +15,7 @@
    812.75,
    811.9,
    1290.0,
-   449.0,
-   1480.15,
-   1478.15
+   449.0
   ]
  },
  "output": "ZPF",
@@ -87,38 +85,15 @@
      0.2
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     0.8
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     0.6
-    ]
-   ]
   ]
  ],
  "reference": "Feutelais 1997, doi:10.1007/bf02646758",
  "tags": [
   "experimental",
   "phase_compositions_table",
-  "single_reader_text_layer",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6F73EV4LO6 ORC-2G3VRFM6PV ORC-TI672BJITT ORC-C4XXFWCGEJ ORC-FIS6W7U2Y3 ORC-FMG43J7RA2 ORC-ROGPKDK5DL ORC-3VISAA4G4G",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-6F73EV4LO6 ORC-2G3VRFM6PV ORC-TI672BJITT ORC-C4XXFWCGEJ ORC-FIS6W7U2Y3 ORC-FMG43J7RA2",
  "bibtex": "feutelais1997_ec7fc6",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -159,18 +134,6 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/bf02646758",
     "measured_in": "doi:10.1007/bf02646758"
-   },
-   {
-    "id": "ORC-ROGPKDK5DL",
-    "reader_agreement": "single_reader_text_layer",
-    "paper": "doi:10.1007/bf02646758",
-    "measured_in": "doi:10.1007/bf02646758"
-   },
-   {
-    "id": "ORC-3VISAA4G4G",
-    "reader_agreement": "single_reader_text_layer",
-    "paper": "doi:10.1007/bf02646758",
-    "measured_in": "doi:10.1007/bf02646758"
    }
   ],
   "papers": [
@@ -179,7 +142,8 @@
   "dois": [
    "10.1007/bf02646758"
   ],
-  "source_dataset": "db-v2.1/general/espei/ZnTe-97Feu-LB/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/ZnTe-97Feu-LB/zpf-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -207,14 +171,6 @@
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
     "temperature_sigma_K": 393.1,
     "temperature_sigma_basis": "printed_range (half-width)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    },
    {
     "sigma": null,
@@ -259,16 +215,6 @@
    },
    {
     "id": "ORC-FMG43J7RA2",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-ROGPKDK5DL",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-3VISAA4G4G",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

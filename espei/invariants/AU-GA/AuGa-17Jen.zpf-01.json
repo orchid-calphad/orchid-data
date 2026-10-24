@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AU7GA2_HT",
   "AU8GA",
   "AUGA2_C1",
   "AUGA_B31",
@@ -16,7 +15,6 @@
   "P": 101325,
   "T": [
    688,
-   683,
    722
   ]
  },
@@ -48,44 +46,6 @@
     ],
     [
      0.1111111111111111
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "GA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AU8GA",
-    [
-     "GA"
-    ],
-    [
-     0.1111111111111111
-    ]
-   ],
-   [
-    "AU7GA2_HT",
-    [
-     "GA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GA"
-    ],
-    [
-     0.1666666665
     ]
    ]
   ],
@@ -136,7 +96,7 @@
   "orchid",
   "calphad_certified"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-25VBOIBYDT ORC-USEV7QELCQ ORC-L2LXZERJ3K",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-25VBOIBYDT ORC-L2LXZERJ3K",
  "bibtex": "cooke1966_87489d",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -147,26 +107,6 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s11669-017-0543-x",
     "measured_in": "doi:10.1016/0022-5088(66)90044-0"
-   },
-   {
-    "id": "ORC-USEV7QELCQ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11669-017-0543-x",
-    "measured_in": "doi:10.1016/0022-5088(66)90044-0",
-    "also_reported_as": [
-     {
-      "id": "ORC-W4SIOXCY2P",
-      "paper": "doi:10.1007/s11669-017-0543-x",
-      "measured_in": "doi:10.1016/0925-8388(95)01606-6",
-      "dataset": "invariants/AU-GA/AuGa-17Jen.zpf-02.json"
-     },
-     {
-      "id": "ORC-VH5P2COX2T",
-      "paper": "doi:10.1007/s11669-017-0543-x",
-      "measured_in": "doi:10.1016/j.jallcom.2010.08.044",
-      "dataset": "invariants/AU-GA/AuGa-17Jen.zpf-04.json"
-     }
-    ]
    },
    {
     "id": "ORC-L2LXZERJ3K",
@@ -188,16 +128,12 @@
    "10.1016/j.jallcom.2010.08.044"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AuGa-17Jen/zpf-01.json",
-  "values_dropped": 7,
+  "values_dropped": 8,
   "e3_merged": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -217,15 +153,10 @@
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": true,
-  "n_certified": 3,
+  "n_certified": 2,
   "values": [
    {
     "id": "ORC-25VBOIBYDT",
-    "espei_certified": true,
-    "calphad_check": "agrees"
-   },
-   {
-    "id": "ORC-USEV7QELCQ",
     "espei_certified": true,
     "calphad_check": "agrees"
    },

@@ -121,22 +121,22 @@ Table: Enthalpies of formation, Au–Sb system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -5.40955 kJ/mol (basis unstated) | 298 | model |  |  | [5] Wang 2011 | p. 5 | “The enthalpy of formation of AuSb2 referred to fcc A1(Au) and rhombohedral A7(Sb) at 298 K is calculated to be -5409.55 J/mol, which agrees well with the experimental values measured by Hayer and Castanet \[41\] (-5400 ± 600 J/mol) as well as the assessed values by Liu et al. \[20\] (-4962 J/mol) and Kim et al. \[32\] (-5500 J/mol).” |
+| — |  | -5.40955 kJ/mol (basis unstated) | 298.15 | model |  |  | [5] Wang 2011 | p. 5 | “The enthalpy of formation of AuSb2 referred to fcc A1(Au) and rhombohedral A7(Sb) at 298 K is calculated to be -5409.55 J/mol, which agrees well with the experimental values measured by Hayer and Castanet \[41\] (-5400 ± 600 J/mol) as well as the assessed values by Liu et al. \[20\] (-4962 J/mol) and Kim et al. \[32\] (-5500 J/mol).” |
 | — |  | -4.895 kJ/mol-atom | 363 | experimental |  |  | [1] Chevalier 1989; _cites Biltz 1974_ | p. 3 | “The heat of formation of the intermetallic compound AuSb, referred to the pure solid components was measured calorimetrically by: Jena and Bever \[16\], T = 273 K, AH = - 4351 J (g at.))'; by Kleppa \[17\], T = 723 K, AH = - 3138 J (g at.)-'; and by Biltz et al. \[18\], T = 363 K, AH = - 4895 J (g at.))'.” |
 | — |  | -4.351 kJ/mol-atom | 273 | experimental |  |  | [1] Chevalier 1989; _cites Jena 1968_ | p. 3 | “The heat of formation of the intermetallic compound AuSb, referred to the pure solid components was measured calorimetrically by: Jena and Bever \[16\], T = 273 K, AH = - 4351 J (g at.))'; by Kleppa \[17\], T = 723 K, AH = - 3138 J (g at.)-'; and by Biltz et al. \[18\], T = 363 K, AH = - 4895 J (g at.))'.” |
 | — |  | -3.138 kJ/mol-atom | 723 | experimental |  |  | [1] Chevalier 1989; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a006) | p. 3 | “The heat of formation of the intermetallic compound AuSb, referred to the pure solid components was measured calorimetrically by: Jena and Bever \[16\], T = 273 K, AH = - 4351 J (g at.))'; by Kleppa \[17\], T = 723 K, AH = - 3138 J (g at.)-'; and by Biltz et al. \[18\], T = 363 K, AH = - 4895 J (g at.))'.” |
-| AuSb2 |  | -6.364 kJ/mol (basis unstated) | 298 | model |  |  | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 5 |  |
-| AuSb2 |  | -6.364 kJ/mol (basis unstated) | 298 | model |  |  | [3] Gierlotka 2013; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 2, p. 2, row 3 |  |
-| AuSb2 |  | -5.54 kJ/mol (basis unstated) | 298 | model |  |  | [3] Gierlotka 2013; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 2, p. 2, row 6 |  |
-| AuSb2 |  | -5.5 kJ/mol (basis unstated) | 298 | model |  |  | [3] Gierlotka 2013; _cites Kim 2002_ [doi](https://doi.org/10.1007/s11664-002-0125-4) | Table 2, p. 2, row 5 |  |
-| AuSb2 |  | -5.41 kJ/mol (basis unstated) | 298 | model |  |  | [3] Gierlotka 2013; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 2, p. 2, row 2 |  |
-| AuSb2 |  | -5.41 kJ/mol (basis unstated) | 298 | model |  |  | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 4 |  |
-| AuSb2 |  | -5.4 kJ/mol (basis unstated) ± 0.6 | 298 | experimental |  |  | [3] Gierlotka 2013; _cites Hayer 1995_ | Table 2, p. 2, row 4 |  |
-| AuSb2 |  | -5.148 kJ/mol (basis unstated) | 298 | model |  |  | [3] Gierlotka 2013 | Table 2, p. 2, row 7 |  |
+| AuSb2 |  | -6.364 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 5 |  |
+| AuSb2 |  | -6.364 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gierlotka 2013; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 2, p. 2, row 3 |  |
+| AuSb2 |  | -5.54 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gierlotka 2013; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 2, p. 2, row 6 |  |
+| AuSb2 |  | -5.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gierlotka 2013; _cites Kim 2002_ [doi](https://doi.org/10.1007/s11664-002-0125-4) | Table 2, p. 2, row 5 |  |
+| AuSb2 |  | -5.41 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gierlotka 2013; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 2, p. 2, row 2 |  |
+| AuSb2 |  | -5.41 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Kim 2002; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table III, p. 4, row 4 |  |
+| AuSb2 |  | -5.4 kJ/mol (basis unstated) ± 0.6 | 298.15 | experimental |  |  | [3] Gierlotka 2013; _cites Hayer 1995_ | Table 2, p. 2, row 4 |  |
+| AuSb2 |  | -5.148 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gierlotka 2013 | Table 2, p. 2, row 7 |  |
 | AuSb2 |  | -4.9 kJ/mol (basis unstated) | 363 | experimental |  |  | [2] Kim 2002; _cites Biltz 1934_ [doi](https://doi.org/10.1002/zaac.19342200202) | Table III, p. 4, row 1 |  |
 | AuSb2 |  | -4.9 kJ/mol (basis unstated) | 363 | experimental |  |  | [3] Gierlotka 2013; _cites Blitz 1934_ | Table 2, p. 2, row 8 |  |
-| AuSb2 |  | -4.35 kJ/mol (basis unstated) ± 0.13 | 298 | experimental |  |  | [2] Kim 2002; _cites Jena 1968_ | Table III, p. 4, row 2 |  |
-| AuSb2 |  | -4.35 kJ/mol (basis unstated) ± 0.13 | 298 | experimental |  |  | [3] Gierlotka 2013; _cites Jena 1968_ | Table 2, p. 2, row 1 |  |
+| AuSb2 |  | -4.35 kJ/mol (basis unstated) ± 0.13 | 298.15 | experimental |  |  | [2] Kim 2002; _cites Jena 1968_ | Table III, p. 4, row 2 |  |
+| AuSb2 |  | -4.35 kJ/mol (basis unstated) ± 0.13 | 298.15 | experimental |  |  | [3] Gierlotka 2013; _cites Jena 1968_ | Table 2, p. 2, row 1 |  |
 | AuSb2 |  | -3.14 kJ/mol (basis unstated) | 723 | experimental |  |  | [2] Kim 2002; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a006) | Table III, p. 4, row 3 |  |
 | AuSb2 |  | -3.14 kJ/mol (basis unstated) | 723 | experimental |  |  | [3] Gierlotka 2013; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a006) | Table 2, p. 2, row 9 |  |
 

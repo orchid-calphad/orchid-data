@@ -876,7 +876,7 @@
 {"id":"aspa-d648bc486f849807","diagram":"AU-LI-p123","field":12,"reason":"phase without TDB name in the registry","phases":["(βLi)","Au4Li15"]}
 {"id":"aspa-6764fd0f579c11e6","diagram":"AU-LI-p123","field":13,"reason":"phase without TDB name in the registry","phases":["Au4Li15","L"]}
 {"id":"aspa-b1387e85373a36ba","diagram":"AU-LI-p123","field":14,"reason":"phase without TDB name in the registry","phases":["L"]}
-{"id":"aspa-2c7a41124bab6564","diagram":"AU-LI-p123","field":15,"reason":"phase without TDB name in the registry","phases":["β’2","δ2"]}
+{"id":"aspa-2c7a41124bab6564","diagram":"AU-LI-p123","field":15,"reason":"phase without TDB name in the registry","phases":["β’","δ2"]}
 {"id":"aspa-b3c5ba22da667b8f","diagram":"AU-LI-p123","field":16,"reason":"phase without TDB name in the registry","phases":["δ2"]}
 {"id":"aspa-8379f901bf3787ea","diagram":"AU-LI-p123","field":17,"reason":"phase without TDB name in the registry","phases":["AuLi3","L"]}
 {"id":"aspa-c7ff79f36475ab02","diagram":"AU-LI-p123","field":18,"reason":"phase without TDB name in the registry","phases":["Au5Li4","β’2"]}

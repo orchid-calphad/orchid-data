@@ -32,7 +32,7 @@ Table: Enthalpies of formation, C–Si–Y system (57)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
+| UNKNOWN | [Y2C](https://data.orchid-project.org/compounds/Y2C.html) | 31.8 kJ/mol-atom ± 1.3 | 298.15 | experimental | -28.155 (mp-aaaaabzi) | -28.729 (oqmd-4155) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 31 |  |
 | Y1.8Si0.2C2.7 |  | -26.6 kJ/mol-atom | 0 | DFT |  |  | [1] Xu 2019 | Table 3, p. 3, row 25 |  |
 | Y15C19 (H) | [Y15C19](https://data.orchid-project.org/compounds/Y15C19.html) | -43.77 kJ/mol-atom |  | model | -29.637 (mp-aaacqitm) |  | [1] Xu 2019 | Table 3, p. 3, row 20 |  |
 | Y15C19 (R) | [Y15C19](https://data.orchid-project.org/compounds/Y15C19.html) | -45.64 kJ/mol-atom |  | model | -29.637 (mp-aaacqitm) |  | [1] Xu 2019 | Table 3, p. 3, row 21 |  |

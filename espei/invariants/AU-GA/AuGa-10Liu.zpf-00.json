@@ -400,7 +400,15 @@
     "id": "ORC-KBLQBNYNBA",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2010.08.044",
-    "measured_in": "doi:10.1016/0022-5088(66)90044-0"
+    "measured_in": "doi:10.1016/0022-5088(66)90044-0",
+    "also_reported_as": [
+     {
+      "id": "ORC-BKM47VDDS7",
+      "paper": "doi:10.1016/j.calphad.2010.10.009",
+      "measured_in": "doi:10.1016/0022-5088(66)90044-0",
+      "dataset": "invariants/AU-GA/AuGa-11Wan.zpf-00.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -418,7 +426,7 @@
    "10.1016/j.jallcom.2010.08.044"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AuGa-10Liu/zpf-00.json",
-  "e3_merged": 5,
+  "e3_merged": 6,
   "values_dropped": 2
  },
  "orchid_uncertainty": {

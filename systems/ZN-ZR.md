@@ -143,48 +143,48 @@ Table: Enthalpies of formation, Zn–Zr system (42)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -18.4 kJ/mol-atom ± 0.8 | 298 | experimental | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 1 |  |
-| Zn22Zr |  | -6.66 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 2 |  |
-| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -6.03 kJ/mol-atom | 298 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 6 |  |
-| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -5.89 kJ/mol-atom | 298 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 4 |  |
-| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -5.84 kJ/mol-atom | 298 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 5 |  |
-| Zn22Zr |  | -5.57 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 3 |  |
-| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -49.3 kJ/mol-atom ± 1 | 298 | experimental | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 24 |  |
-| Zn2Zr |  | -31.76 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 25 |  |
-| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -31.31 kJ/mol-atom | 298 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 29 |  |
-| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -31.27 kJ/mol-atom | 298 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 27 |  |
-| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -30.07 kJ/mol-atom | 298 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 28 |  |
-| Zn2Zr |  | -27.91 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 26 |  |
-| Zn2Zr3 |  | -20.96 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
-| Zn2Zr3 | [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.html) | -19.35 kJ/mol-atom | 298 | model | -18.32 (mp-aaacqsdh) |  | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
-| Zn2Zr3 |  | -17.74 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
-| Zn39Zr |  | -31.7 kJ/mol-atom ± 0.8 | 298 | experimental |  |  | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
-| Zn39Zr |  | -18.06 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
-| Zn39Zr |  | -16.3 kJ/mol-atom | 298 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 11 |  |
-| Zn39Zr |  | -16.25 kJ/mol-atom | 298 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 12 |  |
-| Zn39Zr |  | -16.08 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
-| Zn39Zr |  | -15.98 kJ/mol-atom | 298 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 10 |  |
-| Zn3Zr, h |  | -23.65 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 19 |  |
-| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.75 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 22 |  |
-| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.57 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 23 |  |
-| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.41 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 21 |  |
-| Zn3Zr, h |  | -21.83 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 20 |  |
-| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -46.5 kJ/mol-atom ± 0.8 | 298 | experimental | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 13 |  |
-| Zn3Zr, l |  | -26.45 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 14 |  |
-| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.18 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 18 |  |
-| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.07 kJ/mol-atom | 298 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 17 |  |
-| Zn3Zr, l |  | -25.68 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 15 |  |
-| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -58.4 kJ/mol-atom ± 1.3 | 298 | experimental | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 30 |  |
-| ZnZr |  | -29.68 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 31 |  |
-| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -29.07 kJ/mol-atom | 298 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 34 |  |
-| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -28.62 kJ/mol-atom | 298 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 33 |  |
-| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -28.47 kJ/mol-atom | 298 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 35 |  |
-| ZnZr |  | -27.6 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 32 |  |
-| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -17.06 kJ/mol-atom | 298 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 44 |  |
-| ZnZr2 |  | -17.06 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 42 |  |
-| ZnZr2 |  | -16.97 kJ/mol-atom | 298 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 41 |  |
-| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -16.89 kJ/mol-atom | 298 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 43 |  |
-| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -16.85 kJ/mol-atom | 298 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 45 |  |
+| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -18.4 kJ/mol-atom ± 0.8 | 298.15 | experimental | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 1 |  |
+| Zn22Zr |  | -6.66 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 2 |  |
+| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -6.03 kJ/mol-atom | 298.15 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 6 |  |
+| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -5.89 kJ/mol-atom | 298.15 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 4 |  |
+| Zn22Zr | [Zn22Zr](https://data.orchid-project.org/compounds/Zn22Zr.html) | -5.84 kJ/mol-atom | 298.15 | model | -6.755 (mp-aaaabtsa) | -5.862 (oqmd-90927) | [1] Arroyave 2006 | Table 5, p. 8, row 5 |  |
+| Zn22Zr |  | -5.57 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 3 |  |
+| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -49.3 kJ/mol-atom ± 1 | 298.15 | experimental | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 24 |  |
+| Zn2Zr |  | -31.76 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 25 |  |
+| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -31.31 kJ/mol-atom | 298.15 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 29 |  |
+| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -31.27 kJ/mol-atom | 298.15 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 27 |  |
+| Zn2Zr | [Zn2Zr](https://data.orchid-project.org/compounds/Zn2Zr.html) | -30.07 kJ/mol-atom | 298.15 | model | -29.192 (mp-aaaaacbx) | -28.719 (oqmd-18188) | [1] Arroyave 2006 | Table 5, p. 8, row 28 |  |
+| Zn2Zr |  | -27.91 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 26 |  |
+| Zn2Zr3 |  | -20.96 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 36 |  |
+| Zn2Zr3 | [Zn2Zr3](https://data.orchid-project.org/compounds/Zn2Zr3.html) | -19.35 kJ/mol-atom | 298.15 | model | -18.32 (mp-aaacqsdh) |  | [1] Arroyave 2006 | Table 5, p. 8, row 38 |  |
+| Zn2Zr3 |  | -17.74 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 37 |  |
+| Zn39Zr |  | -31.7 kJ/mol-atom ± 0.8 | 298.15 | experimental |  |  | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 7 |  |
+| Zn39Zr |  | -18.06 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 8 |  |
+| Zn39Zr |  | -16.3 kJ/mol-atom | 298.15 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 11 |  |
+| Zn39Zr |  | -16.25 kJ/mol-atom | 298.15 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 12 |  |
+| Zn39Zr |  | -16.08 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 9 |  |
+| Zn39Zr |  | -15.98 kJ/mol-atom | 298.15 | model |  |  | [1] Arroyave 2006 | Table 5, p. 8, row 10 |  |
+| Zn3Zr, h |  | -23.65 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 19 |  |
+| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.75 kJ/mol-atom | 298.15 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 22 |  |
+| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.57 kJ/mol-atom | 298.15 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 23 |  |
+| Zn3Zr, h | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -22.41 kJ/mol-atom | 298.15 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 21 |  |
+| Zn3Zr, h |  | -21.83 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 20 |  |
+| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -46.5 kJ/mol-atom ± 0.8 | 298.15 | experimental | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 13 |  |
+| Zn3Zr, l |  | -26.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 14 |  |
+| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.18 kJ/mol-atom | 298.15 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 18 |  |
+| Zn3Zr, l | [Zn3Zr](https://data.orchid-project.org/compounds/Zn3Zr.html) | -26.07 kJ/mol-atom | 298.15 | model | -27.958 (mp-aaabxfkz) | -26.626 (oqmd-324277) | [1] Arroyave 2006 | Table 5, p. 8, row 17 |  |
+| Zn3Zr, l |  | -25.68 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 15 |  |
+| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -58.4 kJ/mol-atom ± 1.3 | 298.15 | experimental | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006; _cites Chiotti 1960_ | Table 5, p. 8, row 30 |  |
+| ZnZr |  | -29.68 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 31 |  |
+| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -29.07 kJ/mol-atom | 298.15 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 34 |  |
+| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -28.62 kJ/mol-atom | 298.15 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 33 |  |
+| ZnZr | [ZnZr](https://data.orchid-project.org/compounds/ZnZr.html) | -28.47 kJ/mol-atom | 298.15 | model | -27.71 (mp-aaabglps) | -27.234 (oqmd-116235) | [1] Arroyave 2006 | Table 5, p. 8, row 35 |  |
+| ZnZr |  | -27.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 32 |  |
+| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -17.06 kJ/mol-atom | 298.15 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 44 |  |
+| ZnZr2 |  | -17.06 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 42 |  |
+| ZnZr2 |  | -16.97 kJ/mol-atom | 298.15 | DFT |  |  | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 41 |  |
+| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -16.89 kJ/mol-atom | 298.15 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 43 |  |
+| ZnZr2 | [ZnZr2](https://data.orchid-project.org/compounds/ZnZr2.html) | -16.85 kJ/mol-atom | 298.15 | model | -17.135 (mp-aaacfybx) | -16.755 (oqmd-31125) | [1] Arroyave 2006 | Table 5, p. 8, row 45 |  |
 
 ## Other properties
 

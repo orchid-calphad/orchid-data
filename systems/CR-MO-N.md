@@ -32,9 +32,9 @@ Table: Enthalpies of formation, Cr–Mo–N system (5)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -58.6 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 6 |  |
 | CrN | [CrN](https://data.orchid-project.org/compounds/CrN.html) | -57.3 kJ/mol-atom |  | model | -66.723 (mp-aaacpjap) | -59.652 (oqmd-1229033) | [1] Frisk 1991 | Table I, p. 6, row 8 |  |
-| MoN | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -24.5 kJ/mol-atom | 298 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Frisk 1991 | Table I, p. 6, row 9 |  |
-| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
-| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 5 |  |
+| MoN | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -24.5 kJ/mol-atom | 298.15 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Frisk 1991 | Table I, p. 6, row 9 |  |
+| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | -43.1 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
+| ε(Cr2N) | [Cr2N](https://data.orchid-project.org/compounds/Cr2N.html) | 41.8 kJ/mol-atom | 298.15 | model | -48.833 (mp-aaaaamzs) | -43.69 (oqmd-12301) | [1] Frisk 1991; _cites Chase 1811_ | Table I, p. 6, row 5 |  |
 
 ## Other properties
 
@@ -44,9 +44,9 @@ Table: Formation, Cr–Mo–N system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropy of Formation_ | -42.6 J/mol-atom/K | 298 | CrN; _alloy: Mo 0, N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 11 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | -24.3 J/mol-atom/K | 298 | MoN; _alloy: Mo 0.5, N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 12 |  |
-| Entropy of formation; _printed: Entropy of Formation_ | -25.7 J/mol-atom/K | 298 | ε(Cr2N); _alloy: Mo 0, N 0.333333_ | model | [1] Frisk 1991 | Table I, p. 6, row 10 |  |
+| Entropy of formation; _printed: Entropy of Formation_ | -42.6 J/mol-atom/K | 298.15 | CrN; _alloy: Mo 0, N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 11 |  |
+| Entropy of formation; _printed: Entropy of Formation_ | -24.3 J/mol-atom/K | 298.15 | MoN; _alloy: Mo 0.5, N 0.5_ | model | [1] Frisk 1991 | Table I, p. 6, row 12 |  |
+| Entropy of formation; _printed: Entropy of Formation_ | -25.7 J/mol-atom/K | 298.15 | ε(Cr2N); _alloy: Mo 0, N 0.333333_ | model | [1] Frisk 1991 | Table I, p. 6, row 10 |  |
 
 ### Heat capacity / entropy / enthalpy (48)
 

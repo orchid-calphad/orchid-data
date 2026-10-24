@@ -14,7 +14,7 @@ Table: Enthalpy of formation of MgO reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -602 kJ/(mol 0) | MgO | 298 | experimental |  | [Mg–O](https://data.orchid-project.org/systems/MG-O.html) | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
+| -602 kJ/(mol 0) | MgO | 298.15 | experimental |  | [Mg–O](https://data.orchid-project.org/systems/MG-O.html) | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
 | -300.62 kJ/mol-atom | MgO |  | model |  | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 5, p. 6, row 1 |  |
 | -282.82 kJ/mol-atom | MgO |  | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 3, p. 5, row 2 |  |
 | -281.86 kJ/mol-atom | MgO | 0 | DFT | first-principle method | [Al–Mg–O](https://data.orchid-project.org/systems/AL-MG-O.html) | [2] Li 2023 | Table 3, p. 5, row 1 |  |
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of MgO
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabwr | -294.608 | -3.0534 | Fm-3m | 0 | no |
-| OQMD | oqmd-1443261 | -284.268 | -2.94624 | P21/c | 0.009 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabwr | -294.608 | -3.0534 | Fm-3m | 0 | 0 | no |
+| OQMD | oqmd-1443261 | -284.268 | -2.94624 | P21/c | 0.009 | 1.000e-4 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

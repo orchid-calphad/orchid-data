@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NiSe0.533 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.2 kJ/mol (basis unstated) ± 0.2 | NiSe0.533 | 298 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 2 |  |
+| -37.2 kJ/mol (basis unstated) ± 0.2 | NiSe0.533 | 298.15 | unspecified |  | [Ni–Se](https://data.orchid-project.org/systems/NI-SE.html) | [1] Zobač 2021; _cites Grnvold 1972_ [doi](https://doi.org/10.3891/acta.chem.scand.26-2085) | Table 3, p. 4, row 2 |  |
 
 ## Sources
 

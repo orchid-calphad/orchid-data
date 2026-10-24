@@ -1,20 +1,19 @@
 # Al3Sr: enthalpy of formation
 
-> Enthalpy of formation of Al3Sr: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Al3Sr: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Sr.html · Markdown: https://data.orchid-project.org/compounds/Al3Sr.md
 
-4 accepted literature formation-enthalpy value(s) (DFT 4).
+3 accepted literature formation-enthalpy value(s) (DFT 3).
 
 Systems: [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Sr reported in the literature (4)
+Table: Enthalpy of formation of Al3Sr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.4 kJ/mol-atom | Al3Sr Ni3Sn-type | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 2 |  |
 | -12.3 kJ/mol-atom | Al3Sr “SQS-16” | 0 | DFT | First-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 30 |  |
 | -11.6 kJ/mol-atom | Al3Sr “SQS-16” | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 3 |  |
 | -5.5 kJ/mol-atom | Al3Sr L12 | 0 | DFT | first-principles | [Al–Sr](https://data.orchid-project.org/systems/AL-SR.html) | [1] Zhong 2004 | Table 3, p. 6, row 4 |  |

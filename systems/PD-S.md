@@ -82,26 +82,26 @@ Table: Enthalpies of formation, Pd–S system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Pd16S7 |  | -36.601 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 10 |  |
+| Pd16S7 |  | -36.601 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 10 |  |
 | Pd16S7 |  | -29.5 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 11 |  |
-| Pd16S7 |  | -25.221 per mol-atom ± 1.574 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 9 |  |
-| Pd3S |  | -27.317 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
+| Pd16S7 |  | -25.221 per mol-atom ± 1.574 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 9 |  |
+| Pd3S |  | -27.317 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 7 |  |
 | Pd3S |  | -25.4 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 8 |  |
-| Pd3S |  | -24.125 per mol-atom ± 2.625 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
+| Pd3S |  | -24.125 per mol-atom ± 2.625 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 6 |  |
 | Pd4S |  | -25.74 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 3 |  |
-| Pd4S |  | -24.328 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2 |  |
+| Pd4S |  | -24.328 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 2 |  |
 | Pd4S |  | -22.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 5 |  |
-| Pd4S |  | -19.84 per mol-atom ± 2.24 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1 |  |
-| Pd4S |  | -12.7 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4 |  |
+| Pd4S |  | -19.84 per mol-atom ± 2.24 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 1 |  |
+| Pd4S |  | -12.7 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 4 |  |
 | PdS |  | -68.55 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 14 |  |
-| PdS |  | -43.175 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 13 |  |
+| PdS |  | -43.175 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Taylor 1985_ [doi](https://doi.org/10.1007/bf02657499) | Table 2, p. 2, row 13 |  |
 | PdS |  | -40.3 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 16 |  |
-| PdS |  | -39.05 per mol-atom ± 5.5 | 298 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 12 |  |
-| PdS |  | -37.55 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15 |  |
+| PdS |  | -39.05 per mol-atom ± 5.5 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Zubkov 1998_ [doi](https://doi.org/10.1006/jcht.1997.0328) | Table 2, p. 2, row 12 |  |
+| PdS |  | -37.55 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 15 |  |
 | PdS2 |  | -69.24 per mol-atom | 716.5 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 18 |  |
 | PdS2 |  | -30.8 per mol-atom | 0 | DFT |  |  | [1] Hu 2010 | Table 2, p. 2, row 20 |  |
-| PdS2 |  | -29.24 per mol-atom | 298 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
-| PdS2 |  | -26.067 per mol-atom ± 4.2 | 298 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |
+| PdS2 |  | -29.24 per mol-atom | 298.15 | experimental |  |  | [1] Hu 2010; _cites Niwa 1962_ [doi](https://doi.org/10.1246/bcsj.35.1543) | Table 2, p. 2, row 19 |  |
+| PdS2 |  | -26.067 per mol-atom ± 4.2 | 298.15 | experimental |  |  | [1] Hu 2010; _cites Kubaschewski 1993_ | Table 2, p. 2, row 17 |  |
 
 ## Other properties
 

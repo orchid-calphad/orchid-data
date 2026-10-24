@@ -19,7 +19,7 @@ Table: Phases of the Al–C system (8)
 | [FCC_A1](#phase-al-c-fcc-a1); _phase:al-c:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2088.47 K, x(C) 0–0.00046 | 0 | 6 |
 | [GAS](#phase-al-c-gas); _phase:al-c:gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 2763.07–4000 K, x(C) 0–1 | 0 | 3 |
 | [HCP_A3](#phase-al-c-hcp-a3); _phase:al-c:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [LIQUID](#phase-al-c-liquid); _phase:al-c:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 933.47–4000 K, x(C) 0–0.69583 | 5 | 6 |
+| [LIQUID](#phase-al-c-liquid); _phase:al-c:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 933.47–4000 K, x(C) 0–0.69583 | 4 | 6 |
 
 ## DIAMOND_A4 (Al–C)
 
@@ -461,7 +461,7 @@ _assessment that models this phase_
 - Id: `phase:al-c:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 933.47–4000 K, x(C) 0–0.69583
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-c:liquid)
 
 Names (9): _corpus: _corpus:phase:al-c:liquid  

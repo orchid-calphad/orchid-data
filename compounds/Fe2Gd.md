@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Fe2Gd reported in the literature (8)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Colinet 1987_ | Table 12, p. 13, row 9 |  |
-| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2 |  |
+| -11.6 kJ/mol-atom ± 2 | Fe2Gd | 298.15 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Colinet 1987_ [doi](https://doi.org/10.1007/bf02646931) | Table 2, p. 3, row 2 |  |
 | -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002; _cites Deodhar 1914_ | Table 12, p. 13, row 12 |  |
 | -3.5 kJ/mol-atom ± 1.5 | Fe2Gd | 1078 | experimental |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [2] Zinkevich 2000; _cites Deodhar 1909_ | Table 2, p. 3, row 1 |  |
 | -6.81 kJ/mol-atom | Fe2Gd | 1078 | model |  | [Fe–Gd](https://data.orchid-project.org/systems/FE-GD.html) | [1] Zinkevich 2002 | Table 12, p. 13, row 14 |  |
@@ -29,10 +29,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Fe2Gd
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaabdsr | 1.566 | 0.016234 | Fd-3m | 1.977 | no |
-| OQMD | oqmd-18836 | -3.181 | -0.032969 | Fd-3m | 0.031 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaabdsr | 1.566 | 0.016234 | Fd-3m | 1.977 | 0.0205 | no |
+| OQMD | oqmd-18836 | -3.181 | -0.032969 | Fd-3m | 0.031 | 3.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

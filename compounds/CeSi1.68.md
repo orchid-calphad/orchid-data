@@ -15,9 +15,9 @@ Table: Enthalpy of formation of CeSi1.68 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -70 kJ/mol-atom ± 6 | CeSi1.68 | 1373 | experimental | Calorimetry | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 22 |  |
-| -70 kJ/mol-atom ± 6 | CeSi1.68 | 298 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 8, p. 9, row 19 |  |
-| -65 kJ/mol-atom | CeSi1.68 | 298 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Grobner 2004_ [doi](https://doi.org/10.1007/s11661-004-0172-y) | Table 8, p. 9, row 8 |  |
-| -65 kJ/mol-atom | CeSi1.68 | 298 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 31 |  |
+| -70 kJ/mol-atom ± 6 | CeSi1.68 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Kim 2015_ [doi](https://doi.org/10.1016/j.jct.2014.08.015) | Table 8, p. 9, row 19 |  |
+| -65 kJ/mol-atom | CeSi1.68 | 298.15 | model | Calculated | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016; _cites Grobner 2004_ [doi](https://doi.org/10.1007/s11661-004-0172-y) | Table 8, p. 9, row 8 |  |
+| -65 kJ/mol-atom | CeSi1.68 | 298.15 | unspecified |  | [Ce–Si](https://data.orchid-project.org/systems/CE-SI.html) | [1] Huang 2016 | Table 8, p. 9, row 31 |  |
 
 ## Sources
 

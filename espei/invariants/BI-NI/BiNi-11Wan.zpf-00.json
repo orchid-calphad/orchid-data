@@ -74,19 +74,30 @@
     "id": "ORC-GORZHNZ3PB",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s1003-6326(11)60690-0",
-    "measured_in": "doi:10.1051/metal/190805030110"
+    "measured_in": "doi:10.1051/metal/190805030110",
+    "also_reported_as": [
+     {
+      "id": "ORC-TRA2QN2H35",
+      "paper": "doi:10.1007/s11664-015-4272-9",
+      "measured_in": "doi:10.1051/metal/190805030110",
+      "dataset": "invariants/BI-NI/BiNi-16Liu.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
    "doi:10.1051/metal/190805030110",
-   "doi:10.1016/s1003-6326(11)60690-0"
+   "doi:10.1016/s1003-6326(11)60690-0",
+   "doi:10.1007/s11664-015-4272-9"
   ],
   "dois": [
+   "10.1007/s11664-015-4272-9",
    "10.1016/s1003-6326(11)60690-0",
    "10.1051/metal/190805030110"
   ],
   "source_dataset": "db-v2.1/invariants/espei/BiNi-11Wan/zpf-00.json",
-  "values_dropped": 2
+  "values_dropped": 2,
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -77,11 +77,11 @@ Table: Enthalpies of formation, Ge–Ru system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.645 kJ/mol-atom | 298 | model | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009 | Table 4, p. 3, row 7 |  |
-| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.5 kJ/mol-atom ± 4 | 298 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 5 |  |
+| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.645 kJ/mol-atom | 298.15 | model | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009 | Table 4, p. 3, row 7 |  |
+| Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -35.5 kJ/mol-atom ± 4 | 298.15 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 5 |  |
 | Ru2Ge3 | [Ge3Ru2](https://data.orchid-project.org/compounds/Ge3Ru2.html) | -34.8 kJ/mol-atom ± 1 | 1173 | experimental | -34.036 (mp-aaaabgmb) | -33.635 (oqmd-33106) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 6 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.241 kJ/mol-atom | 298 | model | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009 | Table 4, p. 3, row 4 |  |
-| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.2 kJ/mol-atom ± 3.3 | 298 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1 |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.241 kJ/mol-atom | 298.15 | model | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009 | Table 4, p. 3, row 4 |  |
+| RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -31.2 kJ/mol-atom ± 3.3 | 298.15 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Jung 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990238-y) | Table 4, p. 3, row 1 |  |
 | RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.7 kJ/mol-atom ± 1.3 | 1173 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Ciccioli 1998_ [doi](https://doi.org/10.1002/bbpc.19981020936) | Table 4, p. 3, row 3 |  |
 | RuGe | [GeRu](https://data.orchid-project.org/compounds/GeRu.html) | -28.4 kJ/mol-atom | 1473 | experimental | -27.283 (mp-aaacgiwj) | -26.89 (oqmd-683580) | [1] Long 2009; _cites Kuntz 1997_ [doi](https://doi.org/10.1006/jssc.1997.7508) | Table 4, p. 3, row 2 |  |
 

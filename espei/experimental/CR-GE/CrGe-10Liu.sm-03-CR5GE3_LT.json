@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_GE": [
    0.375
   ]
@@ -30,6 +30,7 @@
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2ALE6E3FVH.dae7b0",
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "bibtex": "gokhalend_c01258",
  "orchid": {
   "status": "Version 1, machine-extracted",

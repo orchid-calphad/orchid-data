@@ -150,21 +150,21 @@ Table: Enthalpies of formation, Au–Nd system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -55.78 kJ/mol-atom | 298 | model | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
-| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -51.93 kJ/mol-atom | 298 | model | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
-| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -49.3 kJ/mol-atom ± 4.9 | 298 | experimental | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 15 |  |
-| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -67.5 kJ/mol-atom | 298 | model | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
-| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -60.7 kJ/mol-atom ± 3.7 | 298 | experimental | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 12 |  |
-| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -60.63 kJ/mol-atom | 298 | model | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
+| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -55.78 kJ/mol-atom | 298.15 | model | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
+| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -51.93 kJ/mol-atom | 298.15 | model | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
+| Nd14Au51 | [Au51Nd14](https://data.orchid-project.org/compounds/Au51Nd14.html) | -49.3 kJ/mol-atom ± 4.9 | 298.15 | experimental | -61.227 (mp-aaacrmbi) |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 15 |  |
+| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -67.5 kJ/mol-atom | 298.15 | model | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
+| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -60.7 kJ/mol-atom ± 3.7 | 298.15 | experimental | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 12 |  |
+| Nd17Au36 | [Au36Nd17](https://data.orchid-project.org/compounds/Au36Nd17.html) | -60.63 kJ/mol-atom | 298.15 | model | -74.055 (mp-aaabghqg) |  | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
 | Nd2Au | [AuNd2](https://data.orchid-project.org/compounds/AuNd2.html) | -57.2 kJ/mol-atom |  | model | -53.288 (mp-aaacksik) | -53.295 (oqmd-1520685) | [2] Moustaine 2016 | Table 2, p. 3, row 2 |  |
 | Nd2Au | [AuNd2](https://data.orchid-project.org/compounds/AuNd2.html) | -53.8 kJ/mol-atom |  | model | -53.288 (mp-aaacksik) | -53.295 (oqmd-1520685) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 1 |  |
 | Nd3Au4 | [Au4Nd3](https://data.orchid-project.org/compounds/Au4Nd3.html) | -74.7 kJ/mol-atom |  | model | -78.03 (mp-aaaaasxw) | -78.132 (oqmd-94716) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 10 |  |
 | Nd3Au4 | [Au4Nd3](https://data.orchid-project.org/compounds/Au4Nd3.html) | -69 kJ/mol-atom |  | model | -78.03 (mp-aaaaasxw) | -78.132 (oqmd-94716) | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
 | NdAu6 | [Au6Nd](https://data.orchid-project.org/compounds/Au6Nd.html) | -47.15 kJ/mol-atom |  | model | -40.08 (mp-aaackvxt) | -40.607 (oqmd-1821061) | [2] Moustaine 2016 | Table 2, p. 3, row 19 |  |
 | NdAu6 | [Au6Nd](https://data.orchid-project.org/compounds/Au6Nd.html) | -44.3 kJ/mol-atom |  | model | -40.08 (mp-aaackvxt) | -40.607 (oqmd-1821061) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 18 |  |
-| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -79.1 kJ/mol-atom | 298 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
-| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -74 kJ/mol-atom | 298 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
-| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -70.2 kJ/mol-atom ± 3.7 | 298 | experimental | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 3 |  |
+| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -79.1 kJ/mol-atom | 298.15 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
+| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -74 kJ/mol-atom | 298.15 | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
+| αNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -70.2 kJ/mol-atom ± 3.7 | 298.15 | experimental | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Fitzner 1994_ [doi](https://doi.org/10.1007/bf02665481) | Table 2, p. 3, row 3 |  |
 | βNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -79 kJ/mol-atom |  | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
 | βNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -73.8 kJ/mol-atom |  | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016 | Table 2, p. 3, row 7 |  |
 | γNdAu | [AuNd](https://data.orchid-project.org/compounds/AuNd.html) | -76.9 kJ/mol-atom |  | model | -77.988 (mp-aaacjmrt) | -78.106 (oqmd-28191) | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
@@ -197,12 +197,12 @@ Table: Formation, Au–Nd system
 | Entropy of formation; _printed: ΔSf°_ | 0.2224 J/mol-atom/K |  | βNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 6 |  |
 | Entropy of formation; _printed: ΔSf°_ | 1.5076 J/mol-atom/K |  | γNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 8 |  |
 | Entropy of formation; _printed: ΔSf°_ | -4.36 J/mol-atom/K |  | γNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 9 |  |
-| Entropy of formation; _printed: ΔSf°_ | 3.15 J/mol-atom/K | 298 | Nd14Au51; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
-| Entropy of formation; _printed: ΔSf°_ | -2.76 J/mol-atom/K | 298 | Nd14Au51; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
-| Entropy of formation; _printed: ΔSf°_ | -0.74 J/mol-atom/K | 298 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
-| Entropy of formation; _printed: ΔSf°_ | 5.332 J/mol-atom/K | 298 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
-| Entropy of formation; _printed: ΔSf°_ | -4.7 J/mol-atom/K | 298 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔSf°_ | 0.08 J/mol-atom/K | 298 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
+| Entropy of formation; _printed: ΔSf°_ | 3.15 J/mol-atom/K | 298.15 | Nd14Au51; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 16 |  |
+| Entropy of formation; _printed: ΔSf°_ | -2.76 J/mol-atom/K | 298.15 | Nd14Au51; _alloy: Au 0.785, Nd 0.215_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 17 |  |
+| Entropy of formation; _printed: ΔSf°_ | -0.74 J/mol-atom/K | 298.15 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
+| Entropy of formation; _printed: ΔSf°_ | 5.332 J/mol-atom/K | 298.15 | Nd17Au36; _alloy: Au 0.679, Nd 0.321_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 13 |  |
+| Entropy of formation; _printed: ΔSf°_ | -4.7 J/mol-atom/K | 298.15 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 5 |  |
+| Entropy of formation; _printed: ΔSf°_ | 0.08 J/mol-atom/K | 298.15 | αNdAu; _alloy: Au 0.5, Nd 0.5_ | model | [2] Moustaine 2016; _cites Wang 2015_ [doi](https://doi.org/10.1007/s11669-015-0378-2) | Table 2, p. 3, row 4 |  |
 
 ## Sources
 

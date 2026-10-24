@@ -90,11 +90,11 @@ Table: Invariant reactions reported in the literature for the Al–Pr system (28
 | 1519.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.1894; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 4 |  |
 | 1518.15 | Liq + Al2Pr -> β\_Al11Pr3 | Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 5 |  |
 | 1513.15 | Liq + Al2Pr -> β\_Al11Pr3 | L: Pr 0.205; Al2Pr: Al 0.666667, Pr 0.333333; β\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 6 |  |
-| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25; L: Pr 0.333 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 8 |  |
-| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25; L: Pr 0.3333 | model | [1] Liao 2019 | Table 3, p. 6, row 7 |  |
+| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 8 |  |
+| 1348.15 | β\_Al11Pr3 + Al2Pr -> Al3Pr | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al2Pr: Al 0.666667, Pr 0.333333; Al3Pr: Al 0.75, Pr 0.25 | model | [1] Liao 2019 | Table 3, p. 6, row 7 |  |
 | 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.075; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 14 |  |
-| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286; L: Pr 0.2142 | model | [1] Liao 2019 | Table 3, p. 6, row 12 |  |
-| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286; L: Pr 0.2142 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 13 |  |
+| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 12 |  |
+| 1238.15 | β\_Al11Pr3 -> Al3Pr + α\_Al11Pr3 | β\_Al11Pr3: Al 0.785714, Pr 0.214286; Al3Pr: Al 0.75, Pr 0.25; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 13 |  |
 | 1238.15 | Liq + β\_Al11Pr3 -> α\_Al11Pr3 | L: Pr 0.2142; β\_Al11Pr3: Al 0.785714, Pr 0.214286; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 15 |  |
 | 1178.15 | Liq + Al2Pr -> AlPr | L: Pr 0.66; Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 11 |  |
 | 1172.15 | Liq + Al2Pr -> AlPr | Al2Pr: Al 0.666667, Pr 0.333333; AlPr: Al 0.5, Pr 0.5 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 10 |  |
@@ -112,8 +112,8 @@ Table: Invariant reactions reported in the literature for the Al–Pr system (28
 | 913.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.05; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | experimental | [1] Liao 2019; _cites Buschow 1966_ | Table 3, p. 6, row 3 |  |
 | 912.15 | Liq -> fcc + α\_Al11Pr3 | L: Pr 0.02054; α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019 | Table 3, p. 6, row 1 |  |
 | 912.15 | Liq -> fcc + α\_Al11Pr3 | α\_Al11Pr3: Al 0.785714, Pr 0.214286 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 2 |  |
-| 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75; L: Pr 0.9145 | model | [1] Liao 2019 | Table 3, p. 6, row 26 |  |
-| 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75; L: Pr 0.92 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28 |  |
+| 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 26 |  |
+| 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28 |  |
 | 892.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 27 |  |
 
 ## Sources

@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Si11Yb3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -48 kJ/mol-atom ± 3.1 | Yb3Si11 | 298 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
-| -49.1 kJ/mol-atom | Yb3Si11 | 298 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
+| -48 kJ/mol-atom ± 3.1 | Yb3Si11 | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 10 |  |
+| -49.1 kJ/mol-atom | Yb3Si11 | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 9 |  |
 
 ## Sources
 

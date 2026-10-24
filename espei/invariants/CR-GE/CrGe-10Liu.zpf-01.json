@@ -276,7 +276,14 @@
     "id": "ORC-MEKHJH6Y5N",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2009.11.001",
-    "measured_in": "doi:10.1016/0022-5088(80)90248-9"
+    "measured_in": "doi:10.1016/0022-5088(80)90248-9",
+    "also_reported_as": [
+     {
+      "id": "ORC-JZ73FFXGYJ",
+      "paper": "doi:10.1016/j.calphad.2009.11.001",
+      "dataset": "invariants/CR-GE/CrGe-10Liu.zpf-02.json"
+     }
+    ]
    },
    {
     "id": "ORC-DTKJXBVI4Y",
@@ -299,13 +306,16 @@
   ],
   "papers": [
    "doi:10.1016/0022-5088(80)90248-9",
-   "doi:10.1016/j.calphad.2009.11.001"
+   "doi:10.1016/j.calphad.2009.11.001",
+   "doi:10.1143/jjap.17.2173"
   ],
   "dois": [
    "10.1016/0022-5088(80)90248-9",
-   "10.1016/j.calphad.2009.11.001"
+   "10.1016/j.calphad.2009.11.001",
+   "10.1143/jjap.17.2173"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CrGe-10Liu/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CrGe-10Liu/zpf-01.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

@@ -57,10 +57,10 @@ Table: Heat capacity / entropy / enthalpy, N–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: 7S298_ | 37.7 unspecified ± 2 | 298 |  | experimental | [2] Huang 1996 | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 52.7 J/Kzmole | 298 |  | model | [2] Huang 1996; _cites Kaufman 1962_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 37.7 J/Kzmole | 298 |  | model | [2] Huang 1996; _cites Kelley 1961_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
-| Entropy; _printed: 7S298_ | 47.7 J/Kzmole | 298 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 37.7 unspecified ± 2 | 298.15 |  | experimental | [2] Huang 1996 | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 52.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kaufman 1962_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 37.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Kelley 1961_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
+| Entropy; _printed: 7S298_ | 47.7 J/Kzmole | 298.15 |  | model | [2] Huang 1996; _cites Schick 1966_ | p. 4 | “The estimated entropy at 298 K\[34\] for NbN ranges from 7S298 5 37.7 by Kelley and King\[48\] and 47.7 by Schick\[34\] to 52.7 J/Kzmole of NbN by Kaufman.\[49\]” |
 
 ### Other property (1)
 

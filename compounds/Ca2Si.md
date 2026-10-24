@@ -16,16 +16,16 @@ Table: Enthalpy of formation of Ca2Si reported in the literature (13)
 |---:|---|---:|---|---|---|---|---|---|
 | -483 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 62Shc_ | Table III, p. 12, row 1 |  |
 | -254.352 kJ/mol (basis unstated) | Ca2Si | 298.15 | experimental | effusion method | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 67Mur_ | Table III, p. 12, row 3 |  |
-| -254.35 kJ/mol-atom | Ca2Si | 298 | experimental | Effusion | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
-| -209 kJ/mol-atom | Ca2Si | 298 | experimental |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
-| -71.4 kJ/mol-atom | Ca2Si | 298 | experimental | Calorimetry at 940K | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
-| -56.1 kJ/mol-atom | Ca2Si | 298 | experimental | Knudsen cell | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
-| -48.3 kJ/mol-atom | Ca2Si | 298 | experimental | Calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2 |  |
-| -209 kJ/mol-atom | Ca2Si | 298 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
+| -254.35 kJ/mol-atom | Ca2Si | 298.15 | experimental | Effusion | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Zviadadze 2003_ | Table 1, p. 2, row 4 |  |
+| -209 kJ/mol-atom | Ca2Si | 298.15 | experimental |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Muradov 1967_ | Table 1, p. 2, row 6 |  |
+| -71.4 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry at 940K | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Wynnyckyj 1972_ | Table 1, p. 2, row 1 |  |
+| -56.1 kJ/mol-atom | Ca2Si | 298.15 | experimental | Knudsen cell | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Sudatsova 1988_ | Table 1, p. 2, row 10 |  |
+| -48.3 kJ/mol-atom | Ca2Si | 298.15 | experimental | Calorimetry | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Kubaschewski 1949_ | Table 1, p. 2, row 2 |  |
+| -209 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Anglezio 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990034-5) | Table 1, p. 2, row 9 |  |
 | -209 kJ/mol (basis unstated) | Ca2Si |  | model |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994 | Table III, p. 12, row 8 |  |
-| -56.1 kJ/mol-atom | Ca2Si | 298 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003 | Table 1, p. 2, row 11 |  |
+| -56.1 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003 | Table 1, p. 2, row 11 |  |
 | -23.864 kJ/mol (basis unstated) | Ca2Si |  | model | phase diagram analysis | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 86Lee_ | Table III, p. 12, row 7 |  |
-| -23.86 kJ/mol-atom | Ca2Si | 298 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
+| -23.86 kJ/mol-atom | Ca2Si | 298.15 | model | Calphad | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [2] Gröbner 2003; _cites Lee 1986_ | Table 1, p. 2, row 8 |  |
 | -209 kJ/mol (basis unstated) | Ca2Si |  | unspecified |  | [Ca–Si](https://data.orchid-project.org/systems/CA-SI.html) | [1] Anglezio 1994; _cites ref. 82Wag_ | Table III, p. 12, row 5 |  |
 
 ## DFT formation energies
@@ -34,10 +34,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ca2Si
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadsv | -41.918 | -0.434447 | Pnma | 0 | no |
-| OQMD | oqmd-4796 | -45.505 | -0.471632 | Pnma | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadsv | -41.918 | -0.434447 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-4796 | -45.505 | -0.471632 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

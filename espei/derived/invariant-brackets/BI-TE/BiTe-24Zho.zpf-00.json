@@ -19,9 +19,7 @@
    595.0,
    833.0,
    718.0,
-   698.0,
-   675.0,
-   655.0
+   698.0
   ]
  },
  "output": "ZPF",
@@ -197,73 +195,6 @@
      0.4385714286
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TE"
-    ],
-    [
-     0.16
-    ]
-   ],
-   [
-    "BI4TE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.3233333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.3433333333
-    ]
-   ]
-  ],
-  [
-   [
-    "BI2TE",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.3233333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.3433333333
-    ]
-   ]
   ]
  ],
  "reference": "Hasanova 2021, doi:10.1007/s11837-021-04621-1",
@@ -274,7 +205,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-TE/BiTe-24Zho.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-33VBYNYU6Q ORC-7ZIC4T27SM ORC-J6MXXD66TY ORC-LFBHE3QDDA",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-TE/BiTe-24Zho.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-33VBYNYU6Q ORC-7ZIC4T27SM ORC-LFBHE3QDDA",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/BI-TE/BiTe-24Zho.zpf-00.json",
@@ -374,44 +305,6 @@
     ],
     "phases_below": [
      "BI4TE3"
-    ]
-   },
-   {
-    "source_observation": "ORC-J6MXXD66TY",
-    "side": "above",
-    "T_invariant_K": 665,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.3333333333333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + Bi4Te3 -> Bi2Te",
-    "reaction_type": "monotectic",
-    "phases_above": [
-     "LIQUID",
-     "BI4TE3"
-    ],
-    "phases_below": [
-     "BI2TE"
-    ]
-   },
-   {
-    "source_observation": "ORC-J6MXXD66TY",
-    "side": "below",
-    "T_invariant_K": 665,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.3333333333333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + Bi4Te3 -> Bi2Te",
-    "reaction_type": "monotectic",
-    "phases_above": [
-     "LIQUID",
-     "BI4TE3"
-    ],
-    "phases_below": [
-     "BI2TE"
     ]
    }
   ],

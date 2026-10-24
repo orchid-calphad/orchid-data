@@ -34,8 +34,8 @@ Table: Enthalpies of formation, N–Ta system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998 | Table 2, p. 7, row 1 |  |
-| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2 |  |
+| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998 | Table 2, p. 7, row 1 |  |
+| TaN3 | [TaN3](https://data.orchid-project.org/compounds/TaN3.html) | 22 kJ/mol-atom | 298.15 | unspecified |  | 75.777 (oqmd-322871) | [1] Frisk 1998; _cites F 1988_ | Table 2, p. 7, row 2 |  |
 
 ## Other properties
 

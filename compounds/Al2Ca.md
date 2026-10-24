@@ -21,12 +21,12 @@ Table: Enthalpy of formation of Al2Ca reported in the literature (18)
 | -31.3 kJ/mol-atom ± 0.5 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Veleckis 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990098-9) | Table IV, p. 5, row 22 |  |
 | -31.28 kJ/mol-atom ± 0.46 | Al2Ca | 788 | experimental | Hydrogen Titration | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 34_ | Table V, p. 9, row 1 |  |
 | -29.4 kJ/mol-atom ± 0.9 | C15-Al2Ca | 298.15 | experimental | Experiment | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 19 |  |
-| -29.4 kJ/mol-atom ± 0.9 | Al2Ca | 298 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 4 |  |
+| -29.4 kJ/mol-atom ± 0.9 | Al2Ca | 298.15 | experimental | Dissolution Calorimetry | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 4 |  |
 | -41.732 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Itkin 1988_ [doi](https://doi.org/10.1007/bf02883160) | Table IV, p. 5, row 15 |  |
 | -32.185 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table IV, p. 5, row 16 |  |
 | -29.7 kJ/mol-atom | C15-Al2Ca |  | model | thermodynamic evaluation | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005; _cites Kevorkov 2001_ | Table IV, p. 5, row 17 |  |
 | -29.7 kJ/mol-atom | Al2Ca | 800 | model | Assessed | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005; _cites ref. 26_ | Table V, p. 9, row 5 |  |
-| -29.28 kJ/mol-atom | Al2Ca | 298 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
+| -29.28 kJ/mol-atom | Al2Ca | 298.15 | model | Calculated in this work | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [2] ISLAM 2005 | Table V, p. 9, row 6 |  |
 | -36.604 kJ/mol-atom | C15-Al2Ca | 0 | DFT | WIEN2k | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 11 |  |
 | -36.272 kJ/mol-atom | C15-Al2Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 13 |  |
 | -34.018 kJ/mol-atom | C15-Al2Ca | 0 | DFT | VASP | [Al–Ca](https://data.orchid-project.org/systems/AL-CA.html) | [1] Ozturk 2005 | Table IV, p. 5, row 14 |  |
@@ -39,10 +39,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al2Ca
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaadom | -32.104 | -0.332736 | Fd-3m | 0 | no |
-| OQMD | oqmd-5774 | -32.307 | -0.334836 | Fd-3m | 0.067 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaadom | -32.104 | -0.332736 | Fd-3m | 0 | 0 | no |
+| OQMD | oqmd-5774 | -32.307 | -0.334836 | Fd-3m | 0.067 | 7.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

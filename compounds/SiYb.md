@@ -14,8 +14,8 @@ Table: Enthalpy of formation of SiYb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -51.1 kJ/mol-atom ± 5.1 | YbSi | 298 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
-| -51 kJ/mol-atom | YbSi | 298 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
+| -51.1 kJ/mol-atom ± 5.1 | YbSi | 298.15 | experimental |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 6, p. 7, row 7 |  |
+| -51 kJ/mol-atom | YbSi | 298.15 | model |  | [Si–Yb](https://data.orchid-project.org/systems/SI-YB.html) | [1] Brutti 2005 | Table 6, p. 7, row 6 |  |
 
 ## DFT formation energies
 
@@ -23,9 +23,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of SiYb
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| OQMD | oqmd-646927 | -54.503 | -0.564888 | Cmcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| OQMD | oqmd-646927 | -54.503 | -0.564888 | Cmcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

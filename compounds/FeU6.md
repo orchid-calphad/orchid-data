@@ -1,25 +1,22 @@
 # FeU6: enthalpy of formation
 
-> Enthalpy of formation of FeU6: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of FeU6: 3 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeU6.html · Markdown: https://data.orchid-project.org/compounds/FeU6.md
 
-6 accepted literature formation-enthalpy value(s) (model 6).
+3 accepted literature formation-enthalpy value(s) (model 3).
 
 Systems: [Fe–U](https://data.orchid-project.org/systems/FE-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeU6 reported in the literature (6)
+Table: Enthalpy of formation of FeU6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -26.438 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
 | -21.343 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
-| -20.931 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
-| -7.312 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
 | -6.75 kJ/mol (basis unstated) ± 1.3 | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
-| -2.33 kJ/mol (basis unstated) ± 0.72 | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
 
 ## Sources
 

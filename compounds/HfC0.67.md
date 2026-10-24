@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfC0.67 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -220.9 kJ/mol (basis unstated) ± 1.7 | HfC0.67 | 298 | experimental | Combustion calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
+| -220.9 kJ/mol (basis unstated) ± 1.7 | HfC0.67 | 298.15 | experimental | Combustion calorimetry | [C–Hf](https://data.orchid-project.org/systems/C-HF.html) | [1] Bittermann 1997; _cites Zehlankin 1964_ | Table 3, p. 3, row 4 |  |
 
 ## Sources
 

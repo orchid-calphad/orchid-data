@@ -1,10 +1,10 @@
 # Cu–Hf system
 
-> Cu–Hf system: 160 accepted literature values (invariant reaction 64, formation 52, crystal structure 29, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Hf system: 162 accepted literature values (invariant reaction 64, formation 54, crystal structure 29, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-HF.html · Markdown: https://data.orchid-project.org/systems/CU-HF.md
 
-160 accepted literature values from 3 paper(s) (experimental 60, model 58, DFT 17, unspecified 25); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+162 accepted literature values from 3 paper(s) (experimental 62, model 58, DFT 17, unspecified 25); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-HF.json) · [CSV](https://data.orchid-project.org/systems/CU-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-HF/CuHf-06Lia.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-HF.html) · [Markdown](https://data.orchid-project.org/systems/CU-HF.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 60 |
+| experimental | 62 |
 | model | 58 |
 | DFT | 17 |
 | unspecified | 25 |
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 64 |
 | phase transition | 15 |
-| formation | 52 |
+| formation | 54 |
 | crystal structure | 29 |
 
 ## Calculated phase diagrams
@@ -157,7 +157,7 @@ Table: Invariant reactions reported in the literature for the Cu–Hf system (64
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Hf system (47)
+Table: Enthalpies of formation, Cu–Hf system (49)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -166,48 +166,50 @@ Table: Enthalpies of formation, Cu–Hf system (47)
 | Cu10Hf7 |  | -16.42 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 20 |  |
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -16 kJ/mol-atom |  | model | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 17 |  |
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -15.5 kJ/mol-atom |  | model | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 16 |  |
-| Cu10Hf7 |  | -15.499 kJ/mol (basis unstated) | 298 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 11 |  |
-| Cu10Hf7 |  | -12.64 kJ/mol (basis unstated) ± 0.49 | 298 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 9 |  |
+| Cu10Hf7 |  | -15.499 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 11 |  |
+| Cu10Hf7 |  | -12.64 kJ/mol (basis unstated) ± 0.49 | 298.15 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 9 |  |
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -12.64 kJ/mol-atom | 298.15 | experimental | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 14 |  |
-| Cu10Hf7 |  | -4.15 kJ/mol (basis unstated) | 298 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 10 |  |
+| Cu10Hf7 |  | -4.15 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 10 |  |
 | Cu10Hf7 | [Cu10Hf7](https://data.orchid-project.org/compounds/Cu10Hf7.html) | -4.15 kJ/mol-atom |  | model | -17.211 (mp-aaacqipw) | -16.705 (oqmd-2052356) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 15 |  |
-| Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -45.54 kJ/mol-atom | 298 | unspecified | -15.029 (mp-aaacrrua) |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 5 |  |
+| Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -45.54 kJ/mol-atom | 298.15 | unspecified | -15.029 (mp-aaacrrua) |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 5 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -45.54 kJ/mol-atom |  | model | -15.029 (mp-aaacrrua) |  | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 22 |  |
+| Cu51Hf14 |  | -22.9 kJ/mol (basis unstated) ± 2300 | 298.15 | experimental |  |  | [2] Turchanin 2008; _cites ref. 25_ | Table 2, p. 6, row 4 |  |
 | Cu51Hf14 |  | -16.02 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 26 |  |
 | Cu51Hf14 |  | -14.83 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 27 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -13.65 kJ/mol-atom | 298.15 | experimental | -15.029 (mp-aaacrrua) |  | [1] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 21 |  |
-| Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -12.871 kJ/mol-atom | 298 | model | -15.029 (mp-aaacrrua) |  | [2] Turchanin 2008 | Table 2, p. 6, row 6 |  |
+| Cu51Hf14 |  | -13.65 kJ/mol (basis unstated) ± 240 | 298.15 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 3 |  |
+| Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -12.871 kJ/mol-atom | 298.15 | model | -15.029 (mp-aaacrrua) |  | [2] Turchanin 2008 | Table 2, p. 6, row 6 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -12.87 kJ/mol-atom |  | model | -15.029 (mp-aaacrrua) |  | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 23 |  |
 | Cu51Hf14 | [Cu51Hf14](https://data.orchid-project.org/compounds/Cu51Hf14.html) | -12.46 kJ/mol-atom |  | model | -15.029 (mp-aaacrrua) |  | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 24 |  |
 | Cu51Hf14 |  | -7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 25 |  |
 | Cu54Hf14 |  | -7.37 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 28 |  |
 | Cu54Hf14 |  | -6.07 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 29 |  |
 | Cu5Hf | [Cu5Hf](https://data.orchid-project.org/compounds/Cu5Hf.html) | -17.75 kJ/mol-atom |  | model |  | -11.585 (oqmd-1373519) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 30 |  |
-| Cu5Hf |  | -17.75 kJ/mol (basis unstated) | 298 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 1 |  |
+| Cu5Hf |  | -17.75 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 1 |  |
 | Cu5Hf |  | -12.31 kJ/mol-atom |  | DFT |  |  | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 33 |  |
 | Cu5Hf |  | -11.99 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 34 |  |
 | Cu5Hf |  | -11.69 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 35 |  |
 | Cu5Hf | [Cu5Hf](https://data.orchid-project.org/compounds/Cu5Hf.html) | -9.91 kJ/mol-atom |  | model |  | -11.585 (oqmd-1373519) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 31 |  |
-| Cu5Hf |  | -9.909 kJ/mol (basis unstated) | 298 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 2 |  |
+| Cu5Hf |  | -9.909 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 2 |  |
 | Cu5Hf | [Cu5Hf](https://data.orchid-project.org/compounds/Cu5Hf.html) | -9.62 kJ/mol-atom |  | model |  | -11.585 (oqmd-1373519) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 32 |  |
-| Cu8Hf3 |  | -192.72 kJ/mol (basis unstated) | 298 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7 |  |
+| Cu8Hf3 |  | -192.72 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 7 |  |
 | Cu8Hf3 | [Cu8Hf3](https://data.orchid-project.org/compounds/Cu8Hf3.html) | -192.72 kJ/mol-atom |  | model | -16.068 (mp-aaaaakwv) | -15.567 (oqmd-32345) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 8 |  |
 | Cu8Hf3 |  | -17.27 kJ/mol-atom |  | DFT |  |  | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 11 |  |
 | Cu8Hf3 |  | -16.74 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 12 |  |
 | Cu8Hf3 |  | -15.22 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 13 |  |
-| Cu8Hf3 |  | -13.629 kJ/mol (basis unstated) | 298 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
+| Cu8Hf3 |  | -13.629 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
 | Cu8Hf3 | [Cu8Hf3](https://data.orchid-project.org/compounds/Cu8Hf3.html) | -13.6 kJ/mol-atom |  | model | -16.068 (mp-aaaaakwv) | -15.567 (oqmd-32345) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 9 |  |
 | Cu8Hf3 | [Cu8Hf3](https://data.orchid-project.org/compounds/Cu8Hf3.html) | -13.55 kJ/mol-atom |  | model | -16.068 (mp-aaaaakwv) | -15.567 (oqmd-32345) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 10 |  |
 | CuHf2 | [CuHf2](https://data.orchid-project.org/compounds/CuHf2.html) | -56.12 kJ/mol-atom |  | model | -15.432 (mp-aaaabtgf) | -15.582 (oqmd-1895392) | [1] Zhong 2013; _cites Subramanian 1988_ | Table 2, p. 7, row 2 |  |
-| CuHf2 |  | -56.12 kJ/mol (basis unstated) | 298 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 13 |  |
+| CuHf2 |  | -56.12 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Turchanin 2008; _cites ref. 13_ | Table 2, p. 6, row 13 |  |
 | CuHf2 | [CuHf2](https://data.orchid-project.org/compounds/CuHf2.html) | -20.75 kJ/mol-atom |  | model | -15.432 (mp-aaaabtgf) | -15.582 (oqmd-1895392) | [1] Zhong 2013; _cites Turchanin 2008_ [doi](https://doi.org/10.1007/s11106-008-9008-4) | Table 2, p. 7, row 4 |  |
-| CuHf2 |  | -19.174 kJ/mol (basis unstated) | 298 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
+| CuHf2 |  | -19.174 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
 | CuHf2 | [CuHf2](https://data.orchid-project.org/compounds/CuHf2.html) | -19.17 kJ/mol-atom |  | model | -15.432 (mp-aaaabtgf) | -15.582 (oqmd-1895392) | [1] Zhong 2013; _cites Liang 2006_ [doi](https://doi.org/10.1016/j.jallcom.2006.02.013) | Table 2, p. 7, row 3 |  |
 | CuHf2 |  | -16.36 kJ/mol-atom |  | DFT |  |  | [1] Zhong 2013; _cites Ghosh 2007_ [doi](https://doi.org/10.1016/j.actamat.2007.01.037) | Table 2, p. 7, row 5 |  |
 | CuHf2 |  | -16.22 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 6 |  |
 | CuHf2 |  | -15.5 kJ/mol-atom | 0 | DFT |  |  | [1] Zhong 2013 | Table 2, p. 7, row 7 |  |
 | CuHf2 | [CuHf2](https://data.orchid-project.org/compounds/CuHf2.html) | -15.23 kJ/mol-atom | 298.15 | experimental | -15.432 (mp-aaaabtgf) | -15.582 (oqmd-1895392) | [1] Zhong 2013; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 2, p. 7, row 1 |  |
-| CuHf2 |  | -15.23 kJ/mol (basis unstated) ± 0.5 | 298 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 12 |  |
+| CuHf2 |  | -15.23 kJ/mol (basis unstated) ± 0.5 | 298.15 | experimental |  |  | [2] Turchanin 2008; _cites ref. 20_ | Table 2, p. 6, row 12 |  |
 
 ## Other properties
 
@@ -239,11 +241,11 @@ Table: Formation, Cu–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -2.213 J/mol (basis unstated)/K | 298 | Cu10Hf7; _alloy: Hf 0.411765_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | -2 J/mol-atom/K | 298 | Cu51Hf14; _alloy: Hf 0.215385_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.37 J/mol (basis unstated)/K | 298 | Cu5Hf; _alloy: Hf 0.166667_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.028 J/mol (basis unstated)/K | 298 | Cu8Hf3; _alloy: Hf 0.272727_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.383 J/mol (basis unstated)/K | 298 | CuHf2; _alloy: Hf 0.666667_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.213 J/mol (basis unstated)/K | 298.15 | Cu10Hf7; _alloy: Hf 0.411765_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 11 |  |
+| Entropy of formation; _printed: ΔfS_ | -2 J/mol-atom/K | 298.15 | Cu51Hf14; _alloy: Hf 0.215385_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | -1.37 J/mol (basis unstated)/K | 298.15 | Cu5Hf; _alloy: Hf 0.166667_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 2 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.028 J/mol (basis unstated)/K | 298.15 | Cu8Hf3; _alloy: Hf 0.272727_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 8 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.383 J/mol (basis unstated)/K | 298.15 | CuHf2; _alloy: Hf 0.666667_ | model | [2] Turchanin 2008 | Table 2, p. 6, row 14 |  |
 
 ### Crystal structure (29)
 

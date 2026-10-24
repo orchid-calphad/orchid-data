@@ -1,12 +1,12 @@
 # Sm2O3: enthalpy of formation
 
-> Enthalpy of formation of Sm2O3: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Sm2O3: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Sm2O3.html · Markdown: https://data.orchid-project.org/compounds/Sm2O3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -372.62 kJ/mol-atom (mp-aaaaaaik); OQMD -357.094 kJ/mol-atom (oqmd-7283).
 
-Systems: [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html)
+Systems: [O–Sm](https://data.orchid-project.org/systems/O-SM.html)
 
 ## Literature values
 
@@ -14,8 +14,21 @@ Table: Enthalpy of formation of Sm2O3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1826.8 unknown | C-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
-| -1823 unknown | B-Sm2O3 | 298.15 | model |  | [Ce–La–Nd–O–Pm–Pr–Sc–Sm–Y](https://data.orchid-project.org/systems/CE-LA-ND-O-PM-PR-SC-SM-Y.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
+| -365.36 kJ/mol-atom | C-Sm2O3 | 298.15 | model |  | [O–Sm](https://data.orchid-project.org/systems/O-SM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 43 |  |
+| -364.6 kJ/mol-atom | B-Sm2O3 | 298.15 | model |  | [O–Sm](https://data.orchid-project.org/systems/O-SM.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 44 |  |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Sm2O3
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaaaik | -372.62 | -3.86195 | Ia-3 | 0 | 0 | no |
+| OQMD | oqmd-7283 | -357.094 | -3.70103 | Ia-3 | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 

@@ -4,9 +4,9 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 1012 | 3012 | 193 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 542 | 845 | 84 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
-| invariants | 1673 | 5576 | 486 | ZPF datasets from experimental invariant-reaction tables |
+| experimental | 975 | 2932 | 192 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| model | 526 | 828 | 84 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| invariants | 1656 | 5486 | 483 | ZPF datasets from experimental invariant-reaction tables |
 | dft/literature | 441 | 1050 | 44 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1218 | 1218 | 373 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
 | dft/oqmd | 1218 | 1218 | 373 | OQMD on-hull formation energies, HM_FORM endmember datasets |
@@ -15,9 +15,9 @@ Optional phase constraints (separate folders; never mixed with measured data; se
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 654 | 7702 | 482 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
-| derived/invariant-brackets | 1144 | 5659 | 401 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
-| derived/liquid-stability | 434 | 3906 | 312 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
+| assessed | 650 | 7671 | 479 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
+| derived/invariant-brackets | 1141 | 5612 | 399 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/liquid-stability | 431 | 3879 | 310 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
 
@@ -63,6 +63,15 @@ system:
 
 (ESPEI applies `tags` before it removes disabled datasets, so the second tag re-enables.)
 
+## Inclusion and temperatures (cleanup 2026-10-24)
+
+- Every value the literature release marks not ESPEI-ready is left out: experimental and DFT values must be `espei_ready`; model values (never flagged espei_ready, the flag is about measured data) are left out when a literature gate marks them `not_espei_ready` or `not_accepted` (`not_espei_ready:literature_gate`).
+- 298 K is 298.15 K: a dataset temperature of 298 / 298.1 / 298.2 K is the standard reference temperature and is written as 298.15 K (the literature records store 298.15 too, rule `standard_reference_temperature`), so ESPEI's `filter_temperatures` (non-equilibrium values below 298.15 K) removes nothing; a non-equilibrium value really below 298.15 K is left out and listed (`below_espei_temperature_floor`).
+- One published observation supplies at most one value per folder (`duplicate_of_other_dataset`).
+- A printed sigma below 0.1 x ESPEI's experimental default (e.g. +-0.011 kJ/mol) is below any measurement resolution: the dataset weight uses the default for that value (`sigma_floor_applied` in `orchid_uncertainty`; the printed sigma is kept).
+- `experimental/MG-O/MgO-18Lia.zpf-00.json`, `invariants/PD-TI/PdTi-11Guo.zpf-00.json` and `invariants/AL-S/AlS-19Shi.zpf-01.json` are left out: their pycalphad driving-force evaluation is not reproducible (`pycalphad_evaluation_unstable`).
+- A compound whose independent measured formation enthalpies disagree by more than their printed sigmas carries a scatter-aware sigma (`uncertainty.basis = scatter_between_sources`, sample standard deviation of the independent values; page-checked); the dataset weight uses it.
+
 ## Phase assignment
 
 Physical phase rule (tools/phase_rule.py): a literature value is assigned to a phase only when the paper names that phase (printed phase label of the value; when no label is printed, a table caption that names the liquid) and the phase registry maps the label to a model phase; no default phase is assigned. A liquid assignment must be physically possible: not below the lowest liquid temperature of any calculated SGTE diagram of the system minus max(100 K, 10 %) (twice that for printed invariant and phase-composition records; no calculated diagram: not below 0.40 x the lowest element melting point). Formation enthalpies and entropies of a stoichiometric compound go to that compound's TDB endmember (ESPEI non-equilibrium dataset, `solver`); other properties of a compound are not used in ESPEI. A solution-phase assignment outside the phase's field in the calculated diagram of the target TDB is flagged (`outside_calculated_field`), not excluded. Temperatures: T <= 1 K is not a measured state; a printed phase equilibrium (invariant, phase composition, transition) below 0.25 x the lowest element melting point is a misreading. A value flagged `unsigned_in_print` / `magnitude_suspect` / `system_mismatch` / `source_disputed` is not ESPEI-ready.
@@ -104,7 +113,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Optional minimum-sigma policy (E6)
 
-Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 47 of 869 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
+Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 30 of 845 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
 
 ## Phase constraints (optional)
 

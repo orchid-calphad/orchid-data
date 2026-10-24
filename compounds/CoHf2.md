@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CoHf2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43 kJ/mol-atom | CoHf2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
-| -38 kJ/mol-atom | CoHf2 | 298 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
+| -43 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
+| -38 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
 
 ## DFT formation energies
 
@@ -23,10 +23,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of CoHf2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacptpp | -28.174 | -0.292 | Fd-3m | 0 | no |
-| OQMD | oqmd-1365971 | -30.133 | -0.312307 | I4/mcm | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacptpp | -28.174 | -0.292 | Fd-3m | 0 | 0 | no |
+| OQMD | oqmd-1365971 | -30.133 | -0.312307 | I4/mcm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

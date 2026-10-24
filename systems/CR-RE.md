@@ -1,10 +1,10 @@
 # Cr–Re system
 
-> Cr–Re system: 206 accepted literature values (crystal structure 127, formation 64, invariant reaction 12, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Re system: 111 accepted literature values (crystal structure 64, formation 32, invariant reaction 12, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-RE.html · Markdown: https://data.orchid-project.org/systems/CR-RE.md
 
-206 accepted literature values from 2 paper(s) (experimental 9, model 6, DFT 191); 4 calculated phase diagram(s).
+111 accepted literature values from 2 paper(s) (experimental 9, model 6, DFT 96); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RE.json) · [CSV](https://data.orchid-project.org/systems/CR-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RE/CrRe-18Guo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CR-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-RE.html) · [Markdown](https://data.orchid-project.org/systems/CR-RE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 9 |
 | model | 6 |
-| DFT | 191 |
+| DFT | 96 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 3 |
-| formation | 64 |
-| crystal structure | 127 |
+| formation | 32 |
+| crystal structure | 64 |
 
 ## Calculated phase diagrams
 
@@ -78,42 +78,10 @@ Table: Invariant reactions reported in the literature for the Cr–Re system (12
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Re system (64)
+Table: Enthalpies of formation, Cr–Re system (32)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| sigma |  | 1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 13 |  |
-| sigma |  | 1.3 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 14 |  |
-| sigma |  | 2.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 29 |  |
-| sigma |  | 3.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 6 |  |
-| sigma |  | 3.4 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 30 |  |
-| sigma |  | 3.7 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 15 |  |
-| sigma |  | 4.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 5 |  |
-| sigma |  | 5.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 22 |  |
-| sigma |  | 5.4 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 10 |  |
-| sigma |  | 5.6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 21 |  |
-| sigma |  | 5.7 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 9 |  |
-| sigma |  | 6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 16 |  |
-| sigma |  | 6.3 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 31 |  |
-| sigma |  | 6.6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 11 |  |
-| sigma |  | 7.5 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 7 |  |
-| sigma |  | 7.5 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 8 |  |
-| sigma |  | 8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 26 |  |
-| sigma |  | 8.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 25 |  |
-| sigma |  | 8.9 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 12 |  |
-| sigma |  | 9.6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| sigma |  | 9.6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 27 |  |
-| sigma |  | 10 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 23 |  |
-| sigma |  | 10.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 24 |  |
-| sigma |  | 11.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
-| sigma |  | 11.7 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 28 |  |
-| sigma |  | 12.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
-| sigma |  | 12.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |
-| sigma |  | 13.6 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 18 |  |
-| sigma |  | 13.9 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 17 |  |
-| sigma |  | 14.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 4 |  |
-| sigma |  | 15 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 19 |  |
-| sigma |  | 16.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 20 |  |
 | sigma CrCrCrCrCr |  | 12.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
 | sigma CrCrCrCrRe |  | 11.2 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
 | sigma CrCrCrReCr |  | 12.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |
@@ -159,44 +127,12 @@ Table: Phase transition, Cr–Re system
 | Phase transition | 2557 K | 2557 | b.c.c. → liquid + σ | experimental | [1] Palumbo 2010 | p. 8 | “The transformation temperature reported by Savitskii is 2557 ± 25 K, whereas in the more recent work of Gritsiv et al. a value equal to 2423 ± 15 K was reported. The purity of the starting samples in both works is similar so the difference cannot be ascribed to purity issues. Savitskii measured this temperature by a droplet method on an alloy containing 50 at.% Re.” |
 | Phase transition | 3459 K | 3459 |  | experimental | [1] Palumbo 2010 | p. 1 | “As the melting temperature of pure Re (3459 K) and its compounds is high, Narita et al. \[2\] have investigated Re-rich TCP phase (ReCr sigma phase) as a diffusion barrier coating between the matrix and the Al-reservoir layer.” |
 
-### Crystal structure (127)
+### Crystal structure (64)
 
 Table: Crystal structure, Cr–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 9.019 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 9.075 Å | 0 | sigma; _alloy: Cr 0.467, Re 0.533_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 9.116 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 21 |  |
-| Lattice a; _printed: a_ | 9.347 Å | 0 | sigma; _alloy: Cr 0.467, Re 0.533_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 8.932 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 10 |  |
-| Lattice a; _printed: a_ | 9.552 Å | 0 | sigma; _alloy: Cr 0, Re 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| Lattice a; _printed: a_ | 9.284 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 30 |  |
-| Lattice a; _printed: a_ | 9.175 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 11 |  |
-| Lattice a; _printed: a_ | 9.112 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 9.183 Å | 0 | sigma; _alloy: Cr 0.467, Re 0.533_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 8.835 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 8.856 Å | 0 | sigma; _alloy: Cr 0.933, Re 0.067_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 17 |  |
-| Lattice a; _printed: a_ | 9.265 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 27 |  |
-| Lattice a; _printed: a_ | 9.019 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 26 |  |
-| Lattice a; _printed: a_ | 9.164 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 22 |  |
-| Lattice a; _printed: a_ | 9.222 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 19 |  |
-| Lattice a; _printed: a_ | 8.855 Å | 0 | sigma; _alloy: Cr 0.867, Re 0.133_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 9 |  |
-| Lattice a; _printed: a_ | 9.333 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 28 |  |
-| Lattice a; _printed: a_ | 9.234 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 12 |  |
-| Lattice a; _printed: a_ | 8.942 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 18 |  |
-| Lattice a; _printed: a_ | 9.389 Å | 0 | sigma; _alloy: Cr 0.2, Re 0.8_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 8 |  |
-| Lattice a; _printed: a_ | 9.206 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 14 |  |
-| Lattice a; _printed: a_ | 9.268 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 20 |  |
-| Lattice a; _printed: a_ | 9.435 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 15 |  |
-| Lattice a; _printed: a_ | 8.749 Å | 0 | sigma; _alloy: Cr 1, Re 0_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
-| Lattice a; _printed: a_ | 9.469 Å | 0 | sigma; _alloy: Cr 0.067, Re 0.933_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 16 |  |
-| Lattice a; _printed: a_ | 9.478 Å | 0 | sigma; _alloy: Cr 0.133, Re 0.867_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 24 |  |
-| Lattice a; _printed: a_ | 9.442 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 23 |  |
-| Lattice a; _printed: a_ | 9.171 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 13 |  |
-| Lattice a; _printed: a_ | 9.527 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 31 |  |
-| Lattice a; _printed: a_ | 9.252 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 29 |  |
-| Lattice a; _printed: a_ | 8.951 Å | 0 | sigma; _alloy: Cr 0.8, Re 0.2_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 25 |  |
 | Lattice a; _printed: a_ | 8.749 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1, Re 0_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
 | Lattice a; _printed: a_ | 8.835 Å | 0 | sigma CrCrCrCrRe; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
 | Lattice a; _printed: a_ | 9.112 Å | 0 | sigma CrCrCrReCr; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |
@@ -229,37 +165,6 @@ Table: Crystal structure, Cr–Re system
 | Lattice a; _printed: a_ | 9.284 Å | 0 | sigma ReReReCrRe; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 30 |  |
 | Lattice a; _printed: a_ | 9.527 Å | 0 | sigma ReReReReCr; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 31 |  |
 | Lattice a; _printed: a_ | 9.552 Å | 0 | sigma ReReReReRe; _alloy: Cr 0, Re 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| Lattice c; _printed: c_ | 4.641 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 4.934 Å | 0 | sigma; _alloy: Cr 0.467, Re 0.533_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 6 |  |
-| Lattice c; _printed: c_ | 4.651 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 21 |  |
-| Lattice c; _printed: c_ | 4.734 Å | 0 | sigma; _alloy: Cr 0.467, Re 0.533_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 4.918 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 10 |  |
-| Lattice c; _printed: c_ | 5.006 Å | 0 | sigma; _alloy: Cr 0, Re 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 32 |  |
-| Lattice c; _printed: c_ | 4.939 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 30 |  |
-| Lattice c; _printed: c_ | 4.695 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 11 |  |
-| Lattice c; _printed: c_ | 4.644 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 4.904 Å | 0 | sigma; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 4.578 Å | 0 | sigma; _alloy: Cr 0.933, Re 0.067_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 17 |  |
-| Lattice c; _printed: c_ | 4.71 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 27 |  |
-| Lattice c; _printed: c_ | 4.924 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 26 |  |
-| Lattice c; _printed: c_ | 4.939 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 22 |  |
-| Lattice c; _printed: c_ | 4.643 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 19 |  |
-| Lattice c; _printed: c_ | 4.611 Å | 0 | sigma; _alloy: Cr 0.867, Re 0.133_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 9 |  |
-| Lattice c; _printed: c_ | 4.962 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 28 |  |
-| Lattice c; _printed: c_ | 4.97 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 12 |  |
-| Lattice c; _printed: c_ | 4.907 Å | 0 | sigma; _alloy: Cr 0.667, Re 0.333_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 18 |  |
-| Lattice c; _printed: c_ | 4.99 Å | 0 | sigma; _alloy: Cr 0.2, Re 0.8_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 8 |  |
-| Lattice c; _printed: c_ | 4.931 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 14 |  |
-| Lattice c; _printed: c_ | 4.956 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 20 |  |
-| Lattice c; _printed: c_ | 4.771 Å | 0 | sigma; _alloy: Cr 0.333, Re 0.667_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 15 |  |
-| Lattice c; _printed: c_ | 4.561 Å | 0 | sigma; _alloy: Cr 1, Re 0_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
-| Lattice c; _printed: c_ | 5.006 Å | 0 | sigma; _alloy: Cr 0.067, Re 0.933_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 16 |  |
-| Lattice c; _printed: c_ | 4.993 Å | 0 | sigma; _alloy: Cr 0.133, Re 0.867_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 24 |  |
-| Lattice c; _printed: c_ | 4.748 Å | 0 | sigma; _alloy: Cr 0.4, Re 0.6_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 23 |  |
-| Lattice c; _printed: c_ | 4.654 Å | 0 | sigma; _alloy: Cr 0.6, Re 0.4_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 4.777 Å | 0 | sigma; _alloy: Cr 0.267, Re 0.733_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 31 |  |
-| Lattice c; _printed: c_ | 4.676 Å | 0 | sigma; _alloy: Cr 0.533, Re 0.467_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 29 |  |
-| Lattice c; _printed: c_ | 4.636 Å | 0 | sigma; _alloy: Cr 0.8, Re 0.2_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 25 |  |
 | Lattice c; _printed: c_ | 4.561 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1, Re 0_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
 | Lattice c; _printed: c_ | 4.904 Å | 0 | sigma CrCrCrCrRe; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 2 |  |
 | Lattice c; _printed: c_ | 4.644 Å | 0 | sigma CrCrCrReCr; _alloy: Cr 0.733, Re 0.267_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 3 |  |

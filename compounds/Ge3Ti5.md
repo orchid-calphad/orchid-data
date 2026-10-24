@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ge3Ti5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -70.8 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
-| -69.7 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| -70.8 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298.15 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011; _cites Kleppa 1990_ | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
+| -69.7 kJ/mol-atom ± 2.5 | Ti5Ge3 | 298.15 | experimental |  | [Ge–Ti](https://data.orchid-project.org/systems/GE-TI.html) | [1] Liu 2011 | p. 3 | “The measured enthalpy of formation of Ti5 Ge3 at 298 K is -69,700 ± 2500 J/(mol atoms), which is in a good agreement with the result of Kleppa and Jung \[10\], -70,800 ± 2500 J/(mol atoms).” |
 
 ## DFT formation energies
 
@@ -23,10 +23,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ge3Ti5
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabgilz | -67.135 | -0.695805 | P6_3/mcm | 0 | no |
-| OQMD | oqmd-30500 | -70.401 | -0.729662 | Cmcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabgilz | -67.135 | -0.695805 | P6_3/mcm | 0 | 0 | no |
+| OQMD | oqmd-30500 | -70.401 | -0.729662 | Cmcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

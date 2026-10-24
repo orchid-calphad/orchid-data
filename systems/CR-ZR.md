@@ -122,16 +122,16 @@ Table: Invariant reactions reported in the literature for the Cr–Zr system (25
 | 1835 | peritectic | L: Zr 0.55; C36: Zr 0.36; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 13 |  |
 | 1834 | peritectic | L: Zr 0.577; C36: Zr 0.369; C15: Zr 0.369 | model | [1] Pavlů 2009 | Table 6, p. 5, row 15 |  |
 | 1833 | peritectic | L: Zr 0.57; C36: Zr 0.355; C15: Zr 0.355 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 14 |  |
-| 1818 | eutectic | BCC: Zr 0.01; C36: Zr 0.31; C15: Zr 0.311 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 17 |  |
-| 1812 | eutectic | BCC: Zr 0.027; C36: Zr 0.324; C15: Zr 0.325 | model | [1] Pavlů 2009 | Table 6, p. 5, row 18 |  |
-| 1805 | eutectic | C36: Zr 0.32; C15: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 16 |  |
+| 1818 | eutectoid | BCC: Zr 0.01; C36: Zr 0.31; C15: Zr 0.311 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 17 |  |
+| 1812 | eutectoid | BCC: Zr 0.027; C36: Zr 0.324; C15: Zr 0.325 | model | [1] Pavlů 2009 | Table 6, p. 5, row 18 |  |
+| 1805 | eutectoid | C36: Zr 0.32; C15: Zr 0.32 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 16 |  |
 | 1606 | eutectic | L: Zr 0.78; C15: Zr 0.36 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 19 |  |
 | 1605 | eutectic | L: Zr 0.763; BCC: Zr 0.916; C15: Zr 0.378 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 20 |  |
 | 1597 | eutectic | L: Zr 0.718; BCC: Zr 0.922; C15: Zr 0.383 | model | [1] Pavlů 2009 | Table 6, p. 5, row 21 |  |
 | 1218.15 | eutectic |  | experimental | [2] Zeng 1995 | p. 4 | “One eutectic and one eutectoid equilibria occur in the Zr-corner at 945 °C and 814. °C respectively (Table 2).” |
-| 1110 | eutectic | BCC: Zr 0.982; HCP: Zr 0.995; C15: Zr 0.36 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 23 |  |
-| 1105 | eutectic | BCC: Zr 0.984; HCP: Zr 0.986; C15: Zr 0.34 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 22 |  |
-| 1104 | eutectic | BCC: Zr 0.977; HCP: Zr 0.991; C15: Zr 0.358 | model | [1] Pavlů 2009 | Table 6, p. 5, row 24 |  |
+| 1110 | eutectoid | BCC: Zr 0.982; HCP: Zr 0.995; C15: Zr 0.36 | model | [1] Pavlů 2009; _cites Zeng 1993_ | Table 6, p. 5, row 23 |  |
+| 1105 | eutectoid | BCC: Zr 0.984; HCP: Zr 0.986; C15: Zr 0.34 | experimental | [1] Pavlů 2009; _cites Budberg 1968_ | Table 6, p. 5, row 22 |  |
+| 1104 | eutectoid | BCC: Zr 0.977; HCP: Zr 0.991; C15: Zr 0.358 | model | [1] Pavlů 2009 | Table 6, p. 5, row 24 |  |
 
 ## Other properties
 

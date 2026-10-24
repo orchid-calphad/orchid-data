@@ -168,6 +168,12 @@
       "paper": "doi:10.1007/s10973-017-6635-3",
       "measured_in": "ref:1d99771a0cbc5caf",
       "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-01.json"
+     },
+     {
+      "id": "ORC-IF4LBBWU73",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "doi:10.1515/ijmr-1962-530810",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-04.json"
      }
     ]
    },
@@ -214,6 +220,12 @@
       "paper": "doi:10.1007/s10973-017-6635-3",
       "measured_in": "ref:1d99771a0cbc5caf",
       "dataset": "invariants/AL-ZR/AlZr-18Tam.zpf-01.json"
+     },
+     {
+      "id": "ORC-X2NEJR2XDE.ee661b",
+      "paper": "doi:10.1007/s11669-020-00827-z",
+      "measured_in": "doi:10.1515/ijmr-1962-530810",
+      "dataset": "invariants/AL-ZR/AlZr-20Lon.zpf-04.json"
      }
     ]
    }
@@ -235,7 +247,7 @@
    "10.1515/ijmr-1962-530810"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AlZr-15Fis/zpf-01.json",
-  "e3_merged": 7
+  "e3_merged": 9
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

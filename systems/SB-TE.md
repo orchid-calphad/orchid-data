@@ -102,8 +102,8 @@ Table: Enthalpies of formation, Sb–Te system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Sb2Te3 | [Sb2Te3](https://data.orchid-project.org/compounds/Sb2Te3.html) | -14.9 kJ/mol-atom | 298 | experimental | -36.973 (mp-aaaaabuf) | -12.393 (oqmd-643311) | [1] Guo 2014; _cites Ya 1961_ | Table III, p. 7, row 4 |  |
-| Sb2Te3 | [Sb2Te3](https://data.orchid-project.org/compounds/Sb2Te3.html) | -12.33 kJ/mol-atom | 298 | experimental | -36.973 (mp-aaaaabuf) | -12.393 (oqmd-643311) | [1] Guo 2014; _cites Vecher 1974_ | Table III, p. 7, row 5 |  |
+| Sb2Te3 | [Sb2Te3](https://data.orchid-project.org/compounds/Sb2Te3.html) | -14.9 kJ/mol-atom | 298.15 | experimental | -36.973 (mp-aaaaabuf) | -12.393 (oqmd-643311) | [1] Guo 2014; _cites Ya 1961_ | Table III, p. 7, row 4 |  |
+| Sb2Te3 | [Sb2Te3](https://data.orchid-project.org/compounds/Sb2Te3.html) | -12.33 kJ/mol-atom | 298.15 | experimental | -36.973 (mp-aaaaabuf) | -12.393 (oqmd-643311) | [1] Guo 2014; _cites Vecher 1974_ | Table III, p. 7, row 5 |  |
 
 ## Other properties
 

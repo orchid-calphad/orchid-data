@@ -35,7 +35,7 @@
  "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
  "bibtex": "jain2013_mp",
  "weight": [
-  0.104932
+  0.100604
  ],
  "tags": [
   "dft_mp",
@@ -76,7 +76,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 4765.0,
+    "sigma": 4970.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "mp",
@@ -85,15 +85,15 @@
      "leave_system_out": true,
      "system_left_out": "CO-TH",
      "n": 70,
-     "sigma_robust_kJ": 4.765,
-     "bias_median_kJ_not_applied": 0.942,
+     "sigma_robust_kJ": 4.97,
+     "bias_median_kJ_not_applied": 0.903,
      "ci95_sigma_robust_kJ_full_stratum": [
-      3.575,
-      6.73
+      3.746,
+      7.047
      ],
      "n_full_stratum": 70
     },
-    "weight_used": 0.104932,
+    "weight_used": 0.100604,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -0.2516473794999996,

@@ -98,7 +98,7 @@ Table: Phase transition, Hg–Sn system
 | Phase transition | 262.2 K | 262.2 | other | model | [1] Yen 2003 | p. 13 | “In fact, recalculating Fig. 10 with the ␦ phase suspended results in a metatectic decomposition of ␥ at 262.2 K, and also the liquidus line is virtually unchanged.” |
 | Phase transition | 262.2 K | 262.2 | other | model | [1] Yen 2003 | p. 13 | “This shows up in Fig. 10 by a very similar decomposition temperature of ␦ (261.1 K) and ␥ (262.2 K).” |
 | Phase transition | 265 K | 265 | other: γ: Decomposition temperature: 265.00 K (91.4-94.8 at.% Sn) (a); _alloy: Hg 0.086, Sn 0.914_ | experimental | [1] Yen 2003; _cites Smith 1969_ [doi](https://doi.org/10.1179/cmq.1969.8.2.127) | Table 2, p. 4, row 53 |  |
-| Phase transition | 298 K | 298 | γ: Solubility range: 88-92 at.% Sn (298 K) (b) | experimental | [1] Yen 2003; _cites Che 1991_ [doi](https://doi.org/10.1007/bf01130189) | Table 2, p. 4, row 45 |  |
+| Phase transition | 298.15 K | 298.15 | γ: Solubility range: 88-92 at.% Sn (298 K) (b) | experimental | [1] Yen 2003; _cites Che 1991_ [doi](https://doi.org/10.1007/bf01130189) | Table 2, p. 4, row 45 |  |
 | Phase transition | 310 K | 310 | γ: Solubility range: 86.4-92.3 at.% Sn (310 K) (b) | experimental | [1] Yen 2003; _cites Aldinger 1976_ | Table 2, p. 4, row 48 |  |
 | Phase transition | 331 K | 331 | other: ε: Formation temperature: 331 K (42.0-88.5 at.% Sn) (a); _alloy: Hg 0.58, Sn 0.42_ | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 2, p. 4, row 62 |  |
 | Phase transition | 333 K | 333 | ε: Solubility range: 85.5-86.5 at.% Sn (333 K) (b) | experimental | [1] Yen 2003; _cites Taylor 1963_ [doi](https://doi.org/10.6028/jres.067a.008) | Table 2, p. 4, row 61 |  |
@@ -134,7 +134,7 @@ Table: Activity / EMF / Gibbs energy, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Activity; _printed: aSn_ | 0.927 unspecified | 298 |  | model | [1] Yen 2003 | p. 10 | “At 298 K for instance, aSn rises to 0.927 and then remains constant from xSn⳱ 0.027-0.923.” |
+| Activity; _printed: aSn_ | 0.927 unspecified | 298.15 |  | model | [1] Yen 2003 | p. 10 | “At 298 K for instance, aSn rises to 0.927 and then remains constant from xSn⳱ 0.027-0.923.” |
 | Vapour pressure; _printed: vapor pressure_ | 7.502e-4 bar | 344 | ␥ | experimental | [1] Yen 2003; _cites Reynolds 1974_ [doi](https://doi.org/10.1002/jbm.820080604) | p. 4 | “Reynolds also determined the vapor pressure of ␥ phase from weight loss data and gave this value as 7.502 × 10-4 bar at 344 K \[1974Rey\].” |
 
 ### Crystal structure (14)
@@ -145,13 +145,13 @@ Table: Crystal structure, Hg–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.3005 nm | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
 | Lattice a | 0.64892 nm | 286.2 (\<) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
-| Lattice a | 0.58286 nm | 298 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
+| Lattice a | 0.58286 nm | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
 | Lattice a | 0.555104 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice a | 0.32109 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
 | Lattice a | 0.58317 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
 | Lattice a | 0.32415 nm | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
 | Lattice b | 0.31791 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
-| Lattice c | 0.31805 nm | 298 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
+| Lattice c | 0.31805 nm | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
 | Lattice c | 0.298311 nm | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice c | 0.29888 nm | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
 | Lattice c | 0.31813 nm | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |

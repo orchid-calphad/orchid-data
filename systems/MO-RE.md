@@ -1,10 +1,10 @@
 # Mo–Re system
 
-> Mo–Re system: 238 accepted literature values (formation 135, invariant reaction 82, phase equilibrium 13, phase transition 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Re system: 207 accepted literature values (formation 104, invariant reaction 82, phase equilibrium 13, phase transition 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-RE.html · Markdown: https://data.orchid-project.org/systems/MO-RE.md
 
-238 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 128); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+207 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 97); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RE.json) · [CSV](https://data.orchid-project.org/systems/MO-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-08Mao-oldsigma.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MO-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-RE.html) · [Markdown](https://data.orchid-project.org/systems/MO-RE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 54 |
 | model | 56 |
-| DFT | 128 |
+| DFT | 97 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 82 |
 | phase transition | 8 |
 | phase equilibrium | 13 |
-| formation | 135 |
+| formation | 104 |
 
 ## Calculated phase diagrams
 
@@ -155,7 +155,7 @@ Table: Invariant reactions reported in the literature for the Mo–Re system (82
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Re system (135)
+Table: Enthalpies of formation, Mo–Re system (104)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -193,77 +193,46 @@ Table: Enthalpies of formation, Mo–Re system (135)
 | \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
 | \\sigma |  | 0.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
 | \\sigma |  | 0.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
-| \\sigma |  | 0.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
-| \\sigma |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 22 |  |
 | \\sigma |  | 1.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
 | \\sigma |  | 1.95 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
 | \\sigma |  | 2.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
 | \\sigma |  | 3.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 26 |  |
-| \\sigma |  | 3.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 19 |  |
-| \\sigma |  | 3.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 15 |  |
-| \\sigma |  | 3.78 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 17 |  |
-| \\sigma |  | 4.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 6 |  |
 | \\sigma |  | 5.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 23 |  |
 | \\sigma |  | 5.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
-| \\sigma |  | 5.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
 | \\sigma |  | 5.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
-| \\sigma |  | 6.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
 | \\sigma |  | 6.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
 | \\sigma |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
-| \\sigma |  | 10 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
 | \\sigma |  | 10.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
 | \\sigma |  | 10.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
 | \\sigma |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
 | \\sigma |  | 12.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
-| \\sigma |  | 12.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
-| \\sigma |  | 12.42 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
 | \\sigma |  | 12.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 11 |  |
 | \\sigma |  | 12.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 5 |  |
 | \\sigma |  | 13.08 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
 | \\sigma |  | 13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
-| \\sigma |  | 13.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
-| \\sigma |  | 14.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
 | \\sigma |  | 14.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
-| \\sigma |  | 16.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
 | \\sigma |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
 | bcc |  | 7 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 3 |  |
 | σ |  | 0.68 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
 | σ |  | 0.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
 | σ |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 22 |  |
-| σ |  | 1.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
 | σ |  | 2.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 1 |  |
-| σ |  | 3.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 26 |  |
 | σ |  | 3.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 19 |  |
 | σ |  | 3.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 15 |  |
 | σ |  | 3.78 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 17 |  |
 | σ |  | 4.43 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 2 |  |
 | σ |  | 4.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 6 |  |
-| σ |  | 5.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 23 |  |
-| σ |  | 5.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
 | σ |  | 5.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
-| σ |  | 5.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
 | σ |  | 5.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 3 |  |
 | σ |  | 6.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
-| σ |  | 6.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
-| σ |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
 | σ |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
 | σ |  | 10 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
-| σ |  | 10.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
-| σ |  | 10.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
 | σ |  | 10.46 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
-| σ |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
-| σ |  | 12.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
 | σ |  | 12.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
 | σ |  | 12.42 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
-| σ |  | 12.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 11 |  |
-| σ |  | 12.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 5 |  |
-| σ |  | 13.08 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
-| σ |  | 13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
 | σ |  | 13.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
 | σ |  | 14.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
-| σ |  | 14.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
 | σ |  | 16.05 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
-| σ |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
 | σ |  | 18 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 2 |  |
 | σ: Re10(Mo,Re)4(Mo,Re)16 |  | 2.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 1 |  |
 | σ: Re10(Mo,Re)4(Mo,Re)16 |  | 4.43 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 2 |  |

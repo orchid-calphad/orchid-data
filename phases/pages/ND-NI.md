@@ -17,7 +17,7 @@ Table: Phases of the Nd–Ni system (16)
 | [DHCP](#phase-nd-ni-dhcp-a3); _phase:nd-ni:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1128.04 K, x(Ni) 0–9e-05 | 11 | 4 |
 | [FCC_A1](#phase-nd-ni-fcc-a1); _phase:nd-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.94 K, x(Ni) 0.99956–1 | 5 | 4 |
 | [HCP_A3](#phase-nd-ni-hcp-a3); _phase:nd-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-nd-ni-liquid); _phase:nd-ni:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 800.56–2500 K, x(Ni) 0–1 | 86 | 4 |
+| [LIQUID](#phase-nd-ni-liquid); _phase:nd-ni:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 800.56–2500 K, x(Ni) 0–1 | 85 | 4 |
 | [ND2NI17](#phase-nd-ni-nd2ni17); _phase:nd-ni:nd2ni17_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1519.7–1572.74 K, x(Ni) 0.89474–0.89474 | 7 | 4 |
 | [ND2NI7](#phase-nd-ni-nd2ni7); _phase:nd-ni:nd2ni7_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1466.2 K, x(Ni) 0.77778–0.77778 | 0 | 3 |
 | [ND2NI7_HT](#phase-nd-ni-nd2ni7-ht); _phase:nd-ni:nd2ni7-ht_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1444.36–1464.6 K, x(Ni) 0.77778–0.77778 | 5 | 1 |
@@ -260,7 +260,7 @@ _assessment that models this phase_
 - Id: `phase:nd-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 800.56–2500 K, x(Ni) 0–1
-- Literature: 86 values (86 accepted) from 2 papers
+- Literature: 85 values (85 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-ni:liquid)
 
 Names (7): _corpus: _corpus:phase:nd-ni:liquid  

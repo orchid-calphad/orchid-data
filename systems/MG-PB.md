@@ -1,10 +1,10 @@
 # Mg–Pb system
 
-> Mg–Pb system: 108 accepted literature values (mixing / partial 34, invariant reaction 34, crystal structure 20, formation 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Pb system: 113 accepted literature values (invariant reaction 39, mixing / partial 34, crystal structure 20, formation 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://data.orchid-project.org/systems/MG-PB.md
 
-108 accepted literature values from 2 paper(s) (experimental 61, model 7, DFT 40); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+113 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 40); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PB.html) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 61 |
-| model | 7 |
+| experimental | 65 |
+| model | 8 |
 | DFT | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 34 |
+| invariant reaction | 39 |
 | formation | 20 |
 | mixing / partial | 34 |
 | crystal structure | 20 |
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Pb system (34)
+Table: Invariant reactions reported in the literature for the Mg–Pb system (39)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -67,31 +67,36 @@ Table: Invariant reactions reported in the literature for the Mg–Pb system (34
 | 822.65 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.3333; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grethe 1959_ | Table 3, p. 6, row 1 |  |
 | 822.15 | congruent melting: Liquid=Mg2Pb | Liquid: Pb 0.35; Mg2Pb: Pb 0.35 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 2 |  |
 | 748.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.2; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 13 |  |
+| 748.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.2; Mg2Pb: Pb 0.333 | experimental | [2] Dębski 2021; _cites Kurnakov 1933_ | Table 5, p. 7, row 7 |  |
 | 739.35 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0775 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 8 |  |
-| 739.35 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; Phase 2: Pb 0.0775; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0775 | experimental | [2] Dębski 2021; _cites Eldridge 1967_ | Table 5, p. 7, row 2 |  |
-| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.0714; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.0714 | experimental | [2] Dębski 2021; _cites Foote 1941_ | Table 5, p. 7, row 4 |  |
+| 739.35 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.0775 | experimental | [2] Dębski 2021; _cites Eldridge 1967_ | Table 5, p. 7, row 2 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.0714 | experimental | [2] Dębski 2021; _cites Foote 1941_ | Table 5, p. 7, row 4 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.0714 | experimental | [1] Zhang 2014; _cites Foote 1941_ | Table 3, p. 6, row 10 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.091 | experimental | [1] Zhang 2014; _cites Vosskuhler 1939_ | Table 3, p. 6, row 12 |  |
-| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; Phase 2: Pb 0.078; Phase 3: Pb 0.333; HCP_A3 (Mg): Pb 0.078 | experimental | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 5, p. 7, row 3 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.078 | experimental | [2] Dębski 2021; _cites Dobovisek 1965_ | Table 5, p. 7, row 3 |  |
+| 739.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.091 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 6 |  |
 | 739.15 | eutectic: Liquid=Mg2Pb+(Mg) | Mg2Pb: Pb 0.3333; (Mg): Pb 0.078 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 9 |  |
+| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.075 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 9 |  |
+| 739 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.175; Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.083 | model | [2] Dębski 2021 | Table 5, p. 7, row 1 |  |
+| 738.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.191; Mg2Pb: Pb 0.333; HCP_A3 (Mg): Pb 0.0975 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 5 |  |
 | 738.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.191; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0975 | experimental | [1] Zhang 2014; _cites Raynor 1940_ | Table 3, p. 6, row 11 |  |
 | 737.05 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.1929; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0741 | model | [1] Zhang 2014 | Table 3, p. 6, row 16 |  |
-| 732.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.192; Mg2Pb: Pb 0.333; Phase 3: Pb 0.333 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 8 |  |
+| 732.15 | L = HCP_A3 (Mg)+ Mg2Pb | L: Pb 0.192; Mg2Pb: Pb 0.333 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 8 |  |
 | 732.15 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.192; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Grube 1905_ | Table 3, p. 6, row 14 |  |
 | 732 | eutectic: Liquid=Mg2Pb+(Mg) | Liquid: Pb 0.1651; Mg2Pb: Pb 0.3333; (Mg): Pb 0.0871 | model | [1] Zhang 2014 | Table 3, p. 6, row 15 |  |
 | 526.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.843; Mg2Pb: Pb 0.3333; (Pb): Pb 1 | experimental | [1] Zhang 2014; _cites Kurnakow 1905_ | Table 3, p. 6, row 20 |  |
-| 526 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.84; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1; Phase 2: Pb 0.333; Phase 3: Pb 1 | experimental | [2] Dębski 2021; _cites Kurnakov 1905_ | Table 5, p. 7, row 14 |  |
+| 526 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.84; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1 | experimental | [2] Dębski 2021; _cites Kurnakov 1905_ | Table 5, p. 7, row 14 |  |
 | 525.15 | eutectic: Liquid=Mg2Pb+(Pb) | Mg2Pb: Pb 0.3333; (Pb): Pb 0.941 | experimental | [1] Zhang 2014; _cites Dobovisek 1965_ | Table 3, p. 6, row 19 |  |
-| 525 | L = Mg2Pb + FCC_A1(Mg) | Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.941; Phase 2: Pb 0.333; Phase 3: Pb 0.941 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 13 |  |
-| 522 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94; Phase 2: Pb 0.333; Phase 3: Pb 0.94 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 16 |  |
-| 521.85 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333; Phase 2: Pb 0.333 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 12 |  |
+| 525 | L = Mg2Pb + FCC_A1(Mg) | Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.941 | experimental | [2] Dębski 2021; _cites Vosskuhler 1939_ | Table 5, p. 7, row 13 |  |
+| 522 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94 | experimental | [2] Dębski 2021; _cites Nayeb-Hashemi 1985_ [doi](https://doi.org/10.1007/bf02871188) | Table 5, p. 7, row 16 |  |
+| 521.85 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.83; Mg2Pb: Pb 0.333 | experimental | [2] Dębski 2021; _cites Raynor 1940_ | Table 5, p. 7, row 12 |  |
 | 521.85 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.83; Mg2Pb: Pb 0.3333 | experimental | [1] Zhang 2014; _cites Eldridge 1965_ | Table 3, p. 6, row 18 |  |
-| 521.15 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.835; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.947; Phase 2: Pb 0.333; Phase 3: Pb 0.947 | experimental | [2] Dębski 2021; _cites Horsley 1957_ | Table 5, p. 7, row 11 |  |
+| 521.15 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.835; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.947 | experimental | [2] Dębski 2021; _cites Horsley 1957_ | Table 5, p. 7, row 11 |  |
 | 521.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.835; Mg2Pb: Pb 0.3333; (Pb): Pb 0.947 | experimental | [1] Zhang 2014; _cites Graham 1971_ | Table 3, p. 6, row 17 |  |
-| 521 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.82; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94; Phase 2: Pb 0.333; Phase 3: Pb 0.94 | model | [2] Dębski 2021 | Table 5, p. 7, row 10 |  |
+| 521 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.82; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 0.94 | model | [2] Dębski 2021 | Table 5, p. 7, row 10 |  |
 | 520.22 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.8265; Mg2Pb: Pb 0.3333; (Pb): Pb 0.9463 | model | [1] Zhang 2014 | Table 3, p. 6, row 23 |  |
 | 520.15 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.7915; Mg2Pb: Pb 0.3333; (Pb): Pb 1 | experimental | [1] Zhang 2014; _cites Grube 1905_ | Table 3, p. 6, row 21 |  |
-| 520 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.79; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1; Phase 2: Pb 0.333; Phase 3: Pb 1 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 15 |  |
+| 520 | L = Mg2Pb + FCC_A1(Mg) | L: Pb 0.79; Mg2Pb: Pb 0.333; FCC_A1(Mg): Pb 1 | experimental | [2] Dębski 2021; _cites Grube 1905_ [doi](https://doi.org/10.1002/zaac.19050440107) | Table 5, p. 7, row 15 |  |
 | 517.29 | eutectic: Liquid=Mg2Pb+(Pb) | Liquid: Pb 0.807; Mg2Pb: Pb 0.3333; (Pb): Pb 0.9466 | model | [1] Zhang 2014 | Table 3, p. 6, row 22 |  |
 
 ## Formation enthalpies

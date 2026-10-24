@@ -8,11 +8,9 @@
   "AU7GA2_HT",
   "AU7GA3",
   "AU8GA",
-  "AUGA2_C1",
   "AUGA_B31",
   "FCC_A1",
-  "LIQUID",
-  "ORTHORHOMBIC_A11"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
@@ -25,7 +23,6 @@
    623.0,
    613.0,
    735.0,
-   303.0,
    621.0
   ]
  },
@@ -238,35 +235,6 @@
   ],
   [
    [
-    "LIQUID",
-    [
-     "GA"
-    ],
-    [
-     1.0
-    ]
-   ],
-   [
-    "AUGA2_C1",
-    [
-     "GA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "ORTHORHOMBIC_A11",
-    [
-     "GA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "AU8GA",
     [
      "GA"
@@ -311,7 +279,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IEIPXFIN2F ORC-YI3E4J6PK7 ORC-TXAMIHEZ34 ORC-GQ5TLXCRU3 ORC-JL643V624L ORC-LKQA7ODMWA ORC-K3DVKJV7QB ORC-TQKS5UWUSJ ORC-BKM47VDDS7 ORC-S33N3G465Y",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-IEIPXFIN2F ORC-YI3E4J6PK7 ORC-TXAMIHEZ34 ORC-GQ5TLXCRU3 ORC-JL643V624L ORC-LKQA7ODMWA ORC-K3DVKJV7QB ORC-TQKS5UWUSJ ORC-S33N3G465Y",
  "bibtex": "cooke1966_87489d",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -388,12 +356,6 @@
     ]
    },
    {
-    "id": "ORC-BKM47VDDS7",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.calphad.2010.10.009",
-    "measured_in": "doi:10.1016/0022-5088(66)90044-0"
-   },
-   {
     "id": "ORC-S33N3G465Y",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2010.10.009",
@@ -416,15 +378,11 @@
   ],
   "source_dataset": "db-v2.1/invariants/espei/AuGa-11Wan/zpf-00.json",
   "e3_merged": 3,
-  "values_dropped": 2
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -511,11 +469,6 @@
    },
    {
     "id": "ORC-TQKS5UWUSJ",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-BKM47VDDS7",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

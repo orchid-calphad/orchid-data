@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Ge1.5Y reported in the literature (6)
 |---:|---|---:|---|---|---|---|---|---|
 | -84.1 kJ/mol-atom ± 3.7 | Ge1.5Y-HT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7 |  |
 | -77.8 kJ/mol-atom ± 3.4 | Ge1.5Y-LT | 870 | experimental | EMF | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4 |  |
-| -84.785 kJ/mol-atom | Ge1.5Y-LT | 298 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
+| -84.785 kJ/mol-atom | Ge1.5Y-LT | 298.15 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
 | -83.025 kJ/mol-atom | Ge1.5Y-HT | 2985 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
 | -69.664 kJ/mol-atom | Ge1.5Y-LT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
 | -67.903 kJ/mol-atom | Ge1.5Y-HT | 870 | model | Optimization | [Ge–Y](https://data.orchid-project.org/systems/GE-Y.html) | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
@@ -27,9 +27,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ge1.5Y
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacreze | -48.013 | -0.497621 | P-6m2 | 25.344 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacreze | -48.013 | -0.497621 | P-6m2 | 25.344 | 0.2627 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

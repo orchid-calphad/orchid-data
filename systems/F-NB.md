@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/F-NB.html · Markdown: https://data.orchid-project.org/systems/F-NB.md
 
-34 accepted literature values from 1 paper(s) (experimental 7, model 19, unspecified 8); 0 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+34 accepted literature values from 1 paper(s) (experimental 6, model 20, unspecified 8); 0 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NB.json) · [CSV](https://data.orchid-project.org/systems/F-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NB) · [phases (9)](https://data.orchid-project.org/phases/pages/F-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NB.html) · [Markdown](https://data.orchid-project.org/systems/F-NB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 19 |
+| experimental | 6 |
+| model | 20 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -63,7 +63,7 @@ Table: Phase transition, F–Nb system
 | Phase transition | 519 K | 519 | other | model | [1] Capelli 2018 | p. 7 | “At low temperature (320-500 K) the trimer is the major species but, as the temperature increases, the predominant species shift from trimer to dimer at 519 K and from dimer to monomer at 552 K.” |
 | Phase transition | 552 K | 552 | other | model | [1] Capelli 2018 | p. 7 | “At low temperature (320-500 K) the trimer is the major species but, as the temperature increases, the predominant species shift from trimer to dimer at 519 K and from dimer to monomer at 552 K.” |
 | Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018 | Table 8, p. 6, row 4 |  |
-| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | experimental | [1] Capelli 2018; _cites Gortsema 1965_ [doi](https://doi.org/10.1021/ic50024a012) | Table 8, p. 6, row 3 |  |
+| Phase transition | 573 K | 573 | other: NbF4 disproportionation (P ≃ 6.6 · 10^-4 bar); _alloy: Nb 0.2_ | model | [1] Capelli 2018; _cites Gortsema 1965_ [doi](https://doi.org/10.1021/ic50024a012) | Table 8, p. 6, row 3 |  |
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | experimental | [1] Capelli 2018; _cites Ehrlich 1955_ [doi](https://doi.org/10.1002/zaac.19552820105) | Table 8, p. 6, row 1 |  |
 | Phase transition | 843 K | 843 | other: NbF3 sublimation (P ≃ 1.3 · 10^-6 bar); _alloy: Nb 0.25_ | model | [1] Capelli 2018 | Table 8, p. 6, row 2 |  |
 

@@ -205,10 +205,10 @@ Table: Enthalpies of formation, Ni–Sb system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| ζ(NiSb) |  | -33.472 kJ/mol (basis unstated) | 298 | experimental |  |  | [3] Cao 2013; _cites Korber 1937_ | Table IV, p. 9, row 1 |  |
+| ζ(NiSb) |  | -33.472 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [3] Cao 2013; _cites Korber 1937_ | Table IV, p. 9, row 1 |  |
 | ζ(NiSb) |  | -32.659 kJ/mol (basis unstated) | 1060 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 4 |  |
 | ζ(NiSb) |  | -32.543 kJ/mol (basis unstated) ± 0.494 | 1060 | experimental |  |  | [3] Cao 2013; _cites Predel 1978_ [doi](https://doi.org/10.1016/0040-6031%2878%2985146-6) | Table IV, p. 9, row 3 |  |
-| ζ(NiSb) |  | -32.171 kJ/mol (basis unstated) | 298 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 2 |  |
+| ζ(NiSb) |  | -32.171 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Cao 2013 | Table IV, p. 9, row 2 |  |
 
 ## Other properties
 

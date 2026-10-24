@@ -121,30 +121,30 @@ Table: Enthalpies of formation, Si–U system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -26.02 kJ/mol-atom ± 4.8 | 298 | experimental | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites OHare 1975_ | Table 2, p. 2, row 22 |  |
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -24.93 kJ/mol-atom | 298 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009 | Table 2, p. 2, row 24 |  |
-| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -22.99 kJ/mol-atom | 298 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 23 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -35.95 kJ/mol-atom ± 3.34 | 298 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.32 kJ/mol-atom | 298 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009 | Table 2, p. 2, row 21 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.11 kJ/mol-atom | 298 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20 |  |
-| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -33.86 kJ/mol-atom ± 0.42 | 298 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18 |  |
-| U3Si5 |  | -44.26 kJ/mol-atom | 298 | model |  |  | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
-| U3Si5 |  | -42.9 kJ/mol-atom | 298 | model |  |  | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -43.47 kJ/mol-atom ± 1.67 | 298 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 14 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -42.22 kJ/mol-atom | 298 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 16 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.8 kJ/mol-atom ± 4.18 | 298 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 15 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.18 kJ/mol-atom | 298 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009 | Table 2, p. 2, row 17 |  |
-| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -40.13 kJ/mol-atom ± 0.84 | 298 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 13 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.89 kJ/mol-atom ± 4.18 | 298 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.47 kJ/mol-atom ± 0.42 | 298 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.33 kJ/mol-atom | 298 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009 | Table 2, p. 2, row 10 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.19 kJ/mol-atom | 298 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9 |  |
-| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -42.64 kJ/mol-atom ± 1.25 | 298 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -35.53 kJ/mol-atom ± 4.18 | 298 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 3 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -33.02 kJ/mol-atom ± 0.13 | 298 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 1 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.9 kJ/mol-atom | 298 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009 | Table 2, p. 2, row 5 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.6 kJ/mol-atom | 298 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 4 |  |
-| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.19 kJ/mol-atom ± 0.84 | 298 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 2 |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -26.02 kJ/mol-atom ± 4.8 | 298.15 | experimental | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites OHare 1975_ | Table 2, p. 2, row 22 |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -24.93 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009 | Table 2, p. 2, row 24 |  |
+| U3Si | [SiU3](https://data.orchid-project.org/compounds/SiU3.html) | -22.99 kJ/mol-atom | 298.15 | model | -21.811 (mp-aaaaabku) | -23.444 (oqmd-1995) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 23 |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -35.95 kJ/mol-atom ± 3.34 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 19 |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.32 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009 | Table 2, p. 2, row 21 |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -34.11 kJ/mol-atom | 298.15 | model | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 20 |  |
+| U3Si2 | [Si2U3](https://data.orchid-project.org/compounds/Si2U3.html) | -33.86 kJ/mol-atom ± 0.42 | 298.15 | experimental | -10.03 (mp-aaaabfpa) | -14.346 (oqmd-6055) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 18 |  |
+| U3Si5 |  | -44.26 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 11 |  |
+| U3Si5 |  | -42.9 kJ/mol-atom | 298.15 | model |  |  | [1] Berche 2009 | Table 2, p. 2, row 12 |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -43.47 kJ/mol-atom ± 1.67 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 14 |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -42.22 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 16 |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.8 kJ/mol-atom ± 4.18 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 15 |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -41.18 kJ/mol-atom | 298.15 | model | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009 | Table 2, p. 2, row 17 |  |
+| USi | [SiU](https://data.orchid-project.org/compounds/SiU.html) | -40.13 kJ/mol-atom ± 0.84 | 298.15 | experimental | -16.795 (mp-aaaabdeh) | -19.948 (oqmd-6064) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 13 |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.89 kJ/mol-atom ± 4.18 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 8 |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.47 kJ/mol-atom ± 0.42 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 6 |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.33 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009 | Table 2, p. 2, row 10 |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -43.19 kJ/mol-atom | 298.15 | model | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 9 |  |
+| USi2 | [Si2U](https://data.orchid-project.org/compounds/Si2U.html) | -42.64 kJ/mol-atom ± 1.25 | 298.15 | experimental | -27.301 (mp-aaaaabls) | -31.404 (oqmd-670765) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 7 |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -35.53 kJ/mol-atom ± 4.18 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Alcock 1962_ | Table 2, p. 2, row 3 |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -33.02 kJ/mol-atom ± 0.13 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 1 |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.9 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009 | Table 2, p. 2, row 5 |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.6 kJ/mol-atom | 298.15 | model | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Rand 2009_ | Table 2, p. 2, row 4 |  |
+| USi3 | [Si3U](https://data.orchid-project.org/compounds/Si3U.html) | -32.19 kJ/mol-atom ± 0.84 | 298.15 | experimental | -31.163 (mp-aaaaaeds) | -36.154 (oqmd-18109) | [1] Berche 2009; _cites Gross 1962_ | Table 2, p. 2, row 2 |  |
 
 ## Other properties
 

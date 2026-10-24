@@ -29,14 +29,14 @@ Table: Enthalpies of formation, Gd–Mn–Sm–Y system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mn12Gd | [GdMn12](https://data.orchid-project.org/compounds/GdMn12.html) | -4 kJ/mol-atom | 298 | model | 2.068 (mp-aaabkkpg) | 1.557 (oqmd-5135) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
-| Mn12RE |  | -4 kJ/mol-atom | 298 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
-| Mn23Gd6 | [Gd6Mn23](https://data.orchid-project.org/compounds/Gd6Mn23.html) | -6.4 kJ/mol-atom | 298 | model | 89.384 (mp-aaacpzik) | 12.168 (oqmd-30388) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
-| Mn23RE6 |  | -6.4 kJ/mol-atom | 298 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn12Gd | [GdMn12](https://data.orchid-project.org/compounds/GdMn12.html) | -4 kJ/mol-atom | 298.15 | model | 2.068 (mp-aaabkkpg) | 1.557 (oqmd-5135) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn12RE |  | -4 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn23Gd6 | [Gd6Mn23](https://data.orchid-project.org/compounds/Gd6Mn23.html) | -6.4 kJ/mol-atom | 298.15 | model | 89.384 (mp-aaacpzik) | 12.168 (oqmd-30388) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn23RE6 |  | -6.4 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
 | Mn23RE6 |  | -3.17 kJ/mol-atom | 1320 | experimental |  |  | [1] Gröbner 2001; _cites Shilov 1983_ | Table 2, p. 3, row 1 |  |
 | Mn23Sm6 | [Mn23Sm6](https://data.orchid-project.org/compounds/Mn23Sm6.html) | -3.17 kJ/mol-atom | 1320 | experimental | 10.805 (mp-aaacpxjn) | 18.915 (oqmd-656273) | [1] Gröbner 2001; _cites Shilov 1983_ | Table 2, p. 3, row 1 |  |
-| Mn2Gd | [GdMn2](https://data.orchid-project.org/compounds/GdMn2.html) | -6.4 kJ/mol-atom | 298 | model | 21.064 (mp-aaacjhct) | 9.268 (oqmd-19430) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
-| Mn2RE |  | -6.4 kJ/mol-atom | 298 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn2Gd | [GdMn2](https://data.orchid-project.org/compounds/GdMn2.html) | -6.4 kJ/mol-atom | 298.15 | model | 21.064 (mp-aaacjhct) | 9.268 (oqmd-19430) | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn2RE |  | -6.4 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 2001 | Table 2, p. 3, row 2 |  |
 
 ## Sources
 

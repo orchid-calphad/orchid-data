@@ -808,7 +808,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeZr-22Jia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeZr-95Ser.tdb also describes the disordered state
 - Stability: stable in 12 of 12 calculated diagram(s): 300–1203.55 K, x(Zr) 0.74513–0.76618
-- Literature: 62 values (61 accepted) from 5 papers
+- Literature: 62 values (62 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:fezr3-e1a)
 
 Names (18): _corpus: _corpus:phase:fe-zr:fezr3-e1a  

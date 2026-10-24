@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cd8Gd reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -19.56 kJ/mol-atom | Cd8Gd | 298 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 15 |  |
+| -19.56 kJ/mol-atom | Cd8Gd | 298.15 | model | Optimization | [Cd–Gd](https://data.orchid-project.org/systems/CD-GD.html) | [1] Azza 2024 | Table 4, p. 7, row 15 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Hf–Nb system
 
-> Hf–Nb system: 46 accepted literature values (crystal structure 22, formation 20, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Nb system: 38 accepted literature values (crystal structure 22, formation 12, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NB.html · Markdown: https://data.orchid-project.org/systems/HF-NB.md
 
-46 accepted literature values from 2 paper(s) (experimental 8, model 2, DFT 36); 2 calculated phase diagram(s).
+38 accepted literature values from 2 paper(s) (experimental 8, model 2, DFT 28); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NB.json) · [CSV](https://data.orchid-project.org/systems/HF-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NB/HfNb-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NB.html) · [Markdown](https://data.orchid-project.org/systems/HF-NB.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 8 |
 | model | 2 |
-| DFT | 36 |
+| DFT | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 4 |
-| formation | 20 |
+| formation | 12 |
 | crystal structure | 22 |
 
 ## Calculated phase diagrams
@@ -41,17 +41,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Nb system (20)
+Table: Enthalpies of formation, Hf–Nb system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Hf3Nb |  | 4.04 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | Hf3Nb |  | 11.499 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | Hf3Nb (DO3) |  | 13.243 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
-| HfNb |  | -6.162 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| HfNb |  | 5.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
-| HfNb |  | 8.757 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| HfNb |  | 20.666 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
 | HfNb (B19) |  | -6.162 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | HfNb (B19) |  | 8.757 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | HfNb (B2) |  | 2.72 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 2 |  |
@@ -61,10 +57,6 @@ Table: Enthalpies of formation, Hf–Nb system (20)
 | HfNb3 |  | 2.979 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
 | HfNb3 |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
 | HfNb3 (DO3) |  | 6.267 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 4 |  |
-| HfNb₃ (DO₁₉) |  | 2.979 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
-| HfNb₃ (DO₁₉) |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
-| Hf₃Nb (DO₁₉) |  | 4.04 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| Hf₃Nb (DO₁₉) |  | 11.499 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 
 ## Other properties
 

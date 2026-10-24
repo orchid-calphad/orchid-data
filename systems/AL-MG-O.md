@@ -50,8 +50,8 @@ Table: Heat capacity / entropy / enthalpy, Al–Mg–O system
 | Entropy; _printed: Standard entropy_ | 50.7 J/mol (basis unstated)/K |  | Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
 | Entropy; _printed: Standard entropy_ | 28.1 J/mol (basis unstated)/K |  | MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
 | Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38.49 J/mol-atom/K |  | liquid Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
+| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33.47 J/mol-atom/K |  | liquid MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
 | Heat capacity; _printed: Heat capacity of the liquid oxide_ | 38.49 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
-| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33.47 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
 | Heat capacity; _printed: Heat capacity at 298.15 K_ | 15.38 J/mol-atom/K | 298.15 | Al2O3; _alloy: Mg 0, O 0.6_ | model | [1] Li 2023 | Table 5, p. 6, row 2 |  |
 | Heat capacity; _printed: Heat capacity at 298.15 K_ | 18.65 J/mol-atom/K | 298.15 | MgO; _alloy: Mg 0.5, O 0.5_ | model | [1] Li 2023 | Table 5, p. 6, row 1 |  |
 

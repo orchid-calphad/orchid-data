@@ -25,6 +25,7 @@
    1497.15,
    1467.15,
    1476.15,
+   1456.15,
    1533.15,
    1513.15
   ]
@@ -310,6 +311,44 @@
   ],
   [
    [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.181
+    ]
+   ],
+   [
+    "CO2SI_C37",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
     "FCC_A1",
     [
      "SI"
@@ -527,6 +566,25 @@
    {
     "source_observation": "ORC-MXIUQM5CTU",
     "side": "above",
+    "T_invariant_K": 1466.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Co3Si=ε-Co+Co2Si",
+    "reaction_type": null,
+    "phases_above": [
+     "CO3SI_D019"
+    ],
+    "phases_below": [
+     "HCP_A3",
+     "CO2SI_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-MXIUQM5CTU",
+    "side": "below",
     "T_invariant_K": 1466.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

@@ -6,12 +6,9 @@
  ],
  "phases": [
   "BCC_4SL",
-  "BCC_A2",
   "CU10SN3",
   "CU41SN11",
-  "CU6SN5_B81",
-  "FCC_A1",
-  "LIQUID"
+  "FCC_A1"
  ],
  "conditions": {
   "P": 101325,
@@ -19,9 +16,7 @@
    932.0,
    886.0,
    866.0,
-   781.0,
-   691.0,
-   671.0
+   781.0
   ]
  },
  "output": "ZPF",
@@ -159,73 +154,6 @@
      0.185
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "SN"
-    ],
-    [
-     0.253
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.867
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.436
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.456
-    ]
-   ]
-  ],
-  [
-   [
-    "CU6SN5_B81",
-    [
-     "SN"
-    ],
-    [
-     0.446
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.436
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.456
-    ]
-   ]
   ]
  ],
  "reference": "Li 2013, doi:10.1016/j.intermet.2012.10.010",
@@ -236,7 +164,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SN/CuSn-13Li.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-CEBLLGC2QC ORC-M2IJOXVV35 ORC-SPZGU7U272 ORC-WWC7PUXCXT",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SN/CuSn-13Li.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-M2IJOXVV35 ORC-SPZGU7U272 ORC-WWC7PUXCXT",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-SN/CuSn-13Li.zpf-00.json",
@@ -317,44 +245,6 @@
     "phases_below": [
      "FCC_A1",
      "CU41SN11"
-    ]
-   },
-   {
-    "source_observation": "ORC-CEBLLGC2QC",
-    "side": "above",
-    "T_invariant_K": 681,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.446,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "ε + L <-> η",
-    "reaction_type": "peritectoid",
-    "phases_above": [
-     "BCC_A2",
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU6SN5_B81"
-    ]
-   },
-   {
-    "source_observation": "ORC-CEBLLGC2QC",
-    "side": "below",
-    "T_invariant_K": 681,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.446,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "ε + L <-> η",
-    "reaction_type": "peritectoid",
-    "phases_above": [
-     "BCC_A2",
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU6SN5_B81"
     ]
    }
   ],

@@ -1,10 +1,10 @@
 # Co–Cu system
 
-> Co–Cu system: 81 accepted literature values (mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cu system: 82 accepted literature values (mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 12, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CU.html · Markdown: https://data.orchid-project.org/systems/CO-CU.md
 
-81 accepted literature values from 3 paper(s) (experimental 69, model 12); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+82 accepted literature values from 3 paper(s) (experimental 69, model 13); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU.json) · [CSV](https://data.orchid-project.org/systems/CO-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CU/CoCu-00Kub-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CU.html) · [Markdown](https://data.orchid-project.org/systems/CO-CU.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 69 |
-| model | 12 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 11 |
+| invariant reaction | 12 |
 | phase transition | 1 |
 | phase equilibrium | 10 |
 | mixing / partial | 35 |
@@ -56,16 +56,17 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Cu system (11)
+Table: Invariant reactions reported in the literature for the Co–Cu system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1385 | L + (αCo) \<=> (αCu) | L: Co 0.051; (αCo): Co 0.874; (Cu): Co 0.084 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 10 |  |
-| 1385 | L + (αCo) \<=> (αCu) | L: Co 0.048; (αCo): Co 0.88; (Cu): Co 0.086 | experimental | [1] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 3 |  |
+| 1386 | L + (αCo) \<=> (αCu) | L: Co 0.057; (αCo): Co 0.883 | model | [1] Turchanin 2007 | Table 1, p. 6, row 12 |  |
+| 1385 | L + (αCo) \<=> (αCu) | L: Co 0.051; (αCo): Co 0.874 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 10 |  |
+| 1385 | L + (αCo) \<=> (αCu) | L: Co 0.048; (αCo): Co 0.88 | experimental | [1] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 3 |  |
 | 1385 | L + (αCo) \<=> (αCu) |  | experimental | [1] Turchanin 2007; _cites ref. 28_ | Table 1, p. 6, row 4 |  |
-| 1381 | L + (αCo) \<=> (αCu) | L: Co 0.077; (αCo): Co 0.902; (Cu): Co 0.088 | model | [1] Turchanin 2007; _cites ref. 15_ | Table 1, p. 6, row 11 |  |
-| 1379 | L + (αCo) \<=> (αCu) | L: Co 0.04; (αCo): Co 0.876; (Cu): Co 0.07 | model | [1] Turchanin 2007; _cites ref. 6_ | Table 1, p. 6, row 8 |  |
-| 1370 | L + (αCo) \<=> (αCu) | L: Co 0.073; (αCo): Co 0.876; (Cu): Co 0.096 | model | [1] Turchanin 2007; _cites ref. 12_ | Table 1, p. 6, row 9 |  |
+| 1381 | L + (αCo) \<=> (αCu) | L: Co 0.077; (αCo): Co 0.902 | model | [1] Turchanin 2007; _cites ref. 15_ | Table 1, p. 6, row 11 |  |
+| 1379 | L + (αCo) \<=> (αCu) | L: Co 0.04; (αCo): Co 0.876 | model | [1] Turchanin 2007; _cites ref. 6_ | Table 1, p. 6, row 8 |  |
+| 1370 | L + (αCo) \<=> (αCu) | L: Co 0.073; (αCo): Co 0.876 | model | [1] Turchanin 2007; _cites ref. 12_ | Table 1, p. 6, row 9 |  |
 | 717 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.992; (Cu): Co 0.005; (εCo): Co 0.994 | model | [1] Turchanin 2007; _cites ref. 12_ | Table 1, p. 6, row 18 |  |
 | 698 | (Cu) + (αCo) \<=> (εCo) | (Cu): Co 4.000e-4; (αCo): Co 0.9981; (εCo): Co 0.9977 | model | [1] Turchanin 2007 | Table 1, p. 6, row 20 |  |
 | 695 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.999; (Cu): Co 4.000e-4; (εCo): Co 0.9996 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 19 |  |

@@ -24,11 +24,11 @@
  },
  "points_by_basis": {
   "deterministic_adjacency": 8035,
-  "reader_consensus": 6795,
+  "reader_consensus": 6794,
   "deterministic_printed_label": 3206,
   "adjudicator": 2803,
   "deterministic_phase_rules": 2186,
-  "expert_reviewed": 86,
+  "expert_reviewed": 87,
   "dft_hull_corroborated": 20
  },
  "points_by_confidence": {
@@ -37,8 +37,8 @@
   "low": 74
  },
  "points_by_review_state": {
-  "not reviewed by the expert": 23025,
-  "expert decision (tier 5)": 86,
+  "not reviewed by the expert": 23024,
+  "expert decision (tier 5)": 87,
   "expert-reviewed (tier 5)": 20
  },
  "excluded_fields_by_reason": {
@@ -159,20 +159,20 @@
    "CITATION.cff": 1891,
    "espei-zpf": 3791466,
    "espei-zpf-with-tie-lines": 3740641,
-   "espei_exclusions.jsonl": 1680689,
+   "espei_exclusions.jsonl": 1680688,
    "exclusions.csv": 322521,
    "exclusions.jsonl": 542384,
-   "records.csv": 10707230,
-   "records.jsonl.gz": 3563290,
-   "records.parquet": 1658324,
+   "records.csv": 10707224,
+   "records.jsonl.gz": 3563530,
+   "records.parquet": 1658343,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23131,
-  "csv_sha256": "a09ed89b4f15000ac1dd04fdb3dd70cc37f78040e5fccd44f4e37d18a6bb4799",
-  "content_sha256": "2e370dfd17f3fb417b05944504ca76ff912cb625539e3db5b9f7b3de10fac172",
+  "csv_sha256": "7f0df3a0bebb611ac1c24ae4b5b6f070a5e74d6d64636e664569199bfb910f12",
+  "content_sha256": "8982539021d01023386e72b67d46fd930d15f6ead5346abdb6ffd1154c56f6de",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

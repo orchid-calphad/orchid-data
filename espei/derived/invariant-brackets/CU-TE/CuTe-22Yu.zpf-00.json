@@ -7,8 +7,6 @@
  "phases": [
   "CU2TE_EPSILON",
   "CU2TE_ZETA",
-  "CU4TE3_BETA",
-  "CUTE_BETA",
   "LIQUID"
  ],
  "conditions": {
@@ -16,9 +14,7 @@
   "T": [
    1398.0,
    1378.0,
-   930.1,
-   703.9,
-   683.9
+   930.1
   ]
  },
  "output": "ZPF",
@@ -118,73 +114,6 @@
      0.438571
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU4TE3_BETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "CUTE_BETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.51
-    ]
-   ]
   ]
  ],
  "reference": "Huang 2021, doi:10.1016/j.jallcom.2020.157373",
@@ -195,7 +124,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-22Yu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-CCHTTBCJDT ORC-N6OTP7FFGO ORC-V4BLTC2OBF",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-22Yu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-N6OTP7FFGO ORC-V4BLTC2OBF",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-TE/CuTe-22Yu.zpf-00.json",
@@ -255,44 +184,6 @@
     ],
     "phases_below": [
      "CU4TE3_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-CCHTTBCJDT",
-    "side": "above",
-    "T_invariant_K": 693.9,
-    "offset_K": 10.0,
-    "T_sigma_K": 1.3,
-    "T_sigma_basis": "printed",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L1 + βCu4Te3 -> βCuTe",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CUTE_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-CCHTTBCJDT",
-    "side": "below",
-    "T_invariant_K": 693.9,
-    "offset_K": 10.0,
-    "T_sigma_K": 1.3,
-    "T_sigma_basis": "printed",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L1 + βCu4Te3 -> βCuTe",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CUTE_BETA"
     ]
    }
   ],

@@ -1,10 +1,10 @@
 # Sm–Ti system
 
-> Sm–Ti system: 30 accepted literature values (formation 24, invariant reaction 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sm–Ti system: 34 accepted literature values (formation 28, invariant reaction 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SM-TI.html · Markdown: https://data.orchid-project.org/systems/SM-TI.md
 
-30 accepted literature values from 1 paper(s) (experimental 1, model 5, DFT 17, unspecified 7); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+34 accepted literature values from 1 paper(s) (experimental 1, model 5, DFT 21, unspecified 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SM-TI.json) · [CSV](https://data.orchid-project.org/systems/SM-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SM-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SM-TI/SmTi-21Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/SM-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SM-TI.html) · [Markdown](https://data.orchid-project.org/systems/SM-TI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 5 |
-| DFT | 17 |
+| DFT | 21 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 1 |
-| formation | 24 |
+| formation | 28 |
 
 ## Calculated phase diagrams
 
@@ -68,12 +68,13 @@ Table: Invariant reactions reported in the literature for the Sm–Ti system (5)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sm–Ti system (24)
+Table: Enthalpies of formation, Sm–Ti system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | B2 SmTi |  | 35.3329 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 31 |  |
 | B32 SmTi |  | 38.3143 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 32 |  |
+| Bᵢ SmTi-1 |  | 69.4501 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 39 |  |
 | Bᵢ SmTi-2 |  | 34.069 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 40 |  |
 | D0₂₂ SmTi₃ |  | 28.1351 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 25 |  |
 | D0₂₂ Sm₃Ti |  | 22.2109 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 26 |  |
@@ -93,6 +94,9 @@ Table: Enthalpies of formation, Sm–Ti system (24)
 | Sm₃Ti | [Sm3Ti](https://data.orchid-project.org/compounds/Sm3Ti.html) | 12.7457 kJ/mol-atom | 0 | unspecified | 23.099 (mp-aaacdipi) | 19.47 (oqmd-320604) | [1] Saengdeejing 2021 | Table 2, p. 13, row 1 |  |
 | Sm₄Ti₁₅ |  | 9.69678 kJ/mol-atom | 0 | unspecified |  |  | [1] Saengdeejing 2021 | Table 2, p. 13, row 6 |  |
 | Sm₆Ti₁₃ |  | 11.858 kJ/mol-atom | 0 | unspecified |  |  | [1] Saengdeejing 2021 | Table 2, p. 13, row 5 |  |
+| cF12 SmTi₂ |  | 121.224 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 29 |  |
+| cF12 Sm₂Ti |  | 70.9843 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 30 |  |
+| hP5 Sm₂Ti₃ |  | 87.242 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 41 |  |
 | hP5 Sm₃Ti₂ |  | 40.0607 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 42 |  |
 | hR SmTi₂ |  | 27.3632 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 37 |  |
 | hR Sm₂Ti |  | 26.3791 kJ/mol-atom | 0 | DFT |  |  | [1] Saengdeejing 2021 | Table 1, p. 5, row 38 |  |

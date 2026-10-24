@@ -1,10 +1,10 @@
 # Fe–Ta system
 
-> Fe–Ta system: 263 accepted literature values (invariant reaction 95, phase transition 80, formation 47, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ta system: 249 accepted literature values (invariant reaction 96, phase transition 80, formation 32, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TA.html · Markdown: https://data.orchid-project.org/systems/FE-TA.md
 
-263 accepted literature values from 3 paper(s) (experimental 146, model 89, DFT 8, unspecified 20); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+249 accepted literature values from 3 paper(s) (experimental 142, model 86, DFT 7, unspecified 14); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TA/FeTa-03Dan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-TA.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 146 |
-| model | 89 |
-| DFT | 8 |
-| unspecified | 20 |
+| experimental | 142 |
+| model | 86 |
+| DFT | 7 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 95 |
+| invariant reaction | 96 |
 | phase transition | 80 |
 | phase equilibrium | 13 |
-| formation | 47 |
+| formation | 32 |
 | crystal structure | 28 |
 
 ## Calculated phase diagrams
@@ -63,7 +63,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Ta system (95)
+Table: Invariant reactions reported in the literature for the Fe–Ta system (96)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -103,51 +103,52 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (95
 | 1865.15 | eutectic: Liq. ↔ μ + bcc | μ: Ta 0.5384; bcc: Ta 0.95; L: Ta 0.6834 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 12 |  |
 | 1865 | eutectic: L \<-> β + μ | L: Ta 0.683; β: Ta 0.959; μ: Ta 0.538 | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 13 |  |
 | 1803.15 | eutectic: ε + μ ↔ Liq. |  | experimental | [1] Danon 2003; _cites Wetzig 1968_ [doi](https://doi.org/10.1002/pssb.19680270149) | Table 1, p. 5, row 16 |  |
-| 1726.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.272; L: Ta 0.0686; δ: Ta 0.0424 | model | [1] Danon 2003 | Table 1, p. 5, row 18 |  |
+| 1726.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.272; L: Ta 0.0686 | model | [1] Danon 2003 | Table 1, p. 5, row 18 |  |
 | 1726 | eutectic: L \<-> δ + λ | L: Ta 0.067; δ: Ta 0.042; λ: Ta 0.272 | model | [3] Witusiewicz 2011; _cites Danon 2003_ [doi](https://doi.org/10.1016/s0921-5093%2802%2900632-9) | Table 6, p. 14, row 22 |  |
 | 1724 | eutectic: L -> (dFe) + l |  | experimental | [3] Witusiewicz 2011 | p. 6 | “The peak at 1724 K is associated to the invariant eutectic reaction L4(dFe) þ l, considered as solidus.” |
 | 1721 | L -> (δFe) + ε | L: Ta 0.0629; (δFe): Ta 0.0228; ε: Ta 0.2983 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 14 |  |
 | 1716 | eutectic: L \<-> δ + λ | L: Ta 0.075; δ: Ta 0.021; λ: Ta 0.277 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 23 |  |
 | 1716 | eutectic: L \<-> δ + λ | L: Ta 0.072; λ: Ta 0.277 | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 19 |  |
 | 1716 | L -> (δFe) + ε | L: Ta 0.072; ε: Ta 0.277 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 13 |  |
-| 1715.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.2729; L: Ta 0.0797; δ: Ta 0.0182 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 17 |  |
+| 1715.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.2729; L: Ta 0.0797 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 17 |  |
 | 1715 | eutectic: L \<-> δ + λ | L: Ta 0.08; δ: Ta 0.018; λ: Ta 0.273 | model | [3] Witusiewicz 2011; _cites Coelho 1994_ | Table 6, p. 14, row 21 |  |
 | 1714.15 | eutectic: Liq. ↔ ε + bcc(δ) |  | experimental | [1] Danon 2003; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 1, p. 5, row 19 |  |
 | 1714 | eutectic: L \<-> δ + λ |  | experimental | [3] Witusiewicz 2011; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 6, p. 14, row 17 |  |
 | 1714 | L -> (δFe) + ε |  | experimental | [2] Rajkumar 2015; _cites Ichise 1989_ [doi](https://doi.org/10.2355/isijinternational.29.843) | Table 2, p. 3, row 11 |  |
-| 1713.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.333; L: Ta 0.079; δ: Ta 0.028 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 20 |  |
+| 1713.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.333; L: Ta 0.079 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 20 |  |
 | 1713 | eutectic: L \<-> δ + λ | L: Ta 0.079; δ: Ta 0.028; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Sinha 1967_ | Table 6, p. 14, row 18 |  |
 | 1713 | L -> (δFe) + ε | L: Ta 0.079; (δFe): Ta 0.028; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 12 |  |
-| 1703.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.265; L: Ta 0.079; δ: Ta 0.024 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 21 |  |
+| 1703.15 | eutectic: Liq. ↔ ε + bcc(δ) | ε: Ta 0.265; L: Ta 0.079 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 21 |  |
 | 1703 | eutectic: L \<-> δ + λ | L: Ta 0.079; δ: Ta 0.024; λ: Ta 0.265 | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 20 |  |
 | 1648 | μ + (Ta) | μ: Ta 0.56; (Ta): Ta 0.947 | experimental | [2] Rajkumar 2015 | Table 5, p. 4, row 2 |  |
 | 1623 | μ + (Ta) | μ: Ta 0.553; (Ta): Ta 0.938 | experimental | [2] Rajkumar 2015 | Table 5, p. 4, row 1 |  |
 | 1516 | (δFe) -> (γFe) + ε |  | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 18 |  |
 | 1516 | eutectoid: δ \<-> γ + λ |  | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 27 |  |
+| 1512.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.3333; γ: Ta 0.005 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 22 |  |
 | 1512 | eutectoid: δ \<-> γ + λ | δ: Ta 0.011; γ: Ta 0.005; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Sinha 1967_ | Table 6, p. 14, row 24 |  |
 | 1512 | (δFe) -> (γFe) + ε | (δFe): Ta 0.011; (γFe): Ta 0.005; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 15 |  |
 | 1511 | eutectoid: δ \<-> γ + λ | δ: Ta 0.015; γ: Ta 0.011; λ: Ta 0.298 | model | [3] Witusiewicz 2011 | Table 6, p. 14, row 31 |  |
 | 1504 | (δFe) -> (γFe) + ε | (δFe): Ta 0.0156; (γFe): Ta 0.00917; ε: Ta 0.3101 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 19 |  |
-| 1501.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.268; γ: Ta 0.0083; δ: Ta 0.0131 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 23 |  |
+| 1501.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.268; γ: Ta 0.0083 | model | [1] Danon 2003; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 1, p. 5, row 23 |  |
 | 1501 | eutectoid: δ \<-> γ + λ | δ: Ta 0.013; γ: Ta 0.008; λ: Ta 0.268 | model | [3] Witusiewicz 2011; _cites Srikanth 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990747-1) | Table 6, p. 14, row 28 |  |
-| 1493.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.27; γ: Ta 0.01; δ: Ta 0.015 | model | [1] Danon 2003 | Table 1, p. 5, row 25 |  |
-| 1493.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.0333; γ: Ta 0.0096; δ: Ta 0.0145 | experimental | [1] Danon 2003; _cites Genders 1936_ | Table 1, p. 5, row 24 |  |
+| 1493.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.27; γ: Ta 0.01 | model | [1] Danon 2003 | Table 1, p. 5, row 25 |  |
+| 1493.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.0333; γ: Ta 0.0096 | experimental | [1] Danon 2003; _cites Genders 1936_ | Table 1, p. 5, row 24 |  |
 | 1493 | eutectoid: δ \<-> γ + λ | δ: Ta 0.015; γ: Ta 0.01; λ: Ta 0.27 | model | [3] Witusiewicz 2011; _cites Danon 2003_ [doi](https://doi.org/10.1016/s0921-5093%2802%2900632-9) | Table 6, p. 14, row 30 |  |
 | 1493 | eutectoid: δ \<-> γ + λ | δ: Ta 0.015; γ: Ta 0.01; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Genders 1936_ | Table 6, p. 14, row 25 |  |
 | 1493 | (δFe) -> (γFe) + ε | (δFe): Ta 0.015; (γFe): Ta 0.01; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Genders 1936_ | Table 2, p. 3, row 16 |  |
-| 1489.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.2899; γ: Ta 0.0081; δ: Ta 0.0134 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 26 |  |
+| 1489.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.2899; γ: Ta 0.0081 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 26 |  |
 | 1489 | eutectoid: δ \<-> γ + λ | δ: Ta 0.013; γ: Ta 0.008; λ: Ta 0.29 | model | [3] Witusiewicz 2011; _cites Coelho 1994_ | Table 6, p. 14, row 29 |  |
-| 1488.15 | other: bcc(δ) ↔ ε + γ | ε: Ta 0.3333; γ: Ta 0.0086; δ: Ta 0.0138 | experimental | [1] Danon 2003; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197001633) | Table 1, p. 5, row 27 |  |
+| 1488.15 | eutectoid: bcc(δ) ↔ ε + γ | ε: Ta 0.3333; γ: Ta 0.0086 | experimental | [1] Danon 2003; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197001633) | Table 1, p. 5, row 27 |  |
 | 1488 | (δFe) -> (γFe) + ε | (δFe): Ta 0.014; (γFe): Ta 0.009; ε: Ta 0.333 | experimental | [2] Rajkumar 2015; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197001633) | Table 2, p. 3, row 17 |  |
 | 1488 | eutectoid: δ \<-> γ + λ | δ: Ta 0.014; γ: Ta 0.009; λ: Ta 0.333 | experimental | [3] Witusiewicz 2011; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197001633) | Table 6, p. 14, row 26 |  |
-| 1250.15 | other: bcc(α) ↔ γ + ε | γ: Ta 0.0043; ε: Ta 0.3082; α: Ta 0.008 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 28 |  |
+| 1250.15 | peritectoid: bcc(α) ↔ γ + ε | γ: Ta 0.0043; ε: Ta 0.3082 | model | [1] Danon 2003; _cites Coelho 1994_ | Table 1, p. 5, row 28 |  |
 | 1250 | peritectoid: γ + λ \<-> α | γ: Ta 0.004; λ: Ta 0.308; α: Ta 0.008 | model | [3] Witusiewicz 2011; _cites Coelho 1994_ | Table 6, p. 14, row 37 |  |
 | 1247.15 | α + γ + ε | α: Ta 0.0032; γ: Ta 0.002; ε: Ta 0.3333 | experimental | [1] Danon 2003; _cites Genders 1936_ | Table 1, p. 6, row 2 |  |
 | 1247 | peritectoid: γ + λ \<-> α | γ: Ta 0.002; λ: Ta 0.333; α: Ta 0.003 | experimental | [3] Witusiewicz 2011; _cites Genders 1936_ | Table 6, p. 14, row 34 |  |
 | 1247 | (γFe) + ε -> (αFe) | (γFe): Ta 0.002; ε: Ta 0.333; (αFe): Ta 0.003 | experimental | [2] Rajkumar 2015; _cites Genders 1936_ | Table 2, p. 3, row 22 |  |
 | 1246 | peritectoid: γ + λ \<-> α | α: Ta 0.006 | experimental | [3] Witusiewicz 2011 | Table 6, p. 14, row 35 |  |
 | 1246 | (γFe) + ε -> (αFe) | (αFe): Ta 0.006 | unspecified | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 2, p. 3, row 23 |  |
-| 1245.15 | other: bcc(α) ↔ γ + ε | γ: Ta 0.003; ε: Ta 0.3333; α: Ta 0.006 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 29 |  |
+| 1245.15 | peritectoid: bcc(α) ↔ γ + ε | γ: Ta 0.003; ε: Ta 0.3333 | experimental | [1] Danon 2003; _cites Sinha 1967_ | Table 1, p. 5, row 29 |  |
 | 1245 | peritectoid: γ + λ \<-> α | γ: Ta 0.003; λ: Ta 0.333; α: Ta 0.006 | experimental | [3] Witusiewicz 2011; _cites Sinha 1967_ | Table 6, p. 14, row 32 |  |
 | 1245 | (γFe) + ε -> (αFe) | (γFe): Ta 0.003; ε: Ta 0.333; (αFe): Ta 0.006 | experimental | [2] Rajkumar 2015; _cites Sinha 1967_ | Table 2, p. 3, row 20 |  |
 | 1245 | (γFe) + ε -> (αFe) | (γFe): Ta 0.00392; ε: Ta 0.3218; (αFe): Ta 0.00836 | model | [2] Rajkumar 2015 | Table 2, p. 3, row 24 |  |
@@ -167,7 +168,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (95
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ta system (36)
+Table: Enthalpies of formation, Fe–Ta system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -192,21 +193,6 @@ Table: Enthalpies of formation, Fe–Ta system (36)
 | Mu phase (μ) |  | -7.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 9 |  |
 | Mu phase (μ) |  | -5.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 10 |  |
 | Ta13 |  | 10.71 kJ/mol-atom | 0 | DFT |  |  | [2] Rajkumar 2015 | Table 9, p. 6, row 8 |  |
-| ε |  | -20.118 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 8 |  |
-| ε |  | -19.99 kJ/mol (basis unstated) |  | model |  |  | [2] Rajkumar 2015; _cites De 1988_ | Table 7, p. 6, row 6 |  |
-| ε |  | -19.767 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 7 |  |
-| ε |  | -19.25 kJ/mol (basis unstated) |  | model |  |  | [2] Rajkumar 2015; _cites Gerassimov 1972_ | Table 7, p. 6, row 5 |  |
-| ε |  | -18.61 kJ/mol (basis unstated) |  | DFT |  |  | [2] Rajkumar 2015; _cites Pavlu 2012_ [doi](https://doi.org/10.2298/jmmb120704050p) | Table 7, p. 6, row 4 |  |
-| ε |  | -6.3 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Meschel 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.08.006) | Table 7, p. 6, row 3 |  |
-| ε |  | -5.7 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 1 |  |
-| ε |  | -5.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 2 |  |
-| μ |  | -22.586 kJ/mol (basis unstated) |  | model |  |  | [2] Rajkumar 2015; _cites De 1988_ | Table 7, p. 6, row 11 |  |
-| μ |  | -20.529 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 14 |  |
-| μ |  | -19.868 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 12 |  |
-| μ |  | -17.684 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 13 |  |
-| μ |  | -17.224 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 15 |  |
-| μ |  | -7.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 9 |  |
-| μ |  | -5.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 10 |  |
 
 ## Other properties
 

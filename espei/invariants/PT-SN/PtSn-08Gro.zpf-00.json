@@ -313,17 +313,38 @@
    {
     "id": "ORC-BD2ZXI2IDQ",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.11.027"
+    "paper": "doi:10.1016/j.jallcom.2006.11.027",
+    "also_reported_as": [
+     {
+      "id": "ORC-3GN3LUI2GF",
+      "paper": "doi:10.1016/j.jallcom.2020.157064",
+      "dataset": "invariants/PT-SN/PtSn-21Cui.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-GTQRXDUWHV",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.11.027"
+    "paper": "doi:10.1016/j.jallcom.2006.11.027",
+    "also_reported_as": [
+     {
+      "id": "ORC-SGGSEYDCWB",
+      "paper": "doi:10.1016/j.jallcom.2020.157064",
+      "dataset": "invariants/PT-SN/PtSn-21Cui.zpf-01.json"
+     }
+    ]
    },
    {
     "id": "ORC-4VXEOXJK7N",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2006.11.027"
+    "paper": "doi:10.1016/j.jallcom.2006.11.027",
+    "also_reported_as": [
+     {
+      "id": "ORC-RSN4KDHQYZ",
+      "paper": "doi:10.1016/j.jallcom.2020.157064",
+      "dataset": "invariants/PT-SN/PtSn-21Cui.zpf-01.json"
+     }
+    ]
    }
   ],
   "papers": [
@@ -337,7 +358,7 @@
    "10.1016/j.jallcom.2020.157064"
   ],
   "source_dataset": "db-v2.1/invariants/espei/PtSn-08Gro/zpf-00.json",
-  "e3_merged": 4
+  "e3_merged": 7
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",

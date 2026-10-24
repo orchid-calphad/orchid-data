@@ -152,36 +152,36 @@ Table: Enthalpies of formation, Bi–Rb system (41)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Bi2Rb |  | -35.533 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 6 |  |
-| Bi2Rb |  | -35.5 per mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 2 |  |
+| Bi2Rb |  | -35.5 per mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 2 |  |
 | Bi2Rb | [Bi2Rb](https://data.orchid-project.org/compounds/Bi2Rb.html) | -35.5 kJ/mol-atom |  | model | -31.18 (mp-aaaabikj) | -29.992 (oqmd-647552) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 2 |  |
 | Bi2Rb | [Bi2Rb](https://data.orchid-project.org/compounds/Bi2Rb.html) | -34.433 kJ/mol-atom |  | model | -31.18 (mp-aaaabikj) | -29.992 (oqmd-647552) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 3 |  |
 | Bi2Rb | [Bi2Rb](https://data.orchid-project.org/compounds/Bi2Rb.html) | -31.917 kJ/mol-atom |  | model | -31.18 (mp-aaaabikj) | -29.992 (oqmd-647552) | [1] Dziri 2022 | Table 4, p. 7, row 4 |  |
 | Bi2Rb |  | -30.434 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 5 |  |
 | Bi2Rb | [Bi2Rb](https://data.orchid-project.org/compounds/Bi2Rb.html) | -25.9 kJ/mol-atom ± 2 | 298.15 | experimental | -31.18 (mp-aaaabikj) | -29.992 (oqmd-647552) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 1 |  |
-| Bi2Rb |  | -25.9 per mol-atom ± 2 | 298 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1 |  |
+| Bi2Rb |  | -25.9 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1 |  |
 | Bi2Rb3 | [Bi2Rb3](https://data.orchid-project.org/compounds/Bi2Rb3.html) | -41.735 kJ/mol-atom |  | model | -29.396 (mp-aaacqrwt) | -31.006 (oqmd-1435540) | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 4, p. 7, row 18 |  |
 | Bi2Rb3 | [Bi2Rb3](https://data.orchid-project.org/compounds/Bi2Rb3.html) | -41.6 kJ/mol-atom |  | model | -29.396 (mp-aaacqrwt) | -31.006 (oqmd-1435540) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 19 |  |
-| Bi2Rb3 |  | -41.6 per mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
+| Bi2Rb3 |  | -41.6 per mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
 | Bi2Rb3 | [Bi2Rb3](https://data.orchid-project.org/compounds/Bi2Rb3.html) | -40.5 kJ/mol-atom | 298.15 | experimental | -29.396 (mp-aaacqrwt) | -31.006 (oqmd-1435540) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 20 |  |
 | Bi2Rb3 | [Bi2Rb3](https://data.orchid-project.org/compounds/Bi2Rb3.html) | -36.598 kJ/mol-atom |  | model | -29.396 (mp-aaacqrwt) | -31.006 (oqmd-1435540) | [1] Dziri 2022 | Table 4, p. 7, row 21 |  |
 | Bi2Rb3 | [Bi2Rb3](https://data.orchid-project.org/compounds/Bi2Rb3.html) | -36.4 kJ/mol-atom ± 2 | 298.15 | experimental | -29.396 (mp-aaacqrwt) | -31.006 (oqmd-1435540) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 17 |  |
-| Bi2Rb3 |  | -36.4 per mol-atom ± 2 | 298 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
+| Bi2Rb3 |  | -36.4 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
 | Bi2Rb3 |  | -35.709 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 23 |  |
 | Bi2Rb3 |  | -34.913 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 22 |  |
 | Bi4Rb5 | [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.html) | -40.8 kJ/mol-atom |  | model | -32.389 (mp-aaacrkdo) | -34.447 (oqmd-1914415) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 12 |  |
-| Bi4Rb5 |  | -40.8 per mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 4 |  |
+| Bi4Rb5 |  | -40.8 per mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 4 |  |
 | Bi4Rb5 | [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.html) | -39.866 kJ/mol-atom |  | model | -32.389 (mp-aaacrkdo) | -34.447 (oqmd-1914415) | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 13 |  |
 | Bi4Rb5 | [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.html) | -39.618 kJ/mol-atom | 298.15 | experimental | -32.389 (mp-aaacrkdo) | -34.447 (oqmd-1914415) | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 4, p. 7, row 11 |  |
 | Bi4Rb5 |  | -37.795 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 16 |  |
 | Bi4Rb5 | [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.html) | -36.77 kJ/mol-atom |  | model | -32.389 (mp-aaacrkdo) | -34.447 (oqmd-1914415) | [1] Dziri 2022 | Table 4, p. 7, row 14 |  |
 | Bi4Rb5 | [Bi4Rb5](https://data.orchid-project.org/compounds/Bi4Rb5.html) | -35.1 kJ/mol-atom ± 2 | 298.15 | experimental | -32.389 (mp-aaacrkdo) | -34.447 (oqmd-1914415) | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 10 |  |
-| Bi4Rb5 |  | -35.1 per mol-atom ± 2 | 298 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 3 |  |
+| Bi4Rb5 |  | -35.1 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 3 |  |
 | Bi4Rb5 |  | -34.693 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 15 |  |
 | BiRb |  | -38.131 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 9 |  |
 | BiRb | [BiRb](https://data.orchid-project.org/compounds/BiRb.html) | -35.975 kJ/mol-atom |  | model | -32.944 (mp-aaaabuaj) | -34.733 (oqmd-1798865) | [1] Dziri 2022 | Table 4, p. 7, row 7 |  |
 | BiRb |  | -35.056 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 8 |  |
-| BiRb3 |  | -38.8 per mol-atom | 298 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 8 |  |
-| BiRb3 |  | -37.2 per mol-atom ± 2 | 298 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
+| BiRb3 |  | -38.8 per mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 4, row 8 |  |
+| BiRb3 |  | -37.2 per mol-atom ± 2 | 298.15 | experimental |  |  | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
 | ßBiRb3 | [BiRb3](https://data.orchid-project.org/compounds/BiRb3.html) | -38.61 kJ/mol-atom |  | model | -30.793 (mp-aaabgjwh) | -32.922 (oqmd-28765) | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 30 |  |
 | ßBiRb3 |  | -38.272 kJ/mol-atom | 0 | DFT |  |  | [1] Dziri 2022 | Table 4, p. 7, row 33 |  |
 | ßBiRb3 | [BiRb3](https://data.orchid-project.org/compounds/BiRb3.html) | -34.621 kJ/mol-atom |  | model | -30.793 (mp-aaabgjwh) | -32.922 (oqmd-28765) | [1] Dziri 2022 | Table 4, p. 7, row 31 |  |
@@ -216,19 +216,19 @@ Table: Formation, Bi–Rb system
 | Entropy of formation; _printed: ΔfS_ | -6.5 J/mol-atom/K |  | αBiRb3; _alloy: Rb 0.75_ | model | [1] Dziri 2022; _cites Liu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.01.029) | Table 4, p. 7, row 25 |  |
 | Entropy of formation; _printed: ΔfS_ | -1.4 J/mol-atom/K |  | αBiRb3; _alloy: Rb 0.75_ | model | [1] Dziri 2022 | Table 4, p. 7, row 27 |  |
 | Entropy of formation; _printed: ΔfS_ | -10.175 J/mol-atom/K |  | αBiRb3; _alloy: Rb 0.75_ | model | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 26 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.5 per mol-atom | 298 | Bi2Rb; _alloy: Rb 0.333333_ | model | [2] Liu 2013 | Table 3, p. 4, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | -2.9 per mol-atom ± 5 | 298 | Bi2Rb; _alloy: Rb 0.333333_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | -5.6 per mol-atom | 298 | Bi2Rb3; _alloy: Rb 0.6_ | model | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -10 per mol-atom ± 5.4 | 298 | Bi2Rb3; _alloy: Rb 0.6_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | -9.2 per mol-atom ± 5.4 | 298 | Bi4Rb5; _alloy: Rb 0.555556_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | -4.9 per mol-atom | 298 | Bi4Rb5; _alloy: Rb 0.555556_ | model | [2] Liu 2013 | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.5 per mol-atom | 298 | BiRb3; _alloy: Rb 0.75_ | model | [2] Liu 2013 | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | -9.6 per mol-atom ± 5.9 | 298 | BiRb3; _alloy: Rb 0.75_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
 | Entropy of formation; _printed: ΔfS_ | -2.9 J/mol-atom/K ± 5 | 298.15 | Bi2Rb; _alloy: Rb 0.333333_ | experimental | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 1 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.5 per mol-atom | 298.15 | Bi2Rb; _alloy: Rb 0.333333_ | model | [2] Liu 2013 | Table 3, p. 4, row 2 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.9 per mol-atom ± 5 | 298.15 | Bi2Rb; _alloy: Rb 0.333333_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -10 J/mol-atom/K ± 5.4 | 298.15 | Bi2Rb3; _alloy: Rb 0.6_ | experimental | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 17 |  |
+| Entropy of formation; _printed: ΔfS_ | -5.6 per mol-atom | 298.15 | Bi2Rb3; _alloy: Rb 0.6_ | model | [2] Liu 2013 | Table 3, p. 4, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | -3.88 J/mol-atom/K | 298.15 | Bi2Rb3; _alloy: Rb 0.6_ | experimental | [1] Dziri 2022; _cites Cao 2014_ [doi](https://doi.org/10.1016/j.calphad.2014.04.001) | Table 4, p. 7, row 20 |  |
+| Entropy of formation; _printed: ΔfS_ | -10 per mol-atom ± 5.4 | 298.15 | Bi2Rb3; _alloy: Rb 0.6_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 5 |  |
 | Entropy of formation; _printed: ΔfS_ | -9.2 J/mol-atom/K ± 5.4 | 298.15 | Bi4Rb5; _alloy: Rb 0.555556_ | experimental | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 10 |  |
 | Entropy of formation; _printed: ΔfS_ | 12.97 J/mol-atom/K | 298.15 | Bi4Rb5; _alloy: Rb 0.555556_ | experimental | [1] Dziri 2022; _cites Petric 1988_ [doi](https://doi.org/10.1149/1.2095424) | Table 4, p. 7, row 11 |  |
+| Entropy of formation; _printed: ΔfS_ | -9.2 per mol-atom ± 5.4 | 298.15 | Bi4Rb5; _alloy: Rb 0.555556_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 3 |  |
+| Entropy of formation; _printed: ΔfS_ | -4.9 per mol-atom | 298.15 | Bi4Rb5; _alloy: Rb 0.555556_ | model | [2] Liu 2013 | Table 3, p. 4, row 4 |  |
+| Entropy of formation; _printed: ΔfS_ | -6.5 per mol-atom | 298.15 | BiRb3; _alloy: Rb 0.75_ | model | [2] Liu 2013 | Table 3, p. 4, row 8 |  |
+| Entropy of formation; _printed: ΔfS_ | -9.6 per mol-atom ± 5.9 | 298.15 | BiRb3; _alloy: Rb 0.75_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
 | Entropy of formation; _printed: ΔfS_ | -9.6 J/mol-atom/K ± 5.9 | 298.15 | αBiRb3; _alloy: Rb 0.75_ | experimental | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 24 |  |
 
 ### Crystal structure (73)

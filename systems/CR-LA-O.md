@@ -1,10 +1,10 @@
 # Cr–La–O system
 
-> Cr–La–O system: 56 accepted literature values (phase transition 26, heat capacity / entropy / enthalpy 12, formation 11, activity / EMF / Gibbs energy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–La–O system: 53 accepted literature values (phase transition 26, heat capacity / entropy / enthalpy 11, formation 9, activity / EMF / Gibbs energy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-LA-O.html · Markdown: https://data.orchid-project.org/systems/CR-LA-O.md
 
-56 accepted literature values from 1 paper(s) (experimental 33, model 23); 0 calculated phase diagram(s).
+53 accepted literature values from 1 paper(s) (experimental 34, model 19); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-LA-O.json) · [CSV](https://data.orchid-project.org/systems/CR-LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-LA-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-LA-O.html) · [Markdown](https://data.orchid-project.org/systems/CR-LA-O.md)
 
@@ -12,36 +12,34 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
-| model | 23 |
+| experimental | 34 |
+| model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 26 |
-| formation | 11 |
-| heat capacity / entropy / enthalpy | 12 |
+| formation | 9 |
+| heat capacity / entropy / enthalpy | 11 |
 | activity / EMF / Gibbs energy | 7 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–La–O system (11)
+Table: Enthalpies of formation, Cr–La–O system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| La2(CrO4)3 |  | -3961 kJ/mol (basis unstated) ± 11.7 | 298 | model |  |  | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20 |  |
-| La2(CrO4)3 |  | -3845 kJ/mol (basis unstated) | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 19 |  |
-| La2(CrO4)3 |  | -372 kJ/mol (basis unstated) | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 22 |  |
-| La2CrO6 |  | -8.11111 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 17 |  |
-| LaCrO3 |  | -273.64 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 1 |  |
-| LaCrO3 |  | -14.74 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
+| — |  | -233 kJ/mol-atom ± 11.7 | 298.15 | experimental |  |  | [1] Povoden 2009; _cites Tsyrenova_ | p. 2 | “The enthalpy of formation of La2(CrO4)3 from the elements at 298 K was proposed by Tsyrenova et al.\[29\] to be -3961 ± 11.7 kJ mol-1.” |
+| La2(CrO4)3 |  | -3961 kJ/mol (basis unstated) ± 11.7 | 298.15 | model |  |  | [1] Povoden 2009; _cites Tsyrenova_ | Table 1, p. 3, row 20 |  |
+| La2(CrO4)3 |  | -3845 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 19 |  |
+| La2(CrO4)3 |  | -372 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 22 |  |
+| La2CrO6 |  | -8.11111 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 17 |  |
 | LaCrO3 |  | -14.612 kJ/mol-atom ± 2.79 | 1078 | experimental |  |  | [1] Povoden 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 3, row 4 |  |
-| LaCrO3 |  | -12.47 kJ/mol-atom | 975 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 3 |  |
-| Rhombohedral LaCrO3 |  | -273.64 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 1 |  |
-| Rhombohedral LaCrO3 |  | -14.74 kJ/mol-atom | 298 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
+| Rhombohedral LaCrO3 |  | -273.64 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 1 |  |
+| Rhombohedral LaCrO3 |  | -14.74 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
 | Rhombohedral LaCrO3 |  | -12.47 kJ/mol-atom | 975 | model |  |  | [1] Povoden 2009 | Table 1, p. 3, row 3 |  |
 
 ## Other properties
@@ -79,16 +77,15 @@ Table: Phase transition, Cr–La–O system
 | Phase transition | 550 K | 550 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Momin 1991_ [doi](https://doi.org/10.1007/bf00720935) | Table 2, p. 3, row 15 |  |
 | Phase transition | 563 K | 563 | polymorphic: Transition temperature, K | experimental | [1] Povoden 2009; _cites Pavlikov 1966_ | Table 2, p. 3, row 5 |  |
 
-### Heat capacity / entropy / enthalpy (12)
+### Heat capacity / entropy / enthalpy (11)
 
 Table: Heat capacity / entropy / enthalpy, Cr–La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S_ | 516 J/mol (basis unstated)/K | 298 | La2(CrO4)3 | model | [1] Povoden 2009 | Table 1, p. 3, row 21 |  |
-| Entropy; _printed: °S_ | 36.6667 J/mol-atom/K | 298 | La2CrO6; _alloy: La 0.222222, O 0.666667_ | model | [1] Povoden 2009 | Table 1, p. 3, row 18 |  |
-| Entropy; _printed: °S298K_ | 21.84 J/mol-atom/K | 298 | LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 5 |  |
-| Entropy; _printed: °S_ | 21.84 J/mol-atom/K | 298 | Rhombohedral LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 5 |  |
+| Entropy; _printed: °S_ | 516 J/mol (basis unstated)/K | 298.15 | La2(CrO4)3 | model | [1] Povoden 2009 | Table 1, p. 3, row 21 |  |
+| Entropy; _printed: °S_ | 36.6667 J/mol-atom/K | 298.15 | La2CrO6; _alloy: La 0.222222, O 0.666667_ | model | [1] Povoden 2009 | Table 1, p. 3, row 18 |  |
+| Entropy; _printed: °S_ | 21.84 J/mol-atom/K | 298.15 | Rhombohedral LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 5 |  |
 | Heat content; _printed: H − H298K_ | 94.4 kJ mol−1 | 298.15 | LaCrO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Yu 2005_ | Table 1, p. 3, row 12 |  |
 | Heat content; _printed: H − H298K_ | 139.2 kJ mol−1 | 298.15 | LaCrO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden 2009; _cites Yu 2005_ | Table 1, p. 3, row 14 |  |
 | Heat content; _printed: H − H298K_ | 133.05 kJ mol−1 | 298.15 | LaCrO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden 2009 | Table 1, p. 3, row 13 |  |

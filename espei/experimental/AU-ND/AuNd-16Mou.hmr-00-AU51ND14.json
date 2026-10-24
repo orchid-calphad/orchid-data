@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 298.0,
+  "T": 298.15,
   "X_ND": [
    0.215
   ]
@@ -44,6 +44,7 @@
    }
   }
  },
+ "orchid_standard_temperature": "298 K read as the standard reference temperature 298.15 K",
  "weight": 0.102041,
  "bibtex": "moustaine2016_57ed8f",
  "orchid": {

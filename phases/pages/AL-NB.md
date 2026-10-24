@@ -37,7 +37,7 @@ Table: Phases of the Al–Nb system (15)
 - Caveat: partitioned order/disorder model in AlNb-23Fio.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlNb-97Ser-LB.tdb also describes the disordered state
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2000.79 K, x(Nb) 0.24856–0.25816
-- Literature: 21 values (18 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:al3nb-d022)
 
 Names (9): _corpus: _corpus:phase:al-nb:al3nb-d022  
@@ -342,7 +342,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in AlNb-23Fio.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlNb-97Ser-LB.tdb also describes the disordered state
 - Stability: stable in 5 of 5 calculated diagram(s): 300–2212.73 K, x(Nb) 0.52335–0.71072
-- Literature: 24 values (23 accepted) from 3 papers
+- Literature: 24 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:d8b-sigma)
 
 Names (10): _corpus: _corpus:phase:al-nb:d8b-sigma, corpus:phase:al-nb:sigma-d8b  
@@ -438,7 +438,7 @@ _assessment that models this phase_
 - Id: `phase:al-nb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–934.57 K, x(Nb) 0–0.00166
-- Literature: 16 values (15 accepted) from 3 papers
+- Literature: 16 values (16 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:fcc-a1)
 
 Names (10): _corpus: _corpus:phase:al-nb:fcc-a1  
@@ -581,7 +581,7 @@ _assessment that models this phase_
 - Id: `phase:al-nb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 927.57–4000 K, x(Nb) 0–1
-- Literature: 67 values (64 accepted) from 4 papers
+- Literature: 67 values (67 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-nb:liquid)
 
 Names (11): _corpus: _corpus:phase:al-nb:liquid  

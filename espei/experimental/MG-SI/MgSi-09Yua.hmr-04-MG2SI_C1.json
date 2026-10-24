@@ -45,7 +45,15 @@
   "dois": [
    "10.1016/j.calphad.2009.08.004"
   ],
-  "source_dataset": "db-v2.1/general/espei/MgSi-09Yua/hmr-04.json"
+  "source_dataset": "db-v2.1/general/espei/MgSi-09Yua/hmr-04.json",
+  "also_reported_as": [
+   {
+    "dataset": "experimental/MG-SI/MgSi-12Sch.hmr-01-MG2SI_C1.json",
+    "ids": [
+     "ORC-NQ3FCXRLOR"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",

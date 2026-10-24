@@ -1,10 +1,10 @@
 # Mo–Nb–Re system
 
-> Mo–Nb–Re system: 25 accepted literature values (formation 16, phase equilibrium 6, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Nb–Re system: 27 accepted literature values (formation 18, phase equilibrium 6, invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NB-RE.html · Markdown: https://data.orchid-project.org/systems/MO-NB-RE.md
 
-25 accepted literature values from 1 paper(s) (experimental 3, model 3, DFT 16, unspecified 3); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+27 accepted literature values from 1 paper(s) (experimental 3, model 3, DFT 18, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB-RE.json) · [CSV](https://data.orchid-project.org/systems/MO-NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB-RE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB-RE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 3 |
 | model | 3 |
-| DFT | 16 |
+| DFT | 18 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | phase equilibrium | 6 |
-| formation | 16 |
+| formation | 18 |
 
 ## Invariant reactions (literature)
 
@@ -39,7 +39,7 @@ Table: Invariant reactions reported in the literature for the Mo–Nb–Re syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Nb–Re system (16)
+Table: Enthalpies of formation, Mo–Nb–Re system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -57,8 +57,10 @@ Table: Enthalpies of formation, Mo–Nb–Re system (16)
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -417.159 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 14 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | -43.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 17 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 9.0625 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 18 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 14.5517 kJ/mol-atom | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 16 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 318 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 13 |  |
 | χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 529.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020 | Table IV, p. 38, row 12 |  |
+| χ-(Nb,Mo,Re)10(Nb,Mo,Re)24(Re)24 |  | 1100.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Yen 2020; _cites Yang 2009_ | Table IV, p. 38, row 15 |  |
 
 ## Other properties
 

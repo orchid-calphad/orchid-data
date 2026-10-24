@@ -18,14 +18,14 @@ Table: Enthalpy of formation of Mg3Sb2 reported in the literature (16)
 | -285 kJ/mol (basis unstated) | α-Mg3Sb2 | 923 | experimental | high temperature calorimetric measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Kubaschewski 1939_ | Table 8, p. 9, row 3 |  |
 | -235 kJ/mol (basis unstated) ± 6 | α-Mg3Sb2 | 773 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Eremenko 1964_ | Table 8, p. 9, row 2 |  |
 | -47 kJ/mol-atom ± 6 | Mg3Sb2 | 773 | experimental |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
-| -490 kJ/mol (basis unstated) | α-Mg3Sb2 | 298 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005 | Table 8, p. 9, row 6 |  |
+| -490 kJ/mol (basis unstated) | α-Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | -320 kJ/mol (basis unstated) ± 40 | α-Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
-| -300 kJ/mol (basis unstated) | α-Mg3Sb2 | 298 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |
+| -300 kJ/mol (basis unstated) | α-Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |
 | -64 kJ/mol-atom ± 40 | Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
-| -60 kJ/mol-atom | Mg3Sb2 | 298 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
+| -60 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
 | -59.8 kJ/mol-atom ± 3 | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Rao 1829_ | Table 1I, p. 4, row 10 |  |
 | -57 kJ/mol-atom | Mg3Sb2 | 923 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
-| -55.2 kJ/mol-atom | Mg3Sb2 | 298 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
+| -55.2 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
 | -53.2 kJ/mol-atom | Mg3Sb2 | 773 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
 | -53.2 kJ/mol-atom | Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 7 |  |
 | -52.6 kJ/mol-atom | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 9 |  |
@@ -37,10 +37,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Mg3Sb2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacqblj | -43.056 | -0.446245 | Ia-3 | 0 | yes |
-| OQMD | oqmd-116230 | -36.528 | -0.378584 | Ia-3 | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacqblj | -43.056 | -0.446245 | Ia-3 | 0 | 0 | yes |
+| OQMD | oqmd-116230 | -36.528 | -0.378584 | Ia-3 | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Cr–Nb system
 
-> Cr–Nb system: 249 accepted literature values (phase transition 114, phase equilibrium 77, formation 21, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Nb system: 250 accepted literature values (phase transition 114, phase equilibrium 77, formation 24, crystal structure 17) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NB.html · Markdown: https://data.orchid-project.org/systems/CR-NB.md
 
-249 accepted literature values from 3 paper(s) (experimental 192, model 23, DFT 30, unspecified 4); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+250 accepted literature values from 3 paper(s) (experimental 190, model 23, DFT 33, unspecified 4); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NB.json) · [CSV](https://data.orchid-project.org/systems/CR-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NB/CrNb-09Pav.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NB.html) · [Markdown](https://data.orchid-project.org/systems/CR-NB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 192 |
+| experimental | 190 |
 | model | 23 |
-| DFT | 30 |
+| DFT | 33 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -24,9 +24,9 @@ Table: Accepted values by property group
 | invariant reaction | 15 |
 | phase transition | 114 |
 | phase equilibrium | 77 |
-| formation | 21 |
+| formation | 24 |
 | heat capacity / entropy / enthalpy | 1 |
-| activity / EMF / Gibbs energy | 4 |
+| activity / EMF / Gibbs energy | 2 |
 | crystal structure | 17 |
 
 ## Calculated phase diagrams
@@ -96,7 +96,7 @@ Table: Invariant reactions reported in the literature for the Cr–Nb system (15
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Nb system (20)
+Table: Enthalpies of formation, Cr–Nb system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -120,6 +120,9 @@ Table: Enthalpies of formation, Cr–Nb system (20)
 | UNKNOWN |  | 27.29 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 14 |  |
 | UNKNOWN |  | 30.56 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 12 |  |
 | UNKNOWN |  | 33.55 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 13 |  |
+| UNKNOWN |  | 75.33 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 11 |  |
+| UNKNOWN |  | 75.38 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 9 |  |
+| UNKNOWN |  | 75.39 kJ/mol-atom | 0 | DFT |  |  | [1] Schmetterer 2014 | Table 6, p. 7, row 10 |  |
 
 ## Other properties
 
@@ -344,15 +347,13 @@ Table: Heat capacity / entropy / enthalpy, Cr–Nb system
 |---|---:|---:|---|---|---|---|---|
 | Heat capacity; _printed: Cp_ | 72.59 J/mol (basis unstated)/K | 298.15 | C15 Cr2Nb; _alloy: Cr 0.667, Nb 0.333_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 8 |  |
 
-### Activity / EMF / Gibbs energy (4)
+### Activity / EMF / Gibbs energy (2)
 
 Table: Activity / EMF / Gibbs energy, Cr–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Activity Cr; _printed: Activity of Cr_ | 0.42 1 | 1472 | C15 Cr2Nb + (Nb); _alloy: Cr 0.47, Nb 0.53_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 7 |  |
-| Activity Cr; _printed: Activity of Cr_ | 0.42 1 | 1472 | C15 Cr2Nb + (Nb); _alloy: Cr 0.47, Nb 0.53_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 7 |  |
-| Activity Cr; _printed: Activity of Cr_ | 0.41 1 | 1472 | C15 Cr2Nb + (Nb); _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 6 |  |
 | Activity Cr; _printed: Activity of Cr_ | 0.41 1 | 1472 | C15 Cr2Nb + (Nb); _alloy: Cr 0.3, Nb 0.7_ | experimental | [1] Schmetterer 2014; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 5, p. 6, row 6 |  |
 
 ### Crystal structure (17)
@@ -375,7 +376,7 @@ Table: Crystal structure, Cr–Nb system
 | Lattice a; _printed: a_ | 7.74 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Schmetterer 2014 | Table 6, p. 7, row 16 |  |
 | Lattice a; _printed: a_ | 6.96 Å | 0 | UNKNOWN | DFT | [1] Schmetterer 2014 | Table 6, p. 7, row 1 |  |
 | Lattice a; _printed: a_ | 7.5 Å | 0 | UNKNOWN | DFT | [1] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 6, p. 7, row 11 |  |
-| Lattice a | 3.3 Å | 298 | (Nb); _(Nb): Cr 0.244, Nb 0.756_ | unspecified | [1] Schmetterer 2014; _cites Straumanis 2014_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 3.3 Å | 298.15 | (Nb); _(Nb): Cr 0.244, Nb 0.756_ | unspecified | [1] Schmetterer 2014; _cites Straumanis 2014_ | Table 1, p. 2, row 4 |  |
 | Lattice a | 6.991 Å | 298.15 | Cr2Nb LT; _Cr2Nb LT: Cr 0.7, Nb 0.3_ | experimental | [1] Schmetterer 2014; _cites Blazina 1986_ | Table 1, p. 2, row 2 |  |
 | Lattice a | 2.91 Å | 1353 | (Cr); _(Cr): Cr 0.944, Nb 0.056_ | unspecified | [1] Schmetterer 2014 | Table 1, p. 2, row 1 |  |
 

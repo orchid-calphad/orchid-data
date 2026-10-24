@@ -269,7 +269,7 @@ Table: Enthalpies of formation, Al–Y system (12)
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 1473 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 2 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom | 763 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
-| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
+| YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298.15 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
 
 ## Other properties
 

@@ -263,7 +263,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ag 0.6667, Te 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 977.76–1240.57 K, x(Te) 0.33333–0.33333
-- Literature: 12 values (11 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-te:ag2te-ht2)
 
 Names (4): _corpus: _corpus:phase:ag-te:ag2te-ht2  
@@ -476,7 +476,7 @@ _assessment that models this phase_
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stoichiometry: Ag 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1234.93 K, x(Te) 0–0
-- Literature: 2 values (1 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-te:fcc-a1)
 
 Names (6): _corpus: _corpus:phase:ag-te:fcc-a1  
@@ -625,7 +625,7 @@ _assessment that models this phase_
 - Id: `phase:ag-te:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 534.63–2438.43 K, x(Te) 0–1
-- Literature: 12 values (11 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-te:liquid)
 
 Names (7): _corpus: _corpus:phase:ag-te:liquid  

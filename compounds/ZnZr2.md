@@ -14,11 +14,11 @@ Table: Enthalpy of formation of ZnZr2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17.06 kJ/mol-atom | ZnZr2 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 44 |  |
-| -16.89 kJ/mol-atom | ZnZr2 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 43 |  |
-| -16.85 kJ/mol-atom | ZnZr2 | 298 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 45 |  |
-| -17.06 kJ/mol-atom | ZnZr2 | 298 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 42 |  |
-| -16.97 kJ/mol-atom | ZnZr2 | 298 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 41 |  |
+| -17.06 kJ/mol-atom | ZnZr2 | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 44 |  |
+| -16.89 kJ/mol-atom | ZnZr2 | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 43 |  |
+| -16.85 kJ/mol-atom | ZnZr2 | 298.15 | model |  | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006 | Table 5, p. 8, row 45 |  |
+| -17.06 kJ/mol-atom | ZnZr2 | 298.15 | DFT | GGA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 42 |  |
+| -16.97 kJ/mol-atom | ZnZr2 | 298.15 | DFT | LDA | [Zn–Zr](https://data.orchid-project.org/systems/ZN-ZR.html) | [1] Arroyave 2006; _cites Arroyave 2005_ | Table 5, p. 8, row 41 |  |
 
 ## DFT formation energies
 
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of ZnZr2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaacfybx | -17.135 | -0.177591 | I4/mmm | 1.338 | no |
-| OQMD | oqmd-31125 | -16.755 | -0.173657 | I4/mmm | 1.413 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaacfybx | -17.135 | -0.177591 | I4/mmm | 1.338 | 0.0139 | no |
+| OQMD | oqmd-31125 | -16.755 | -0.173657 | I4/mmm | 1.413 | 0.0146 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

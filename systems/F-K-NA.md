@@ -50,7 +50,7 @@ Table: Enthalpies of formation, F–K–Na system (15)
 | Halite |  | 9.869 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 35 |  |
 | Halite |  | 19.165 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 36 |  |
 | Halite |  | 24.312 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 37 |  |
-| K |  | 0 kJ/mol-atom | 298 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
+| K |  | 0 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
 | KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 0 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1951_ | Table 2, p. 3, row 27 |  |
 | KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
 | KNa2 |  | -0.699 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
@@ -84,8 +84,8 @@ Table: Crystal structure, F–K–Na system
 | Lattice a; _printed: Lattice constant a_ | 4.508 Å | 0 | bcc; _alloy: Na 0.75_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 34 |  |
 | Lattice a; _printed: Lattice constant a_ | 4.282 Å ± 5.000e-4 | 293 | Na; _alloy: Na 1_ | experimental | [1] Zhang 2006; _cites Aruja 1939_ | Table 2, p. 3, row 25 |  |
 | Lattice a; _printed: Lattice constant a_ | 4.197 Å | 293 | Na; _alloy: Na 1_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 24 |  |
-| Lattice a; _printed: Lattice constant a_ | 5.271 Å | 298 | K; _alloy: K 1_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
-| Lattice a; _printed: Lattice constant a_ | 5.328 Å | 298 | K; _alloy: K 1_ | experimental | [1] Zhang 2006; _cites Liu 1986_ [doi](https://doi.org/10.1016/0022-3697%2886%2990073-9) | Table 2, p. 3, row 23 |  |
+| Lattice a; _printed: Lattice constant a_ | 5.271 Å | 298.15 | K; _alloy: K 1_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 22 |  |
+| Lattice a; _printed: Lattice constant a_ | 5.328 Å | 298.15 | K; _alloy: K 1_ | experimental | [1] Zhang 2006; _cites Liu 1986_ [doi](https://doi.org/10.1016/0022-3697%2886%2990073-9) | Table 2, p. 3, row 23 |  |
 | Lattice c; _printed: Lattice constant c_ | 12.083 Å | 0 | KNa2; _alloy: Na 0.667_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 | Lattice c; _printed: Lattice constant c_ | 12.31 Å | 0 | KNa2; _alloy: Na 0.667_ | experimental | [1] Zhang 2006; _cites Laves 1943_ | Table 2, p. 3, row 14 |  |
 

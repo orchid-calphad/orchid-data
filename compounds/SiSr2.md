@@ -14,15 +14,15 @@ Table: Enthalpy of formation of SiSr2 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.7 kJ/mol-atom ± 3.2 | SiSr2 | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
-| -39.7 kJ/mol-atom | Sr2Si | 298 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6 |  |
-| -66.3 kJ/mol-atom | Sr2Si | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1 |  |
-| -41.3 kJ/mol-atom | SiSr2 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3 |  |
-| -37.9 kJ/mol-atom | SiSr2 | 298 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2 |  |
-| -41.3 kJ/mol-atom | Sr2Si | 298 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 3 |  |
-| -37.9 kJ/mol-atom | Sr2Si | 298 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 4 |  |
-| -37.6 kJ/mol-atom | Sr2Si | 298 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5 |  |
-| -35.3 kJ/mol-atom | Sr2Si | 298 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2 |  |
+| -39.7 kJ/mol-atom ± 3.2 | SiSr2 | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 2, row 1 |  |
+| -39.7 kJ/mol-atom | Sr2Si | 298.15 | experimental |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Balducci 2006_ [doi](https://doi.org/10.1016/j.intermet.2005.10.008) | Table 2, p. 4, row 6 |  |
+| -66.3 kJ/mol-atom | Sr2Si | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Gordienko 1997_ [doi](https://doi.org/10.1007/bf02680502) | Table 2, p. 4, row 1 |  |
+| -41.3 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 3 |  |
+| -37.9 kJ/mol-atom | SiSr2 | 298.15 | model |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [1] Li 2011; _cites Garay 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.07.001) | Table 2, p. 2, row 2 |  |
+| -41.3 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles LDA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 3 |  |
+| -37.9 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009 | Table 2, p. 4, row 4 |  |
+| -37.6 kJ/mol-atom | Sr2Si | 298.15 | DFT | first-principles GGA | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Brutti 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.03.023) | Table 2, p. 4, row 5 |  |
+| -35.3 kJ/mol-atom | Sr2Si | 298.15 | unspecified |  | [Si–Sr](https://data.orchid-project.org/systems/SI-SR.html) | [2] Garay 2009; _cites Imai 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900003-1) | Table 2, p. 4, row 2 |  |
 
 ## DFT formation energies
 
@@ -30,10 +30,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of SiSr2
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaabqo | -32.784 | -0.339784 | Pnma | 0 | no |
-| OQMD | oqmd-1713 | -35.542 | -0.368371 | Pnma | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabqo | -32.784 | -0.339784 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-1713 | -35.542 | -0.368371 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

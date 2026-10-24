@@ -234,7 +234,7 @@ _cited as the source of values for this phase_
 - Structure: CoZn13 · mC28 · C2/m (12); type `st:cozn13-mc28`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Co 0.0714, Zn 0.9286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–840.18 K, x(Zn) 0.92857–0.92857
-- Literature: 8 values (7 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:cozn13)
 
 Names (5): _corpus: _corpus:phase:co-zn:cozn13  
@@ -296,8 +296,8 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 17 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:fcc-a1)
 
-Names (9): _corpus: _corpus:phase:co-zn:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2003.12.002:Fcc_A1, paper:10.1361/15477030419522:(αCo), paper:10.1361/15477030419522:(αCo) (c), paper:10.1361/15477030419522:(αCo)p, paper:10.1361/15477030419522:Co(FCC), paper:10.1361/15477030419522:α  
+Names (8): _corpus: _corpus:phase:co-zn:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2003.12.002:Fcc_A1, paper:10.1361/15477030419522:(αCo), paper:10.1361/15477030419522:(αCo) (c), paper:10.1361/15477030419522:Co(FCC), paper:10.1361/15477030419522:α  
 _tdb: _tdb:CoZn-04Iso.tdb:FCC_A1, tdb:CoZn-04Vas-LB.tdb:FCC_A1  
 
 
@@ -331,7 +331,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1647.6 K, x(Zn) 0–1
-- Literature: 8 values (7 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:hcp-a3)
 
 Names (6): _corpus: _corpus:phase:co-zn:hcp-a3  
@@ -367,7 +367,7 @@ _assessment that models this phase_
 - Id: `phase:co-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 692.6–2500 K, x(Zn) 0–1
-- Literature: 35 values (32 accepted) from 2 papers
+- Literature: 35 values (33 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:liquid)
 
 Names (6): _corpus: _corpus:phase:co-zn:liquid  

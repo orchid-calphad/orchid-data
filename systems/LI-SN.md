@@ -190,28 +190,28 @@ Table: Enthalpies of formation, Li–Sn system (36)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Li13Sn5 |  | -45.8 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 14 |  |
 | Li13Sn5 |  | -44 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 13 |  |
-| Li13Sn5 |  | -39.9 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 17 |  |
-| Li13Sn5 |  | -38.1 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 18 |  |
+| Li13Sn5 |  | -39.9 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 17 |  |
+| Li13Sn5 |  | -38.1 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 18 |  |
 | Li13Sn5 |  | -35.1 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 16 |  |
 | Li13Sn5 |  | -35.1 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 15 |  |
 | Li22Sn5 |  | -47.1 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 1 |  |
-| Li22Sn5 |  | -43.3 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 5 |  |
+| Li22Sn5 |  | -43.3 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 5 |  |
 | Li22Sn5 |  | -40.7 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 2 |  |
-| Li22Sn5 |  | -39.3 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 6 |  |
+| Li22Sn5 |  | -39.3 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 6 |  |
 | Li22Sn5 |  | -33 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 3 |  |
 | Li22Sn5 |  | -31.1 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 4 |  |
-| Li2Sn5 |  | -21.8 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 35 |  |
-| Li2Sn5 |  | -20.1 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 36 |  |
+| Li2Sn5 |  | -21.8 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 35 |  |
+| Li2Sn5 |  | -20.1 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 36 |  |
 | Li5Sn2 |  | -45.4 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 20 |  |
 | Li5Sn2 |  | -43.8 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 19 |  |
-| Li5Sn2 |  | -39.7 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 23 |  |
-| Li5Sn2 |  | -38.9 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 24 |  |
+| Li5Sn2 |  | -39.7 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 23 |  |
+| Li5Sn2 |  | -38.9 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 24 |  |
 | Li5Sn2 |  | -35.7 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 22 |  |
 | Li5Sn2 |  | -35.2 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 21 |  |
 | Li7Sn2 |  | -45.6 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 7 |  |
 | Li7Sn2 |  | -43.8 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 8 |  |
-| Li7Sn2 |  | -41.7 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 11 |  |
-| Li7Sn2 |  | -40.2 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 12 |  |
+| Li7Sn2 |  | -41.7 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 11 |  |
+| Li7Sn2 |  | -40.2 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 12 |  |
 | Li7Sn2 |  | -34.4 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 9 |  |
 | Li7Sn2 |  | -34.1 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 10 |  |
 | Li7Sn3 |  | -45.3 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 26 |  |
@@ -219,8 +219,8 @@ Table: Enthalpies of formation, Li–Sn system (36)
 | Li7Sn3 |  | -35.5 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 28 |  |
 | Li7Sn3 |  | -35 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 27 |  |
 | LiSn |  | -40.9 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 29 |  |
-| LiSn |  | -35.8 unknown | 298 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 33 |  |
-| LiSn |  | -35.2 unknown | 298 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 34 |  |
+| LiSn |  | -35.8 unknown | 298.15 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 33 |  |
+| LiSn |  | -35.2 unknown | 298.15 | experimental |  |  | [1] Yin 2005; _cites Kubaschewski 1938_ | Table 3, p. 3, row 34 |  |
 | LiSn |  | -35 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 30 |  |
 | LiSn |  | -31.7 unknown | 688 | model |  |  | [1] Yin 2005 | Table 3, p. 3, row 31 |  |
 | LiSn |  | -26.1 unknown | 688 | experimental |  |  | [1] Yin 2005; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | Table 3, p. 3, row 32 |  |

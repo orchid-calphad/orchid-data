@@ -94,7 +94,7 @@ Table: Enthalpies of formation, V–Zn system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -1.1 kJ/mol (basis unstated) | 298 | model |  |  | [2] Wu 2011 | p. 7 | “The formation enthalpy of VZn16 was given a small value of -1100 J/mol at 298 K by considering the difficulty of its formation.” |
+| — |  | -1.1 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Wu 2011 | p. 7 | “The formation enthalpy of VZn16 was given a small value of -1100 J/mol at 298 K by considering the difficulty of its formation.” |
 
 ## Other properties
 

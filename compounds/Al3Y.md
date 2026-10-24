@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Al3Y reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -47.5 kJ/mol-atom | YAl3 | 763 | experimental | EMF | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
-| -47.1 kJ/mol-atom | YAl3 | 298 | experimental | Combustion calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
+| -47.1 kJ/mol-atom | YAl3 | 298.15 | experimental | Combustion calorimetry | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
 | -47.5 kJ/mol-atom | YAl3 |  | model |  | [Al–Y](https://data.orchid-project.org/systems/AL-Y.html) | [1] Gröbner 1995 | Table 1, p. 2, row 2 |  |
 
 ## DFT formation energies
@@ -24,10 +24,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Al3Y
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabxgjn | -42.248 | -0.43787 | P6_3/mmc | 0 | no |
-| OQMD | oqmd-321899 | -42.348 | -0.438904 | P63/mmc | 0 | yes |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabxgjn | -42.248 | -0.43787 | P6_3/mmc | 0 | 0 | no |
+| OQMD | oqmd-321899 | -42.348 | -0.438904 | P63/mmc | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

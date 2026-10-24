@@ -1,29 +1,24 @@
 # SnZr4: enthalpy of formation
 
-> Enthalpy of formation of SnZr4: 10 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of SnZr4: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SnZr4.html · Markdown: https://data.orchid-project.org/compounds/SnZr4.md
 
-10 accepted literature formation-enthalpy value(s) (model 10).
+5 accepted literature formation-enthalpy value(s) (model 5).
 
 Systems: [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SnZr4 reported in the literature (10)
+Table: Enthalpy of formation of SnZr4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -58.898 kJ/mol (basis unstated) | (Zr4Sn) |  | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
 | -58.898 kJ/mol (basis unstated) | (Zr4Sn)a |  | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Dupin 1999_ [doi](https://doi.org/10.1016/s0022-3115%2899%2900125-7) | Table 4, p. 8, row 4 |  |
-| -48.082 kJ/mol (basis unstated) | (Zr4Sn) |  | model | Miedema | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
 | -48.082 kJ/mol (basis unstated) | (Zr4Sn)a |  | model | Miedema | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites De 1988_ | Table 4, p. 8, row 5 |  |
-| -42.667 kJ/mol (basis unstated) | (Zr4Sn) |  | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
 | -42.667 kJ/mol (basis unstated) | (Zr4Sn)a |  | model | Thermo_Calc | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008 | Table 4, p. 8, row 3 |  |
 | -38.292 kJ/mol (basis unstated) | (Zr4Sn)a |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
-| -38.292 kJ/mol (basis unstated) | (Zr4Sn) |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 2 |  |
 | -29.94 kJ/mol (basis unstated) | (Zr4Sn)a |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
-| -29.94 kJ/mol (basis unstated) | (Zr4Sn) |  | model | FP | [Sn–Zr](https://data.orchid-project.org/systems/SN-ZR.html) | [1] Pérez 2008; _cites Baykov 2006_ [doi](https://doi.org/10.1016/j.scriptamat.2006.04.047) | Table 4, p. 8, row 1 |  |
 
 ## Sources
 

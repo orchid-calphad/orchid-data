@@ -423,8 +423,8 @@ _assessment that models this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:tet-a6-alpha1)
 
-Names (5): _corpus: _corpus:phase:bi-in:tet-a6-alpha1  
-_paper: _paper:10.1016/0364-5916(88)90040-5:α1  
+Names (6): _corpus: _corpus:phase:bi-in:tet-a6-alpha1  
+_paper: _paper:10.1016/0364-5916(88)90040-5:fct(α1), paper:10.1016/0364-5916(88)90040-5:α1  
 _tdb: _tdb:BiIn-02Cui.tdb:TET_ALPHA1_A6, tdb:BiIn-88Che-LB.tdb:TET_ALPHA1_A6, tdb:BiIn-88Che-SGSOL.tdb:TET_ALPHA1_A6  
 
 

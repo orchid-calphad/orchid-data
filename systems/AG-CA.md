@@ -162,13 +162,13 @@ Table: Enthalpies of formation, Ag–Ca system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ag9Ca2 |  | -15.2 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 2 |  |
-| Ag9Ca2 |  | -15.1 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 5 |  |
-| Ag9Ca2 |  | -14.6 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 3 |  |
-| Ag9Ca2 |  | -14.5 kJ/mol-atom | 298 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 4 |  |
-| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -12.5 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 8 |  |
-| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.6 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 10 |  |
-| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.3 kJ/mol-atom | 298 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 9 |  |
+| Ag9Ca2 |  | -15.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 2 |  |
+| Ag9Ca2 |  | -15.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 5 |  |
+| Ag9Ca2 |  | -14.6 kJ/mol-atom | 298.15 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 3 |  |
+| Ag9Ca2 |  | -14.5 kJ/mol-atom | 298.15 | experimental |  |  | [1] Braga 2014 | Table 1, p. 2, row 4 |  |
+| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -12.5 kJ/mol-atom | 298.15 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 8 |  |
+| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.6 kJ/mol-atom | 298.15 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 10 |  |
+| AgCa3 | [AgCa3](https://data.orchid-project.org/compounds/AgCa3.html) | -11.3 kJ/mol-atom | 298.15 | experimental | -5.282 (mp-aaacpirk) | -20.024 (oqmd-1787095) | [1] Braga 2014 | Table 1, p. 2, row 9 |  |
 
 ## Other properties
 

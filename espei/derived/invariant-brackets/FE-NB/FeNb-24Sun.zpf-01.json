@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "C14_LAVES",
-  "FCC_A1",
   "LIQUID",
   "MU_D85"
  ],
@@ -19,11 +18,7 @@
    1783.0,
    1763.0,
    1653.0,
-   1633.0,
-   1473.0,
-   1453.0,
-   1233.0,
-   1213.0
+   1633.0
   ]
  },
  "output": "ZPF",
@@ -228,140 +223,6 @@
      0.116
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.063
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.053
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.073
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.01
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.32
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.053
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.073
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "NB"
-    ],
-    [
-     0.004
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "NB"
-    ],
-    [
-     0.32
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.0055
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.0085
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.007
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.0055
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NB"
-    ],
-    [
-     0.0085
-    ]
-   ]
   ]
  ],
  "reference": "Sun 2024, doi:10.1016/j.actamat.2024.119747",
@@ -372,7 +233,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-NB/FeNb-24Sun.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5DV6GJB43D ORC-6SUDM4FQRW ORC-BGPLPEQUFU ORC-YJ4YFV6BTH ORC-YSSQZGZUQX",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-NB/FeNb-24Sun.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5DV6GJB43D ORC-BGPLPEQUFU ORC-YSSQZGZUQX",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-NB/FeNb-24Sun.zpf-01.json",
@@ -491,82 +352,6 @@
     "phases_below": [
      "BCC_A2",
      "C14_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-YJ4YFV6BTH",
-    "side": "above",
-    "T_invariant_K": 1463.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.063,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "BCC_A2 ↔ FCC_A1 + C14",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "FCC_A1",
-     "C14_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-YJ4YFV6BTH",
-    "side": "below",
-    "T_invariant_K": 1463.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.063,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "BCC_A2 ↔ FCC_A1 + C14",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "FCC_A1",
-     "C14_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-6SUDM4FQRW",
-    "side": "above",
-    "T_invariant_K": 1223.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.007,
-    "hyperplane_delta": 0.0015,
-    "reaction_printed": "FCC_A1 + C14 ↔ BCC_A2",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "FCC_A1",
-     "C14_LAVES"
-    ],
-    "phases_below": [
-     "BCC_A2"
-    ]
-   },
-   {
-    "source_observation": "ORC-6SUDM4FQRW",
-    "side": "below",
-    "T_invariant_K": 1223.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.007,
-    "hyperplane_delta": 0.0015,
-    "reaction_printed": "FCC_A1 + C14 ↔ BCC_A2",
-    "reaction_type": "eutectic",
-    "phases_above": [
-     "FCC_A1",
-     "C14_LAVES"
-    ],
-    "phases_below": [
-     "BCC_A2"
     ]
    }
   ],

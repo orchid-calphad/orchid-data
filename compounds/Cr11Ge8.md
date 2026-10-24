@@ -16,8 +16,8 @@ Table: Enthalpy of formation of Cr11Ge8 reported in the literature (4)
 |---:|---|---:|---|---|---|---|---|---|
 | -30.7 kJ/mol-atom | Cr11Ge8 | 1273 | experimental |  | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Yassin 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900011-9) | p. 2 | “The deduced enthalpies of formation for Cr11 Ge8 at 1305 K and 1273 K relative to both liquid components are about -28.6 kJ/mol-atom and -30.7 kJ/mol-atom, respectively.” |
 | -28.6 kJ/mol-atom | Cr11Ge8 | 1305 | experimental |  | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Yassin 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900011-9) | p. 2 | “The deduced enthalpies of formation for Cr11 Ge8 at 1305 K and 1273 K relative to both liquid components are about -28.6 kJ/mol-atom and -30.7 kJ/mol-atom, respectively.” |
-| -10.92 kJ/mol-atom | Cr11Ge8 | 298 | experimental | Potentiometric method | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
-| -16.19 kJ/mol-atom | Cr11Ge8 | 298 | model | Thermodynamic optimization | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
+| -10.92 kJ/mol-atom | Cr11Ge8 | 298.15 | experimental | Potentiometric method | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010; _cites Lukashenko 1974_ | Table 4, p. 7, row 7 |  |
+| -16.19 kJ/mol-atom | Cr11Ge8 | 298.15 | model | Thermodynamic optimization | [Cr–Ge](https://data.orchid-project.org/systems/CR-GE.html) | [1] Liu 2010 | Table 4, p. 7, row 8 |  |
 
 ## DFT formation energies
 
@@ -25,9 +25,9 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Cr11Ge8
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabgmwh | 0.724 | 0.007507 | Pnma | 9.061 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabgmwh | 0.724 | 0.007507 | Pnma | 9.061 | 0.0939 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

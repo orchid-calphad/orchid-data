@@ -173,9 +173,9 @@ Table: Enthalpies of formation, Ge–Li system (29)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ge12Li7 |  | -26.664 kJ/mol-atom | 0 | model |  |  | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 10, p. 8, row 4 |  |
-| Ge12Li7 |  | -22.4 kJ/mol-atom | 298 | experimental |  |  | [1] Gierlotka 2022 | Table 4, p. 4, row 2 |  |
+| Ge12Li7 |  | -22.4 kJ/mol-atom | 298.15 | experimental |  |  | [1] Gierlotka 2022 | Table 4, p. 4, row 2 |  |
 | Ge12Li7 |  | -22.4 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Gierlotka 2022 | Table 4, p. 4, row 16 |  |
-| Ge12Li7 |  | -21.9 kJ/mol-atom ± 1.3 | 298 | experimental |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 2 |  |
+| Ge12Li7 |  | -21.9 kJ/mol-atom ± 1.3 | 298.15 | experimental |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 2 |  |
 | Ge12Li7 |  | -20.819 kJ/mol-atom | 0 | model |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 3 |  |
 | Ge12Li7 |  | -20.006 kJ/mol-atom | 0 | DFT |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 1 |  |
 | Ge2Li7 | [Ge2Li7](https://data.orchid-project.org/compounds/Ge2Li7.html) | -37.531 kJ/mol-atom | 0 | model | -30.764 (mp-aaaabrvq) | -32.508 (oqmd-1908167) | [1] Gierlotka 2022 | Table 10, p. 8, row 19 |  |
@@ -192,15 +192,15 @@ Table: Enthalpies of formation, Ge–Li system (29)
 | Ge4Li9 |  | -33.919 kJ/mol-atom | 0 | DFT |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 13 |  |
 | Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -36.407 kJ/mol-atom | 0 | model | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 10, p. 8, row 12 |  |
 | Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -33.782 kJ/mol-atom | 0 | model | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 10, p. 8, row 11 |  |
-| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -33.4 kJ/mol-atom | 298 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 4, p. 4, row 10 |  |
+| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -33.4 kJ/mol-atom | 298.15 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 4, p. 4, row 10 |  |
 | Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -33.4 kJ/mol-atom ± 1.9 | 298.15 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 4, p. 4, row 20 |  |
-| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -32.6 kJ/mol-atom | 298 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 4, p. 4, row 11 |  |
-| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -32.2 kJ/mol-atom ± 1.9 | 298 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 10, p. 8, row 10 |  |
+| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -32.6 kJ/mol-atom | 298.15 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 4, p. 4, row 11 |  |
+| Ge7Li12 | [Ge7Li12](https://data.orchid-project.org/compounds/Ge7Li12.html) | -32.2 kJ/mol-atom ± 1.9 | 298.15 | experimental | -30.866 (mp-aaacqzll) |  | [1] Gierlotka 2022 | Table 10, p. 8, row 10 |  |
 | Ge7Li12 |  | -32.131 kJ/mol-atom | 0 | DFT |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 9 |  |
 | GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -33.637 kJ/mol-atom | 0 | model | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022; _cites modeled stoichiometry of the phases based on Gruttner \[23\] description whereas this work adopts ab initio findings_ | Table 10, p. 8, row 8 |  |
 | GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -28.25 kJ/mol-atom | 0 | model | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022 | Table 10, p. 8, row 7 |  |
 | GeLi |  | -27.542 kJ/mol-atom | 0 | DFT |  |  | [1] Gierlotka 2022 | Table 10, p. 8, row 5 |  |
-| GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -25.5 kJ/mol-atom ± 1.6 | 298 | experimental | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022 | Table 10, p. 8, row 6 |  |
+| GeLi | [GeLi](https://data.orchid-project.org/compounds/GeLi.html) | -25.5 kJ/mol-atom ± 1.6 | 298.15 | experimental | -27.093 (mp-aaaaaorm) | -27.619 (oqmd-7668) | [1] Gierlotka 2022 | Table 10, p. 8, row 6 |  |
 
 ## Other properties
 

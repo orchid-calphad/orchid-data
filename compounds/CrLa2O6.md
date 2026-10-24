@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CrLa2O6 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.11111 kJ/mol-atom | La2CrO6 | 298 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 17 |  |
+| -8.11111 kJ/mol-atom | La2CrO6 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 17 |  |
 
 ## Sources
 

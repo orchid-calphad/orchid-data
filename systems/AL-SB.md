@@ -85,11 +85,11 @@ Table: Enthalpies of formation, Al–Sb system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AlSb |  | -96.6 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| AlSb |  | -84 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
-| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
-| AlSb |  | -81.27 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| AlSb |  | -73.49 kJ/mol (basis unstated) | 298 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| AlSb |  | -96.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
+| AlSb |  | -84 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Zajaczkowski 1995_ | Table 5, p. 7, row 3 |  |
+| AlSb |  | -82 kJ/mol (basis unstated) ± 2.51 | 298.15 | experimental |  |  | [1] Balakumar 2005; _cites Lichter 1969_ | Table 5, p. 7, row 4 |  |
+| AlSb |  | -81.27 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
+| AlSb |  | -73.49 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
 
 ## Other properties
 
@@ -125,9 +125,9 @@ Table: Formation, Al–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔSf_ | -42.13 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
-| Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
-| Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
+| Entropy of formation; _printed: ΔSf_ | -42.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005 | Table 5, p. 7, row 5 |  |
+| Entropy of formation; _printed: ΔSf_ | -51.6 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Jones 1941_ | Table 5, p. 7, row 1 |  |
+| Entropy of formation; _printed: ΔSf_ | -36.13 J/mol (basis unstated)/K | 298.15 | AlSb; _alloy: Sb 0.5_ | model | [1] Balakumar 2005; _cites Coughanowr 1990_ [doi](https://doi.org/10.1016/0364-5916%2890%2990020-z) | Table 5, p. 7, row 2 |  |
 
 ## Sources
 

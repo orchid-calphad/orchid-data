@@ -1,10 +1,10 @@
 # Cr–Ti system
 
-> Cr–Ti system: 120 accepted literature values (invariant reaction 83, phase equilibrium 15, phase transition 12, formation 10) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ti system: 115 accepted literature values (invariant reaction 83, phase equilibrium 15, phase transition 12, formation 5) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TI.html · Markdown: https://data.orchid-project.org/systems/CR-TI.md
 
-120 accepted literature values from 2 paper(s) (experimental 58, model 55, unspecified 7); 8 calculated phase diagram(s).
+115 accepted literature values from 2 paper(s) (experimental 58, model 50, unspecified 7); 8 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TI/CrTi-00Zhu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 58 |
-| model | 55 |
+| model | 50 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 83 |
 | phase transition | 12 |
 | phase equilibrium | 15 |
-| formation | 10 |
+| formation | 5 |
 
 ## Calculated phase diagrams
 
@@ -183,20 +183,15 @@ Table: Invariant reactions reported in the literature for the Cr–Ti system (83
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ti system (10)
+Table: Enthalpies of formation, Cr–Ti system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α-Cr0.667 Ti0.333 |  | -10 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
-| α-Cr0.667 Ti0.333 |  | -9.856 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002 | Table 2, p. 6, row 5 |  |
-| α-Cr0.667 Ti0.333 |  | -6.835 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
-| α-Cr0.667 Ti0.333 |  | -6.754 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
-| α-Cr0.667 Ti0.333 |  | -0.593 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
-| α-Cr0.667Ti0.333 |  | -10 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
-| α-Cr0.667Ti0.333 |  | -9.856 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002 | Table 2, p. 6, row 5 |  |
-| α-Cr0.667Ti0.333 |  | -6.835 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
-| α-Cr0.667Ti0.333 |  | -6.754 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
-| α-Cr0.667Ti0.333 |  | -0.593 kJ/mol (basis unstated) | 298 | model |  |  | [2] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
+| α-Cr0.667Ti0.333 |  | -10 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghosh 2002; _cites F 1988_ | Table 2, p. 6, row 1 |  |
+| α-Cr0.667Ti0.333 |  | -9.856 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghosh 2002 | Table 2, p. 6, row 5 |  |
+| α-Cr0.667Ti0.333 |  | -6.835 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghosh 2002; _cites Lee 1999_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900144-9) | Table 2, p. 6, row 3 |  |
+| α-Cr0.667Ti0.333 |  | -6.754 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghosh 2002; _cites Zhuang 2002_ | Table 2, p. 6, row 4 |  |
+| α-Cr0.667Ti0.333 |  | -0.593 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghosh 2002; _cites Saunders 1994_ | Table 2, p. 6, row 2 |  |
 
 ## Other properties
 

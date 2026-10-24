@@ -1,10 +1,10 @@
 # Bi–Er system
 
-> Bi–Er system: 120 accepted literature values (formation 56, invariant reaction 47, activity / EMF / Gibbs energy 12, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Er system: 101 accepted literature values (invariant reaction 47, formation 37, activity / EMF / Gibbs energy 12, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-ER.html · Markdown: https://data.orchid-project.org/systems/BI-ER.md
 
-120 accepted literature values from 3 paper(s) (experimental 35, model 76, DFT 2, unspecified 7); 3 calculated phase diagram(s).
+101 accepted literature values from 3 paper(s) (experimental 35, model 57, DFT 2, unspecified 7); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ER.json) · [CSV](https://data.orchid-project.org/systems/BI-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ER/BiEr-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-ER.html) · [Markdown](https://data.orchid-project.org/systems/BI-ER.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 35 |
-| model | 76 |
+| model | 57 |
 | DFT | 2 |
 | unspecified | 7 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 47 |
 | phase transition | 5 |
-| formation | 56 |
+| formation | 37 |
 | activity / EMF / Gibbs energy | 12 |
 
 ## Calculated phase diagrams
@@ -125,7 +125,7 @@ Table: Invariant reactions reported in the literature for the Bi–Er system (47
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–Er system (56)
+Table: Enthalpies of formation, Bi–Er system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -147,25 +147,6 @@ Table: Enthalpies of formation, Bi–Er system (56)
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -90 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -80.35 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017 | Table 9, p. 7, row 5 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -75 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -48.2365 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 19 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -47.7533 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 18 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -45.9664 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 17 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -45.2102 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 16 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -45.1803 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 15 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -43.6048 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 14 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -43.2532 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 13 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -38.4406 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 12 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -35.9422 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 11 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -33.6478 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 10 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -25.414 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 9 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -25.1344 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 8 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -23.4701 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 7 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -23.1992 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 6 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -21.1173 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 5 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -16.5698 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 4 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -15.4151 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 3 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 15.2241 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 2 |  |
-| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 39.6679 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 1 |  |
 | ErBi2 (Ag2Se-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -21.1173 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 5 |  |
 | ErBi2 (Al2Cu-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -38.4406 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 12 |  |
 | ErBi2 (AuTe2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -35.9422 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 11 |  |

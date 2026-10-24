@@ -66,16 +66,16 @@ Table: Enthalpies of formation, Ca–Mg–Sn system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca6.24Mg3.76Sn7 |  | -57.16 kJ/mol-atom | 298 | model |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 15 |  |
+| Ca6.24Mg3.76Sn7 |  | -57.16 kJ/mol-atom | 298.15 | model |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 15 |  |
 | Ca6.24Mg3.76Sn7 |  | -56.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 14 |  |
-| CaMgSn |  | -56.94 kJ/mol-atom | 298 | model |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 11 |  |
-| CaMgSn |  | -56.89 kJ/mol-atom | 298 | DFT |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 10 |  |
-| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.5 kJ/mol-atom | 298 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
-| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13 kJ/mol-atom | 298 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
-| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.85 kJ/mol-atom | 298 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
-| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.78 kJ/mol-atom | 298 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008 | Table 2, p. 5, row 3 |  |
-| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.7 kJ/mol-atom | 298 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
-| Mg2Ca |  | -12.37 kJ/mol-atom | 298 | DFT |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 1 |  |
+| CaMgSn |  | -56.94 kJ/mol-atom | 298.15 | model |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 11 |  |
+| CaMgSn |  | -56.89 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 10 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.5 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.85 kJ/mol-atom | 298.15 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.78 kJ/mol-atom | 298.15 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008 | Table 2, p. 5, row 3 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.7 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [1] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
+| Mg2Ca |  | -12.37 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kozlov 2008 | Table 2, p. 5, row 1 |  |
 
 ## Other properties
 
@@ -151,13 +151,13 @@ Table: Heat capacity / entropy / enthalpy, Ca–Mg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298_ | 40.59 J/mol-atom/K | 298 | Ca6.24Mg3.76Sn7; _alloy: Mg 0.221176, Sn 0.411765_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 17 |  |
-| Entropy; _printed: S298_ | 37.83 J/mol-atom/K | 298 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 12 |  |
-| Entropy; _printed: S298_ | 37.84 J/mol-atom/K | 298 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 13 |  |
-| Entropy; _printed: S298_ | 36.21 J/mol-atom/K | 298 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 7 |  |
-| Entropy; _printed: S298_ | 32.48 J/mol-atom/K | 298 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | model | [1] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 8 |  |
-| Entropy; _printed: S298_ | 32.56 J/mol-atom/K | 298 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 9 |  |
+| Entropy; _printed: S298_ | 40.59 J/mol-atom/K | 298.15 | Ca6.24Mg3.76Sn7; _alloy: Mg 0.221176, Sn 0.411765_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 17 |  |
 | Entropy; _printed: S298_ | 40.59 J/mol-atom/K | 298.15 | Ca6.24Mg3.76Sn7; _alloy: Mg 0.221176, Sn 0.411765_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 16 |  |
+| Entropy; _printed: S298_ | 37.83 J/mol-atom/K | 298.15 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 12 |  |
+| Entropy; _printed: S298_ | 37.84 J/mol-atom/K | 298.15 | CaMgSn; _alloy: Mg 0.333333, Sn 0.333333_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 13 |  |
+| Entropy; _printed: S298_ | 36.21 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | DFT | [1] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 7 |  |
+| Entropy; _printed: S298_ | 32.48 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | model | [1] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 8 |  |
+| Entropy; _printed: S298_ | 32.56 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667, Sn 0_ | model | [1] Kozlov 2008 | Table 2, p. 5, row 9 |  |
 
 ### Crystal structure (44)
 

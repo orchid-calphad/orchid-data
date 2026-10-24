@@ -17,11 +17,11 @@ Table: Phases of the Na–O system (12)
 | [GAS](#phase-na-o-gas); _phase:na-o:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 1006.07–2111.07 K, x(O) 0.39956–1 | 0 | 1 |
 | [HCP_A3](#phase-na-o-hcp-a3); _phase:na-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [ION](#phase-na-o-ion); _phase:na-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1006.07–2111.07 K, x(O) 0.3426–0.49063 | 0 | 1 |
-| [NA2O_C1](#phase-na-o-na2o-c1); _phase:na-o:na2o-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–301 K, x(O) 0.33333–0.33333 | 8 | 1 |
+| [NA2O_C1](#phase-na-o-na2o-c1); _phase:na-o:na2o-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–301 K, x(O) 0.33333–0.33333 | 7 | 1 |
 | [NA2O_II](#phase-na-o-na2o-ii); _phase:na-o:na2o-ii_ |  | needs_review | not stable in 1 calculated diagram(s) | 4 | 1 |
 | [NA2O_III](#phase-na-o-na2o-iii); _phase:na-o:na2o-iii_ |  | needs_review | not stable in 1 calculated diagram(s) | 6 | 1 |
 | [NA2O2_I](#phase-na-o-na2o2-i); _phase:na-o:na2o2-i_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–422.5 K, x(O) 0.5–0.5 | 4 | 1 |
-| [NA2O2_II](#phase-na-o-na2o2-ii); _phase:na-o:na2o2-ii_ |  | needs_review | not stable in 1 calculated diagram(s) | 6 | 1 |
+| [NA2O2_II](#phase-na-o-na2o2-ii); _phase:na-o:na2o2-ii_ |  | needs_review | not stable in 1 calculated diagram(s) | 5 | 1 |
 | [NAO2_B1](#phase-na-o-nao2-b1); _phase:na-o:nao2-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [O2GAS](#phase-na-o-o2gas); _phase:na-o:o2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–422.5 K, x(O) 1–1 | 0 | 1 |
 
@@ -31,7 +31,7 @@ Table: Phases of the Na–O system (12)
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Na 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–301 K, x(O) 0–0
-- Literature: 4 values (3 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-o:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:na-o:bcc-a2  
@@ -166,11 +166,11 @@ _assessment that models this phase_
 - Id: `phase:na-o:na2o-c1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–301 K, x(O) 0.33333–0.33333
-- Literature: 8 values (7 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-o:na2o-c1)
 
-Names (5): _corpus: _corpus:phase:na-o:na2o-c1  
-_paper: _paper:10.1016/j.jct.2017.04.003:Na2O-I, paper:10.1016/j.jct.2017.04.003:Na2O-I(cr), paper:10.1016/j.jct.2017.04.003:Na2OI  
+Names (4): _corpus: _corpus:phase:na-o:na2o-c1  
+_paper: _paper:10.1016/j.jct.2017.04.003:Na2O-I, paper:10.1016/j.jct.2017.04.003:Na2O-I(cr)  
 _tdb: _tdb:NaO-17Smi.tdb:NA2O_C1  
 
 
@@ -224,7 +224,7 @@ _assessment that models this phase; reports values for this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:III; no_structure_token
 - Candidate (sgte_mmc2): (Na2O-III) — Hallstedt 2025 mmc2 row for NA2O_III: Na2O-III
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 6 values (5 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-o:na2o-iii)
 
 Names (3): _corpus: _corpus:phase:na-o:na2o-iii  
@@ -285,11 +285,11 @@ _assessment that models this phase; reports values for this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:II; no_structure_token
 - Candidate (sgte_mmc2): (Na2O2-II) — Hallstedt 2025 mmc2 row for NA2O2_II: Na2O2-II
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-o:na2o2-ii)
 
-Names (4): _corpus: _corpus:phase:na-o:na2o2-ii  
-_paper: _paper:10.1016/j.jct.2017.04.003:Na2O2 II, paper:10.1016/j.jct.2017.04.003:Na2O2-II  
+Names (3): _corpus: _corpus:phase:na-o:na2o2-ii  
+_paper: _paper:10.1016/j.jct.2017.04.003:Na2O2-II  
 _tdb: _tdb:NaO-17Smi.tdb:NA2O2_II  
 
 

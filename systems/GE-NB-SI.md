@@ -43,23 +43,23 @@ Table: Enthalpies of formation, Ge–Nb–Si system (20)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Nb3Ge |  | -30.213 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 9 |  |
 | Nb3Ge |  | -29.387 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 13 |  |
-| Nb3Ge |  | -26.41 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
-| Nb3Ge |  | -25 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
+| Nb3Ge |  | -26.41 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
+| Nb3Ge |  | -25 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
 | Nb3Si |  | -37.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11 |  |
 | Nb3Si |  | -34.73 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15 |  |
-| Nb3Si |  | -33.357 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 12 |  |
-| Nb3Si |  | -32 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 16 |  |
+| Nb3Si |  | -33.357 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 12 |  |
+| Nb3Si |  | -32 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 16 |  |
 | Nb5Ge3 |  | -46.63 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 5 |  |
 | Nb5Ge3 |  | -46.53 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 1 |  |
-| Nb5Ge3 |  | -42.892 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 6 |  |
-| Nb5Ge3 |  | -42 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 2 |  |
-| Nb5Si3 |  | -63.001 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 4 |  |
+| Nb5Ge3 |  | -42.892 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 6 |  |
+| Nb5Ge3 |  | -42 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 2 |  |
+| Nb5Si3 |  | -63.001 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 4 |  |
 | Nb5Si3 |  | -61.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 3 |  |
 | Nb5Si3 |  | -58.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 7 |  |
-| Nb5Si3 |  | -50.636 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 8 |  |
+| Nb5Si3 |  | -50.636 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 8 |  |
 | NbGe2 |  | -37.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 17 |  |
-| NbGe2 |  | -33.24 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 18 |  |
-| NbSi2 |  | -51.2 kJ/mol (basis unstated) | 298 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 20 |  |
+| NbGe2 |  | -33.24 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 18 |  |
+| NbSi2 |  | -51.2 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Utton 2017 | Table 2, p. 6, row 20 |  |
 | NbSi2 |  | -49.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 19 |  |
 
 ## Other properties

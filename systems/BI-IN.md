@@ -89,8 +89,8 @@ Table: Invariant reactions reported in the literature for the Bi–In system (17
 | 382.93 | congruent melting: BiIn(β)=L | BiIn(β): In 0.5; L: In 0.5 | model | [1] Chevalier 1988 | Table 3, p. 4, row 3 |  |
 | 382.65 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.473 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 2 |  |
 | 382.33 | rho+BiIn(β)=L | BiIn(β): Bi 0.5, In 0.5; L: In 0.475 | model | [1] Chevalier 1988 | Table 3, p. 4, row 1 |  |
-| 365.65 | L+bct(α)\<->fct(α1) | L: In 0.837; α: In 0.921; α1: In 0.909 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 16 |  |
-| 364.02 | L+bct(α)\<->fct(α1) | L: In 0.829; α: In 0.921; α1: In 0.91 | model | [1] Chevalier 1988 | Table 3, p. 4, row 15 |  |
+| 365.65 | L+bct(α)\<->fct(α1) | L: In 0.837 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 16 |  |
+| 364.02 | L+bct(α)\<->fct(α1) | L: In 0.829 | model | [1] Chevalier 1988 | Table 3, p. 4, row 15 |  |
 | 363 | congruent melting: BiIn2(δ)=L | BiIn2(δ): In 0.666; L: In 0.666 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 10 |  |
 | 362.15 | L=BiIn(β)+Bi3In5(γ) | L: In 0.61; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | experimental | [1] Chevalier 1988; _cites ref. 5_ | Table 3, p. 4, row 5 |  |
 | 361.84 | L+BiIn(β)=Bi3In5(γ) | L: In 0.65; BiIn(β): Bi 0.5, In 0.5; Bi3In5(γ): Bi 0.375, In 0.625 | model | [1] Chevalier 1988 | Table 3, p. 4, row 6 |  |
@@ -100,8 +100,8 @@ Table: Invariant reactions reported in the literature for the Bi–In system (17
 | 345.15 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.878 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 12 |  |
 | 343.62 | BiIn2(δ)+fct(α1)=L | BiIn2(δ): Bi 0.333333, In 0.666667; L: In 0.784; α1: In 0.872 | model | [1] Chevalier 1988 | Table 3, p. 4, row 11 |  |
 | 343.15 | eutectic: liquid „ (Bi)‡hcp‡ InBi |  | model | [2] Boa 1998; _cites Stel'makh 1974_ | p. 2 | “Bushanov et al. \[8\] determined the composition of the ternary eutectic at 343.15 K (liquid  (Bi)hcp InBi) by describing the liquidus surfaces based on Stel'makh et al. \[4,5\] data, by polynomials of different order using a simplex grid planning.” |
-| 322.15 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667; α: In 0.925; α1: In 0.902 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 14 |  |
-| 319.52 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667; α: In 0.919; α1: In 0.908 | model | [1] Chevalier 1988 | Table 3, p. 4, row 13 |  |
+| 322.15 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | experimental | [1] Chevalier 1988; _cites ref. 7_ | Table 3, p. 4, row 14 |  |
+| 319.52 | BiIn2(δ)+bct(α)=fct(α1) | BiIn2(δ): Bi 0.333333, In 0.666667 | model | [1] Chevalier 1988 | Table 3, p. 4, row 13 |  |
 
 ## Formation enthalpies
 

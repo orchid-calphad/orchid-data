@@ -134,7 +134,7 @@
    "phase": "LIQUID"
   }
  },
- "weight": 1.845018,
+ "weight": 1.470588,
  "bibtex": "li2017_ce3e9b",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -680,8 +680,12 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_floor_applied": {
+     "sigma_used": 500.0,
+     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
+    },
     "weight_per_value_equivalent": 45.454545,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 22.0,
@@ -692,8 +696,12 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_floor_applied": {
+     "sigma_used": 500.0,
+     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
+    },
     "weight_per_value_equivalent": 22.727273,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 35.0,
@@ -704,8 +712,12 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_floor_applied": {
+     "sigma_used": 500.0,
+     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
+    },
     "weight_per_value_equivalent": 14.285714,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 49.0,
@@ -716,8 +728,12 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_floor_applied": {
+     "sigma_used": 500.0,
+     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
+    },
     "weight_per_value_equivalent": 10.204082,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 64.0,
@@ -729,7 +745,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 7.8125,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 80.0,
@@ -741,7 +757,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 6.25,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 95.0,
@@ -753,7 +769,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 5.263158,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 111.0,
@@ -765,7 +781,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 4.504505,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 126.0,
@@ -777,7 +793,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 3.968254,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 141.0,
@@ -789,7 +805,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 3.546099,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 158.0,
@@ -801,7 +817,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 3.164557,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 174.0,
@@ -813,7 +829,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.873563,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 190.0,
@@ -825,7 +841,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.631579,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 207.0,
@@ -837,7 +853,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.415459,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 223.0,
@@ -849,7 +865,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.242152,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 240.0,
@@ -861,7 +877,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.083333,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 256.0,
@@ -873,7 +889,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.953125,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 271.0,
@@ -885,7 +901,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.845018,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 306.0,
@@ -897,7 +913,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.633987,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 323.0,
@@ -909,7 +925,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.547988,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 340.0,
@@ -921,7 +937,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.470588,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 358.0,
@@ -933,7 +949,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.396648,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 377.0,
@@ -945,7 +961,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.32626,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 396.0,
@@ -957,7 +973,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.262626,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 33.0,
@@ -968,8 +984,12 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
+    "sigma_floor_applied": {
+     "sigma_used": 500.0,
+     "rule": "a printed sigma smaller than 0.1 x ESPEI's experimental default for the property (50 J/mol for enthalpies, 0.02 J/mol/K for entropies and heat capacities) is below any measurement resolution; the dataset weight uses the default sigma for that value; the printed sigma is kept"
+    },
     "weight_per_value_equivalent": 15.151515,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 67.0,
@@ -981,7 +1001,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 7.462687,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 102.0,
@@ -993,7 +1013,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 4.901961,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 142.0,
@@ -1005,7 +1025,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 3.521127,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 183.0,
@@ -1017,7 +1037,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.73224,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 221.0,
@@ -1029,7 +1049,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 2.262443,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 260.0,
@@ -1041,7 +1061,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.923077,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 300.0,
@@ -1053,7 +1073,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.666667,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 337.0,
@@ -1065,7 +1085,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.48368,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 375.0,
@@ -1077,7 +1097,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.333333,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 409.0,
@@ -1089,7 +1109,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.222494,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 442.0,
@@ -1101,7 +1121,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.131222,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 476.0,
@@ -1113,7 +1133,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 1.05042,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 507.0,
@@ -1125,7 +1145,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.986193,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 539.0,
@@ -1137,7 +1157,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.927644,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 567.0,
@@ -1149,7 +1169,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.881834,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 594.0,
@@ -1161,7 +1181,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.841751,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 622.0,
@@ -1173,7 +1193,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.803859,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 647.0,
@@ -1185,7 +1205,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.772798,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 672.0,
@@ -1197,7 +1217,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.744048,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 695.0,
@@ -1209,7 +1229,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.719424,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 722.0,
@@ -1221,7 +1241,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.692521,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 758.0,
@@ -1233,7 +1253,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.659631,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 793.0,
@@ -1245,7 +1265,7 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.630517,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    },
    {
     "sigma": 837.0,
@@ -1257,13 +1277,13 @@
      "coverage": "1sigma_assumed"
     },
     "weight_per_value_equivalent": 0.597372,
-    "weight_used": 1.845018
+    "weight_used": 1.470588
    }
   ]
  },
  "orchid_weight_floor": {
   "suggested_weight": 1.0,
-  "weight_written": 1.845018,
+  "weight_written": 1.470588,
   "changes_weight": true,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",

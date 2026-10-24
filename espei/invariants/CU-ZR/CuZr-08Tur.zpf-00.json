@@ -103,7 +103,15 @@
    {
     "id": "ORC-R4PEE6PHQ2",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s11106-008-9039-x"
+    "paper": "doi:10.1007/s11106-008-9039-x",
+    "also_reported_as": [
+     {
+      "id": "ORC-ED4ZXYAH5L",
+      "paper": "doi:10.1007/s11669-017-0522-2",
+      "measured_in": "doi:10.1016/0022-5088(85)90279-6",
+      "dataset": "invariants/CU-ZR/CuZr-17Liu.zpf-00.json"
+     }
+    ]
    },
    {
     "id": "ORC-VFWZIGGC5K",
@@ -138,7 +146,7 @@
    "10.1016/0022-5088(85)90279-6"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CuZr-08Tur/zpf-00.json",
-  "e3_merged": 2,
+  "e3_merged": 3,
   "values_dropped": 1
  },
  "orchid_uncertainty": {

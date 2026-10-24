@@ -1,10 +1,10 @@
 # Cr–Ni–Ti system
 
-> Cr–Ni–Ti system: 20 accepted literature values (invariant reaction 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ni–Ti system: 31 accepted literature values (invariant reaction 31) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NI-TI.html · Markdown: https://data.orchid-project.org/systems/CR-NI-TI.md
 
-20 accepted literature values from 1 paper(s) (experimental 11, model 9); 0 calculated phase diagram(s).
+31 accepted literature values from 2 paper(s) (experimental 11, model 20); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NI-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-NI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NI-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NI-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-NI-TI.md)
 
@@ -13,17 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 9 |
+| model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 20 |
+| invariant reaction | 31 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ni–Ti system (20)
+Table: Invariant reactions reported in the literature for the Cr–Ni–Ti system (31)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -42,17 +42,29 @@ Table: Invariant reactions reported in the literature for the Cr–Ni–Ti syste
 | 1373.05 | eutectic: L = Ni3Ti + NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 12 |  |
 | 1316.25 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 14 |  |
 | 1316.15 | quasi-peritectic: L + γCr2Ti = NiTi + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 13 |  |
+| 1280 | L + Laves_C36 -> Laves_C14 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 1 |  |
+| 1275 | L + Laves_C36 + NiTi -> Laves_C14 | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 2 |  |
 | 1249.25 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | model | [1] Hu 2014 | Table 3, p. 7, row 16 |  |
 | 1249.15 | quasi-peritectic: L + NiTi = NiTi2 + (Cr, βTi) |  | experimental | [1] Hu 2014; _cites Krendelsberger 2013_ [doi](https://doi.org/10.1016/j.jallcom.2013.04.061) | Table 3, p. 7, row 15 |  |
+| 1194 | L -> fcc + Ni3Ti + NiTi | Ni3Ti: Ti 0.25; NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 3 |  |
+| 1163 | L + Laves_C14 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 4 |  |
+| 1162 | L + Laves_C15 -> Laves_C36 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 5 |  |
+| 927 | L -> Laves_C14 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 6 |  |
+| 926 | L -> Laves_C15 + NiTi + NiTi2 | NiTi: Ti 0.5; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 7 |  |
 | 923.15 | eutectoid: (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | p. 2 | “Within the investigated composition range, a eutectoid reaction (Cr, ␤Ti) = (␣Ti) + NiTi2 + ␣Cr2 Ti at 650 ◦ C is observed.” |
 | 923.15 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | experimental | [1] Hu 2014; _cites Nartova 1988_ | Table 3, p. 7, row 17 |  |
 | 916.25 | eutectic: (Cr, βTi) = (αTi) + NiTi2 + αCr2Ti |  | model | [1] Hu 2014 | Table 3, p. 7, row 18 |  |
+| 828 | L + Laves_C15 -> Laves_C36 + Ni3Ti | Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 8 |  |
+| 821 | L + Laves_C36 -> Laves_C15 + NiTi | NiTi: Ti 0.5 | model | [2] Huang 2018 | Table 4, p. 6, row 9 |  |
+| 743 | L + NiTi -> Laves_C15 + Ni3Ti | NiTi: Ti 0.5; Ni3Ti: Ti 0.25 | model | [2] Huang 2018 | Table 4, p. 6, row 10 |  |
+| 613 | L -> Laves_C15 + Ni3Ti + NiTi2 | Ni3Ti: Ti 0.25; NiTi2: Ti 0.666667 | model | [2] Huang 2018 | Table 4, p. 6, row 11 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Biao Hu, Yong Du, J.C. Schuster, Weihua Sun, Shuhong Liu, Chengying Tang, Thermodynamic modeling of the Cr–Ni–Ti system using a four-sublattice model for ordered/disordered bcc phases, Thermochimica Acta 578, 35-42 (2014). [doi:10.1016/j.tca.2014.01.002](https://doi.org/10.1016/j.tca.2014.01.002)
+2. Jinwan Huang, Yang Wang, Jingjing Wang, Xiao-Gang Lu, Lijun Zhang, Thermodynamic Assessments of the Ni-Cr-Ti System and Atomic Mobility of Its fcc Phase, J. Phase Equilib. Diffus. 39, 597-609 (2018). [doi:10.1007/s11669-018-0650-3](https://doi.org/10.1007/s11669-018-0650-3)
 
 ## Please cite
 

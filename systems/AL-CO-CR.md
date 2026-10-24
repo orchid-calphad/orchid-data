@@ -30,27 +30,27 @@ Table: Enthalpies of formation, Al–Co–Cr system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| B2 |  | -66.89 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
-| B2 |  | -64.45 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015; _cites ref. 64_ | Table 3, p. 12, row 2 |  |
-| B2 |  | -57.67 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
-| B2 |  | -7.37 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
-| B2 |  | -2.78 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
-| B2 |  | 11.98 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
-| B2 |  | 16.6 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
-| σ |  | -30.56 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
-| σ |  | -24.58 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
-| σ |  | -18.93 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
-| σ |  | -13.39 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
-| σ |  | 1.84 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
-| σ |  | 3.6 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
-| σ |  | 5.72 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
-| σ |  | 5.73 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
-| σ |  | 6.19 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
+| B2 |  | -66.89 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
+| B2 |  | -64.45 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015; _cites ref. 64_ | Table 3, p. 12, row 2 |  |
+| B2 |  | -57.67 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
+| B2 |  | -7.37 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
+| B2 |  | -2.78 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
+| B2 |  | 11.98 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
+| B2 |  | 16.6 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
+| σ |  | -30.56 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
+| σ |  | -24.58 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
+| σ |  | -18.93 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
+| σ |  | -13.39 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
+| σ |  | 1.84 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
+| σ |  | 3.6 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
+| σ |  | 5.72 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
+| σ |  | 5.73 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
+| σ |  | 6.19 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
 | σ |  | 6.2 kJ/mol-atom | 0 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 11 |  |
 | σ |  | 8.39 kJ/mol-atom | 0 | model |  |  | [1] Liu 2015; _cites ref. 65_ | Table 3, p. 12, row 12 |  |
-| σ |  | 9.62 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
+| σ |  | 9.62 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
 | σ |  | 9.84 kJ/mol-atom | 0 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 8 |  |
-| σ |  | 11.24 kJ/mol-atom | 298 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
+| σ |  | 11.24 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
 | σ |  | 11.65 kJ/mol-atom | 0 | model |  |  | [1] Liu 2015; _cites ref. 65_ | Table 3, p. 12, row 9 |  |
 
 ## Other properties
@@ -61,23 +61,23 @@ Table: Formation, Al–Co–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS (SER)_ | 1.03 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | -1.73 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | -13.73 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -8.23 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -6.45 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -9.18 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -11.43 J/mol (basis unstated)/K | 298 | B2 | model | [1] Liu 2015; _cites ref. 64_ | Table 3, p. 12, row 2 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -4.05 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | -7.33 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -1.13 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | -4.44 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.28 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | 3.6 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | 0.16 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
-| Entropy of formation; _printed: ΔfS (SER)_ | -2.74 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.02 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.32 J/mol (basis unstated)/K | 298 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | 1.03 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
+| Entropy of formation; _printed: ΔfS_ | -1.73 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 3 |  |
+| Entropy of formation; _printed: ΔfS_ | -13.73 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | -8.23 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 1 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | -6.45 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
+| Entropy of formation; _printed: ΔfS_ | -9.18 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015 | Table 3, p. 12, row 4 |  |
+| Entropy of formation; _printed: ΔfS_ | -11.43 J/mol (basis unstated)/K | 298.15 | B2 | model | [1] Liu 2015; _cites ref. 64_ | Table 3, p. 12, row 2 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | -4.05 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
+| Entropy of formation; _printed: ΔfS_ | -7.33 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 5 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | -1.13 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | -4.44 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.28 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | 3.6 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 7 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | 0.16 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 10 |  |
+| Entropy of formation; _printed: ΔfS (SER)_ | -2.74 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
+| Entropy of formation; _printed: ΔfS_ | -6.02 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 13 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.32 J/mol (basis unstated)/K | 298.15 | σ | model | [1] Liu 2015 | Table 3, p. 12, row 14 |  |
 
 ### Mixing / partial (23)
 

@@ -29,23 +29,23 @@ Table: Enthalpies of formation, Co–Hf–Zr system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006 | Table 6, p. 5, row 15 |  |
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14 |  |
-| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -39.4 kJ/mol-atom | 298 | experimental | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 13 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -57 kJ/mol-atom | 298 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006 | Table 6, p. 5, row 6 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -56 kJ/mol-atom | 298 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 5 |  |
-| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -35.8 kJ/mol-atom | 298 | experimental | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 4 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -52 kJ/mol-atom | 298 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006 | Table 6, p. 5, row 12 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -51 kJ/mol-atom | 298 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
-| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -42.8 kJ/mol-atom | 298 | experimental | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
-| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -43 kJ/mol-atom | 298 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
-| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006 | Table 6, p. 5, row 3 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
-| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -35.8 kJ/mol-atom | 298 | experimental | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006 | Table 6, p. 5, row 9 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
-| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -26.4 kJ/mol-atom | 298 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006 | Table 6, p. 5, row 15 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -39.4 kJ/mol-atom | 298.15 | experimental | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 13 |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -57 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006 | Table 6, p. 5, row 6 |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -56 kJ/mol-atom | 298.15 | model | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 5 |  |
+| Co2Zr | [Co2Zr](https://data.orchid-project.org/compounds/Co2Zr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -30.045 (mp-aaaaabjt) | -31 (oqmd-31202) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 4 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -52 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006 | Table 6, p. 5, row 12 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -51 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -42.8 kJ/mol-atom | 298.15 | experimental | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -43 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006 | Table 6, p. 5, row 3 |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -60 kJ/mol-atom | 298.15 | model | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
+| CoZr | [CoZr](https://data.orchid-project.org/compounds/CoZr.html) | -35.8 kJ/mol-atom | 298.15 | experimental | -28.143 (mp-aaaaadjv) | -32.068 (oqmd-1926887) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006 | Table 6, p. 5, row 9 |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -44 kJ/mol-atom | 298.15 | model | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 8 |  |
+| CoZr2 | [CoZr2](https://data.orchid-project.org/compounds/CoZr2.html) | -26.4 kJ/mol-atom | 298.15 | experimental | -24.825 (mp-aaaaaaye) | -25.161 (oqmd-29534) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 7 |  |
 
 ## Sources
 

@@ -17,9 +17,9 @@ Table: Enthalpy of formation of Ru4Si3 reported in the literature (6)
 | -45.9 kJ/mol-atom ± 0.6 | Ru4Si3 | 1505 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 1 |  |
 | -45.9 kJ/mol-atom ± 0.6 | Ru4Si3 | 1505 | experimental | High temperature calorimetry | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001; _cites Perring 1997_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900041-5) | Table 1, p. 2, row 20 |  |
 | -57.561 kJ/mol-atom | Ru4Si3 |  | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [2] Liu 2001 | Table 1, p. 2, row 21 |  |
-| -57.561 kJ/mol-atom | Ru4Si3 | 298 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 1, p. 2, row 3 |  |
-| -55.011 kJ/mol-atom | Ru4Si3 | 298 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009 | Table 1, p. 2, row 4 |  |
-| -47.788 kJ/mol-atom | Ru4Si3 | 298 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Du 2001_ | Table 1, p. 2, row 2 |  |
+| -57.561 kJ/mol-atom | Ru4Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Liu 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900931-8) | Table 1, p. 2, row 3 |  |
+| -55.011 kJ/mol-atom | Ru4Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009 | Table 1, p. 2, row 4 |  |
+| -47.788 kJ/mol-atom | Ru4Si3 | 298.15 | model | Assessment | [Ru–Si](https://data.orchid-project.org/systems/RU-SI.html) | [1] Long 2009; _cites Du 2001_ | Table 1, p. 2, row 2 |  |
 
 ## DFT formation energies
 
@@ -27,10 +27,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ru4Si3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaabdbbg | -53.041 | -0.549731 | Pnma | 0.641 | no |
-| OQMD | oqmd-5838 | -52.175 | -0.540756 | Pnma | 0.678 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaabdbbg | -53.041 | -0.549731 | Pnma | 0.641 | 0.0066 | no |
+| OQMD | oqmd-5838 | -52.175 | -0.540756 | Pnma | 0.678 | 0.007 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

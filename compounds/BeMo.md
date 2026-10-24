@@ -1,23 +1,21 @@
 # BeMo: enthalpy of formation
 
-> Enthalpy of formation of BeMo: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of BeMo: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/BeMo.html · Markdown: https://data.orchid-project.org/compounds/BeMo.md
 
-4 accepted literature formation-enthalpy value(s) (model 4).
+2 accepted literature formation-enthalpy value(s) (model 2).
 
 Systems: [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of BeMo reported in the literature (4)
+Table: Enthalpy of formation of BeMo reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.2 kJ/mol (basis unstated) | BeMo |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
 | -25.2 kJ/mol (basis unstated) | BeMo (CrB) |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 2 |  |
 | 19.3 kJ/mol (basis unstated) | BeMo (CsCl) |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
-| 19.3 kJ/mol (basis unstated) | BeMo |  | model | calculated | [Be–Mo](https://data.orchid-project.org/systems/BE-MO.html) | [1] Nakashima 2007 | Table 3, p. 3, row 1 |  |
 
 ## Sources
 

@@ -17,7 +17,7 @@ Table: Enthalpy of formation of Ca5Sb3 reported in the literature (5)
 | -112 unspecified ± 5 | Ca5Sb3 | 1100.15 | experimental | direct reaction calorimetry | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | p. 3 | “Bouhajib \[23,24\] reported the enthalpies of formation of Ca5Sb3 and Ca11Sb10 at 827 °C to be -112 75 and -96 75 kJ/ mole-atoms, respectively.” |
 | -96 per mol-atom ± 5 | Ca5Sb3 | 1100 | experimental |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10 |  |
 | -86 kJ/mol-atom ± 6 | Ca5Sb3 | 1078 | experimental |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
-| -84.44 kJ/mol-atom | Ca5Sb3 | 298 | model |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 12 |  |
+| -84.44 kJ/mol-atom | Ca5Sb3 | 298.15 | model |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 12 |  |
 | -96.14 kJ/mol-atom | Ca5Sb3 | 0 | DFT |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 11 |  |
 
 ## DFT formation energies
@@ -26,10 +26,10 @@ Lowest-energy entries at this composition. Materials Project and OQMD use differ
 
 Table: DFT formation energy of Ca5Sb3
 
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---|
-| Materials Project | mp-aaaaazzo | -102.076 | -1.05794 | Pnma | 0 | no |
-| OQMD | oqmd-113707 | -96.307 | -0.998152 | P63/mcm | 0 | no |
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaazzo | -102.076 | -1.05794 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-113707 | -96.307 | -0.998152 | P63/mcm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of LuB66 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -6.059 kJ/mol-atom | LuB66 | 298 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 39 |  |
+| -6.059 kJ/mol-atom | LuB66 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 39 |  |
 
 ## Sources
 
