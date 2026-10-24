@@ -16,32 +16,32 @@
   "phases/pages/**"
  ],
  "n_files": 1261,
- "total_bytes": 112399385,
+ "total_bytes": 112397286,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 29372,
-   "sha256": "b84b75559f11e24ef7b2fe5481d6c30f21c405ef015eeab94356098f358562cd"
+   "bytes": 31271,
+   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
   },
   {
    "path": "LICENSE",
-   "bytes": 410,
-   "sha256": "585cba8653777424ed6fb985fcba3dc05b05af0e2d9b11e410a9c274fb977e51"
+   "bytes": 730,
+   "sha256": "fb9ea6cd6978cd34bd8005ffa66cdcf6f370b72c463ad89dd9f319a3a6ac3577"
   },
   {
    "path": "LICENSES.md",
-   "bytes": 1131,
-   "sha256": "0d048e36631e39cbb72cac03bb6942ee387ed243d1ccc0d329cd5963edb01586"
+   "bytes": 3550,
+   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 16186,
-   "sha256": "7dcb2a23f30f09e87310148e46a48f2b13eeb2d397c06d25790c5cb45c3341f5"
+   "bytes": 8552,
+   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
   },
   {
    "path": "README.md",
-   "bytes": 7102,
-   "sha256": "03b4c6793235b19d151d32185d0bd0eff8ace0087b0585bdb9d89c753349b5ab"
+   "bytes": 7950,
+   "sha256": "ebbee44eea42638891b3b88a585d203d5dc7677d16be82ba5485a405c4a30126"
   },
   {
    "path": "phases/CITATION.cff",
@@ -56,7 +56,7 @@
   {
    "path": "phases/SCHEMA.md",
    "bytes": 17030,
-   "sha256": "5f949461162b772b79f976c5543f0368cb45d171c508b0eed7d27e34d78d4c0a"
+   "sha256": "2ae01fe7a10ee40d6717a8d13138deca51fdf2f6ad4ce77970736efbb8038349"
   },
   {
    "path": "phases/context.jsonld",
@@ -65,23 +65,23 @@
   },
   {
    "path": "phases/index.json",
-   "bytes": 1271946,
-   "sha256": "2115d10eb745f4c88a077a7977a94c29d684564fe6d9d3aa72bed37194085ca9"
+   "bytes": 1271948,
+   "sha256": "ed060c40b8cf86f89f63168f82e90228e91d66f6c66b8d24173d5429ee90cdb3"
   },
   {
    "path": "phases/parquet.json",
    "bytes": 584,
-   "sha256": "791abca645f268e26737951f58d1f3d5fded97d5aa15bf88639893f665d5b001"
+   "sha256": "40b066d1fd4be03c43b32025ac7410f28a74924788c217df088df7549c31fae4"
   },
   {
    "path": "phases/registry.csv",
-   "bytes": 3313858,
-   "sha256": "e4b00d8dd30aea9ca02866fcf0735a1ef95387227c0a3cd74a5b3942580d3fa3"
+   "bytes": 3313862,
+   "sha256": "24a8e84070e281123df66aba84ed72691b2d4f50bf52eea60b399ac70bd17823"
   },
   {
    "path": "phases/registry.json",
-   "bytes": 7847695,
-   "sha256": "f75ed4c3304fffeef551bc0dbe73d271b8315db7f4c1f4a848b94fcd99d85a46"
+   "bytes": 7847699,
+   "sha256": "1415ffb07902a17693fd7c08de899ec8c4b1996741a4f3b4c2ec697399f3d43f"
   },
   {
    "path": "phases/registry.jsonld",
@@ -91,12 +91,12 @@
   {
    "path": "phases/registry.parquet",
    "bytes": 450362,
-   "sha256": "252725b03afcd10fd77261bb3f98b965bdad32afc9a02fbebf5fceba6e6e36d7"
+   "sha256": "e5e6b5ebe44b1a72a92135fa2e3b8f35a9868fe5f02310c81e581999f83f4e66"
   },
   {
    "path": "phases/review_queue.json",
-   "bytes": 1795472,
-   "sha256": "f6b30ecbf7001d78e7bcb596d9207d387a88277a3c85f0637ce40cd4e91e25f1"
+   "bytes": 1795473,
+   "sha256": "beecac1c14441e429f2bf1f296ff567813d6a080f7ce041b24d16b42995c26a3"
   },
   {
    "path": "phases/structure_types.csv",
@@ -106,7 +106,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 914034,
-   "sha256": "673f1b80b59fd8f82c8b71ac75f715e508d8dfc550886f272824024176705f75"
+   "sha256": "e63a9cc34115121378cf749a9c363dda1a703499f1e02561b9d65ae462886d4c"
   },
   {
    "path": "phases/structure_types.parquet",
@@ -2160,8 +2160,8 @@
   },
   {
    "path": "phases/systems/CE-O.json",
-   "bytes": 114631,
-   "sha256": "ce6283126820d573c657d32ec785eef13d2e4b1338c160b61516d76009e2179b"
+   "bytes": 114637,
+   "sha256": "042aa9b41aa082a7f78d946ce77e86d18b4fde3787f3f852b9fff1cb928524b9"
   },
   {
    "path": "phases/systems/CE-PR.json",
@@ -6320,8 +6320,8 @@
   },
   {
    "path": "zenodo/phase-registry.metadata.json",
-   "bytes": 8648,
-   "sha256": "fe117ab2e513ac8838425d5b19c156e7b0a8ec614c77dee55ae5438aefaa2fbf"
+   "bytes": 8680,
+   "sha256": "efa2f3e28b84696c45572721ce7523eaaf622f7248bf2ae8ee35f1c4d9e1a7ca"
   }
  ]
 }

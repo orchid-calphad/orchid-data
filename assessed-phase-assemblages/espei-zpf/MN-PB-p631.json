@@ -37,6 +37,9 @@
   "diagram": "MN-PB-p631",
   "record_ids": [
    "aspa-6ca21654af6a9555"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -45,6 +48,7 @@
   "points": [
    {
     "record_id": "aspa-6ca21654af6a9555",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,

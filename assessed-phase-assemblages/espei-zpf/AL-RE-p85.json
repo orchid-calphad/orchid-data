@@ -439,6 +439,24 @@
    "aspa-8026a8cd454fa970",
    "aspa-1acb1c60aed92bb3",
    "aspa-edd9be7f80091f76"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "mixed",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -447,6 +465,7 @@
   "points": [
    {
     "record_id": "aspa-a13fca6f73c7bf73",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -464,6 +483,7 @@
    },
    {
     "record_id": "aspa-7913502fa3ab4187",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -481,6 +501,7 @@
    },
    {
     "record_id": "aspa-f9b3f889bea68f25",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -498,6 +519,7 @@
    },
    {
     "record_id": "aspa-64fc6787d12b1700",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -515,6 +537,7 @@
    },
    {
     "record_id": "aspa-0fa5a146d362da52",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -532,6 +555,7 @@
    },
    {
     "record_id": "aspa-63a147549d2ce488",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -549,6 +573,7 @@
    },
    {
     "record_id": "aspa-5f395b257044743a",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -566,6 +591,7 @@
    },
    {
     "record_id": "aspa-fc3f13bae769cccb",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -583,6 +609,7 @@
    },
    {
     "record_id": "aspa-bc9ca67d18371855",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -600,23 +627,25 @@
    },
    {
     "record_id": "aspa-65287c0a30f85fff",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.979,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 77.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.00901515,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-c2a70bfd6650758b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -634,6 +663,7 @@
    },
    {
     "record_id": "aspa-52e6108440dd4546",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -651,6 +681,7 @@
    },
    {
     "record_id": "aspa-e08250122f494592",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -668,6 +699,7 @@
    },
    {
     "record_id": "aspa-8026a8cd454fa970",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -685,6 +717,7 @@
    },
    {
     "record_id": "aspa-1acb1c60aed92bb3",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,
@@ -702,6 +735,7 @@
    },
    {
     "record_id": "aspa-edd9be7f80091f76",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.979,

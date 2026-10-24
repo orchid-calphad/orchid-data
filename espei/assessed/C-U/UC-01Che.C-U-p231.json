@@ -1,0 +1,171 @@
+{
+ "components": [
+  "C",
+  "U"
+ ],
+ "phases": [
+  "GRAPHITE_A9",
+  "LIQUID",
+  "U2C3_D5C"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1009.937538,
+   2851.437538,
+   3067.937538
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "U2C3_D5C",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.1997691685
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     0.7136329851
+    ]
+   ]
+  ],
+  [
+   [
+    "GRAPHITE_A9",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "U"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "U"
+    ],
+    [
+     0.1451773986
+    ]
+   ]
+  ]
+ ],
+ "reference": "P.Y. Chevalier and E. Fischer, J. Nucl. Mater., 288, 100-129 (2001) doi:10.1016/s0022-3115(00)00713-3; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 231",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram C-U-p231; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to UC-01Che.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "C-U-p231",
+  "target_tdb": "UC-01Che.tdb",
+  "record_ids": [
+   "aspa-4c2948c2b7681df2",
+   "aspa-49a49c0ff15f9a32",
+   "aspa-c7645612b97ff4bc"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 0,
+  "source": "assessed-phase-assemblages/espei-zpf/C-U-p231.json"
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
+  "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
+  "points": [
+   {
+    "record_id": "aspa-4c2948c2b7681df2",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 738.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.200337,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-49a49c0ff15f9a32",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 543.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.286982,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-c7645612b97ff4bc",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 369.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.145244,
+     "sigma_effective": 0.02
+    }
+   }
+  ]
+ }
+}

@@ -8,6 +8,7 @@
   "CO2SI_C37",
   "CO3SI_D019",
   "COSI2_C1",
+  "COSI_B20",
   "DIAMOND_A4",
   "FCC_A1",
   "HCP_A3",
@@ -20,6 +21,7 @@
    1175.699811,
    1153.199811,
    1279.199811,
+   1400.199811,
    1435.199811,
    1480.699811,
    1495.199811,
@@ -64,7 +66,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],
@@ -146,6 +148,17 @@
     ],
     [
      0.1446765566
+    ]
+   ]
+  ],
+  [
+   [
+    "COSI_B20",
+    [
+     "SI"
+    ],
+    [
+     0.5007751664
     ]
    ]
   ],
@@ -318,7 +331,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],
@@ -347,7 +360,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],
@@ -390,6 +403,7 @@
    "aspa-91b366790bc60600",
    "aspa-e3ec3bfaf6e6c1ea",
    "aspa-b3661e1ef6e05380",
+   "aspa-9d0f23bd089922ff",
    "aspa-6784e733d23dc166",
    "aspa-43528a8bb9cb6148",
    "aspa-ac3ab17e0f1da0ca",
@@ -407,6 +421,7 @@
    "high",
    "medium",
    "medium",
+   "medium",
    "high",
    "high",
    "high",
@@ -415,7 +430,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 1,
+  "points_left_out": 0,
   "source": "assessed-phase-assemblages/espei-zpf/CO-SI-p315.json"
  },
  "orchid_uncertainty_budget": {
@@ -487,6 +502,23 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0130219,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-9d0f23bd089922ff",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.687,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 328.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00751263,
      "sigma_effective": 0.02
     }
    },

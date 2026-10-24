@@ -457,6 +457,24 @@
    "aspa-21f999a78713f757",
    "aspa-36e41c30ef46a655",
    "aspa-de7ae0ab532f5f71"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "mixed",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -465,6 +483,7 @@
   "points": [
    {
     "record_id": "aspa-e1d4b09dd1ca66cb",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -482,6 +501,7 @@
    },
    {
     "record_id": "aspa-7ce10bbe9cad2455",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -499,6 +519,7 @@
    },
    {
     "record_id": "aspa-e235c247b21b749f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -516,23 +537,25 @@
    },
    {
     "record_id": "aspa-e109c36c454385b3",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.001,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 440.5,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672269,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0305329,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-679dc53e516137f3",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -550,6 +573,7 @@
    },
    {
     "record_id": "aspa-c0021b2c9aa5993f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -567,6 +591,7 @@
    },
    {
     "record_id": "aspa-08322d93fb18233a",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -584,6 +609,7 @@
    },
    {
     "record_id": "aspa-cbf20c64a787267b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -601,6 +627,7 @@
    },
    {
     "record_id": "aspa-7faba08bd7b20ab5",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -618,6 +645,7 @@
    },
    {
     "record_id": "aspa-39fb5f2e64badc3c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -635,6 +663,7 @@
    },
    {
     "record_id": "aspa-bc87819a66e5bea3",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -652,6 +681,7 @@
    },
    {
     "record_id": "aspa-ff02d27bffe8ef3c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -669,6 +699,7 @@
    },
    {
     "record_id": "aspa-a973a3393fe11a4d",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -686,6 +717,7 @@
    },
    {
     "record_id": "aspa-21f999a78713f757",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -703,6 +735,7 @@
    },
    {
     "record_id": "aspa-36e41c30ef46a655",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,
@@ -720,6 +753,7 @@
    },
    {
     "record_id": "aspa-de7ae0ab532f5f71",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.001,

@@ -37,6 +37,9 @@
   "diagram": "CD-TE-p262",
   "record_ids": [
    "aspa-c2cd450c2f3a6d7b"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -45,6 +48,7 @@
   "points": [
    {
     "record_id": "aspa-c2cd450c2f3a6d7b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,

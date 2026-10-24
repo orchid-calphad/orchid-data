@@ -7,13 +7,11 @@
  "phases": [
   "BCC_A2",
   "GRAPHITE_A9",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
-   881.3566767,
    2457.856677,
    2544.356677,
    2717.856677,
@@ -23,26 +21,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "HCP_A3",
-    [
-     "C"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GRAPHITE_A9",
-    [
-     "C"
-    ],
-    [
-     1.0
-    ]
-   ]
-  ],
   [
    [
     "BCC_A2",
@@ -128,12 +106,18 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "C-MO-p225",
   "record_ids": [
-   "aspa-f217436c419d5366",
    "aspa-65773955bacbd24b",
    "aspa-225aa63a197638bb",
    "aspa-9715d42de10c3a60",
    "aspa-9bb2a58bfa51295f",
    "aspa-10e453f1b17f52ee"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -141,24 +125,8 @@
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
    {
-    "record_id": "aspa-f217436c419d5366",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 2.21,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 610.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.249769,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-65773955bacbd24b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 2.21,
@@ -176,6 +144,7 @@
    },
    {
     "record_id": "aspa-225aa63a197638bb",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 2.21,
@@ -193,6 +162,7 @@
    },
    {
     "record_id": "aspa-9715d42de10c3a60",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 2.21,
@@ -210,6 +180,7 @@
    },
    {
     "record_id": "aspa-9bb2a58bfa51295f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 2.21,
@@ -227,6 +198,7 @@
    },
    {
     "record_id": "aspa-10e453f1b17f52ee",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 2.21,

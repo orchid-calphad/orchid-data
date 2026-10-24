@@ -256,6 +256,17 @@
    "aspa-9b31d961069eb24f",
    "aspa-deb3662f3f62c5e8",
    "aspa-4b9ad6d650429733"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -264,6 +275,7 @@
   "points": [
    {
     "record_id": "aspa-f8cfd1598e3130d9",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -281,6 +293,7 @@
    },
    {
     "record_id": "aspa-d0ce1290f031ea9f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -298,6 +311,7 @@
    },
    {
     "record_id": "aspa-758dab65f587e4ec",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -315,6 +329,7 @@
    },
    {
     "record_id": "aspa-3a2616556749f7b8",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -332,6 +347,7 @@
    },
    {
     "record_id": "aspa-cdd6ada16a70e321",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -349,6 +365,7 @@
    },
    {
     "record_id": "aspa-4c09b1b69241ca14",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -366,6 +383,7 @@
    },
    {
     "record_id": "aspa-9b31d961069eb24f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -383,6 +401,7 @@
    },
    {
     "record_id": "aspa-deb3662f3f62c5e8",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -400,6 +419,7 @@
    },
    {
     "record_id": "aspa-4b9ad6d650429733",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,

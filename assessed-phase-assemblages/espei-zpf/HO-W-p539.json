@@ -37,6 +37,9 @@
   "diagram": "HO-W-p539",
   "record_ids": [
    "aspa-93d778492c704206"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -45,6 +48,7 @@
   "points": [
    {
     "record_id": "aspa-93d778492c704206",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.893,

@@ -285,6 +285,17 @@
    "aspa-2a50e8964b5f6690",
    "aspa-2a03db850c79796b",
    "aspa-bbc4d061af3832da"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "mixed"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -293,6 +304,7 @@
   "points": [
    {
     "record_id": "aspa-4abdd32310b1da3c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -310,6 +322,7 @@
    },
    {
     "record_id": "aspa-ebf665699c57d4cc",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -327,6 +340,7 @@
    },
    {
     "record_id": "aspa-84cb65c6e310accd",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -344,6 +358,7 @@
    },
    {
     "record_id": "aspa-170a0f4b465d1fd4",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -361,6 +376,7 @@
    },
    {
     "record_id": "aspa-53f448e0bccdd086",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -378,6 +394,7 @@
    },
    {
     "record_id": "aspa-1ff02dc3cc88116f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -395,6 +412,7 @@
    },
    {
     "record_id": "aspa-2a50e8964b5f6690",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -412,6 +430,7 @@
    },
    {
     "record_id": "aspa-2a03db850c79796b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,
@@ -429,19 +448,20 @@
    },
    {
     "record_id": "aspa-bbc4d061af3832da",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.238,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 60.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672269,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.229747,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    }
   ]

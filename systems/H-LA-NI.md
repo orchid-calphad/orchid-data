@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 62 accepted literature values (crystal structure 26, formation 24, phase transition 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 64 accepted literature values (crystal structure 26, formation 24, phase transition 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-62 accepted literature values from 2 paper(s) (experimental 28, model 7, DFT 1, unspecified 26); 0 calculated phase diagram(s).
+64 accepted literature values from 2 paper(s) (experimental 28, model 9, DFT 1, unspecified 26); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 28 |
-| model | 7 |
+| model | 9 |
 | DFT | 1 |
 | unspecified | 26 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 12 |
+| phase transition | 14 |
 | formation | 24 |
 | crystal structure | 26 |
 
@@ -52,7 +52,7 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (14)
 
 Table: Phase transition, H–La–Ni system
 
@@ -66,7 +66,9 @@ Table: Phase transition, H–La–Ni system
 | Phase transition | 335 K | 335 | other: Peak C, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 9 |  |
 | Phase transition | 343 K | 343 | other: Peak B, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 5 |  |
 | Phase transition | 346 K | 346 | other: Peak B, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 6 |  |
+| Phase transition | 347 K | 347 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
 | Phase transition | 375 K | 375 | other: Peak C, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 11 |  |
+| Phase transition | 379 K | 379 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
 | Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 7 |  |
 | Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 12 |  |
 | Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 8 |  |

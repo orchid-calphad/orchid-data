@@ -37,6 +37,9 @@
   "diagram": "AU-C-p115",
   "record_ids": [
    "aspa-af0c5b5e17c8a33e"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -45,6 +48,7 @@
   "points": [
    {
     "record_id": "aspa-af0c5b5e17c8a33e",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.642,

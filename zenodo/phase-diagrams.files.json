@@ -17,37 +17,37 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123517668,
+ "total_bytes": 123516128,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 29372,
-   "sha256": "b84b75559f11e24ef7b2fe5481d6c30f21c405ef015eeab94356098f358562cd"
+   "bytes": 31271,
+   "sha256": "f3bd703b7fd0bea8c7b56f5de0a727f464c8a48ec81aa1afd87f1d10f5bd4aa0"
   },
   {
    "path": "LICENSE",
-   "bytes": 410,
-   "sha256": "585cba8653777424ed6fb985fcba3dc05b05af0e2d9b11e410a9c274fb977e51"
+   "bytes": 730,
+   "sha256": "fb9ea6cd6978cd34bd8005ffa66cdcf6f370b72c463ad89dd9f319a3a6ac3577"
   },
   {
    "path": "LICENSES.md",
-   "bytes": 1131,
-   "sha256": "0d048e36631e39cbb72cac03bb6942ee387ed243d1ccc0d329cd5963edb01586"
+   "bytes": 3550,
+   "sha256": "bc4c4982edce8b8a0c94a24c2ad52571d93cd1da0d891da0aeae7261bd3c02df"
   },
   {
    "path": "NOTICE.md",
-   "bytes": 16186,
-   "sha256": "7dcb2a23f30f09e87310148e46a48f2b13eeb2d397c06d25790c5cb45c3341f5"
+   "bytes": 8552,
+   "sha256": "84d68b38c16f5b0f1e4f5033ed822a44f2230ca75ff272dd1250132995de8a0a"
   },
   {
    "path": "README.md",
-   "bytes": 7102,
-   "sha256": "03b4c6793235b19d151d32185d0bd0eff8ace0087b0585bdb9d89c753349b5ab"
+   "bytes": 7950,
+   "sha256": "ebbee44eea42638891b3b88a585d203d5dc7677d16be82ba5485a405c4a30126"
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24049,
-   "sha256": "946ae5b534431fb137278241ab4f27524dcb4d046984555c59fea59c7870696c"
+   "bytes": 24595,
+   "sha256": "839fc3e908b23e3b0c65cec525339917312de146c35e62b385f2c2be666eeb43"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",
@@ -13941,8 +13941,8 @@
   },
   {
    "path": "zenodo/phase-diagrams.metadata.json",
-   "bytes": 5510,
-   "sha256": "b65d857e91fc847ecfaa1bb38d1ab3524cf153e7462756c5d365826a22ba4797"
+   "bytes": 5572,
+   "sha256": "f105ba581bd1081f429cff5b3e1fbc6d9bd2301e2db7d34068766dd7f31636c2"
   }
  ]
 }

@@ -56,6 +56,9 @@
   "diagram": "GA-P-p447",
   "record_ids": [
    "aspa-26627e4fc0212339"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -64,6 +67,7 @@
   "points": [
    {
     "record_id": "aspa-26627e4fc0212339",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.755,

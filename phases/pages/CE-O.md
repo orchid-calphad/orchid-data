@@ -14,11 +14,11 @@ Table: Phases of the Ce–O system (19)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ce-o-bcc-a2); _phase:ce-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1000–1081.23 K, x(O) 0–0.00647 | 1 | 2 |
 | [FLUORITE_C1](#phase-ce-o-c1-fluorite); _phase:ce-o:c1-fluorite_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [CE11O20](#phase-ce-o-ce11o20); _phase:ce-o:ce11o20_ | Tb11O20 · aP31 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2416.14 K, x(O) 0.64516–0.64516 | 6 | 2 |
-| [CE19O34](#phase-ce-o-ce19o34); _phase:ce-o:ce19o34_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 420.08–2361.24 K, x(O) 0.64151–0.64151 | 7 | 2 |
+| [CE11O20](#phase-ce-o-ce11o20); _phase:ce-o:ce11o20_ | Tb11O20 · aP31 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2416.14 K, x(O) 0.64516–0.64516 | 12 | 2 |
+| [CE19O34](#phase-ce-o-ce19o34); _phase:ce-o:ce19o34_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 420.08–2361.24 K, x(O) 0.64151–0.64151 | 13 | 2 |
 | [CE40O72](#phase-ce-o-ce40o72); _phase:ce-o:ce40o72_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 435.98–2469.6 K, x(O) 0.64286–0.64286 | 8 | 2 |
 | [CE62O112](#phase-ce-o-ce62o112); _phase:ce-o:ce62o112_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 431.2–2471.49 K, x(O) 0.64368–0.64368 | 7 | 2 |
-| [CE7O12](#phase-ce-o-ce7o12); _phase:ce-o:ce7o12_ | Pr7O12 · hR19 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–401.92 K, x(O) 0.63158–0.63158 | 11 | 2 |
+| [CE7O12](#phase-ce-o-ce7o12); _phase:ce-o:ce7o12_ | Pr7O12 · hR19 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–401.92 K, x(O) 0.63158–0.63158 | 15 | 2 |
 | [CE9O16](#phase-ce-o-ce9o16); _phase:ce-o:ce9o16_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 398.92–2293.5 K, x(O) 0.64–0.64 | 8 | 2 |
 | [A_R2O3_D52](#phase-ce-o-d52-a-r2o3); _phase:ce-o:d52-a-r2o3_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 2 | 2 |
 | [C_R2O3_D53](#phase-ce-o-d53-c-r2o3); _phase:ce-o:d53-c-r2o3_ | Mn2O3 · D5_3 · cI80 · Ia-3 (206) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -112,7 +112,7 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2416.14 K, x(O) 0.64516–0.64516
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:ce11o20)
 
 Names (4): _corpus: _corpus:phase:ce-o:ce11o20  
@@ -151,7 +151,7 @@ _cited as the source of values for this phase_
 - No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete
 - Candidate (sgte_mmc2): (Ce19O34) — Hallstedt 2025 mmc2 row for CE19O34: Ce19O34
 - Stability: stable in 2 of 2 calculated diagram(s): 420.08–2361.24 K, x(O) 0.64151–0.64151
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:ce19o34)
 
 Names (4): _corpus: _corpus:phase:ce-o:ce19o34  
@@ -275,7 +275,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–401.92 K, x(O) 0.63158–0.63158
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-o:ce7o12)
 
 Names (4): _corpus: _corpus:phase:ce-o:ce7o12  

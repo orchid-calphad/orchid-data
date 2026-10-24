@@ -600,6 +600,28 @@
    "aspa-323bdf599fd34ace",
    "aspa-3f2852711b268514",
    "aspa-ad94694d438ea208"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -608,6 +630,7 @@
   "points": [
    {
     "record_id": "aspa-dd739624a5e4093b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -625,6 +648,7 @@
    },
    {
     "record_id": "aspa-ba79b10fcb0c643c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -642,6 +666,7 @@
    },
    {
     "record_id": "aspa-cdc956ac15e1e3d1",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -659,6 +684,7 @@
    },
    {
     "record_id": "aspa-b67d5b956d95fe48",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -676,6 +702,7 @@
    },
    {
     "record_id": "aspa-f0c58e7841b1764d",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -693,6 +720,7 @@
    },
    {
     "record_id": "aspa-539f6cfb0afc10f4",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -710,6 +738,7 @@
    },
    {
     "record_id": "aspa-590d755dc9bbb360",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -727,6 +756,7 @@
    },
    {
     "record_id": "aspa-aca4e5d76b0b4ee0",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -744,6 +774,7 @@
    },
    {
     "record_id": "aspa-b23582a7e083b5fc",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -761,6 +792,7 @@
    },
    {
     "record_id": "aspa-c3747e876f5b8a55",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -778,6 +810,7 @@
    },
    {
     "record_id": "aspa-223214eceb6fbe83",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -795,6 +828,7 @@
    },
    {
     "record_id": "aspa-2aedf5a333733120",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -812,6 +846,7 @@
    },
    {
     "record_id": "aspa-4048ff7826afb42a",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -829,6 +864,7 @@
    },
    {
     "record_id": "aspa-cce295e6742c0409",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -846,6 +882,7 @@
    },
    {
     "record_id": "aspa-91a67c4288208b2c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -863,6 +900,7 @@
    },
    {
     "record_id": "aspa-03f0869174864b3d",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -880,6 +918,7 @@
    },
    {
     "record_id": "aspa-1910b5e4bc552d49",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -897,6 +936,7 @@
    },
    {
     "record_id": "aspa-323bdf599fd34ace",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -914,6 +954,7 @@
    },
    {
     "record_id": "aspa-3f2852711b268514",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,
@@ -931,6 +972,7 @@
    },
    {
     "record_id": "aspa-ad94694d438ea208",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.25,

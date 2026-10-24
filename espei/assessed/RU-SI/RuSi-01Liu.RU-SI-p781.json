@@ -10,7 +10,8 @@
   "LIQUID",
   "RU2SI3",
   "RU2SI_C37",
-  "RU4SI3"
+  "RU4SI3",
+  "RUSI"
  ],
  "conditions": {
   "P": 101325.0,
@@ -72,7 +73,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "RUSI",
     [
      "SI"
     ],
@@ -101,7 +102,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "RUSI",
     [
      "SI"
     ],
@@ -326,7 +327,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "RUSI",
     [
      "SI"
     ],
@@ -355,7 +356,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "RUSI",
     [
      "SI"
     ],
@@ -493,17 +494,17 @@
     "record_id": "aspa-3f29e280b0be5cd3",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 0.25,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 165.5,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.200337,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {

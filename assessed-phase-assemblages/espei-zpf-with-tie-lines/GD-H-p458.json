@@ -39,6 +39,9 @@
   "diagram": "GD-H-p458",
   "record_ids": [
    "aspa-de25e1035cc8f5d9"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -47,6 +50,7 @@
   "points": [
    {
     "record_id": "aspa-de25e1035cc8f5d9",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.795,

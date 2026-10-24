@@ -1,10 +1,10 @@
 # O–Tb system
 
-> O–Tb system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Tb system: 2 accepted literature values (formation 1, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TB.html · Markdown: https://data.orchid-project.org/systems/O-TB.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (experimental 1, model 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TB.json) · [CSV](https://data.orchid-project.org/systems/O-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TB) · [phases (8)](https://data.orchid-project.org/phases/pages/O-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TB.html) · [Markdown](https://data.orchid-project.org/systems/O-TB.md)
 
@@ -12,12 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
+| experimental | 1 |
 | model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 1 |
 | formation | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TB.json)
@@ -31,6 +33,16 @@ Table: Enthalpies of formation, O–Tb system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Tb2O3 | [Tb2O3](https://data.orchid-project.org/compounds/Tb2O3.html) | -373.04 kJ/mol-atom | 298.15 | model | -384.356 (mp-aaaaaboq) | -343.512 (oqmd-7282) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, O–Tb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1823 K | 1823 | B | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | p. 17 | “For Tb2O3, the straight line is obtained with the lowest measured transition temperature at normal pressure, 1823 K \[3\], which is selected as a probable value.” |
 
 ## Sources
 

@@ -17,8 +17,10 @@ neither raw measurements nor model values, and they are kept separable at fittin
 | points | 23,131 (centroid 21,618, pole of inaccessibility 1,513) |
 | points by number of phases | 1-phase 4,639, 2-phase 18,492 |
 | two-phase points with / without a tie_line block | 11,962 / 6,530 |
-| SGTE cross-check (point x assessment) | 30,769 comparisons: 18,974 agree, 4,087 disagree, 7,708 not comparable (agreement 0.8228 of comparable) |
-| ESPEI datasets (one per diagram) | 1,070 default, 1,070 with tie-lines; 10,870 points exported, 12,261 excluded (phase without TDB name) |
+| SGTE cross-check (point x assessment) | 30,769 comparisons: 23,087 comparable (19,160 agree, 3,927 disagree; agreement 0.8299 of comparable), 7,682 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
+| SGTE cross-check (points) | 10,362 points with a comparable assessment; 9,184 (0.8863) agree with at least one SGTE assessment; median system agreement 0.8889 (892 systems with >= 5 comparable comparisons) |
+| boundary basis (lines bounding the point's field along its isotherm and isopleth) | printed_solid 20,784, mixed 1,292, dashed_estimated 1,028, none 27 |
+| ESPEI datasets (one per diagram) | 1,070 default, 1,070 with tie-lines; 10,874 points exported, 12,257 excluded (phase without TDB name) |
 
 Points by basis:
 
@@ -62,8 +64,32 @@ literature release (PI decision 2026-10-24): digitisation (`sigma_reading`, the 
 handbook-class prior (`sigma_method`: 10 K and 0.02 mole fraction for an expert-drawn assessed diagram; an ORCHID
 assumption, the same as the release's model / assessment priors, not fitted) and the distance to the nearest drawn
 boundary (`sigma_boundary_margin`, reported but not combined, since boundary positions carry low credence);
-`sigma_effective` = max(digitisation, handbook prior). The ESPEI datasets carry the per-point components in
-`orchid_uncertainty_budget` (ZPF data are not weighted by a sigma in ESPEI).
+`sigma_effective` = max(reading, handbook prior). The ESPEI datasets carry the per-point components and the
+`boundary_basis` in `orchid_uncertainty_budget` (ZPF data are not weighted by a sigma in ESPEI).
+
+## Solid and dashed (estimated) boundaries
+
+Handbook diagrams draw boundaries that the evaluator could not fix from measurements as dashed lines. The tracer joins
+the dashes of such a line into a chain and uses it as a field boundary like a solid line (dashed Curie-temperature
+lines, cooling curves and the dashed second assessment of an overlay are not boundaries and are dropped). Each point
+records `boundary_basis` for the lines that bound its field along its isotherm and isopleth, i.e. the lines that set
+its positional margin: `printed_solid`, `dashed_estimated` or `mixed` (null when only frame edges bound it), with the
+counts in `boundary_lines`. The dash chains are re-derived from the traced lines with the tracer's own rule
+(`tools/dashed_boundaries.py`; the build fails if the number of dash joins differs from the tracer's count in any
+diagram). For points bounded by dashed lines the reading component of the budget is enlarged (ORCHID assumption, not
+fitted): 2x the handbook-class prior (20 K, 0.04) for `dashed_estimated` and 1.5x (15 K, 0.03) for `mixed`.
+
+## SGTE cross-check: metric definitions
+
+A comparison is one point against one SGTE assessment of its system (the phase set at the nearest cell of the
+calculated 10 K x 0.01 grid). It is comparable when every phase of the point maps to a registry phase and the cell
+has an equilibrium; the result is then agrees or disagrees. Rates are computed over comparable comparisons only:
+`agreement_rate_of_comparable` = agrees / (agrees + disagrees) over all comparable comparisons (an aggregate, not a
+per-system mean); `points_agreeing_with_at_least_one_rate` = share of the points with at least one comparable
+comparison that agree with at least one SGTE assessment of their system (systems have up to 16 assessments, and an
+older assessment that differs still counts); `median_system_rate` over systems with at least 5 comparable
+comparisons. Non-comparable comparisons are never part of a rate; they are counted by reason in `summary.json` and
+listed one per row in `sgte_not_comparable.csv`.
 
 Two-phase points carry the two phases with **unknown compositions** (`phase_compositions: null`; ESPEI null vertices
 with a `__HYPERPLANE__` vertex at the point's overall composition). A separate `tie_line` block gives the isotherm
@@ -75,6 +101,7 @@ through the point intersected with the drawn boundaries, with the caveat that it
 `records.jsonl.gz` (full records, gzip JSON Lines), `records.csv` / `records.parquet` (flat), `exclusions.jsonl` / `.csv` (fields and
 diagrams without points, with reasons), `espei-zpf/<diagram>.json` (ESPEI ZPF datasets, null endpoints),
 `espei-zpf-with-tie-lines/<diagram>.json` (variant using tie_line endpoints where present), `espei_exclusions.jsonl`,
+`sgte_not_comparable.csv` (each non-comparable SGTE comparison with its reason),
 `summary.json`, `parquet.json`, `SCHEMA.md`, `CITATION.cff`. ESPEI datasets were validated with
 `espei.datasets.check_dataset` and `load_datasets` (ESPEI 0.9.1).
 

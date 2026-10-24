@@ -8,6 +8,7 @@
   "CO2SI_C37",
   "CO3SI_D019",
   "COSI2_C1",
+  "COSI_B20",
   "DIAMOND_A4",
   "FCC_A1",
   "HCP_A3",
@@ -64,7 +65,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],
@@ -318,7 +319,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],
@@ -347,7 +348,7 @@
   ],
   [
    [
-    "DIAMOND_A4",
+    "COSI_B20",
     [
      "SI"
     ],

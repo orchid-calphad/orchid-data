@@ -58,6 +58,9 @@
   "diagram": "NI-TE-p695",
   "record_ids": [
    "aspa-7076ad57f7b9e241"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -66,6 +69,7 @@
   "points": [
    {
     "record_id": "aspa-7076ad57f7b9e241",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.034,

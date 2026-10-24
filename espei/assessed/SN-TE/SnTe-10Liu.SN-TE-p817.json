@@ -1,13 +1,14 @@
 {
  "components": [
   "SN",
-  "TE"
+  "TE",
+  "VA"
  ],
  "phases": [
   "BCT_A5",
-  "DIAMOND_A4",
   "HEXAGONAL_A8",
-  "LIQUID"
+  "LIQUID",
+  "SNTE_B1"
  ],
  "conditions": {
   "P": 101325.0,
@@ -33,7 +34,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNTE_B1",
     [
      "TE"
     ],
@@ -62,7 +63,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNTE_B1",
     [
      "TE"
     ],
@@ -91,7 +92,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNTE_B1",
     [
      "TE"
     ],
@@ -131,7 +132,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNTE_B1",
     [
      "TE"
     ],

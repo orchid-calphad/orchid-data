@@ -5,7 +5,8 @@ Release: `orchid-literature 2026-10-23 (record store db-v2.1: invariant/general 
 Derived data extracted from published papers (tables and running text) by independent machine readers
 (Gemini Flash / Pro, Claude Opus; text-layer reading for tables) and accepted only on reader agreement plus
 deterministic checks. **Licence:** derived data CC BY 4.0 with attribution to ORCHID and to the cited source
-papers; each `quote` is a single sentence reproduced under fair use to make the value verifiable. The source
+papers; each `quote` is a short excerpt kept to make the value verifiable, which remains under the publisher's
+copyright and is not relicensed. The source
 papers, page images, crops and full text are **not** redistributed.
 
 **Status.** Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
@@ -29,6 +30,7 @@ papers, page images, crops and full text are **not** redistributed.
 |---|---|
 | `id` | stable compact ORCHID id (`ORC-...`) |
 | `pid` | persistent locator id: paper / page / table or passage / row |
+| `chemical_system`, `paper_id`, `fold_lso`, `fold_lpo` | machine-learning folds: `chemical_system` (sorted elements, = `system`), `paper_id` (stable source id), `fold_lso` = leave-chemical-system-out fold int(sha256(chemical_system), 16) mod 5, `fold_lpo` = leave-paper-out fold int(sha256(paper_id), 16) mod 5 (tools/ml_folds.py). Subsystems are their own systems (a held-out ternary may have its binaries in training); drop subsystems of held-out systems for strict chemistry extrapolation |
 | `system`, `elements` | chemical system (sorted uppercase elements joined by `-`) |
 | `record_kind` | `invariant_table` (invariant-reaction table), `general_table` (thermochemical / phase-equilibrium / structure table), `running_text` (value stated in a sentence) |
 | `observation_type` | `invariant_reaction`, `phase_transition`, `equilibrium_property`, `structural_property`, `phase_region_vertex_set`, `phase_assemblage_node`, `property_expression` |

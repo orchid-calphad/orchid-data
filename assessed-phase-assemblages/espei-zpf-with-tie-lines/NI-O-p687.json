@@ -1,17 +1,24 @@
 {
  "components": [
   "NI",
-  "O"
+  "O",
+  "VA"
  ],
  "phases": [
+  "FCC_A1",
   "GAS",
-  "LIQUID"
+  "LIQUID",
+  "OXIDE_B1"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
+   1286.081484,
+   1542.081484,
+   1873.081484,
    2191.581484,
    2652.581484,
+   2161.081484,
    2378.581484,
    2694.081484,
    3269.581484
@@ -19,6 +26,84 @@
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "O"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "OXIDE_B1",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "GAS",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "OXIDE_B1",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.7501944458
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "OXIDE_B1",
+    [
+     "O"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "O"
+    ],
+    [
+     0.285413138
+    ]
+   ]
+  ],
   [
    [
     "GAS",
@@ -56,6 +141,26 @@
     ],
     [
      0.1341588762
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "O"
+    ],
+    [
+     0.4742305443
+    ]
+   ],
+   [
+    "OXIDE_B1",
+    [
+     "O"
+    ],
+    [
+     null
     ]
    ]
   ],
@@ -113,11 +218,26 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "NI-O-p687",
   "record_ids": [
+   "aspa-dcc3b87a8fde6682",
+   "aspa-85b1aa0ea085495f",
+   "aspa-f7034e2753bd3fe0",
    "aspa-dfb3048362f9dcd6",
    "aspa-5e3b550dc2276eb8",
+   "aspa-2ed7f097b53d3fb9",
    "aspa-ac8984b90df27db5",
    "aspa-472c40f6b80f444a",
    "aspa-63c4edae40b14e1b"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "dashed_estimated",
+   "mixed",
+   "mixed",
+   "mixed",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -125,58 +245,134 @@
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
    {
-    "record_id": "aspa-dfb3048362f9dcd6",
+    "record_id": "aspa-dcc3b87a8fde6682",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.639,
      "sigma_method": 10.0,
-     "sigma_boundary_margin": 63.0,
+     "sigma_boundary_margin": 413.0,
      "sigma_effective": 10.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0871465,
+     "sigma_boundary_margin": 0.249419,
      "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-85b1aa0ea085495f",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.639,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 669.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.24992,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-f7034e2753bd3fe0",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.639,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 173.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.21386,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-dfb3048362f9dcd6",
+    "boundary_basis": "dashed_estimated",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 20.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 63.0,
+     "sigma_effective": 20.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.04,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0871465,
+     "sigma_effective": 0.04
     }
    },
    {
     "record_id": "aspa-5e3b550dc2276eb8",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.639,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 499.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.134726,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
+    }
+   },
+   {
+    "record_id": "aspa-2ed7f097b53d3fb9",
+    "boundary_basis": "mixed",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 15.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 31.5,
+     "sigma_effective": 15.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.03,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0105177,
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-ac8984b90df27db5",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.639,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 125.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.113691,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-472c40f6b80f444a",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.639,
@@ -194,6 +390,7 @@
    },
    {
     "record_id": "aspa-63c4edae40b14e1b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.639,

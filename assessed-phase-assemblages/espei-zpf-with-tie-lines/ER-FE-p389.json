@@ -412,6 +412,24 @@
    "aspa-c03cefe50b6b141b",
    "aspa-451166559a6ca0e7",
    "aspa-701e58eb446409c4"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "mixed",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -420,6 +438,7 @@
   "points": [
    {
     "record_id": "aspa-e011c9909af4f5e2",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -437,23 +456,25 @@
    },
    {
     "record_id": "aspa-57ea49529788895c",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 0.588,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 272.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672269,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0190205,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-20579a87a6c4dce8",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -471,6 +492,7 @@
    },
    {
     "record_id": "aspa-fbe00f4ca9e28f3b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -488,6 +510,7 @@
    },
    {
     "record_id": "aspa-05ffbe5d185f073e",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -505,6 +528,7 @@
    },
    {
     "record_id": "aspa-0c022435fb870ec9",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -522,6 +546,7 @@
    },
    {
     "record_id": "aspa-996c4a1423dca818",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -539,6 +564,7 @@
    },
    {
     "record_id": "aspa-2efa27d4f4a1a142",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -556,6 +582,7 @@
    },
    {
     "record_id": "aspa-eef119fac145cdc9",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -573,6 +600,7 @@
    },
    {
     "record_id": "aspa-521702dca93ed690",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -590,6 +618,7 @@
    },
    {
     "record_id": "aspa-6f80b3127e26ad03",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -607,6 +636,7 @@
    },
    {
     "record_id": "aspa-1aa17048d9f582aa",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -624,6 +654,7 @@
    },
    {
     "record_id": "aspa-59d67c8331d7a5bf",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -641,6 +672,7 @@
    },
    {
     "record_id": "aspa-c03cefe50b6b141b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -658,6 +690,7 @@
    },
    {
     "record_id": "aspa-451166559a6ca0e7",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,
@@ -675,6 +708,7 @@
    },
    {
     "record_id": "aspa-701e58eb446409c4",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.588,

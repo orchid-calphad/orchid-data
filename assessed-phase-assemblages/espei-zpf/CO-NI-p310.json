@@ -52,6 +52,10 @@
   "record_ids": [
    "aspa-1007cd0e7d0d1c5e",
    "aspa-d64610c01ba595b1"
+  ],
+  "boundary_basis": [
+   "dashed_estimated",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -60,23 +64,25 @@
   "points": [
    {
     "record_id": "aspa-1007cd0e7d0d1c5e",
+    "boundary_basis": "dashed_estimated",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.238,
+     "sigma_reading": 20.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 42.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 20.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672269,
+     "sigma_reading": 0.04,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0540582,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.04
     }
    },
    {
     "record_id": "aspa-d64610c01ba595b1",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.238,

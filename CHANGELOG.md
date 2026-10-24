@@ -2,6 +2,24 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Co-author review fixes (2026-10-24, J. Saal).** (1) Assessed phase assemblages: rock-salt (B1) carbides and nitrides,
+sphalerite SiC and FeSi-type silicides were named DIAMOND_A4 because the Pearson symbol cF8 alone selected it (84 phase
+occurrences); they now map to the phase each SGTE file defines (FCC_A1 (M)(C,VA) for HfC, NbC, TaC, TiC, VC, ZrC,
+beta-WC, the nitrides; own B1 / B3 / B20 phases otherwise), and the ESPEI ZPF files follow. SGTE cross-check: 19,160
+of 23,087 comparable comparisons agree (83.0 %), 9,184 of 10,362 comparable points agree with at least one
+assessment; metric definitions in the README and `summary.json`, non-comparable comparisons listed with reasons in
+`sgte_not_comparable.csv`. (2) New per-point `boundary_basis` (printed_solid / dashed_estimated / mixed) for the lines
+bounding each field; points bounded by dashed (estimated) lines get a larger reading component (2x / 1.5x the handbook
+prior). (3) Literature: 30 records whose chemical system took an element from a pressure unit (Pa), a cover gas (Ar),
+a garbled phase prefix (H-CuTe), a prototype / phase designation (CaF2, C, F) or a polymorph letter (B-, C-type
+sesquioxides) were reassigned after viewing the pages (ledger `tools/literature_visual_checks.json`); a new gate
+rejects units and gases as elements. 79 elements, 930 binary systems. (4) DFT calibration: energies within 1 meV/atom
+of the hull (the numerical precision of the DFT energies) count as on the hull. (5) Machine-learning folds
+`fold_lso` / `fold_lpo` (5-fold, sha256) on literature values, DFT parity rows and assessed points. (6) LICENSE,
+LICENSES.md and NOTICE.md rewritten for this repository (CC BY 4.0 ORCHID data; SGTE, Materials Project, OQMD CC BY 4.0;
+Kim et al. 2017 MIT; Crossref CC0; quotations remain the publishers' copyright; handbook-derived points are ORCHID's
+own measurements, no handbook drawing or text).
+
 **Method-based uncertainty floors and per-value uncertainty budgets (2026-10-24, PI decision).** Printed
 uncertainties often reflect statistical precision only (e.g. Knudsen-effusion formation enthalpies printed with
 +-0.08 kJ/mol-atom that differ from calorimetry by 6-8 kJ/mol-atom). Every literature record now carries

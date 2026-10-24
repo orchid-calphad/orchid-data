@@ -1,10 +1,10 @@
 # Dy–O system
 
-> Dy–O system: 1 accepted literature values (formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–O system: 3 accepted literature values (phase transition 2, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-O.html · Markdown: https://data.orchid-project.org/systems/DY-O.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-O.json) · [CSV](https://data.orchid-project.org/systems/DY-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-O/DyO-23Nak.json) · [phases (8)](https://data.orchid-project.org/phases/pages/DY-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-O.html) · [Markdown](https://data.orchid-project.org/systems/DY-O.md)
 
@@ -12,12 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 2 |
 | formation | 1 |
 
 ## Calculated phase diagrams
@@ -41,6 +42,17 @@ Table: Enthalpies of formation, Dy–O system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Dy2O3 | [Dy2O3](https://data.orchid-project.org/compounds/Dy2O3.html) | -372.68 kJ/mol-atom | 298.15 | model | -386.874 (mp-aaaaadmf) | -371.47 (oqmd-7457) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, Dy–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2145 K | 2145 | B | model | [1] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
+| Phase transition | 2445 K | 2445 | B | model | [1] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
 
 ## Sources
 

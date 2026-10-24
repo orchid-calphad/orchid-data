@@ -1,12 +1,12 @@
 # Chemical systems
 
-> 1823 chemical systems with literature thermodynamic data and/or calculated phase diagrams (ORCHID).
+> 1818 chemical systems with literature thermodynamic data and/or calculated phase diagrams (ORCHID).
 
 HTML: https://data.orchid-project.org/systems/index.html · Markdown: https://data.orchid-project.org/systems/index.md
 
 One page per chemical system (elements sorted alphabetically, joined by '-'), each with a Markdown twin at systems/\<SYS>.md and a CSV at systems/\<SYS>.csv. Binary systems first.
 
-Table: Chemical systems (1823)
+Table: Chemical systems (1818)
 
 | System | Accepted values | By evidence class | Invariants | Formation enthalpies | Calculated diagrams | Markdown |
 |---|---:|---|---:|---:|---:|---|
@@ -158,7 +158,6 @@ Table: Chemical systems (1823)
 | [Am–Pu](https://data.orchid-project.org/systems/AM-PU.html) | 12 | experimental 1, model 11 | 5 | 0 | 4 | [md](https://data.orchid-project.org/systems/AM-PU.md) |
 | [Am–U](https://data.orchid-project.org/systems/AM-U.html) | 4 | model 4 | 1 | 0 | 3 | [md](https://data.orchid-project.org/systems/AM-U.md) |
 | [Am–Zr](https://data.orchid-project.org/systems/AM-ZR.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/AM-ZR.md) |
-| [Ar–Pu](https://data.orchid-project.org/systems/AR-PU.html) | 0 |  | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AR-PU.md) |
 | [As–Fe](https://data.orchid-project.org/systems/AS-FE.html) | 33 | experimental 12, DFT 21 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AS-FE.md) |
 | [As–Ga](https://data.orchid-project.org/systems/AS-GA.html) | 60 | experimental 60 | 1 | 12 | 0 | [md](https://data.orchid-project.org/systems/AS-GA.md) |
 | [As–Gd](https://data.orchid-project.org/systems/AS-GD.html) | 6 | unspecified 6 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AS-GD.md) |
@@ -210,7 +209,7 @@ Table: Chemical systems (1823)
 | [Au–Yb](https://data.orchid-project.org/systems/AU-YB.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/AU-YB.md) |
 | [Au–Zn](https://data.orchid-project.org/systems/AU-ZN.html) | 42 | experimental 22, model 20 | 24 | 10 | 1 | [md](https://data.orchid-project.org/systems/AU-ZN.md) |
 | [Au–Zr](https://data.orchid-project.org/systems/AU-ZR.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/AU-ZR.md) |
-| [B–C](https://data.orchid-project.org/systems/B-C.html) | 15 | experimental 6, model 5, DFT 1, unspecified 3 | 6 | 0 | 5 | [md](https://data.orchid-project.org/systems/B-C.md) |
+| [B–C](https://data.orchid-project.org/systems/B-C.html) | 12 | experimental 5, model 3, DFT 1, unspecified 3 | 6 | 0 | 5 | [md](https://data.orchid-project.org/systems/B-C.md) |
 | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | 117 | experimental 63, model 39, DFT 4, unspecified 11 | 76 | 8 | 0 | [md](https://data.orchid-project.org/systems/B-CE.md) |
 | [B–Cr](https://data.orchid-project.org/systems/B-CR.html) | 52 | experimental 21, model 31 | 22 | 16 | 0 | [md](https://data.orchid-project.org/systems/B-CR.md) |
 | [B–Cu](https://data.orchid-project.org/systems/B-CU.html) | 21 | experimental 19, model 2 | 14 | 0 | 0 | [md](https://data.orchid-project.org/systems/B-CU.md) |
@@ -412,7 +411,7 @@ Table: Chemical systems (1823)
 | [Ce–Mo](https://data.orchid-project.org/systems/CE-MO.html) | 22 | experimental 7, model 9, unspecified 6 | 12 | 0 | 1 | [md](https://data.orchid-project.org/systems/CE-MO.md) |
 | [Ce–Nd](https://data.orchid-project.org/systems/CE-ND.html) | 0 |  | 0 | 0 | 2 | [md](https://data.orchid-project.org/systems/CE-ND.md) |
 | [Ce–Ni](https://data.orchid-project.org/systems/CE-NI.html) | 178 | experimental 124, model 46, unspecified 8 | 128 | 16 | 4 | [md](https://data.orchid-project.org/systems/CE-NI.md) |
-| [Ce–O](https://data.orchid-project.org/systems/CE-O.html) | 70 | experimental 36, model 24, unspecified 10 | 48 | 1 | 2 | [md](https://data.orchid-project.org/systems/CE-O.md) |
+| [Ce–O](https://data.orchid-project.org/systems/CE-O.html) | 89 | experimental 55, model 24, unspecified 10 | 48 | 1 | 2 | [md](https://data.orchid-project.org/systems/CE-O.md) |
 | [Ce–Pr](https://data.orchid-project.org/systems/CE-PR.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/CE-PR.md) |
 | [Ce–Pt](https://data.orchid-project.org/systems/CE-PT.html) | 30 | experimental 15, model 15 | 30 | 0 | 1 | [md](https://data.orchid-project.org/systems/CE-PT.md) |
 | [Ce–Rh](https://data.orchid-project.org/systems/CE-RH.html) | 0 |  | 0 | 0 | 1 | [md](https://data.orchid-project.org/systems/CE-RH.md) |
@@ -557,7 +556,7 @@ Table: Chemical systems (1823)
 | [Cu–Sn](https://data.orchid-project.org/systems/CU-SN.html) | 114 | experimental 54, model 60 | 69 | 14 | 9 | [md](https://data.orchid-project.org/systems/CU-SN.md) |
 | [Cu–Sr](https://data.orchid-project.org/systems/CU-SR.html) | 3 | experimental 3 | 1 | 0 | 1 | [md](https://data.orchid-project.org/systems/CU-SR.md) |
 | [Cu–Ta](https://data.orchid-project.org/systems/CU-TA.html) | 4 | experimental 1, model 1, unspecified 2 | 3 | 0 | 1 | [md](https://data.orchid-project.org/systems/CU-TA.md) |
-| [Cu–Te](https://data.orchid-project.org/systems/CU-TE.html) | 192 | experimental 140, model 45, unspecified 7 | 78 | 0 | 3 | [md](https://data.orchid-project.org/systems/CU-TE.md) |
+| [Cu–Te](https://data.orchid-project.org/systems/CU-TE.html) | 194 | experimental 142, model 45, unspecified 7 | 79 | 0 | 3 | [md](https://data.orchid-project.org/systems/CU-TE.md) |
 | [Cu–Th](https://data.orchid-project.org/systems/CU-TH.html) | 18 | experimental 9, model 9 | 18 | 0 | 1 | [md](https://data.orchid-project.org/systems/CU-TH.md) |
 | [Cu–Ti](https://data.orchid-project.org/systems/CU-TI.html) | 112 | experimental 67, model 45 | 71 | 12 | 6 | [md](https://data.orchid-project.org/systems/CU-TI.md) |
 | [Cu–Tl](https://data.orchid-project.org/systems/CU-TL.html) | 106 | experimental 96, model 10 | 1 | 0 | 2 | [md](https://data.orchid-project.org/systems/CU-TL.md) |
@@ -579,7 +578,7 @@ Table: Chemical systems (1823)
 | [Dy–Mg](https://data.orchid-project.org/systems/DY-MG.html) | 0 |  | 0 | 0 | 2 | [md](https://data.orchid-project.org/systems/DY-MG.md) |
 | [Dy–Mn](https://data.orchid-project.org/systems/DY-MN.html) | 15 | experimental 7, model 8 | 13 | 0 | 2 | [md](https://data.orchid-project.org/systems/DY-MN.md) |
 | [Dy–Ni](https://data.orchid-project.org/systems/DY-NI.html) | 39 | experimental 25, model 14 | 32 | 0 | 2 | [md](https://data.orchid-project.org/systems/DY-NI.md) |
-| [Dy–O](https://data.orchid-project.org/systems/DY-O.html) | 1 | model 1 | 0 | 1 | 1 | [md](https://data.orchid-project.org/systems/DY-O.md) |
+| [Dy–O](https://data.orchid-project.org/systems/DY-O.html) | 3 | model 3 | 0 | 1 | 1 | [md](https://data.orchid-project.org/systems/DY-O.md) |
 | [Dy–Pb](https://data.orchid-project.org/systems/DY-PB.html) | 5 | experimental 5 | 4 | 0 | 1 | [md](https://data.orchid-project.org/systems/DY-PB.md) |
 | [Dy–Pd](https://data.orchid-project.org/systems/DY-PD.html) | 34 | experimental 17, model 17 | 24 | 0 | 1 | [md](https://data.orchid-project.org/systems/DY-PD.md) |
 | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | 8 | experimental 6, model 2 | 7 | 0 | 1 | [md](https://data.orchid-project.org/systems/DY-RU.md) |
@@ -1108,7 +1107,7 @@ Table: Chemical systems (1823)
 | [O–Sm](https://data.orchid-project.org/systems/O-SM.html) | 2 | model 2 | 0 | 2 | 0 | [md](https://data.orchid-project.org/systems/O-SM.md) |
 | [O–Sr](https://data.orchid-project.org/systems/O-SR.html) | 25 | experimental 14, model 2, unspecified 9 | 0 | 11 | 0 | [md](https://data.orchid-project.org/systems/O-SR.md) |
 | [O–Ta](https://data.orchid-project.org/systems/O-TA.html) | 50 | experimental 28, model 10, DFT 12 | 14 | 0 | 0 | [md](https://data.orchid-project.org/systems/O-TA.md) |
-| [O–Tb](https://data.orchid-project.org/systems/O-TB.html) | 1 | model 1 | 0 | 1 | 0 | [md](https://data.orchid-project.org/systems/O-TB.md) |
+| [O–Tb](https://data.orchid-project.org/systems/O-TB.html) | 2 | experimental 1, model 1 | 0 | 1 | 0 | [md](https://data.orchid-project.org/systems/O-TB.md) |
 | [O–Th](https://data.orchid-project.org/systems/O-TH.html) | 21 | experimental 21 | 1 | 0 | 0 | [md](https://data.orchid-project.org/systems/O-TH.md) |
 | [O–Ti](https://data.orchid-project.org/systems/O-TI.html) | 44 | experimental 21, model 23 | 41 | 0 | 0 | [md](https://data.orchid-project.org/systems/O-TI.md) |
 | [O–Tm](https://data.orchid-project.org/systems/O-TM.html) | 1 | model 1 | 0 | 1 | 0 | [md](https://data.orchid-project.org/systems/O-TM.md) |
@@ -1622,7 +1621,6 @@ Table: Chemical systems (1823)
 | [Cu–Fe–Ta](https://data.orchid-project.org/systems/CU-FE-TA.html) | 28 | experimental 21, model 7 | 7 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-FE-TA.md) |
 | [Cu–Fe–V](https://data.orchid-project.org/systems/CU-FE-V.html) | 21 | experimental 21 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-FE-V.md) |
 | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | 6 | DFT 6 | 0 | 6 | 0 | [md](https://data.orchid-project.org/systems/CU-H-PD.md) |
-| [Cu–He–Te](https://data.orchid-project.org/systems/CU-HE-TE.html) | 2 | experimental 2 | 1 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-HE-TE.md) |
 | [Cu–La–Ni](https://data.orchid-project.org/systems/CU-LA-NI.html) | 37 | unspecified 37 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-LA-NI.md) |
 | [Cu–Li–Mg](https://data.orchid-project.org/systems/CU-LI-MG.html) | 50 | experimental 50 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-LI-MG.md) |
 | [Cu–Mg–Sn](https://data.orchid-project.org/systems/CU-MG-SN.html) | 2 | experimental 1, model 1 | 2 | 0 | 0 | [md](https://data.orchid-project.org/systems/CU-MG-SN.md) |
@@ -1639,6 +1637,7 @@ Table: Chemical systems (1823)
 | [Er–Fe–Sb](https://data.orchid-project.org/systems/ER-FE-SB.html) | 18 | model 18 | 18 | 0 | 0 | [md](https://data.orchid-project.org/systems/ER-FE-SB.md) |
 | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | 40 | experimental 15, model 1, DFT 24 | 7 | 15 | 0 | [md](https://data.orchid-project.org/systems/F-K-NA.md) |
 | [Fe–Gd–Mo](https://data.orchid-project.org/systems/FE-GD-MO.html) | 72 | experimental 36, model 20, unspecified 16 | 19 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-GD-MO.md) |
+| [Fe–H–Sm](https://data.orchid-project.org/systems/FE-H-SM.html) | 1 | experimental 1 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-H-SM.md) |
 | [Fe–La–O](https://data.orchid-project.org/systems/FE-LA-O.html) | 24 | experimental 15, model 9 | 0 | 10 | 0 | [md](https://data.orchid-project.org/systems/FE-LA-O.md) |
 | [Fe–Lu–Tm](https://data.orchid-project.org/systems/FE-LU-TM.html) | 32 | model 32 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-LU-TM.md) |
 | [Fe–Mn–Nb](https://data.orchid-project.org/systems/FE-MN-NB.html) | 277 | experimental 31, model 38, DFT 208 | 55 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-MN-NB.md) |
@@ -1657,7 +1656,6 @@ Table: Chemical systems (1823)
 | [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html) | 74 | experimental 69, model 5 | 5 | 7 | 0 | [md](https://data.orchid-project.org/systems/FE-NI-TA.md) |
 | [Fe–Ni–Ti](https://data.orchid-project.org/systems/FE-NI-TI.html) | 33 | model 33 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-NI-TI.md) |
 | [Fe–Ni–W](https://data.orchid-project.org/systems/FE-NI-W.html) | 122 | experimental 120, model 2 | 4 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-NI-W.md) |
-| [Fe–Pa–Sm](https://data.orchid-project.org/systems/FE-PA-SM.html) | 1 | experimental 1 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-PA-SM.md) |
 | [Fe–Pu–U](https://data.orchid-project.org/systems/FE-PU-U.html) | 6 | experimental 6 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-PU-U.md) |
 | [Fe–Si–Zn](https://data.orchid-project.org/systems/FE-SI-ZN.html) | 35 | experimental 7, model 28 | 35 | 0 | 0 | [md](https://data.orchid-project.org/systems/FE-SI-ZN.md) |
 | [Fe–Sn–Zr](https://data.orchid-project.org/systems/FE-SN-ZR.html) | 43 | model 38, DFT 1, unspecified 4 | 0 | 14 | 0 | [md](https://data.orchid-project.org/systems/FE-SN-ZR.md) |
@@ -1676,8 +1674,8 @@ Table: Chemical systems (1823)
 | [Ge–Ru–Si](https://data.orchid-project.org/systems/GE-RU-SI.html) | 2 | model 2 | 2 | 0 | 0 | [md](https://data.orchid-project.org/systems/GE-RU-SI.md) |
 | [Ge–Ru–Sn](https://data.orchid-project.org/systems/GE-RU-SN.html) | 7 | model 7 | 7 | 0 | 0 | [md](https://data.orchid-project.org/systems/GE-RU-SN.md) |
 | [Ge–Sb–Sn](https://data.orchid-project.org/systems/GE-SB-SN.html) | 8 | experimental 4, model 4 | 8 | 0 | 0 | [md](https://data.orchid-project.org/systems/GE-SB-SN.md) |
-| [H–La–Ni](https://data.orchid-project.org/systems/H-LA-NI.html) | 62 | experimental 28, model 7, DFT 1, unspecified 26 | 0 | 16 | 0 | [md](https://data.orchid-project.org/systems/H-LA-NI.md) |
-| [H–Mg–Mn](https://data.orchid-project.org/systems/H-MG-MN.html) | 10 | experimental 5, unspecified 5 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/H-MG-MN.md) |
+| [H–La–Ni](https://data.orchid-project.org/systems/H-LA-NI.html) | 64 | experimental 28, model 9, DFT 1, unspecified 26 | 0 | 16 | 0 | [md](https://data.orchid-project.org/systems/H-LA-NI.md) |
+| [H–Mg–Mn](https://data.orchid-project.org/systems/H-MG-MN.html) | 11 | experimental 6, unspecified 5 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/H-MG-MN.md) |
 | [H–Nb–Zr](https://data.orchid-project.org/systems/H-NB-ZR.html) | 24 | experimental 24 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/H-NB-ZR.md) |
 | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | 194 | model 24, DFT 170 | 0 | 39 | 0 | [md](https://data.orchid-project.org/systems/H-TI-ZR.md) |
 | [Hf–Mn–O](https://data.orchid-project.org/systems/HF-MN-O.html) | 29 | experimental 29 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/HF-MN-O.md) |
@@ -1700,7 +1698,6 @@ Table: Chemical systems (1823)
 | [La–Mg–Zn](https://data.orchid-project.org/systems/LA-MG-ZN.html) | 25 | experimental 4, model 21 | 25 | 0 | 0 | [md](https://data.orchid-project.org/systems/LA-MG-ZN.md) |
 | [La–Mg–Zr](https://data.orchid-project.org/systems/LA-MG-ZR.html) | 14 | experimental 11, model 3 | 2 | 0 | 0 | [md](https://data.orchid-project.org/systems/LA-MG-ZR.md) |
 | [La–Ni–O](https://data.orchid-project.org/systems/LA-NI-O.html) | 9 | unspecified 9 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/LA-NI-O.md) |
-| [La–Ni–Pa](https://data.orchid-project.org/systems/LA-NI-PA.html) | 2 | model 2 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/LA-NI-PA.md) |
 | [La–Pr–Si](https://data.orchid-project.org/systems/LA-PR-SI.html) | 58 | model 15, unspecified 43 | 58 | 0 | 0 | [md](https://data.orchid-project.org/systems/LA-PR-SI.md) |
 | [Li–Mg–Si](https://data.orchid-project.org/systems/LI-MG-SI.html) | 132 | experimental 90, model 38, unspecified 4 | 19 | 0 | 0 | [md](https://data.orchid-project.org/systems/LI-MG-SI.md) |
 | [Li–Mn–Si](https://data.orchid-project.org/systems/LI-MN-SI.html) | 33 | experimental 11, model 10, unspecified 12 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/LI-MN-SI.md) |
@@ -1767,7 +1764,6 @@ Table: Chemical systems (1823)
 | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | 126 | model 96, DFT 30 | 0 | 17 | 0 | [md](https://data.orchid-project.org/systems/AL-NP-PU-U.md) |
 | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | 50 | experimental 38, model 6, DFT 6 | 0 | 20 | 0 | [md](https://data.orchid-project.org/systems/AL-S-SE-TE.md) |
 | [Am–Np–Pu–U](https://data.orchid-project.org/systems/AM-NP-PU-U.html) | 12 | unspecified 12 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AM-NP-PU-U.md) |
-| [Ar–Mg–Mn–Pa](https://data.orchid-project.org/systems/AR-MG-MN-PA.html) | 1 | experimental 1 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/AR-MG-MN-PA.md) |
 | [B–Ba–Ca–Sr](https://data.orchid-project.org/systems/B-BA-CA-SR.html) | 35 | model 35 | 17 | 9 | 0 | [md](https://data.orchid-project.org/systems/B-BA-CA-SR.md) |
 | [B–C–O–Si](https://data.orchid-project.org/systems/B-C-O-SI.html) | 6 | experimental 6 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/B-C-O-SI.md) |
 | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | 39 | experimental 5, model 15, DFT 19 | 0 | 39 | 0 | [md](https://data.orchid-project.org/systems/B-CE-DY-LU.md) |
@@ -1776,7 +1772,6 @@ Table: Chemical systems (1823)
 | [Ba–Ca–Sr–V](https://data.orchid-project.org/systems/BA-CA-SR-V.html) | 6 | unspecified 6 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/BA-CA-SR-V.md) |
 | [Bi–Ce–Er–Pr](https://data.orchid-project.org/systems/BI-CE-ER-PR.html) | 12 | model 12 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/BI-CE-ER-PR.md) |
 | [Bi–Cr–Ti–V](https://data.orchid-project.org/systems/BI-CR-TI-V.html) | 37 | experimental 14, model 17, unspecified 6 | 25 | 0 | 0 | [md](https://data.orchid-project.org/systems/BI-CR-TI-V.md) |
-| [C–Ce–F–O](https://data.orchid-project.org/systems/C-CE-F-O.html) | 19 | experimental 19 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/C-CE-F-O.md) |
 | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | 79 | experimental 57, model 19, unspecified 3 | 36 | 19 | 0 | [md](https://data.orchid-project.org/systems/C-CE-LA-PR.md) |
 | [Cd–Fe–Mn–Sn](https://data.orchid-project.org/systems/CD-FE-MN-SN.html) | 16 | experimental 3, model 13 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/CD-FE-MN-SN.md) |
 | [Co–Cr–Ni–Re](https://data.orchid-project.org/systems/CO-CR-NI-RE.html) | 162 | model 34, DFT 128 | 0 | 0 | 0 | [md](https://data.orchid-project.org/systems/CO-CR-NI-RE.md) |

@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "annotation_run": "run-20261021h-full",
   "annotation_tools_sha256": "c8c3e77469eddd6d9bc28c90060e4d20564dbab33e9ea02b176b26db0a1b4f45",
-  "phase_mapper_sha256": "4ac6bbe5c56280dce273bab97760dc43927985c660f1b431f648874742d2758f",
+  "phase_mapper_sha256": "4805707a77b9a933d95921513fa3ff0cdb0c12b9b2fdf507056035a915e47468",
   "builder": "orchid-project.org/tools/build_assessed_assemblages.py"
  },
  "diagrams_with_points": 2178,
@@ -54,8 +54,8 @@
   "cannot_tell": 4
  },
  "phase_labels_mapped_to_registry": {
-  "mapped": 20910,
-  "unmapped": 20713
+  "mapped": 20912,
+  "unmapped": 20711
  },
  "two_phase_tie_lines": {
   "with_tie_line": 11962,
@@ -72,29 +72,70 @@
  },
  "sgte_crosscheck": {
   "comparisons": 30769,
-  "agrees": 18974,
-  "disagrees": 4087,
-  "not_comparable": 7708,
-  "agreement_rate_of_comparable": 0.8228,
+  "agrees": 19160,
+  "disagrees": 3927,
+  "not_comparable": 7682,
+  "agreement_rate_of_comparable": 0.8299,
   "not_comparable_by_reason": {
-   "assemblage phase without registry mapping": 6072,
+   "assemblage phase without registry mapping": 6076,
    "no calculated equilibrium at this cell": 25,
-   "order-disorder model: the grid label does not tell the ordered from the disordered state": 631,
+   "order-disorder model: the grid label does not tell the ordered from the disordered state": 607,
    "outside the calculated T-x range": 405,
-   "the same registry phase twice (the grid collapses composition sets)": 575
+   "the same registry phase twice (the grid collapses composition sets)": 569
   },
   "points": {
    "no SGTE assessment": 10196,
-   "agrees with >=1": 9118,
-   "not comparable": 2577,
-   "disagrees with all comparable": 1240
-  }
+   "agrees with >=1": 9184,
+   "not comparable": 2573,
+   "disagrees with all comparable": 1178
+  },
+  "metric_definitions": {
+   "comparison": "one point x one calculated SGTE diagram of its system (nearest grid cell)",
+   "comparable": "both phase sets can be expressed as registry phases and the grid cell has an equilibrium: result agrees or disagrees",
+   "agreement_rate_of_comparable": "agrees / (agrees + disagrees), over all comparable comparisons (aggregate, not a per-system mean)",
+   "points_agreeing_with_at_least_one_rate": "points that agree with >= 1 SGTE assessment / points with >= 1 comparable comparison",
+   "median_system_rate": "median over systems with >= 5 comparable comparisons of the system's agreement rate",
+   "not_comparable": "counted separately, never in a rate; reasons in not_comparable_by_reason and, per comparison, in sgte_not_comparable.csv"
+  },
+  "comparable": 23087,
+  "points_with_comparable_assessment": 10362,
+  "points_agreeing_with_at_least_one": 9184,
+  "points_agreeing_with_at_least_one_rate": 0.8863,
+  "points_agreeing_with_all_comparable": 8232,
+  "points_disagreeing_with_all_comparable": 1178,
+  "systems_with_5_comparable": 892,
+  "median_system_rate": 0.8889,
+  "mean_system_rate": 0.845
+ },
+ "points_by_boundary_basis": {
+  "printed_solid": 20784,
+  "mixed": 1292,
+  "dashed_estimated": 1028,
+  "none": 27
+ },
+ "diagrams_with_dashed_lines": 1021,
+ "ml_folds": {
+  "fold_lso": {
+   "0": 4670,
+   "1": 4644,
+   "2": 4517,
+   "3": 4274,
+   "4": 5026
+  },
+  "fold_lpo": {
+   "0": 4293,
+   "1": 4285,
+   "2": 5437,
+   "3": 4335,
+   "4": 4781
+  },
+  "method": "`chemical_system` (sorted elements, = `system`), `paper_id` (stable source id), `fold_lso` = leave-chemical-system-out fold int(sha256(chemical_system), 16) mod 5, `fold_lpo` = leave-paper-out fold int(sha256(paper_id), 16) mod 5 (tools/ml_folds.py). Subsystems are their own systems (a held-out ternary may have its binaries in training); drop subsystems of held-out systems for strict chemistry extrapolation"
  },
  "espei": {
   "datasets_default": 1070,
   "datasets_with_tie_lines": 1070,
-  "points_in_espei": 10870,
-  "points_excluded_from_espei": 12261,
+  "points_in_espei": 10874,
+  "points_excluded_from_espei": 12257,
   "validation": {
    "espei-zpf": {
     "files": 1070,
@@ -157,22 +198,23 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
-   "espei-zpf": 8789739,
-   "espei-zpf-with-tie-lines": 8738914,
-   "espei_exclusions.jsonl": 1680688,
+   "espei-zpf": 9449840,
+   "espei-zpf-with-tie-lines": 9398941,
+   "espei_exclusions.jsonl": 1680183,
    "exclusions.csv": 322521,
    "exclusions.jsonl": 542384,
-   "records.csv": 11578669,
-   "records.jsonl.gz": 4379614,
-   "records.parquet": 1672893,
+   "records.csv": 12650931,
+   "records.jsonl.gz": 4685760,
+   "records.parquet": 1722819,
+   "sgte_not_comparable.csv": 1018741,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
   "rows": 23131,
-  "csv_sha256": "50fcc7b5f6c6e523dff6db3f9851dd02cb8f3aef56db41d97264333159dbd6cc",
-  "content_sha256": "119ef6fd9a6a5b00dcd2b80179c72f3fcb1cc47417a6d077670c26105e1fa7bc",
+  "csv_sha256": "b9c562ce5c540a1ee75d944708d4c82ef9d46f7026494cbee0142df82615cd6f",
+  "content_sha256": "e2bc6eee2cebeb9cf91aaaf056deee123f13099c0290f0a5f426853998c64909",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

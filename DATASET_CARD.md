@@ -391,10 +391,16 @@ dataset_info:
     dtype: string
   - name: split
     dtype: string
+  - name: chemical_system
+    dtype: string
+  - name: fold_lso
+    dtype: int32
+  - name: fold_lpo
+    dtype: int32
   splits:
   - name: full
     num_examples: 73538
-  download_size: 7096260
+  download_size: 7127768
 - config_name: papers
   features:
   - name: id
@@ -430,7 +436,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4880
-  download_size: 529258
+  download_size: 529216
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -597,10 +603,16 @@ dataset_info:
     dtype: string
   - name: basis_inferred_from_magnitude
     dtype: bool
+  - name: chemical_system
+    dtype: string
+  - name: fold_lso
+    dtype: int32
+  - name: fold_lpo
+    dtype: int32
   splits:
   - name: full
     num_examples: 7696
-  download_size: 270010
+  download_size: 275629
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -863,8 +875,18 @@ dataset_info:
     dtype: float64
   - name: margin_isopleth_K
     dtype: float64
+  - name: boundary_basis
+    dtype: string
   - name: basis
     dtype: string
+  - name: chemical_system
+    dtype: string
+  - name: paper_id
+    dtype: string
+  - name: fold_lso
+    dtype: int32
+  - name: fold_lpo
+    dtype: int32
   - name: confidence
     dtype: string
   - name: review_state
@@ -902,7 +924,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 23131
-  download_size: 1672893
+  download_size: 1722819
 - config_name: bibliography_papers
   features:
   - name: id
@@ -1002,7 +1024,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537303
+  download_size: 1537270
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1032,7 +1054,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 60231
-  download_size: 1081876
+  download_size: 1081859
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1366,15 +1388,46 @@ next release. Report errors via the project website or repository issues.
 - **Calculated diagrams.** 54 SGTE files did not calculate (`phase_diagram_index.status = failed`); calculated
   invariants are as good as the grid and the assessment, and are model values, not measurements.
 
+## Machine-learning use
+
+Every literature value (`literature_values`), every DFT parity row (`dft_parity`) and every assessed phase-assemblage
+point (`assessed_phase_assemblages`) carries two deterministic 5-fold assignments, as columns (the Hugging Face configs
+keep a single `full` split; select folds with a filter):
+
+- `fold_lso` (leave-chemical-system-out) = int(sha256(`chemical_system`), 16) mod 5, where `chemical_system` is the
+  sorted, upper-case, `-`-joined element string (e.g. `AL-NI`);
+- `fold_lpo` (leave-paper-out) = int(sha256(`paper_id`), 16) mod 5, where `paper_id` is the stable source id
+  (`doi:<doi>` or `sha256:<pdf prefix>`; assessed points: the original evaluation, else `handbook:<diagram>`).
+
+```python
+from datasets import load_dataset
+ds = load_dataset("<this repo>", "literature_values", split="full")
+test = ds.filter(lambda r: r["fold_lso"] == 0)          # unseen chemical systems
+train = ds.filter(lambda r: r["fold_lso"] != 0)
+```
+
+**Leakage.** A random row split leaks: values from one table, one paper or one system are strongly correlated, and
+many values are re-listed by several papers from the same original measurement (`cited_dois`). Use `fold_lpo` to test
+on unseen papers and `fold_lso` to test on unseen chemistry. The system fold is keyed on the exact system: unary and
+lower-order subsystems are systems of their own, so a held-out ternary A-B-C may have its A-B binary in training; for
+strict extrapolation drop from training every record whose system is a subsystem of a held-out system. Even
+`fold_lpo` does not separate re-listed measurements: drop training rows that share a `cited_dois` entry with a test
+row when that matters. The older `split` column (train / validation / test by paper, 80/10/10) is kept unchanged.
+
 ## Licence and citation
 
-Derived data: **CC BY 4.0**. Cite the ORCHID dataset you use and the umbrella record (DOIs below), and the original
-source of each value (`paper_citation`, `paper_doi`, `cited_dois`). Each `quote` is a single sentence reproduced
-under fair use to make the value verifiable; the source papers, page images and full texts are not redistributed.
-Third-party data keep their licences and citations (`NOTICE.md`, `LICENSES.md`): SGTE binary collection, Hallstedt
-2025 (CC BY 4.0); Materials Project, Jain et al., APL Materials 1 (2013) 011002 (CC BY 4.0); OQMD, Saal et al., JOM
-65 (2013) 1501 and Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0). Bibliography: Crossref
-bibliographic metadata CC0 (Crossref metadata licence); ORCHID-derived bibliography fields CC BY 4.0.
+ORCHID's data are released under **CC BY 4.0**, as are the SGTE (Hallstedt 2025), Materials Project and OQMD data
+from which they are derived. Cite the ORCHID dataset you use and the umbrella record (DOIs below), and the original
+source of each value (`paper_citation`, `paper_doi`, `cited_dois`). The quotations from papers (`quote`) are short
+excerpts kept for verification; they remain under the publishers' copyright and are not relicensed. The source
+papers, page images and full texts are not redistributed. The assessed phase-assemblage points are ORCHID's own
+measurements of where the phase fields of the handbook diagrams lie (T, x, P and phase names, with citations); no
+handbook drawing or text is included. Third-party sources, citations and statements of changes are in `NOTICE.md`,
+the licence of each folder in `LICENSES.md`: SGTE binary collection, Hallstedt, Calphad 89 (2025) 102833 (CC BY 4.0);
+Materials Project, Jain et al., APL Materials 1 (2013) 011002 (CC BY 4.0); OQMD, Saal et al., JOM 65 (2013) 1501 and
+Kirklin et al., npj Comput. Mater. 1 (2015) 15010 (CC BY 4.0); Kim et al. 2017 experimental formation enthalpies
+(Figshare 10.6084/m9.figshare.7289723, MIT; used in the DFT benchmark cross-check); Crossref bibliographic metadata
+CC0; ORCHID-derived bibliography fields CC BY 4.0.
 
 The same citation is machine-readable everywhere: a top-level `cite_as` object (text, BibTeX, DOI) in
 `literature/index.json`, every `literature/systems/*.json`, `phase-diagrams/index.json`, the hull catalogs,

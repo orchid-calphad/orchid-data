@@ -4,9 +4,9 @@
   "SN"
  ],
  "phases": [
-  "DIAMOND_A4",
   "LIQUID",
-  "RHOMBOHEDRAL_A7"
+  "RHOMBOHEDRAL_A7",
+  "SNAS_B1"
  ],
  "conditions": {
   "P": 101325.0,
@@ -42,7 +42,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNAS_B1",
     [
      "SN"
     ],
@@ -102,7 +102,7 @@
     ]
    ],
    [
-    "DIAMOND_A4",
+    "SNAS_B1",
     [
      "SN"
     ],
@@ -128,6 +128,13 @@
    "aspa-981d18e6d93f498f",
    "aspa-19d301a91b2f430f",
    "aspa-5174eae94254ad9c"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -136,6 +143,7 @@
   "points": [
    {
     "record_id": "aspa-85acaaaeda825494",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,
@@ -153,6 +161,7 @@
    },
    {
     "record_id": "aspa-381d7c075d82a9ef",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,
@@ -170,6 +179,7 @@
    },
    {
     "record_id": "aspa-981d18e6d93f498f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,
@@ -187,6 +197,7 @@
    },
    {
     "record_id": "aspa-19d301a91b2f430f",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,
@@ -204,6 +215,7 @@
    },
    {
     "record_id": "aspa-5174eae94254ad9c",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.572,

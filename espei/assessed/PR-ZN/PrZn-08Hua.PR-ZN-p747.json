@@ -979,17 +979,17 @@
     "record_id": "aspa-8f75d2a3a6af85f7",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 0.668,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 35.0,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0145244,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {

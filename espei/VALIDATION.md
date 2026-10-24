@@ -14,7 +14,7 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 | dft/literature | 441 | 441 | ok |
 | dft/mp | 1218 | 1218 | ok |
 | dft/oqmd | 1218 | 1218 | ok |
-| assessed | 650 | 650 | ok |
+| assessed | 655 | 655 | ok |
 | derived/invariant-brackets | 1114 | 1114 | ok |
 | derived/liquid-stability | 431 | 431 | ok |
 
@@ -61,16 +61,16 @@ Invalid files in the final bundle: **0**.
 
 Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
 
-Datasets evaluated in the final bundle: **8239**; all finite: **yes**.
+Datasets evaluated in the final bundle: **8244**; all finite: **yes**.
 
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
-| assessed | zpf_driving_force_J | 650 | 13911 | 0.000171 | 1.3915 |
+| assessed | zpf_driving_force_J | 655 | 13953 | 5.6e-05 | 1.3004 |
 | derived/invariant-brackets | zpf_driving_force_J | 1114 | 7350 | 3.4907 | 196.0016 |
 | derived/liquid-stability | zpf_driving_force_J | 431 | 3879 | 0.0 | 0.0 |
 | dft/literature | nonequilibrium_log_likelihood | 441 | 441 | 19.1066 | 46.5692 |
-| dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1757 | 11.4902 |
-| dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1552 | 11.748 |
+| dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1649 | 11.5247 |
+| dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1269 | 11.5984 |
 | experimental | activity_residual | 71 | 181 | 1389.0925 | 11930.0598 |
 | experimental | nonequilibrium_log_likelihood | 454 | 454 | 9.7298 | 21.2583 |
 | experimental | residual | 260 | 1137 | 442.0926 | 30285.5 |
@@ -83,7 +83,7 @@ Datasets evaluated in the final bundle: **8239**; all finite: **yes**.
 
 (Residuals: J/mol-atom, J/K/mol-atom or activity; driving forces J/mol; non-equilibrium: log likelihood. Against the TDB's own parameters, i.e. how far the published values lie from the assessment the folder is named after.)
 
-Not written after the evaluation: 470 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 258, espei_evaluation_nonfinite 181, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 5); ZPF regions cut: 82 in 50 datasets.
+Not written after the evaluation: 465 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 258, espei_evaluation_nonfinite 176, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 5); ZPF regions cut: 82 in 50 datasets.
 
 | reason | path (not written) | error |
 |---|---|---|
@@ -92,11 +92,6 @@ Not written after the evaluation: 470 datasets (derived_from_excluded_dataset 3,
 | espei_evaluation_nonfinite | assessed/AL-CR/AlCr-17Cui-incomplete.AL-CR-p73.json |  |
 | espei_evaluation_tdb_error | assessed/AL-TI/AlTi-92Kat.AL-TI-p90.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
 | espei_evaluation_nonfinite | assessed/AU-TI/AuTi-01Luo-LB.AU-TI-p133.json |  |
-| espei_evaluation_nonfinite | assessed/C-NB/NbC-90Hua.C-NB-p225.json |  |
-| espei_evaluation_nonfinite | assessed/C-TA/TaC-96Fri-LB.C-TA-p230.json |  |
-| espei_evaluation_nonfinite | assessed/C-TI/TiC-96Sei.C-TI-p231.json |  |
-| espei_evaluation_nonfinite | assessed/C-U/UC-01Che.C-U-p231.json |  |
-| espei_evaluation_nonfinite | assessed/C-V/VC-06Hu.C-V-p232.json |  |
 | espei_evaluation_nonfinite | assessed/GE-NI/GeNi-10Liu.GE-NI-p477.json |  |
 | espei_evaluation_nonfinite | assessed/GE-TE/GeTe-99Sch-LB.GE-TE-p484.json |  |
 | espei_evaluation_error | assessed/MG-PR/MgPr-08Guo.MG-PR-p621.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
@@ -582,12 +577,12 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
-| assessed | 650 | 7671 | 479 |
+| assessed | 655 | 7700 | 484 |
 | derived/invariant-brackets | 1114 | 5090 | 399 |
 | derived/liquid-stability | 431 | 3879 | 310 |
 
 Invariant brackets written: above 2746, below 2708; skipped: another_invariant_within_offset (above) 803, another_invariant_within_offset (below) 841, composition_not_between_the_two_phases 175, invariant_composition_unknown 427, phase_unmapped_or_repeated 68, reaction_label_not_matched 704, reaction_not_parsed 150, reaction_phases_differ_from_dataset 9, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 65.
-Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 142, phase_not_in_tdb 291, region_inert_no_composition 115.
+Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 146, phase_not_in_tdb 289, region_inert_no_composition 112.
 Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liquid_at_1_atm 25, liquid_miscibility_gap_in_sources 66, no_assessed_diagram 25, no_single_phase_liquid_field 10, written 310.
 
 ## Inclusion gate (same rules as the published literature values)
@@ -731,8 +726,8 @@ Values per folder and output (sigma_effective in ESPEI units):
 | folder | output | values | printed sigma | not printed (method floor) | model (budget) | dft calibrated | ZPF | floor calibrated | floor prior | sigma_eff > printed | sigma raised vs 2026-10-23 | sigma unit | min | q25 | median | q75 | max |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
 | dft/literature | HM_FORM | 1050 | 0 | 0 | 0 | 1050 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3050.0 | 3794.0 | 6280.0 | 6624.0 | 11564.0 |
-| dft/mp | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4457.0 | 7506.0 | 9496.0 | 9496.0 | 13019.0 |
-| dft/oqmd | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4289.0 | 6040.0 | 6550.0 | 9291.0 | 11501.0 |
+| dft/mp | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4289.0 | 7506.0 | 9323.0 | 9323.0 | 13515.0 |
+| dft/oqmd | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 5761.0 | 6537.0 | 6934.0 | 8435.0 | 11501.0 |
 | experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 7 | 0 | 7 | 1 (activity) | 999.9393 | 1000.0036 | 1000.0258 | 1000.0486 | 1000.0718 |
 | experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 10 | 0 | 10 | 1 (activity) | 999.904 | 999.9912 | 1000.0246 | 1000.0705 | 7525.2123 |
 | experimental | ACR_CR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 1 (activity) | 1000.0068 | 1000.0281 | 1000.0494 | 1000.0707 | 1000.0921 |

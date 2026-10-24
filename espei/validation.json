@@ -2,8 +2,8 @@
  "espei_version": "0.9.1",
  "folders": {
   "assessed": {
-   "files": 650,
-   "loaded": 650
+   "files": 655,
+   "loaded": 655
   },
   "derived/invariant-brackets": {
    "files": 1114,
@@ -243,36 +243,6 @@
   {
    "path": "assessed/AU-TI/AuTi-01Luo-LB.AU-TI-p133.json",
    "source": "assessed-phase-assemblages/espei-zpf/AU-TI-p133.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "assessed/C-NB/NbC-90Hua.C-NB-p225.json",
-   "source": "assessed-phase-assemblages/espei-zpf/C-NB-p225.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "assessed/C-TA/TaC-96Fri-LB.C-TA-p230.json",
-   "source": "assessed-phase-assemblages/espei-zpf/C-TA-p230.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "assessed/C-TI/TiC-96Sei.C-TI-p231.json",
-   "source": "assessed-phase-assemblages/espei-zpf/C-TI-p231.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "assessed/C-U/UC-01Che.C-U-p231.json",
-   "source": "assessed-phase-assemblages/espei-zpf/C-U-p231.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
-   "path": "assessed/C-V/VC-06Hu.C-V-p232.json",
-   "source": "assessed-phase-assemblages/espei-zpf/C-V-p232.json",
    "reason": "espei_evaluation_nonfinite",
    "error": null
   },
@@ -3241,14 +3211,14 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8239,
+  "datasets_evaluated": 8244,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
-    "datasets": 650,
-    "values": 13911,
-    "median_of_dataset_median_abs": 0.000171,
-    "p90_of_dataset_median_abs": 1.3915
+    "datasets": 655,
+    "values": 13953,
+    "median_of_dataset_median_abs": 5.6e-05,
+    "p90_of_dataset_median_abs": 1.3004
    },
    "derived/invariant-brackets|zpf_driving_force_J": {
     "datasets": 1114,
@@ -3271,14 +3241,14 @@
    "dft/mp|nonequilibrium_log_likelihood": {
     "datasets": 1218,
     "values": 1218,
-    "median_of_dataset_median_abs": 10.1757,
-    "p90_of_dataset_median_abs": 11.4902
+    "median_of_dataset_median_abs": 10.1649,
+    "p90_of_dataset_median_abs": 11.5247
    },
    "dft/oqmd|nonequilibrium_log_likelihood": {
     "datasets": 1218,
     "values": 1218,
-    "median_of_dataset_median_abs": 10.1552,
-    "p90_of_dataset_median_abs": 11.748
+    "median_of_dataset_median_abs": 10.1269,
+    "p90_of_dataset_median_abs": 11.5984
    },
    "experimental|activity_residual": {
     "datasets": 71,
@@ -160087,9 +160057,9 @@
  "phase_constraints": {
   "folders": {
    "assessed": {
-    "datasets": 650,
-    "points": 7671,
-    "systems": 479
+    "datasets": 655,
+    "points": 7700,
+    "systems": 484
    },
    "derived/invariant-brackets": {
     "datasets": 1114,
@@ -160122,9 +160092,9 @@
    }
   },
   "assessed_points_left_out": {
-   "phase_ambiguous_in_tdb": 142,
-   "phase_not_in_tdb": 291,
-   "region_inert_no_composition": 115
+   "phase_ambiguous_in_tdb": 146,
+   "phase_not_in_tdb": 289,
+   "region_inert_no_composition": 112
   },
   "liquid_stability_systems": {
    "above_a_boiling_point": 83,
@@ -160368,9 +160338,9 @@
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 650,
-     "points": 7671,
-     "systems": 479
+     "datasets": 655,
+     "points": 7700,
+     "systems": 484
     },
     "derived/invariant-brackets": {
      "datasets": 1114,
@@ -160403,9 +160373,9 @@
     }
    },
    "assessed_points_left_out": {
-    "phase_ambiguous_in_tdb": 142,
-    "phase_not_in_tdb": 291,
-    "region_inert_no_composition": 115
+    "phase_ambiguous_in_tdb": 146,
+    "phase_not_in_tdb": 289,
+    "region_inert_no_composition": 112
    },
    "liquid_stability_systems": {
     "above_a_boiling_point": 83,

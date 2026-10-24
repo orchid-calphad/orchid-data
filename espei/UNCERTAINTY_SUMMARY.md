@@ -5,8 +5,8 @@ Per folder and output: how many values carry a printed uncertainty, how many hav
 | folder | output | values | printed sigma | not printed (method floor) | model (budget) | dft calibrated | ZPF | floor calibrated | floor prior | sigma_eff > printed | sigma raised vs 2026-10-23 | sigma unit | min | q25 | median | q75 | max |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|---:|---:|---:|---:|---:|
 | dft/literature | HM_FORM | 1050 | 0 | 0 | 0 | 1050 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 3050.0 | 3794.0 | 6280.0 | 6624.0 | 11564.0 |
-| dft/mp | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4457.0 | 7506.0 | 9496.0 | 9496.0 | 13019.0 |
-| dft/oqmd | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4289.0 | 6040.0 | 6550.0 | 9291.0 | 11501.0 |
+| dft/mp | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 4289.0 | 7506.0 | 9323.0 | 9323.0 | 13515.0 |
+| dft/oqmd | HM_FORM | 1218 | 0 | 0 | 0 | 1218 | 0 | 0 | 0 | 0 | 0 | J/mol-atom | 5761.0 | 6537.0 | 6934.0 | 8435.0 | 11501.0 |
 | experimental | ACR_CD | 7 | 0 | 7 | 0 | 0 | 0 | 0 | 7 | 0 | 7 | 1 (activity) | 999.9393 | 1000.0036 | 1000.0258 | 1000.0486 | 1000.0718 |
 | experimental | ACR_CO | 10 | 0 | 10 | 0 | 0 | 0 | 0 | 10 | 0 | 10 | 1 (activity) | 999.904 | 999.9912 | 1000.0246 | 1000.0705 | 7525.2123 |
 | experimental | ACR_CR | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 2 | 0 | 2 | 1 (activity) | 1000.0068 | 1000.0281 | 1000.0494 | 1000.0707 | 1000.0921 |

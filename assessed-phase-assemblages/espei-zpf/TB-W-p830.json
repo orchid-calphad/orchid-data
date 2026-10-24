@@ -37,6 +37,9 @@
   "diagram": "TB-W-p830",
   "record_ids": [
    "aspa-b21c80f232587618"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -45,6 +48,7 @@
   "points": [
    {
     "record_id": "aspa-b21c80f232587618",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.643,

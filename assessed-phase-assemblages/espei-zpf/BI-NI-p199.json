@@ -228,6 +228,15 @@
    "aspa-f125e2176c79263b",
    "aspa-2884a96cee9f2189",
    "aspa-a701f72b7e90bfa4"
+  ],
+  "boundary_basis": [
+   "printed_solid",
+   "mixed",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -236,6 +245,7 @@
   "points": [
    {
     "record_id": "aspa-9f0a948af06f3728",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,
@@ -253,23 +263,25 @@
    },
    {
     "record_id": "aspa-ef8564cb9a349151",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 1.057,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
      "sigma_boundary_margin": 230.5,
-     "sigma_effective": 10.0
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0971633,
-     "sigma_effective": 0.02
+     "sigma_effective": 0.03
     }
    },
    {
     "record_id": "aspa-89782563d1a41cae",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,
@@ -287,6 +299,7 @@
    },
    {
     "record_id": "aspa-9ea096e060a1086e",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,
@@ -304,6 +317,7 @@
    },
    {
     "record_id": "aspa-f125e2176c79263b",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,
@@ -321,6 +335,7 @@
    },
    {
     "record_id": "aspa-2884a96cee9f2189",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,
@@ -338,6 +353,7 @@
    },
    {
     "record_id": "aspa-a701f72b7e90bfa4",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 1.057,

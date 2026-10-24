@@ -15,7 +15,7 @@ Optional phase constraints (separate folders; never mixed with measured data; se
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 650 | 7671 | 479 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
+| assessed | 655 | 7700 | 484 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
 | derived/invariant-brackets | 1114 | 5090 | 399 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
 | derived/liquid-stability | 431 | 3879 | 310 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 

@@ -1,10 +1,10 @@
 # Cu–Te system
 
-> Cu–Te system: 192 accepted literature values (phase transition 85, invariant reaction 78, phase equilibrium 25, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Te system: 194 accepted literature values (phase transition 86, invariant reaction 79, phase equilibrium 25, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-TE.html · Markdown: https://data.orchid-project.org/systems/CU-TE.md
 
-192 accepted literature values from 3 paper(s) (experimental 140, model 45, unspecified 7); 3 calculated phase diagram(s).
+194 accepted literature values from 3 paper(s) (experimental 142, model 45, unspecified 7); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TE.json) · [CSV](https://data.orchid-project.org/systems/CU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TE/CuTe-21Hua.json) · [phases (22)](https://data.orchid-project.org/phases/pages/CU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-TE.html) · [Markdown](https://data.orchid-project.org/systems/CU-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 140 |
+| experimental | 142 |
 | model | 45 |
 | unspecified | 7 |
 
@@ -20,8 +20,8 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 78 |
-| phase transition | 85 |
+| invariant reaction | 79 |
+| phase transition | 86 |
 | phase equilibrium | 25 |
 | activity / EMF / Gibbs energy | 4 |
 
@@ -106,7 +106,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Te system (78)
+Table: Invariant reactions reported in the literature for the Cu–Te system (79)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -158,6 +158,7 @@ Table: Invariant reactions reported in the literature for the Cu–Te system (78
 | 648.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 17 |  |
 | 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Te 0.415; L-Cu4Te3: Te 0.415 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 18 |  |
 | 638.15 | H-Cu4Te3 ↔ L-Cu4Te3 | H-Cu4Te3: Cu 0.571429, Te 0.428571; L-Cu4Te3: Cu 0.571429, Te 0.428571 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 16 |  |
+| 623.85 | eutectic: L 4 HeCuTe þ (Te) |  | experimental | [1] Huang 2021 | p. 6 | “The first and second exothermic peaks at 347.3 and 350.7  C in the 1  C∙min1 curve are probably corresponding to the highe and lowetemperature modifications of CuTe and the eutectic reaction of L 4 HeCuTe þ (Te) respectively.” |
 | 623.15 | L ↔ H-CuTe + (Te) | H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 26 |  |
 | 622.85 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021 | Table 4, p. 11, row 23 |  |
 | 622.7 | L1 -> HEX + βCuTe | βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | Table 4, p. 9, row 25 |  |
@@ -191,7 +192,7 @@ Table: Invariant reactions reported in the literature for the Cu–Te system (78
 
 ## Other properties
 
-### Phase transition (85)
+### Phase transition (86)
 
 Table: Phase transition, Cu–Te system
 
@@ -266,6 +267,7 @@ Table: Phase transition, Cu–Te system
 | Phase transition | 635.15 K | 635.15 | 1; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Gravemann 1956_ | Table 1, p. 2, row 3 |  |
 | Phase transition | 638.15 K | 638.15 | 9; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Vouroutzis 1989_ [doi](https://doi.org/10.1002/pssa.2211110213) | Table 1, p. 2, row 41 |  |
 | Phase transition | 652.5 K | 652.5 | polymorphic | model | [2] Yu 2022; _cites Huang 2020_ [doi](https://doi.org/10.1016/j.jallcom.2020.157373) | p. 2 | “The polymorphic transition temperature of Cu4Te3 was measured as 652.5 K.\[20\]” |
+| Phase transition | 700.25 K | 700.25 | L þ HeCu4Te3 4 HeCuTe | experimental | [1] Huang 2021; _cites Blachnik 1983_ [doi](https://doi.org/10.1016/0022-4596%2883%2990102-0) | p. 6 | “The exothermic peak with an onset at 427.1 C can be ascribed to the invariant reaction L þ HeCu4Te3 4 HeCuTe \[14,15\].” |
 | Phase transition | 713.15 K | 713.15 | 2; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Stevels 1969_ | Table 1, p. 2, row 8 |  |
 | Phase transition | 725.15 K | 725.15 | 10; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Ghoumari-Bouanani 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990036-d) | Table 1, p. 2, row 47 |  |
 | Phase transition | 750.15 K | 750.15 | 6; _alloy: Te 0.333333_ | experimental | [1] Huang 2021; _cites Mills 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2985074-9) | Table 1, p. 2, row 29 |  |

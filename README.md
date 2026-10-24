@@ -18,11 +18,20 @@ served at <https://data.orchid-project.org> and browsable at <https://orchid-pro
 | `zenodo/` | Zenodo deposition metadata and file manifests of the nine release records; DOIs in `zenodo/dois.json`. |
 | `systems/`, `compounds/`, `papers/`, `bibliography/pages/` | Static no-JavaScript pages (HTML, Markdown, CSV) generated from the data; not part of the Zenodo records. |
 
+## Machine-learning use
+Literature values, DFT parity rows and assessed phase-assemblage points carry `chemical_system`, `paper_id` and two
+deterministic 5-fold assignments: `fold_lso` = int(sha256(chemical_system), 16) mod 5 (leave-chemical-system-out) and
+`fold_lpo` = int(sha256(paper_id), 16) mod 5 (leave-paper-out). Do not split rows at random: values of one table, paper
+or system are correlated and many are re-listed from the same original measurement. Subsystems (unaries, binaries of a
+ternary) are systems of their own; drop them from training for strict extrapolation to unseen chemistry. Details:
+`DATASET_CARD.md`, "Machine-learning use".
+
 ## Licence and attribution
-Derived data: **CC BY 4.0** — cite ORCHID and the original sources. Each literature value carries its citation, DOI,
-page and the one sentence it was read from (quoted under fair use). Source papers, page images and full texts are not
-redistributed. Third-party data (SGTE, Materials Project, OQMD) keep their own licences and citations: see `NOTICE.md`
-and `LICENSES.md`.
+ORCHID's data are released under **CC BY 4.0**, as are the SGTE, Materials Project and OQMD data from which they are
+derived; cite ORCHID and the original sources. Each literature value carries its citation, DOI, page and the sentence
+it was read from: a short excerpt kept for verification, which remains under the publisher's copyright and is not
+relicensed. Source papers, page images and full texts are not redistributed. Attributions, the Kim et al. 2017 (MIT)
+and Crossref (CC0) notices and statements of changes: `NOTICE.md`; licence per folder: `LICENSES.md`.
 
 ## Citing
 Release v2026.10 is archived on Zenodo as eight citable datasets, each its own record and DOI, plus an umbrella

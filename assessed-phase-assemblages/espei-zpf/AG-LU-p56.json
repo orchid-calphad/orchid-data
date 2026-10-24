@@ -38,6 +38,9 @@
   "diagram": "AG-LU-p56",
   "record_ids": [
    "aspa-cf889a9007c8829a"
+  ],
+  "boundary_basis": [
+   "printed_solid"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -46,6 +49,7 @@
   "points": [
    {
     "record_id": "aspa-cf889a9007c8829a",
+    "boundary_basis": "printed_solid",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": 0.744,

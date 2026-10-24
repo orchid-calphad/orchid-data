@@ -1890,9 +1890,9 @@ Every value was checked against its table, its paper, the physics of its quantit
 | records | 77540 | 73538 |
 | extraction_accepted | 76600 | 72359 |
 | espei_ready (before the ESPEI phase rule) | 14205 | 13245 |
-| records with corrections | | 4062 |
-| records with gate failures | | 1988 |
-| visual checks on file | | 1255 |
+| records with corrections | | 4092 |
+| records with gate failures | | 1993 |
+| visual checks on file | | 1290 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -1933,7 +1933,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G4 system assignment | `system_confirmed_label_typo` | flagged | 50 |
 | G4 system assignment | `system_mismatch` | demoted | 3 |
 | G4 system assignment | `system_reassigned` | corrected | 147 |
-| G4 system assignment | `system_reassigned_from_page` | corrected | 141 |
+| G4 system assignment | `system_reassigned_from_page` | corrected | 171 |
 | G5 property semantics | `entropy_increment` | corrected | 30 |
 | G5 property semantics | `formation_code_in_unary_system` | demoted | 4 |
 | G5 property semantics | `formation_on_liquid` | flagged | 22 |
@@ -1985,6 +1985,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | page page checks (visual) | `page_fix_value` | corrected | 98 |
 | page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
+| page page checks (visual) | `pressure_not_1_atm_on_page` | flagged | 5 |
 | page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
 | page page checks (visual) | `same_measurement_listed_in_other_paper` | flagged | 6 |
 | page page checks (visual) | `stoichiometry_mismatch` | flagged | 7 |
@@ -2011,9 +2012,11 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | record_T | corrected | 11 |
 | record_T | misread | 16 |
 | record_comp | as_stored | 50 |
+| record_flag | flagged | 5 |
 | record_phases | as_stored | 5 |
 | record_phases | higher_order | 50 |
 | record_phases | misread | 34 |
+| record_system | misread | 30 |
 | record_value | as_stored | 164 |
 | record_value | confirmed | 90 |
 | record_value | corrected | 15 |
@@ -2036,7 +2039,7 @@ Gate rules:
 * G1 temperatures. (a) Per table, the stored temperatures (as K, or converted from °C) are compared with the table's own numbers: rows describing a pure element against its melting point in K and °C, invariant rows against the system's SGTE invariants and melting points (median distance, K vs °C reading), and the readers' unit votes. A table whose stored convention disagrees with that evidence is converted as a whole from the printed numbers once the page confirms the header unit; unconfirmed: `temperature_unit_table_suspect`. The CALPHAD cross-check of a corrected value was computed on the old temperature and is moved to `flags.plausibility_before_correction`. (b) A temperature printed as a dash, T <= 1 K for a phase equilibrium, or a temperature equal to a printed composition: `temperature_not_a_temperature` (not accepted). (c) A liquid-bearing value below the lowest temperature a liquid can have (SGTE diagram of the system minus twice the phase-rule margin; binary subsystems for higher orders; else 0.40 x the lowest melting point): `liquid_below_physical_minimum` (not ESPEI-ready; not accepted below 0.25 x the lowest melting point). (d) A printed range stored as one temperature: `temperature_range_stored_as_point`.
 * G2 magnitudes. Physical ranges (kJ/mol-atom unless stated): formation enthalpy / Gibbs energy [-200, 60] (metallic) or [-650, 120] (with O, N, halogens, chalcogens, pnictogens, C, B, Si, Ge); mixing [-150, 60]; partial [-450, 250]; entropy of formation [-60, 60] J/(mol-atom K); absolute entropy [0, 150]; heat capacity [0, 120]; activity (0, 1]. Values of unstated basis are tested per atom of their single printed formula. Corrections: a printed x10^3 activity header (values divided by 1000 when the page confirms the header); a J value under a printed J unit stored as kJ; a per-formula value under a printed per-formula unit labelled per atom; a per-gram unit relabelled. Unexplained values out of range: `value_out_of_physical_range` (not accepted; relative DFT energies only not ESPEI-ready); no unit read: `unit_not_read_value_out_of_range`.
 * G3 signs. A positive value under a printed (-Δ...) heading is negated when the page confirms the heading (`sign_from_heading`); `unsigned_in_print` blocks ESPEI; a positive formation enthalpy / Gibbs energy above +10 kJ/mol-atom of a compound is flagged `formation_positive_check_sign` unless the page confirms it.
-* G4 system. A phase formula naming an element outside the system (or cement notation C-S = CaO-SiO2) moves the value to the system named by its phase formulas and caption when the page confirms it; otherwise `system_mismatch` (not accepted). system_mismatch, magnitude_suspect and source_disputed block ESPEI.
+* G4 system. A phase formula naming an element outside the system (or cement notation C-S = CaO-SiO2) moves the value to the system named by its phase formulas and caption when the page confirms it; otherwise `system_mismatch` (not accepted). system_mismatch, magnitude_suspect and source_disputed block ESPEI. A system element that is a pressure unit (Pa in kPa / MPa), a cover or flow gas (Ar, He) or a garbled phase prefix is never a component: such records are reassigned from the rendered page (record checks of 2026-10-24) or, without a page check, not accepted (`system_element_from_unit_or_gas`).
 * G5 semantics. A mixing code whose printed quantity is a formation quantity becomes the formation code; formation / mixing codes in one-element systems become fusion or lattice-stability codes when printed as such, otherwise are not accepted; S(T)-S(298) becomes `SM_INCREMENT`; formation quantities of a liquid are flagged; Redlich-Kister parameters stored as properties are not accepted.
 * G6 invariants. Phase lists drop non-phase labels (composition points, 'liquidus', 'eutectic', 'UNKNOWN' beside a named phase) and repeated phases (`phases_dropped`, `phases_stored`); binary three-phase reactions must have three phases with the right number of liquids, congruent melting two phases with one liquid, solid-state reactions no liquid; a binary row with four or more phases is flagged (likely a higher-order system). Repeats are found with a spelling-independent key (`phase_key`: subscripts, LaTeX and spelled Greek letters, prime glyphs, separators, outer parentheses); numbered liquids (L1, L2, Liquid#2) count as liquids. Page checks of whole tables (cleanup 2026-10-24, key `invariant_table:<asset>`): labels that are not phases of the row (column headers such as 'Phase 2', 'X^M', 'T/K', composition labels, a phase from a neighbouring column) are dropped (compositions printed under them move to `phase_compositions_dropped`); a phase the printed reaction names but the reading missed is added (`label_source: page_check`); the reaction type is set to the printed one (`transition_kind_stored`); a row of a higher-order system moves to the system the page names (else not accepted); a row whose odd phase count or type is printed so stays accepted and not ESPEI-ready (`*_as_printed`, `binary_degenerate_reaction_as_printed`).
 * G7 duplicates. Values identical in paper, property, value, unit, temperature, table and row (or quote) that differ only cosmetically (UNKNOWN beside a named phase, glyph variants, reader lists) are merged into the most specified record (`merged_ids`). Labels are compared with `phase_key`, by contained words ('Fe3O4' / 'Magnetite (Fe3O4)') and by formula composition ('UC1.90' / 'C0.655U0.345'); two readings of one printed value with different phases are kept apart and flagged `phase_label_readings_disagree` (not ESPEI-ready).
