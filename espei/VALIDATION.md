@@ -14,7 +14,7 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 | dft/literature | 796 | 796 | ok |
 | dft/mp | 1251 | 1251 | ok |
 | dft/oqmd | 1251 | 1251 | ok |
-| assessed | 639 | 639 | ok |
+| assessed | 645 | 645 | ok |
 | derived/invariant-brackets | 1075 | 1075 | ok |
 | derived/liquid-stability | 422 | 422 | ok |
 
@@ -57,11 +57,11 @@ Invalid files in the final bundle: **0**.
 
 Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
 
-Datasets evaluated in the final bundle: **8446**; all finite: **yes**.
+Datasets evaluated in the final bundle: **8452**; all finite: **yes**.
 
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
-| assessed | zpf_driving_force_J | 639 | 12019 | 0.0045 | 1.3968 |
+| assessed | zpf_driving_force_J | 645 | 14205 | 0.004 | 1.3915 |
 | derived/invariant-brackets | zpf_driving_force_J | 1075 | 6905 | 2.7821 | 108.7677 |
 | derived/liquid-stability | zpf_driving_force_J | 422 | 3798 | 0.0 | 0.0 |
 | dft/literature | nonequilibrium_log_likelihood | 796 | 796 | 19.9778 | 42.7718 |
@@ -495,12 +495,12 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
-| assessed | 639 | 6713 | 473 |
+| assessed | 645 | 8019 | 473 |
 | derived/invariant-brackets | 1075 | 4765 | 391 |
 | derived/liquid-stability | 422 | 3798 | 306 |
 
 Invariant brackets written: above 2540, below 2476; skipped: another_invariant_within_offset (above) 751, another_invariant_within_offset (below) 815, composition_not_between_the_two_phases 151, invariant_composition_unknown 396, phase_unmapped_or_repeated 40, reaction_label_not_matched 628, reaction_not_parsed 133, reaction_phases_differ_from_dataset 14, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 50.
-Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 137, phase_not_in_tdb 266, region_inert_no_composition 91.
+Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 137, phase_not_in_tdb 1078, region_inert_no_composition 91.
 Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liquid_at_1_atm 24, liquid_miscibility_gap_in_sources 59, no_assessed_diagram 24, no_single_phase_liquid_field 9, written 306.
 
 ## Inclusion gate (same rules as the published literature values)

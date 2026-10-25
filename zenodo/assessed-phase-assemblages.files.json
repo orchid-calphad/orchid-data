@@ -13,8 +13,8 @@
   "assessed-phase-assemblages/**"
  ],
  "exclude": [],
- "n_files": 2154,
- "total_bytes": 40481315,
+ "n_files": 2159,
+ "total_bytes": 41136491,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -48,13 +48,38 @@
   },
   {
    "path": "assessed-phase-assemblages/README.md",
-   "bytes": 8116,
-   "sha256": "fa3d3619602d597238dcaec28febdb810497c2d00be39d6b26959a94824a2cfd"
+   "bytes": 10171,
+   "sha256": "86560a0919c364179112b8811b78526466928072c35cfc81c89f188c4f04a855"
   },
   {
    "path": "assessed-phase-assemblages/SCHEMA.md",
-   "bytes": 11478,
-   "sha256": "907fa9a4e6995de29ddfed753c2f31613c23fcfc82d901e15f40544c5ee77c90"
+   "bytes": 12435,
+   "sha256": "e290ffe43590886f872deca14b49003fc6fb6844232a30b8631c1cdc237d949e"
+  },
+  {
+   "path": "assessed-phase-assemblages/dense-field-grid/espei_exclusions.jsonl",
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "path": "assessed-phase-assemblages/dense-field-grid/records.csv",
+   "bytes": 292196,
+   "sha256": "5267fc471d6c19dd128f68111d8ca8566b0ccc27b25331d4b700dd640058a73b"
+  },
+  {
+   "path": "assessed-phase-assemblages/dense-field-grid/records.jsonl.gz",
+   "bytes": 53281,
+   "sha256": "e92c4c40759e23a4ac17ce0fbe85db5dcd1576764bd3569d0af7c636ff40f918"
+  },
+  {
+   "path": "assessed-phase-assemblages/dense-field-grid/records.parquet",
+   "bytes": 35733,
+   "sha256": "fb12bbf59d34edcdec6c35606473b3eac57f906c72a03273287a1d411e087609"
+  },
+  {
+   "path": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json",
+   "bytes": 270307,
+   "sha256": "8d0dfc0397872c529a4c31e8e83398e432744c8e042a7a5b189b2ea7b23bdc24"
   },
   {
    "path": "assessed-phase-assemblages/espei-zpf-with-tie-lines/AG-AL-p46.json",
@@ -10778,8 +10803,8 @@
   },
   {
    "path": "assessed-phase-assemblages/summary.json",
-   "bytes": 8900,
-   "sha256": "13c7deefe2fdb683a79b97b566d4cb83db80fe6e00432df7bf4a2aefe55275df"
+   "bytes": 9547,
+   "sha256": "e4733dec49ffa2d9df373b3dd9259a38608606e133345e6fd72fa05253afde42"
   },
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",

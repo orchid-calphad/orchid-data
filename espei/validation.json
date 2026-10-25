@@ -2,8 +2,8 @@
  "espei_version": "0.9.1",
  "folders": {
   "assessed": {
-   "files": 639,
-   "loaded": 639
+   "files": 645,
+   "loaded": 645
   },
   "derived/invariant-brackets": {
    "files": 1075,
@@ -2675,14 +2675,14 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8446,
+  "datasets_evaluated": 8452,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
-    "datasets": 639,
-    "values": 12019,
-    "median_of_dataset_median_abs": 0.0045,
-    "p90_of_dataset_median_abs": 1.3968
+    "datasets": 645,
+    "values": 14205,
+    "median_of_dataset_median_abs": 0.004,
+    "p90_of_dataset_median_abs": 1.3915
    },
    "derived/invariant-brackets|zpf_driving_force_J": {
     "datasets": 1075,
@@ -164638,8 +164638,8 @@
  "phase_constraints": {
   "folders": {
    "assessed": {
-    "datasets": 639,
-    "points": 6713,
+    "datasets": 645,
+    "points": 8019,
     "systems": 473
    },
    "derived/invariant-brackets": {
@@ -164674,7 +164674,7 @@
   },
   "assessed_points_left_out": {
    "phase_ambiguous_in_tdb": 137,
-   "phase_not_in_tdb": 266,
+   "phase_not_in_tdb": 1078,
    "region_inert_no_composition": 91
   },
   "liquid_stability_systems": {
@@ -164933,8 +164933,8 @@
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 639,
-     "points": 6713,
+     "datasets": 645,
+     "points": 8019,
      "systems": 473
     },
     "derived/invariant-brackets": {
@@ -164969,7 +164969,7 @@
    },
    "assessed_points_left_out": {
     "phase_ambiguous_in_tdb": 137,
-    "phase_not_in_tdb": 266,
+    "phase_not_in_tdb": 1078,
     "region_inert_no_composition": 91
    },
    "liquid_stability_systems": {

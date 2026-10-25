@@ -13,8 +13,8 @@
   "espei/**"
  ],
  "exclude": [],
- "n_files": 8466,
- "total_bytes": 72147427,
+ "n_files": 8472,
+ "total_bytes": 73081126,
  "files": [
   {
    "path": "CHANGELOG.md",
@@ -48,8 +48,8 @@
   },
   {
    "path": "espei/README.md",
-   "bytes": 29051,
-   "sha256": "8eb97eea9af4de1b9098e46c01767b439ebafb08d255520e33916a1838dff0ab"
+   "bytes": 29605,
+   "sha256": "6b0c976c9d8319bf03ed4ed12c8b2b921ce2d075faa97339547f4b502208a4a1"
   },
   {
    "path": "espei/SCHEMA.md",
@@ -69,7 +69,7 @@
   {
    "path": "espei/VALIDATION.md",
    "bytes": 67076,
-   "sha256": "63acc6f6d0696a641dd14f882e2c90d7bccb2a67f63bde6fab8bc36587325dc4"
+   "sha256": "19bc875d489c16655be72dcfe35b94b74b3f61531885b3b6db7472eabae490bf"
   },
   {
    "path": "espei/assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
@@ -1577,9 +1577,19 @@
    "sha256": "29ae19f7344c0f644d4592fb71887c5627251eafb4785903054bea238b8b3512"
   },
   {
+   "path": "espei/assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.dense.json",
+   "bytes": 232395,
+   "sha256": "fb89db94b141d40aed829c13a402e2805fd453ea748060eab128d7b4d26562c1"
+  },
+  {
    "path": "espei/assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.json",
    "bytes": 13646,
    "sha256": "b312182339a93395efaf2693b403dff47446283b6495b3bdf78a4c4156b70ec7"
+  },
+  {
+   "path": "espei/assessed/CU-ZR/CuZr-08Tur.CU-ZR-p371.dense.json",
+   "bytes": 123049,
+   "sha256": "ec1f2b6426015d06a5eeb0deaec9eee669faa9b40fe8bf337a402cbac663be97"
   },
   {
    "path": "espei/assessed/CU-ZR/CuZr-08Tur.CU-ZR-p371.json",
@@ -1587,9 +1597,19 @@
    "sha256": "e737978ead8d42887e977104e1f0ff9fe1360798aa9093994dcd26ab2d18e832"
   },
   {
+   "path": "espei/assessed/CU-ZR/CuZr-10Zho.CU-ZR-p371.dense.json",
+   "bytes": 145463,
+   "sha256": "fd7d8afd8b9efd16e945a8e0a3c2a9548d8e6f2b9aa3aff778b3e7cad1bfb0dc"
+  },
+  {
    "path": "espei/assessed/CU-ZR/CuZr-10Zho.CU-ZR-p371.json",
    "bytes": 9241,
    "sha256": "08c5527e9b089c5dc5c4d079013b54874e2b984828061130e965732d4337bb18"
+  },
+  {
+   "path": "espei/assessed/CU-ZR/CuZr-11Gie.CU-ZR-p371.dense.json",
+   "bytes": 174095,
+   "sha256": "eb1359201a4ef0675a4490f73c8b1833f4907c55c24cc268644414680700fe18"
   },
   {
    "path": "espei/assessed/CU-ZR/CuZr-11Gie.CU-ZR-p371.json",
@@ -1597,9 +1617,19 @@
    "sha256": "d6cffbf5d883a2cc16a9384986b3a379865eb67bc940eb599dca6cc743f82bc2"
   },
   {
+   "path": "espei/assessed/CU-ZR/CuZr-17Liu.CU-ZR-p371.dense.json",
+   "bytes": 123049,
+   "sha256": "5278d18a3c1d80b0a108c3ea07ff9a23ddd827301eeb71887b94ff8ff8b76c75"
+  },
+  {
    "path": "espei/assessed/CU-ZR/CuZr-17Liu.CU-ZR-p371.json",
    "bytes": 6318,
    "sha256": "5bac55cf0150286bee2893e5179dbef27464fbc2ed0ce7e75566b04678e1d9a3"
+  },
+  {
+   "path": "espei/assessed/CU-ZR/CuZr-94Zen-LB.CU-ZR-p371.dense.json",
+   "bytes": 123055,
+   "sha256": "62b78ff8f2efcbced4c7c84f63fe93447ee5b38c3b2a94b824cd436bfad4f714"
   },
   {
    "path": "espei/assessed/CU-ZR/CuZr-94Zen-LB.CU-ZR-p371.json",
@@ -32118,13 +32148,13 @@
   },
   {
    "path": "espei/index.csv",
-   "bytes": 4501849,
-   "sha256": "f7ddafb94bd7f84c6912f7d6931e8c4c5ad860dbcc35fc789358b3d8a6d83471"
+   "bytes": 4505370,
+   "sha256": "ba7968f5637b73bc79c8c70e6ff7412805cfbafa93a10cdb7a9a6758f05c8716"
   },
   {
    "path": "espei/index.json",
-   "bytes": 11382848,
-   "sha256": "b63cd0982e7e48fb42de307c11b41ef2d0d9a8d5242f13ca4ffb42b494d7fd53"
+   "bytes": 11391365,
+   "sha256": "97e016e07c7bcfb746ab07a173681a5ee14470899928333951443fb0cbec7937"
   },
   {
    "path": "espei/invariants/AG-AL/AgAl-04Wit.zpf-00.json",
@@ -42338,8 +42368,8 @@
   },
   {
    "path": "espei/validation.json",
-   "bytes": 4305428,
-   "sha256": "285fdee87017089e7dfa210f06610346808301deb8d3d49e5c78d1f476a0a7d9"
+   "bytes": 4305429,
+   "sha256": "60299c08f9f8b19dbe0d93704cf815cdc19f7cadc937ef0d1c143d54f77fe904"
   },
   {
    "path": "zenodo/espei.metadata.json",

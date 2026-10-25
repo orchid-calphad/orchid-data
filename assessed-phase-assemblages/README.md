@@ -120,3 +120,23 @@ Cite this dataset, the umbrella ORCHID data record, and, for every diagram you u
 R. Arróyave, J. Saal, D. Shin, ORCHID assessed phase assemblages (binary systems) (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-assessed-phase-assemblages
 
 Part of: R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
+
+
+## Dense field grid (derived points of the assessed-diagram class)
+
+Besides the primary point of each field, a regular interior grid of (T, x) points inside every named field is released
+for the diagrams where it was validated (CU-ZR-p371; method 1.0.0, 353 points in 25 fields, 353 of them usable in ESPEI
+datasets). The grid is the one used by the PhaseForge+ Cu-Zr example (`cuzr-phaseforgeplus` in the ORCHID examples):
+spacing min(50 K, field height / 4) by min(0.05, field width / 4) anchored at the lower-left corner of the field plus half
+a step, kept when the node lies at least 0.006 (frame-normalised) from every other field or drawn line, at most 40 points
+per field (even subsample), the single-phase liquid only within 150 K above its lower boundary. Like the primary points, they
+are derived coordinates and phase assemblages only (never page images, crops or handbook text), with the same record schema,
+uncertainty budget (handbook-class prior), basis, review state and citations (original evaluation first, then the
+handbook); they are distinguished by `point_method` = `dense_field_grid`, the flags `dense_field_grid` and `interior_grid`
+and the `dense_grid` block (`primary_record_id`, `n_points_in_field`, `field_weight_share`, margin used). The points of one
+diagram are not independent observations: `field_weight_share` = 1 / (points in the field), so that each field counts as
+one observation when a fit weights by it. Files: `dense-field-grid/` (records.jsonl.gz, records.csv, records.parquet,
+espei_exclusions.jsonl) and `espei-zpf-dense/` (ESPEI ZPF datasets, dense points only; the bundle carries them as
+`assessed/<SYSTEM>/<TDB>.<DIAGRAM>.dense.json`, tag `dense_field_grid`). The counts above (`points`, `espei`) are the
+primary points only. Phase labels the primary records leave unmapped but the validated grid resolves (recorded in each
+record's `mapping_basis`): CU-ZR-p371: CuZr -> phase:cu-zr:cuzr-b2, Cu51Zr14 -> phase:cu-zr:cu51zr14. Enable for other diagrams only after validation (`--dense all` in the builder).

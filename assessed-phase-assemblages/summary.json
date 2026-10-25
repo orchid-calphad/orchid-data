@@ -156,6 +156,13 @@
     "loaded": 1068,
     "errors": [],
     "espei": "0.9.1"
+   },
+   "espei-zpf-dense": {
+    "files": 1,
+    "valid": 1,
+    "loaded": 1,
+    "errors": [],
+    "espei": "0.9.1"
    }
   }
  },
@@ -177,6 +184,30 @@
    "SB-SR",
    "SR-TE"
   ]
+ },
+ "dense_field_grid": {
+  "method_version": "1.0.0",
+  "diagrams": [
+   "CU-ZR-p371"
+  ],
+  "points": 353,
+  "fields": 25,
+  "points_by_n_phases": {
+   "1": 71,
+   "2": 282
+  },
+  "points_in_espei": 353,
+  "points_excluded_from_espei": 0,
+  "default_enabled_for": [
+   "CU-ZR-p371"
+  ],
+  "files": "dense-field-grid/ and espei-zpf-dense/",
+  "label_overrides": {
+   "CU-ZR-p371": {
+    "CuZr": "phase:cu-zr:cuzr-b2",
+    "Cu51Zr14": "phase:cu-zr:cu51zr14"
+   }
+  }
  },
  "cite_as": {
   "dataset": "assessed-phase-assemblages",
@@ -204,7 +235,9 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
+   "dense-field-grid": 381210,
    "espei-zpf": 8691165,
+   "espei-zpf-dense": 270307,
    "espei-zpf-with-tie-lines": 8669225,
    "espei_exclusions.jsonl": 1812056,
    "exclusions.csv": 322766,

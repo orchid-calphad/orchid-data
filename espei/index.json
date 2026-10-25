@@ -271,8 +271,8 @@
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 639,
-     "points": 6713,
+     "datasets": 645,
+     "points": 8019,
      "systems": 473
     },
     "derived/invariant-brackets": {
@@ -307,7 +307,7 @@
    },
    "assessed_points_left_out": {
     "phase_ambiguous_in_tdb": 137,
-    "phase_not_in_tdb": 266,
+    "phase_not_in_tdb": 1078,
     "region_inert_no_composition": 91
    },
    "liquid_stability_systems": {
@@ -14976,6 +14976,63 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZN-p371.json"
   },
   {
+   "path": "assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU24ZR13",
+    "CU2ZR",
+    "CU51ZR14",
+    "CU5ZR8",
+    "CU8ZR3",
+    "CU9ZR2_C15B",
+    "CUZR2_HT",
+    "CUZR_B2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 323,
+   "n_values_dropped": 0,
+   "T_min_K": 887.0895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-06Wan.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
+  },
+  {
    "path": "assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.json",
    "folder": "assessed",
    "system": "CU-ZR",
@@ -15030,6 +15087,58 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
   },
   {
+   "path": "assessed/CU-ZR/CuZr-08Tur.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU51ZR14",
+    "CU8ZR3",
+    "CUZR2",
+    "CUZR_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 177,
+   "n_values_dropped": 0,
+   "T_min_K": 911.5895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-08Tur.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
+  },
+  {
    "path": "assessed/CU-ZR/CuZr-08Tur.CU-ZR-p371.json",
    "folder": "assessed",
    "system": "CU-ZR",
@@ -15077,6 +15186,60 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
+  },
+  {
+   "path": "assessed/CU-ZR/CuZr-10Zho.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU24ZR13",
+    "CU2ZR",
+    "CU51ZR14",
+    "CU8ZR3",
+    "CUZR2",
+    "CUZR_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 207,
+   "n_values_dropped": 0,
+   "T_min_K": 911.5895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-10Zho.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
   },
   {
    "path": "assessed/CU-ZR/CuZr-10Zho.CU-ZR-p371.json",
@@ -15130,6 +15293,60 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
   },
   {
+   "path": "assessed/CU-ZR/CuZr-11Gie.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU2ZR",
+    "CU51ZR14",
+    "CU8ZR3",
+    "CU9ZR2_C15B",
+    "CUZR2",
+    "CUZR_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 245,
+   "n_values_dropped": 0,
+   "T_min_K": 898.5895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-11Gie.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
+  },
+  {
    "path": "assessed/CU-ZR/CuZr-11Gie.CU-ZR-p371.json",
    "folder": "assessed",
    "system": "CU-ZR",
@@ -15181,6 +15398,58 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
   },
   {
+   "path": "assessed/CU-ZR/CuZr-17Liu.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU51ZR14",
+    "CU8ZR3",
+    "CUZR2",
+    "CUZR_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 177,
+   "n_values_dropped": 0,
+   "T_min_K": 911.5895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-17Liu.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
+  },
+  {
    "path": "assessed/CU-ZR/CuZr-17Liu.CU-ZR-p371.json",
    "folder": "assessed",
    "system": "CU-ZR",
@@ -15228,6 +15497,58 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
+  },
+  {
+   "path": "assessed/CU-ZR/CuZr-94Zen-LB.CU-ZR-p371.dense.json",
+   "folder": "assessed",
+   "system": "CU-ZR",
+   "components": [
+    "CU",
+    "ZR",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU10ZR7",
+    "CU51ZR14",
+    "CU8ZR3",
+    "CUZR2",
+    "CUZR_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 177,
+   "n_values_dropped": 0,
+   "T_min_K": 911.5895866702043,
+   "T_max_K": 1921.0895866702044,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid",
+    "dense_field_grid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZr-94Zen-LB.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf-dense/CU-ZR-p371.json"
   },
   {
    "path": "assessed/CU-ZR/CuZr-94Zen-LB.CU-ZR-p371.json",

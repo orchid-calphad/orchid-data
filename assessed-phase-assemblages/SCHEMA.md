@@ -73,3 +73,15 @@ same points in the phase names of each assessment (TDB) that has ESPEI ZPF datas
 ## CSV / Parquet columns
 
 `id`, `system`, `diagram`, `field`, `assemblage_label`, `n_phases`, `phase_labels`, `canonical_names`, `phase_ids`, `T_K`, `T_C`, `x`, `x_component`, `P_Pa`, `u_T_K`, `u_x`, `sigma_T_reading_K`, `sigma_x_reading`, `sigma_T_method_K`, `sigma_x_method`, `sigma_T_effective_K`, `sigma_x_effective`, `point_method`, `margin_normalized`, `margin_isotherm_x`, `margin_isopleth_K`, `boundary_basis`, `basis`, `chemical_system`, `paper_id`, `fold_lso`, `fold_lpo`, `confidence`, `review_state`, `flags`, `tie_line_x_left`, `tie_line_phase_left`, `tie_line_x_right`, `tie_line_phase_right`, `tie_line_omitted`, `sgte_n`, `sgte_agrees`, `sgte_disagrees`, `sgte_not_comparable`, `sgte_results`, `original_citation`, `original_doi`, `handbook_page_pdf`, `evidence_class`. Lists are `;`-joined. `sgte_results`: `tdb=result` per assessment.
+
+
+## Dense field grid records (`dense-field-grid/`)
+
+Same fields as above. Differences: `point_method` = `dense_field_grid`; `centroid` null; `id` = `aspa-` + hash of
+(system, diagram, field, grid index >= 1) (the primary record of a field has index 0); `tie_line` null with
+`tie_line_omitted` = `dense_field_grid_point`; `flags` add `dense_field_grid` and `interior_grid`; `phase_id` of a label
+the primary record leaves unmapped may be filled by a documented override (`mapping_basis` starts with `dense_field_grid
+override`); extra block `dense_grid` = `{method_version, primary_record_id, index_in_field, n_points_in_field,
+field_weight_share (1 / n_points_in_field), interior_margin_normalized_min, clearance_normalized, spacing, weight_note}`.
+`x` is rounded to 1e-6 (raster resolution 5e-4). The ESPEI datasets (`espei-zpf-dense/`) carry `orchid.point_method`,
+`orchid.field` and `orchid.field_weight_share` per point and the `dense_field_grid` tag.
